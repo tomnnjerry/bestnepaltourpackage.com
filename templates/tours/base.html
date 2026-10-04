@@ -29,6 +29,10 @@
 </head>
 <body class="{% block body_class %}{% endblock %}" {% block body_attrs %}{% endblock %}>
 <a class="skip" href="#main">Skip to content</a>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs>
+  <linearGradient id="bm-ticket" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1220"/><stop offset="1" stop-color="#2A2F73"/></linearGradient>
+  <linearGradient id="bm-ridge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFB547"/><stop offset="1" stop-color="#E5530F"/></linearGradient>
+</defs></svg>
 
 <div class="util">
   <div class="wrap util__in">
@@ -66,6 +70,7 @@
 
 <footer class="foot dark">
   <div class="ridge ridge--top" aria-hidden="true"></div>
+  <div class="foot__ribbon" aria-hidden="true">{% for r in nav_regions %}<i data-land="{{ r.slug }}"></i>{% endfor %}</div>
   <div class="wrap">
     <div class="foot__head">
       <p class="foot__big">From Chitwan's grassland at 150 m to <i>Kala Patthar at 5,644 m</i></p>
@@ -75,11 +80,25 @@
         <a class="fcard" href="{% url 'contact' %}" data-cta="footer-callback">{% icon "phone" %}<span><b>Request a call back</b><small>{% if tel %}{{ SITE.phone }}{% else %}At a time that suits you{% endif %}</small></span></a>
       </div>
     </div>
-    <form class="news" action="{% url 'subscribe' %}" method="post" data-cta-form="newsletter">
-      {% csrf_token %}<input type="hidden" name="source_page" value="{{ request.path }}"><input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
-      <label for="news-email"><b>Seasonal fares and heli dates</b><span>One email a month. Unsubscribe in one click.</span></label>
-      <div class="news__row"><input id="news-email" type="email" name="email" required placeholder="you@example.com" autocomplete="email"><button class="btn btn--foil" type="submit">Subscribe</button></div>
-    </form>
+    <div class="foot__mid">
+      <div class="foot__brand">
+        <a class="brand brand--light" href="{% url 'home' %}" aria-label="{{ SITE.name }}, home">
+          <svg class="brand__mark" viewBox="0 0 48 40" aria-hidden="true"><path class="brand__ticket" d="M4 4h40v10a4 4 0 0 0 0 8v14H4V22a4 4 0 0 0 0-8z"/><path class="brand__ridge" d="M8 31l9-13 4.5 6 5-8L39 31z"/><path class="brand__snow" d="M14.6 21.6l2.4 1.8 2-1.6M24.6 19.4l1.9 1.5 1.8-1.4"/></svg>
+          <span class="brand__word"><b>Best Nepal</b><i>Tour Package</i></span>
+        </a>
+        <p>Nepal tour packages, helicopter tours, treks, pilgrimages, safaris and Kailash yatras via Nepal. Every price in rupees and dollars, itemised before you pay.</p>
+        <ul class="foot__contact">
+          {% if wa_base %}<li><a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="footer-contact-whatsapp">{% icon "whatsapp" %}<span><small>WhatsApp</small>{{ SITE.phone }}</span></a></li>{% endif %}
+          {% if tel %}<li><a href="tel:{{ tel }}" data-cta="footer-contact-call">{% icon "phone" %}<span><small>Call</small>{{ SITE.phone }}</span></a></li>{% endif %}
+          <li><a href="mailto:{{ SITE.email }}" data-cta="footer-contact-email">{% icon "mail" %}<span><small>Email</small>{{ SITE.email }}</span></a></li>
+        </ul>
+      </div>
+      <form class="news" action="{% url 'subscribe' %}" method="post" data-cta-form="newsletter">
+        {% csrf_token %}<input type="hidden" name="source_page" value="{{ request.path }}"><input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <label for="news-email"><b>Seasonal fares and heli dates</b><span>One email a month. Unsubscribe in one click.</span></label>
+        <div class="news__row"><input id="news-email" type="email" name="email" required placeholder="you@example.com" autocomplete="email"><button class="btn btn--foil" type="submit">Subscribe</button></div>
+      </form>
+    </div>
     <div class="foot__cols">
       <div><h3>Destinations</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" data-land="{{ r.slug }}"><span class="sw"></span>{{ r.name }}</a></li>{% endfor %}</ul></div>
       <div><h3>Packages</h3><ul>{% for t in nav_types %}<li><a href="{{ t.url }}">{{ t.plural }}</a></li>{% endfor %}<li><a href="{% url 'packages' %}">Every package</a></li></ul></div>
@@ -95,7 +114,7 @@
     </div>
     <div class="foot__base">
       <p>© {% now "Y" %} {{ SITE.name }} · {{ SITE.address }}</p>
-      <p><a href="{% url 'photo_credits' %}">Photo credits</a> · <a href="{% url 'html_sitemap' %}">Sitemap</a> · Maps drawn from Natural Earth (public domain) · <a href="#top">Back to top</a></p>
+      <p><a href="{% url 'photo_credits' %}">Photo credits</a> · <a href="{% url 'html_sitemap' %}">Sitemap</a> · Maps drawn from Natural Earth (public domain) · <a class="totop" href="#top">Back to top {% icon "up" %}</a></p>
     </div>
   </div>
 </footer>
@@ -135,7 +154,7 @@
   <details><summary>Destinations</summary><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" data-land="{{ r.slug }}"><span class="sw"></span>{{ r.name }}</a></li>{% endfor %}</ul></details>
   <details><summary>Tour styles</summary><ul>{% for t in nav_themes %}<li><a href="{{ t.url }}">{% icon t.icon %}{{ t.short|default:t.name }}</a></li>{% endfor %}</ul></details>
   <details><summary>Plan your trip</summary><ul><li><a href="{% url 'guides' %}">Travel guides</a></li><li><a href="{% url 'seasons' %}">Best time to visit</a></li><li><a href="{% url 'origins' %}">From India</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'journal' %}">Blog</a></li><li><a href="{% url 'how_we_work' %}">How booking works</a></li><li><a href="{% url 'contact' %}">Contact</a></li></ul></details>
-  <div class="sheet__cta"><a class="btn btn--foil" href="{% url 'plan' %}">Get a free quote</a>{% if wa_base %}<a class="btn btn--line" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener">WhatsApp</a>{% endif %}</div>
+  <div class="sheet__cta"><a class="btn btn--foil" href="{% url 'plan' %}">Get a free quote</a>{% if wa_base %}<a class="btn btn--line" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener">{% icon "whatsapp" %}WhatsApp</a>{% endif %}{% if tel %}<a class="btn btn--line" href="tel:{{ tel }}">{% icon "phone" %}Call {{ SITE.phone }}</a>{% endif %}</div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>

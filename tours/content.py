@@ -37,7 +37,7 @@ LANDS = {
                 "ground": "#0B2244", "accent": "#8FD3FF", "ink": "#145DA0", "tint": "#E4EEF9",
                 "grad": ("#061633", "#0F2F5E", "#1D4E8F"), "foil": ("#FFFFFF", "#A9DEFF", "#5AA6E0")},
     "langtang": {"palette": "Gosaikunda turquoise and Tamang red", "icon": "lake",
-                 "ground": "#0B3437", "accent": "#4FE0C8", "ink": "#0B7B6C", "tint": "#DFF2EF",
+                 "ground": "#0B3437", "accent": "#4FE0C8", "ink": "#09695C", "tint": "#DFF2EF",
                  "grad": ("#04201F", "#0C4043", "#156460"), "foil": ("#D2FFF6", "#4FE0C8", "#16A891")},
     "manaslu": {"palette": "Slate ridge and prayer-flag yellow", "icon": "flags",
                 "ground": "#262A3B", "accent": "#F7D046", "ink": "#806400", "tint": "#ECEDF3",
@@ -49,13 +49,13 @@ LANDS = {
                 "ground": "#4A1838", "accent": "#FFB547", "ink": "#9A5800", "tint": "#F6E7EF",
                 "grad": ("#2C0A21", "#5A1D45", "#84306A"), "foil": ("#FFE6B2", "#FFB547", "#D77F0F")},
     "east-nepal": {"palette": "Ilam tea green and Kanchenjunga dawn", "icon": "tea",
-                   "ground": "#0F3D34", "accent": "#FFB38A", "ink": "#B0501E", "tint": "#E0F0EB",
+                   "ground": "#0F3D34", "accent": "#FFB38A", "ink": "#A0451A", "tint": "#E0F0EB",
                    "grad": ("#06231D", "#104638", "#1B6A54"), "foil": ("#FFE2D2", "#FFB38A", "#E07848")},
     "far-west": {"palette": "Rara sapphire and Karnali jade", "icon": "boat",
                  "ground": "#102A5E", "accent": "#7FE3B0", "ink": "#16784A", "tint": "#E3EAF7",
                  "grad": ("#081A40", "#14347A", "#2452AA"), "foil": ("#D8FFEA", "#7FE3B0", "#2FAF74")},
     "kailash": {"palette": "Mansarovar lapis and pilgrim saffron", "icon": "kailash",
-                "ground": "#1B1A4A", "accent": "#FF9F43", "ink": "#B35A00", "tint": "#E9E8F6",
+                "ground": "#1B1A4A", "accent": "#FF9F43", "ink": "#964B00", "tint": "#E9E8F6",
                 "grad": ("#0D0C2C", "#231F5F", "#3B2F8C"), "foil": ("#FFDDB5", "#FF9F43", "#DB6A0B")},
 }
 
@@ -174,6 +174,10 @@ class Catalogue:
         self.origins = OrderedDict((o["slug"], o) for o in (_read(of) if of.exists() else []))
         img_file = root / "images.json"
         self.images = _read(img_file) if img_file.exists() else {}
+        block_file = root / "image_blocklist.json"  # Commons file titles we never show (portraits, wrong subject)
+        blocked = set(_read(block_file)) if block_file.exists() else set()
+        if blocked:
+            self.images = {k: [r for r in v if r["file"] not in blocked] for k, v in self.images.items()}
         self.regions = OrderedDict()
         self.places = OrderedDict()
         self.experiences = OrderedDict()
@@ -275,6 +279,9 @@ class Catalogue:
             usd = [k.get("price_from_usd") for k in r["packages"] if k.get("price_from_usd")]
             r["price_from_usd"] = min(usd) if usd else None
             r["types"] = [t for t in TYPES if any(k.get("type") == t for k in r["packages"])]
+        for p in self.places.values():  # no photo of its own: borrow a neighbour's, then the region's
+            if not p["images"]:
+                p["images"] = next((n["images"][:3] for n in p["nearby_objs"] if n["images"]), None) or p["region_obj"]["images"][:3]
         for e in self.experiences.values():
             place = self.places[e["place"]]
             e["place_obj"] = place
@@ -298,8 +305,13 @@ class Catalogue:
                 if d["place_obj"] and d["place_obj"] not in day_places:
                     day_places.append(d["place_obj"])
             k["route_places"] = day_places or [s["obj"] for s in stops]
+            # Hero photo: mountain trips lead with their highest stop; other trips skip the arrival city
+            if k.get("type") in ("trek", "heli", "climb", "yatra"):
+                photo_order = sorted(k["route_places"], key=lambda p: -(p.get("altitude_m") or 0))
+            else:
+                photo_order = k["route_places"][1:] + k["route_places"][:1]
             k["images"] = self._imgs(f"pkg:{k['slug']}") or [
-                i for p in (k["route_places"][1:] + k["route_places"][:1]) for i in p["images"][:1]] or k["region_obj"]["images"]
+                i for p in photo_order for i in p["images"][:1]] or k["region_obj"]["images"]
             k["stay_objs"] = [self.stays[s] for s in k.get("stays", []) if s in self.stays]
             k["best_label"] = best_range(k.get("best_months"))
             k["bar"] = month_bar(k.get("best_months"))

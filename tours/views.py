@@ -56,8 +56,13 @@ def img_url(obj):
 
 def org_ld():
     s = settings.SITE
-    return {"@context": "https://schema.org", "@type": "TravelAgency", "name": s["name"], "url": s["url"],
-            "areaServed": ["Nepal", "Tibet"], "address": {"@type": "PostalAddress", "addressLocality": "Kathmandu", "addressCountry": "NP"}}
+    org = {"@context": "https://schema.org", "@type": "TravelAgency", "name": s["name"], "url": s["url"],
+           "areaServed": ["Nepal", "Tibet"], "address": {"@type": "PostalAddress", "addressLocality": "Kathmandu", "addressCountry": "NP"}}
+    if "@" in s.get("email", "") and "[" not in s["email"]:
+        org["email"] = s["email"]
+    if s.get("phone") and "[" not in s["phone"]:
+        org["telephone"] = s["phone"]
+    return org
 
 
 def _get(store, slug):

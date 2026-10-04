@@ -30,7 +30,8 @@ CACHE = ROOT / ".cache" / "commons"
 OUT = CONTENT / "images.json"
 UA = "BestNepalTourPackageBuild/1.0 (https://bestnepaltourpackage.com; image credits)"
 FREE = re.compile(r"^(cc0|public domain|pd|cc by(-sa)? ?\d(\.\d)?( [a-z]+)?|cc by(-sa)?)", re.I)
-SKIP_WORDS = re.compile(r"\b(map|logo|flag|locator|diagram|chart|stamp|coat of arms|seal|banknote|svg)\b", re.I)
+SKIP_WORDS = re.compile(r"\b(map|logo|flag|locator|diagram|chart|stamp|coat of arms|seal|banknote|svg|satellite|nasa|"
+                        r"portrait|selfie|manuscript|municipality)\b|^File:ISS\d", re.I)
 STOP = {"the", "and", "of", "in", "at", "to", "a", "on", "with", "from", "for", "by", "nepal", "tour", "trek",
         "walk", "day", "view", "hotel", "lodge", "resort", "national", "park", "temple", "lake", "base", "camp"}
 WIDTH = 960
@@ -56,6 +57,11 @@ def api(host, params):
     key.write_text(json.dumps(data), encoding="utf-8")
     time.sleep(0.4)
     return data
+
+
+def canon(url):
+    """Canonical Commons media URL: upload.wikimedia.org host, no tracking query string."""
+    return (url or "").split("?")[0].replace("://thumb.wikimedia.org/", "://upload.wikimedia.org/")
 
 
 def plain(s):
@@ -100,11 +106,15 @@ def search_files(query, n=8):
 _info = {}
 
 
+BLOCKED = set(json.loads((CONTENT / "image_blocklist.json").read_text(encoding="utf-8"))) \
+    if (CONTENT / "image_blocklist.json").exists() else set()
+
+
 def _record(pg):
     """Credit record for one Commons file page, or None unless it is a free-licence JPEG photo of 1,000 px or more."""
     title = pg.get("title", "")
     ii = (pg.get("imageinfo") or [None])[0]
-    if not ii or ii.get("mime") != "image/jpeg" or ii.get("width", 0) < 1000:
+    if title in BLOCKED or not ii or ii.get("mime") != "image/jpeg" or ii.get("width", 0) < 1000:
         return None
     meta = ii.get("extmetadata", {})
     lic = plain(meta.get("LicenseShortName", {}).get("value"))
@@ -112,7 +122,7 @@ def _record(pg):
     desc = plain(meta.get("ImageDescription", {}).get("value"))[:300]
     if not FREE.match(lic) or SKIP_WORDS.search(title + " " + desc[:120]):
         return None
-    return {"file": title, "url": ii["url"], "thumb": ii.get("thumburl") or ii["url"], "page": ii.get("descriptionurl"),
+    return {"file": title, "url": canon(ii["url"]), "thumb": canon(ii.get("thumburl") or ii["url"]), "page": ii.get("descriptionurl"),
             "author": author[:120], "license": lic, "width": ii["width"], "height": ii["height"], "description": desc}
 
 

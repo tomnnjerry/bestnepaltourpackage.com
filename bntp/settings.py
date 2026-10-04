@@ -72,9 +72,9 @@ SITE = {
     "short": "BNTP",
     "domain": "bestnepaltourpackage.com",
     "url": "https://bestnepaltourpackage.com",
-    "email": os.environ.get("BNTP_EMAIL", "[YOUR EMAIL]"),
-    "phone": os.environ.get("BNTP_PHONE", "[YOUR PHONE]"),
-    "whatsapp": os.environ.get("BNTP_WHATSAPP", ""),  # digits with country code, e.g. 9779800000000
+    "email": os.environ.get("BNTP_EMAIL", "hello@bestnepaltourpackage.com"),
+    "phone": os.environ.get("BNTP_PHONE", "+91 99546 34102"),
+    "whatsapp": os.environ.get("BNTP_WHATSAPP", "919954634102"),  # digits with country code, e.g. 9779800000000
     "legal_name": "[LEGAL NAME OF THE COMPANY]",
     "address": "[YOUR OFFICE ADDRESS], Kathmandu, Nepal",
     "hours": "[OFFICE HOURS, NEPAL TIME]",

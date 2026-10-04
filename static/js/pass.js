@@ -35,11 +35,12 @@
   if (store.get("cur") === "usd") setCur("usd");
 
   /* masthead shadow, floating CTA, buy bar */
-  var mast = $(".mast"), fab = $("[data-fab]"), buybar = $(".buybar"), buyAfter = $("[data-buybar-after]");
+  var mast = $(".mast"), fab = $("[data-fab]"), buybar = $(".buybar"), buyAfter = $("[data-buybar-after]"), foot = $(".foot");
   function onScroll() {
     var y = window.scrollY;
     if (mast) mast.classList.toggle("is-scrolled", y > 10);
-    if (fab) fab.classList.toggle("is-on", y > 520);
+    /* the footer carries its own quote cards, so the floating button steps aside once it comes into view */
+    if (fab) fab.classList.toggle("is-on", y > 520 && !(foot && foot.getBoundingClientRect().top < window.innerHeight * 0.6));
     if (buybar && buyAfter) {
       var on = buyAfter.getBoundingClientRect().bottom < 0;
       buybar.classList.toggle("is-on", on);
