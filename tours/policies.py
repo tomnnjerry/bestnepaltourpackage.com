@@ -73,7 +73,7 @@ POLICIES["booking-terms"] = {
         ]),
         ("Changes, cancellations and refunds", ["See our refund and cancellation policy and our helicopter and altitude terms, which form part of these terms."]),
         ("Complaints", [
-            "If something is not right, tell us during the trip. If it is not resolved, write to [COMPLAINTS EMAIL] within [30] days of your return and we will reply within [14] days.",
+            "If something is not right, tell us during the trip. If it is not resolved, write to hello@bestnepaltourpackage.com within [30] days of your return and we will reply within [14] days.",
         ]),
         ("Law", ["These terms are governed by the laws of Nepal. Courts in Kathmandu have jurisdiction. [Confirm with your lawyer, including consumer protection rules for clients in India.]"]),
     ],
@@ -97,7 +97,7 @@ POLICIES["payments"] = {
         ]),
         ("Taxes", ["Quotes include Nepal VAT and service charges where they apply, shown on your invoice. [Confirm the treatment of Indian TCS and GST for clients booking from India with your accountant.]"]),
         ("Keeping payments safe", [
-            "Our bank details are only ever sent on a signed PDF invoice from [ACCOUNTS EMAIL]. If you receive bank details from any other address, or a message asking you to pay a different account, call us on [PHONE] before paying.",
+            "Our bank details are only ever sent on a signed PDF invoice from hello@bestnepaltourpackage.com. If you receive bank details from any other address, or a message asking you to pay a different account, call us on +91 99546 34102 before paying.",
         ]),
     ],
 }
@@ -139,7 +139,7 @@ POLICIES["privacy"] = {
         ("How we use it", ["To reply to your enquiry, quote, book and run your trip, look after you while you travel, keep accounting records and, if you subscribed, send our monthly email. We do not build advertising profiles."]),
         ("Who we share it with", ["Only the suppliers providing a service you booked, permit offices, our accountants and payment providers. Kailash and Tibet bookings require sharing passport details with our partner agency in Tibet and Chinese authorities for permits."]),
         ("How long we keep it", ["Enquiries that do not lead to a booking: [24] months. Booking records: as long as Nepal tax law requires, currently [6] years. Newsletter: until you unsubscribe."]),
-        ("Your rights", ["You can ask to see, correct or delete your personal data, or unsubscribe, by writing to [PRIVACY EMAIL]. We reply within [30] days. [Confirm obligations under Nepal's Individual Privacy Act, 2075 and, for Indian clients, India's Digital Personal Data Protection Act.]"]),
+        ("Your rights", ["You can ask to see, correct or delete your personal data, or unsubscribe, by writing to hello@bestnepaltourpackage.com. We reply within [30] days. [Confirm obligations under Nepal's Individual Privacy Act, 2075 and, for Indian clients, India's Digital Personal Data Protection Act.]"]),
         ("This website", ["The site sets a security cookie for its forms and no advertising cookies. It loads fonts from Google Fonts, scripts from cdnjs and unpkg, and photographs from Wikimedia; those services see your IP address when your browser requests their files. Our maps are drawn on our own server, with no map service."]),
     ],
 }
@@ -183,6 +183,6 @@ POLICIES["accessibility"] = {
             ]},
         ]),
         ("Travelling with access needs", ["Many temples, durbar squares and trails have steps and uneven ground. Tell us about mobility, sight, hearing or other needs and we will check hotels, vehicles and sites before you book. Helicopter tours can suit travellers who cannot trek, subject to the operator's boarding rules."]),
-        ("Contact", ["Write to [ACCESSIBILITY EMAIL] or call [PHONE]."]),
+        ("Contact", ["Write to hello@bestnepaltourpackage.com or call +91 99546 34102."]),
     ],
 }

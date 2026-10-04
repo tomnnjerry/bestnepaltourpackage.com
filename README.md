@@ -49,7 +49,7 @@ After adding places, stays or festivals, run `build_images.py` again; it only lo
 | `DJANGO_SECRET_KEY` | Required in production |
 | `DJANGO_DEBUG` | `0` in production (default `1`) |
 | `DJANGO_ALLOWED_HOSTS` | Comma-separated host names |
-| `BNTP_EMAIL`, `BNTP_PHONE`, `BNTP_WHATSAPP` | Contact details shown on the site (WhatsApp: digits with country code) |
+| `BNTP_EMAIL`, `BNTP_PHONE`, `BNTP_WHATSAPP` | Contact details shown on the site (defaults: hello@bestnepaltourpackage.com, +91 99546 34102; WhatsApp: digits with country code) |
 | `BNTP_GA4` | Google Analytics 4 measurement ID (optional) |
 | `BNTP_HASHED_STATIC` | `1` to serve hashed, compressed static files via WhiteNoise |
 | `EMAIL_HOST`, `EMAIL_PORT`, `EMAIL_HOST_USER`, `EMAIL_HOST_PASSWORD`, `EMAIL_USE_TLS` | SMTP for enquiry alerts (optional) |
@@ -73,7 +73,7 @@ Put Nginx or your host's HTTPS proxy in front, forwarding `X-Forwarded-Proto`. W
 Placeholders in `[BRACKETS]` render as they are until you replace them:
 
 - `bntp/settings.py` `SITE`: legal name, office address, office hours and Department of Tourism registration number
-  (email, phone and WhatsApp come from the environment variables above).
+  (email, phone and WhatsApp are set to the defaults above; override with the environment variables).
 - `templates/tours/base.html` footer: TAAN / NATTA membership and accepted payment methods.
 - `tours/policies.py`: every bracketed value (deposit %, cancellation scale, refund days, review date);
   have the policies checked by a lawyer.
