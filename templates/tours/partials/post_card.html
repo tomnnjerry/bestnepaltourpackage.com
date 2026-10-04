@@ -1,0 +1,6 @@
+{% load tours %}<a class="gcard" href="{{ d.url }}"{% if d.land %} data-land="{{ d.land }}"{% endif %}>
+  {% photo d|first_img d.title "" "(max-width: 760px) 100vw, 33vw" False False %}
+  <span class="gcard__cat">{% if d.category %}{{ d.category|capfirst }} · {% endif %}{% if d.date_obj %}<time datetime="{{ d.date }}">{{ d.date_obj|date:"j M Y" }}</time> · {% endif %}{{ d.read_min }} min read</span>
+  <b>{{ d.title }}</b>
+  <small>{{ d.summary|truncatewords:22 }}</small>
+</a>

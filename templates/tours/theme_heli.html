@@ -1,0 +1,100 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Helicopter Tours in Nepal{% if t.price_from_inr %} from {{ t.price_from_inr|inr }}{% endif %}: Everest, Annapurna, Muktinath{% endblock %}
+{% block meta_description %}{{ t.meta_description|default:t.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ t.name }}{% endblock %}
+{% block og_image %}{% with i=t|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_class %}page-heli{% endblock %}
+{% block fab_label %}Check heli dates{% endblock %}
+{% block main %}
+<header class="phead">
+  <div class="phead__bg">{% photo t|first_img t.name "" "100vw" True True %}</div>
+  <div class="wrap"><div class="phead__in">
+    <span class="stamp stamp--big" data-type="heli">{% icon "heli" %}<b>Heli tour</b></span>
+    <p class="kicker"><a href="{% url 'themes' %}">{% icon "heli" %}Tour styles</a></p>
+    <h1>{{ t.name }}</h1>
+    <p class="phead__lede">{{ t.tagline }}</p>
+    <ul class="phead__facts">
+      {% if packages %}<li>{% icon "ticket" %}{{ packages|length }} heli tour{{ packages|length|pluralize }}</li>{% endif %}
+      {% if t.price_from_inr %}<li>{% icon "coin" %}<span data-inr="From {{ t.price_from_inr|inr }}" data-usd="From {{ packages.0.price_from_usd|usd }}">From {{ t.price_from_inr|inr }}</span></li>{% endif %}
+      <li>{% icon "sun" %}Morning departures</li>
+    </ul>
+  </div></div>
+  <div class="phead__icon" aria-hidden="true">{% icon "heli" %}</div>
+  <div class="ridge--bottom" aria-hidden="true"></div>
+</header>
+
+<section class="sec--tight" aria-labelledby="h-board"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "heli" %}Boarding passes</p><h2 class="h2" id="h-board">Every heli tour, lowest price first</h2><p>Prices are per seat on a shared flight unless the package says charter. Every tour can also be booked as a private charter.</p></div><a class="textlink" href="{% url 'packages' %}?type=heli&amp;sort=price">Filter and compare{% icon "arrow" %}</a></div>
+  {% if packages %}<div class="bpasses" data-stagger>{% for k in packages %}{% include "tours/partials/bpass.html" %}{% endfor %}</div>
+  {% else %}<div class="empty"><h3 class="h3">Heli tours are quoted to order</h3><p>Tell us the route, the date and how many people are flying and we quote a shared seat and a private charter.</p><a class="btn btn--foil" href="{% url 'plan' %}?type=heli&amp;from={{ request.path|urlencode }}" data-cta="heli-empty-quote">Ask for a heli quote{% icon "arrow" %}</a></div>{% endif %}
+</div></section>
+
+<div class="wrap sec--tight">
+  <div class="split">
+    <article class="prose">
+      {% include "tours/partials/brief.html" with text=t.summary %}
+      {% for para in t.intro %}<p>{{ para }}</p>{% endfor %}
+      {% if t.how_to_choose %}<h2 class="h2">How to choose a heli tour</h2>
+      <ul class="hl">{% for h in t.how_to_choose %}<li><b>{{ h.title }}</b><p>{{ h.text }}</p></li>{% endfor %}</ul>{% endif %}
+    </article>
+    <aside class="aside">
+      <div class="panel panel--dark">
+        <p class="kicker">{% icon "users" %}Shared seat or charter</p>
+        <p class="h3" style="color:#fff">We quote both</p>
+        <ul class="ticks" style="font-size:.92rem">
+          <li>{% icon "check" %}<span>Shared seat: the lowest price, a fixed morning slot with other passengers</span></li>
+          <li>{% icon "check" %}<span>Private charter: your own timing, landing plan and time at temples</span></li>
+          <li>{% icon "check" %}<span>Spare day advised in case the morning is cloudy</span></li>
+        </ul>
+      </div>
+      {% include "tours/partials/quick_form.html" with heading="Check heli dates" trip_type="heli" where="heli-aside" button="Send my heli quote" %}
+    </aside>
+  </div>
+</div>
+
+<section class="sec dark" aria-labelledby="h-rules">
+  <div class="ridge ridge--top" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "shield" %}Before you fly</p><h2 class="h2" id="h-rules">Four rules every heli tour follows</h2><p>Mountain helicopters work to the weather, the thin air and your health. Knowing the rules before you book saves disappointment on the day.</p></div><a class="textlink" href="{% url 'policy' 'helicopter-and-altitude' %}">Our heli and altitude terms{% icon "arrow" %}</a></div>
+    <ol class="steps">
+      <li style="background:rgba(255,255,255,.06);box-shadow:none"><b style="color:#fff">Weather decides</b><p style="color:#C9D1DE">Flights leave early, usually soon after sunrise, because cloud tends to build over the high valleys by late morning. The pilot can delay, divert or cancel at any point for safety. In spring and autumn most mornings fly; in the monsoon many do not. Keep a spare day in Kathmandu or Pokhara.</p></li>
+      <li style="background:rgba(255,255,255,.06);box-shadow:none"><b style="color:#fff">Payload drops with height</b><p style="color:#C9D1DE">Thin air means less lift. A helicopter that takes five passengers out of Kathmandu may carry only two or three at a landing above 5,000 m, so groups land in two lifts or shuttle to a lower point. We ask each passenger's weight when we book, and bags are kept small.</p></li>
+      <li style="background:rgba(255,255,255,.06);box-shadow:none"><b style="color:#fff">10–15 minutes up high</b><p style="color:#C9D1DE">You fly from about 1,400 m to over 5,000 m in under an hour, without time to acclimatise. Landings at Kala Patthar or near Everest Base Camp are usually kept to 10–15 minutes. Longer stops, such as breakfast at Hotel Everest View (3,880 m), happen lower down.</p></li>
+      <li style="background:rgba(255,255,255,.06);box-shadow:none"><b style="color:#fff">Who should not fly high</b><p style="color:#C9D1DE">Skip high landings if you have a heart or lung condition, uncontrolled blood pressure or a recent operation, or if you are pregnant. Babies and very young children are better kept to lower landings. Ask your doctor first; we can plan a lower route or a flight that does not land.</p></li>
+    </ol>
+    <p class="notice" style="margin-top:28px;color:var(--ink)">{% icon "info" %}<span>Landing rules, permits and operator policies change, especially inside national parks. Check current status before you travel; we confirm the rules for your date in the written quote.</span></p>
+  </div>
+</section>
+
+{% if packages %}<section class="sec" aria-labelledby="h-compare"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "route" %}Compare</p><h2 class="h2" id="h-compare">Heli tours side by side</h2></div></div>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th scope="col">Tour</th><th scope="col">Starts</th><th scope="col">Highest point</th><th scope="col">Length</th><th scope="col">Best months</th><th scope="col">From, per person</th></tr></thead>
+    <tbody>{% for k in packages %}<tr data-land="{{ k.region }}">
+      <td><a href="{{ k.url }}"><b>{{ k.title }}</b></a><br><small class="muted">{{ k.region_obj.name }}</small></td>
+      <td>{{ k.start|split_first:" " }}</td>
+      <td>{{ k.max_altitude_m|thousands }} m</td>
+      <td>{{ k|days_label }}</td>
+      <td>{{ k.best_label|default:"Ask us" }}</td>
+      <td><b class="num" data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</b></td>
+    </tr>{% endfor %}</tbody>
+  </table></div>
+</div></section>{% endif %}
+
+{% if region_pages %}<section class="sec--tight" aria-labelledby="h-reg"><div class="wrap">
+  <h2 class="h3" id="h-reg">Heli tours by region</h2>
+  <ul class="chips">{% for r in region_pages %}<li><a class="chip chip--land" data-land="{{ r.slug }}" href="{% url 'region_theme' r.slug t.slug %}">{% icon r.icon %}Heli tours in {{ r.short|default:r.name }}</a></li>{% endfor %}</ul>
+</div></section>{% endif %}
+
+{% if places %}<section class="sec sec--tint" aria-labelledby="h-places"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "pin" %}Landings</p><h2 class="h2" id="h-places">Where the helicopters go</h2></div></div>
+  <div class="grid grid--4" data-stagger>{% for p in places|slice:":12" %}{% include "tours/partials/place_card.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if experiences %}<section class="sec" aria-labelledby="h-exp"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "sparkle" %}On the ground</p><h2 class="h2" id="h-exp">Things to do at the landing places</h2></div><a class="textlink" href="{% url 'experiences' %}">All things to do{% icon "arrow" %}</a></div>
+  <div class="grid grid--3" data-stagger>{% for e in experiences|slice:":6" %}{% include "tours/partials/exp_card.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+<div class="wrap">{% include "tours/partials/faqs.html" with faqs=t.faqs faq_title="Questions about heli tours" %}</div>
+{% endblock %}

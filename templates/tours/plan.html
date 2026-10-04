@@ -1,0 +1,116 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Get a Free Nepal Trip Quote{% endblock %}
+{% block meta_description %}Tell us where, when and who is travelling. We send a free written quote with every hotel, flight and permit itemised in INR or USD, usually within one working day.{% endblock %}
+{% block og_title %}Get a free Nepal trip quote{% endblock %}
+{% block body_class %}page-plan{% endblock %}
+{% block extra_head %}<style>
+.form fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+.form legend { padding: 0; font-weight: 700; font-size: .92rem; margin-bottom: 8px; }
+.form .step > legend { font: 800 1.55rem/1 var(--display); margin-bottom: 18px; }
+.form .step { display: grid; gap: 18px; }
+.form small.hint { display: block; color: var(--muted); font-size: .84rem; margin-top: 4px; }
+.wizard__nav { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; margin-top: 6px; }
+.wizard__nav > :only-child { margin-left: auto; }
+html:not(.js) [data-next], html:not(.js) [data-prev], .form:not([data-wizard]) [data-next], .form:not([data-wizard]) [data-prev] { display: none; }
+</style>{% endblock %}
+{% block cta_band %}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "ticket" %}Free quote</p><h1>Plan your Nepal trip</h1><p class="phead__lede">Three short steps. We reply with a day-by-day plan and an itemised price in rupees or dollars, usually within one working day. Nothing to pay to ask.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "ticket" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight"><div class="split">
+<div>
+<form class="form panel wizard" action="{% url 'plan' %}" method="post" data-cta-form="planner"{% if not form.errors %} data-wizard{% endif %} aria-label="Trip planner">
+  {% csrf_token %}
+  {{ form.source_page }}{{ form.kind }}{{ form.package }}
+  <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+  {% if form.errors %}<div class="notice" role="alert">{% icon "info" %}<div><b>Please check the details below.</b>{% if form.non_field_errors %}{{ form.non_field_errors }}{% else %}<p style="margin:4px 0 0">Fields that need a change are marked.</p>{% endif %}</div></div>
+  {% else %}<div class="wizard__steps" aria-hidden="true"><span class="is-on">1 · Your trip</span><span>2 · Dates and group</span><span>3 · Your details</span></div>
+  <div class="wizard__bar" aria-hidden="true"><span></span></div>{% endif %}
+
+  <fieldset class="step">
+    <legend>Step 1 of 3 · Your trip</legend>
+    {% if form.package.value %}<p class="notice" style="margin:0">{% icon "ticket" %}<span>Quote for <b>{{ form.package.value }}</b>. Change anything below or in the last step.</span></p>{% endif %}
+    <fieldset>
+      <legend>What kind of trip <span class="muted" style="font-weight:400">(optional)</span></legend>
+      <div class="opts">{% for radio in form.trip_type %}<label for="{{ radio.id_for_label }}">{{ radio.tag }}{{ radio.choice_label }}</label>{% endfor %}</div>
+      {{ form.trip_type.errors }}
+    </fieldset>
+    <fieldset>
+      <legend>Where in Nepal <span class="muted" style="font-weight:400">(pick any, or none if you want ideas)</span></legend>
+      <div class="opts">{% for box in form.regions %}<label for="{{ box.id_for_label }}" data-land="{{ box.data.value }}">{{ box.tag }}<span class="sw" aria-hidden="true"></span>{{ box.choice_label }}</label>{% endfor %}</div>
+      {{ form.regions.errors }}
+    </fieldset>
+    <div class="wizard__nav"><button class="btn btn--ink" type="button" data-next>Next: dates and group{% icon "arrow" %}</button></div>
+  </fieldset>
+
+  <fieldset class="step">
+    <legend>Step 2 of 3 · Dates and group</legend>
+    <div class="form__row">
+      <div><label for="{{ form.month.id_for_label }}">Month</label>{{ form.month }}{{ form.month.errors }}</div>
+      <div><label for="{{ form.days.auto_id }}">Days, roughly</label><input type="number" name="days" id="{{ form.days.auto_id }}" inputmode="numeric" placeholder="e.g. 7" value="{{ form.days.value|default_if_none:'' }}"{% if form.days.errors %} aria-invalid="true" aria-describedby="{{ form.days.auto_id }}_error"{% endif %}>{{ form.days.errors }}</div>
+    </div>
+    <div class="form__row">
+      <div><label for="{{ form.adults.auto_id }}">Adults</label><input type="number" name="adults" id="{{ form.adults.auto_id }}" min="1" inputmode="numeric" required value="{{ form.adults.value|default_if_none:'2' }}"{% if form.adults.errors %} aria-invalid="true" aria-describedby="{{ form.adults.auto_id }}_error"{% endif %}>{{ form.adults.errors }}</div>
+      <div><label for="{{ form.children.auto_id }}">Children under 12</label><input type="number" name="children" id="{{ form.children.auto_id }}" inputmode="numeric" placeholder="0" value="{{ form.children.value|default_if_none:'' }}"{% if form.children.errors %} aria-invalid="true" aria-describedby="{{ form.children.auto_id }}_error"{% endif %}>{{ form.children.errors }}</div>
+    </div>
+    <div class="form__row">
+      <div><label for="{{ form.hotel_class.id_for_label }}">Hotel class</label>{{ form.hotel_class }}{{ form.hotel_class.errors }}</div>
+      <div><label for="{{ form.budget.id_for_label }}">Budget per person</label>{{ form.budget }}{{ form.budget.errors }}<small class="hint">Excluding international flights. It helps us pick hotels and transport.</small></div>
+    </div>
+    <div><label for="{{ form.from_city.id_for_label }}">Travelling from</label><input type="text" name="from_city" id="{{ form.from_city.auto_id }}" maxlength="80" autocomplete="address-level2" placeholder="City, e.g. Delhi, Lucknow or London" value="{{ form.from_city.value|default_if_none:'' }}"{% if form.from_city.errors %} aria-invalid="true" aria-describedby="{{ form.from_city.auto_id }}_error"{% endif %}>{{ form.from_city.errors }}<small class="hint">We add flights or the road route via the border if you want them.</small></div>
+    <div class="wizard__nav"><button class="btn btn--line" type="button" data-prev>Back</button><button class="btn btn--ink" type="button" data-next>Next: your details{% icon "arrow" %}</button></div>
+  </fieldset>
+
+  <fieldset class="step">
+    <legend>Step 3 of 3 · Your details</legend>
+    <div><label for="{{ form.name.id_for_label }}">Name</label>{{ form.name }}{{ form.name.errors }}</div>
+    <div class="form__row">
+      <div><label for="{{ form.phone.id_for_label }}">Phone or WhatsApp</label><input type="tel" name="phone" id="{{ form.phone.auto_id }}" maxlength="40" inputmode="tel" autocomplete="tel" placeholder="+91 or +977" value="{{ form.phone.value|default_if_none:'' }}"{% if form.phone.errors %} aria-invalid="true" aria-describedby="{{ form.phone.auto_id }}_error"{% endif %}>{{ form.phone.errors }}</div>
+      <div><label for="{{ form.email.id_for_label }}">Email</label><input type="email" name="email" id="{{ form.email.auto_id }}" maxlength="254" autocomplete="email" placeholder="you@example.com" value="{{ form.email.value|default_if_none:'' }}"{% if form.email.errors %} aria-invalid="true" aria-describedby="{{ form.email.auto_id }}_error"{% endif %}>{{ form.email.errors }}</div>
+    </div>
+    <p class="muted" style="margin:-8px 0 0;font-size:.88rem">Phone or email is enough. We need one of them to send your quote.</p>
+    <fieldset>
+      <legend>Best way to reach you</legend>
+      <div class="opts">{% for radio in form.contact_pref %}<label for="{{ radio.id_for_label }}">{{ radio.tag }}{{ radio.choice_label }}</label>{% endfor %}</div>
+      {{ form.contact_pref.errors }}
+    </fieldset>
+    <div><label for="{{ form.message.id_for_label }}">Anything else</label>{{ form.message }}{{ form.message.errors }}</div>
+    <div class="wizard__nav"><button class="btn btn--line" type="button" data-prev>Back</button><button class="btn btn--foil" type="submit">Send my quote request{% icon "arrow" %}</button></div>
+    <p class="muted" style="margin:0;font-size:.84rem">No payment, no spam. We use your details only to quote and plan this trip. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p>
+  </fieldset>
+</form>
+</div>
+
+<aside class="aside">
+  <div class="panel panel--dark">
+    <p class="kicker">{% icon "shield" %}What happens next</p>
+    <ol style="margin:0 0 14px;padding-left:1.2em;display:grid;gap:8px;color:#E3E8F0;font-size:.95rem">
+      <li>We read your request and may ask one or two questions</li>
+      <li>You get a written quote with every hotel, flight and permit itemised, usually within one working day</li>
+      <li>Change anything; we re-quote at no charge</li>
+      <li>Pay a deposit only when you decide to book</li>
+    </ol>
+    <a href="{% url 'how_we_work' %}">How booking works</a>
+  </div>
+  <div class="panel">
+    <h2 class="h3">Rather talk it through</h2>
+    <ul class="mlinks">
+      {% if wa_base %}<li><a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="plan-whatsapp">{% icon "whatsapp" %}WhatsApp us</a></li>{% endif %}
+      {% if tel %}<li><a href="tel:{{ tel }}" data-cta="plan-call">{% icon "phone" %}Call {{ SITE.phone }}</a></li>{% endif %}
+      <li><a href="{% url 'contact' %}#callback" data-cta="plan-callback">{% icon "phone" %}Request a call back</a></li>
+      <li><a href="mailto:{{ SITE.email }}" data-cta="plan-email">{% icon "mail" %}{{ SITE.email }}</a></li>
+    </ul>
+  </div>
+  <div class="panel">
+    <h2 class="h3">Good to know</h2>
+    <ul class="ticks" style="font-size:.92rem">
+      <li>{% icon "check" %}<span>Prices on the site are indicative, per person, twin sharing</span></li>
+      <li>{% icon "check" %}<span>Indian citizens need no visa for Nepal; Kailash yatras need a passport</span></li>
+      <li>{% icon "check" %}<span>Treks, heli tours, climbs and Kailash need insurance with helicopter evacuation cover</span></li>
+    </ul>
+    <a class="mlinks__more" href="{% url 'faq' %}">Read the FAQ{% icon "arrow" %}</a>
+  </div>
+</aside>
+</div></div>
+{% endblock %}

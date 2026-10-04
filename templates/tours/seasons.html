@@ -1,0 +1,70 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Best Time to Visit Nepal: Month by Month, Region by Region{% endblock %}
+{% block meta_description %}The best time to visit Nepal for each region and month: autumn and spring for treks and heli tours, winter for Chitwan and Lumbini, monsoon for Mustang and Kailash.{% endblock %}
+{% block extra_head %}<style>.almanac td.is-now{box-shadow:inset 0 0 0 2px var(--summit-ink)}.almanac tbody th a{color:var(--ink);text-decoration:none}.almanac tbody th a:hover{color:var(--ink-l)}.mkey{display:flex;flex-wrap:wrap;gap:16px;list-style:none;padding:0;margin:12px 0 0;font-size:.86rem;color:var(--muted)}.mkey i{display:inline-block;width:22px;height:14px;border-radius:4px;margin-right:6px;vertical-align:-2px;background:var(--paper-2)}.mkey i[data-v="1"]{background:color-mix(in srgb,var(--accent) 40%,var(--card))}.mkey i[data-v="2"]{background:var(--grad)}</style>{% endblock %}
+{% block main %}
+{% with cur=months|at:now %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in">
+  <p class="kicker">{% icon "calendar" %}Best time to visit</p>
+  <h1>Best time to visit Nepal</h1>
+  <p class="phead__lede">October, November, March and April are the clearest months for the mountains. But Chitwan and Lumbini are at their best in winter, and Upper Mustang and Kailash in the monsoon. Here is every region, month by month.</p>
+  <ul class="phead__facts"><li>{% icon "calendar" %}This month: {{ cur }}</li></ul>
+</div></div><div class="phead__icon" aria-hidden="true">{% icon "sun" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight" aria-labelledby="h-grid"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "map" %}Region by month</p><h2 class="h2" id="h-grid">The whole year on one grid</h2><p>Each square links to our notes for that region in that month: weather, where to go, festivals and the packages that work. {{ cur }} is outlined.</p></div><a class="textlink" href="{% url 'tool_season' %}">Season finder{% icon "arrow" %}</a></div>
+  {% if regions %}<div class="tbl-wrap"><table class="almanac">
+    <caption class="sr">Best months to visit each region of Nepal</caption>
+    <thead><tr><th scope="col"><span class="sr">Region</span></th>{% for m in months_short %}<th scope="col"{% if forloop.counter0 == now %} class="is-now" aria-current="date"{% endif %}><abbr title="{{ months|at:forloop.counter0 }}" style="text-decoration:none">{{ m }}</abbr></th>{% endfor %}</tr></thead>
+    <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row"><a href="{{ r.url }}">{{ r.name }}</a></th>{% for b in r.bar %}<td data-v="{{ b.v }}"{% if forloop.counter0 == now %} class="is-now"{% endif %}><a href="{% url 'region_month' r.slug b.full|lower %}" title="{{ r.name }} in {{ b.full }}: {% if b.v == 2 %}best{% elif b.v == 1 %}good{% else %}off season{% endif %}"><span class="sr">{{ r.name }} in {{ b.full }}: {% if b.v == 2 %}best{% elif b.v == 1 %}good{% else %}off season{% endif %}</span></a></td>{% endfor %}</tr>{% endfor %}</tbody>
+  </table></div>
+  <ul class="mkey"><li><i data-v="2"></i>Best</li><li><i data-v="1"></i>Good</li><li><i data-v="0"></i>Off season or closed</li></ul>
+  {% else %}<div class="empty"><h3 class="h3">Region notes are on their way</h3><p>Ask us about any month and we tell you where is good.</p></div>{% endif %}
+</div></section>
+
+{% if regions %}<section class="sec dark" aria-labelledby="h-now">
+  <div class="ridge ridge--top" aria-hidden="true"></div>
+  <div class="wrap season">
+    <div>
+      <p class="kicker">{% icon "calendar" %}Right now</p>
+      <p class="season__month">{{ cur }}</p>
+      <h2 class="h3" id="h-now">Where is good in Nepal in {{ cur }}</h2>
+      <p class="lede">Regions at their best this month come first. Off-season regions can still work for the right trip; ask us.</p>
+    </div>
+    <div>
+      <h3 class="h3" style="font-size:1.2rem;color:#fff">At their best</h3>
+      <ul class="chips">{% for r in regions %}{% with b=r.bar|at:now %}{% if b.v == 2 %}<li><a class="chip chip--land" data-land="{{ r.slug }}" href="{% url 'region_month' r.slug cur|lower %}">{% icon r.icon %}{{ r.name }}</a></li>{% endif %}{% endwith %}{% endfor %}</ul>
+      <h3 class="h3" style="font-size:1.2rem;color:#fff;margin-top:22px">Good</h3>
+      <ul class="chips">{% for r in regions %}{% with b=r.bar|at:now %}{% if b.v == 1 %}<li><a class="chip chip--land" data-land="{{ r.slug }}" href="{% url 'region_month' r.slug cur|lower %}">{% icon r.icon %}{{ r.name }}</a></li>{% endif %}{% endwith %}{% endfor %}</ul>
+      <p style="margin-top:22px"><a class="btn btn--line" href="{% url 'packages' %}?month={{ cur|lower }}">Packages that work in {{ cur }}</a></p>
+    </div>
+  </div>
+</section>{% endif %}
+
+<section class="sec" aria-labelledby="h-seasons"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "sun" %}Four seasons</p><h2 class="h2" id="h-seasons">Nepal's seasons in brief</h2></div></div>
+  <div class="grid grid--4">
+    <div class="panel"><p class="kicker">{% icon "sun" %}Oct – Nov</p><h3 class="h3">Autumn</h3><p>Dry after the monsoon, with the clearest mountain views of the year. Peak season for treks and heli tours, and the time of Dashain and Tihar. Book lodges, flights and helicopters early.</p></div>
+    <div class="panel"><p class="kicker">{% icon "rhododendron" %}Mar – May</p><h3 class="h3">Spring</h3><p>Warmer days and rhododendrons in flower on the Annapurna and Langtang trails. The second trekking season; haze builds in the lowlands by May. Hot in Chitwan and Lumbini.</p></div>
+    <div class="panel"><p class="kicker">{% icon "snow" %}Dec – Feb</p><h3 class="h3">Winter</h3><p>Cold nights above 3,000 m and snow on the high passes, but clear, quiet trails lower down. A good time for Kathmandu, Pokhara, Chitwan and Lumbini, and for short treks such as Poon Hill.</p></div>
+    <div class="panel"><p class="kicker">{% icon "rain" %}Jun – Sep</p><h3 class="h3">Monsoon</h3><p>Rain most afternoons, cloud on the peaks, leeches in the forests and flight delays to Lukla. Upper Mustang and Dolpo lie in the rain shadow, and the Kailash yatra season runs through these months.</p></div>
+  </div>
+</div></section>
+
+{% if regions %}<section class="sec sec--tint" aria-labelledby="h-months"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "calendar" %}Month by month</p><h2 class="h2" id="h-months">Where to go in each month</h2></div></div>
+  <div class="grid grid--3">{% for m in months %}{% with i=forloop.counter0 %}<div class="panel" id="{{ m|lower }}"{% if i == now %} style="box-shadow:0 0 0 2px var(--summit-ink),var(--shadow)"{% endif %}>
+    <h3 class="h3">{{ m }}{% if i == now %} <span class="alt-pill">This month</span>{% endif %}</h3>
+    <ul class="mlinks">{% for r in regions %}{% with b=r.bar|at:i %}{% if b.v == 2 %}<li><a href="{% url 'region_month' r.slug m|lower %}" data-land="{{ r.slug }}"><span class="sw"></span>{{ r.name }} · best</a></li>{% endif %}{% endwith %}{% endfor %}{% for r in regions %}{% with b=r.bar|at:i %}{% if b.v == 1 %}<li><a href="{% url 'region_month' r.slug m|lower %}" data-land="{{ r.slug }}"><span class="sw"></span>{{ r.name }} · good</a></li>{% endif %}{% endwith %}{% endfor %}</ul>
+    <a class="mlinks__more" href="{% url 'packages' %}?month={{ m|lower }}">Packages for {{ m }}{% icon "arrow" %}</a>
+  </div>{% endwith %}{% endfor %}</div>
+</div></section>{% endif %}
+
+<section class="sec--tight"><div class="wrap">
+  <div class="grid grid--2" style="align-items:center">
+    <div><h2 class="h2">Travelling around a festival</h2><p class="lede">Dashain, Tihar, Holi, Buddha Jayanti and the mask dances follow the lunar calendar, so their dates move each year. Our festival calendar lists them month by month.</p></div>
+    <p><a class="btn btn--line" href="{% url 'festivals' %}">{% icon "lamp" %}Festival calendar</a> <a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="seasons-quote">Ask what suits your dates{% icon "arrow" %}</a></p>
+  </div>
+</div></section>
+{% endwith %}
+{% endblock %}

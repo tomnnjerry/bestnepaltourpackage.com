@@ -1,0 +1,219 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Trip Budget Calculator in INR and USD{% endblock %}
+{% block meta_description %}Estimate an indicative per-person cost for a Nepal trip in rupees and dollars: days, travellers, hotel class, car, guide and porter, domestic flights, heli and permits.{% endblock %}
+{% block og_title %}Nepal trip budget calculator{% endblock %}
+{% block og_description %}An indicative per-person cost for a Nepal trip in INR and USD.{% endblock %}
+{% block fab_label %}Get an exact price{% endblock %}
+{% block extra_head %}<style>
+.calc__set { border: 0; margin: 0 0 20px; min-width: 0; }
+.calc__set legend { float: left; width: 100%; padding: 0; margin: 0 0 16px; font: 800 1.5rem/1 var(--display); text-transform: uppercase; }
+.calc__set legend + * { clear: both; }
+.calc__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.calc__grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.calc__grid .field--wide { grid-column: span 2; }
+.calc__hint { display: flex; gap: 10px; margin: 16px 0 0; padding: 12px 14px; border-radius: 12px; background: var(--tint); color: var(--ink-2); font-size: .92rem; }
+.calc__hint .icon { width: 20px; height: 20px; color: var(--ink-l); margin-top: 2px; }
+.calc__hint:empty { display: none; }
+.calc__adds { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.calc__adds label { display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 12px 14px; border-radius: 12px; border: 1.5px dashed var(--line-2); cursor: pointer; font-weight: 600; }
+.calc__adds label:has(input:checked) { border-style: solid; border-color: var(--ink); background: var(--paper); }
+.calc__adds label:has(input:disabled) { opacity: .55; cursor: not-allowed; }
+.calc__adds input { width: 20px; height: 20px; margin: 0; accent-color: var(--night); }
+.calc__adds small { display: block; font-weight: 400; color: var(--muted); font-size: .84rem; }
+.calc__adds b { font: 800 1.1rem/1.1 var(--display); white-space: nowrap; text-align: right; }
+.calc__adds b span { display: block; font: 600 .76rem var(--text); color: var(--muted); }
+.calc__out .kicker { margin-bottom: 10px; }
+.calc__pp { margin: 0; font: 900 clamp(2rem, 3.4vw, 2.6rem)/1 var(--display); }
+.calc__ppusd { margin: 6px 0 14px; color: #C9D1DE; font-weight: 600; }
+.calc__total { margin: 0; padding-top: 12px; border-top: 1px solid rgba(255, 255, 255, .18); font-size: .95rem; color: #C9D1DE; }
+.calc__total b { color: #fff; }
+.calc__tbl { width: 100%; border-collapse: collapse; font-size: .9rem; margin: 14px 0 18px; }
+.calc__tbl td { padding: 8px 0; border-bottom: 1px dashed rgba(255, 255, 255, .18); color: #C9D1DE; }
+.calc__tbl td + td { text-align: right; font-weight: 700; color: #fff; white-space: nowrap; padding-left: 12px; }
+.calc__small { margin: 14px 0 0; font-size: .8rem; color: #AEB8C8; }
+@media (max-width: 760px) { .calc__grid, .calc__grid--2 { grid-template-columns: 1fr 1fr; } .calc__grid .field--wide { grid-column: 1 / -1; } }
+</style>{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "coin" %}Trip tools</p><h1>Budget calculator</h1><p class="phead__lede">An indicative per-person cost for a Nepal trip in rupees and dollars. Change the days, group, hotels and add-ons and the estimate updates as you go.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "coin" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <form class="calc" data-calc data-rate="{{ SITE.usd_rate|default:84 }}" action="{% url 'plan' %}" method="get" aria-label="Budget calculator">
+    <input type="hidden" name="from" value="budget-calculator">
+    <div class="split">
+      <div>
+        <fieldset class="panel calc__set">
+          <legend>Who and where</legend>
+          <div class="calc__grid">
+            <label class="field field--wide"><span>Region</span><select name="region" data-calc-region><option value="">Not sure yet, or several regions</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+            <label class="field"><span>Passport</span><select name="nat" data-calc-nat><option value="saarc">Indian or SAARC</option><option value="other">Other nationality</option></select></label>
+            <label class="field"><span>Days</span><input type="number" name="days" value="7" min="1" max="30" inputmode="numeric" required></label>
+            <label class="field"><span>Adults</span><input type="number" name="adults" value="2" min="1" max="20" inputmode="numeric" required></label>
+            <label class="field"><span>Children under 12</span><input type="number" name="kids" value="0" min="0" max="10" inputmode="numeric"></label>
+          </div>
+          <p class="calc__hint" data-calc-hint></p>
+        </fieldset>
+
+        <fieldset class="panel calc__set">
+          <legend>Hotels, transport and guide</legend>
+          <div class="calc__grid calc__grid--2">
+            <label class="field field--wide"><span>Hotel class, per room per night</span><select name="hotel">
+              <option value="1800">Guesthouse or teahouse (₹1,200–2,500)</option>
+              <option value="4500" selected>3-star (₹3,500–6,000)</option>
+              <option value="9000">4-star (₹7,000–11,000)</option>
+              <option value="17000">5-star (₹14,000–22,000)</option>
+            </select></label>
+            <label class="field"><span>Transport, per day</span><select name="transport">
+              <option value="0">None: walking and flights only</option>
+              <option value="1500">Tourist bus and taxis (about ₹1,500)</option>
+              <option value="5500" selected>Private car and driver (₹4,500–6,500)</option>
+              <option value="8500">Jeep or SUV for hill roads (₹7,000–10,000)</option>
+              <option value="10000">Van for six or more (₹9,000–11,000)</option>
+            </select></label>
+            <label class="field"><span>Guide, per day</span><select name="guide">
+              <option value="0" selected>No guide</option>
+              <option value="2500">City guide (about US$30)</option>
+              <option value="2750">Licensed trekking guide (US$30–35)</option>
+              <option value="4650">Guide and one porter (porter US$20–25)</option>
+              <option value="6550">Guide and two porters</option>
+            </select></label>
+          </div>
+          <p class="muted" style="margin:14px 0 0;font-size:.88rem">Rooms are counted as one for every two adults. Meals are added at about ₹1,400 per person per day; on high trails food costs more the higher you go.</p>
+        </fieldset>
+
+        <fieldset class="panel calc__set">
+          <legend>Add-ons, per person</legend>
+          <ul class="calc__adds">
+            <li><label><input type="checkbox" name="flight" value="20160" data-add="flight"><span><span data-add-label>Kathmandu–Pokhara flights, return</span><small>Foreign-national fare. Indian passport holders are often charged less on some routes.</small></span><b data-add-price>₹20,160</b></label></li>
+            <li><label><input type="checkbox" name="heli" value="100800" data-add="heli"><span><span data-add-label>Everest heli tour from Kathmandu, shared seat</span><small>Weather permitting; a private charter costs more per seat.</small></span><b data-add-price>₹1,00,800</b></label></li>
+            <li><label><input type="checkbox" name="permits" value="1880" data-add="permits" checked><span><span data-add-label>Entry fees and permits, typical</span><small>Indian and SAARC rates are lower than foreign rates. <a href="{% url 'tool_permits' %}">Permit finder</a></small></span><b data-add-price>₹1,880</b></label></li>
+            <li><label><input type="checkbox" name="safari" value="6500" data-add="safari"><span><span>Chitwan jungle activities</span><small>Jeep safari, canoe ride and a guided walk, with park entry for the day</small></span><b>₹6,500</b></label></li>
+            <li><label><input type="checkbox" name="rafting" value="5000" data-add="rafting"><span><span>A day's rafting on the Trishuli</span><small>Grade II–III, with lunch and transfers</small></span><b>₹5,000</b></label></li>
+          </ul>
+        </fieldset>
+      </div>
+
+      <aside class="aside">
+        <div class="panel panel--dark calc__out">
+          <p class="kicker">{% icon "coin" %}Indicative cost</p>
+          <div aria-live="polite" aria-atomic="true">
+            <p class="calc__pp" data-out="pp">–</p>
+            <p class="calc__ppusd" data-ppusd></p>
+            <p class="calc__total">Group total <b data-out="total">–</b> <span data-out="usd"></span></p>
+          </div>
+          <table class="calc__tbl"><caption class="sr">Cost breakdown for the whole group</caption><tbody data-out="rows"></tbody></table>
+          <a class="btn btn--foil btn--block" data-out="link" data-cta="budget-quote" href="{% url 'plan' %}?from=budget-calculator">Get an exact quote{% icon "arrow" %}</a>
+          <noscript><p class="calc__small">The calculator needs JavaScript. <button class="btn btn--line btn--s" type="submit">Send these details for a quote</button></p></noscript>
+          <p class="calc__small">Indicative only, at about ₹{{ SITE.usd_rate|default:84 }} to the US dollar. Excludes travel to Nepal, visas, insurance, tips and drinks. Real prices depend on dates, availability and the exchange rate; we confirm every figure in a written quote.</p>
+        </div>
+      </aside>
+    </div>
+  </form>
+</div>
+
+<section class="sec--tight">
+  <div class="wrap">
+    <div class="grid grid--2" style="align-items:start">
+      <div class="prose">
+        <h2 class="h2">What the figures are based on</h2>
+        <ul>
+          <li>A 3-star room in Kathmandu or Pokhara usually costs ₹3,500–6,000 a night with breakfast; teahouse rooms on trekking routes cost far less, but meals and hot showers cost more.</li>
+          <li>A licensed trekking guide is about US$30–35 a day and a porter about US$20–25 a day, including their food and lodging on the trail. One porter carries for two trekkers.</li>
+          <li>Kathmandu–Pokhara is about US$120 each way for foreign nationals; Lukla is about US$217 each way, and in spring and autumn many Lukla flights leave from Ramechhap, a four to five hour drive from Kathmandu.</li>
+          <li>Shared heli seats assume a full helicopter; on a quiet day the per-seat price can rise.</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h2 class="h3">Turn the estimate into a plan</h2>
+        <p>Send us the days and group size and we reply with a day-by-day itinerary, named hotels and an itemised price in rupees or dollars, usually within one working day. Nothing to pay to ask.</p>
+        <a class="btn btn--ink" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="budget-quote-2">Get a free quote{% icon "arrow" %}</a>
+        <p class="muted" style="margin:14px 0 0">Or compare <a href="{% url 'packages' %}">packages with fixed prices</a>.</p>
+      </div>
+    </div>
+    <p style="margin-top:32px"><b>More trip tools:</b> <a href="{% url 'tool_season' %}">season finder</a> · <a href="{% url 'tool_altitude' %}">altitude checker</a> · <a href="{% url 'tool_permits' %}">permit finder</a></p>
+  </div>
+</section>
+{% endblock %}
+{% block extra_js %}<script>
+/* Budget calculator helpers. pass.js does the sums from the form values; this sets the
+   region-specific flight, heli and permit prices before it runs, and adds the per-person USD line. */
+(function () {
+  var calc = document.querySelector("[data-calc]");
+  if (!calc) return;
+  var rate = +calc.dataset.rate || 84, NPR = 1.6; /* NPR per INR */
+  /* flight and heli: [label, US$ per person]; permits: [label, NPR foreign, NPR SAARC, extra US$] */
+  var DEF = { hint: "Most first trips pair Kathmandu with Pokhara or Chitwan. Pick a region for its own flights, heli and permits.",
+    flight: ["Kathmandu–Pokhara flights, return", 240], heli: ["Everest heli tour from Kathmandu, shared seat", 1200], permits: ["Entry fees and permits, typical", 3000, 1000, 0] };
+  var P = {
+    "kathmandu-valley": { hint: "Valley days need a car and driver and a city guide. No permits, only heritage site entry fees.",
+      flight: ["Everest mountain flight, about one hour", 230], heli: DEF.heli, permits: ["Heritage site entry fees", 5400, 1500, 0] },
+    "pokhara": { hint: "Pokhara is a day's drive or a 25-minute flight from Kathmandu. Paragliding and boating are paid locally.",
+      flight: DEF.flight, heli: ["Annapurna Base Camp heli tour from Pokhara, shared seat", 650], permits: ["Sightseeing entry fees", 1000, 400, 0] },
+    "annapurna": { hint: "Treks here usually mean teahouses, a licensed guide and a porter, with a flight or drive to Pokhara.",
+      flight: DEF.flight, heli: ["Annapurna Base Camp heli tour, shared seat", 650], permits: ["ACAP conservation area permit", 3000, 1000, 0] },
+    "mustang": { hint: "Most trips drive or fly Pokhara–Jomsom. Upper Mustang adds a restricted area permit of US$500 for 10 days.",
+      flight: ["Pokhara–Jomsom flights, return", 260], heli: ["Muktinath heli tour from Pokhara, shared seat", 750], permits: ["ACAP permit for Lower Mustang and Muktinath", 3000, 1000, 0] },
+    "everest": { hint: "Everest treks need Lukla flights, a licensed guide and usually a porter. Teahouse rooms are cheap; food costs rise with altitude.",
+      flight: ["Kathmandu or Ramechhap–Lukla flights, return", 434], heli: ["Helicopter out at the end of the trek, shared seat", 800], permits: ["Sagarmatha National Park and Khumbu municipality fees", 5000, 3500, 0] },
+    "langtang": { hint: "Langtang is reached by road from Kathmandu, so no flights are needed.",
+      flight: null, heli: ["Langtang heli tour from Kathmandu, shared seat", 700], permits: ["Langtang National Park entry", 3000, 1500, 0] },
+    "manaslu": { hint: "Manaslu is a restricted area: at least two trekkers, a licensed guide and a special permit.",
+      flight: null, heli: ["Helicopter out from Samagaun, shared seat", 900], permits: ["Manaslu restricted area permit (autumn rate), MCAP and ACAP", 6000, 2000, 100] },
+    "chitwan": { hint: "Chitwan is a five to six hour drive or a short flight to Bharatpur. Add the jungle activities below.",
+      flight: ["Kathmandu–Bharatpur flights, return", 210], heli: null, permits: ["Chitwan National Park entry, one day", 2000, 1000, 0] },
+    "lumbini": { hint: "Lumbini is a flight to Bhairahawa or a long drive; many visitors pair it with Chitwan.",
+      flight: ["Kathmandu–Bhairahawa flights, return", 250], heli: null, permits: ["Lumbini site fees", 500, 200, 0] },
+    "east-nepal": { hint: "Ilam's tea hills need no permits; Kanchenjunga treks need a restricted area permit and a licensed guide.",
+      flight: ["Kathmandu–Bhadrapur or Biratnagar flights, return", 300], heli: null, permits: ["Kanchenjunga restricted area permit and KCAP, two weeks", 3000, 1000, 40] },
+    "far-west": { hint: "The far west is remote: flights via Nepalgunj, then jeeps or small planes.",
+      flight: ["Kathmandu–Nepalgunj flights, return", 300], heli: null, permits: ["Rara National Park entry", 3000, 1500, 0] },
+    "kailash": { hint: "Kailash yatras via Nepal fly through Nepalgunj and Simikot, then cross to Tibet by helicopter and road. Visa and permit rules are set each year.",
+      flight: ["Kathmandu–Nepalgunj–Simikot flights, return", 700], heli: ["Simikot–Hilsa helicopter, return", 700], permits: ["Chinese group visa, Tibet and Humla permits (varies by year)", 0, 0, 170] }
+  };
+  var region = calc.querySelector("[data-calc-region]"), nat = calc.querySelector("[data-calc-nat]"), hint = calc.querySelector("[data-calc-hint]");
+  var inr = function (n) { return "₹" + Math.round(n).toLocaleString("en-IN"); };
+  var round = function (n) { return Math.round(n / 10) * 10; };
+  function setAdd(key, label, value) {
+    var input = calc.querySelector('[data-add="' + key + '"]'), row = input.closest("label");
+    var l = row.querySelector("[data-add-label]"), p = row.querySelector("[data-add-price]");
+    if (value == null) {
+      input.checked = false; input.disabled = true; input.value = "0";
+      l.textContent = key === "flight" ? "No scheduled flights needed for this region" : "No regular heli tours in this region";
+      p.textContent = "–";
+      return;
+    }
+    input.disabled = false; input.value = String(value);
+    l.textContent = label;
+    p.innerHTML = inr(value) + "<span>US$" + Math.round(value / rate).toLocaleString("en-US") + "</span>";
+  }
+  function apply() {
+    var r = P[region.value] || DEF, saarc = nat.value === "saarc";
+    hint.innerHTML = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg><span></span>';
+    hint.querySelector("span").textContent = r.hint;
+    setAdd("flight", r.flight && r.flight[0], r.flight ? round(r.flight[1] * rate) : null);
+    setAdd("heli", r.heli && r.heli[0], r.heli ? round(r.heli[1] * rate) : null);
+    var pm = r.permits;
+    setAdd("permits", pm[0] + (pm[1] !== pm[2] ? (saarc ? ", SAARC rate" : ", foreign rate") : ""), round((saarc ? pm[2] : pm[1]) / NPR + pm[3] * rate));
+  }
+  /* listeners on the selects run before pass.js recalculates on the bubbling change event */
+  region.addEventListener("change", apply);
+  nat.addEventListener("change", apply);
+  apply();
+
+  var pp = calc.querySelector("[data-out=pp]"), ppusd = calc.querySelector("[data-ppusd]");
+  function usdLine() {
+    var n = +(pp.textContent.split(" ")[0] || "").replace(/[^\d]/g, "");
+    ppusd.textContent = n ? "≈ US$" + Math.round(n / rate).toLocaleString("en-US") + " per person" : "";
+  }
+  if ("MutationObserver" in window) new MutationObserver(usdLine).observe(pp, { childList: true, characterData: true, subtree: true });
+
+  /* carry the region and group into the quote form */
+  var link = calc.querySelector("[data-out=link]");
+  link.addEventListener("click", function () {
+    try {
+      var u = new URL(link.href, location.href);
+      if (region.value) u.searchParams.set("region", region.value);
+      link.href = u.pathname + u.search;
+    } catch (e) {}
+  });
+})();
+</script>{% endblock %}

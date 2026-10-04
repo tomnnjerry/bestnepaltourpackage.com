@@ -1,0 +1,48 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Trip Tools: Season Finder, Budget, Altitude and Permits{% endblock %}
+{% block meta_description %}Free Nepal trip planning tools: find where to go each month, estimate a per-person budget in INR and USD, check a trek's sleeping altitudes and look up permits by region.{% endblock %}
+{% block og_title %}Nepal trip tools{% endblock %}
+{% block og_description %}Season finder, budget calculator, altitude checker and permit finder for trips in Nepal.{% endblock %}
+{% block extra_head %}<style>
+.tools { display: grid; grid-template-columns: repeat(2, 1fr); gap: 22px; list-style: none; padding: 0; margin: 0; }
+.tool { display: grid; grid-template-columns: auto 1fr; gap: 8px 20px; height: 100%; padding: 26px; border-radius: var(--r); background: var(--card); box-shadow: var(--shadow); color: var(--ink); text-decoration: none; transition: transform .3s var(--ease), box-shadow .3s; }
+.tool:hover { transform: translateY(-3px); box-shadow: var(--shadow-h); color: var(--ink); }
+.tool__icon { grid-row: span 3; display: grid; place-items: center; width: 60px; height: 60px; border-radius: 50%; background: var(--foil); color: var(--ground); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .6); }
+.tool__icon .icon { width: 30px; height: 30px; }
+.tool b { font: 800 1.7rem/1 var(--display); text-transform: uppercase; }
+.tool small { color: var(--ink-2); font-size: .96rem; line-height: 1.5; }
+.tool__go { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; color: var(--ink-l); }
+.tool:hover .tool__go .icon { transform: translateX(4px); }
+.tool__go .icon { transition: transform .25s var(--ease); }
+@media (max-width: 760px) { .tools { grid-template-columns: 1fr; } .tool { padding: 20px; gap: 6px 16px; } .tool__icon { width: 50px; height: 50px; } }
+</style>{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "compass" %}Trip tools</p><h1>Nepal trip tools</h1><p class="phead__lede">Four quick tools for the questions we hear most: when to go, what it costs, how high you will sleep and which permits you need.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "compass" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight" aria-label="Tools">
+  <div class="wrap">
+    <ul class="tools" data-stagger>
+      <li><a class="tool" href="{% url 'tool_season' %}"><span class="tool__icon" aria-hidden="true">{% icon "calendar" %}</span><b>Season finder</b><small>Pick a month and a region. See which places are at their best then, and which are still good.</small><span class="tool__go">Find a season{% icon "arrow" %}</span></a></li>
+      <li><a class="tool" href="{% url 'tool_budget' %}"><span class="tool__icon" aria-hidden="true">{% icon "coin" %}</span><b>Budget calculator</b><small>An indicative per-person cost in rupees and dollars, built from days, hotels, transport, guides, flights and permits.</small><span class="tool__go">Work out a budget{% icon "arrow" %}</span></a></li>
+      <li><a class="tool" href="{% url 'tool_altitude' %}"><span class="tool__icon" aria-hidden="true">{% icon "altitude" %}</span><b>Altitude checker</b><small>Sleeping altitude day by day for any trek or high tour, with the nights that climb too fast flagged.</small><span class="tool__go">Check a trek{% icon "arrow" %}</span></a></li>
+      <li><a class="tool" href="{% url 'tool_permits' %}"><span class="tool__icon" aria-hidden="true">{% icon "permit" %}</span><b>Permit finder</b><small>Which permits and entry fees each region needs, with Indian and SAARC rates where they differ.</small><span class="tool__go">Look up permits{% icon "arrow" %}</span></a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec--tight">
+  <div class="wrap">
+    <div class="grid grid--2" style="align-items:start">
+      <div class="prose">
+        {% include "tours/partials/brief.html" with text="The tools give a fast first answer. Prices, fees and flight fares move with the season and the exchange rate, so treat every figure as indicative until we confirm it in a written quote." %}
+      </div>
+      <div class="panel">
+        <h2 class="h3">Prefer to ask a person</h2>
+        <p>Tell us your dates, group size and the kind of trip you have in mind. We reply with a day-by-day plan and an itemised price, usually within one working day.</p>
+        <a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="tools-quote">Get a free quote{% icon "arrow" %}</a>
+        <p class="muted" style="margin:14px 0 0">Or read the <a href="{% url 'guides' %}">travel guides</a> and the <a href="{% url 'seasons' %}">best time to visit Nepal</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

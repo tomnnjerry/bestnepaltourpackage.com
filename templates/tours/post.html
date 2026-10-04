@@ -1,0 +1,35 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ d.title }}{% endblock %}
+{% block meta_description %}{{ d.meta_description|default:d.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ d.title }}{% endblock %}
+{% block og_description %}{{ d.summary|truncatechars:200 }}{% endblock %}
+{% block og_image %}{% with i=d|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}{% if d.land %}data-land="{{ d.land }}"{% endif %}{% endblock %}
+{% block main %}
+<header class="phead"><div class="phead__bg">{% photo d|first_img d.title "" "100vw" True True %}</div><div class="wrap"><div class="phead__in">
+  <p class="kicker"><a href="{% url 'journal' %}">{% icon "book" %}Blog</a>{% if d.category and d.cat_slug %} · <a href="{% url 'journal_cat' d.cat_slug %}">{{ d.category|capfirst }}</a>{% endif %} · {{ d.read_min }} min read</p>
+  <h1>{{ d.title }}</h1>
+  <p class="phead__lede">By {{ SITE.byline }}{% if d.date_obj %} · <time datetime="{{ d.date }}">{{ d.date_obj|date:"j F Y" }}</time>{% endif %}{% if d.updated %} · updated {{ d.updated }}{% endif %}</p>
+</div></div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight"><div class="split"><article class="prose">
+  {% if d.summary %}{% include "tours/partials/brief.html" with text=d.summary %}{% endif %}
+  {% for para in d.intro %}<p>{{ para }}</p>{% endfor %}
+  {% for s in d.sections %}
+    {% if s.heading %}<h2 class="h2" id="{{ s.anchor }}">{{ s.heading }}</h2>{% endif %}
+    {% for para in s.paras %}<p>{{ para }}</p>{% endfor %}
+    {% if s.list %}<ul class="ticks">{% for li in s.list %}<li>{% icon "check" %}<span>{{ li }}</span></li>{% endfor %}</ul>{% endif %}
+    {% if s.table %}<div class="tbl-wrap"><table class="tbl">{% if s.table.head %}<thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead>{% endif %}<tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
+    {% if s.link_objs %}<div class="grid grid--3" style="margin:22px 0 8px">{% for l in s.link_objs %}<a class="ecard" href="{{ l.url }}"{% if l.obj.region %} data-land="{{ l.obj.region }}"{% endif %}>{% photo l.img l.title "" "(max-width: 760px) 100vw, 25vw" False False %}<span class="ecard__kind">{% if l.type == "package" %}{% icon "ticket" %}Package{% elif l.type == "place" %}{% icon "pin" %}Place{% elif l.type == "stay" %}{% icon "bed" %}Hotel{% elif l.type == "guide" %}{% icon "book" %}Guide{% elif l.type == "festival" %}{% icon "lamp" %}Festival{% else %}{% icon "arrow" %}{{ l.type|capfirst }}{% endif %}</span><span class="ecard__txt"><b>{{ l.title }}</b>{% if l.type == "package" and l.obj.price_from_inr %}<small>{{ l.obj|days_label }} · from <span data-inr="{{ l.obj.price_from_inr|inr }}" data-usd="{{ l.obj.price_from_usd|usd }}">{{ l.obj.price_from_inr|inr }}</span></small>{% elif l.obj.tagline %}<small>{{ l.obj.tagline }}</small>{% elif l.obj.summary %}<small>{{ l.obj.summary|truncatewords:12 }}</small>{% endif %}</span></a>{% endfor %}</div>{% endif %}
+    {% if forloop.counter == 3 and d.package_objs %}{% with k=d.package_objs.0 %}<aside class="panel panel--dark" style="margin:28px 0"><p class="kicker">{% icon "ticket" %}Ready to go</p><p class="h3" style="color:#fff">{{ k.title }}</p><p style="color:#C9D1DE">{{ k.summary|truncatewords:26 }}</p><a class="btn btn--foil" href="{{ k.url }}">See the trip, from <span data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</span></a></aside>{% endwith %}{% endif %}
+  {% endfor %}
+  {% if d.region_objs or d.place_objs %}<h2 class="h3">Regions and places in this post</h2><ul class="chips">{% for r in d.region_objs %}<li><a class="chip chip--land" data-land="{{ r.slug }}" href="{{ r.url }}">{% icon r.icon %}{{ r.name }}</a></li>{% endfor %}{% for p in d.place_objs %}<li><a class="chip" href="{{ p.url }}">{% icon "pin" %}{{ p.name }}</a></li>{% endfor %}</ul>{% endif %}
+  {% include "tours/partials/faqs.html" with faqs=d.faqs %}
+</article><aside class="aside">
+  {% if d.sections|length > 1 %}<div class="panel"><h2 class="h3">In this post</h2><ol class="toc">{% for s in d.sections %}{% if s.heading %}<li><a href="#{{ s.anchor }}">{{ s.heading }}</a></li>{% endif %}{% endfor %}</ol></div>{% endif %}
+  {% include "tours/partials/quick_form.html" with heading="Get a free quote" region=d.land where="post-aside" %}
+</aside></div></div>
+
+{% if d.package_objs %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Trips from this post</h2><a class="textlink" href="{% url 'packages' %}">Every package{% icon "arrow" %}</a></div><div class="passes" data-stagger>{% for k in d.package_objs|slice:":3" %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if more %}<section class="sec"><div class="wrap"><div class="sec__head"><h2 class="h2">More from the blog</h2><a class="textlink" href="{% url 'journal' %}">All posts{% icon "arrow" %}</a></div><div class="grid grid--3">{% for d in more %}{% include "tours/partials/post_card.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

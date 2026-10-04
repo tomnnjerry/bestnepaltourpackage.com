@@ -1,0 +1,112 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Design System{% endblock %}
+{% block meta_description %}The Altitude Pass design system behind Best Nepal Tour Package: region palettes, type, buttons, stamps, passes and icons.{% endblock %}
+{% block extra_head %}<meta name="robots" content="noindex, follow"><style>.ds-sec{padding:40px 0;border-top:1px solid var(--line)}.ds-sec:first-child{border-top:0}.ds-row{display:flex;flex-wrap:wrap;gap:14px;align-items:center}.ds-tok{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;list-style:none;padding:0;margin:0}.ds-tok li{border-radius:14px;overflow:hidden;background:var(--card);box-shadow:var(--shadow);font-size:.82rem}.ds-tok span{display:block;height:56px}.ds-tok b,.ds-tok code{display:block;padding:0 12px}.ds-tok b{padding-top:8px}.ds-tok code{padding-bottom:10px;color:var(--muted)}.swatch code{font-size:.76rem;color:var(--muted)}.swatch__chips{display:flex;gap:4px;padding:0 12px 12px}.swatch__chips i{flex:1;height:18px;border-radius:4px}.ds-type>*{margin-bottom:14px}.ds-label{font:700 .72rem/1 var(--text);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}</style>{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "stamp" %}Design system</p><h1>Altitude Pass</h1><p class="phead__lede">Permit paper and night ink, perforated package passes, heli boarding passes, rubber stamps per trip type, ridgeline edges and one colour pair for each region. This page shows every part in use.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "ticket" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+
+<section class="ds-sec" aria-labelledby="h-pal">
+  <h2 class="h2" id="h-pal">Region palettes</h2>
+  <p class="lede">Each region sets its own ground, accent, ink, tint, gradient and foil through <code>data-land</code>. Everything inside picks them up: page heads, passes, chips, month strips and buttons.</p>
+  {% if regions %}<div class="swatches">{% for r in regions %}<div class="swatch" data-land="{{ r.slug }}">
+    <div class="swatch__g"><span class="rtile__icon" style="top:12px;right:auto;left:12px;width:40px;height:40px">{% icon r.icon %}</span><span class="swatch__f"></span></div>
+    <p><b>{{ r.name }}</b><br>{{ r.palette }}<br><code>ground {{ r.ground }} · accent {{ r.accent }}</code><br><code>ink {{ r.ink }} · tint {{ r.tint }}</code></p>
+    <div class="swatch__chips" aria-hidden="true"><i style="background:{{ r.ground }}"></i><i style="background:{{ r.accent }}"></i><i style="background:{{ r.ink }}"></i><i style="background:{{ r.tint }};box-shadow:inset 0 0 0 1px var(--line)"></i>{% for c in r.foil %}<i style="background:{{ c }};box-shadow:inset 0 0 0 1px var(--line)"></i>{% endfor %}</div>
+  </div>{% endfor %}</div>
+  {% else %}<p class="muted">No regions are loaded yet.</p>{% endif %}
+</section>
+
+<section class="ds-sec" aria-labelledby="h-tok">
+  <h2 class="h2" id="h-tok">Brand tokens</h2>
+  <ul class="ds-tok">
+    <li><span style="background:var(--paper);box-shadow:inset 0 -1px 0 var(--line)"></span><b>Paper</b><code>--paper</code></li>
+    <li><span style="background:var(--paper-2)"></span><b>Paper 2</b><code>--paper-2</code></li>
+    <li><span style="background:var(--card);box-shadow:inset 0 -1px 0 var(--line)"></span><b>Card</b><code>--card</code></li>
+    <li><span style="background:var(--ink)"></span><b>Night ink</b><code>--ink</code></li>
+    <li><span style="background:var(--muted)"></span><b>Muted</b><code>--muted</code></li>
+    <li><span style="background:var(--line)"></span><b>Line</b><code>--line</code></li>
+    <li><span style="background:var(--summit)"></span><b>Summit</b><code>--summit</code></li>
+    <li><span style="background:var(--glacier)"></span><b>Glacier</b><code>--glacier</code></li>
+    <li><span style="background:var(--ok)"></span><b>OK</b><code>--ok</code></li>
+    <li><span style="background:var(--warn)"></span><b>Warn</b><code>--warn</code></li>
+    <li><span style="background:var(--sheen),var(--grad)"></span><b>Ground gradient</b><code>--grad</code></li>
+    <li><span style="background:var(--foil)"></span><b>Foil</b><code>--foil</code></li>
+  </ul>
+</section>
+
+<section class="ds-sec ds-type" aria-labelledby="h-type">
+  <h2 class="h2" id="h-type">Type</h2>
+  <p class="ds-label">Display · Big Shoulders Display 900, uppercase</p>
+  <p class="h1">Kala Patthar 5,644 m</p>
+  <p class="ds-label">Heading 2 · Big Shoulders Display 800</p>
+  <p class="h2">Helicopter tours, boarding daily in season</p>
+  <p class="ds-label">Heading 3</p>
+  <p class="h3">Shared seat or private charter</p>
+  <p class="ds-label">Kicker</p>
+  <p class="kicker">{% icon "heli" %}Fly</p>
+  <p class="ds-label">Lede · Hanken Grotesk</p>
+  <p class="lede">Chitwan's grassland sits at 150 m. Kala Patthar's summit is at 5,644 m. We sell trips at every height in between.</p>
+  <p class="ds-label">Body</p>
+  <p style="max-width:70ch">Flights leave early because cloud builds over the high valleys by late morning. At high landings a helicopter carries fewer people, so groups may land in two lifts.</p>
+  <p class="ds-label">Numbers, foil text and stencil</p>
+  <p><span class="num" style="font-size:2.4rem">₹1,25,000</span> &nbsp; <span class="h2 foil-t" style="background-color:var(--night);border-radius:8px;padding:4px 10px">and we plan the rest</span> &nbsp; <span style="font:800 1.1rem var(--stencil);letter-spacing:.08em">EBC-14D</span></p>
+</section>
+
+<section class="ds-sec" aria-labelledby="h-btn">
+  <h2 class="h2" id="h-btn">Buttons and links</h2>
+  <div class="ds-row">
+    <a class="btn btn--foil" href="#h-btn">Get a free quote{% icon "arrow" %}</a>
+    <a class="btn btn--ink" href="#h-btn">{% icon "heli" %}See heli tours</a>
+    <a class="btn btn--line" href="#h-btn">Clear filters</a>
+    <a class="btn btn--foil btn--s" href="#h-btn">Small</a>
+    <a class="textlink" href="#h-btn">Every package{% icon "arrow" %}</a>
+    <button class="iconbtn" type="button" aria-label="Search">{% icon "search" %}</button>
+  </div>
+  <div class="panel panel--dark" style="margin-top:20px"><div class="ds-row"><a class="btn btn--foil" href="#h-btn">On dark{% icon "arrow" %}</a><a class="btn btn--line" style="color:#fff" href="#h-btn">Line on dark</a><a href="#h-btn">Accent link</a></div></div>
+</section>
+
+<section class="ds-sec" aria-labelledby="h-chips">
+  <h2 class="h2" id="h-chips">Chips, grades and months</h2>
+  <ul class="chips" style="margin-bottom:18px"><li><span class="chip is-on">All grades</span></li><li><span class="chip">{% icon "boot" %}Treks</span></li><li><span class="chip">{% icon "pin" %}Namche Bazaar</span></li>{% for r in regions|slice:":3" %}<li><span class="chip chip--land" data-land="{{ r.slug }}">{% icon r.icon %}{{ r.short|default:r.name }}</span></li>{% endfor %}</ul>
+  <div class="ds-row" style="margin-bottom:18px">{% for g in "1234" %}<span><span class="grade" data-g="{{ g }}" aria-hidden="true"><i></i><i></i><i></i><i></i></span> {% if g == "1" %}Easy{% elif g == "2" %}Moderate{% elif g == "3" %}Challenging{% else %}Strenuous{% endif %}</span>{% endfor %}<span class="alt-pill">{% icon "altitude" %}5,644 m</span></div>
+  {% if sample %}<div style="max-width:520px">{% include "tours/partials/months.html" with bar=sample.bar %}</div>{% endif %}
+</section>
+
+<section class="ds-sec" aria-labelledby="h-stamps">
+  <h2 class="h2" id="h-stamps">Stamps, one per trip type</h2>
+  <div class="ds-row" style="gap:22px">{% for slug, ty in types.items %}<span class="stamp stamp--inline" data-type="{{ slug }}">{% icon ty.icon %}<b>{{ ty.label }}</b></span>{% endfor %}</div>
+</section>
+
+{% if sample or heli %}<section class="ds-sec" aria-labelledby="h-pass">
+  <h2 class="h2" id="h-pass">Package pass and boarding pass</h2>
+  <p class="lede">The package pass carries a ridge-cut photo, a stamp, the altitude, a sparkline of the route and a perforated price stub. Heli tours print as boarding passes on their region's gradient.</p>
+  <div class="passes" style="align-items:start">
+    {% if sample %}{% include "tours/partials/pass.html" with k=sample %}{% endif %}
+    {% if heli %}<div style="grid-column:span 2">{% include "tours/partials/bpass.html" with k=heli %}</div>{% endif %}
+  </div>
+</section>{% endif %}
+
+<section class="ds-sec" aria-labelledby="h-blocks">
+  <h2 class="h2" id="h-blocks">Content blocks</h2>
+  <div class="grid grid--2" style="align-items:start">
+    <div>
+      {% include "tours/partials/brief.html" with text="Answer-first summary in 40 to 60 words. Every region, place, package and guide opens with one." %}
+      <p class="notice">{% icon "info" %}<span>Rules that change carry a notice like this one. Check current status before you travel.</span></p>
+      <ul class="ticks" style="margin-top:18px"><li>{% icon "check" %}<span>Included item</span></li></ul>
+      <ul class="ticks ticks--x" style="margin-top:8px"><li>{% icon "close" %}<span>Excluded item</span></li></ul>
+    </div>
+    <div class="panel"><h3 class="h3">At a glance</h3><dl class="facts"><div><dt>Best months</dt><dd>Mar – May · Oct – Nov</dd></div><div><dt>Highest point</dt><dd>5,644 m</dd></div><div><dt>Grade</dt><dd>Challenging</dd></div></dl></div>
+  </div>
+  <div class="tbl-wrap" style="margin-top:22px"><table class="tbl"><thead><tr><th>Table head</th><th>Value</th></tr></thead><tbody><tr><td>Row</td><td>Cell</td></tr><tr><td>Row</td><td>Cell</td></tr></tbody></table></div>
+</section>
+
+<section class="ds-sec" aria-labelledby="h-icons">
+  <h2 class="h2" id="h-icons">Icons</h2>
+  <p class="lede">{{ icons|length }} line icons drawn for the site on a 24 × 24 grid, stroked in the current text colour.</p>
+  <ul class="iconsheet">{% for name in icons %}<li>{% icon name %}<span>{{ name }}</span></li>{% endfor %}</ul>
+</section>
+
+</div>
+{% endblock %}

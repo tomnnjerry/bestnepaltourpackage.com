@@ -1,0 +1,96 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Permit Finder: Trekking Permits and Fees by Region{% endblock %}
+{% block meta_description %}Which permits and entry fees you need in each region of Nepal, from ACAP and Sagarmatha park fees to restricted area permits, with Indian and SAARC rates where they differ.{% endblock %}
+{% block og_title %}Nepal permit finder{% endblock %}
+{% block og_description %}Trekking permits, park fees and entry rules for each region of Nepal.{% endblock %}
+{% block extra_head %}<style>
+.filters.pf__bar { grid-template-columns: minmax(0, 360px) minmax(0, 1fr); align-items: end; }
+.pf__bar .chips { align-self: center; }
+.pf__list { display: grid; gap: 18px; margin-top: 26px; }
+.pf__card { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 20px; scroll-margin-top: 110px; }
+.pf__card[hidden] { display: none; }
+.pf__icon { grid-row: span 3; display: grid; place-items: center; width: 56px; height: 56px; border-radius: 50%; background: var(--foil); color: var(--ground); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .6); }
+.pf__icon .icon { width: 28px; height: 28px; }
+.pf__card h2 { margin: 6px 0 4px; }
+.pf__card p { margin: 0 0 12px; max-width: 78ch; }
+.pf__none { color: var(--muted); font-style: italic; }
+.pf__acts { display: flex; flex-wrap: wrap; gap: 10px 20px; align-items: center; }
+.notice p { margin: 0; }
+.pf__rules { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+.pf__rules li { padding: 20px; border-radius: 16px; background: var(--card); box-shadow: var(--shadow); }
+.pf__rules b { display: block; font: 800 1.25rem/1.1 var(--display); margin-bottom: 6px; }
+.pf__rules p { margin: 0; font-size: .94rem; color: var(--ink-2); }
+@media (max-width: 760px) { .filters.pf__bar, .pf__rules { grid-template-columns: 1fr; } .pf__card { grid-template-columns: 1fr; } .pf__icon { grid-row: auto; width: 46px; height: 46px; } }
+</style>{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "permit" %}Trip tools</p><h1>Permit finder</h1><p class="phead__lede">Pick a region to see which permits and entry fees apply there, and where Indian and SAARC travellers pay less.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "permit" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <div class="notice" role="note">{% icon "info" %}<p><b>Check current status before you travel.</b> Nepal changes permit fees and trekking rules from time to time, sometimes mid-season. These notes are the latest we have; we confirm every permit and fee for your route when we send a quote.</p></div>
+
+  {% if regions %}<form class="filters pf__bar" style="margin-top:22px" action="{% url 'tool_permits' %}" method="get" aria-label="Choose a region" data-pf-form>
+    <label class="field"><span>Region</span><select name="region" data-pf-select><option value="">All regions</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+    <ul class="chips" aria-label="Jump to a region">{% for r in regions %}<li><a class="chip" href="#permits-{{ r.slug }}" data-pf-chip="{{ r.slug }}">{% icon r.icon|default:"pin" %}{{ r.short|default:r.name }}</a></li>{% endfor %}</ul>
+  </form>
+
+  <p class="sr" aria-live="polite" data-pf-status></p>
+  <div class="pf__list">
+    {% for r in regions %}<article class="panel pf__card" id="permits-{{ r.slug }}" data-land="{{ r.slug }}" data-pf="{{ r.slug }}" aria-labelledby="pf-h-{{ r.slug }}">
+      <span class="pf__icon" aria-hidden="true">{% icon r.icon|default:"permit" %}</span>
+      <h2 class="h3" id="pf-h-{{ r.slug }}">{{ r.name }}</h2>
+      {% if r.permits %}<p>{{ r.permits }}</p>{% else %}<p class="pf__none">We are still writing up the permit notes for {{ r.name }}. Ask us and we will tell you exactly which permits and fees apply to your route.</p>{% endif %}
+      <div class="pf__acts">
+        <a class="btn btn--line btn--s" href="{% url 'plan' %}?region={{ r.slug }}&amp;from={{ request.path|urlencode }}" data-cta="permits-quote">Ask about {{ r.short|default:r.name }} permits</a>
+        {% if r.url %}<a class="textlink" href="{{ r.url }}">{{ r.name }} travel guide{% icon "arrow" %}</a>{% endif %}
+      </div>
+    </article>{% endfor %}
+  </div>
+  {% else %}<div class="empty" style="margin-top:22px"><h2 class="h3">Permit notes are on their way</h2><p>Ask us which permits your route needs and we will reply with the current fees.</p><a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask us</a></div>{% endif %}
+</div>
+
+<section class="sec--tight sec--tint" aria-labelledby="pf-rules">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "shield" %}Across Nepal</p><h2 class="h2" id="pf-rules">Rules that apply in every region</h2></div></div>
+    <ul class="pf__rules">
+      <li><b>Indian citizens</b><p>No visa is needed for Nepal. Carry a valid passport or an Election Commission voter ID card, and show it at park and heritage site counters to pay the SAARC rate.</p></li>
+      <li><b>Other nationalities</b><p>A tourist visa on arrival at Kathmandu airport and the main land borders, or applied for online before you fly. At last check it cost US$30 for 15 days, US$50 for 30 days and US$125 for 90 days.</p></li>
+      <li><b>Trekking with a guide</b><p>Since 1 April 2023, rules require foreign trekkers in national parks and conservation areas to walk with a licensed guide booked through a registered agency. Enforcement has varied by region; ask us how it applies to your route and passport.</p></li>
+      <li><b>Restricted areas</b><p>Upper Mustang, Manaslu, Nar Phu, Tsum Valley, Upper Dolpo, Humla and Kanchenjunga need a restricted area permit issued through a registered agency, usually for at least two trekkers with a licensed guide.</p></li>
+      <li><b>Climbing peaks</b><p>Trekking and expedition peaks need a climbing permit on top of the area permits, priced by peak and season.</p></li>
+      <li><b>Kailash via Nepal</b><p>The Chinese group visa and Tibet permits are arranged by the operator. Opening dates and rules for Indian passport holders are set each year, so confirm them before you book.</p></li>
+    </ul>
+    <p style="margin-top:32px"><b>More trip tools:</b> <a href="{% url 'tool_season' %}">season finder</a> · <a href="{% url 'tool_budget' %}">budget calculator</a> · <a href="{% url 'tool_altitude' %}">altitude checker</a></p>
+  </div>
+</section>
+{% endblock %}
+{% block extra_js %}<script>
+/* Permit finder: the select and the chips show one region at a time; without JavaScript
+   every region is listed and the chips are plain jump links. */
+(function () {
+  var sel = document.querySelector("[data-pf-select]");
+  if (!sel) return;
+  var cards = Array.prototype.slice.call(document.querySelectorAll("[data-pf]"));
+  var chips = Array.prototype.slice.call(document.querySelectorAll("[data-pf-chip]"));
+  var status = document.querySelector("[data-pf-status]"), form = document.querySelector("[data-pf-form]");
+  function show(slug, scroll) {
+    if (!cards.some(function (c) { return c.dataset.pf === slug; })) slug = "";
+    sel.value = slug;
+    cards.forEach(function (c) { c.hidden = !!slug && c.dataset.pf !== slug; });
+    chips.forEach(function (c) { var on = c.dataset.pfChip === slug; c.classList.toggle("is-on", on); if (on) c.setAttribute("aria-current", "true"); else c.removeAttribute("aria-current"); });
+    if (status) status.textContent = slug ? "Showing permits for " + sel.options[sel.selectedIndex].text : "Showing permits for every region";
+    try { history.replaceState(null, "", location.pathname + location.search + (slug ? "#permits-" + slug : "")); } catch (e) {}
+    if (scroll && slug) { var c = document.getElementById("permits-" + slug); if (c) c.scrollIntoView({ block: "start", behavior: "smooth" }); }
+  }
+  sel.addEventListener("change", function () { show(sel.value, false); });
+  chips.forEach(function (c) {
+    c.addEventListener("click", function (e) {
+      e.preventDefault();
+      var slug = c.dataset.pfChip;
+      show(sel.value === slug ? "" : slug, true);
+    });
+  });
+  form.addEventListener("submit", function (e) { e.preventDefault(); });
+  var start = (location.hash.match(/^#permits-(.+)$/) || [])[1] || new URLSearchParams(location.search).get("region") || "";
+  if (start) show(decodeURIComponent(start), false);
+})();
+</script>{% endblock %}

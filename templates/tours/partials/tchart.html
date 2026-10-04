@@ -1,0 +1,6 @@
+{% load tours %}<div class="tchart" data-tchart data-points="{{ points }}">
+  <div class="tchart__bar"><ul class="chips"><li><button type="button" class="chip is-on" data-grade="all">All grades</button></li>{% for g in grades %}<li><button type="button" class="chip" data-grade="{{ g }}">{{ g }}</button></li>{% endfor %}</ul></div>
+  <div class="tchart__wrap"></div>
+  <div class="tchart__legend">{% for r in nav_regions %}{% if "trek" in r.types or "climb" in r.types %}<span data-land="{{ r.slug }}"><i style="background:{{ r.accent }}"></i>{{ r.short|default:r.name }}</span>{% endif %}{% endfor %}</div>
+  <noscript><p><a href="{% url 'packages' %}?type=trek&amp;sort=altitude">See every trek, highest first</a></p></noscript>
+</div>

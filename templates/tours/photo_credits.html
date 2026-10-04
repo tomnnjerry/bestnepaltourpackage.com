@@ -1,0 +1,39 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Photo Credits{% endblock %}
+{% block meta_description %}Credits for every photo on Best Nepal Tour Package: author, licence and a link to the original file on Wikimedia Commons.{% endblock %}
+{% block extra_head %}<style>.credits td{vertical-align:middle}.credits__th{display:block;width:96px;height:64px;border-radius:8px;overflow:hidden;background:var(--paper-2)}.credits__th img{width:100%;height:100%;object-fit:cover}.credits small{display:block;color:var(--muted)}@media (max-width:760px){.credits__th{width:64px;height:48px}.credits .hide-s{display:none}}</style>{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "camera" %}Photo credits</p><h1>Photo credits</h1><p class="phead__lede">Every photo on this site comes from Wikimedia Commons under a free licence. Each one is listed here with its author, its licence and a link to the original file.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "camera" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <div class="split">
+    <div>
+      {% if images %}
+      <p class="muted">{{ images|length }} photo{{ images|length|pluralize }}. Select a photo or its description to open the original on Wikimedia Commons.</p>
+      <div class="tbl-wrap"><table class="tbl credits">
+        <thead><tr><th scope="col"><span class="sr">Photo</span></th><th scope="col">Subject</th><th scope="col">Author</th><th scope="col">Licence</th><th scope="col" class="hide-s">Used for</th></tr></thead>
+        <tbody>{% for i in images %}<tr>
+          <td>{% if i.page %}<a class="credits__th" href="{{ i.page }}" rel="noopener nofollow" target="_blank" aria-label="Original file on Wikimedia Commons">{% else %}<span class="credits__th">{% endif %}{% if i.thumb or i.url %}<img src="{{ i|src:240 }}" alt="" loading="lazy" decoding="async" width="96" height="64">{% endif %}{% if i.page %}</a>{% else %}</span>{% endif %}</td>
+          <td>{% if i.page %}<a href="{{ i.page }}" rel="noopener nofollow" target="_blank">{{ i.description|striptags|default:i.file|truncatechars:90 }}</a>{% else %}{{ i.description|striptags|default:i.file|truncatechars:90 }}{% endif %}{% if i.file and i.description %}<small>{{ i.file|truncatechars:60 }}</small>{% endif %}</td>
+          <td>{{ i.author|striptags|default:"Unknown"|truncatechars:60 }}</td>
+          <td>{% if i.license_url %}<a href="{{ i.license_url }}" rel="noopener nofollow license" target="_blank">{{ i.license|default:"See file page" }}</a>{% else %}{{ i.license|default:"See file page" }}{% endif %}</td>
+          <td class="hide-s"><small>{{ i.used_for }}</small></td>
+        </tr>{% endfor %}</tbody>
+      </table></div>
+      {% else %}
+      <div class="empty"><h2 class="h3">No photos listed yet</h2><p>Photos are added to the site from Wikimedia Commons. As each one goes live, its author, licence and source appear on this page.</p></div>
+      {% endif %}
+    </div>
+    <aside class="aside">
+      <div class="panel"><h2 class="h3">How we use photos</h2>
+        <ul class="ticks">
+          <li>{% icon "check" %}<span>Only files with a free licence, such as Creative Commons or public domain</span></li>
+          <li>{% icon "check" %}<span>The author and licence are shown on the photo and listed here</span></li>
+          <li>{% icon "check" %}<span>Photos are shown unaltered apart from cropping and resizing</span></li>
+        </ul>
+      </div>
+      <div class="panel"><h2 class="h3">Credit corrections</h2><p>If a credit is wrong or you would like a photo removed, email <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a> with the file name and we will correct it.</p></div>
+    </aside>
+  </div>
+</div>
+{% endblock %}

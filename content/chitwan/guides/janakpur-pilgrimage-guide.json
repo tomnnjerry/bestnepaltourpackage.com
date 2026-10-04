@@ -19,15 +19,47 @@
         "Most of Janakpur's important shrines lie within about 2 km of each other, so a well-planned day covers them on foot or by e-rickshaw. The table lists the sites we include on our Janakpur tours, with typical visit times."
       ],
       "table": {
-        "head": ["Site", "What it is", "Time needed"],
+        "head": [
+          "Site",
+          "What it is",
+          "Time needed"
+        ],
         "rows": [
-          ["Janaki Mandir", "White marble temple to Sita, completed 1910", "1–2 h, plus aarti"],
-          ["Vivah Mandap", "Pavilion marking Sita and Rama's wedding", "30–45 min"],
-          ["Ram Mandir", "Older pagoda-style temple to Rama", "30 min"],
-          ["Ganga Sagar", "Largest sacred pond, dawn bathing and lamps", "30–60 min"],
-          ["Dhanush Sagar", "Sacred pond linked with Shiva's bow", "20 min"],
-          ["Janakpur Women's Development Centre", "Mithila art cooperative at Kuwa", "1–1.5 h"],
-          ["Dhanusadham", "Temple of the bow fragment, 18 km away", "Half day"]
+          [
+            "Janaki Mandir",
+            "White marble temple to Sita, completed 1910",
+            "1–2 h, plus aarti"
+          ],
+          [
+            "Vivah Mandap",
+            "Pavilion marking Sita and Rama's wedding",
+            "30–45 min"
+          ],
+          [
+            "Ram Mandir",
+            "Older pagoda-style temple to Rama",
+            "30 min"
+          ],
+          [
+            "Ganga Sagar",
+            "Largest sacred pond, dawn bathing and lamps",
+            "30–60 min"
+          ],
+          [
+            "Dhanush Sagar",
+            "Sacred pond linked with Shiva's bow",
+            "20 min"
+          ],
+          [
+            "Janakpur Women's Development Centre",
+            "Mithila art cooperative at Kuwa",
+            "1–1.5 h"
+          ],
+          [
+            "Dhanusadham",
+            "Temple of the bow fragment, 18 km away",
+            "Half day"
+          ]
         ]
       }
     },
@@ -36,6 +68,21 @@
       "paras": [
         "The Janaki Mandir was built by Queen Vrisha Bhanu of Tikamgarh and completed in 1910. Its three storeys of white stone and marble, domes and 60 rooms recall a Rajput palace, and locals call it the Naulakha Mandir after its reputed cost of nine lakh rupees. The sanctum holds images of Sita, Rama and his brothers. Rooms around the courtyard house a museum of Mithila art and Ramayana scenes.",
         "The temple generally opens early in the morning, closes for a period around midday and reopens in the afternoon until after the evening aarti, around 8 to 9 pm; hours vary by season and festival, so check current status before you travel. The evening aarti at sunset is the high point of any visit, with tiered lamps, bells, conch shells and the crowd singing. Arrive 30 minutes early to find space in the courtyard, and come back for a quieter morning darshan."
+      ]
+    },
+    {
+      "heading": "A two-day Janakpur plan",
+      "paras": [
+        "Two nights let you see every major shrine without rushing, attend the aarti twice and keep the hottest hours for rest. This is the plan we follow on our Janakpur darshan tours, adjusted for flight times and festival crowds."
+      ],
+      "list": [
+        "Day 1, morning: fly Kathmandu to Janakpur, 25 minutes; check in near the temple",
+        "Day 1, afternoon: Ram Mandir, Vivah Mandap and Dhanush Sagar on foot or by e-rickshaw",
+        "Day 1, evening: sunset aarti at the Janaki Mandir, then the lit courtyard and museum rooms",
+        "Day 2, dawn: Ganga Sagar for bathing, lamps and morning bhajans",
+        "Day 2, mid-morning: drive 18 km to Dhanusadham, about 40 minutes each way",
+        "Day 2, afternoon: Mithila paintings at the Janakpur Women's Development Centre at Kuwa",
+        "Day 3, morning: quiet darshan at the Janaki Mandir before the flight back"
       ]
     },
     {
@@ -53,10 +100,18 @@
       ]
     },
     {
+      "heading": "The Mithila parikrama explained",
+      "paras": [
+        "Parikrama, walking around a sacred place, is central to pilgrimage in Janakpur. The greatest is the Mithila Madhya Parikrama, a 15-day walk of roughly 120–135 km that begins on Phagun Amavasya, the new moon of February or March, and ends at Holi. Thousands of pilgrims, sadhus and families follow a palanquin of Sita and Rama from Janakpurdham through about 15 halting places, including Matihani, Jaleshwar, Kanchanban and Dhanusadham, two of them in Bihar, camping or sleeping in temple compounds along the way.",
+        "On Holi itself, the walkers complete the Antargriha Parikrama, an inner circuit of Janakpur's temples and ponds. Visitors with less time can join a day or two of the procession near Janakpur, or simply walk the inner circuit, which takes a few hours with stops. If you plan to join, carry light bedding, sun protection and a refillable bottle, and check current status before you travel, as dates follow the lunar calendar."
+      ]
+    },
+    {
       "heading": "How to reach Janakpur",
       "paras": [
         "From Kathmandu, the quickest way is a 25-minute flight with Buddha Air or Shree Airlines to Janakpur Airport, 2 km from the temple. By road it is about 230 km and 7–8 hours via the BP Highway through Sindhuli and Bardibas. From Chitwan, it is about 280 km and 7–8 hours east along the Mahendra Highway via Hetauda.",
-        "From India, Indian pilgrims usually cross at Jaynagar in Bihar, about 30 km away, by the cross-border train to Janakpur or by road. Raxaul–Birgunj is about 4–5 hours by road. Sitamarhi, with Punaura Dham believed to be Sita's birthplace on the Indian side, is about 50 km away, and many groups combine the two. Indian citizens need a passport or voter ID card."
+        "From India, Indian pilgrims usually cross at Jaynagar in Bihar, about 30 km away, by the cross-border train to Janakpur or by road. Raxaul–Birgunj is about 4–5 hours by road. Sitamarhi, with Punaura Dham believed to be Sita's birthplace on the Indian side, is about 50 km away, and many groups combine the two. Indian citizens need a passport or voter ID card.",
+        "The cross-border passenger railway, reopened in 2022, links Jaynagar in Bihar with Kurtha near Janakpur over about 35 km. When it opened it ran twice a day in each direction, taking about an hour, with fares of up to a few hundred rupees by class. Indian citizens cross with a passport or voter ID; third-country nationals should confirm that the crossing is open to them. Timetables change, so check current status before you travel."
       ]
     },
     {
@@ -81,16 +136,48 @@
       ]
     }
   ],
-  "related_places": ["janakpur", "dhanusadham", "devghat", "kathmandu"],
+  "related_places": [
+    "janakpur",
+    "dhanusadham",
+    "devghat",
+    "kathmandu"
+  ],
   "faqs": [
-    {"q": "Is Janakpur the birthplace of Sita?", "a": "Hindu tradition identifies Janakpur with the capital of King Janak, Sita's father, and the place where she was found and raised. Sitamarhi in Bihar, about 50 km away, also claims to be the spot where she appeared. Many pilgrims visit both. Janakpur is also believed to be where Sita and Rama married."},
-    {"q": "How many days are needed for a Janakpur pilgrimage?", "a": "Two nights is ideal: one full day for the Janaki Mandir, Vivah Mandap, Ram Mandir, ponds and aarti, and a half day for Dhanusadham and the Mithila art centre. One night is possible with a flight. For Vivah Panchami, plan three nights."},
-    {"q": "What is the Janaki Mandir aarti time?", "a": "The evening aarti is at sunset, roughly 5:30 pm in winter and 7 pm in summer, with a morning aarti soon after opening. Exact times vary with season and festivals. Arrive half an hour early to find space in the courtyard, and check with your guide on the day."},
-    {"q": "How do I reach Janakpur from Kathmandu?", "a": "By a 25-minute flight with Buddha Air or Shree Airlines, or by road in 7–8 hours via the BP Highway through Sindhuli and Bardibas, about 230 km. Buses also run day and night. Flying one way and driving the other is a good compromise."},
-    {"q": "How do I reach Janakpur from Bihar?", "a": "From Jaynagar, about 30 km away, by the cross-border train to Janakpur or by road in about an hour. From Sitamarhi, it is about 50 km and 2 hours via Bhitthamore. Indian citizens need a passport or voter ID. Third-country nationals should use an international border such as Raxaul–Birgunj."},
-    {"q": "When is Vivah Panchami in Janakpur?", "a": "Vivah Panchami falls on the fifth day of the bright half of Mangsir, in late November or December. In 2026 most published calendars give 14 December. Celebrations run for about a week before. Book hotels and flights at least two months ahead."},
-    {"q": "What is the best time to visit Janakpur?", "a": "October to March, when days are 18–28 °C. Vivah Panchami, Chhath and Ram Navami are the big festival periods. April to June is very hot, often above 40 °C, and July to September is monsoon, with heavy rain and occasional flooding."},
-    {"q": "Are there good hotels in Janakpur?", "a": "Janakpur's hotels are simple 2- to 3-star properties with clean rooms and vegetarian food, not resorts. The best options are within walking distance of the Janaki Mandir. We choose hotels for location and cleanliness and book them early for festival dates."},
-    {"q": "Can I combine Janakpur with other pilgrimages in Nepal?", "a": "Yes. Our Devghat and Janakpur yatra links Pashupatinath, Manakamana, Devghat and Janakpur in six days. Many pilgrims also combine Janakpur with Muktinath via Pokhara, or with Lumbini on a wider Nepal pilgrimage. Indian groups often add Sitamarhi."}
+    {
+      "q": "Is Janakpur the birthplace of Sita?",
+      "a": "Hindu tradition identifies Janakpur with the capital of King Janak, Sita's father, and the place where she was found and raised. Sitamarhi in Bihar, about 50 km away, also claims to be the spot where she appeared. Many pilgrims visit both. Janakpur is also believed to be where Sita and Rama married."
+    },
+    {
+      "q": "How many days are needed for a Janakpur pilgrimage?",
+      "a": "Two nights is ideal: one full day for the Janaki Mandir, Vivah Mandap, Ram Mandir, ponds and aarti, and a half day for Dhanusadham and the Mithila art centre. One night is possible with a flight. For Vivah Panchami, plan three nights."
+    },
+    {
+      "q": "What is the Janaki Mandir aarti time?",
+      "a": "The evening aarti is at sunset, roughly 5:30 pm in winter and 7 pm in summer, with a morning aarti soon after opening. Exact times vary with season and festivals. Arrive half an hour early to find space in the courtyard, and check with your guide on the day."
+    },
+    {
+      "q": "How do I reach Janakpur from Kathmandu?",
+      "a": "By a 25-minute flight with Buddha Air or Shree Airlines, or by road in 7–8 hours via the BP Highway through Sindhuli and Bardibas, about 230 km. Buses also run day and night. Flying one way and driving the other is a good compromise."
+    },
+    {
+      "q": "How do I reach Janakpur from Bihar?",
+      "a": "From Jaynagar, about 30 km away, by the cross-border train to Janakpur or by road in about an hour. From Sitamarhi, it is about 50 km and 2 hours via Bhitthamore. Indian citizens need a passport or voter ID. Third-country nationals should use an international border such as Raxaul–Birgunj."
+    },
+    {
+      "q": "When is Vivah Panchami in Janakpur?",
+      "a": "Vivah Panchami falls on the fifth day of the bright half of Mangsir, in late November or December. In 2026 most published calendars give 14 December. Celebrations run for about a week before. Book hotels and flights at least two months ahead."
+    },
+    {
+      "q": "What is the best time to visit Janakpur?",
+      "a": "October to March, when days are 18–28 °C. Vivah Panchami, Chhath and Ram Navami are the big festival periods. April to June is very hot, often above 40 °C, and July to September is monsoon, with heavy rain and occasional flooding."
+    },
+    {
+      "q": "Are there good hotels in Janakpur?",
+      "a": "Janakpur's hotels are simple 2- to 3-star properties with clean rooms and vegetarian food, not resorts. The best options are within walking distance of the Janaki Mandir. We choose hotels for location and cleanliness and book them early for festival dates."
+    },
+    {
+      "q": "Can I combine Janakpur with other pilgrimages in Nepal?",
+      "a": "Yes. Our Devghat and Janakpur yatra links Pashupatinath, Manakamana, Devghat and Janakpur in six days. Many pilgrims also combine Janakpur with Muktinath via Pokhara, or with Lumbini on a wider Nepal pilgrimage. Indian groups often add Sitamarhi."
+    }
   ]
 }

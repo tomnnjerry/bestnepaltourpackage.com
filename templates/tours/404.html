@@ -1,0 +1,28 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Page Not Found{% endblock %}
+{% block meta_description %}This page does not exist. Search Nepal tour packages, heli tours, treks and guides, or ask us for a free quote.{% endblock %}
+{% block extra_head %}<meta name="robots" content="noindex">{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "compass" %}Error 404</p><h1>This trail does not go anywhere</h1><p class="phead__lede">The page you asked for does not exist or has moved. Search below, pick a popular page or tell us what you were looking for.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "compass" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <form class="filters" action="{% url 'packages' %}" method="get" role="search" aria-label="Search packages" style="grid-template-columns:1fr auto">
+    <label class="field"><span>Search packages</span><input type="search" name="q" placeholder="Everest heli tour, Muktinath, Pokhara" autocomplete="off"></label>
+    <button class="btn btn--foil" type="submit">{% icon "search" %}Search</button>
+  </form>
+  <h2 class="h3">Popular pages</h2>
+  <ul class="chips">
+    <li><a class="chip" href="{% url 'packages' %}">{% icon "ticket" %}Every package</a></li>
+    <li><a class="chip" href="{% url 'theme' 'heli-tours' %}">{% icon "heli" %}Heli tours</a></li>
+    <li><a class="chip" href="{% url 'theme' 'trekking' %}">{% icon "boot" %}Treks</a></li>
+    <li><a class="chip" href="{% url 'theme' 'kailash-yatra' %}">{% icon "kailash" %}Kailash yatra</a></li>
+    <li><a class="chip" href="{% url 'regions' %}">{% icon "map" %}Destinations</a></li>
+    <li><a class="chip" href="{% url 'seasons' %}">{% icon "calendar" %}Best time to visit</a></li>
+    <li><a class="chip" href="{% url 'guides' %}">{% icon "book" %}Travel guides</a></li>
+    <li><a class="chip" href="{% url 'contact' %}">{% icon "chat" %}Contact</a></li>
+  </ul>
+  <p style="margin-top:22px"><a class="btn btn--line" href="{% url 'home' %}">Home page</a> <button class="btn btn--line" type="button" data-search-open>{% icon "search" %}Search the whole site</button> <a class="btn btn--foil" href="{% url 'plan' %}?from=404" data-cta="404-plan">Ask us instead{% icon "arrow" %}</a></p>
+</div>
+
+{% if packages %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Trips to start with</h2><a class="textlink" href="{% url 'packages' %}">Every package{% icon "arrow" %}</a></div><div class="passes" data-stagger>{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

@@ -12,17 +12,71 @@
         "Every Manaslu Circuit trek builds towards one day: the crossing of Larkya La. Wikipedia and Nepal maps give the pass as 5,106 m, though many agencies quote 5,160 m. What matters more than the exact figure is the shape of the day: a gradual climb in the cold and dark, a short stop at the top and a long, steep descent. The timeline below is typical for a fit group in October."
       ],
       "table": {
-        "head": ["Time", "Where", "Altitude", "What happens"],
+        "head": [
+          "Time",
+          "Where",
+          "Altitude",
+          "What happens"
+        ],
         "rows": [
-          ["3:00–3:30 am", "Dharamsala", "≈ 4,460 m", "Wake-up tea, quick breakfast"],
-          ["4:00 am", "Leave camp", "≈ 4,460 m", "Headtorches on, climb onto moraine"],
-          ["5:30–6:30 am", "Frozen lakes", "≈ 4,800 m", "Dawn, short break, eat and drink"],
-          ["7:00–9:00 am", "Larkya La", "5,106 m", "Prayer flags, photos, 10–20 min stop"],
-          ["9:00–11:30 am", "Steep western descent", "5,100–4,300 m", "Scree and snow, slow and careful"],
-          ["11:30 am–1:00 pm", "Moraine and grass", "≈ 4,000 m", "Lunch stop, easier ground"],
-          ["1:00–3:00 pm", "Bimthang", "≈ 3,590 m", "Arrive, hot drink, rest"]
+          [
+            "3:00–3:30 am",
+            "Dharamsala",
+            "≈ 4,460 m",
+            "Wake-up tea, quick breakfast"
+          ],
+          [
+            "4:00 am",
+            "Leave camp",
+            "≈ 4,460 m",
+            "Headtorches on, climb onto moraine"
+          ],
+          [
+            "5:30–6:30 am",
+            "Frozen lakes",
+            "≈ 4,800 m",
+            "Dawn, short break, eat and drink"
+          ],
+          [
+            "7:00–9:00 am",
+            "Larkya La",
+            "5,106 m",
+            "Prayer flags, photos, 10–20 min stop"
+          ],
+          [
+            "9:00–11:30 am",
+            "Steep western descent",
+            "5,100–4,300 m",
+            "Scree and snow, slow and careful"
+          ],
+          [
+            "11:30 am–1:00 pm",
+            "Moraine and grass",
+            "≈ 4,000 m",
+            "Lunch stop, easier ground"
+          ],
+          [
+            "1:00–3:00 pm",
+            "Bimthang",
+            "≈ 3,590 m",
+            "Arrive, hot drink, rest"
+          ]
         ]
       }
+    },
+    {
+      "heading": "Acclimatisation in the days before",
+      "paras": [
+        "The crossing is only as good as the days that lead up to it. A sensible itinerary sleeps two nights at Samagaun (3,530 m), one or two at Samdo (3,875 m) and one at Dharamsala (≈ 4,460 m). That keeps each night's gain in sleeping height to roughly 350–600 m above 3,000 m, with the Samagaun rest day as a buffer. Rushed itineraries that skip the second night in Samagaun put most people at a real disadvantage on the pass.",
+        "Use the rest days actively. From Samagaun, a hike to Pungyen Gompa at about 4,000 m, or part of the way towards Manaslu Base Camp, followed by a night back in the village, follows the climb-high, sleep-low principle. At Samdo, a walk up the ridge above the village to about 4,200 m does the same. Many trekkers ask their doctor about acetazolamide (Diamox) before the trip; it can help acclimatisation but does not replace a sensible schedule."
+      ],
+      "list": [
+        "Night 1 at Samagaun, 3,530 m: arrive from Lho after a 3–4 hour walk",
+        "Night 2 at Samagaun: rest-day hike to about 4,000 m or higher",
+        "Night 3 at Samdo, 3,875 m: a 3–4 hour walk with about 350 m of gain",
+        "Night 4 at Samdo (optional): side hike to about 4,200 m",
+        "Night 5 at Dharamsala, ≈ 4,460 m: 3.5–4 hours from Samdo, arrive by lunch"
+      ]
     },
     {
       "heading": "The night before at Dharamsala",
@@ -53,9 +107,11 @@
       ]
     },
     {
-      "heading": "What to carry in your daypack",
+      "heading": "Daypack, food and pacing",
       "paras": [
-        "Porters carry your main bag, so your daypack should hold only what you need for the day. Keep it under 6 to 7 kg."
+        "Porters carry your main bag, so your daypack should hold only what you need for the day. Keep it under 6 to 7 kg.",
+        "On the pass day you burn far more energy than you can eat, so the aim is to keep topping up. Eat a proper breakfast of porridge, eggs or Tibetan bread even at 3:30 am, and carry snacks you actually like in an outside pocket so you do not have to stop and open your pack. Drink small amounts often. Cold water is hard to face at −10 °C, so hot water or tea in an insulated bottle helps; wrap bottles in a spare sock or carry them upside down so the lids do not freeze.",
+        "Guides usually set a slow, steady rhythm, with the lead guide at the front and an assistant guide or porter at the back so that nobody walks alone. If you know you are the slowest member of the group, say so the evening before. It is far safer to leave 30 minutes ahead of the others than to rush to catch up at 5,000 m."
       ],
       "list": [
         "Down jacket, windproof shell, fleece and thermal base layers",
@@ -72,20 +128,54 @@
       "heading": "Weather, snow and when to turn back",
       "paras": [
         "Larkya La can be blocked by snow from December to March and briefly in any month, including October and April after storms. Your guide talks to lodge owners and other guides at Samdo and Dharamsala about conditions. If heavy snow or a storm is forecast, the safe choice is to wait a day or turn back to Samagaun, where helicopters can fly you out. Never cross in a whiteout.",
-        "Know the signs of altitude illness and be honest with your guide. Mild headache, tiredness and poor sleep are common. Worsening headache, vomiting, loss of coordination, confusion or breathlessness at rest are danger signs of acute mountain sickness, cerebral oedema or pulmonary oedema. The treatment is descent. Your guide carries a pulse oximeter and will make the call if needed."
+        "Know the signs of altitude illness and be honest with your guide. Mild headache, tiredness and poor sleep are common. Worsening headache, vomiting, loss of coordination, confusion or breathlessness at rest are danger signs of acute mountain sickness, cerebral oedema or pulmonary oedema. The treatment is descent. Your guide carries a pulse oximeter and will make the call if needed.",
+        "Before the high point, turning back is simple: Samdo is 3–4 hours down the way you came, and Samagaun has regular helicopter access. Once over the top, the quickest way to lower ground is to keep going down to Bimthang, which is why guides use landmarks such as the frozen lakes as decision points for the group. Helicopter rescue from Dharamsala or Bimthang is possible in clear weather, but afternoon cloud often prevents it.",
+        "Your travel insurance must cover emergency helicopter evacuation to at least 5,500 m, and your agency needs the policy number and emergency phone line before the trek starts. Phone coverage is patchy at Dharamsala and on the pass; some lodges have satellite Wi-Fi, and guides usually carry a local SIM that works in parts of the valley. Agree with your guide before you leave who decides to turn back, and accept that decision on the day."
       ]
     }
   ],
-  "related_places": ["larkya-la", "samdo", "bimthang", "samagaun"],
+  "related_places": [
+    "larkya-la",
+    "samdo",
+    "bimthang",
+    "samagaun"
+  ],
   "faqs": [
-    {"q": "How long does it take to cross Larkya La?", "a": "Most trekkers take 8 to 10 hours from Dharamsala to Bimthang: 3 to 5 hours up to the pass at 5,106 m and 4 to 5 hours down. Deep snow or a slow group can stretch it to 11 hours. The distance is about 15 to 16 km."},
-    {"q": "What time should I start the Larkya La crossing?", "a": "Usually between 3 and 5 am. Early starts give time to cross before late-morning wind and cloud and to descend while the snow is firm. Your guide sets the time the evening before based on the group's pace and the latest conditions."},
-    {"q": "Is Larkya La harder than Thorong La?", "a": "Thorong La is about 300 m higher, but many trekkers find Larkya La just as hard because of the long, steep descent and simpler facilities at Dharamsala. Both are non-technical high passes that need good acclimatisation and fitness."},
-    {"q": "Do I need crampons for Larkya La?", "a": "Full crampons are rarely needed for trekkers. From November to April microspikes are very useful on the icy western descent. In heavy snow the pass is usually closed. Your guide will tell you before leaving Samagaun whether to rent microspikes in Kathmandu."},
-    {"q": "What if I get altitude sickness at Dharamsala?", "a": "Do not cross. With mild symptoms you may rest and reassess in the morning. With worsening headache, vomiting, confusion or breathlessness at rest, descend at once to Samdo or Samagaun. Helicopter evacuation can be arranged from Samagaun or, in good weather, from Dharamsala."},
-    {"q": "Can I hire a horse for Larkya La?", "a": "Horses are sometimes available from Samdo or Dharamsala to carry tired trekkers part of the way up, depending on season and conditions. They cannot safely carry riders down the steep western side. Ask your guide in Samagaun; availability is not guaranteed and prices are negotiated locally."},
-    {"q": "What is the weather like on Larkya La in October?", "a": "Usually clear at dawn, with temperatures around −10 to −15 °C at the start and strong, cold wind on the pass. Cloud often builds by late morning. Snow is uncommon in early October but possible after storms. Dress for winter and expect bright sun on the snow."},
-    {"q": "Is there anywhere to stop between Dharamsala and Bimthang?", "a": "There are no lodges or tea shops on the pass itself. Some years a seasonal tent stall operates near the top or on the descent, but do not rely on it. Carry all water and food you need for the day, and plan to reach Bimthang by mid afternoon."},
-    {"q": "How cold is it at Dharamsala before the pass?", "a": "In October nights fall to about −10 °C, and in November to −12 to −15 °C or lower. Rooms are unheated, so sleep in thermals and a hat inside a sleeping bag rated to −15 °C. Keep water bottles, phone and camera batteries inside the bag overnight."}
+    {
+      "q": "How long does it take to cross Larkya La?",
+      "a": "Most trekkers take 8 to 10 hours from Dharamsala to Bimthang: 3 to 5 hours up to the pass at 5,106 m and 4 to 5 hours down. Deep snow or a slow group can stretch it to 11 hours. The distance is about 15 to 16 km."
+    },
+    {
+      "q": "What time should I start the Larkya La crossing?",
+      "a": "Usually between 3 and 5 am. Early starts give time to cross before late-morning wind and cloud and to descend while the snow is firm. Your guide sets the time the evening before based on the group's pace and the latest conditions."
+    },
+    {
+      "q": "Is Larkya La harder than Thorong La?",
+      "a": "Thorong La is about 300 m higher, but many trekkers find Larkya La just as hard because of the long, steep descent and simpler facilities at Dharamsala. Both are non-technical high passes that need good acclimatisation and fitness."
+    },
+    {
+      "q": "Do I need crampons for Larkya La?",
+      "a": "Full crampons are rarely needed for trekkers. From November to April microspikes are very useful on the icy western descent. In heavy snow the pass is usually closed. Your guide will tell you before leaving Samagaun whether to rent microspikes in Kathmandu."
+    },
+    {
+      "q": "What if I get altitude sickness at Dharamsala?",
+      "a": "Do not cross. With mild symptoms you may rest and reassess in the morning. With worsening headache, vomiting, confusion or breathlessness at rest, descend at once to Samdo or Samagaun. Helicopter evacuation can be arranged from Samagaun or, in good weather, from Dharamsala."
+    },
+    {
+      "q": "Can I hire a horse for Larkya La?",
+      "a": "Horses are sometimes available from Samdo or Dharamsala to carry tired trekkers part of the way up, depending on season and conditions. They cannot safely carry riders down the steep western side. Ask your guide in Samagaun; availability is not guaranteed and prices are negotiated locally."
+    },
+    {
+      "q": "What is the weather like on Larkya La in October?",
+      "a": "Usually clear at dawn, with temperatures around −10 to −15 °C at the start and strong, cold wind on the pass. Cloud often builds by late morning. Snow is uncommon in early October but possible after storms. Dress for winter and expect bright sun on the snow."
+    },
+    {
+      "q": "Is there anywhere to stop between Dharamsala and Bimthang?",
+      "a": "There are no lodges or tea shops on the pass itself. Some years a seasonal tent stall operates near the top or on the descent, but do not rely on it. Carry all water and food you need for the day, and plan to reach Bimthang by mid afternoon."
+    },
+    {
+      "q": "How cold is it at Dharamsala before the pass?",
+      "a": "In October nights fall to about −10 °C, and in November to −12 to −15 °C or lower. Rooms are unheated, so sleep in thermals and a hat inside a sleeping bag rated to −15 °C. Keep water bottles, phone and camera batteries inside the bag overnight."
+    }
   ]
 }

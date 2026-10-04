@@ -1,0 +1,54 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Tour Packages from India: Flights, Border Crossings and Documents{% endblock %}
+{% block meta_description %}Nepal tour packages from Indian cities: flights to Kathmandu, road routes via Sonauli, Raxaul, Rupaidiha and Kakarbhitta, trains to the border and the ID Indians need.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "road" %}From India</p><h1>Nepal tour packages from India</h1><p class="phead__lede">Fly to Kathmandu, or drive or take the train to the border and cross by road. Pick your city for the routes, travel times and documents that apply to you.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "road" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+{% if origins %}<section class="sec--tight" aria-labelledby="h-cities"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "pin" %}Your city</p><h2 class="h2" id="h-cities">Choose where you start</h2></div></div>
+  <div class="grid grid--3" data-stagger>{% for o in origins %}<a class="panel" href="{{ o.url }}" style="display:block;text-decoration:none;color:var(--ink)">
+    <p class="kicker" style="margin-bottom:8px">{% icon "road" %}From {{ o.city }}{% if o.state and o.state != o.city %} · {{ o.state }}{% endif %}</p>
+    <b class="h3" style="display:block">{{ o.title }}</b>
+    <span class="muted" style="font-size:.92rem">{{ o.summary|truncatewords:26 }}</span>
+  </a>{% endfor %}</div>
+</div></section>{% endif %}
+
+<section class="sec dark" aria-labelledby="h-ways">
+  <div class="ridge ridge--top" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "route" %}Three ways in</p><h2 class="h2" id="h-ways">By air, by road or by rail and road</h2><p>Most travellers from the south and west of India fly. From Uttar Pradesh, Bihar and West Bengal the road is often quicker door to door.</p></div></div>
+    <div class="grid grid--3">
+      <div class="panel" style="background:rgba(255,255,255,.06);box-shadow:none"><h3 class="h3" style="color:#fff">{% icon "plane" %} By air</h3><p style="color:#C9D1DE">Tribhuvan International Airport in Kathmandu takes nearly all flights from India. Gautam Buddha International at Bhairahawa, 20 km from Lumbini, and Pokhara International have fewer international services. Airlines and schedules change, so check current status before you travel.</p></div>
+      <div class="panel" style="background:rgba(255,255,255,.06);box-shadow:none"><h3 class="h3" style="color:#fff">{% icon "car" %} By road</h3><p style="color:#C9D1DE">The main crossings for travellers are Sonauli–Belahiya (for Lumbini, Pokhara and Kathmandu), Raxaul–Birgunj (for Chitwan and Kathmandu), Rupaidiha–Nepalgunj (for Bardia and the far west), Jogbani–Biratnagar and Panitanki–Kakarbhitta (for eastern Nepal), and Banbasa–Mahendranagar. Indian cars need a customs permit at the border.</p></div>
+      <div class="panel" style="background:rgba(255,255,255,.06);box-shadow:none"><h3 class="h3" style="color:#fff">{% icon "route" %} By rail, then road</h3><p style="color:#C9D1DE">Apart from the short Jaynagar–Janakpur line, trains do not cross into Nepal. Take a train to a railhead near the border, such as Gorakhpur for Sonauli, Raxaul for Birgunj or New Jalpaiguri for Kakarbhitta, and we meet you with a car on the Nepal side.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-docs"><div class="wrap">
+  <div class="grid grid--2" style="align-items:start">
+    <div>
+      <p class="kicker">{% icon "permit" %}Documents</p>
+      <h2 class="h2" id="h-docs">What Indian citizens carry</h2>
+      <p class="lede">Indian citizens do not need a visa for Nepal. Adults show a valid Indian passport or a Voter ID card at the border or the airport. Aadhaar and PAN cards are not accepted as travel documents. Children's rules depend on age. A Kailash yatra needs a passport.</p>
+      <p class="notice">{% icon "info" %}<span>Document rules for Indian travellers, OCI cardholders and children change from time to time. Check current status before you travel; each city page sets out the detail.</span></p>
+    </div>
+    <div class="panel">
+      <h2 class="h3">What each city page covers</h2>
+      <ul class="ticks">
+        <li>{% icon "check" %}<span>Flights to Kathmandu or Bhairahawa and how long they take</span></li>
+        <li>{% icon "check" %}<span>The nearest border crossing, distance and driving time</span></li>
+        <li>{% icon "check" %}<span>Trains to the border railhead</span></li>
+        <li>{% icon "check" %}<span>Trip ideas that suit the time you have</span></li>
+        <li>{% icon "check" %}<span>Questions travellers from that city ask us</span></li>
+      </ul>
+      <a class="btn btn--foil btn--block" style="margin-top:18px" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="origins-quote">Get a quote from your city{% icon "arrow" %}</a>
+    </div>
+  </div>
+</div></section>
+
+{% if overland %}<section class="sec sec--tint" aria-labelledby="h-overland"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "road" %}Drive in</p><h2 class="h2" id="h-overland">Overland packages from the border</h2></div><a class="textlink" href="{% url 'theme' 'overland-from-india' %}">Overland from India{% icon "arrow" %}</a></div>
+  <div class="passes" data-stagger>{% for k in overland|slice:":6" %}{% include "tours/partials/pass.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+{% endblock %}

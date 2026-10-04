@@ -75,11 +75,34 @@ SITE = {
     "email": os.environ.get("BNTP_EMAIL", "[YOUR EMAIL]"),
     "phone": os.environ.get("BNTP_PHONE", "[YOUR PHONE]"),
     "whatsapp": os.environ.get("BNTP_WHATSAPP", ""),  # digits with country code, e.g. 9779800000000
+    "legal_name": "[LEGAL NAME OF THE COMPANY]",
     "address": "[YOUR OFFICE ADDRESS], Kathmandu, Nepal",
+    "hours": "[OFFICE HOURS, NEPAL TIME]",
     "licence": "[NEPAL TOURISM / DEPARTMENT OF TOURISM REGISTRATION NO.]",
     "byline": "Best Nepal Tour Package Travel Desk",
     "usd_rate": 84,  # INR per USD, only used by the budget calculator for display
 }
+
+# Enquiry alerts by email (optional). Every enquiry is always saved and listed in /admin/;
+# set EMAIL_HOST (and friends) to also get an email for each one.
+EMAIL_HOST = os.environ.get("EMAIL_HOST", "")
+EMAIL_PORT = int(os.environ.get("EMAIL_PORT", "587"))
+EMAIL_HOST_USER = os.environ.get("EMAIL_HOST_USER", "")
+EMAIL_HOST_PASSWORD = os.environ.get("EMAIL_HOST_PASSWORD", "")
+EMAIL_USE_TLS = os.environ.get("EMAIL_USE_TLS", "1") == "1"
+DEFAULT_FROM_EMAIL = os.environ.get("DEFAULT_FROM_EMAIL", EMAIL_HOST_USER or "webmaster@bestnepaltourpackage.com")
+ENQUIRY_NOTIFY_TO = os.environ.get("BNTP_NOTIFY_EMAIL", SITE["email"])
+
+# Production hardening: on when DEBUG is off (the site is served behind HTTPS).
+if not DEBUG:
+    if SECRET_KEY.startswith("dev-only"):
+        raise RuntimeError("Set DJANGO_SECRET_KEY before running with DJANGO_DEBUG=0")
+    SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+    SECURE_CONTENT_TYPE_NOSNIFF = True
+    SECURE_REFERRER_POLICY = "strict-origin-when-cross-origin"
+    SECURE_HSTS_SECONDS = int(os.environ.get("DJANGO_HSTS_SECONDS", "0"))  # raise to 31536000 once HTTPS is confirmed
 
 # Optional Google Analytics 4 measurement ID (e.g. G-XXXXXXX). Leave empty to load no analytics.
 GA4_ID = os.environ.get("BNTP_GA4", "")

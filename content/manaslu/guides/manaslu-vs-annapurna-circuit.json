@@ -12,17 +12,57 @@
         "The Manaslu and Annapurna circuits are neighbours. Both loop around a massif of 8,000 m peaks, both cross a high pass above 5,000 m, and they even meet: the Manaslu Circuit ends at Dharapani, which is a stop on the Annapurna Circuit. Yet they feel very different on the ground. The table below sums up the main differences for a typical itinerary from Kathmandu."
       ],
       "table": {
-        "head": ["", "Manaslu Circuit", "Annapurna Circuit"],
+        "head": [
+          "",
+          "Manaslu Circuit",
+          "Annapurna Circuit"
+        ],
         "rows": [
-          ["Typical length", "13–16 days from Kathmandu", "12–18 days from Kathmandu"],
-          ["High pass", "Larkya La, 5,106 m", "Thorong La, 5,416 m"],
-          ["Highest sleeping place", "Dharamsala, ≈ 4,460 m", "Thorong High Camp, ≈ 4,850 m"],
-          ["Roads on the route", "Jeep road to Machha Khola; trail above", "Jeep roads along much of both valleys"],
-          ["Permits", "Restricted area permit + MCAP + ACAP", "ACAP (plus TIMS where required)"],
-          ["Guide", "Licensed guide mandatory via agency", "Guide required under 2023 rules; check enforcement"],
-          ["Lodges", "Simpler teahouses, fewer beds", "Larger lodges, more choice and comforts"],
-          ["Trekkers in October", "Hundreds per day at most", "Many more, especially Manang to Muktinath"],
-          ["Typical agency price", "US$1,100–1,600", "US$800–1,300"]
+          [
+            "Typical length",
+            "13–16 days from Kathmandu",
+            "12–18 days from Kathmandu"
+          ],
+          [
+            "High pass",
+            "Larkya La, 5,106 m",
+            "Thorong La, 5,416 m"
+          ],
+          [
+            "Highest sleeping place",
+            "Dharamsala, ≈ 4,460 m",
+            "Thorong High Camp, ≈ 4,850 m"
+          ],
+          [
+            "Roads on the route",
+            "Jeep road to Machha Khola; trail above",
+            "Jeep roads along much of both valleys"
+          ],
+          [
+            "Permits",
+            "Restricted area permit + MCAP + ACAP",
+            "ACAP (plus TIMS where required)"
+          ],
+          [
+            "Guide",
+            "Licensed guide mandatory via agency",
+            "Guide required under 2023 rules; check enforcement"
+          ],
+          [
+            "Lodges",
+            "Simpler teahouses, fewer beds",
+            "Larger lodges, more choice and comforts"
+          ],
+          [
+            "Trekkers in October",
+            "Hundreds per day at most",
+            "Many more, especially Manang to Muktinath"
+          ],
+          [
+            "Typical agency price",
+            "US$1,100–1,600",
+            "US$800–1,300"
+          ]
         ]
       }
     },
@@ -55,8 +95,57 @@
       ]
     },
     {
-      "heading": "Permits, guides and cost",
+      "heading": "How the itineraries compare",
       "paras": [
+        "On paper the two treks take similar time, but the shape of the walking differs. Manaslu starts low, at Machha Khola, 930 m, and has no road above it, so you walk every day from the second day to the end. On the Annapurna side most groups now drive to Chame or even Manang and walk only the high section, which shortens the trek to 9–12 days but also shortens the time your body has to adjust. The table compares the key stages.",
+        "The practical result is that both treks give similar acclimatisation if you follow a good plan, but Manaslu enforces it because there is no road to cut it short. Annapurna rewards discipline: driving straight to Manang and crossing Thorong La four days later is possible, and it is a common cause of altitude problems on the Circuit.",
+        "Side trips differ too. From the Manaslu trail you can add the Tsum Valley, about 6–7 extra days, a long day hike to Manaslu Base Camp at about 4,800 m, or Birendra Tal near Samagaun. From Manang you can add Tilicho Lake at 4,919 m in 2–3 days, the Ice Lake day hike above Braga, or the restricted Nar Phu valley in 4–5 days."
+      ],
+      "table": {
+        "head": [
+          "Stage",
+          "Manaslu Circuit",
+          "Annapurna Circuit"
+        ],
+        "rows": [
+          [
+            "Walking starts",
+            "Machha Khola, 930 m",
+            "Besisahar 760 m, or Chame 2,670 m by jeep"
+          ],
+          [
+            "Acclimatisation stop",
+            "Samagaun, 3,530 m (1–2 nights)",
+            "Manang, 3,519 m (1–2 nights)"
+          ],
+          [
+            "Last village before the pass",
+            "Samdo, 3,875 m",
+            "Yak Kharka, ≈ 4,018 m"
+          ],
+          [
+            "Night before the pass",
+            "Dharamsala, ≈ 4,460 m",
+            "Thorong Phedi 4,450 m or High Camp ≈ 4,850 m"
+          ],
+          [
+            "Pass day",
+            "8–10 h, ≈ 650 m up, 1,500 m down",
+            "7–9 h, ≈ 570–970 m up, ≈ 1,700 m down"
+          ],
+          [
+            "Finish",
+            "Dharapani, then jeep to Besisahar",
+            "Muktinath, then jeep or Jomsom flight"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Permits, guides, lodges and cost",
+      "paras": [
+        "Rooms on both treks are cheap, often NPR 500–1,500 a night, because owners expect you to eat dinner and breakfast where you sleep. Food is where the difference shows. Manang has bakeries, cafés with espresso machines and long menus, and prices stay moderate because jeeps bring supplies. On Manaslu everything above Jagat arrives by mule or porter, menus are shorter and a plate of dal bhat costs roughly NPR 800–1,200 in Samagaun and more at Dharamsala. Budget about US$ 30–40 a day for food and lodging on Manaslu against US$ 25–35 on the Annapurna side.",
+        "Hot showers, phone charging and Wi-Fi are available at most Annapurna Circuit lodges, often for a small fee. On Manaslu, solar or gas showers are common up to Samagaun, charging can cost NPR 200–500 per device higher up, and Wi-Fi is patchy above Namrung. Carry a power bank and enough Nepali rupees in cash, as there are no ATMs on either trail above the road heads.",
         "Manaslu needs the restricted area permit, issued only through registered agencies and charged by the week and day, plus the Manaslu and Annapurna conservation area permits and a local fee. A licensed guide is compulsory. Since 2026, as we understand it, solo trekkers can obtain the permit without a partner. The Annapurna Circuit needs the Annapurna Conservation Area Permit, and Nepal's 2023 rules require foreign trekkers to use a licensed guide in most areas, though enforcement has varied; check current status before you travel.",
         "These differences explain the price gap. A 14-day Manaslu Circuit with a reputable agency usually costs US$1,100 to 1,600, compared with US$800 to 1,300 for a similar Annapurna Circuit."
       ]
@@ -75,16 +164,49 @@
       ]
     }
   ],
-  "related_places": ["samagaun", "larkya-la", "bimthang", "manang", "muktinath"],
+  "related_places": [
+    "samagaun",
+    "larkya-la",
+    "bimthang",
+    "manang",
+    "muktinath"
+  ],
   "faqs": [
-    {"q": "Is Manaslu harder than the Annapurna Circuit?", "a": "Overall they are similar. Thorong La is higher at 5,416 m against Larkya La at 5,106 m, but the Manaslu crossing day is long and steep on the descent, lodges are simpler and the route is more remote. Most trekkers rate Manaslu slightly harder because of the remoteness rather than the altitude."},
-    {"q": "Which is more beautiful, Manaslu or Annapurna?", "a": "Both are outstanding. Manaslu gives closer, more concentrated mountain views and wilder valleys with fewer roads. The Annapurna Circuit has greater variety, from Manang's peaks to the dry Kali Gandaki around Muktinath. Photographers seeking solitude often prefer Manaslu."},
-    {"q": "Is the Manaslu Circuit less crowded than Annapurna?", "a": "Yes, much less. The restricted area permit, compulsory guide and higher cost limit numbers, and there are fewer lodges. You will meet other groups in October, especially in Samagaun and Dharamsala, but not the crowds of Manang or Thorong Phedi."},
-    {"q": "Can I combine the Manaslu and Annapurna circuits?", "a": "Yes. The Manaslu Circuit ends at Dharapani on the Annapurna Circuit. From there you can walk on to Chame, Manang and Thorong La to Muktinath, adding about 8 to 10 days. You need the Manaslu permits plus the Annapurna Conservation Area Permit for the whole Annapurna section."},
-    {"q": "Do I need a guide for the Annapurna Circuit?", "a": "Nepal's 2023 rules require foreign trekkers to hire a licensed guide in most trekking areas, including Annapurna, though enforcement has varied in practice. On Manaslu the guide is strictly enforced through the restricted area permit. Check current status before you travel."},
-    {"q": "Which trek is better for first-timers?", "a": "The Annapurna Circuit is usually better for first-timers, with more lodges, better food choice, easier exits by road or flight and more flexibility to rest. Fit beginners can do Manaslu too, with a good itinerary and two nights in Samagaun."},
-    {"q": "Which is cheaper, Manaslu or Annapurna Circuit?", "a": "The Annapurna Circuit is cheaper, typically US$800 to 1,300 with an agency against US$1,100 to 1,600 for Manaslu. The difference comes mainly from Manaslu's restricted area permit and mandatory guide, plus higher food prices in its remote upper villages."},
-    {"q": "Which has better views of 8,000 m peaks?", "a": "Manaslu, because you walk right below an 8,000 m peak for several days. The Annapurna Circuit shows Annapurna I only distantly; its main views are of Annapurna II, III, IV and Gangapurna, all below 8,000 m, plus Dhaulagiri from the Kali Gandaki side."},
-    {"q": "Which trek has more roads now?", "a": "The Annapurna Circuit, by far. Jeep roads run up the Marsyangdi towards Manang and down the Kali Gandaki from Muktinath. On Manaslu the road reaches Machha Khola and sometimes Jagat; above that the route is still a footpath, although construction is moving north."}
+    {
+      "q": "Is Manaslu harder than the Annapurna Circuit?",
+      "a": "Overall they are similar. Thorong La is higher at 5,416 m against Larkya La at 5,106 m, but the Manaslu crossing day is long and steep on the descent, lodges are simpler and the route is more remote. Most trekkers rate Manaslu slightly harder because of the remoteness rather than the altitude."
+    },
+    {
+      "q": "Which is more beautiful, Manaslu or Annapurna?",
+      "a": "Both are outstanding. Manaslu gives closer, more concentrated mountain views and wilder valleys with fewer roads. The Annapurna Circuit has greater variety, from Manang's peaks to the dry Kali Gandaki around Muktinath. Photographers seeking solitude often prefer Manaslu."
+    },
+    {
+      "q": "Is the Manaslu Circuit less crowded than Annapurna?",
+      "a": "Yes, much less. The restricted area permit, compulsory guide and higher cost limit numbers, and there are fewer lodges. You will meet other groups in October, especially in Samagaun and Dharamsala, but not the crowds of Manang or Thorong Phedi."
+    },
+    {
+      "q": "Can I combine the Manaslu and Annapurna circuits?",
+      "a": "Yes. The Manaslu Circuit ends at Dharapani on the Annapurna Circuit. From there you can walk on to Chame, Manang and Thorong La to Muktinath, adding about 8 to 10 days. You need the Manaslu permits plus the Annapurna Conservation Area Permit for the whole Annapurna section."
+    },
+    {
+      "q": "Do I need a guide for the Annapurna Circuit?",
+      "a": "Nepal's 2023 rules require foreign trekkers to hire a licensed guide in most trekking areas, including Annapurna, though enforcement has varied in practice. On Manaslu the guide is strictly enforced through the restricted area permit. Check current status before you travel."
+    },
+    {
+      "q": "Which trek is better for first-timers?",
+      "a": "The Annapurna Circuit is usually better for first-timers, with more lodges, better food choice, easier exits by road or flight and more flexibility to rest. Fit beginners can do Manaslu too, with a good itinerary and two nights in Samagaun."
+    },
+    {
+      "q": "Which is cheaper, Manaslu or Annapurna Circuit?",
+      "a": "The Annapurna Circuit is cheaper, typically US$800 to 1,300 with an agency against US$1,100 to 1,600 for Manaslu. The difference comes mainly from Manaslu's restricted area permit and mandatory guide, plus higher food prices in its remote upper villages."
+    },
+    {
+      "q": "Which has better views of 8,000 m peaks?",
+      "a": "Manaslu, because you walk right below an 8,000 m peak for several days. The Annapurna Circuit shows Annapurna I only distantly; its main views are of Annapurna II, III, IV and Gangapurna, all below 8,000 m, plus Dhaulagiri from the Kali Gandaki side."
+    },
+    {
+      "q": "Which trek has more roads now?",
+      "a": "The Annapurna Circuit, by far. Jeep roads run up the Marsyangdi towards Manang and down the Kali Gandaki from Muktinath. On Manaslu the road reaches Machha Khola and sometimes Jagat; above that the route is still a footpath, although construction is moving north."
+    }
   ]
 }

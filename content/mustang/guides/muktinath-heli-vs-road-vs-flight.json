@@ -37,7 +37,15 @@
     {
       "heading": "Going all the way by road",
       "paras": [
-        "The road from Pokhara to Muktinath is about 185 km: paved to Beni, then a rough, partly unpaved track up the Kali Gandaki through Tatopani, Ghasa, Marpha and Jomsom. By private jeep it takes 8–10 hours of driving, best split over two days with a night at the Tatopani hot springs. It is the cheapest option, works whatever the cloud is doing and shows the full change from subtropical gorge to high desert. On the other hand, it is tiring, dusty and jolting, and from June to September landslides can block it for hours or days."
+        "The road from Pokhara to Muktinath is about 185 km: paved to Beni, then a rough, partly unpaved track up the Kali Gandaki through Tatopani, Ghasa, Marpha and Jomsom. By private jeep it takes 8–10 hours of driving, best split over two days with a night at the Tatopani hot springs. It is the cheapest option, works whatever the cloud is doing and shows the full change from subtropical gorge to high desert. On the other hand, it is tiring, dusty and jolting, and from June to September landslides can block it for hours or days.",
+        "A cheaper version uses public transport: buses leave Pokhara for Beni and Jomsom early each morning and take 9–11 hours, and shared jeeps and local buses run from Jomsom to Ranipauwa, the village below the temple, in about 1.5 hours. It suits younger pilgrims on a tight budget, but seats are cramped, luggage rides on the roof and schedules slip when the road is damaged."
+      ]
+    },
+    {
+      "heading": "Altitude and health at Muktinath",
+      "paras": [
+        "Muktinath at 3,710 m is high enough to cause mild altitude sickness, especially when you arrive suddenly by helicopter or after a single night in Jomsom. Headache, breathlessness on the temple steps and poor appetite are common and usually ease on descent. The walk from the jeep stand at Ranipauwa to the temple is 15–20 minutes uphill; ponies and, in season, motorbike taxis cover part of it. Drink water, walk slowly, avoid alcohol the night before and tell your guide if you feel dizzy.",
+        "Seniors with controlled blood pressure or diabetes usually manage well with a doctor's approval and their medicines in hand. People with a recent heart attack, unstable angina, severe asthma or chronic lung disease, and pregnant women, should avoid the trip or speak to a specialist first. Helicopter guests spend only about an hour at 3,710 m, which makes it the lowest-risk option for frail travellers, provided they can manage the short walk from the landing area."
       ]
     },
     {
@@ -46,15 +54,55 @@
         "The table below compares the three options for a family starting in Kathmandu. Costs are indicative per person for a group of four to six on twin sharing, and change with season, fuel prices and group size."
       ],
       "table": {
-        "head": ["", "Helicopter", "Flight via Jomsom", "Road by jeep"],
+        "head": [
+          "",
+          "Helicopter",
+          "Flight via Jomsom",
+          "Road by jeep"
+        ],
         "rows": [
-          ["Time from Kathmandu", "1 day", "5–6 days", "6–7 days"],
-          ["Cost per person", "₹52,000–1,00,000+", "From ₹54,000", "From ₹32,000"],
-          ["Time at Muktinath", "About 1 hour", "Half day", "Half day"],
-          ["Weather risk", "High, but quick to reschedule", "High, frequent delays", "Low outside monsoon"],
-          ["Comfort for seniors", "Best", "Good", "Tiring"],
-          ["Includes Kagbeni and Marpha", "Only by charter stop", "Yes", "Yes"],
-          ["Sleeping altitude", "None at altitude", "Jomsom 2,720 m", "Jomsom 2,720 m"]
+          [
+            "Time from Kathmandu",
+            "1 day",
+            "5–6 days",
+            "6–7 days"
+          ],
+          [
+            "Cost per person",
+            "₹52,000–1,00,000+",
+            "From ₹54,000",
+            "From ₹32,000"
+          ],
+          [
+            "Time at Muktinath",
+            "About 1 hour",
+            "Half day",
+            "Half day"
+          ],
+          [
+            "Weather risk",
+            "High, but quick to reschedule",
+            "High, frequent delays",
+            "Low outside monsoon"
+          ],
+          [
+            "Comfort for seniors",
+            "Best",
+            "Good",
+            "Tiring"
+          ],
+          [
+            "Includes Kagbeni and Marpha",
+            "Only by charter stop",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "Sleeping altitude",
+            "None at altitude",
+            "Jomsom 2,720 m",
+            "Jomsom 2,720 m"
+          ]
         ]
       }
     },
@@ -70,18 +118,65 @@
         "Give honest passenger weights so the pilot can plan the load",
         "Keep one spare day after any mountain flight before your train or international flight"
       ]
+    },
+    {
+      "heading": "What each price includes",
+      "paras": [
+        "Prices for the three options are not always quoted on the same basis, so compare what is included before you book. These are the points we check with every family."
+      ],
+      "list": [
+        "Helicopter: the price normally covers the flight, ACAP permit, airport tax and hotel transfers; ask whether a Kagbeni landing or extra waiting time costs more",
+        "Flight via Jomsom: tickets allow about 10 kg of checked baggage plus a small hand bag, and excess weight is charged per kg at the airport",
+        "Road: our prices assume a private 4WD jeep with driver; shared jeeps and buses are cheaper but slower and less comfortable",
+        "Indian nationals pay the SAARC rate for ACAP and lower NPR fares on domestic flights; other foreigners pay US$ fares",
+        "Puja items, priest dakshina and Kagbeni shraddha fees are paid locally in cash, so carry enough Nepali rupees"
+      ]
     }
   ],
-  "related_places": ["muktinath", "jomsom", "kagbeni", "damodar-kunda", "pokhara", "kathmandu"],
+  "related_places": [
+    "muktinath",
+    "jomsom",
+    "kagbeni",
+    "damodar-kunda",
+    "pokhara",
+    "kathmandu"
+  ],
   "faqs": [
-    {"q": "Which is cheaper: Muktinath by helicopter or flight?", "a": "The flight via Jomsom is usually cheaper, from about ₹54,000 per person for a 5-night package from Kathmandu including hotels. A Pokhara helicopter seat costs ₹52,000–65,000 for the flight alone, and from Kathmandu about ₹89,000 or more. The helicopter saves 3–4 days of hotels and meals, which narrows the gap."},
-    {"q": "What does per seat mean for a Muktinath helicopter?", "a": "Per seat means you pay for individual seats on a helicopter that the operator fills with other passengers flying the same morning. Each person pays roughly a fifth of the charter price. You share the timing with others and cannot add private stops, but it is the cheapest way to fly for small families."},
-    {"q": "Is it better to charter the full helicopter?", "a": "If you are four or five people, often yes. The cost per person is similar to buying all the seats, and you control departure time, can add a Kagbeni landing for shraddha and avoid waiting for other passengers. For one or two travellers, per-seat booking is far cheaper."},
-    {"q": "How often are Jomsom flights cancelled?", "a": "In spring and autumn, most mornings fly, though delays of a few hours are common. In the monsoon, July and August, and on windy winter days, cancellations can last several days in a row. Airlines rebook you on the next available flight. Always keep a buffer day."},
-    {"q": "Can we fly to Jomsom and come back by road?", "a": "Yes, and many families do. Flying up saves the long uphill drive and gives a better altitude profile; driving back avoids waiting if the return flight is cancelled. A private jeep from Jomsom to Pokhara takes 7–9 hours. We can book either combination."},
-    {"q": "Is the Muktinath helicopter safe?", "a": "Nepal's helicopter operators fly this route daily with experienced mountain pilots, and they cancel when weather is doubtful. Like all mountain aviation, it carries some risk, which is managed by flying only in clear morning conditions and respecting weight limits. Follow the crew's briefings and accept weather decisions."},
-    {"q": "Can children fly by helicopter to Muktinath?", "a": "Yes, children usually enjoy the flight, and the short time at altitude suits them better than overnight stays. Infants under one year and children with heart or lung conditions should not fly to 3,710 m without medical advice. Children count towards the weight limit and need a seat."},
-    {"q": "How long is the road from Kathmandu to Muktinath?", "a": "About 380 km: 200 km from Kathmandu to Pokhara (6–7 hours) and about 185 km from Pokhara to Muktinath (8–10 hours by jeep). We split it over three days with nights in Pokhara and Tatopani, then sleep in Jomsom and visit Muktinath by day."},
-    {"q": "Which option is best in the monsoon?", "a": "In July and August, helicopters offer the best chance because they can fly in short clear windows and reschedule quickly. Jomsom planes cancel often and the road suffers landslides. If you must travel then, keep at least two spare days whichever option you choose."}
+    {
+      "q": "Which is cheaper: Muktinath by helicopter or flight?",
+      "a": "The flight via Jomsom is usually cheaper, from about ₹54,000 per person for a 5-night package from Kathmandu including hotels. A Pokhara helicopter seat costs ₹52,000–65,000 for the flight alone, and from Kathmandu about ₹89,000 or more. The helicopter saves 3–4 days of hotels and meals, which narrows the gap."
+    },
+    {
+      "q": "What does per seat mean for a Muktinath helicopter?",
+      "a": "Per seat means you pay for individual seats on a helicopter that the operator fills with other passengers flying the same morning. Each person pays roughly a fifth of the charter price. You share the timing with others and cannot add private stops, but it is the cheapest way to fly for small families."
+    },
+    {
+      "q": "Is it better to charter the full helicopter?",
+      "a": "If you are four or five people, often yes. The cost per person is similar to buying all the seats, and you control departure time, can add a Kagbeni landing for shraddha and avoid waiting for other passengers. For one or two travellers, per-seat booking is far cheaper."
+    },
+    {
+      "q": "How often are Jomsom flights cancelled?",
+      "a": "In spring and autumn, most mornings fly, though delays of a few hours are common. In the monsoon, July and August, and on windy winter days, cancellations can last several days in a row. Airlines rebook you on the next available flight. Always keep a buffer day."
+    },
+    {
+      "q": "Can we fly to Jomsom and come back by road?",
+      "a": "Yes, and many families do. Flying up saves the long uphill drive and gives a better altitude profile; driving back avoids waiting if the return flight is cancelled. A private jeep from Jomsom to Pokhara takes 7–9 hours. We can book either combination."
+    },
+    {
+      "q": "Is the Muktinath helicopter safe?",
+      "a": "Nepal's helicopter operators fly this route daily with experienced mountain pilots, and they cancel when weather is doubtful. Like all mountain aviation, it carries some risk, which is managed by flying only in clear morning conditions and respecting weight limits. Follow the crew's briefings and accept weather decisions."
+    },
+    {
+      "q": "Can children fly by helicopter to Muktinath?",
+      "a": "Yes, children usually enjoy the flight, and the short time at altitude suits them better than overnight stays. Infants under one year and children with heart or lung conditions should not fly to 3,710 m without medical advice. Children count towards the weight limit and need a seat."
+    },
+    {
+      "q": "How long is the road from Kathmandu to Muktinath?",
+      "a": "About 380 km: 200 km from Kathmandu to Pokhara (6–7 hours) and about 185 km from Pokhara to Muktinath (8–10 hours by jeep). We split it over three days with nights in Pokhara and Tatopani, then sleep in Jomsom and visit Muktinath by day."
+    },
+    {
+      "q": "Which option is best in the monsoon?",
+      "a": "In July and August, helicopters offer the best chance because they can fly in short clear windows and reschedule quickly. Jomsom planes cancel often and the road suffers landslides. If you must travel then, keep at least two spare days whichever option you choose."
+    }
   ]
 }

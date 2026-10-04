@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "kathmandu-to-pokhara",
+    "from": "kathmandu",
+    "to": "pokhara",
+    "distance_km": 200,
+    "summary": "Kathmandu to Pokhara is about 200 km by road on the Prithvi Highway, 6–8 hours by private car or 7–9 hours by tourist bus, or a 25-minute flight. Driving lets you stop at Manakamana or Bandipur; flying saves a full day.",
+    "options": [
+      {
+        "mode": "Flight",
+        "time": "25 min",
+        "text": "Buddha Air, Yeti Airlines and Shree Airlines fly from Kathmandu's domestic terminal to Pokhara International Airport many times a day on ATR and Dash 8 turboprops. Foreigners pay roughly US$ 100–130 one way; Nepali and Indian nationals pay a lower rupee fare, often NPR 4,000–6,500. Sit on the right going west for the Himalaya. Morning flights are the most reliable, the checked baggage allowance is usually about 10–20 kg, and schedules change by season, so check current status before you travel."
+      },
+      {
+        "mode": "Private car",
+        "time": "6–8 h",
+        "text": "A private car or van with driver follows the Prithvi Highway west via Naubise, down to the Trishuli river, through Kurintar and Mugling, then up the Marsyangdi and Seti valleys via Dumre and Damauli. Expect NPR 14,000–20,000 per vehicle one way, about ₹9,000–13,000. Road widening between Naubise and Mugling still causes slow sections and dust. A car lets you stop where you like: Manakamana for darshan, Bandipur for lunch or a night, or a riverside lunch at Kurintar."
+      },
+      {
+        "mode": "Tourist bus",
+        "time": "7–9 h",
+        "text": "Tourist buses leave from Kantipath and Sorhakhutte near Thamel at about 7 am and arrive at Pokhara's Tourist Bus Park, a short taxi ride from Lakeside. Standard tourist coaches cost roughly NPR 1,000–2,000; premium services such as Greenline, which include lunch, cost about US$ 25–30. Buses stop for breakfast and lunch at roadside restaurants. They are the cheapest comfortable option, but seats are tight for tall travellers and luggage goes on the roof or in the hold."
+      }
+    ],
+    "stops_on_way": ["Naubise", "Kurintar (Manakamana cable car)", "Mugling", "Dumre (turn-off for Bandipur)", "Damauli", "Khairenitar"],
+    "tip": "Drive out and fly back, or the reverse, so that you see Manakamana or Bandipur once without spending two full days on the highway.",
+    "faqs": [
+      {
+        "q": "How long does it take from Kathmandu to Pokhara by road?",
+        "a": "Plan on 6–8 hours by private car and 7–9 hours by tourist bus for the 200 km on the Prithvi Highway. The variation comes from traffic leaving Kathmandu, road works between Naubise and Mugling and the number of stops. Leave by 7 am to arrive in Pokhara by mid-afternoon. In the monsoon, landslides can add several hours."
+      },
+      {
+        "q": "What is the flight cost from Kathmandu to Pokhara?",
+        "a": "Foreign passengers usually pay about US$ 100–130 one way for the 25-minute flight. Nepali and Indian nationals pay a cheaper rupee fare, often around NPR 4,000–6,500 one way depending on date and airline. Fares rise during Dashain, Tihar and the October peak. Our packages that use the flight include the fare and airport transfers."
+      },
+      {
+        "q": "Is the Kathmandu to Pokhara road safe?",
+        "a": "It is the busiest highway in Nepal and is driven daily by thousands of buses and cars. The risks are heavy trucks, narrow sections near the Trishuli river and landslides in the monsoon from June to September. Travel in daylight, use a private car with an experienced driver or a reputable tourist bus, and avoid overnight local buses."
+      },
+      {
+        "q": "Can I stop at Manakamana on the way to Pokhara?",
+        "a": "Yes. The cable car station at Kurintar sits beside the highway, about 105 km and 3.5–4 hours from Kathmandu. The ride takes about 10 minutes each way, and darshan takes 30 minutes to over an hour depending on the queue. Allow 2–3 hours in total, then drive about 3–3.5 hours more to Pokhara."
+      }
+    ]
+  },
+  {
+    "slug": "pokhara-to-bandipur",
+    "from": "pokhara",
+    "to": "bandipur",
+    "distance_km": 78,
+    "summary": "Bandipur is about 78 km east of Pokhara: 70 km along the Prithvi Highway to Dumre, then 8 km up a winding side road to the hilltop bazaar at about 1,030 m. The drive takes 2.5–3 hours by car, and local buses connect via Dumre.",
+    "options": [
+      {
+        "mode": "Private car",
+        "time": "2.5–3 h",
+        "text": "The simplest way. A car from Lakeside follows the Seti and Madi valleys east through Khairenitar and Damauli, reaches Dumre in about 2 hours, then climbs 8 km of hairpins to the car park at the edge of Bandipur, where vehicles stop and you walk into the pedestrian bazaar. Expect roughly NPR 7,000–10,000 one way per car. Many guests do it as part of a Kathmandu–Bandipur–Pokhara trip, overnighting in Bandipur on the way."
+      },
+      {
+        "mode": "Bus + local jeep",
+        "time": "3–4 h",
+        "text": "Any Kathmandu-bound tourist or local bus from Pokhara will drop you at Dumre, about 2–2.5 hours away, for NPR 500–800. Tell the conductor before boarding. From Dumre, shared jeeps and small local buses climb to Bandipur for about NPR 100–200 per person, leaving when full, usually every 30–60 minutes until early evening. A taxi from Dumre costs around NPR 1,000–1,500."
+      },
+      {
+        "mode": "Walk from Dumre",
+        "time": "2–2.5 h on foot",
+        "text": "Before the road was built, traders climbed to Bandipur on a stone trail, and parts of it remain. From Dumre, at about 440 m, a path climbs through farms and forest to the bazaar at about 1,030 m, a gain of roughly 600 m in 2–2.5 hours. It is hot work in April and May and slippery in the monsoon. Send your bags up by jeep and carry only water and a hat."
+      }
+    ],
+    "stops_on_way": ["Khairenitar", "Damauli (Vyas)", "Bimalnagar", "Dumre"],
+    "tip": "Arrive in Bandipur by mid-afternoon so you can walk to the Tundikhel viewpoint for sunset and climb to Thani Mai before breakfast.",
+    "faqs": [
+      {
+        "q": "How far is Bandipur from Pokhara?",
+        "a": "Bandipur is about 78 km from Pokhara Lakeside by road. The first 70 km follow the Prithvi Highway east to Dumre, and the last 8 km climb a narrow, paved side road to the hill town. By private car the trip takes 2.5–3 hours; by bus and shared jeep allow 3–4 hours including the wait at Dumre."
+      },
+      {
+        "q": "Can you drive into Bandipur bazaar?",
+        "a": "No. The main bazaar street is pedestrian only, and vehicles stop at a car park at the edge of town, a 5–10 minute walk from most hotels. Hotel staff or porters can carry your luggage. Elderly travellers should mention mobility needs in advance, because the lanes are paved but sloping, with some steps."
+      },
+      {
+        "q": "Is Bandipur a good day trip from Pokhara?",
+        "a": "It works as a day trip, with about 5–6 hours on the road return, but you miss the best of it. Bandipur is quiet and lovely at sunset and dawn, when the Annapurna and Manaslu ranges show from the ridge. We suggest an overnight stop between Kathmandu and Pokhara instead of a return day trip."
+      },
+      {
+        "q": "Is there a bus from Pokhara to Bandipur?",
+        "a": "There is no regular direct tourist bus. Take any bus heading towards Kathmandu or Narayangarh and get off at Dumre, about 2–2.5 hours from Pokhara. From Dumre, local buses and shared jeeps run up the 8 km road to Bandipur through the day. Services thin out after about 5 pm, so plan to arrive in daylight."
+      }
+    ]
+  },
+  {
+    "slug": "pokhara-to-chitwan-national-park",
+    "from": "pokhara",
+    "to": "chitwan-national-park",
+    "distance_km": 155,
+    "summary": "Pokhara to Sauraha, the main gateway to Chitwan National Park, is about 155 km via Mugling and Narayangarh. It takes 4.5–5.5 hours by private car or 5–6 hours by tourist bus, dropping from 822 m to about 150 m on the Terai plains.",
+    "options": [
+      {
+        "mode": "Private car",
+        "time": "4.5–5.5 h",
+        "text": "A car from Lakeside drives east on the Prithvi Highway to Mugling, about 95 km and 3 hours, then south along the Trishuli and Narayani rivers on a winding stretch to Narayangarh and Bharatpur. From there it is about 20 km east to Tandi and Sauraha. Expect roughly NPR 13,000–18,000 per vehicle one way. Leave by 8 am to reach your lodge in time for the afternoon canoe ride or Tharu village walk."
+      },
+      {
+        "mode": "Tourist bus",
+        "time": "5–6 h",
+        "text": "Tourist buses leave Pokhara's Tourist Bus Park at about 7–7:30 am and reach the bus park at Bachhauli, just north of Sauraha, around noon or early afternoon. Fares are roughly NPR 800–1,200, with premium services higher. Lodges usually send a jeep to meet the bus if you give them your arrival details. The route has meal stops and is the cheapest comfortable way between the two."
+      },
+      {
+        "mode": "Flight via Kathmandu",
+        "time": "Half a day or more",
+        "text": "There has been no reliable direct scheduled flight between Pokhara and Bharatpur, the airport nearest Chitwan. Flying means connecting through Kathmandu: 25 minutes to Kathmandu, a wait, then about 20 minutes to Bharatpur, and a 30-minute drive to Sauraha. It is rarely faster than driving and costs far more, so we use it only when a guest cannot manage the road. Check current status before you travel."
+      }
+    ],
+    "stops_on_way": ["Damauli", "Mugling", "Kurintar", "Narayangarh", "Bharatpur", "Tandi (Ratnanagar)"],
+    "tip": "Book a lodge that collects you from the Bachhauli bus park or from Bharatpur, because Sauraha's tourist bus park is a few kilometres from the river lodges.",
+    "faqs": [
+      {
+        "q": "How far is Chitwan from Pokhara?",
+        "a": "Sauraha, on the northern edge of Chitwan National Park, is about 155 km from Pokhara by road via Mugling and Narayangarh. The drive takes 4.5–5.5 hours by private car and 5–6 hours by tourist bus. Lodges on the western side near Meghauli are about the same distance but a different turn-off after Bharatpur."
+      },
+      {
+        "q": "Is there a flight from Pokhara to Chitwan?",
+        "a": "Not a reliable direct one. Bharatpur airport serves Chitwan, but scheduled flights run from Kathmandu, not Pokhara. Flying from Pokhara means changing in Kathmandu, which takes longer than the drive in most cases. Airlines sometimes add seasonal routes, so check current status before you travel; otherwise plan on the road."
+      },
+      {
+        "q": "Should I visit Pokhara or Chitwan first?",
+        "a": "Either works, but many itineraries run Kathmandu, then Chitwan, then Pokhara, and fly back to Kathmandu from Pokhara. That order avoids doubling back on the Mugling road and ends your trip with lake and mountain days rather than early safari starts. Coming from India by Sonauli, Lumbini, Chitwan and Pokhara also connect in a loop."
+      },
+      {
+        "q": "What does a Pokhara to Chitwan tourist bus cost?",
+        "a": "Standard tourist buses cost about NPR 800–1,200 per seat, with premium services such as Greenline costing more and including a meal. Buses leave Pokhara around 7–7:30 am and arrive at Bachhauli near Sauraha in 5–6 hours. Book through your hotel a day ahead in October and November, when seats sell out."
+      }
+    ]
+  }
+]

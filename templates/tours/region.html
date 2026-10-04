@@ -48,7 +48,7 @@
   <div class="ridge ridge--top" aria-hidden="true"></div>
   <div class="wrap">
     <div class="sec__head"><div><p class="kicker">{% icon "sparkle" %}Why go</p><h2 class="h2" id="h-hl">What {{ r.short|default:r.name }} does best</h2></div></div>
-    <ul class="hl" style="grid-template-columns:repeat(3,1fr)">{% for h in r.highlights %}<li style="background:rgba(255,255,255,.06);box-shadow:none"><b style="color:#fff">{{ h.title }}</b><p style="color:#C9D1DE">{{ h.text }}</p></li>{% endfor %}</ul>
+    <ul class="hl hl--3">{% for h in r.highlights %}<li style="background:rgba(255,255,255,.06);box-shadow:none"><b style="color:#fff">{{ h.title }}</b><p style="color:#C9D1DE">{{ h.text }}</p></li>{% endfor %}</ul>
   </div>
 </section>
 
@@ -70,7 +70,7 @@
 <section class="sec sec--tint" aria-labelledby="h-months">
   <div class="wrap">
     <div class="sec__head"><div><p class="kicker">{% icon "calendar" %}When</p><h2 class="h2" id="h-months">{{ r.short|default:r.name }} month by month</h2></div></div>
-    <ul class="styles" style="grid-template-columns:repeat(6,1fr)">{% for m in months %}<li><a href="{% url 'region_month' r.slug m.slug %}"><b>{{ m.name }}</b><span class="grade" data-g="{% if m.rating == 2 %}4{% elif m.rating == 1 %}2{% else %}0{% endif %}"><i></i><i></i><i></i><i></i></span><small>{{ m.weather|truncatechars:48 }}</small></a></li>{% endfor %}</ul>
+    <ul class="styles styles--6">{% for m in months %}<li><a href="{% url 'region_month' r.slug m.slug %}"><b>{{ m.name }}</b><span class="grade" data-g="{% if m.rating == 2 %}4{% elif m.rating == 1 %}2{% else %}0{% endif %}"><i></i><i></i><i></i><i></i></span><small>{{ m.weather|truncatechars:48 }}</small></a></li>{% endfor %}</ul>
   </div>
 </section>
 

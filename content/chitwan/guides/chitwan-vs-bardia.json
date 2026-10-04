@@ -19,18 +19,62 @@
         "The table summarises the main differences. Wildlife figures come from the 2021 rhino count and the 2022 national tiger survey; new counts have been planned, so check current status before you travel."
       ],
       "table": {
-        "head": ["", "Chitwan", "Bardia"],
+        "head": [
+          "",
+          "Chitwan",
+          "Bardia"
+        ],
         "rows": [
-          ["Location", "Central Terai, Bagmati Province", "Far-western Terai, Lumbini Province"],
-          ["Area", "952 km²", "968 km²"],
-          ["Tigers (2022)", "128", "125"],
-          ["Rhinos (2021)", "694", "38"],
-          ["From Kathmandu", "25 min flight or 5–7 h drive", "1 h flight to Nepalgunj + 2.5 h drive, or 12–14 h by road"],
-          ["Main base", "Sauraha, Patihani, Meghauli", "Thakurdwara"],
-          ["Hotels", "Hundreds, budget to luxury", "A few dozen lodges, mostly simple to mid-range"],
-          ["Visitors", "Busy, especially Sauraha", "Few, even in peak season"],
-          ["Safari style", "Jeep, canoe, walk", "Walking and jeep, Karnali rafting"],
-          ["Best for", "First-timers, families, short trips", "Tiger seekers, photographers, solitude"]
+          [
+            "Location",
+            "Central Terai, Bagmati Province",
+            "Far-western Terai, Lumbini Province"
+          ],
+          [
+            "Area",
+            "952 km²",
+            "968 km²"
+          ],
+          [
+            "Tigers (2022)",
+            "128",
+            "125"
+          ],
+          [
+            "Rhinos (2021)",
+            "694",
+            "38"
+          ],
+          [
+            "From Kathmandu",
+            "25 min flight or 5–7 h drive",
+            "1 h flight to Nepalgunj + 2.5 h drive, or 12–14 h by road"
+          ],
+          [
+            "Main base",
+            "Sauraha, Patihani, Meghauli",
+            "Thakurdwara"
+          ],
+          [
+            "Hotels",
+            "Hundreds, budget to luxury",
+            "A few dozen lodges, mostly simple to mid-range"
+          ],
+          [
+            "Visitors",
+            "Busy, especially Sauraha",
+            "Few, even in peak season"
+          ],
+          [
+            "Safari style",
+            "Jeep, canoe, walk",
+            "Walking and jeep, Karnali rafting"
+          ],
+          [
+            "Best for",
+            "First-timers, families, short trips",
+            "Tiger seekers, photographers, solitude"
+          ]
         ]
       }
     },
@@ -39,6 +83,20 @@
       "paras": [
         "With 694 of Nepal's 752 rhinos at the 2021 count, Chitwan is the place to see the one-horned rhinoceros. You see them grazing the grassland from jeeps, wading the Rapti from canoes, and even crossing into Sauraha at night. Chitwan also has gharial, gaur, sloth bear and more than 500 bird species, and its tiger population has grown to 128.",
         "Bardia's tiger numbers are similar, 125 in 2022, but in a park with far fewer people and vehicles, and its naturalists specialise in tracking tigers on foot and waiting at river crossings. Patient visitors who spend several days there have a good chance of a sighting, especially in March to May. Bardia also has herds of wild elephants, including large tuskers, swamp deer in its grasslands, and Gangetic river dolphins in the Karnali. Rhinos exist but in small numbers."
+      ]
+    },
+    {
+      "heading": "Safari activities compared",
+      "paras": [
+        "Chitwan's activities are well organised and easy to book from any hotel. Shared and private jeeps enter the core zone from Sauraha, the park headquarters at Kasara and Meghauli; dugout canoes float down the Rapti past mugger crocodiles; and walking safaris with two licensed guides cross grassland and riverine forest. Extras include the Elephant Breeding Centre at Khorsor, the gharial breeding centre at Kasara, birding at Bishazari Tal and Tharu dance in Sauraha.",
+        "Bardia is built around walking. Guided groups of two to four leave Thakurdwara on foot, often for a full day with a packed lunch, and spend hours sitting quietly at river crossings on the Karnali and Orai where tigers come to drink. Jeep drives cover the grasslands and the Karnali banks, and rafting trips on the Karnali give a chance of Gangetic dolphins near Chisapani. Activity programmes are less polished than in Chitwan, but naturalists tend to be specialists who have tracked the same tigers for years."
+      ],
+      "list": [
+        "Jeep safari: both parks; Chitwan has more departures and routes",
+        "Canoe ride: Chitwan's Rapti is the classic; limited in Bardia",
+        "Full-day walking safari: possible in both; Bardia's speciality",
+        "River rafting: Karnali in Bardia; the Trishuli on the way to Chitwan",
+        "Culture: Tharu villages and dance around both parks"
       ]
     },
     {
@@ -63,29 +121,75 @@
       ]
     },
     {
+      "heading": "Seasons in each park",
+      "paras": [
+        "Both parks follow the Terai calendar: dry and pleasant from October to March, very hot from April to early June, and wet from mid-June to mid-September. Chitwan's winter brings foggy mornings and lows near 7–8 °C in December and January, while Bardia, further west, has slightly colder nights and even hotter pre-monsoon days, often above 40 °C in May.",
+        "Tiger sightings peak in both parks from March to early June, when the grass is cut, water is scarce and animals concentrate along rivers. In the monsoon, Chitwan restricts most activities to the buffer zone and some lodges reduce services; in Bardia many lodges close entirely, and the Karnali floods. For a combined trip, February to April balances comfort and wildlife best. Park opening dates depend on each year's rains, so check current status before you travel."
+      ]
+    },
+    {
       "heading": "Which park should you choose",
       "paras": [
-        "Your choice comes down to time, comfort and what you most want to see."
+        "Your choice comes down to time, comfort and what you most want to see.",
+        "If you choose to combine them, the drive between the two parks is long, about 450 km and 10–11 hours along the East–West Highway, so most itineraries break it with a night in Lumbini. A practical 10-day plan looks like this."
       ],
       "list": [
         "Choose Chitwan if this is your first safari in Nepal, you have children or older relatives, you have less than a week, or rhinos are your priority",
         "Choose Chitwan for a luxury lodge, a honeymoon or a short add-on to Kathmandu and Pokhara",
         "Choose Bardia if tigers matter most and you can spend four nights",
         "Choose Bardia for solitude, walking safaris and a remote, low-key lodge",
-        "Do both on a 10–12 day trip: Chitwan for rhinos and culture, Bardia for tigers and wilderness"
+        "Do both on a 10–12 day trip: Chitwan for rhinos and culture, Bardia for tigers and wilderness",
+        "Days 1–2: arrive in Kathmandu; heritage sites",
+        "Days 3–5: fly or drive to Chitwan for three nights of jeep, canoe and walking safaris",
+        "Day 6: drive about 165 km to Lumbini; afternoon at the Maya Devi Temple",
+        "Day 7: drive about 330 km and 7–8 hours to Thakurdwara in Bardia",
+        "Days 8–9: walking and jeep safaris in Bardia",
+        "Day 10: drive 2.5 hours to Nepalgunj and fly about one hour to Kathmandu"
       ]
     }
   ],
-  "related_places": ["chitwan-national-park", "bardia-national-park", "sauraha", "meghauli"],
+  "related_places": [
+    "chitwan-national-park",
+    "bardia-national-park",
+    "sauraha",
+    "meghauli"
+  ],
   "faqs": [
-    {"q": "Is Chitwan or Bardia better for seeing tigers?", "a": "Bardia generally gives better tiger odds per day for patient visitors, because there are fewer people and its guides specialise in tracking on foot. Chitwan has a similar number of tigers, 128 in 2022, and sightings there are increasing, especially on full-day jeep drives. In either park, plan several days and treat a sighting as luck."},
-    {"q": "Is Chitwan or Bardia better for rhinos?", "a": "Chitwan, by far. It held 694 of Nepal's 752 rhinos at the 2021 count, and most visitors see several on a single safari. Bardia had 38 rhinos at the same count, and sightings there are much less common."},
-    {"q": "How do I get to Bardia from Kathmandu?", "a": "Fly from Kathmandu to Nepalgunj in about an hour, then drive roughly 95 km and 2.5 hours to Thakurdwara, the main base for Bardia. By road the whole way is about 520 km and 12–14 hours. Indian travellers can enter by road at Rupaidiha–Nepalgunj."},
-    {"q": "Can I visit both Chitwan and Bardia on one trip?", "a": "Yes, on a trip of 10 days or more. The drive between them is long, about 450 km and 10–12 hours via Butwal and the Mahendra Highway, so many people break it in Lumbini. Start in Chitwan for rhinos, then finish in Bardia for tigers and fly back to Kathmandu from Nepalgunj."},
-    {"q": "Which is cheaper, Chitwan or Bardia?", "a": "Chitwan is usually cheaper overall because it is easy to reach by road and has many budget options. Bardia's lodges can be good value, but flights to Nepalgunj and private transfers add cost. A comparable 3-night trip from Kathmandu costs more for Bardia."},
-    {"q": "Is Bardia good for families with kids?", "a": "It can be, but Chitwan is easier. Bardia's appeal is long walks and patient tiger tracking, which suits older children and teenagers better than young kids. Chitwan offers shorter activities, more comfortable resorts with pools and much shorter travel times."},
-    {"q": "Which park is better for photography?", "a": "Chitwan offers more reliable subjects, rhinos in open grassland, crocodiles and many birds, with good light on morning drives. Bardia offers rarer chances at tigers and elephants in wilder settings with fewer vehicles. Serious wildlife photographers often spend time in both."},
-    {"q": "Is Bardia more remote than Chitwan?", "a": "Yes. Bardia is in Nepal's far west, with fewer roads, lodges and visitors. Thakurdwara is a small village rather than a tourist town. That remoteness is the main attraction for many travellers, but it means simpler facilities and longer travel."},
-    {"q": "When is the best time to visit Chitwan and Bardia?", "a": "October to April for both, with February to May best for wildlife as grass is cut and animals gather at water. Bardia gets very hot from April and both parks close many areas during the monsoon, from mid-June to mid-September."}
+    {
+      "q": "Is Chitwan or Bardia better for seeing tigers?",
+      "a": "Bardia generally gives better tiger odds per day for patient visitors, because there are fewer people and its guides specialise in tracking on foot. Chitwan has a similar number of tigers, 128 in 2022, and sightings there are increasing, especially on full-day jeep drives. In either park, plan several days and treat a sighting as luck."
+    },
+    {
+      "q": "Is Chitwan or Bardia better for rhinos?",
+      "a": "Chitwan, by far. It held 694 of Nepal's 752 rhinos at the 2021 count, and most visitors see several on a single safari. Bardia had 38 rhinos at the same count, and sightings there are much less common."
+    },
+    {
+      "q": "How do I get to Bardia from Kathmandu?",
+      "a": "Fly from Kathmandu to Nepalgunj in about an hour, then drive roughly 95 km and 2.5 hours to Thakurdwara, the main base for Bardia. By road the whole way is about 520 km and 12–14 hours. Indian travellers can enter by road at Rupaidiha–Nepalgunj."
+    },
+    {
+      "q": "Can I visit both Chitwan and Bardia on one trip?",
+      "a": "Yes, on a trip of 10 days or more. The drive between them is long, about 450 km and 10–12 hours via Butwal and the Mahendra Highway, so many people break it in Lumbini. Start in Chitwan for rhinos, then finish in Bardia for tigers and fly back to Kathmandu from Nepalgunj."
+    },
+    {
+      "q": "Which is cheaper, Chitwan or Bardia?",
+      "a": "Chitwan is usually cheaper overall because it is easy to reach by road and has many budget options. Bardia's lodges can be good value, but flights to Nepalgunj and private transfers add cost. A comparable 3-night trip from Kathmandu costs more for Bardia."
+    },
+    {
+      "q": "Is Bardia good for families with kids?",
+      "a": "It can be, but Chitwan is easier. Bardia's appeal is long walks and patient tiger tracking, which suits older children and teenagers better than young kids. Chitwan offers shorter activities, more comfortable resorts with pools and much shorter travel times."
+    },
+    {
+      "q": "Which park is better for photography?",
+      "a": "Chitwan offers more reliable subjects, rhinos in open grassland, crocodiles and many birds, with good light on morning drives. Bardia offers rarer chances at tigers and elephants in wilder settings with fewer vehicles. Serious wildlife photographers often spend time in both."
+    },
+    {
+      "q": "Is Bardia more remote than Chitwan?",
+      "a": "Yes. Bardia is in Nepal's far west, with fewer roads, lodges and visitors. Thakurdwara is a small village rather than a tourist town. That remoteness is the main attraction for many travellers, but it means simpler facilities and longer travel."
+    },
+    {
+      "q": "When is the best time to visit Chitwan and Bardia?",
+      "a": "October to April for both, with February to May best for wildlife as grass is cut and animals gather at water. Bardia gets very hot from April and both parks close many areas during the monsoon, from mid-June to mid-September."
+    }
   ]
 }
