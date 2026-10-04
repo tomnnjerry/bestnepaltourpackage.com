@@ -53,6 +53,7 @@ Photos are credited on each page and on `/photo-credits/`.
 | `DJANGO_DEBUG` | `0` in production (default `1`) |
 | `DJANGO_ALLOWED_HOSTS` | Comma-separated host names |
 | `BNTP_EMAIL`, `BNTP_PHONE`, `BNTP_WHATSAPP` | Contact details shown on the site (defaults: hello@bestnepaltourpackage.com, +91 99546 34102; WhatsApp: digits with country code) |
+| `BNTP_FACEBOOK`, `BNTP_INSTAGRAM`, `BNTP_YOUTUBE`, `BNTP_X`, `BNTP_LINKEDIN`, `BNTP_TIKTOK` | Full https:// profile addresses. Each one that is set adds its icon to the footer, mobile menu and contact page, and to the site's structured data. WhatsApp always shows when a number is set |
 | `BNTP_GA4` | Google Analytics 4 measurement ID (optional) |
 | `BNTP_HASHED_STATIC` | `1` to serve hashed, compressed static files via WhiteNoise |
 | `EMAIL_HOST`, `EMAIL_PORT`, `EMAIL_HOST_USER`, `EMAIL_HOST_PASSWORD`, `EMAIL_USE_TLS` | SMTP for enquiry alerts (optional) |

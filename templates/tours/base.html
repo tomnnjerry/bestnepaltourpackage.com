@@ -92,6 +92,7 @@
           {% if tel %}<li><a href="tel:{{ tel }}" data-cta="footer-contact-call">{% icon "phone" %}<span><small>Call</small>{{ SITE.phone }}</span></a></li>{% endif %}
           <li><a href="mailto:{{ SITE.email }}" data-cta="footer-contact-email">{% icon "mail" %}<span><small>Email</small>{{ SITE.email }}</span></a></li>
         </ul>
+        {% if social %}<p class="foot__follow">Find us online</p>{% include "tours/partials/social.html" with cls="social--lg" %}{% endif %}
       </div>
       <form class="news" action="{% url 'subscribe' %}" method="post" data-cta-form="newsletter">
         {% csrf_token %}<input type="hidden" name="source_page" value="{{ request.path }}"><input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -154,6 +155,7 @@
   <details><summary>Destinations</summary><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" data-land="{{ r.slug }}"><span class="sw"></span>{{ r.name }}</a></li>{% endfor %}</ul></details>
   <details><summary>Tour styles</summary><ul>{% for t in nav_themes %}<li><a href="{{ t.url }}">{% icon t.icon %}{{ t.short|default:t.name }}</a></li>{% endfor %}</ul></details>
   <details><summary>Plan your trip</summary><ul><li><a href="{% url 'guides' %}">Travel guides</a></li><li><a href="{% url 'seasons' %}">Best time to visit</a></li><li><a href="{% url 'origins' %}">From India</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'journal' %}">Blog</a></li><li><a href="{% url 'how_we_work' %}">How booking works</a></li><li><a href="{% url 'contact' %}">Contact</a></li></ul></details>
+  {% if social %}<div class="sheet__social"><p>Find us online</p>{% include "tours/partials/social.html" %}</div>{% endif %}
   <div class="sheet__cta"><a class="btn btn--foil" href="{% url 'plan' %}">Get a free quote</a>{% if wa_base %}<a class="btn btn--line" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener">{% icon "whatsapp" %}WhatsApp</a>{% endif %}{% if tel %}<a class="btn btn--line" href="tel:{{ tel }}">{% icon "phone" %}Call {{ SITE.phone }}</a>{% endif %}</div>
 </div>
 

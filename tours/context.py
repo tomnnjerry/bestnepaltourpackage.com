@@ -14,6 +14,22 @@ def _asset_version():
     return int(max((p.stat().st_mtime for p in root.rglob("*") if p.suffix in (".css", ".js")), default=0))
 
 
+SOCIAL_LABELS = {"facebook": "Facebook", "instagram": "Instagram", "youtube": "YouTube", "x": "X", "linkedin": "LinkedIn",
+                 "tiktok": "TikTok"}
+
+
+def social_links(whatsapp_url=""):
+    """Configured social profiles (https only) in a fixed order, WhatsApp first when we have a number."""
+    out = []
+    if whatsapp_url:
+        out.append({"key": "whatsapp", "label": "WhatsApp", "url": whatsapp_url})
+    for key, label in SOCIAL_LABELS.items():
+        url = (getattr(settings, "SOCIAL", {}).get(key) or "").strip()
+        if url.startswith("https://"):
+            out.append({"key": key, "label": label, "url": url})
+    return out
+
+
 def site(request):
     cat = catalogue()
     S = settings.SITE
@@ -47,6 +63,7 @@ def site(request):
         "canonical": S["url"] + request.path,
         "tel": f"+{phone_digits}" if len(phone_digits) >= 10 else "",
         "wa_base": f"https://wa.me/{wa}" if len(wa) >= 10 else "",
+        "social": social_links(f"https://wa.me/{wa}" if len(wa) >= 10 else ""),
         "wa_text": quote(f"Hello Best Nepal Tour Package, I would like a quote. (Page: {S['url']}{request.path})"),
         "GA4": getattr(settings, "GA4_ID", ""),
         "V": _asset_version(),

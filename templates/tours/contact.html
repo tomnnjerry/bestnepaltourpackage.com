@@ -25,6 +25,11 @@
     </a>
   </div>
 
+  {% if social %}<section style="margin-top:40px" aria-labelledby="h-social">
+    <h2 class="h2" id="h-social">Find us online</h2>
+    {% include "tours/partials/social.html" with cls="social--lg" %}
+  </section>{% endif %}
+
   <section style="margin-top:40px" aria-labelledby="h-office">
     <h2 class="h2" id="h-office">Office and registration</h2>
     <div class="panel">

@@ -62,6 +62,10 @@ def org_ld():
         org["email"] = s["email"]
     if s.get("phone") and "[" not in s["phone"]:
         org["telephone"] = s["phone"]
+    from .context import social_links
+    same_as = [x["url"] for x in social_links() if x["key"] != "whatsapp"]
+    if same_as:
+        org["sameAs"] = same_as
     return org
 
 

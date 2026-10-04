@@ -1,0 +1,1 @@
+{% load tours %}{% if social %}<ul class="social {{ cls }}" aria-label="{{ SITE.name }} on social media">{% for s in social %}<li><a href="{{ s.url }}" data-net="{{ s.key }}" data-cta="social-{{ s.key }}" target="_blank" rel="noopener noreferrer me" aria-label="{{ s.label }}" title="{{ s.label }}">{% icon s.key %}</a></li>{% endfor %}</ul>{% endif %}
