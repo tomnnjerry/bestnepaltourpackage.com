@@ -27,7 +27,7 @@
 
   <h2 class="h2" id="who">Who runs your trip</h2>
   <p>[TEAM: names, roles and background of the people who answer enquiries and run trips. Add only facts you can stand behind.]</p>
-  <p>{{ SITE.name }} is a trading name of [LEGAL NAME], registered in Nepal. Registration: {{ SITE.licence }}.</p>
+  <p>{{ SITE.name }} is a trading name of {{ SITE.legal_name }}, registered in Nepal. Registration: {{ SITE.licence }}.</p>
 
   <h2 class="h2" id="photos">Where our photos come from</h2>
   <p>Every photo on this site comes from Wikimedia Commons under a free licence. We name the author and licence under each photo and list them all, with links to the originals, on our <a href="{% url 'photo_credits' %}">photo credits page</a>. The maps are drawn from Natural Earth data, which is in the public domain.</p>
@@ -40,7 +40,7 @@
   <div class="panel"><h2 class="h3">Company details</h2>
     <dl class="facts">
       <div><dt>Trading name</dt><dd>{{ SITE.name }}</dd></div>
-      <div><dt>Legal name</dt><dd>[LEGAL NAME]</dd></div>
+      <div><dt>Legal name</dt><dd>{{ SITE.legal_name }}</dd></div>
       <div><dt>Office</dt><dd>{{ SITE.address }}</dd></div>
       <div><dt>Registration</dt><dd>{{ SITE.licence }}</dd></div>
       <div><dt>Membership</dt><dd>[TAAN / NATTA membership]</dd></div>

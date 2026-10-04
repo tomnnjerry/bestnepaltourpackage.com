@@ -72,7 +72,7 @@ Put Nginx or your host's HTTPS proxy in front, forwarding `X-Forwarded-Proto`. W
 
 Placeholders in `[BRACKETS]` render as they are until you replace them:
 
-- `bntp/settings.py` `SITE`: office address and Department of Tourism registration number
+- `bntp/settings.py` `SITE`: legal name, office address, office hours and Department of Tourism registration number
   (email, phone and WhatsApp come from the environment variables above).
 - `templates/tours/base.html` footer: TAAN / NATTA membership and accepted payment methods.
 - `tours/policies.py`: every bracketed value (deposit %, cancellation scale, refund days, review date);

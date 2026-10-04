@@ -13,7 +13,7 @@
       <p class="kicker">{% icon "whatsapp" %}WhatsApp</p><h2 class="h3">Message us</h2><p class="muted" style="margin:0">Photos, prices and quick answers.</p>
     </a>{% endif %}
     {% if tel %}<a class="panel" href="tel:{{ tel }}" data-cta="contact-call" style="text-decoration:none;color:inherit">
-      <p class="kicker">{% icon "phone" %}Phone</p><h2 class="h3">{{ SITE.phone }}</h2><p class="muted" style="margin:0">[OFFICE HOURS, NEPAL TIME]. Outside those hours, ask for a call back.</p>
+      <p class="kicker">{% icon "phone" %}Phone</p><h2 class="h3">{{ SITE.phone }}</h2><p class="muted" style="margin:0">{{ SITE.hours }}. Outside those hours, ask for a call back.</p>
     </a>{% else %}<a class="panel" href="#callback" data-cta="contact-callback-card" style="text-decoration:none;color:inherit">
       <p class="kicker">{% icon "phone" %}Phone</p><h2 class="h3">We call you</h2><p class="muted" style="margin:0">Leave your number in the call-back form and pick a time that suits you.</p>
     </a>{% endif %}
@@ -33,7 +33,7 @@
         <div><dt>Office</dt><dd>{{ SITE.address }}</dd></div>
         <div><dt>Registration</dt><dd>{{ SITE.licence }}</dd></div>
         <div><dt>Membership</dt><dd>[TAAN / NATTA membership]</dd></div>
-        <div><dt>Office hours</dt><dd>[OFFICE HOURS, NEPAL TIME]</dd></div>
+        <div><dt>Office hours</dt><dd>{{ SITE.hours }}</dd></div>
         <div><dt>Email</dt><dd><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a></dd></div>
         {% if tel %}<div><dt>Phone</dt><dd><a href="tel:{{ tel }}">{{ SITE.phone }}</a></dd></div>{% endif %}
       </dl>

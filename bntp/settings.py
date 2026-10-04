@@ -75,7 +75,9 @@ SITE = {
     "email": os.environ.get("BNTP_EMAIL", "[YOUR EMAIL]"),
     "phone": os.environ.get("BNTP_PHONE", "[YOUR PHONE]"),
     "whatsapp": os.environ.get("BNTP_WHATSAPP", ""),  # digits with country code, e.g. 9779800000000
+    "legal_name": "[LEGAL NAME OF THE COMPANY]",
     "address": "[YOUR OFFICE ADDRESS], Kathmandu, Nepal",
+    "hours": "[OFFICE HOURS, NEPAL TIME]",
     "licence": "[NEPAL TOURISM / DEPARTMENT OF TOURISM REGISTRATION NO.]",
     "byline": "Best Nepal Tour Package Travel Desk",
     "usd_rate": 84,  # INR per USD, only used by the budget calculator for display
