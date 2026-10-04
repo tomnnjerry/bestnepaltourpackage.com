@@ -29,6 +29,7 @@ edits as soon as you refresh.
 | `content/themes.json`, `origins.json` | Tour styles and "Nepal tour package from <city>" pages |
 | `content/journal/*.json` | Blog posts |
 | `content/images.json` | Photo records (Wikimedia Commons) built by `tools/build_images.py` |
+| `content/image_blocklist.json` | Commons file titles that must never appear (portraits, maps, satellite shots, wrong subject) |
 | `content/outlines.json` | Country outlines for the self-drawn SVG maps (`tools/build_outlines.py`) |
 
 ## Tools
@@ -40,7 +41,9 @@ python tools/crawl.py                            # render every linked page and 
 ```
 
 After adding places, stays or festivals, run `build_images.py` again; it only looks up new subjects
-(use `--refresh` to redo everything). Photos are credited on each page and on `/photo-credits/`.
+(use `--refresh` to redo everything). To drop a photo you do not want, add its Commons file title to
+`content/image_blocklist.json` and delete its record from `images.json`; the builder will not bring it back.
+Photos are credited on each page and on `/photo-credits/`.
 
 ## Settings (environment variables)
 
