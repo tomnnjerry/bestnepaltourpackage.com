@@ -21,15 +21,55 @@
         "To the east, Ramagrama near Parasi is the Koliya relic stupa, believed to be the only one of the eight original relic stupas never opened. Devdaha, near Butwal, was the Koliya capital and the home of Maya Devi and her sister Prajapati Gautami, who raised the Buddha and became the first nun."
       ],
       "table": {
-        "head": ["Site", "Linked to", "From Lumbini", "Time on site"],
+        "head": [
+          "Site",
+          "Linked to",
+          "From Lumbini",
+          "Time on site"
+        ],
         "rows": [
-          ["Lumbini", "Birth of the Buddha", "—", "1 day"],
-          ["Tilaurakot", "Kapilavastu, childhood, renunciation", "≈ 27 km · 45 min", "2–2.5 h"],
-          ["Kudan", "Meeting with Suddhodana, Rahula's ordination", "≈ 25 km · 45 min", "45 min"],
-          ["Gotihawa", "Krakuchchanda Buddha, Ashoka pillar", "≈ 28 km · 50 min", "40 min"],
-          ["Niglihawa", "Kanakamuni Buddha, Ashoka pillar", "≈ 22 km · 45 min", "45 min"],
-          ["Ramagrama", "Unopened relic stupa of the Koliyas", "≈ 60 km · 1.5–2 h", "1–1.5 h"],
-          ["Devdaha", "Maya Devi's home, Koliya capital", "≈ 35–40 km · 1–1.25 h", "2–3 h"]
+          [
+            "Lumbini",
+            "Birth of the Buddha",
+            "—",
+            "1 day"
+          ],
+          [
+            "Tilaurakot",
+            "Kapilavastu, childhood, renunciation",
+            "≈ 27 km · 45 min",
+            "2–2.5 h"
+          ],
+          [
+            "Kudan",
+            "Meeting with Suddhodana, Rahula's ordination",
+            "≈ 25 km · 45 min",
+            "45 min"
+          ],
+          [
+            "Gotihawa",
+            "Krakuchchanda Buddha, Ashoka pillar",
+            "≈ 28 km · 50 min",
+            "40 min"
+          ],
+          [
+            "Niglihawa",
+            "Kanakamuni Buddha, Ashoka pillar",
+            "≈ 22 km · 45 min",
+            "45 min"
+          ],
+          [
+            "Ramagrama",
+            "Unopened relic stupa of the Koliyas",
+            "≈ 60 km · 1.5–2 h",
+            "1–1.5 h"
+          ],
+          [
+            "Devdaha",
+            "Maya Devi's home, Koliya capital",
+            "≈ 35–40 km · 1–1.25 h",
+            "2–3 h"
+          ]
         ]
       }
     },
@@ -47,6 +87,20 @@
       ]
     },
     {
+      "heading": "A sample 5-night circuit, day by day",
+      "paras": [
+        "This is the pace we suggest for pilgrims arriving by air from Kathmandu or by road from the Sonauli border. Each outing starts early and returns to Lumbini by early afternoon, leaving time for rest, chanting or a visit to the monasteries."
+      ],
+      "list": [
+        "Day 1: fly Kathmandu–Bhairahawa in about 35 minutes or cross at Sonauli; drive 22 km to Lumbini; evening at the World Peace Pagoda",
+        "Day 2: Sacred Garden at about 6 am, Maya Devi Temple, Ashoka pillar and Puskarini pond; afternoon in the monastic zones",
+        "Day 3: Tilaurakot and the Kapilvastu Museum, then Kudan and Gotihawa; back by 2 pm",
+        "Day 4: Niglihawa on the way to the Lumbini crane wetlands, or a meditation morning at a vipassana centre",
+        "Day 5: Ramagrama stupa, then Devdaha and its Maya Devi shrine and pond; return to Lumbini",
+        "Day 6: drive to Bhairahawa for the flight to Kathmandu, or to Sonauli for Kushinagar and Gorakhpur"
+      ]
+    },
+    {
       "heading": "Joining the Indian Buddhist sites",
       "paras": [
         "Many pilgrims combine Nepal with India in one journey. Kushinagar, where the Buddha passed away, is about 175 km from Lumbini via the Sonauli border and Gorakhpur, five to six hours by road. Sarnath, beside Varanasi, is about 330 km away, and Bodh Gaya roughly 250 km beyond Varanasi. Shravasti, where the Buddha spent many rainy seasons, is reached from the Nepalgunj side or by a longer drive via Balrampur.",
@@ -61,6 +115,19 @@
       ]
     },
     {
+      "heading": "Fees, etiquette and practical tips",
+      "paras": [
+        "The Lumbini Development Trust charges a conservation fee for the Maya Devi Temple area. As we understand it, the rates were raised in 2026 to about NPR 700 for SAARC and Myanmar nationals, including Indians, and NPR 1,000 for other foreigners, with a small charge for cameras; monks and nuns are exempt. Tickets are sold at the gate and online. Tilaurakot and the Kapilvastu Museum charge modest separate fees, while Kudan, Gotihawa and Niglihawa are usually free. Check current status before you travel.",
+        "Shoes come off at the Maya Devi Temple entrance and photography is not allowed inside, so carry socks for cold winter floors. Walk clockwise around stupas, the Ashoka pillars and the bodhi tree, never point your feet at a Buddha image, and ask before photographing monks and nuns at prayer. Butter lamps and incense are lit only in the marked areas of the Sacred Garden."
+      ],
+      "list": [
+        "Carry water, a hat and sunscreen; outlying sites have little shade and few shops",
+        "Keep small notes for donation boxes and caretakers at the Kapilavastu sites",
+        "Dress modestly with shoulders and knees covered at every site",
+        "Hire a bicycle or electric rickshaw inside the Lumbini master-plan area; it is about 4.8 km end to end"
+      ]
+    },
+    {
       "heading": "Costs and booking tips",
       "paras": [
         "For Indian nationals, a 5-night Nepal Buddhist circuit with 3-star hotels, breakfast and dinner, private car, guide and entry fees starts at about ₹34,000 per person on a twin-sharing basis; the foreign-national rate is about US$ 430, reflecting higher entry fees. Groups of eight or more save by travelling in a minibus. Flights from Kathmandu to Bhairahawa are extra.",
@@ -68,16 +135,50 @@
       ]
     }
   ],
-  "related_places": ["lumbini", "tilaurakot", "kudan", "niglihawa", "ramagrama", "devdaha"],
+  "related_places": [
+    "lumbini",
+    "tilaurakot",
+    "kudan",
+    "niglihawa",
+    "ramagrama",
+    "devdaha"
+  ],
   "faqs": [
-    {"q": "What are the Buddhist sites in Nepal?", "a": "The main Buddhist sites in Nepal's Terai are Lumbini (birthplace), Tilaurakot (ancient Kapilavastu), Kudan, Gotihawa, Niglihawa, Ramagrama and Devdaha. In the Kathmandu Valley, Swayambhunath and Boudhanath are major stupas, and Namo Buddha near Dhulikhel is another pilgrimage site. This guide covers the Terai circuit around Lumbini."},
-    {"q": "How many days do I need for the Nepal Buddhist circuit?", "a": "Four to five nights based in Lumbini covers all seven Terai sites comfortably: one day for Lumbini, one for the Kapilavastu cluster and one for Ramagrama and Devdaha, plus arrival and departure. With two nights, focus on Lumbini and Tilaurakot."},
-    {"q": "Is Kapilavastu in Nepal or India?", "a": "Both countries claim it. Nepal identifies Kapilavastu with Tilaurakot near Taulihawa, a walled city with gates and a moat dated to the Buddha's era. India points to Piprahwa in Uttar Pradesh, where a relic casket inscription was found. The question is unresolved, and many pilgrims visit both."},
-    {"q": "Which is better: Nepal or India Buddhist circuit?", "a": "They complement each other. Nepal holds the birth and early life sites, India the enlightenment, first sermon and passing. If you can, combine them overland through Sonauli: Bodh Gaya or Sarnath, Kushinagar, then Lumbini and Kapilavastu, over 8–12 days."},
-    {"q": "What is the cost of a Nepal Buddhist circuit tour?", "a": "Our 5-night circuit starts at about ₹34,000 per person for Indian nationals or US$ 430 for foreign nationals, twin sharing, with 3-star hotels, breakfast and dinner, private car, guide and entry fees. Groups pay less per person. Flights to Bhairahawa are extra."},
-    {"q": "Can elderly pilgrims do the Buddhist circuit?", "a": "Yes. Every site is on flat ground, cars can park close to entrances and walks are short. The longest day involves about five hours of driving with breaks. Battery rickshaws can replace bicycles in Lumbini, and wheelchairs can be arranged with notice."},
-    {"q": "Do I need a guide for the Buddhist sites?", "a": "It is strongly recommended. Outside Lumbini, signs are few and the remains are modest. A guide explains the history, archaeology and texts behind each site, finds the right village roads and handles tickets. Our circuit packages include a dedicated guide."},
-    {"q": "Can monks and nuns get special arrangements?", "a": "Yes. We arrange early starts for chanting, vegetarian meals, meals before noon for those who observe that rule, and extra time for puja at each site. Larger temple groups travel by minibus. Tell us your tradition and requirements when booking."},
-    {"q": "Where should I stay for the Buddhist circuit?", "a": "Stay in Lumbini, which is central to all the sites. Buddha Maya Gardens and Lumbini Hokke Hotel are comfortable 3-star options near the Sacred Garden. A final night in Bhairahawa, at Hotel Nirvana for example, suits early flights or border crossings."}
+    {
+      "q": "What are the Buddhist sites in Nepal?",
+      "a": "The main Buddhist sites in Nepal's Terai are Lumbini (birthplace), Tilaurakot (ancient Kapilavastu), Kudan, Gotihawa, Niglihawa, Ramagrama and Devdaha. In the Kathmandu Valley, Swayambhunath and Boudhanath are major stupas, and Namo Buddha near Dhulikhel is another pilgrimage site. This guide covers the Terai circuit around Lumbini."
+    },
+    {
+      "q": "How many days do I need for the Nepal Buddhist circuit?",
+      "a": "Four to five nights based in Lumbini covers all seven Terai sites comfortably: one day for Lumbini, one for the Kapilavastu cluster and one for Ramagrama and Devdaha, plus arrival and departure. With two nights, focus on Lumbini and Tilaurakot."
+    },
+    {
+      "q": "Is Kapilavastu in Nepal or India?",
+      "a": "Both countries claim it. Nepal identifies Kapilavastu with Tilaurakot near Taulihawa, a walled city with gates and a moat dated to the Buddha's era. India points to Piprahwa in Uttar Pradesh, where a relic casket inscription was found. The question is unresolved, and many pilgrims visit both."
+    },
+    {
+      "q": "Which is better: Nepal or India Buddhist circuit?",
+      "a": "They complement each other. Nepal holds the birth and early life sites, India the enlightenment, first sermon and passing. If you can, combine them overland through Sonauli: Bodh Gaya or Sarnath, Kushinagar, then Lumbini and Kapilavastu, over 8–12 days."
+    },
+    {
+      "q": "What is the cost of a Nepal Buddhist circuit tour?",
+      "a": "Our 5-night circuit starts at about ₹34,000 per person for Indian nationals or US$ 430 for foreign nationals, twin sharing, with 3-star hotels, breakfast and dinner, private car, guide and entry fees. Groups pay less per person. Flights to Bhairahawa are extra."
+    },
+    {
+      "q": "Can elderly pilgrims do the Buddhist circuit?",
+      "a": "Yes. Every site is on flat ground, cars can park close to entrances and walks are short. The longest day involves about five hours of driving with breaks. Battery rickshaws can replace bicycles in Lumbini, and wheelchairs can be arranged with notice."
+    },
+    {
+      "q": "Do I need a guide for the Buddhist sites?",
+      "a": "It is strongly recommended. Outside Lumbini, signs are few and the remains are modest. A guide explains the history, archaeology and texts behind each site, finds the right village roads and handles tickets. Our circuit packages include a dedicated guide."
+    },
+    {
+      "q": "Can monks and nuns get special arrangements?",
+      "a": "Yes. We arrange early starts for chanting, vegetarian meals, meals before noon for those who observe that rule, and extra time for puja at each site. Larger temple groups travel by minibus. Tell us your tradition and requirements when booking."
+    },
+    {
+      "q": "Where should I stay for the Buddhist circuit?",
+      "a": "Stay in Lumbini, which is central to all the sites. Buddha Maya Gardens and Lumbini Hokke Hotel are comfortable 3-star options near the Sacred Garden. A final night in Bhairahawa, at Hotel Nirvana for example, suits early flights or border crossings."
+    }
   ]
 }

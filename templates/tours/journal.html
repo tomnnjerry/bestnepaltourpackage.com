@@ -1,0 +1,32 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{% if category %}{{ category.name|capfirst }}: Nepal Travel Blog{% else %}Nepal Travel Blog: Trip Notes, Costs and Seasons{% endif %}{% endblock %}
+{% block meta_description %}{% if category %}{{ category.name|capfirst }} posts from our Nepal travel blog: trip notes, prices, seasons and practical advice for heli tours, treks and tours.{% else %}Our Nepal travel blog: trip notes, prices, seasons, festivals, permits and practical advice for heli tours, treks, pilgrimages and family trips.{% endif %}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in">
+  <p class="kicker">{% if category %}<a href="{% url 'journal' %}">{% icon "book" %}Blog</a>{% else %}{% icon "book" %}Blog{% endif %}</p>
+  <h1>{% if category %}{{ category.name|capfirst }}{% else %}Nepal travel blog{% endif %}</h1>
+  <p class="phead__lede">{% if category %}{{ posts|length }} post{{ posts|length|pluralize }} on {{ category.name|lower }}, newest first.{% else %}Notes from the trip desk: what things cost this season, what changed on the trails, and what travellers asked us this month.{% endif %}</p>
+</div></div><div class="phead__icon" aria-hidden="true">{% icon "book" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight"><div class="wrap">
+  {% if cats|length > 1 %}<nav aria-label="Blog topics" style="margin-bottom:30px"><ul class="chips">
+    <li><a class="chip{% if not category %} is-on{% endif %}" href="{% url 'journal' %}"{% if not category %} aria-current="page"{% endif %}>All posts</a></li>
+    {% for c in cats %}{% if c.slug %}<li><a class="chip{% if category.slug == c.slug %} is-on{% endif %}" href="{% url 'journal_cat' c.slug %}"{% if category.slug == c.slug %} aria-current="page"{% endif %}>{{ c.name|capfirst }} <small class="muted">{{ c.posts|length }}</small></a></li>{% endif %}{% endfor %}
+  </ul></nav>{% endif %}
+
+  {% if posts %}
+    {% with d=posts.0 %}<article class="grid grid--2" style="align-items:center;margin-bottom:40px"{% if d.land %} data-land="{{ d.land }}"{% endif %}>
+      <a href="{{ d.url }}" style="display:block;border-radius:var(--r);overflow:hidden" tabindex="-1" aria-hidden="true">{% photo d|first_img d.title "" "(max-width: 760px) 100vw, 50vw" True False %}</a>
+      <div>
+        <p class="kicker">{% if d.category %}{{ d.category|capfirst }} · {% endif %}{% if d.date_obj %}<time datetime="{{ d.date }}">{{ d.date_obj|date:"j F Y" }}</time> · {% endif %}{{ d.read_min }} min read</p>
+        <h2 class="h2"><a href="{{ d.url }}" style="color:inherit;text-decoration:none">{{ d.title }}</a></h2>
+        <p class="lede">{{ d.summary }}</p>
+        <a class="textlink" href="{{ d.url }}">Read the post{% icon "arrow" %}</a>
+      </div>
+    </article>{% endwith %}
+    {% if posts|length > 1 %}<div class="grid grid--3" data-stagger>{% for d in posts|slice:"1:" %}{% include "tours/partials/post_card.html" %}{% endfor %}</div>{% endif %}
+  {% else %}
+    <div class="empty"><h2 class="h3">No posts here yet</h2><p>Our first posts are being written. In the meantime, the travel guides cover costs, permits, seasons and difficulty for every region.</p><a class="btn btn--foil" href="{% url 'guides' %}">Read the travel guides{% icon "arrow" %}</a> <a class="btn btn--line" href="{% url 'seasons' %}">Best time to visit</a></div>
+  {% endif %}
+</div></section>
+{% endblock %}

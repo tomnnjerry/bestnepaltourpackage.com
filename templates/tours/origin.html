@@ -1,0 +1,72 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ o.title }}{% endblock %}
+{% block meta_description %}{{ o.meta_description|default:o.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ o.title }}{% endblock %}
+{% block og_image %}{% with i=packages.0|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block fab_label %}Quote from {{ o.city }}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in">
+  <p class="kicker"><a href="{% url 'origins' %}">{% icon "road" %}From India</a>{% if o.state and o.state != o.city %} · {{ o.state }}{% endif %}</p>
+  <h1>Nepal tour packages from {{ o.city }}</h1>
+  <p class="phead__lede">Flights, road routes{% if o.by_rail %}, trains{% endif %} and the documents you need to reach Nepal from {{ o.city }}, with trip ideas that fit the time you have.</p>
+  <ul class="phead__facts">
+    {% if o.by_air %}<li>{% icon "plane" %}By air</li>{% endif %}
+    {% if o.by_road %}<li>{% icon "car" %}By road</li>{% endif %}
+    {% if o.by_rail %}<li>{% icon "route" %}By rail and road</li>{% endif %}
+  </ul>
+</div></div><div class="phead__icon" aria-hidden="true">{% icon "road" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <div class="split">
+    <article class="prose">
+      {% include "tours/partials/brief.html" with text=o.summary %}
+      {% for para in o.intro %}<p>{{ para }}</p>{% endfor %}
+      {% if o.by_air %}<h2 class="h2" id="by-air">{% icon "plane" %} Flying from {{ o.city }}</h2><p>{{ o.by_air }}</p>{% endif %}
+      {% if o.by_road %}<h2 class="h2" id="by-road">{% icon "car" %} By road from {{ o.city }}</h2><p>{{ o.by_road }}</p>{% endif %}
+      {% if o.by_rail %}<h2 class="h2" id="by-rail">{% icon "route" %} By train to the border</h2><p>{{ o.by_rail }}</p>{% endif %}
+      {% if o.documents %}<h2 class="h2" id="documents">{% icon "permit" %} Documents for Indian travellers</h2><p class="notice">{% icon "info" %}<span>{{ o.documents }}</span></p>{% endif %}
+      {% if o.tips %}<h2 class="h2" id="tips">Tips for travellers from {{ o.city }}</h2><ul class="ticks">{% for tip in o.tips %}<li>{% icon "check" %}<span>{{ tip }}</span></li>{% endfor %}</ul>{% endif %}
+    </article>
+    <aside class="aside">
+      <div class="panel"><h2 class="h3">On this page</h2>
+        <ol class="toc">
+          {% if o.by_air %}<li><a href="#by-air">By air</a></li>{% endif %}
+          {% if o.by_road %}<li><a href="#by-road">By road</a></li>{% endif %}
+          {% if o.by_rail %}<li><a href="#by-rail">By train</a></li>{% endif %}
+          {% if o.documents %}<li><a href="#documents">Documents</a></li>{% endif %}
+          {% if o.tips %}<li><a href="#tips">Tips</a></li>{% endif %}
+          {% if packages %}<li><a href="#trips">Trip ideas</a></li>{% endif %}
+        </ol>
+      </div>
+      {% if regions_list %}<div class="panel"><h2 class="h3">Where people from {{ o.city }} go</h2><ul class="mlinks">{% for r in regions_list %}<li><a href="{{ r.url }}" data-land="{{ r.slug }}"><span class="sw"></span>{{ r.name }}</a></li>{% endfor %}</ul></div>{% endif %}
+      <a class="btn btn--foil btn--block" href="{% url 'plan' %}?city={{ o.city|urlencode }}&amp;from={{ request.path|urlencode }}" data-cta="origin-quote">Get a quote from {{ o.city }}{% icon "arrow" %}</a>
+      {% include "tours/partials/quick_form.html" with heading="Quote from "|add:o.city where="origin-aside" %}
+    </aside>
+  </div>
+</div>
+
+{% if packages %}<section class="sec sec--tint" id="trips" aria-labelledby="h-trips"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "ticket" %}Trip ideas</p><h2 class="h2" id="h-trips">Nepal packages that suit travellers from {{ o.city }}</h2><p>Prices start in Nepal. We add your flights or road transfer from {{ o.city }} to the quote.</p></div><a class="textlink" href="{% url 'packages' %}">Every package{% icon "arrow" %}</a></div>
+  <div class="passes" data-stagger>{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if heli %}<section class="sec" aria-labelledby="h-heli"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "heli" %}Add a morning</p><h2 class="h2" id="h-heli">Heli tours to add to your trip</h2></div><a class="textlink" href="{% url 'theme' 'heli-tours' %}">Every heli tour{% icon "arrow" %}</a></div>
+  <div class="bpasses" data-stagger>{% for k in heli %}{% include "tours/partials/bpass.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if overland %}<section class="sec sec--tint" aria-labelledby="h-overland"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "road" %}Drive in</p><h2 class="h2" id="h-overland">Overland packages from the border</h2></div><a class="textlink" href="{% url 'theme' 'overland-from-india' %}">Overland from India{% icon "arrow" %}</a></div>
+  <div class="passes" data-stagger>{% for k in overland %}{% include "tours/partials/pass.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if regions_list %}<section class="sec" aria-labelledby="h-regions"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "map" %}Where to go</p><h2 class="h2" id="h-regions">Regions to start with</h2></div><a class="textlink" href="{% url 'regions' %}">All regions{% icon "arrow" %}</a></div>
+  <div class="grid grid--3" data-stagger>{% for r in regions_list %}{% include "tours/partials/region_tile.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+<div class="wrap">
+  {% include "tours/partials/faqs.html" with faqs=o.faqs faq_title="Questions from "|add:o.city|add:" travellers" %}
+  {% if others %}<section class="sec--tight" aria-labelledby="h-others"><h2 class="h3" id="h-others">Starting from another city</h2><ul class="chips">{% for x in others %}<li><a class="chip" href="{{ x.url }}">{% icon "road" %}From {{ x.city }}</a></li>{% endfor %}</ul></section>{% endif %}
+</div>
+{% endblock %}

@@ -12,16 +12,70 @@
         "Most visitors stay in Sauraha on the north-east edge of the park, so times below are to Sauraha. Patihani and Jagatpur, near the park headquarters, are about the same distance; Meghauli in the west adds about an hour from Bharatpur. Road times assume good conditions and include a short meal stop; road works on the Mugling–Narayangarh stretch and monsoon landslides can add hours."
       ],
       "table": {
-        "head": ["From", "Mode", "Distance", "Time", "Approximate cost"],
+        "head": [
+          "From",
+          "Mode",
+          "Distance",
+          "Time",
+          "Approximate cost"
+        ],
         "rows": [
-          ["Kathmandu", "Flight to Bharatpur + road", "25 min + 15 km", "≈ 1.5 h door to door", "US$ 110–130 one way (foreigners)"],
-          ["Kathmandu", "Private car", "≈ 165 km", "5–6 h", "₹12,000–15,000 per car"],
-          ["Kathmandu", "Tourist bus", "≈ 165 km", "6–7 h", "NPR 800–1,200 per seat"],
-          ["Pokhara", "Private car", "≈ 150 km", "5–6 h", "₹11,000–14,000 per car"],
-          ["Pokhara", "Tourist bus", "≈ 150 km", "5–6 h", "NPR 800–1,200 per seat"],
-          ["Raxaul–Birgunj", "Private car", "≈ 150 km", "4–5 h", "₹9,000–12,000 per car"],
-          ["Sunauli–Bhairahawa", "Private car", "≈ 165 km", "4–5 h", "₹10,000–13,000 per car"],
-          ["Lumbini", "Private car", "≈ 165 km", "4.5–5 h", "₹11,000–14,000 per car"]
+          [
+            "Kathmandu",
+            "Flight to Bharatpur + road",
+            "25 min + 15 km",
+            "≈ 1.5 h door to door",
+            "US$ 110–130 one way (foreigners)"
+          ],
+          [
+            "Kathmandu",
+            "Private car",
+            "≈ 165 km",
+            "5–6 h",
+            "₹12,000–15,000 per car"
+          ],
+          [
+            "Kathmandu",
+            "Tourist bus",
+            "≈ 165 km",
+            "6–7 h",
+            "NPR 800–1,200 per seat"
+          ],
+          [
+            "Pokhara",
+            "Private car",
+            "≈ 150 km",
+            "5–6 h",
+            "₹11,000–14,000 per car"
+          ],
+          [
+            "Pokhara",
+            "Tourist bus",
+            "≈ 150 km",
+            "5–6 h",
+            "NPR 800–1,200 per seat"
+          ],
+          [
+            "Raxaul–Birgunj",
+            "Private car",
+            "≈ 150 km",
+            "4–5 h",
+            "₹9,000–12,000 per car"
+          ],
+          [
+            "Sunauli–Bhairahawa",
+            "Private car",
+            "≈ 165 km",
+            "4–5 h",
+            "₹10,000–13,000 per car"
+          ],
+          [
+            "Lumbini",
+            "Private car",
+            "≈ 165 km",
+            "4.5–5 h",
+            "₹11,000–14,000 per car"
+          ]
         ]
       }
     },
@@ -53,6 +107,13 @@
       ]
     },
     {
+      "heading": "From Lumbini and Janakpur",
+      "paras": [
+        "From Lumbini, the road runs about 22 km to Bhairahawa, north to Butwal, then east along the East–West Highway through Sunwal, Bardaghat and Kawasoti to Narayangarh and Sauraha: about 165 km and 4.5–5 hours by car. The stretch through the Nawalpur forest is flat and quick; slow sections are the towns of Butwal and Narayangarh. A detour at Kawasoti leads to the Barauli Tharu homestay, about an hour short of Sauraha.",
+        "From Janakpur, the drive west is about 280 km and 7–8 hours via Bardibas, Chandranigahpur and Hetauda, then over the low Churia hills to Tandi. Pilgrims combining Janakpur with Chitwan usually break the journey here or fly back to Kathmandu first. There are no scheduled flights between Janakpur and Bharatpur, so the two are linked by road or by two flights through Kathmandu."
+      ]
+    },
+    {
       "heading": "From India overland",
       "paras": [
         "Two border crossings put Chitwan within a day of India. Raxaul (Bihar) to Birgunj is the closest: from Birgunj the road runs north via Pathlaiya and Hetauda, then west to Tandi and Sauraha, about 150 km and 4–5 hours. Raxaul has trains from Kolkata, Delhi and other cities. Sunauli (Uttar Pradesh) to Bhairahawa suits travellers coming from Gorakhpur, Varanasi or Lucknow: from Bhairahawa it is about 165 km and 4–5 hours east via Butwal and Narayangarh, and Lumbini is only 22 km from Bhairahawa.",
@@ -65,18 +126,71 @@
         "Most Indian travellers fly into Tribhuvan International Airport in Kathmandu from Delhi, Mumbai, Bengaluru, Kolkata or Varanasi, then continue to Chitwan by a domestic flight to Bharatpur or by road. Return economy fares from Delhi usually range from ₹12,000 to ₹25,000 depending on season and booking time. Allow at least three hours between arriving in Kathmandu and a domestic flight, as you must collect bags and move to the domestic terminal.",
         "Gautam Buddha International Airport at Bhairahawa, near Lumbini, also handles some international and domestic flights. When international flights operate there, it can be a convenient gateway for a Lumbini and Chitwan trip; check current status before you travel."
       ]
+    },
+    {
+      "heading": "Road conditions by season",
+      "paras": [
+        "From October to May, all routes into Chitwan are open and predictable; the main delays are traffic leaving Kathmandu, road works and slow trucks on the Mugling–Narayangarh road. From mid-June to mid-September, monsoon rain brings landslides in the Trishuli gorge and on the Mugling–Narayangarh stretch, and closures of a few hours to a day happen most years. Bharatpur flights keep running in the monsoon, though clouds can delay them.",
+        "If the main road is blocked, drivers divert via Hetauda: either on the slow, winding Tribhuvan Rajpath through Daman, or round on the BP Highway via Sindhuli and Bardibas, both adding several hours. In winter, dense fog in the Terai from mid-December to January slows morning driving and delays the first flights. Our drivers check road reports each morning, but in the monsoon always check current status before you travel."
+      ]
+    },
+    {
+      "heading": "Getting around once you arrive",
+      "paras": [
+        "Sauraha is small and flat. Most hotels lie within 1.5 km of the Rapti riverbank and the safari counters, so you can walk everywhere or hire a bicycle for a few hundred rupees a day. Hotels collect guests from the Sauraha bus park and from Bharatpur Airport, 15 km and about 30 minutes away. Meghauli's lodges send their own vehicles to the airport, about an hour each way, and organise all activities from the lodge.",
+        "To reach Devghat, Bishazari Tal or the Maula Kalika temple at Gaindakot, hire a car or jeep with driver for a half day; taxis in Narayangarh charge by the trip. Do not walk along the riverbank or through the community forests after dark: rhinos and occasionally sloth bears and tigers move through the buffer zone at night."
+      ],
+      "list": [
+        "Bharatpur Airport to Sauraha: ≈ 15 km · 30 min",
+        "Bharatpur Airport to Meghauli: ≈ 35 km · 1 h",
+        "Sauraha to Devghat: ≈ 25–30 km · 45 min",
+        "Sauraha to Bishazari Tal: ≈ 15 km · 30 min"
+      ]
     }
   ],
-  "related_places": ["chitwan-national-park", "sauraha", "bharatpur", "kathmandu", "pokhara"],
+  "related_places": [
+    "chitwan-national-park",
+    "sauraha",
+    "bharatpur",
+    "kathmandu",
+    "pokhara"
+  ],
   "faqs": [
-    {"q": "What is the best way to reach Chitwan from Kathmandu?", "a": "For speed and comfort, fly to Bharatpur in about 25 minutes and drive 30 minutes to Sauraha. For flexibility, take a private car, 5–6 hours with stops at places like Manakamana or Devghat. On a budget, the tourist bus takes 6–7 hours and costs NPR 800–1,200 per seat."},
-    {"q": "How far is Chitwan from Kathmandu?", "a": "About 165 km by road to Sauraha via Mugling and Narayangarh, which takes 5–7 hours. The flight to Bharatpur covers the distance in about 25 minutes. Meghauli, in west Chitwan, is about 190 km by road."},
-    {"q": "How do I get from Pokhara to Chitwan?", "a": "By road, about 150 km and 5–6 hours via Damauli and Mugling. Tourist buses leave Pokhara around 7:30 am. A private car is quicker and can stop at Bandipur. There are no regular flights between Pokhara and Bharatpur."},
-    {"q": "Which Indian border is closest to Chitwan?", "a": "Raxaul–Birgunj, about 150 km and 4–5 hours from Sauraha via Hetauda. Sunauli–Bhairahawa is about 165 km and 4–5 hours via Butwal and suits travellers combining Chitwan with Lumbini. Both are open to Indian citizens; third-country nationals should check current entry rules."},
-    {"q": "Is there a direct bus from India to Chitwan?", "a": "Some private operators run buses from Indian cities such as Delhi and Varanasi to Kathmandu and Pokhara via the border, and travellers can get off at Narayangarh. More commonly, people travel to Raxaul or Sunauli, cross on foot or by rickshaw, and take a Nepali bus or car onward."},
-    {"q": "Can I drive my Indian car to Chitwan?", "a": "Yes. Indian-registered vehicles can enter Nepal with a customs permit, bhansar, issued at the border for a daily fee. Carry the registration certificate, insurance and driving licence. Nepal drives on the left, like India. Check current permit rules before you travel."},
-    {"q": "Is the Kathmandu to Chitwan flight worth it?", "a": "Yes if you are short on time, travelling with seniors or young children, or staying in Meghauli. It saves about five hours each way. In December and January, morning fog can delay flights, so book later departures. For budget trips, the tourist bus is good value."},
-    {"q": "How long is the drive from Lumbini to Chitwan?", "a": "About 165 km and 4.5–5 hours by car via Bhairahawa, Butwal and Narayangarh on the flat Mahendra Highway. Tourist buses take 5–6 hours. There are no direct flights between Bhairahawa and Bharatpur."},
-    {"q": "Is the road to Chitwan safe in the monsoon?", "a": "It stays open most of the time, but landslides occasionally block the Trishuli section between Kathmandu and Mugling from June to September, causing delays of hours. Travel in daylight, allow extra time, and consider flying if your schedule is tight."}
+    {
+      "q": "What is the best way to reach Chitwan from Kathmandu?",
+      "a": "For speed and comfort, fly to Bharatpur in about 25 minutes and drive 30 minutes to Sauraha. For flexibility, take a private car, 5–6 hours with stops at places like Manakamana or Devghat. On a budget, the tourist bus takes 6–7 hours and costs NPR 800–1,200 per seat."
+    },
+    {
+      "q": "How far is Chitwan from Kathmandu?",
+      "a": "About 165 km by road to Sauraha via Mugling and Narayangarh, which takes 5–7 hours. The flight to Bharatpur covers the distance in about 25 minutes. Meghauli, in west Chitwan, is about 190 km by road."
+    },
+    {
+      "q": "How do I get from Pokhara to Chitwan?",
+      "a": "By road, about 150 km and 5–6 hours via Damauli and Mugling. Tourist buses leave Pokhara around 7:30 am. A private car is quicker and can stop at Bandipur. There are no regular flights between Pokhara and Bharatpur."
+    },
+    {
+      "q": "Which Indian border is closest to Chitwan?",
+      "a": "Raxaul–Birgunj, about 150 km and 4–5 hours from Sauraha via Hetauda. Sunauli–Bhairahawa is about 165 km and 4–5 hours via Butwal and suits travellers combining Chitwan with Lumbini. Both are open to Indian citizens; third-country nationals should check current entry rules."
+    },
+    {
+      "q": "Is there a direct bus from India to Chitwan?",
+      "a": "Some private operators run buses from Indian cities such as Delhi and Varanasi to Kathmandu and Pokhara via the border, and travellers can get off at Narayangarh. More commonly, people travel to Raxaul or Sunauli, cross on foot or by rickshaw, and take a Nepali bus or car onward."
+    },
+    {
+      "q": "Can I drive my Indian car to Chitwan?",
+      "a": "Yes. Indian-registered vehicles can enter Nepal with a customs permit, bhansar, issued at the border for a daily fee. Carry the registration certificate, insurance and driving licence. Nepal drives on the left, like India. Check current permit rules before you travel."
+    },
+    {
+      "q": "Is the Kathmandu to Chitwan flight worth it?",
+      "a": "Yes if you are short on time, travelling with seniors or young children, or staying in Meghauli. It saves about five hours each way. In December and January, morning fog can delay flights, so book later departures. For budget trips, the tourist bus is good value."
+    },
+    {
+      "q": "How long is the drive from Lumbini to Chitwan?",
+      "a": "About 165 km and 4.5–5 hours by car via Bhairahawa, Butwal and Narayangarh on the flat Mahendra Highway. Tourist buses take 5–6 hours. There are no direct flights between Bhairahawa and Bharatpur."
+    },
+    {
+      "q": "Is the road to Chitwan safe in the monsoon?",
+      "a": "It stays open most of the time, but landslides occasionally block the Trishuli section between Kathmandu and Mugling from June to September, causing delays of hours. Travel in daylight, allow extra time, and consider flying if your schedule is tight."
+    }
   ]
 }

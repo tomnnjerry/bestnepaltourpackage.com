@@ -1,0 +1,115 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Season Finder: Where to Go Each Month{% endblock %}
+{% block meta_description %}Pick a month and a region to see which places in Nepal are at their best or still good then, from Kathmandu temples to high trekking valleys.{% endblock %}
+{% block og_title %}Nepal season finder{% endblock %}
+{% block og_description %}Which places in Nepal are at their best in the month you can travel.{% endblock %}
+{% block extra_head %}<style>
+.filters.sf__bar { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto; }
+.sf__step { display: flex; gap: 8px; }
+.sf__step[hidden] { display: none; }
+.sf__step .btn { gap: 6px; }
+.sf__step .icon.flip { transform: scaleX(-1); }
+.sf__count { font: 800 1.35rem/1.15 var(--display); margin: 0 0 16px; }
+.sf__out { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 14px; }
+.sf__out .empty { grid-column: 1 / -1; margin: 0; }
+.sf__item { display: grid; grid-template-columns: 72px minmax(0, 1fr) auto; grid-template-rows: auto auto; column-gap: 14px; align-items: center; padding: 10px 14px 10px 10px; border-radius: 16px; background: var(--card); box-shadow: var(--shadow); color: var(--ink); text-decoration: none; transition: transform .25s var(--ease), box-shadow .25s; }
+.sf__item:hover { transform: translateY(-2px); box-shadow: var(--shadow-h); color: var(--ink); }
+.sf__item img, .sf__item > span { grid-row: 1 / span 2; width: 72px; height: 72px; border-radius: 12px; object-fit: cover; background: var(--sheen), var(--grad); }
+.sf__item b { grid-column: 2; font: 800 1.25rem/1.05 var(--display); align-self: end; }
+.sf__item small { grid-column: 2; color: var(--muted); font-size: .84rem; align-self: start; margin-top: 3px; }
+.sf__item em { grid-column: 3; grid-row: 1 / span 2; font: 700 .7rem/1 var(--text); letter-spacing: .1em; text-transform: uppercase; padding: 6px 10px; border-radius: 999px; background: var(--paper-2); color: var(--ink-2); }
+.sf__item em[data-v="2"] { background: var(--sheen), var(--grad); color: #fff; }
+.sf__key { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 18px 0 0; font-size: .86rem; color: var(--muted); }
+.sf__key i { display: inline-block; width: 12px; height: 12px; border-radius: 4px; margin-right: 6px; vertical-align: -1px; }
+@media (max-width: 760px) { .filters.sf__bar { grid-template-columns: 1fr; } .sf__step .btn { flex: 1; } }
+</style>{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "calendar" %}Trip tools</p><h1>Season finder</h1><p class="phead__lede">Choose the month you can travel and, if you like, a region. We list the places that are at their best then, followed by the ones that are still good.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "calendar" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <div class="sf" data-season data-places="{{ data }}">
+    <form class="filters sf__bar" action="{% url 'seasons' %}" method="get" aria-label="Choose a month and a region" data-sf-form>
+      <label class="field"><span>Month</span><select name="m" id="sf-month">{% for m in months %}<option value="{{ forloop.counter0 }}"{% if forloop.counter0 == now %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
+      <label class="field"><span>Region</span><select name="r" id="sf-region"><option value="">All of Nepal</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+      <div class="sf__step" data-sf-step hidden><button class="btn btn--line btn--s" type="button" data-sf-move="-1" aria-label="Previous month">{% icon "chevron" "flip" %}Earlier</button><button class="btn btn--line btn--s" type="button" data-sf-move="1" aria-label="Next month">Later{% icon "chevron" %}</button></div>
+    </form>
+    <p class="sf__count" aria-live="polite" data-sf-count></p>
+    <div class="sf__out">
+      <noscript><div class="empty"><h2 class="h3">The season finder needs JavaScript</h2><p>Every region has a month-by-month table on our best time to visit page.</p><a class="btn btn--foil" href="{% url 'seasons' %}">Best time to visit Nepal</a></div></noscript>
+    </div>
+    <p class="sf__key"><span><i style="background:var(--grad)"></i>Best: settled weather, clear views, trails and roads open</span><span><i style="background:var(--paper-2)"></i>Good: workable, with some cloud, cold, heat or rain to plan around</span></p>
+  </div>
+</div>
+
+<section class="sec--tight">
+  <div class="wrap">
+    <div class="grid grid--2" style="align-items:start">
+      <div class="prose">
+        <h2 class="h2">How the ratings work</h2>
+        <p>Each place carries a rating for every month, set from its weather, trail and road conditions, views and crowds. Places left off the list for a month are usually under monsoon cloud, snowbound or too hot to enjoy.</p>
+        <p>The ratings are a guide, not a forecast. Mountain weather changes year to year, and a "good" month with fewer visitors can suit you better than a crowded "best" one.</p>
+      </div>
+      <div class="panel">
+        <h2 class="h3">Month by month, region by region</h2>
+        <p>See every region on one calendar, with notes on weather and festivals for each month.</p>
+        <a class="btn btn--ink" href="{% url 'seasons' %}">Best time to visit Nepal{% icon "arrow" %}</a>
+        <p class="muted" style="margin:14px 0 0">Know the month but not the trip? <a href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="season-quote">Tell us your dates</a> and we suggest a plan.</p>
+      </div>
+    </div>
+    <p style="margin-top:32px"><b>More trip tools:</b> <a href="{% url 'tool_budget' %}">budget calculator</a> · <a href="{% url 'tool_altitude' %}">altitude checker</a> · <a href="{% url 'tool_permits' %}">permit finder</a></p>
+  </div>
+</section>
+{% endblock %}
+{% block extra_js %}<script>
+/* Season finder helpers. pass.js draws the list; this keeps the month and region in the URL,
+   adds earlier/later buttons, a live count, Best/Good styling and region colours. */
+(function () {
+  var box = document.querySelector("[data-season]");
+  if (!box) return;
+  var mSel = box.querySelector("[name=m]"), rSel = box.querySelector("[name=r]"), out = box.querySelector(".sf__out"), count = box.querySelector("[data-sf-count]");
+  var form = box.querySelector("[data-sf-form]"), step = box.querySelector("[data-sf-step]");
+  var months = Array.prototype.map.call(mSel.options, function (o) { return o.text; });
+  var places = [];
+  try { places = JSON.parse(box.dataset.places || "[]"); } catch (e) {}
+  var byUrl = {};
+  places.forEach(function (p) { byUrl[p.u] = p; });
+
+  /* start from ?month=october&region=everest when present (runs before pass.js draws) */
+  var q = new URLSearchParams(location.search);
+  var mq = (q.get("month") || "").toLowerCase(), rq = q.get("region") || "";
+  months.forEach(function (m, i) { if (m.toLowerCase() === mq || m.slice(0, 3).toLowerCase() === mq) mSel.value = String(i); });
+  if (rq && rSel.querySelector('option[value="' + rq.replace(/"/g, "") + '"]')) rSel.value = rq;
+
+  form.addEventListener("submit", function (e) { e.preventDefault(); });
+  step.hidden = false;
+  Array.prototype.forEach.call(box.querySelectorAll("[data-sf-move]"), function (b) {
+    b.addEventListener("click", function () {
+      mSel.value = String((+mSel.value + (+b.dataset.sfMove) + 12) % 12);
+      mSel.dispatchEvent(new Event("change", { bubbles: true }));
+    });
+  });
+
+  function sync() {
+    var p = new URLSearchParams(location.search);
+    p.set("month", months[+mSel.value].toLowerCase());
+    if (rSel.value) p.set("region", rSel.value); else p.delete("region");
+    try { history.replaceState(null, "", location.pathname + "?" + p.toString()); } catch (e) {}
+  }
+  mSel.addEventListener("change", sync);
+  rSel.addEventListener("change", sync);
+
+  function decorate() {
+    var items = out.querySelectorAll(".sf__item"), best = 0;
+    Array.prototype.forEach.call(items, function (a) {
+      var em = a.querySelector("em"), p = byUrl[a.getAttribute("href")];
+      if (em) { em.dataset.v = em.textContent === "Best" ? "2" : "1"; if (em.dataset.v === "2") best++; }
+      if (p && p.rs) a.setAttribute("data-land", p.rs);
+    });
+    var n = items.length, where = rSel.value ? " in " + rSel.options[rSel.selectedIndex].text : "";
+    count.textContent = n
+      ? n + (n === 1 ? " place is" : " places are") + " worth visiting" + where + " in " + months[+mSel.value] + (best ? ", " + best + " at their best" : "")
+      : "";
+  }
+  if ("MutationObserver" in window) new MutationObserver(decorate).observe(out, { childList: true });
+})();
+</script>{% endblock %}

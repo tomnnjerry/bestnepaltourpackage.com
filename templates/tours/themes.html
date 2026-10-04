@@ -1,0 +1,40 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Tour Styles: Heli Tours, Treks, Pilgrimages and More{% endblock %}
+{% block meta_description %}Every way we run trips in Nepal: heli tours, treks, temple and pilgrimage trips, safaris, peak climbs, Kailash yatras, honeymoons, family holidays and short breaks.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "compass" %}Tour styles</p><h1>Nepal tour styles</h1><p class="phead__lede">Pick the kind of trip first: a morning in a helicopter, two weeks on foot, a temple circuit or three slow nights by a lake. Each style page lists its packages, places and the questions people ask before they book.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "compass" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight" aria-labelledby="h-types"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "ticket" %}By kind of trip</p><h2 class="h2" id="h-types">How you travel</h2><p>Fly, walk, climb, pray, spot wildlife or circle Kailash. Prices are per person, twin sharing, from our cheapest package in each style.</p></div><a class="textlink" href="{% url 'packages' %}">Every package{% icon "arrow" %}</a></div>
+  <div class="grid grid--4" data-stagger>{% for t in themes %}{% if t.type %}<a class="ecard" href="{{ t.url }}">
+    {% photo t|first_img t.name "" "(max-width: 760px) 100vw, 25vw" False False %}
+    <span class="ecard__kind">{% icon t.icon %}{{ t.short|default:t.name }}</span>
+    <span class="ecard__txt"><b>{{ t.name }}</b><small>{{ t.tagline }}</small>{% if t.price_from_inr %}<small style="display:block;margin-top:6px;font-weight:700;color:var(--ink)" data-inr="from {{ t.price_from_inr|inr }}" data-usd="">from {{ t.price_from_inr|inr }}</small>{% endif %}</span>
+  </a>{% endif %}{% endfor %}</div>
+</div></section>
+
+<section class="sec sec--tint" aria-labelledby="h-styles"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "users" %}By style</p><h2 class="h2" id="h-styles">Trips by interest, budget and pace</h2><p>Families, couples, photographers, festival-goers, drivers from India and people with a long weekend. These pages mix packages of every type that fit the brief.</p></div></div>
+  <ul class="styles" data-stagger>{% for t in themes %}{% if not t.type %}<li><a href="{{ t.url }}"><span class="tbadge">{% icon t.icon %}</span><b>{{ t.short|default:t.name }}</b><small>{{ t.tagline }}</small>{% if t.price_from_inr %}<small data-inr="from {{ t.price_from_inr|inr }}" data-usd="">from {{ t.price_from_inr|inr }}</small>{% endif %}</a></li>{% endif %}{% endfor %}</ul>
+</div></section>
+
+{% if origins %}<section class="sec dark" aria-labelledby="h-india">
+  <div class="ridge ridge--top" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "road" %}From India</p><h2 class="h2" id="h-india">Starting from an Indian city</h2><p>Flights, border crossings, train links and the documents you need, city by city.</p></div><a class="textlink" href="{% url 'origins' %}">All cities{% icon "arrow" %}</a></div>
+    <ul class="cities" data-stagger>{% for o in origins %}<li><a href="{{ o.url }}"><small>From</small><b>{{ o.city }}</b></a></li>{% endfor %}</ul>
+  </div>
+</section>{% endif %}
+
+<section class="sec" aria-labelledby="h-unsure"><div class="wrap">
+  <div class="grid grid--2" style="align-items:center">
+    <div>
+      <p class="kicker">{% icon "chat" %}Not sure yet</p>
+      <h2 class="h2" id="h-unsure">Mix two styles in one trip</h2>
+      <p class="lede">Many trips combine styles: a Kathmandu temple tour with a Muktinath heli day, a short Poon Hill trek before two nights in Chitwan, or Pokhara for the family while one of you flies to Annapurna Base Camp. Tell us the days and the budget and we send one itemised quote.</p>
+      <p><a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="themes-quote">Get a free quote{% icon "arrow" %}</a></p>
+    </div>
+    {% include "tours/partials/trust.html" %}
+  </div>
+</div></section>
+{% endblock %}

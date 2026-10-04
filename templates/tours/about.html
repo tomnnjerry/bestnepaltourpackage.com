@@ -1,0 +1,59 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}About Us: Who We Are and How We Work{% endblock %}
+{% block meta_description %}Best Nepal Tour Package is a Kathmandu travel desk selling Nepal tours, heli tours, treks, pilgrimages and Kailash yatras, with written itemised quotes in INR and USD.{% endblock %}
+{% block og_title %}About {{ SITE.name }}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "compass" %}About us</p><h1>About Best Nepal Tour Package</h1><p class="phead__lede">A travel desk in Kathmandu that plans and runs trips across Nepal and to Kailash, with every price written down before you pay.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "summit" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight"><div class="split">
+<article class="prose">
+  {% include "tours/partials/brief.html" with text="We sell Nepal tour packages, helicopter tours, treks, pilgrimages, wildlife safaris, adventure sports, peak climbs and Kailash Mansarovar yatras via Nepal. Every trip is quoted in writing, line by line, in Indian rupees or US dollars, and can be changed to suit your dates, group and budget." %}
+
+  <h2 class="h2" id="what">What we sell</h2>
+  <p>Trips at every height in Nepal, from jungle lodges in Chitwan at about 150 m to helicopter landings near Everest Base Camp and treks over high passes. The site is written with travellers from India in mind, with prices in rupees and routes from Indian cities; we plan trips for travellers from elsewhere too, priced in US dollars.</p>
+  <ul class="chips" style="margin:6px 0 18px">{% for t in nav_types %}<li><a class="chip" href="{{ t.url }}">{% icon t.icon %}{{ t.plural }}</a></li>{% endfor %}</ul>
+  <p>Every package on this site shows an indicative price, the number of days, the highest point and a difficulty grade. These are starting points. You can book a package as shown or ask us to change it.</p>
+
+  <h2 class="h2" id="how">How we work</h2>
+  <ul class="ticks">
+    <li>{% icon "check" %}<span><b>Written, itemised quotes.</b> You get a day-by-day plan with hotel names, flights, transfers, permits, guide and porter costs, each priced, and a list of what is not included. The quote is free.</span></li>
+    <li>{% icon "check" %}<span><b>A deposit to confirm.</b> A booking is confirmed when we receive your deposit and send written confirmation. The balance is due before departure. Our <a href="{% url 'policy' 'payments' %}">payments policy</a> and <a href="{% url 'policy' 'refund-and-cancellation' %}">cancellation policy</a> set out the exact terms.</span></li>
+    <li>{% icon "check" %}<span><b>Local operators.</b> Hotels, lodges, drivers, airlines and helicopter operators are local businesses in Nepal, and in Tibet for Kailash yatras. Your quote names the hotels and operators before you book.</span></li>
+    <li>{% icon "check" %}<span><b>Licensed guides.</b> Treks in national parks and conservation areas go with a government-licensed guide, as Nepal's rules require. City tours use licensed tourist guides.</span></li>
+    <li>{% icon "check" %}<span><b>Insurance is required for high trips.</b> For treks, heli tours, climbs and Kailash yatras, we ask for travel insurance that covers helicopter evacuation up to the highest altitude on your route. For city and safari tours we strongly recommend it.</span></li>
+    <li>{% icon "check" %}<span><b>One trip manager.</b> The person who writes your quote stays with you through booking and the trip itself, on WhatsApp, phone or email.</span></li>
+  </ul>
+  <p style="margin-top:16px"><a class="textlink" href="{% url 'how_we_work' %}">The booking process step by step{% icon "arrow" %}</a></p>
+
+  <h2 class="h2" id="who">Who runs your trip</h2>
+  <p>[TEAM: names, roles and background of the people who answer enquiries and run trips. Add only facts you can stand behind.]</p>
+  <p>{{ SITE.name }} is a trading name of [LEGAL NAME], registered in Nepal. Registration: {{ SITE.licence }}.</p>
+
+  <h2 class="h2" id="photos">Where our photos come from</h2>
+  <p>Every photo on this site comes from Wikimedia Commons under a free licence. We name the author and licence under each photo and list them all, with links to the originals, on our <a href="{% url 'photo_credits' %}">photo credits page</a>. The maps are drawn from Natural Earth data, which is in the public domain.</p>
+
+  <h2 class="h2" id="writing">How we write this site</h2>
+  <p>We write about places, routes and rules as specifically as we can: altitudes in metres, walking hours, permit names and the months that work. Permits, fees, flight schedules and border rules change, sometimes at short notice, so check current status before you travel. Your written quote is what counts. If you spot something out of date, <a href="{% url 'contact' %}">tell us</a> and we will correct it.</p>
+</article>
+
+<aside class="aside">
+  <div class="panel"><h2 class="h3">Company details</h2>
+    <dl class="facts">
+      <div><dt>Trading name</dt><dd>{{ SITE.name }}</dd></div>
+      <div><dt>Legal name</dt><dd>[LEGAL NAME]</dd></div>
+      <div><dt>Office</dt><dd>{{ SITE.address }}</dd></div>
+      <div><dt>Registration</dt><dd>{{ SITE.licence }}</dd></div>
+      <div><dt>Membership</dt><dd>[TAAN / NATTA membership]</dd></div>
+      <div><dt>Email</dt><dd><a href="mailto:{{ SITE.email }}" style="overflow-wrap:anywhere">{{ SITE.email }}</a></dd></div>
+    </dl>
+    <a class="mlinks__more" href="{% url 'contact' %}">Contact the desk{% icon "arrow" %}</a>
+  </div>
+  <div class="panel"><h2 class="h3">On this page</h2><ol class="toc"><li><a href="#what">What we sell</a></li><li><a href="#how">How we work</a></li><li><a href="#who">Who runs your trip</a></li><li><a href="#photos">Where our photos come from</a></li><li><a href="#writing">How we write this site</a></li></ol></div>
+</aside>
+</div></div>
+
+{% if regions %}<section class="sec sec--tint" aria-labelledby="h-where"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "map" %}Where</p><h2 class="h2" id="h-where">Where we plan trips</h2></div><a class="textlink" href="{% url 'regions' %}">Map of Nepal{% icon "arrow" %}</a></div>
+  <div class="rtiles" data-stagger>{% for r in regions %}{% include "tours/partials/region_tile.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+{% endblock %}

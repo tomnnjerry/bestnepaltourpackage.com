@@ -19,19 +19,91 @@
         "The table gives typical conditions in Sauraha at about 160 m. Temperatures are daytime highs and night-time lows; individual years vary."
       ],
       "table": {
-        "head": ["Month", "Weather", "Rhino", "Tiger", "Notes"],
+        "head": [
+          "Month",
+          "Weather",
+          "Rhino",
+          "Tiger",
+          "Notes"
+        ],
         "rows": [
-          ["Jan", "22 °C / 7 °C, foggy mornings", "Good", "Fair", "Grass-cutting starts; fog till 10 am"],
-          ["Feb", "26 °C / 9 °C, clear", "Excellent", "Good", "Short grass, best all-round month"],
-          ["Mar", "31 °C / 14 °C, dry", "Excellent", "Very good", "Animals at waterholes"],
-          ["Apr", "35 °C / 19 °C, hot", "Excellent", "Very good", "Peak tiger odds, hot afternoons"],
-          ["May", "36 °C / 23 °C, very hot", "Very good", "Good", "Pre-monsoon storms late in month"],
-          ["Jun", "34 °C / 25 °C, monsoon starts", "Fair", "Poor", "Tracks begin closing mid-June"],
-          ["Jul–Aug", "32 °C / 25 °C, heavy rain", "Poor", "Poor", "Core zone largely closed"],
-          ["Sep", "32 °C / 24 °C, rain easing", "Fair", "Poor", "Tracks reopen late in month"],
-          ["Oct", "31 °C / 19 °C, clear", "Good", "Fair", "Green, grass still tall"],
-          ["Nov", "28 °C / 13 °C, clear", "Good", "Fair", "Pleasant, busy with visitors"],
-          ["Dec", "24 °C / 8 °C, foggy", "Good", "Fair", "Cold mornings, Elephant Festival"]
+          [
+            "Jan",
+            "22 °C / 7 °C, foggy mornings",
+            "Good",
+            "Fair",
+            "Grass-cutting starts; fog till 10 am"
+          ],
+          [
+            "Feb",
+            "26 °C / 9 °C, clear",
+            "Excellent",
+            "Good",
+            "Short grass, best all-round month"
+          ],
+          [
+            "Mar",
+            "31 °C / 14 °C, dry",
+            "Excellent",
+            "Very good",
+            "Animals at waterholes"
+          ],
+          [
+            "Apr",
+            "35 °C / 19 °C, hot",
+            "Excellent",
+            "Very good",
+            "Peak tiger odds, hot afternoons"
+          ],
+          [
+            "May",
+            "36 °C / 23 °C, very hot",
+            "Very good",
+            "Good",
+            "Pre-monsoon storms late in month"
+          ],
+          [
+            "Jun",
+            "34 °C / 25 °C, monsoon starts",
+            "Fair",
+            "Poor",
+            "Tracks begin closing mid-June"
+          ],
+          [
+            "Jul–Aug",
+            "32 °C / 25 °C, heavy rain",
+            "Poor",
+            "Poor",
+            "Core zone largely closed"
+          ],
+          [
+            "Sep",
+            "32 °C / 24 °C, rain easing",
+            "Fair",
+            "Poor",
+            "Tracks reopen late in month"
+          ],
+          [
+            "Oct",
+            "31 °C / 19 °C, clear",
+            "Good",
+            "Fair",
+            "Green, grass still tall"
+          ],
+          [
+            "Nov",
+            "28 °C / 13 °C, clear",
+            "Good",
+            "Fair",
+            "Pleasant, busy with visitors"
+          ],
+          [
+            "Dec",
+            "24 °C / 8 °C, foggy",
+            "Good",
+            "Fair",
+            "Cold mornings, Elephant Festival"
+          ]
         ]
       }
     },
@@ -50,6 +122,20 @@
       ]
     },
     {
+      "heading": "Other animals and when to see them",
+      "paras": [
+        "Rhino and tiger are the headline species, but Chitwan holds more than 60 kinds of mammal and over 500 bird species, and each has its own season. Matching your dates to the animals you care about makes a short trip far more rewarding.",
+        "Winter is reptile season. From December to February, mugger crocodiles haul out on sandbanks of the Rapti and the Budhi Rapti to warm up, and canoe rides pass within a few metres of them. The rare gharial, a fish-eating crocodile with a long thin snout, also basks in winter; you can see young gharial year-round at the breeding centre at Kasara, near the park headquarters. Spring belongs to the forest mammals: sloth bears feed on termite mounds and fallen fruit from March to May, and gaur, the world's largest wild cattle, come down from the Churia hills to the grassland edges."
+      ],
+      "list": [
+        "Nov–Mar: migratory ducks, storks and raptors at Bishazari Tal and the oxbow lakes",
+        "Dec–Feb: mugger crocodiles and gharial basking on sandbanks",
+        "Mar–May: Bengal florican displays in the Meghauli grasslands; sloth bear and gaur more active",
+        "Apr–Jun: breeding plumage and calls of resident birds such as hornbills, pittas and minivets",
+        "All year: spotted deer, sambar, wild boar and rhesus and langur monkeys"
+      ]
+    },
+    {
       "heading": "Best time of day for sightings",
       "paras": [
         "Animals in Chitwan follow the temperature. The first three hours after sunrise and the last two before sunset are the most productive. That is why our packages book morning jeep slots and early canoe rides, with rest at the resort in the middle of the day."
@@ -59,6 +145,13 @@
         "10 am–3 pm: quiet, hot from March; good for birds near water and resting crocodiles",
         "3 pm–dusk: rhinos and deer come to water; good light for photographs",
         "After dark: rhinos enter Sauraha village; stay on lit roads and never walk by the river"
+      ]
+    },
+    {
+      "heading": "Choosing activities by season",
+      "paras": [
+        "The same safari can feel very different depending on the month. In October and November, when the grass is still above head height, canoe rides and boat trips on the Rapti give the most reliable views, because animals come to open water and the river cuts a clear line through the cover. A half-day jeep drive is pleasant, but long stretches can pass behind walls of grass.",
+        "From February, a full-day jeep drive becomes the best value activity. Drives of 8–9 hours go west past Kasara to the lakes and grasslands of the central sector and return before dusk, with a packed lunch at a picnic spot. Walking safaris, always with two licensed guides, are best from November to March, before midday heat and in the cool hours of early spring. Since 2012 no lodges have operated inside the park itself, and visitors must be out by dusk, so all safaris start and end at the boundary. These rules can change, so check current status before you travel."
       ]
     },
     {
@@ -83,16 +176,47 @@
       ]
     }
   ],
-  "related_places": ["chitwan-national-park", "meghauli", "sauraha"],
+  "related_places": [
+    "chitwan-national-park",
+    "meghauli",
+    "sauraha"
+  ],
   "faqs": [
-    {"q": "What is the best month to see tigers in Chitwan?", "a": "March and April are the best months for tigers, with February and May also good. The grass has been cut, water is scarce, and tigers concentrate near rivers and lakes. Full-day jeep drives into the western sector give the best chance. Sightings are never guaranteed, even in peak season."},
-    {"q": "What is the best month to see rhinos in Chitwan?", "a": "February to April, when grass is short and rhinos graze in the open. But rhinos are seen reliably from October to May; Chitwan held 694 of them at the 2021 count. Canoe rides in October and November are excellent for rhinos at the river's edge."},
-    {"q": "Can I visit Chitwan in the monsoon?", "a": "Yes, but with limits. From mid-June to mid-September many park tracks close, jeep drives are restricted to the buffer zone, and some lodges reduce services. Prices drop and the scenery is green. For good rhino and tiger viewing, the dry season is much better."},
-    {"q": "Is December a good time to visit Chitwan?", "a": "Yes, for rhinos and pleasant days. Mornings are cold, around 7–8 °C, and often foggy until mid-morning, so safaris start a little later. Grass is still fairly tall, so tiger sightings are less frequent than in spring. Late December also brings the Elephant Festival in Sauraha."},
-    {"q": "How hot is Chitwan in April and May?", "a": "Very hot. Daytime highs reach 35 °C in April and 36–40 °C in May, with high humidity before the monsoon. Activities run early morning and late afternoon, with rest in air-conditioned rooms or the pool at midday. Carry water and wear a hat on safaris."},
-    {"q": "When does Chitwan's grass-cutting season happen?", "a": "Usually in January and early February, when local communities are allowed into the park for a short period to cut grass for thatch and fodder. Burning of some grassland follows. The cut areas give excellent visibility for several weeks afterwards, which is why February to April is peak viewing season."},
-    {"q": "What time of day is best for a jeep safari in Chitwan?", "a": "Early morning, starting around 6:30–7 am, is best for active animals and soft light. Late afternoon until dusk is second best, as animals come to water. Midday is quiet, especially from March, when heat drives wildlife into shade."},
-    {"q": "Are tiger sightings in Chitwan increasing?", "a": "Yes. Chitwan's tiger population rose to 128 in the 2022 survey, and naturalists report more frequent sightings, including during the day near rivers. Still, most visitors on a two-night trip do not see one. Longer stays and full-day drives improve the odds."},
-    {"q": "Is October a good time for Chitwan?", "a": "October is pleasant, green and clear after the monsoon, with festivals such as Dashain. Rhinos are seen regularly, especially from canoes. Grass is still tall, so tiger and sloth bear sightings are less likely than in spring. It is also a busy month, so book early."}
+    {
+      "q": "What is the best month to see tigers in Chitwan?",
+      "a": "March and April are the best months for tigers, with February and May also good. The grass has been cut, water is scarce, and tigers concentrate near rivers and lakes. Full-day jeep drives into the western sector give the best chance. Sightings are never guaranteed, even in peak season."
+    },
+    {
+      "q": "What is the best month to see rhinos in Chitwan?",
+      "a": "February to April, when grass is short and rhinos graze in the open. But rhinos are seen reliably from October to May; Chitwan held 694 of them at the 2021 count. Canoe rides in October and November are excellent for rhinos at the river's edge."
+    },
+    {
+      "q": "Can I visit Chitwan in the monsoon?",
+      "a": "Yes, but with limits. From mid-June to mid-September many park tracks close, jeep drives are restricted to the buffer zone, and some lodges reduce services. Prices drop and the scenery is green. For good rhino and tiger viewing, the dry season is much better."
+    },
+    {
+      "q": "Is December a good time to visit Chitwan?",
+      "a": "Yes, for rhinos and pleasant days. Mornings are cold, around 7–8 °C, and often foggy until mid-morning, so safaris start a little later. Grass is still fairly tall, so tiger sightings are less frequent than in spring. Late December also brings the Elephant Festival in Sauraha."
+    },
+    {
+      "q": "How hot is Chitwan in April and May?",
+      "a": "Very hot. Daytime highs reach 35 °C in April and 36–40 °C in May, with high humidity before the monsoon. Activities run early morning and late afternoon, with rest in air-conditioned rooms or the pool at midday. Carry water and wear a hat on safaris."
+    },
+    {
+      "q": "When does Chitwan's grass-cutting season happen?",
+      "a": "Usually in January and early February, when local communities are allowed into the park for a short period to cut grass for thatch and fodder. Burning of some grassland follows. The cut areas give excellent visibility for several weeks afterwards, which is why February to April is peak viewing season."
+    },
+    {
+      "q": "What time of day is best for a jeep safari in Chitwan?",
+      "a": "Early morning, starting around 6:30–7 am, is best for active animals and soft light. Late afternoon until dusk is second best, as animals come to water. Midday is quiet, especially from March, when heat drives wildlife into shade."
+    },
+    {
+      "q": "Are tiger sightings in Chitwan increasing?",
+      "a": "Yes. Chitwan's tiger population rose to 128 in the 2022 survey, and naturalists report more frequent sightings, including during the day near rivers. Still, most visitors on a two-night trip do not see one. Longer stays and full-day drives improve the odds."
+    },
+    {
+      "q": "Is October a good time for Chitwan?",
+      "a": "October is pleasant, green and clear after the monsoon, with festivals such as Dashain. Rhinos are seen regularly, especially from canoes. Grass is still tall, so tiger and sloth bear sightings are less likely than in spring. It is also a busy month, so book early."
+    }
   ]
 }

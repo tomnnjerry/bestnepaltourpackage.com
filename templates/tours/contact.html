@@ -1,0 +1,82 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Contact Us: Call Back, WhatsApp and Email{% endblock %}
+{% block meta_description %}Contact the Best Nepal Tour Package travel desk in Kathmandu. Request a call back, message us on WhatsApp or email us for a free Nepal trip quote.{% endblock %}
+{% block og_title %}Contact {{ SITE.name }}{% endblock %}
+{% block cta_band %}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "chat" %}Contact</p><h1>Talk to the travel desk</h1><p class="phead__lede">Ask for a call back, send a message or write to us. A trip manager replies, usually within one working day.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "chat" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight"><div class="split">
+<article>
+  <div class="grid grid--2">
+    {% if wa_base %}<a class="panel" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="contact-whatsapp" style="text-decoration:none;color:inherit">
+      <p class="kicker">{% icon "whatsapp" %}WhatsApp</p><h2 class="h3">Message us</h2><p class="muted" style="margin:0">Photos, prices and quick answers.</p>
+    </a>{% endif %}
+    {% if tel %}<a class="panel" href="tel:{{ tel }}" data-cta="contact-call" style="text-decoration:none;color:inherit">
+      <p class="kicker">{% icon "phone" %}Phone</p><h2 class="h3">{{ SITE.phone }}</h2><p class="muted" style="margin:0">[OFFICE HOURS, NEPAL TIME]. Outside those hours, ask for a call back.</p>
+    </a>{% else %}<a class="panel" href="#callback" data-cta="contact-callback-card" style="text-decoration:none;color:inherit">
+      <p class="kicker">{% icon "phone" %}Phone</p><h2 class="h3">We call you</h2><p class="muted" style="margin:0">Leave your number in the call-back form and pick a time that suits you.</p>
+    </a>{% endif %}
+    <a class="panel" href="mailto:{{ SITE.email }}" data-cta="contact-email" style="text-decoration:none;color:inherit">
+      <p class="kicker">{% icon "mail" %}Email</p><h2 class="h3" style="overflow-wrap:anywhere">{{ SITE.email }}</h2><p class="muted" style="margin:0">Best for long questions, group lists and documents.</p>
+    </a>
+    <a class="panel" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="contact-plan" style="text-decoration:none;color:inherit">
+      <p class="kicker">{% icon "ticket" %}Trip planner</p><h2 class="h3">Get a written quote</h2><p class="muted" style="margin:0">Three short steps. We send an itemised plan in rupees or dollars.</p>
+    </a>
+  </div>
+
+  <section style="margin-top:40px" aria-labelledby="h-office">
+    <h2 class="h2" id="h-office">Office and registration</h2>
+    <div class="panel">
+      <dl class="facts">
+        <div><dt>Trading name</dt><dd>{{ SITE.name }}</dd></div>
+        <div><dt>Office</dt><dd>{{ SITE.address }}</dd></div>
+        <div><dt>Registration</dt><dd>{{ SITE.licence }}</dd></div>
+        <div><dt>Membership</dt><dd>[TAAN / NATTA membership]</dd></div>
+        <div><dt>Office hours</dt><dd>[OFFICE HOURS, NEPAL TIME]</dd></div>
+        <div><dt>Email</dt><dd><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a></dd></div>
+        {% if tel %}<div><dt>Phone</dt><dd><a href="tel:{{ tel }}">{{ SITE.phone }}</a></dd></div>{% endif %}
+      </dl>
+    </div>
+    <p class="muted" style="margin-top:14px;font-size:.92rem">Planning to visit the office? Message us first so your trip manager is there. Nepal time is 15 minutes ahead of India.</p>
+  </section>
+
+  <section style="margin-top:40px" aria-labelledby="h-before">
+    <h2 class="h2" id="h-before">Before you write</h2>
+    <ul class="ticks">
+      <li>{% icon "check" %}<span>Tell us your month, number of days, group size and ages of any children. That is enough for a first quote.</span></li>
+      <li>{% icon "check" %}<span>For treks, heli tours and Kailash yatras, mention any heart, lung or blood pressure conditions so we can plan altitude safely.</span></li>
+      <li>{% icon "check" %}<span>We never ask for card details, OTPs or passwords by email, WhatsApp or phone. Payment details are on our <a href="{% url 'policy' 'payments' %}">payments page</a>.</span></li>
+    </ul>
+    <p style="margin-top:18px"><a class="textlink" href="{% url 'faq' %}">Read the FAQ{% icon "arrow" %}</a> &nbsp; <a class="textlink" href="{% url 'how_we_work' %}">How booking works{% icon "arrow" %}</a></p>
+  </section>
+</article>
+
+<aside class="aside">
+  <form class="qform" id="callback" action="{% url 'enquire' %}" method="post" data-cta-form="callback">
+    {% csrf_token %}
+    {{ form.source_page }}{{ form.kind }}
+    <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <p class="qform__h">Request a call back</p>
+    <p class="muted" style="margin:0;font-size:.9rem">Leave your number and a good time. A trip manager calls or messages you back.</p>
+    <label for="cb-name"><span>Name</span><input id="cb-name" name="name" required maxlength="120" autocomplete="name"></label>
+    <label for="cb-phone"><span>Phone or WhatsApp</span><input id="cb-phone" name="phone" type="tel" required maxlength="40" inputmode="tel" autocomplete="tel" placeholder="+91 or +977"></label>
+    <fieldset style="border:0;margin:0;padding:0;min-width:0">
+      <legend class="sr">How should we reach you</legend>
+      <div class="opts">
+        <label for="cb-pref-call"><input id="cb-pref-call" type="radio" name="contact_pref" value="call" checked>Phone call</label>
+        <label for="cb-pref-wa"><input id="cb-pref-wa" type="radio" name="contact_pref" value="whatsapp">WhatsApp</label>
+      </div>
+    </fieldset>
+    <label for="cb-msg"><span>Best time and what the trip is about</span><textarea id="cb-msg" name="message" rows="3" placeholder="e.g. weekday evenings after 7 pm IST, Everest heli tour in October for 4"></textarea></label>
+    <button class="btn btn--foil btn--block" type="submit">Call me back{% icon "arrow" %}</button>
+    <p class="qform__note">No payment, no spam. <a href="{% url 'policy' 'privacy' %}">Privacy</a></p>
+  </form>
+  <div class="panel"><ul class="ticks" style="font-size:.92rem">
+    <li>{% icon "check" %}<span>Free itemised quote, nothing to pay to ask</span></li>
+    <li>{% icon "check" %}<span>One trip manager from quote to airport drop</span></li>
+    <li>{% icon "check" %}<span>Deposit only when you decide to book</span></li>
+  </ul></div>
+</aside>
+</div></div>
+{% endblock %}

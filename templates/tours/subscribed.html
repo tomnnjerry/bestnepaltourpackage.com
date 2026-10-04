@@ -1,0 +1,27 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{% if ok %}You Are on the List{% else %}Subscription Not Saved{% endif %}{% endblock %}
+{% block meta_description %}Seasonal fares and helicopter dates from Best Nepal Tour Package, one email a month.{% endblock %}
+{% block extra_head %}<meta name="robots" content="noindex">{% endblock %}
+{% block main %}
+{% if ok %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "mail" %}Newsletter</p><h1>You are on the list</h1><p class="phead__lede">One email a month with seasonal fares, heli dates and festival dates. Every email has a one-click unsubscribe link.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "mail" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight">
+  <div class="grid grid--3">
+    <a class="panel" href="{% url 'seasons' %}" style="text-decoration:none;color:inherit"><p class="kicker">{% icon "calendar" %}When</p><h2 class="h3">Best time to visit</h2><p class="muted" style="margin:0">Region by region, month by month.</p></a>
+    <a class="panel" href="{% url 'festivals' %}" style="text-decoration:none;color:inherit"><p class="kicker">{% icon "lamp" %}Festivals</p><h2 class="h3">Festival calendar</h2><p class="muted" style="margin:0">Dashain, Tihar, Indra Jatra and more.</p></a>
+    <a class="panel" href="{% url 'guides' %}" style="text-decoration:none;color:inherit"><p class="kicker">{% icon "book" %}Read</p><h2 class="h3">Travel guides</h2><p class="muted" style="margin:0">Costs, permits, seasons and safety.</p></a>
+  </div>
+  <p style="margin-top:28px"><a class="btn btn--foil" href="{% url 'plan' %}" data-cta="subscribed-plan">Get a free quote{% icon "arrow" %}</a> <a class="btn btn--line" href="{% url 'home' %}">Back to the home page</a></p>
+</div>
+{% else %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "mail" %}Newsletter</p><h1>That did not go through</h1><p class="phead__lede">We could not save that email address. Check it and try again.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "mail" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight">
+  <form class="form panel" action="{% url 'subscribe' %}" method="post" style="max-width:560px" data-cta-form="newsletter-retry">
+    {% csrf_token %}<input type="hidden" name="source_page" value="{{ request.path }}"><input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <div><label for="sub-email">Email</label><input id="sub-email" type="email" name="email" required placeholder="you@example.com" autocomplete="email"></div>
+    <button class="btn btn--foil" type="submit">Subscribe</button>
+    <p class="muted" style="margin:0;font-size:.88rem">One email a month. Unsubscribe in one click. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p>
+  </form>
+</div>
+{% endif %}
+{% endblock %}

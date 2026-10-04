@@ -1,0 +1,80 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ t.name }}{% if t.price_from_inr %} from {{ t.price_from_inr|inr }}{% endif %}{% endblock %}
+{% block meta_description %}{{ t.meta_description|default:t.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ t.name }}{% endblock %}
+{% block og_image %}{% with i=t|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block fab_label %}Plan {{ t.short|default:t.name|lower }}{% endblock %}
+{% block main %}
+<header class="phead">
+  <div class="phead__bg">{% photo t|first_img t.name "" "100vw" True True %}</div>
+  <div class="wrap"><div class="phead__in">
+    {% if t.type %}<span class="stamp stamp--big" data-type="{{ t.type }}">{% icon t.icon %}<b>{{ t.short|default:t.name }}</b></span>{% endif %}
+    <p class="kicker"><a href="{% url 'themes' %}">{% icon t.icon %}Tour styles</a></p>
+    <h1>{{ t.name }}</h1>
+    <p class="phead__lede">{{ t.tagline }}</p>
+    <ul class="phead__facts">
+      {% if packages %}<li>{% icon "ticket" %}{{ packages|length }} package{{ packages|length|pluralize }}</li>{% endif %}
+      {% if t.price_from_inr %}<li>{% icon "coin" %}<span data-inr="From {{ t.price_from_inr|inr }}" data-usd="From {{ packages.0.price_from_usd|usd }}">From {{ t.price_from_inr|inr }}</span></li>{% endif %}
+      {% if region_pages %}<li>{% icon "map" %}{{ region_pages|length }} region{{ region_pages|length|pluralize }}</li>{% endif %}
+    </ul>
+  </div></div>
+  <div class="phead__icon" aria-hidden="true">{% icon t.icon %}</div>
+  <div class="ridge--bottom" aria-hidden="true"></div>
+</header>
+
+<div class="wrap sec--tight">
+  <div class="split">
+    <article class="prose">
+      {% include "tours/partials/brief.html" with text=t.summary %}
+      {% for para in t.intro %}<p>{{ para }}</p>{% endfor %}
+      {% if t.how_to_choose %}<h2 class="h2">How to choose</h2>
+      <ul class="hl">{% for h in t.how_to_choose %}<li><b>{{ h.title }}</b><p>{{ h.text }}</p></li>{% endfor %}</ul>{% endif %}
+    </article>
+    <aside class="aside">
+      {% if packages %}<div class="panel"><h2 class="h3">At a glance</h2>
+        <dl class="facts">
+          <div><dt>Packages</dt><dd>{{ packages|length }}</dd></div>
+          {% if t.price_from_inr %}<div><dt>Price from</dt><dd><span data-inr="{{ t.price_from_inr|inr }} per person" data-usd="{{ packages.0.price_from_usd|usd }} per person">{{ t.price_from_inr|inr }} per person</span></dd></div>{% endif %}
+          {% with byd=packages|dictsort:"days_count" %}<div><dt>Length</dt><dd>{% with a=byd|first b=byd|last %}{% if a.days_count == b.days_count %}{{ a|days_label }}{% else %}{{ a.days_count }} to {{ b.days_count }} days{% endif %}{% endwith %}</dd></div>{% endwith %}
+          {% with top=packages|dictsortreversed:"max_altitude_m"|first %}{% if top.max_altitude_m %}<div><dt>Highest point</dt><dd>{{ top.max_altitude_m|thousands }} m</dd></div>{% endif %}{% endwith %}
+          {% if region_pages %}<div><dt>Regions</dt><dd>{% for r in region_pages %}<a href="{% url 'region_theme' r.slug t.slug %}">{{ r.short|default:r.name }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}</dd></div>{% endif %}
+        </dl>
+      </div>{% endif %}
+      {% include "tours/partials/quick_form.html" with heading="Get a free quote" trip_type=t.type where="theme-aside" %}
+    </aside>
+  </div>
+</div>
+
+{% if trek_points and trek_points != "[]" %}<section class="sec sec--tint sec--contour" aria-labelledby="h-chart"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "altitude" %}Days against height</p><h2 class="h2" id="h-chart">Every {{ t.short|default:t.name|lower }} package on one chart</h2><p>Further right takes longer; higher goes higher. Tap a dot to open the trip.</p></div></div>
+  {% include "tours/partials/tchart.html" with points=trek_points %}
+</div></section>{% endif %}
+
+<section class="sec" aria-labelledby="h-pk"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "ticket" %}Packages</p><h2 class="h2" id="h-pk">{{ t.short|default:t.name }} packages, lowest price first</h2></div>{% if t.type %}<a class="textlink" href="{% url 'packages' %}?type={{ t.type }}">Filter and compare{% icon "arrow" %}</a>{% endif %}</div>
+  {% if packages %}<div class="passes" data-stagger>{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div>
+  {% else %}<div class="empty"><h3 class="h3">We build these trips to order</h3><p>There is no fixed package in this style on the site yet. Tell us your dates, group and budget and we send a day-by-day plan with every cost listed.</p><a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="theme-empty-quote">Ask for a custom trip{% icon "arrow" %}</a></div>{% endif %}
+</div></section>
+
+{% if region_pages %}<section class="sec--tight" aria-labelledby="h-reg"><div class="wrap">
+  <h2 class="h3" id="h-reg">{{ t.short|default:t.name }} by region</h2>
+  <ul class="chips">{% for r in region_pages %}<li><a class="chip chip--land" data-land="{{ r.slug }}" href="{% url 'region_theme' r.slug t.slug %}">{% icon r.icon %}{{ t.short|default:t.name }} in {{ r.short|default:r.name }}</a></li>{% endfor %}</ul>
+</div></section>{% endif %}
+
+{% if places %}<section class="sec sec--tint" aria-labelledby="h-places"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "pin" %}Places</p><h2 class="h2" id="h-places">Where to go for {{ t.short|default:t.name|lower }}</h2></div></div>
+  <div class="grid grid--4" data-stagger>{% for p in places|slice:":12" %}{% include "tours/partials/place_card.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if experiences %}<section class="sec" aria-labelledby="h-exp"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "sparkle" %}Add to any trip</p><h2 class="h2" id="h-exp">Things to do</h2></div><a class="textlink" href="{% url 'experiences' %}">All things to do{% icon "arrow" %}</a></div>
+  <div class="grid grid--3" data-stagger>{% for e in experiences|slice:":9" %}{% include "tours/partials/exp_card.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if stays %}<section class="sec sec--tint" aria-labelledby="h-stays"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "bed" %}Stay</p><h2 class="h2" id="h-stays">Hotels and lodges we book</h2></div><a class="textlink" href="{% url 'stays' %}">All hotels{% icon "arrow" %}</a></div>
+  <div class="grid grid--4">{% for s in stays|slice:":8" %}<a class="ecard" href="{{ s.url }}" data-land="{{ s.region }}">{% photo s|first_img s.name "" "(max-width: 760px) 100vw, 25vw" False False %}<span class="ecard__kind">{% icon "bed" %}{{ s.class|default:s.kind }}</span><span class="ecard__txt"><b>{{ s.name }}</b><small>{{ s.place_obj.name }}{% if s.kind %} · {{ s.kind|capfirst }}{% endif %}</small></span></a>{% endfor %}</div>
+</div></section>{% endif %}
+
+<div class="wrap">{% include "tours/partials/faqs.html" with faqs=t.faqs faq_title="Questions about "|add:t.short|default:"this style" %}</div>
+{% endblock %}

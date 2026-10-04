@@ -26,16 +26,63 @@
         "Around Chitwan there are several ways to meet Tharu culture, from a one-hour show to a two-night homestay. The table compares the options we use."
       ],
       "table": {
-        "head": ["Experience", "Where", "Time", "What you get"],
+        "head": [
+          "Experience",
+          "Where",
+          "Time",
+          "What you get"
+        ],
         "rows": [
-          ["Stick dance show", "Tharu Culture House, Sauraha", "1 h, evenings", "Lathi, peacock and harvest dances"],
-          ["Tharu Cultural Museum", "Sauraha", "1 h", "Tools, photos, wall art, background"],
-          ["Village walk or bike ride", "Bachhauli and nearby, Sauraha", "2–3 h", "Houses, fields, daily life with a guide"],
-          ["Village walk", "Meghauli", "2 h", "Quiet hamlets near luxury lodges"],
-          ["Community homestay", "Barauli, Nawalpur", "1–2 nights", "Cooking, farm work, courtyard dance"],
-          ["Maghi festival", "Villages across Chitwan", "Mid-January", "New year feasts, dances, family visits"]
+          [
+            "Stick dance show",
+            "Tharu Culture House, Sauraha",
+            "1 h, evenings",
+            "Lathi, peacock and harvest dances"
+          ],
+          [
+            "Tharu Cultural Museum",
+            "Sauraha",
+            "1 h",
+            "Tools, photos, wall art, background"
+          ],
+          [
+            "Village walk or bike ride",
+            "Bachhauli and nearby, Sauraha",
+            "2–3 h",
+            "Houses, fields, daily life with a guide"
+          ],
+          [
+            "Village walk",
+            "Meghauli",
+            "2 h",
+            "Quiet hamlets near luxury lodges"
+          ],
+          [
+            "Community homestay",
+            "Barauli, Nawalpur",
+            "1–2 nights",
+            "Cooking, farm work, courtyard dance"
+          ],
+          [
+            "Maghi festival",
+            "Villages across Chitwan",
+            "Mid-January",
+            "New year feasts, dances, family visits"
+          ]
         ]
       }
+    },
+    {
+      "heading": "A half-day village visit, step by step",
+      "paras": [
+        "The most popular way to see Tharu village life from Sauraha is a guided bicycle ride or walk of 2.5–3 hours, costing about NPR 1,500 per person with guide and bike. Routes run west and north of Sauraha through Bachhauli and neighbouring hamlets, on flat dirt lanes between rice and mustard fields, with a total distance of 8–12 km by bike.",
+        "A good guide stops at a working household to show the grain stores and clay reliefs, explains how the bamboo fish traps and nets are made and used, and introduces you to the family rather than walking you through like a tourist sight. Many rides also pass a community forest office, a school and a village shrine, and end at the Tharu Cultural Museum or a riverside tea stall. Go at 7–8 am or after 3 pm from March onwards to avoid the heat, and in December and January wait until the fog lifts, usually by 10 am."
+      ],
+      "list": [
+        "Wear closed shoes and carry water; lanes can be dusty or muddy",
+        "Ask your guide to arrange a cup of tea in a home, and pay the family directly",
+        "Allow extra time in January for Maghi visits, when families welcome guests with food"
+      ]
     },
     {
       "heading": "Dance and music",
@@ -55,6 +102,13 @@
         "Fish curry or fried fish from rivers and ponds, often caught in bamboo traps",
         "Bagiya: a dumpling similar to dhikri, often filled, made in some Tharu communities",
         "Seasonal greens and pickles, and in some homes, homemade rice beer at festivals"
+      ]
+    },
+    {
+      "heading": "Crafts, dress and what to buy",
+      "paras": [
+        "Tharu households make much of what they use. Women weave colourful baskets, lidded boxes and fans from grass and reeds, often dyed in bright pinks, greens and yellows, and men make bamboo fish traps, sieves and stools. Older women in some villages still have tattoos on their arms and legs, applied when they were young as a mark of identity and beauty, a practice now rare among younger generations.",
+        "Festival dress for women typically pairs a wrap skirt or lehenga with a short blouse, heavy silver necklaces, anklets and bangles, while men wear a dhoti and vest for dances. In Sauraha and Barauli you can buy baskets, small reed boxes, woven bags and clay figures from community shops and the women's groups that run the homestay. Prices are low, typically a few hundred to a couple of thousand rupees, so bargaining hard is out of place."
       ]
     },
     {
@@ -78,16 +132,48 @@
       ]
     }
   ],
-  "related_places": ["sauraha", "barauli", "meghauli", "chitwan-national-park"],
+  "related_places": [
+    "sauraha",
+    "barauli",
+    "meghauli",
+    "chitwan-national-park"
+  ],
   "faqs": [
-    {"q": "Who are the Tharu people of Chitwan?", "a": "The Tharu are an indigenous people of Nepal's Terai and among the oldest communities in Chitwan. They farmed the forest edges for centuries and were known for resistance to malaria. They have their own languages, customs, dances, house styles and festivals, and today play a central role in community forestry and tourism around the park."},
-    {"q": "Where can I see the Tharu stick dance in Chitwan?", "a": "At the Tharu Culture House in Sauraha, most evenings around 7 pm, and at several hotels. Tickets cost about NPR 200–300. For a more informal performance, the Barauli homestay's village group dances in the courtyard for guests, and villages dance at Maghi in mid-January."},
-    {"q": "What is the Tharu Cultural Museum in Sauraha?", "a": "A small museum on the edge of Sauraha that explains Tharu farming, fishing, festivals, clothing and house-building through photographs, tools and life-size wall art. It takes about an hour and is a useful introduction before a village walk or homestay."},
-    {"q": "Can I stay in a Tharu village near Chitwan?", "a": "Yes. The Barauli Community Homestay in Nawalpur, run by Tharu women since 2015, offers private cottages with attached bathrooms and meals with host families. Our Tharu culture homestay package includes two nights there plus a night in Sauraha with a canoe safari."},
-    {"q": "What is Maghi?", "a": "Maghi is the Tharu new year, celebrated on the first day of the Nepali month of Magh, usually 14 or 15 January. Families bathe, feast on dhikri, fish and meat, visit elders for blessings and dance. It coincides with Makar Sankranti, when Hindus bathe at Devghat."},
-    {"q": "What Tharu food should I try?", "a": "Try dhikri, steamed rice-flour dumplings, ghonghi, freshwater snails in spicy sauce, and fish curry. Some Sauraha restaurants serve Tharu dishes, but the best place to taste them is a homestay, where you can help cook. Vegetarian Tharu meals are also available."},
-    {"q": "Is a Tharu village tour ethical?", "a": "It can be, if done respectfully with a local guide, short visits, permission for photos and money going to the community. Community-run homestays such as Barauli are a good model. Avoid tours that treat villages as attractions or pay nothing to residents."},
-    {"q": "How did the national park affect the Tharu?", "a": "The creation of Chitwan National Park in 1973, after decades of settlement from the hills, reduced Tharu access to forest, grazing and fishing, and some villages were moved. Today buffer-zone programmes share part of park income with local communities, and many Tharu work in tourism and conservation."},
-    {"q": "What should I wear when visiting a Tharu village?", "a": "Light, modest clothing that covers shoulders and knees, comfortable shoes you can get muddy, and a hat in hot months. Remove shoes if invited into a home. In winter evenings bring a warm layer, as temperatures drop quickly after sunset."}
+    {
+      "q": "Who are the Tharu people of Chitwan?",
+      "a": "The Tharu are an indigenous people of Nepal's Terai and among the oldest communities in Chitwan. They farmed the forest edges for centuries and were known for resistance to malaria. They have their own languages, customs, dances, house styles and festivals, and today play a central role in community forestry and tourism around the park."
+    },
+    {
+      "q": "Where can I see the Tharu stick dance in Chitwan?",
+      "a": "At the Tharu Culture House in Sauraha, most evenings around 7 pm, and at several hotels. Tickets cost about NPR 200–300. For a more informal performance, the Barauli homestay's village group dances in the courtyard for guests, and villages dance at Maghi in mid-January."
+    },
+    {
+      "q": "What is the Tharu Cultural Museum in Sauraha?",
+      "a": "A small museum on the edge of Sauraha that explains Tharu farming, fishing, festivals, clothing and house-building through photographs, tools and life-size wall art. It takes about an hour and is a useful introduction before a village walk or homestay."
+    },
+    {
+      "q": "Can I stay in a Tharu village near Chitwan?",
+      "a": "Yes. The Barauli Community Homestay in Nawalpur, run by Tharu women since 2015, offers private cottages with attached bathrooms and meals with host families. Our Tharu culture homestay package includes two nights there plus a night in Sauraha with a canoe safari."
+    },
+    {
+      "q": "What is Maghi?",
+      "a": "Maghi is the Tharu new year, celebrated on the first day of the Nepali month of Magh, usually 14 or 15 January. Families bathe, feast on dhikri, fish and meat, visit elders for blessings and dance. It coincides with Makar Sankranti, when Hindus bathe at Devghat."
+    },
+    {
+      "q": "What Tharu food should I try?",
+      "a": "Try dhikri, steamed rice-flour dumplings, ghonghi, freshwater snails in spicy sauce, and fish curry. Some Sauraha restaurants serve Tharu dishes, but the best place to taste them is a homestay, where you can help cook. Vegetarian Tharu meals are also available."
+    },
+    {
+      "q": "Is a Tharu village tour ethical?",
+      "a": "It can be, if done respectfully with a local guide, short visits, permission for photos and money going to the community. Community-run homestays such as Barauli are a good model. Avoid tours that treat villages as attractions or pay nothing to residents."
+    },
+    {
+      "q": "How did the national park affect the Tharu?",
+      "a": "The creation of Chitwan National Park in 1973, after decades of settlement from the hills, reduced Tharu access to forest, grazing and fishing, and some villages were moved. Today buffer-zone programmes share part of park income with local communities, and many Tharu work in tourism and conservation."
+    },
+    {
+      "q": "What should I wear when visiting a Tharu village?",
+      "a": "Light, modest clothing that covers shoulders and knees, comfortable shoes you can get muddy, and a hat in hot months. Remove shoes if invited into a home. In winter evenings bring a warm layer, as temperatures drop quickly after sunset."
+    }
   ]
 }

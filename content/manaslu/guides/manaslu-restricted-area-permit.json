@@ -19,15 +19,58 @@
         "Fees below are those we understand to apply in 2026. They are charged per person, and the restricted area permits are calculated for the days you spend inside the restricted zone, not the whole trek. Rates have changed several times in recent years, so check current status before you travel."
       ],
       "table": {
-        "head": ["Permit", "September–November", "December–August", "Notes"],
+        "head": [
+          "Permit",
+          "September–November",
+          "December–August",
+          "Notes"
+        ],
         "rows": [
-          ["Manaslu restricted area permit", "US$100 first 7 days + US$15/day", "US$75 first 7 days + US$10/day", "Issued only via a registered agency"],
-          ["Tsum Valley restricted area permit", "US$40 first 7 days + US$7/day", "US$30 first 7 days + US$7/day", "Needed only if you enter Tsum"],
-          ["Manaslu Conservation Area Permit", "NPR 3,000", "NPR 3,000", "NPR 1,000 for SAARC nationals"],
-          ["Annapurna Conservation Area Permit", "NPR 3,000", "NPR 3,000", "For Bimthang to Dharapani; NPR 1,000 SAARC"],
-          ["Tsum Nubri municipality fee", "≈ NPR 1,000", "≈ NPR 1,000", "Collected near Jagat if not prepaid"]
+          [
+            "Manaslu restricted area permit",
+            "US$100 first 7 days + US$15/day",
+            "US$75 first 7 days + US$10/day",
+            "Issued only via a registered agency"
+          ],
+          [
+            "Tsum Valley restricted area permit",
+            "US$40 first 7 days + US$7/day",
+            "US$30 first 7 days + US$7/day",
+            "Needed only if you enter Tsum"
+          ],
+          [
+            "Manaslu Conservation Area Permit",
+            "NPR 3,000",
+            "NPR 3,000",
+            "NPR 1,000 for SAARC nationals"
+          ],
+          [
+            "Annapurna Conservation Area Permit",
+            "NPR 3,000",
+            "NPR 3,000",
+            "For Bimthang to Dharapani; NPR 1,000 SAARC"
+          ],
+          [
+            "Tsum Nubri municipality fee",
+            "≈ NPR 1,000",
+            "≈ NPR 1,000",
+            "Collected near Jagat if not prepaid"
+          ]
         ]
       }
+    },
+    {
+      "heading": "What permits cost on real itineraries",
+      "paras": [
+        "Because the restricted area permit is charged for a first week and then by the day, two trekkers on different itineraries can pay quite different amounts. The days counted run from entering the restricted zone near Jagat to leaving it beyond Bimthang, not from Kathmandu. The examples below are for one foreign trekker at the rates we understand for 2026, with the two conservation permits at about US$ 22 each and the local fee at about US$ 7."
+      ],
+      "list": [
+        "12-day circuit in autumn, about 8 days in the zone: US$ 115 permit, about US$ 165 in total",
+        "14-day circuit in autumn with a Samdo rest day, about 9 days: US$ 130 permit, about US$ 180 in total",
+        "16-day trek with Manaslu Base Camp, about 11 days: US$ 160 permit, about US$ 210 in total",
+        "20-day Manaslu and Tsum trek in autumn: about US$ 130 for Manaslu plus about US$ 47 for Tsum, roughly US$ 230 in total",
+        "12-day circuit in April, at December–August rates: US$ 85 permit, about US$ 135 in total"
+      ]
     },
     {
       "heading": "The guide rule and the 2026 solo change",
@@ -43,10 +86,12 @@
       ]
     },
     {
-      "heading": "How the application works",
+      "heading": "How the application and checks work",
       "paras": [
         "You do not apply yourself. Your agency submits the application to the Department of Immigration in Kathmandu with your documents, the itinerary, the guide's details and insurance information. Because the permit is linked to your Nepal visa, it is normally issued after you arrive and obtain your visa, usually on the working day before you drive to Machha Khola. Immigration offices close on Saturdays and public holidays, which can affect timing.",
-        "Send your agency clear scans of the documents a few weeks in advance so they can prepare the conservation permits and check your details. On arrival you hand over your passport for a few hours, or the agency uses your original once your visa is stamped. The permit is printed with your name, passport number, dates and route, and your guide keeps the original during the trek."
+        "Send your agency clear scans of the documents a few weeks in advance so they can prepare the conservation permits and check your details. On arrival you hand over your passport for a few hours, or the agency uses your original once your visa is stamped. The permit is printed with your name, passport number, dates and route, and your guide keeps the original during the trek.",
+        "Expect to show your papers four or five times. The first check is usually at Jagat, where the conservation area office records your MCAP and the municipality fee is collected if it was not prepaid. Police and conservation posts higher up, around Philim, Namrung and Samagaun, check the restricted area permit against your passport, and the Annapurna permit is checked as you come down towards Tilije and Dharapani. Your guide does the talking, but you may be asked to show your passport, so keep it in a dry bag in your daypack rather than in the porter's load.",
+        "If you leave early by helicopter from Samagaun, or turn back before the pass, tell your guide so the agency can inform the authorities. Permit fees are generally not refunded for unused days, so there is no saving in buying a shorter permit than your plan needs."
       ],
       "list": [
         "Passport valid for at least six months, with a Nepal visa covering your trek dates",
@@ -73,20 +118,54 @@
       "heading": "Common mistakes to avoid",
       "paras": [
         "The most frequent problems we see are small: a visa that expires before the trek ends, a name spelled differently on the passport and the application, or plans to change the route mid-trek. Restricted area permits are issued for specific dates and areas, so adding the Tsum Valley or extending in Samagaun after you have set off can cause trouble at checkpoints.",
-        "Plan your full itinerary, including spare days for weather, before applying. If you think you may want Manaslu Base Camp, Tsum or a rest day in Bimthang, tell your agency so the permit dates cover it. Keep photocopies of your passport, visa and permits separate from the originals, and photograph them on your phone."
+        "Plan your full itinerary, including spare days for weather, before applying. If you think you may want Manaslu Base Camp, Tsum or a rest day in Bimthang, tell your agency so the permit dates cover it. Keep photocopies of your passport, visa and permits separate from the originals, and photograph them on your phone.",
+        "Check your visa before anything else. Nepal's tourist visa on arrival is sold for 15, 30 or 90 days, at about US$ 30, US$ 50 and US$ 125, and the restricted area permit cannot run beyond your visa's end date. For a 14 to 20 day trek plus Kathmandu days, the 30-day visa is usually the right choice. Indian nationals do not need a visa but must carry a valid passport for the permit."
       ]
     }
   ],
-  "related_places": ["jagat", "samagaun", "tsum-valley", "bimthang", "kathmandu"],
+  "related_places": [
+    "jagat",
+    "samagaun",
+    "tsum-valley",
+    "bimthang",
+    "kathmandu"
+  ],
   "faqs": [
-    {"q": "Do I need a permit for the Manaslu Circuit?", "a": "Yes. You need the Manaslu restricted area permit, the Manaslu Conservation Area Permit, the Annapurna Conservation Area Permit for the Dharapani side and the Tsum Nubri municipality fee. The restricted area permit can only be obtained through a registered agency, and you must trek with a licensed guide."},
-    {"q": "How much is the Manaslu restricted area permit?", "a": "As we understand the 2026 rates, it costs US$100 for the first seven days from September to November plus US$15 per extra day, and US$75 for the first week plus US$10 per day from December to August. Most circuit itineraries pay for eight to ten days. Check current status before you travel."},
-    {"q": "Can I trek Manaslu solo in 2026?", "a": "According to a Department of Immigration notice in March 2026, solo trekkers can now get restricted area permits without a second person. You still need a licensed guide arranged by a registered agency, so solo means you and your guide. Check current status before you travel."},
-    {"q": "Can I get the Manaslu permit online myself?", "a": "No. Only government-registered trekking agencies can apply for restricted area permits on your behalf. They submit your documents to the Department of Immigration, usually after you arrive in Kathmandu with your visa. You provide passport details, photos, insurance and the itinerary."},
-    {"q": "Do Indians need a restricted area permit for Manaslu?", "a": "Yes, as we understand it. Indian nationals need the Manaslu restricted area permit at the same fee as other foreigners and must trek with a licensed guide. They pay the SAARC rate of NPR 1,000 for each conservation area permit. Bring your passport for the application."},
-    {"q": "Where are Manaslu permits checked?", "a": "Conservation and restricted area permits are checked at several points, including Jagat, Philim or nearby posts, Namrung and the Samagaun area, and the Annapurna permit is checked near Dharapani. Your guide carries the permits and handles checks; keep your passport accessible."},
-    {"q": "Do I need a TIMS card for Manaslu?", "a": "TIMS is officially part of Nepal's trekking system, but for the Manaslu restricted area the key documents are the restricted area permit and conservation permits. Several operators report that TIMS is not issued or checked on Manaslu in practice. Your agency will advise what is currently required."},
-    {"q": "How long does it take to get the Manaslu permit?", "a": "Usually one working day once you are in Kathmandu with a valid visa. Agencies typically apply on the day before you drive to Machha Khola. Immigration offices close on Saturdays and public holidays, so arriving on a Friday evening can delay the start."},
-    {"q": "Do helicopter passengers need the Manaslu permit?", "a": "Yes, if the helicopter lands in Samagaun or elsewhere inside the restricted area. Each foreign passenger needs the restricted area permit and the conservation area permit. Flights that only pass overhead without landing generally do not, as we understand it. Check current status before you travel."}
+    {
+      "q": "Do I need a permit for the Manaslu Circuit?",
+      "a": "Yes. You need the Manaslu restricted area permit, the Manaslu Conservation Area Permit, the Annapurna Conservation Area Permit for the Dharapani side and the Tsum Nubri municipality fee. The restricted area permit can only be obtained through a registered agency, and you must trek with a licensed guide."
+    },
+    {
+      "q": "How much is the Manaslu restricted area permit?",
+      "a": "As we understand the 2026 rates, it costs US$100 for the first seven days from September to November plus US$15 per extra day, and US$75 for the first week plus US$10 per day from December to August. Most circuit itineraries pay for eight to ten days. Check current status before you travel."
+    },
+    {
+      "q": "Can I trek Manaslu solo in 2026?",
+      "a": "According to a Department of Immigration notice in March 2026, solo trekkers can now get restricted area permits without a second person. You still need a licensed guide arranged by a registered agency, so solo means you and your guide. Check current status before you travel."
+    },
+    {
+      "q": "Can I get the Manaslu permit online myself?",
+      "a": "No. Only government-registered trekking agencies can apply for restricted area permits on your behalf. They submit your documents to the Department of Immigration, usually after you arrive in Kathmandu with your visa. You provide passport details, photos, insurance and the itinerary."
+    },
+    {
+      "q": "Do Indians need a restricted area permit for Manaslu?",
+      "a": "Yes, as we understand it. Indian nationals need the Manaslu restricted area permit at the same fee as other foreigners and must trek with a licensed guide. They pay the SAARC rate of NPR 1,000 for each conservation area permit. Bring your passport for the application."
+    },
+    {
+      "q": "Where are Manaslu permits checked?",
+      "a": "Conservation and restricted area permits are checked at several points, including Jagat, Philim or nearby posts, Namrung and the Samagaun area, and the Annapurna permit is checked near Dharapani. Your guide carries the permits and handles checks; keep your passport accessible."
+    },
+    {
+      "q": "Do I need a TIMS card for Manaslu?",
+      "a": "TIMS is officially part of Nepal's trekking system, but for the Manaslu restricted area the key documents are the restricted area permit and conservation permits. Several operators report that TIMS is not issued or checked on Manaslu in practice. Your agency will advise what is currently required."
+    },
+    {
+      "q": "How long does it take to get the Manaslu permit?",
+      "a": "Usually one working day once you are in Kathmandu with a valid visa. Agencies typically apply on the day before you drive to Machha Khola. Immigration offices close on Saturdays and public holidays, so arriving on a Friday evening can delay the start."
+    },
+    {
+      "q": "Do helicopter passengers need the Manaslu permit?",
+      "a": "Yes, if the helicopter lands in Samagaun or elsewhere inside the restricted area. Each foreign passenger needs the restricted area permit and the conservation area permit. Flights that only pass overhead without landing generally do not, as we understand it. Check current status before you travel."
+    }
   ]
 }

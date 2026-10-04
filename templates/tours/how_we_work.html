@@ -1,0 +1,59 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}How Booking Works: Quote, Deposit and Trip{% endblock %}
+{% block meta_description %}How to book a Nepal tour, heli tour, trek or Kailash yatra with us: free written quote, changes at no charge, deposit to confirm, balance before departure.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "shield" %}Booking</p><h1>How booking works</h1><p class="phead__lede">From your first message to the airport drop: what you get, what you pay and when, and who looks after you on the trip.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "shield" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight sec--contour" aria-labelledby="h-steps"><div class="wrap">
+  <div class="sec__head"><h2 class="h2" id="h-steps">Four steps</h2></div>
+  <ol class="steps">
+    <li><b>Tell us the trip</b><p>Send the quote form or a WhatsApp message: dates, group, budget, heli or trek. A rough idea is enough.</p></li>
+    <li><b>Get a written quote</b><p>Day-by-day plan, hotel names, flights, permits and the total, usually within one working day.</p></li>
+    <li><b>Change anything</b><p>Swap hotels, add a night in Pokhara or upgrade to a heli return. We re-quote at no charge.</p></li>
+    <li><b>Pay a deposit and go</b><p>The deposit confirms the booking. The balance is due before departure.</p></li>
+  </ol>
+</div></section>
+
+<div class="wrap sec--tight"><div class="split">
+<article class="prose">
+  <h2 class="h2" id="quote">What your quote includes</h2>
+  <p>A quote is a written plan, not a single number. It lists:</p>
+  <ul class="ticks">
+    <li>{% icon "check" %}<span>Each day: where you go, how you travel and where you sleep, with the hotel or lodge named</span></li>
+    <li>{% icon "check" %}<span>Flights, helicopter sectors and road transfers, with the vehicle type</span></li>
+    <li>{% icon "check" %}<span>Permits and entry fees, guide and porter costs, and the meals included</span></li>
+    <li>{% icon "check" %}<span>The total price per person and for the group, in INR or USD</span></li>
+    <li>{% icon "check" %}<span>What is not included, so nothing turns up later as a surprise</span></li>
+  </ul>
+  <p>Prices on this site are indicative "from" prices per person, twin sharing. Your quote is priced for your dates, hotel class and group size.</p>
+
+  <h2 class="h2" id="pay">Deposit and balance</h2>
+  <p>When you are happy with the plan, a deposit confirms the booking and we send written confirmation. The balance is due before departure. The amounts, due dates and the ways you can pay are in our <a href="{% url 'policy' 'payments' %}">payments policy</a>.</p>
+  <p class="notice">{% icon "info" %}<span>We never ask for card details, OTPs or passwords by email, WhatsApp or phone. Pay only to the accounts named on your booking confirmation.</span></p>
+
+  <h2 class="h2" id="changes">Changes and cancellations</h2>
+  <p>Before you book, changes are free and we re-quote as often as you like. After you book, moving dates is often cheaper than cancelling; suppliers may charge for their part. If you cancel, what you get back depends on how many days before departure you tell us in writing and on what airlines, helicopter operators, hotels and permit offices refund. The full scale is in our <a href="{% url 'policy' 'refund-and-cancellation' %}">refund and cancellation policy</a>.</p>
+
+  <h2 class="h2" id="trip">On the trip</h2>
+  <ul class="ticks">
+    <li>{% icon "check" %}<span><b>One trip manager.</b> The person who wrote your quote stays in touch on WhatsApp or phone through the trip.</span></li>
+    <li>{% icon "check" %}<span><b>Local operators.</b> Hotels, drivers, airlines and helicopter operators are local businesses, named in your quote.</span></li>
+    <li>{% icon "check" %}<span><b>Licensed guides.</b> Treks in national parks and conservation areas go with a government-licensed guide, as Nepal requires. Restricted areas also need a registered agency and at least two trekkers.</span></li>
+    <li>{% icon "check" %}<span><b>Weather plans.</b> Mountain flights and helicopters fly only when the pilot judges it safe. We build buffer days into high itineraries where we can and explain what happens if a flight is cancelled. See the <a href="{% url 'policy' 'helicopter-and-altitude' %}">helicopter and altitude terms</a>.</span></li>
+  </ul>
+
+  <h2 class="h2" id="insurance">Travel insurance</h2>
+  <p>Insurance is not included in our packages. For treks, heli tours, peak climbs and Kailash yatras, insurance that covers helicopter evacuation up to the highest altitude on your route is a condition of booking. For city and safari tours we strongly recommend it. Check that your policy names the altitude and activities on your itinerary.</p>
+
+  <h2 class="h2" id="docs">Documents</h2>
+  <p>Indian citizens do not need a visa for Nepal; a valid passport or voter ID card is accepted. Kailash yatras need a passport for the Chinese group visa and Tibet permits. Other nationalities need a passport and a Nepal visa, available on arrival at Kathmandu airport and main land borders. Check current status before you travel.</p>
+
+  {% include "tours/partials/faqs.html" with faq_title="Booking questions" %}
+</article>
+
+<aside class="aside">
+  <div class="panel"><h2 class="h3">On this page</h2><ol class="toc"><li><a href="#quote">What your quote includes</a></li><li><a href="#pay">Deposit and balance</a></li><li><a href="#changes">Changes and cancellations</a></li><li><a href="#trip">On the trip</a></li><li><a href="#insurance">Travel insurance</a></li><li><a href="#docs">Documents</a></li></ol></div>
+  <div class="panel"><h2 class="h3">Booking terms</h2><ul class="mlinks">{% for slug, name in nav_policies %}<li><a href="{% url 'policy' slug %}">{% icon "info" %}{{ name }}</a></li>{% endfor %}</ul></div>
+</aside>
+</div></div>
+{% endblock %}

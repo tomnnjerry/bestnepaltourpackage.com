@@ -593,7 +593,10 @@ select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmln
 .alt-pill { display: inline-flex; align-items: center; gap: 4px; padding: 3px 9px; border-radius: 999px; background: var(--tint); color: var(--ink-l); font: 800 .95rem/1 var(--display); }
 .addons { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
 .addons li { display: flex; justify-content: space-between; gap: 12px; padding: 12px 14px; border-radius: 12px; border: 1.5px dashed var(--line-2); font-weight: 600; }
-.addons b { font-family: var(--display); font-size: 1.15rem; white-space: nowrap; }
+.addons li { flex-wrap: wrap; }
+.addons b { font-family: var(--display); font-size: 1.15rem; }
+.styles--6 { grid-template-columns: repeat(6, 1fr); }
+.hl--3 { grid-template-columns: repeat(3, 1fr); }
 .buybar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 70; background: var(--sheen), var(--grad); color: #fff; transform: translateY(110%); transition: transform .35s var(--ease); box-shadow: 0 -10px 30px rgba(0, 0, 0, .25); }
 .buybar.is-on { transform: none; }
 .buybar__in { display: flex; align-items: center; gap: 20px; min-height: 72px; }
@@ -638,7 +641,7 @@ body.has-buybar .fab { bottom: 92px; }
 .news label b { display: block; font: 800 1.5rem/1 var(--display); color: #fff; margin-bottom: 4px; }
 .news label span { color: #AEB8C8; font-size: .9rem; }
 .news__row { display: flex; gap: 10px; }
-.news input { flex: 1; min-height: 50px; padding: 0 18px; border-radius: 999px; border: 1px solid rgba(255, 255, 255, .2); background: rgba(255, 255, 255, .06); color: #fff; }
+.news input { flex: 1; min-width: 0; min-height: 50px; padding: 0 18px; border-radius: 999px; border: 1px solid rgba(255, 255, 255, .2); background: rgba(255, 255, 255, .06); color: #fff; }
 .news input::placeholder { color: #8D98AB; }
 .foot__cols { display: grid; grid-template-columns: repeat(6, 1fr); gap: 24px; padding: 36px 0; }
 .foot__cols h3 { font: 800 .78rem/1 var(--text); letter-spacing: .14em; text-transform: uppercase; color: var(--summit); margin: 0 0 14px; }
@@ -715,7 +718,7 @@ body.has-buybar .fab { bottom: 92px; }
 .tbl th, .tbl td { padding: 11px 14px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
 .tbl th { background: var(--paper-2); font-weight: 700; font-size: .82rem; letter-spacing: .06em; text-transform: uppercase; }
 .tbl tr:last-child td { border-bottom: 0; }
-.tbl-wrap { overflow-x: auto; margin: 0 0 1.2em; border-radius: 14px; }
+.tbl-wrap { position: relative; overflow-x: auto; margin: 0 0 1.2em; border-radius: 14px; }
 .almanac { width: 100%; border-collapse: separate; border-spacing: 3px; font-size: .86rem; }
 .almanac th { font-weight: 700; text-align: left; padding: 6px 8px; white-space: nowrap; }
 .almanac thead th { text-align: center; font-size: .78rem; color: var(--muted); }
@@ -781,6 +784,12 @@ body.has-buybar .fab { bottom: 92px; }
 .swatch p { margin: 0; padding: 10px 12px; font-size: .84rem; }
 
 /* ---------- motion preferences ---------- */
+/* Grid and flex children default to min-width:auto, so one long word, table or input can push a
+   column wider than a phone screen. Let every layout child shrink to its track. */
+:where(.split, .grid, .passes, .bpasses, .hl, .news, .news__row, .kpass, .kpass__main, .styles, .rtiles, .cities,
+  .steps, .trust, .band__in, .foot__head, .foot__cols, .season, .hero__in, .form__row, .filters, .finder__row,
+  .mtix, .bpass, .bpass__meta, .day, .facts, .phead__in, .mega__in, .wizard, .almanac) > * { min-width: 0; }
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
   .js .reveal { opacity: 1; transform: none; }
@@ -816,6 +825,8 @@ body.has-buybar .fab { bottom: 92px; }
   .rtiles { grid-template-columns: repeat(2, 1fr); }
   .rtiles .rtile:nth-child(1), .rtiles .rtile:nth-child(5) { grid-column: auto; }
   .rtiles .rtile:nth-child(1) { grid-column: span 2; }
+  .styles--6 { grid-template-columns: repeat(3, 1fr); }
+  .hl--3 { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 760px) {
   body { font-size: 16px; padding-bottom: 74px; }
@@ -827,9 +838,10 @@ body.has-buybar .fab { bottom: 92px; }
   .mast__in { min-height: 64px; }
   .brand__word b { font-size: 1.3rem; }
   .brand__mark { width: 40px; height: 33px; }
-  .passes, .bpasses, .passes--4, .grid--2, .grid--3, .grid--4, .hl, .rtiles { grid-template-columns: 1fr; }
+  .passes, .bpasses, .passes--4, .grid--2, .grid--3, .grid--4, .hl, .hl--3, .rtiles { grid-template-columns: 1fr; }
   .rtiles .rtile:nth-child(1) { grid-column: auto; }
-  .styles { grid-template-columns: repeat(2, 1fr); }
+  .styles, .styles--6 { grid-template-columns: repeat(2, 1fr); }
+  .btn { white-space: normal; text-align: center; line-height: 1.2; padding-top: 10px; padding-bottom: 10px; max-width: 100%; }
   .cities { grid-template-columns: repeat(2, 1fr); }
   .steps, .trust, .band .trust { grid-template-columns: 1fr; }
   .foot__cols { grid-template-columns: repeat(2, 1fr); }

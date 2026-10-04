@@ -1,0 +1,139 @@
+[
+  {
+    "slug": "kathmandu-to-lukla",
+    "from": "kathmandu",
+    "to": "lukla",
+    "distance_km": 138,
+    "summary": "Lukla is about 138 km east of Kathmandu as the plane flies, and there is no road. Most trekkers take a 35-minute flight from Kathmandu or, in peak months, a 4–5 hour drive to Ramechhap and a 20-minute flight. Helicopters take 45–50 minutes; the overland route takes 2–3 days.",
+    "options": [
+      {
+        "mode": "Flight from Kathmandu",
+        "time": "35 min",
+        "text": "Tara Air, Summit Air and Sita Air fly 15–19 seat Twin Otter, Dornier 228 and Let L-410 aircraft from the domestic terminal of Tribhuvan International Airport, mostly between 6 and 10 am. The flight follows the Himalaya east, with Langtang, Gauri Shankar and Numbur on the left, and lands uphill on Lukla's 527 m sloping runway. Fares for foreigners are about US$220–250 each way. Cloud at either end often delays departures."
+      },
+      {
+        "mode": "Drive to Ramechhap + flight",
+        "time": "4–5 h drive + 20 min flight",
+        "text": "In the busy months, roughly late March to May and late September to November, scheduled Lukla flights have operated from Ramechhap (Manthali) Airport to ease congestion at Kathmandu. Pickup is usually between 1 and 2:30 am for the 130 km drive via Dhulikhel and the BP Highway, then the flight takes about 20 minutes. Coming back, allow 5–6 hours on the road to Kathmandu. Check current status before you travel."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "45–50 min",
+        "text": "Shared helicopter seats from Kathmandu to Lukla cost roughly US$500–600 per person, and a private five-seat charter costs much more. Helicopters fly in conditions that ground small planes, avoid the Ramechhap drive and can leave as soon as the weather opens. Baggage is limited by weight, usually about 15 kg per person, and flights still need visual weather at Lukla, so they are not a guarantee."
+      },
+      {
+        "mode": "Jeep + walk",
+        "time": "2–3 days",
+        "text": "The overland route drives about 270 km from Kathmandu to Salleri or Phaplu in Solu, 10–12 hours on a road that is paved in parts and rough in others. Jeeps continue on dirt tracks towards Thamdanda or Surke when conditions allow, and you walk the last 1–2 days to Lukla or join the main trail at Chaurikharka. It suits trekkers with time who want to avoid flights, but monsoon landslides often close the upper tracks."
+      }
+    ],
+    "stops_on_way": ["Tribhuvan International Airport domestic terminal", "Dhulikhel", "Ramechhap (Manthali) Airport", "Salleri", "Phaplu", "Surke"],
+    "tip": "Book the first flight of the morning and keep at least one spare day at the end of your trip, because cloud at Lukla regularly pushes flights back by a day or more.",
+    "faqs": [
+      {
+        "q": "How long is the flight from Kathmandu to Lukla?",
+        "a": "About 35 minutes from Kathmandu and about 20 minutes from Ramechhap (Manthali). Flights leave in the early morning, when the weather is clearest, and a single aircraft makes several rotations a day. Delays of a few hours are common and full-day cancellations happen in cloudy weather, so allow spare days in your plans."
+      },
+      {
+        "q": "How much is a Kathmandu to Lukla flight ticket?",
+        "a": "Foreign passport holders usually pay about US$220–250 each way on the scheduled airlines, with fares set in dollars. Nepali citizens pay less in rupees. A shared helicopter seat costs roughly US$500–600. Our Everest trek packages include the return flights and any Ramechhap road transfers, so you do not need to book them separately."
+      },
+      {
+        "q": "Can you drive from Kathmandu to Lukla?",
+        "a": "No road reaches Lukla. You can drive about 270 km to Salleri or Phaplu in 10–12 hours, continue by jeep on dirt tracks towards Surke or Thamdanda when they are open, and then walk 1–2 days to Lukla. It is slower than flying but avoids weather delays at the airport. Road conditions change each season, so check current status before you travel."
+      },
+      {
+        "q": "Is the Lukla flight safe?",
+        "a": "Lukla is a demanding airport with a short sloping runway and no go-around option, and the route has seen accidents over the years. Airlines fly only in visual weather with pilots trained for the strip, which is why cloud causes so many delays. Do not pressure your operator to fly in marginal conditions; an extra day of waiting is part of the plan."
+      }
+    ]
+  },
+  {
+    "slug": "lukla-to-namche-bazaar",
+    "from": "lukla",
+    "to": "namche-bazaar",
+    "distance_km": 19,
+    "summary": "Lukla to Namche Bazaar is about 19 km on foot, usually walked over two days with a night in Phakding. The first day drops gently to 2,610 m; the second climbs about 800 m from the Dudh Koshi to Namche at 3,440 m. A helicopter reaches Syangboche above Namche in 10 minutes.",
+    "options": [
+      {
+        "mode": "On foot (2 days)",
+        "time": "3–4 h + 5–6 h",
+        "text": "This is how nearly every trek begins. Day one leaves Lukla through the Pasang Lhamu gate and descends past Chaurikharka, Cheplung and Ghat to Phakding, about 8 km in 3–4 hours. Day two follows the Dudh Koshi north via Benkar, enters Sagarmatha National Park at Monjo, crosses the high suspension bridge above Jorsalle and climbs the steep zigzag trail to Namche in 5–6 hours."
+      },
+      {
+        "mode": "On foot (1 day)",
+        "time": "7–9 h",
+        "text": "Strong trekkers who are short of time sometimes walk from Lukla to Namche in one day. It is a long day with a net gain of about 600 m and roughly 1,000 m of climbing in total, and it skips the lower night that helps the body adjust. We only suggest it for people already acclimatised from another trek, and never for a group with children or older members."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "≈ 10 min",
+        "text": "Helicopters can fly from Lukla to Syangboche, the airstrip above Namche at about 3,750 m, in around 10 minutes, usually as part of a charter or a luxury lodge itinerary. Flying straight to this height without a lower night raises the risk of altitude sickness, so plan a quiet first day. Landing permissions above Lukla change from time to time; check current status before you travel."
+      }
+    ],
+    "stops_on_way": ["Chaurikharka", "Cheplung", "Ghat", "Phakding", "Benkar", "Monjo park gate", "Jorsalle", "Hillary Bridge"],
+    "tip": "Look back from the bend about halfway up the Namche hill on a clear day, because it gives the first view of Everest's summit behind the Nuptse–Lhotse ridge.",
+    "faqs": [
+      {
+        "q": "How long does it take to walk from Lukla to Namche Bazaar?",
+        "a": "Most trekkers take two days: 3–4 hours from Lukla to Phakding, then 5–6 hours from Phakding to Namche. The total distance is about 19 km. The second day is the harder one, ending with a climb of about 600 m in 2–3 hours from the Hillary Bridge to Namche at 3,440 m."
+      },
+      {
+        "q": "Where do I show my permits between Lukla and Namche?",
+        "a": "The Khumbu Pasang Lhamu Rural Municipality fee is checked or collected at Lukla, near the start of the trail, and the Sagarmatha National Park permit at the park entrance at Monjo on the second day. Your guide handles both if you trek with us. Keep your passport handy, because the park office records passport details. Check current status before you travel."
+      },
+      {
+        "q": "Is the Lukla to Namche trail difficult?",
+        "a": "The first day to Phakding is easy, mostly downhill on a wide stone trail. The second day is moderate to hard because of the steep final climb to Namche, made harder by the altitude above 3,000 m. Walk slowly, drink often and rest at the viewpoint halfway up. Yaks and porters share the trail, so step to the hillside when they pass."
+      },
+      {
+        "q": "Can I take a helicopter from Lukla to Namche?",
+        "a": "Yes, a helicopter can fly to Syangboche above Namche in about 10 minutes, usually as a charter or within a luxury itinerary. It saves two days of walking but means arriving at about 3,750 m without a lower night, so headaches are more likely. Landing rules in the national park change, so check current status before you travel."
+      }
+    ]
+  },
+  {
+    "slug": "namche-bazaar-to-everest-base-camp",
+    "from": "namche-bazaar",
+    "to": "everest-base-camp",
+    "distance_km": 46,
+    "summary": "From Namche Bazaar to Everest Base Camp is about 46 km on foot, gaining roughly 1,900 m. The standard route via Tengboche, Dingboche, Lobuche and Gorak Shep takes 6 days including a rest day at Dingboche. Walking back down to Namche takes 2–3 days, or 15–20 minutes by helicopter.",
+    "options": [
+      {
+        "mode": "On foot via Tengboche and Dingboche",
+        "time": "6 days",
+        "text": "Day one traverses to Kyangjuma and drops to the Dudh Koshi before climbing to Tengboche at 3,867 m, 5–6 hours. Day two passes Deboche and Pangboche to Dingboche at 4,410 m. Day three is a rest day with a hike towards Nangkartshang Peak. Day four climbs to Thukla and Lobuche at 4,940 m. Day five reaches Gorak Shep at 5,164 m and base camp, returning to Gorak Shep to sleep."
+      },
+      {
+        "mode": "On foot via Gokyo and Cho La",
+        "time": "9–10 days",
+        "text": "The longer western loop climbs to Dole, Machhermo and Gokyo at 4,790 m, with a morning on Gokyo Ri at 5,357 m, then crosses the Ngozumpa Glacier to Thagnak and the Cho La at about 5,420 m to Dzongla and Lobuche. It joins the main trail for Gorak Shep and base camp. The pass needs good weather, a steady head on loose rock and, early or late in the season, microspikes."
+      },
+      {
+        "mode": "Helicopter (descent only)",
+        "time": "15–20 min",
+        "text": "Helicopters are used to come down, not to go up, because flying straight to 5,000 m without acclimatisation is dangerous. Our heli-return trek walks up and flies from Gorak Shep to Lukla or Kathmandu after Kala Patthar. Payload is limited at that height, so the helicopter may shuttle passengers in two lifts to Pheriche or Lukla. Flights run in clear morning weather only."
+      }
+    ],
+    "stops_on_way": ["Kyangjuma", "Phunki Tenga", "Tengboche", "Deboche", "Pangboche", "Dingboche", "Thukla", "Lobuche", "Gorak Shep"],
+    "tip": "Sleep at Gorak Shep rather than trying to walk from Lobuche to base camp and back in one day, so that Kala Patthar at sunrise is a short climb the next morning.",
+    "faqs": [
+      {
+        "q": "How many days from Namche to Everest Base Camp?",
+        "a": "Allow 6 days on the standard route: Tengboche, Dingboche, a rest day at Dingboche, Lobuche, then Gorak Shep and base camp on day five, with Kala Patthar at dawn on day six before starting down. Rushing this section is the most common cause of altitude sickness on the trek, so we never drop the Dingboche rest day."
+      },
+      {
+        "q": "How long does it take to walk down from Everest Base Camp to Namche?",
+        "a": "About two to three days. From Gorak Shep, after Kala Patthar, most groups descend to Pheriche at 4,371 m the same day, then walk 6–7 hours to Namche. Some stop at Pangboche or Tengboche instead. Going down is much faster than going up because you no longer need acclimatisation stops, though the descent is hard on knees."
+      },
+      {
+        "q": "Can you fly from Namche to Everest Base Camp by helicopter?",
+        "a": "Tour helicopters fly over base camp from Lukla, but flying up and walking around at 5,000 m without acclimatisation is risky and tourist landings at base camp itself are generally not allowed. Kala Patthar landings are permitted at some times and not others. For trekkers, helicopters are a way down, not up. Check current status before you travel."
+      },
+      {
+        "q": "Is there accommodation between Namche and Everest Base Camp?",
+        "a": "Yes. Teahouse lodges operate at Kyangjuma, Tengboche, Deboche, Pangboche, Dingboche, Pheriche, Thukla, Lobuche and Gorak Shep. There is no lodge at base camp itself, which is a climbing camp. Rooms get simpler and more expensive with altitude, and Lobuche and Gorak Shep fill up in October and April, so we book ahead."
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Trekking in Nepal: Treks by Days, Height and Grade{% if t.price_from_inr %} from {{ t.price_from_inr|inr }}{% endif %}{% endblock %}
+{% block meta_description %}{{ t.meta_description|default:t.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ t.name }}{% endblock %}
+{% block og_image %}{% with i=t|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_class %}page-trek{% endblock %}
+{% block fab_label %}Plan my trek{% endblock %}
+{% block main %}
+<header class="phead">
+  <div class="phead__bg">{% photo t|first_img t.name "" "100vw" True True %}</div>
+  <div class="wrap"><div class="phead__in">
+    <span class="stamp stamp--big" data-type="trek">{% icon "boot" %}<b>Trek</b></span>
+    <p class="kicker"><a href="{% url 'themes' %}">{% icon "boot" %}Tour styles</a></p>
+    <h1>{{ t.name }}</h1>
+    <p class="phead__lede">{{ t.tagline }}</p>
+    <ul class="phead__facts">
+      {% if packages %}<li>{% icon "ticket" %}{{ packages|length }} trek{{ packages|length|pluralize }}</li>{% endif %}
+      {% with top=packages|dictsortreversed:"max_altitude_m"|first %}{% if top.max_altitude_m %}<li>{% icon "altitude" %}Up to {{ top.max_altitude_m|thousands }} m</li>{% endif %}{% endwith %}
+      {% if t.price_from_inr %}<li>{% icon "coin" %}<span data-inr="From {{ t.price_from_inr|inr }}" data-usd="From {{ packages.0.price_from_usd|usd }}">From {{ t.price_from_inr|inr }}</span></li>{% endif %}
+    </ul>
+  </div></div>
+  <div class="phead__icon" aria-hidden="true">{% icon "boot" %}</div>
+  <div class="ridge--bottom" aria-hidden="true"></div>
+</header>
+
+{% if trek_points != "[]" %}<section class="sec--tight" aria-labelledby="h-chart"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "altitude" %}Trek finder</p><h2 class="h2" id="h-chart">Every trek on one chart: days against height</h2><p>Each dot is a trek. Further right takes longer; higher reaches higher. The shaded band is above 5,000 m. Filter by grade, then tap a dot to open the trek.</p></div></div>
+  {% include "tours/partials/tchart.html" with points=trek_points %}
+</div></section>{% endif %}
+
+<div class="wrap sec--tight">
+  <div class="split">
+    <article class="prose">
+      {% include "tours/partials/brief.html" with text=t.summary %}
+      {% for para in t.intro %}<p>{{ para }}</p>{% endfor %}
+      {% if t.how_to_choose %}<h2 class="h2">How to choose a trek</h2>
+      <ul class="hl">{% for h in t.how_to_choose %}<li><b>{{ h.title }}</b><p>{{ h.text }}</p></li>{% endfor %}</ul>{% endif %}
+    </article>
+    <aside class="aside">
+      <div class="panel"><h2 class="h3">Shortlist by grade</h2>
+        <ul class="mlinks">{% for g in grades %}<li><a href="{% url 'packages' %}?type=trek&amp;grade={{ g }}"><span class="grade" data-g="{{ g|grade_level }}" aria-hidden="true"><i></i><i></i><i></i><i></i></span>{{ g }} treks</a></li>{% endfor %}
+          <li><a href="{% url 'theme' 'peak-climbing' %}">{% icon "axe" %}Peak climbing</a></li>
+          <li><a href="{% url 'tool_altitude' %}">{% icon "altitude" %}Altitude checker</a></li></ul>
+      </div>
+      {% include "tours/partials/quick_form.html" with heading="Plan my trek" trip_type="trek" where="trek-aside" %}
+    </aside>
+  </div>
+</div>
+
+<section class="sec sec--tint sec--contour" aria-labelledby="h-grades"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "grade" %}Grades</p><h2 class="h2" id="h-grades">What our grades mean</h2><p>We grade on the hardest days, not the average: hours on foot, height gained, the highest night and how remote the trail is.</p></div></div>
+  <ol class="steps">{% for g in grades %}<li>
+    <b><span class="grade" data-g="{{ g|grade_level }}" aria-hidden="true" style="margin-right:8px"><i></i><i></i><i></i><i></i></span>{{ g }}</b>
+    <p>{% if g == "Easy" %}Four to six hours a day on clear trails, staying below about 3,500 m. Fine for first-timers and active families who walk regularly.{% elif g == "Moderate" %}Five to seven hours a day with long stone staircases and climbs of 600–900 m, reaching 3,500–4,700 m. Train with hill walks for a few weeks.{% elif g == "Challenging" %}Six to eight hour days, several nights above 4,000 m and a high point near or above 5,000 m, such as Everest Base Camp. Acclimatisation days are built in.{% elif g == "Strenuous" %}High passes above 5,000 m, long remote stages or a climbing day on snow with ropes and crampons. Previous high-altitude trekking is strongly advised.{% endif %}</p>
+    <p style="margin-top:12px"><a class="textlink" href="{% url 'packages' %}?type=trek&amp;grade={{ g }}">See {{ g|lower }} treks{% icon "arrow" %}</a></p>
+  </li>{% endfor %}</ol>
+</div></section>
+
+<section class="sec" aria-labelledby="h-pk"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "ticket" %}Packages</p><h2 class="h2" id="h-pk">Treks, lowest price first</h2></div><a class="textlink" href="{% url 'packages' %}?type=trek">Filter and compare{% icon "arrow" %}</a></div>
+  {% if packages %}<div class="passes" data-stagger>{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div>
+  {% else %}<div class="empty"><h3 class="h3">Treks are quoted to order</h3><p>Tell us how many days you have and how high you want to go, and we suggest a route with every cost listed.</p><a class="btn btn--foil" href="{% url 'plan' %}?type=trek&amp;from={{ request.path|urlencode }}" data-cta="trek-empty-quote">Ask for a trek plan{% icon "arrow" %}</a></div>{% endif %}
+</div></section>
+
+{% if packages %}<section class="sec--tight" aria-labelledby="h-table"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "altitude" %}Highest first</p><h2 class="h2" id="h-table">Treks by height</h2></div></div>
+  <div class="tbl-wrap"><table class="tbl">
+    <thead><tr><th scope="col">Trek</th><th scope="col">Region</th><th scope="col">Days</th><th scope="col">Highest point</th><th scope="col">Grade</th><th scope="col">Best months</th><th scope="col">From</th></tr></thead>
+    <tbody>{% for k in packages|dictsortreversed:"max_altitude_m" %}<tr>
+      <td><a href="{{ k.url }}"><b>{{ k.title }}</b></a></td>
+      <td>{{ k.region_obj.short|default:k.region_obj.name }}</td>
+      <td>{{ k.days_count }}</td>
+      <td>{{ k.max_altitude_m|thousands }} m</td>
+      <td><span class="grade" data-g="{{ k.grade|grade_level }}" aria-hidden="true"><i></i><i></i><i></i><i></i></span> {{ k.grade }}</td>
+      <td>{{ k.best_label|default:"Ask us" }}</td>
+      <td><b class="num" data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</b></td>
+    </tr>{% endfor %}</tbody>
+  </table></div>
+</div></section>{% endif %}
+
+<section class="sec sec--tint" aria-labelledby="h-basics"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "shield" %}Trek basics</p><h2 class="h2" id="h-basics">Permits, guides and altitude</h2></div><a class="textlink" href="{% url 'policy' 'helicopter-and-altitude' %}">Our altitude terms{% icon "arrow" %}</a></div>
+  <div class="grid grid--3">
+    <div class="panel"><h3 class="h3">{% icon "permit" %} Permits</h3><p>Most treks need a national park or conservation area permit, and many need a TIMS card. Restricted areas such as Upper Mustang, Manaslu, Upper Dolpo and Kanchenjunga need a special permit, issued only through a registered agency to groups of at least two. We arrange every permit and list its cost in the quote.</p></div>
+    <div class="panel"><h3 class="h3">{% icon "users" %} Licensed guides</h3><p>Since April 2023 Nepal requires foreign trekkers in national parks and conservation areas to walk with a licensed guide. Indian citizens follow some separate rules. Every trek we sell includes a licensed guide, and porters are optional.</p></div>
+    <div class="panel"><h3 class="h3">{% icon "altitude" %} Acclimatisation</h3><p>Above 3,000 m, a common rule is to sleep no more than 300–500 m higher each night and to rest every third or fourth day. Headache, nausea and poor sleep are early signs of altitude sickness; if they get worse, go down. Our itineraries show each night's height so you can check.</p></div>
+  </div>
+  <p class="notice" style="margin-top:22px">{% icon "info" %}<span>Permit fees, guide rules and restricted-area rules change. Check current status before you travel; we confirm them for your dates in writing.</span></p>
+</div></section>
+
+{% if region_pages %}<section class="sec--tight" aria-labelledby="h-reg"><div class="wrap">
+  <h2 class="h3" id="h-reg">Treks by region</h2>
+  <ul class="chips">{% for r in region_pages %}<li><a class="chip chip--land" data-land="{{ r.slug }}" href="{% url 'region_theme' r.slug t.slug %}">{% icon r.icon %}Treks in {{ r.short|default:r.name }}</a></li>{% endfor %}</ul>
+</div></section>{% endif %}
+
+{% if places %}<section class="sec" aria-labelledby="h-places"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "pin" %}On the trail</p><h2 class="h2" id="h-places">Villages, passes and base camps</h2></div></div>
+  <div class="grid grid--4" data-stagger>{% for p in places|dictsortreversed:"altitude_m"|slice:":12" %}{% include "tours/partials/place_card.html" %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if stays %}<section class="sec sec--tint" aria-labelledby="h-stays"><div class="wrap">
+  <div class="sec__head"><div><p class="kicker">{% icon "bed" %}Stay</p><h2 class="h2" id="h-stays">Lodges on and near the trails</h2></div></div>
+  <div class="grid grid--4">{% for s in stays|slice:":8" %}<a class="ecard" href="{{ s.url }}" data-land="{{ s.region }}">{% photo s|first_img s.name "" "(max-width: 760px) 100vw, 25vw" False False %}<span class="ecard__kind">{% icon "bed" %}{{ s.class|default:s.kind }}</span><span class="ecard__txt"><b>{{ s.name }}</b><small>{{ s.place_obj.name }}{% if s.kind %} · {{ s.kind|capfirst }}{% endif %}</small></span></a>{% endfor %}</div>
+</div></section>{% endif %}
+
+<div class="wrap">{% include "tours/partials/faqs.html" with faqs=t.faqs faq_title="Questions about trekking in Nepal" %}</div>
+{% endblock %}

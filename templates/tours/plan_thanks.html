@@ -1,0 +1,41 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Thank You, We Have Your Request{% endblock %}
+{% block meta_description %}Your Nepal trip request has reached our travel desk. We reply with a written, itemised quote, usually within one working day.{% endblock %}
+{% block extra_head %}<meta name="robots" content="noindex">{% endblock %}
+{% block cta_band %}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "check" %}Request received</p><h1>Thank you, we have your request</h1><p class="phead__lede">A trip manager is reading it now. Expect a written quote, or one or two questions first, usually within one working day.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "ticket" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight" aria-labelledby="h-next"><div class="wrap">
+  <div class="sec__head"><h2 class="h2" id="h-next">What happens next</h2></div>
+  <ol class="steps">
+    <li><b>We check your dates</b><p>Hotels, flights, helicopter seats and permits for the month you chose.</p></li>
+    <li><b>You get a written quote</b><p>A day-by-day plan with every line priced in rupees or dollars.</p></li>
+    <li><b>Change anything</b><p>Swap hotels, add a day or switch to a heli return. We re-quote at no charge.</p></li>
+    <li><b>Book when you are ready</b><p>A deposit confirms the trip. Nothing is due before you decide.</p></li>
+  </ol>
+  <div class="grid grid--2" style="margin-top:28px">
+    <div class="panel">
+      <h2 class="h3">Need to add something</h2>
+      <p>Reply to our email when it arrives, or reach us here. Mention the name you used on the form.</p>
+      <ul class="mlinks">
+        {% if wa_base %}<li><a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="thanks-whatsapp">{% icon "whatsapp" %}WhatsApp us</a></li>{% endif %}
+        {% if tel %}<li><a href="tel:{{ tel }}" data-cta="thanks-call">{% icon "phone" %}Call {{ SITE.phone }}</a></li>{% endif %}
+        <li><a href="mailto:{{ SITE.email }}" data-cta="thanks-email">{% icon "mail" %}{{ SITE.email }}</a></li>
+      </ul>
+    </div>
+    <div class="panel">
+      <h2 class="h3">While you wait</h2>
+      <ul class="mlinks">
+        <li><a href="{% url 'how_we_work' %}">{% icon "shield" %}How booking works</a></li>
+        <li><a href="{% url 'policy' 'payments' %}">{% icon "coin" %}Deposits and payments</a></li>
+        <li><a href="{% url 'policy' 'refund-and-cancellation' %}">{% icon "info" %}Refunds and cancellations</a></li>
+        <li><a href="{% url 'guides' %}">{% icon "book" %}Nepal travel guides</a></li>
+      </ul>
+    </div>
+  </div>
+  <p class="notice" style="margin-top:22px">{% icon "info" %}<span>We never ask for card details, OTPs or passwords by email, WhatsApp or phone. If anyone does in our name, do not reply and tell us.</span></p>
+</div></section>
+
+{% if packages %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">More trips to browse</h2><a class="textlink" href="{% url 'packages' %}">Every package{% icon "arrow" %}</a></div><div class="passes" data-stagger>{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

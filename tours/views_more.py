@@ -13,6 +13,19 @@ from .policies import POLICIES, UPDATED
 from .views import COMPANY_FAQS, _get, _mid, crumbs, faq_ld, img_url, ld, org_ld
 
 
+def _notify(enquiry):
+    """Email the travel desk about a new enquiry. Silent no-op until EMAIL_HOST is configured."""
+    to = getattr(settings, "ENQUIRY_NOTIFY_TO", "")
+    if not (getattr(settings, "EMAIL_HOST", "") and to and "@" in to):
+        return
+    from django.core.mail import send_mail
+    fields = ["name", "phone", "email", "contact_pref", "kind", "trip_type", "regions", "package", "month", "days",
+              "adults", "children", "hotel_class", "budget", "from_city", "message", "source_page"]
+    body = "\n".join(f"{f.replace('_', ' ').capitalize()}: {getattr(enquiry, f)}" for f in fields if getattr(enquiry, f) not in ("", None))
+    send_mail(f"New enquiry: {enquiry}", body + f"\n\nAdmin: {settings.SITE['url']}/admin/tours/enquiry/{enquiry.pk}/change/",
+              None, [to], fail_silently=True)
+
+
 def journal(request, cat=None):
     c = catalogue()
     posts = list(c.posts.values())
@@ -76,7 +89,7 @@ def plan(request):
     if request.method == "POST":
         form = EnquiryForm(request.POST)
         if form.is_valid():
-            form.save()
+            _notify(form.save())
             return redirect("plan_thanks")
     else:
         g = request.GET
@@ -106,7 +119,7 @@ def enquire(request):
         return redirect("plan")
     form = EnquiryForm(request.POST)
     if form.is_valid():
-        form.save()
+        _notify(form.save())
         return redirect("plan_thanks")
     items, bc = crumbs(("Get a quote", reverse("plan")))
     return render(request, "tours/plan.html", {"form": form, "crumbs": items, "ld": ld(bc)})

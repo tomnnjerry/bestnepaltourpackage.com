@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "kathmandu-to-ilam",
+    "from": "kathmandu",
+    "to": "ilam",
+    "distance_km": 560,
+    "summary": "Ilam is about 560 km from Kathmandu by road, 13–15 hours of driving. Most travellers fly 50 minutes to Bhadrapur instead and drive about 95 km and 3 hours up the Mechi Highway through the Kanyam tea gardens, arriving the same day.",
+    "options": [
+      {
+        "mode": "Flight + drive",
+        "time": "50 min flight + 3 h drive",
+        "text": "This is how we run most Ilam and Pathibhara trips. Several daily flights leave Kathmandu's domestic terminal for Bhadrapur in Jhapa, a 50-minute hop with Himalayan views on the left side on clear mornings. From Bhadrapur a private car takes you north through Birtamod to Charali, then up the Mechi Highway via Kanyam and Fikkal to Ilam Bazaar, about 95 km. Take the morning flight and you can stop at Kanyam and still reach Ilam by mid-afternoon."
+      },
+      {
+        "mode": "Flight to Biratnagar + drive",
+        "time": "40 min flight + 5–6 h drive",
+        "text": "Biratnagar has more flights than Bhadrapur and is useful when Bhadrapur seats are sold out or when you combine Ilam with Koshi Tappu, Dharan or Bhedetar. The flight takes about 40 minutes. From the airport it is roughly 190 km to Ilam: east along the East–West Highway through Itahari and Damak to Birtamod and Charali, then up the Mechi Highway. Allow 5–6 hours with a lunch stop, longer on market days in the Terai towns."
+      },
+      {
+        "mode": "Road",
+        "time": "13–15 h",
+        "text": "By private car or night bus, the usual route leaves Kathmandu via Dhulikhel and the BP Highway through Sindhuli to Bardibas, then runs east along the East–West Highway past Lahan, across the Koshi Barrage and through Itahari to Birtamod and Charali before climbing to Ilam. Night buses leave Kathmandu in the late afternoon and arrive early next morning. It saves the airfare but costs a full day, and we split the drive with a night at Itahari or Dharan for families."
+      }
+    ],
+    "stops_on_way": ["Bhadrapur airport", "Birtamod", "Charali", "Kanyam tea garden", "Fikkal", "Itahari (road route)", "Koshi Barrage (road route)"],
+    "tip": "Book the earliest Bhadrapur flight, because afternoon cloud on the Mechi Highway makes the last hour of the drive slower and the Kanyam views poorer.",
+    "faqs": [
+      {
+        "q": "How far is Ilam from Kathmandu?",
+        "a": "About 560 km by road, which takes 13–15 hours via the BP Highway, the East–West Highway and the Mechi Highway. Flying is far quicker: 50 minutes from Kathmandu to Bhadrapur, then about 95 km and 3 hours by car to Ilam Bazaar. With a morning flight you can be in Ilam by early afternoon."
+      },
+      {
+        "q": "Which airport is nearest to Ilam?",
+        "a": "Bhadrapur in Jhapa district, about 95 km and 3 hours by road, is the nearest airport with regular flights from Kathmandu. Biratnagar is a 5–6 hour drive. For travellers from India, Bagdogra airport near Siliguri is about 45 minutes from the Kakarbhitta border, and Ilam is roughly 3–3.5 hours beyond it."
+      },
+      {
+        "q": "Is there a direct bus from Kathmandu to Ilam?",
+        "a": "Yes. Day and night buses run daily from Kathmandu to Ilam, taking about 13–15 hours depending on traffic and road works. They are cheap but long, with few comfortable stops. Families usually prefer to fly to Bhadrapur, or to drive in a private car with a night halt at Itahari or Dharan."
+      },
+      {
+        "q": "Can I visit Kanyam on the way from Bhadrapur to Ilam?",
+        "a": "Yes. Kanyam lies on the Mechi Highway about 2 hours from Bhadrapur and an hour short of Ilam, so it is a natural stop. An hour among the tea slopes, with tea and snacks at the roadside stalls, adds little to the journey. Stop there on the way up if you arrive on a morning flight."
+      }
+    ]
+  },
+  {
+    "slug": "ilam-to-pathibhara",
+    "from": "ilam",
+    "to": "pathibhara",
+    "distance_km": 185,
+    "summary": "Pathibhara Devi is about 185 km from Ilam: 160 km and 7–8 hours by road via Phidim to Phungling, a jeep ride to Kafle Pati, then a 4–5 hour climb to the shrine at 3,794 m. Pilgrims usually split it over two days, or fly a shuttle from Kanyam.",
+    "options": [
+      {
+        "mode": "Road + walk",
+        "time": "2 days",
+        "text": "Day one is the drive north from Ilam on the Mechi Highway, about 70 km to Phidim in Panchthar and another 90 km on to Phungling, 7–8 hours in all with landslide repairs and lunch. Sleep in Phungling at 1,820 m. Next morning a jeep leaves around 2.30 a.m. for Kafle Pati, 1.5–2.5 hours, and the stone path climbs about 1,000 m in 5 km to the temple. Allow 4–5 hours up and 2–3 hours down."
+      },
+      {
+        "mode": "Road + helicopter shuttle",
+        "time": "7–8 h drive + a few minutes' flight",
+        "text": "Drive to Phungling as above, then take a shared helicopter shuttle from Phungling to the landing area near the summit the next morning. The flight lasts only a few minutes and local seat rates have been about NPR 10,000 return. It suits seniors who can manage the long drive but not the climb. Flights run from first light until cloud builds, and payload limits mean groups may fly in two sorties."
+      },
+      {
+        "mode": "Helicopter from Kanyam",
+        "time": "1 h drive + 30 min flight each way",
+        "text": "In the pilgrim seasons, operators run shared shuttles from Kanyam, about 30 km and 1 hour south of Ilam, to the landing area near the shrine in about 30 minutes. Seats have been quoted at about NPR 32,000–35,000 per person return. You land at almost 3,800 m without acclimatising, so anyone with heart or lung disease, uncontrolled blood pressure or pregnancy should not fly. Check current status before you travel."
+      }
+    ],
+    "stops_on_way": ["Phidim", "Phungling (Taplejung)", "Suketar", "Kafle Pati"],
+    "tip": "Keep a spare day in Phungling, because cloud or rain at the summit is common and the climb is safest when you are not racing the weather.",
+    "faqs": [
+      {
+        "q": "How far is Pathibhara from Ilam?",
+        "a": "About 185 km in total. Ilam to Phungling, the town below the shrine, is about 160 km and 7–8 hours on the Mechi Highway via Phidim. From Phungling a jeep reaches Kafle Pati in 1.5–2.5 hours, and the walk to the temple at 3,794 m takes 4–5 hours. Most pilgrims spend two nights in Phungling."
+      },
+      {
+        "q": "Can I visit Pathibhara from Ilam in one day?",
+        "a": "Only by helicopter. Drive about an hour from Ilam to Kanyam, fly a shared shuttle of about 30 minutes to the landing area near the shrine, and return the same morning if the weather holds. By road and on foot it takes at least two days from Ilam, plus the return, so plan four or five nights."
+      },
+      {
+        "q": "What is the road like from Ilam to Taplejung?",
+        "a": "The Mechi Highway between Ilam, Phidim and Phungling is paved for most of its length but narrow and winding, with landslide-prone sections after rain. A private jeep or SUV with a local driver is the safest choice. Allow 7–8 hours. In the monsoon, from June to September, closures of several hours or days are common."
+      },
+      {
+        "q": "Where should we stay before climbing Pathibhara?",
+        "a": "Most pilgrims sleep in Phungling, where simple hotels give clean rooms, hot water and vegetarian meals, and leave at about 2.30 a.m. for Kafle Pati. Basic lodges at Kafle Pati itself cut the morning drive but are very simple and cold. Walkers using the old trail from Suketar often break the climb there."
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu-to-halesi-mahadev",
+    "from": "kathmandu",
+    "to": "halesi-mahadev",
+    "distance_km": 230,
+    "summary": "Halesi Mahadev is about 230 km east of Kathmandu, a 9–10 hour drive via Dhulikhel, the BP Highway, Khurkot and Ghurmi into the Khotang hills. A helicopter covers the distance in about 45 minutes, which makes a same-day darshan possible in clear morning weather.",
+    "options": [
+      {
+        "mode": "Private jeep",
+        "time": "9–10 h",
+        "text": "We leave Kathmandu at about 6 a.m., drive past Dhulikhel and down the BP Highway to the Sun Koshi, then follow the river road through Sindhuli district to Khurkot for breakfast. Beyond Ghurmi the road crosses into Khotang and climbs on narrower, rougher sections to Mahadevsthan, the village around the caves, at about 1,400 m. A jeep or SUV handles the hill section better than a car. We spend two nights at Halesi before driving back."
+      },
+      {
+        "mode": "Bus",
+        "time": "11–13 h",
+        "text": "Public buses leave Kathmandu daily for Halesi and the Khotang hill towns, usually early in the morning or as overnight services. They are the cheapest option but slow, with frequent stops and limited legroom on rough sections above Ghurmi. Seats fill quickly before Shivaratri and Dashain, when pilgrims and returning families travel. Buy tickets a day ahead at the Kathmandu bus park, and carry water and snacks."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "≈ 45 min each way",
+        "text": "Charter and shared helicopters fly from Kathmandu's domestic terminal east over Kavre, Sindhuli and Okhaldhunga and land near Mahadevsthan. You get about 1.5–2 hours on the ground for puja, the side caves and the Maratika monasteries, and are back in the city by early afternoon. Our shared-seat yatra starts from about ₹62,000 per person with five sharing. Flights run in morning weather only, and total passenger weight is limited to about 400–450 kg."
+      }
+    ],
+    "stops_on_way": ["Dhulikhel", "Sindhuli", "Khurkot", "Ghurmi", "Sun Koshi bridge", "Mahadevsthan"],
+    "tip": "Plan the road journey for October to March, when the hill roads above Ghurmi are dry and the risk of landslides is lowest.",
+    "faqs": [
+      {
+        "q": "How far is Halesi Mahadev from Kathmandu?",
+        "a": "About 230 km by road, which takes 9–10 hours by private jeep via Dhulikhel, the BP Highway, Khurkot and Ghurmi, and 11–13 hours by bus. By helicopter it is about 45 minutes each way, so you can complete darshan and return to Kathmandu the same day if the morning weather is clear."
+      },
+      {
+        "q": "How much is the helicopter from Kathmandu to Halesi?",
+        "a": "Our 1-day Halesi helicopter yatra costs from about ₹62,000 or US$720 per seat when five passengers share one helicopter, including hotel transfers and a local guide. A private charter for up to five starts from about US$3,400 per helicopter. Prices move with fuel costs and operator rates, so we confirm when you book."
+      },
+      {
+        "q": "Is the road to Halesi good?",
+        "a": "The BP Highway from Dhulikhel to Khurkot is paved and in fair condition. Beyond Ghurmi the road into Khotang is narrower, steeper and rough in places, and landslides can close it for hours after rain, especially from June to September. A jeep or SUV is better than a small car. Check current status before you travel."
+      },
+      {
+        "q": "Can we do Halesi from Kathmandu in one day by road?",
+        "a": "Not comfortably. The drive takes 9–10 hours each way, so a same-day return would mean 20 hours in a vehicle with little time at the caves. Plan at least one night at Halesi, and ideally two, as in our 5-day road yatra from ₹30,000 per person. For a same-day visit, take the helicopter."
+      }
+    ]
+  }
+]

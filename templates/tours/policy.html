@@ -1,0 +1,21 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ pol.title }}{% endblock %}
+{% block meta_description %}{{ pol.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ pol.title }}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker"><a href="{% url 'policies' %}">{% icon "permit" %}Policies</a></p><h1>{{ pol.title }}</h1><p class="phead__lede">Last reviewed {{ updated }}</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "permit" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight"><div class="split">
+<article class="prose">
+  {% include "tours/partials/brief.html" with text=pol.summary %}
+  {% for s in sections %}<h2 class="h2" id="{{ s.heading|slugify }}">{{ s.heading }}</h2>
+    {% for b in s.blocks %}{% if b.list %}<ul class="ticks">{% for li in b.list %}<li>{% icon "check" %}<span>{{ li }}</span></li>{% endfor %}</ul>{% else %}<p>{{ b.p }}</p>{% endif %}{% endfor %}
+  {% endfor %}
+  <p class="notice" style="margin-top:32px">{% icon "info" %}<span>Questions about this policy? Write to <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a> or use our <a href="{% url 'contact' %}">contact page</a>. Your written quote and booking confirmation say which terms apply to your trip.</span></p>
+</article>
+<aside class="aside">
+  {% if sections|length > 1 %}<div class="panel"><h2 class="h3">In this policy</h2><ol class="toc">{% for s in sections %}<li><a href="#{{ s.heading|slugify }}">{{ s.heading }}</a></li>{% endfor %}</ol></div>{% endif %}
+  {% if others %}<div class="panel"><h2 class="h3">Other policies</h2><ul class="mlinks">{% for o_slug, o_name in others %}<li><a href="{% url 'policy' o_slug %}">{% icon "permit" %}{{ o_name }}</a></li>{% endfor %}</ul><a class="mlinks__more" href="{% url 'policies' %}">All policies{% icon "arrow" %}</a></div>{% endif %}
+</aside>
+</div></div>
+{% endblock %}

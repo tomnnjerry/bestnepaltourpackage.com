@@ -1,0 +1,16 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Policies: Booking Terms, Refunds, Payments and Privacy{% endblock %}
+{% block meta_description %}Our booking terms, refund and cancellation scale, payments policy, helicopter and altitude terms, privacy, cookies, disclaimer and accessibility statement in plain English.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "permit" %}Policies</p><h1>Policies and terms</h1><p class="phead__lede">Each policy starts with a plain-English summary. Your written quote and booking confirmation say which terms apply to your trip.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "permit" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <div class="grid grid--2">{% for p in policies %}<a class="panel" href="{% url 'policy' p.slug %}" style="text-decoration:none;color:inherit;display:block">
+    <p class="kicker">{% icon "permit" %}{{ p.nav }}</p>
+    <h2 class="h3">{{ p.title }}</h2>
+    <p class="muted" style="margin:0 0 12px">{{ p.summary|truncatewords:40 }}</p>
+    <span class="textlink">Read the policy{% icon "arrow" %}</span>
+  </a>{% endfor %}</div>
+  <p class="notice" style="margin-top:28px">{% icon "info" %}<span>Questions about a policy before you book? <a href="{% url 'contact' %}">Contact us</a> and we answer in writing.</span></p>
+</div>
+{% endblock %}

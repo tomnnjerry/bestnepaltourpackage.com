@@ -1,0 +1,150 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Altitude Checker for Nepal Treks and Tours{% endblock %}
+{% block meta_description %}See the sleeping altitude for every night of a Nepal trek or high tour, with the nights that climb more than 500 m above 3,000 m flagged, and altitude sickness basics.{% endblock %}
+{% block og_title %}Altitude checker for Nepal treks{% endblock %}
+{% block og_description %}Night-by-night sleeping altitude for Nepal treks, with fast climbs flagged.{% endblock %}
+{% block extra_head %}<style>
+.ac { min-width: 0; }
+.ac select { max-width: 100%; text-overflow: ellipsis; }
+.filters.ac__bar { grid-template-columns: minmax(0, 1fr) auto; margin-bottom: 22px; }
+.js .ac__go { display: none; }
+.js .filters.ac__bar { grid-template-columns: minmax(0, 1fr); }
+.ac__bar .field { min-width: 0; }
+.ac__note { margin: 18px 0; }
+.ac__summary { margin: 0; }
+.ac__note.is-ok { background: #E6F4EC; border-color: #A6D5B8; }
+.ac__note.is-ok .icon { color: var(--ok); }
+.ac__tbl td:nth-child(3), .ac__tbl td:nth-child(4), .ac__tbl td:nth-child(5) { white-space: nowrap; }
+.ac__tbl tr.is-warn td { background: #FDECEA; }
+.ac__tbl tr.is-warn td:last-child { color: var(--warn); font-weight: 700; }
+.ac__acts { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.ams h2 { margin-bottom: .4em; }
+.ams h3 { font-size: 1.25rem; margin: 1.1em 0 .4em; }
+.ams ul { margin: 0; padding-left: 1.1em; font-size: .94rem; }
+.ams li { margin-bottom: 4px; }
+.ams .small { font-size: .82rem; color: var(--muted); margin: 14px 0 0; }
+</style>{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "altitude" %}Trip tools</p><h1>Altitude checker</h1><p class="phead__lede">Choose a trek or high tour to see where you sleep each night and how fast the itinerary climbs. Nights that rise more than 500 m above 3,000 m are flagged.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "altitude" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">
+  <div class="split">
+    {% if chosen %}<div class="ac" data-altcheck data-pkgs="{{ data }}">
+      <form class="filters ac__bar" method="get" action="{% url 'tool_altitude' %}" aria-label="Choose a trip">
+        <label class="field"><span>Trek or tour</span><select name="package" id="ac-package">
+          {% if chosen not in packages %}<option value="{{ chosen.slug }}" selected>{{ chosen.title }}{% if chosen.max_altitude_m %} · {{ chosen.max_altitude_m|thousands }} m{% endif %}</option>{% endif %}
+          {% for k in packages %}<option value="{{ k.slug }}"{% if k.slug == chosen.slug %} selected{% endif %}>{{ k.title }} · {{ k.max_altitude_m|thousands }} m</option>{% endfor %}
+        </select></label>
+        <button class="btn btn--ink ac__go" type="submit">Check this trip</button>
+      </form>
+
+      <section class="prof" aria-labelledby="ac-title">
+        <div class="prof__head"><h2 class="h3" id="ac-title" data-ac-title>{{ chosen.title }}</h2><span class="alt-pill">{% icon "altitude" %}<span data-ac-max>{{ chosen.max_altitude_m|thousands }}</span> m</span></div>
+        <div data-ac-svg>{% profile chosen %}</div>
+        <p class="prof__note"><span><i style="background:var(--ink-l)"></i>Where you sleep</span><span><i style="background:var(--foil-deep)"></i>High point of the day</span><span><i style="background:var(--warn)"></i>Sleeping altitude rises more than 500 m above 3,000 m</span></p>
+      </section>
+
+      {% with n=chosen.acclim_flags|length %}<div class="notice ac__note{% if not n %} is-ok{% endif %}" data-ac-notice>{% icon "info" %}<p class="ac__summary">{% if n %}<b>{{ n }} day{{ n|pluralize }}</b> sleep more than 500 m higher than the night before, above 3,000 m. That is common on fast itineraries; ask us about an extra acclimatisation day.{% else %}<b>No big jumps.</b> Sleeping altitude never rises more than 500 m a night above 3,000 m on this itinerary.{% endif %}</p></div>{% endwith %}
+
+      <div class="tbl-wrap"><table class="tbl ac__tbl">
+        <caption class="sr">Night-by-night sleeping altitude</caption>
+        <thead><tr><th scope="col">Day</th><th scope="col">Overnight</th><th scope="col">Sleep</th><th scope="col">Change</th><th scope="col">High point</th><th scope="col">Note</th></tr></thead>
+        <tbody class="ac__rows">{% for d in chosen.days %}{% with alt=d.altitude_m|default:0 hi=d.max_m|default:0 %}<tr{% if d.day in chosen.acclim_flags %} class="is-warn"{% endif %}><td>{{ d.day }}</td><td>{{ d.overnight }}</td><td>{{ alt|thousands }} m</td><td>{% if forloop.first %}–{% else %}{% with pi=forloop.counter0|add:"-1" %}{% with pd=chosen.days|at:pi %}{% with ps=pd.altitude_m|default:0|stringformat:"d" %}{% with neg="-"|add:ps %}{% with gain=alt|add:neg %}{% if gain > 0 %}+{{ gain|thousands }} m{% elif gain < 0 %}{{ gain|thousands }} m{% else %}–{% endif %}{% endwith %}{% endwith %}{% endwith %}{% endwith %}{% endwith %}{% endif %}</td><td>{% if hi > alt %}{{ hi|thousands }} m{% endif %}</td><td>{% if d.day in chosen.acclim_flags %}Gain above 500 m over 3,000 m{% elif alt > 2500 %}OK{% endif %}</td></tr>{% endwith %}{% endfor %}</tbody>
+      </table></div>
+
+      <div class="ac__acts">
+        <a class="btn btn--foil" href="{% url 'plan' %}?package={{ chosen.slug }}&amp;from={{ request.path|urlencode }}" data-ac-quote data-cta="altitude-quote">Ask about this trip{% icon "arrow" %}</a>
+        <a class="textlink" href="{{ chosen.url }}" data-ac-link>See the full itinerary{% icon "arrow" %}</a>
+      </div>
+    </div>
+    {% else %}<div class="empty"><h2 class="h3">No high-altitude trips listed yet</h2><p>Tell us the trek you have in mind and we will check its acclimatisation for you.</p><a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}">Ask us</a></div>{% endif %}
+
+    <aside class="aside">
+      <div class="panel ams">
+        <h2 class="h3">Altitude sickness basics</h2>
+        <p>Acute mountain sickness (AMS) can start above about 2,500 m, whatever your age or fitness.</p>
+        <h3>Know the symptoms</h3>
+        <ul>
+          <li>Headache, with loss of appetite or nausea</li>
+          <li>Unusual tiredness or weakness, dizziness</li>
+          <li>Poor sleep</li>
+        </ul>
+        <h3>Climb slowly</h3>
+        <ul>
+          <li>Above 3,000 m, raise your sleeping altitude by no more than about 500 m a night</li>
+          <li>Take a rest day every three to four days, or for every 1,000 m gained</li>
+          <li>Climb high, sleep low: a short walk up in the afternoon, then sleep lower</li>
+          <li>Drink water, eat well and skip alcohol for the first days up high</li>
+        </ul>
+        <h3>Go down if it gets worse</h3>
+        <ul>
+          <li>Never go higher with symptoms; rest at the same height until they pass</li>
+          <li>If symptoms worsen, descend at once, even at night</li>
+          <li>Confusion, stumbling, breathlessness at rest or a wet cough are emergencies: descend and get medical help</li>
+        </ul>
+        <p class="small">General information, not medical advice. See a doctor before a high trip, especially with a heart or lung condition, and ask about acetazolamide. Check that your insurance covers helicopter rescue to the altitude you will reach.</p>
+      </div>
+    </aside>
+  </div>
+  <p style="margin-top:32px"><b>More trip tools:</b> <a href="{% url 'tool_season' %}">season finder</a> · <a href="{% url 'tool_budget' %}">budget calculator</a> · <a href="{% url 'tool_permits' %}">permit finder</a></p>
+</div>
+{% endblock %}
+{% block extra_js %}<script>
+/* Altitude checker helpers. pass.js fills the table and summary; this redraws the profile
+   for the chosen trip (same drawing as the server version) and keeps ?package= in the URL. */
+(function () {
+  var ac = document.querySelector("[data-altcheck]");
+  if (!ac) return;
+  var D = {};
+  try { D = JSON.parse(ac.dataset.pkgs || "{}"); } catch (e) {}
+  var sel = ac.querySelector("select"), svgBox = ac.querySelector("[data-ac-svg]"), title = ac.querySelector("[data-ac-title]");
+  var maxEl = ac.querySelector("[data-ac-max]"), quote = ac.querySelector("[data-ac-quote]"), notice = ac.querySelector("[data-ac-notice]");
+  var fmt = function (n) { return Math.round(n).toLocaleString("en-US"); };
+  var esc = function (s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;" }[c]; }); };
+
+  function profile(days) {
+    var W = 1000, H = 300, L = 58, R = 18, T = 22, B = 44, pw = W - L - R, ph = H - T - B, n = days.length;
+    if (!n) return "";
+    var rows = days.map(function (d) { var s = d[2] || 0; return { day: d[0], name: d[1], s: s, m: d[3] || s }; });
+    var top = Math.max.apply(null, rows.map(function (r) { return r.m; }));
+    var ceil = Math.max(2000, Math.ceil((top + 300) / 1000) * 1000);
+    var X = function (i) { return L + (n > 1 ? pw * i / (n - 1) : pw / 2); };
+    var Y = function (a) { return T + ph - ph * a / ceil; };
+    var f = function (v) { return v.toFixed(1); };
+    var out = ['<svg class="prof__svg" viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Elevation profile, highest point ' + fmt(top) + ' m" xmlns="http://www.w3.org/2000/svg">'];
+    [["Altitude zone", 2500, "prof__zone"], ["Very high", 5000, "prof__zone prof__zone--hi"]].forEach(function (z) {
+      if (ceil > z[1]) out.push('<rect class="' + z[2] + '" x="' + L + '" y="' + T + '" width="' + pw + '" height="' + f(Y(z[1]) - T) + '"><title>' + z[0] + ": above " + fmt(z[1]) + " m</title></rect>");
+    });
+    var step = ceil <= 6000 ? 1000 : 2000;
+    for (var a = 0; a <= ceil; a += step) out.push('<line class="prof__grid" x1="' + L + '" x2="' + (W - R) + '" y1="' + f(Y(a)) + '" y2="' + f(Y(a)) + '"/><text class="prof__y" x="' + (L - 8) + '" y="' + f(Y(a) + 4) + '" text-anchor="end">' + fmt(a) + "</text>");
+    var pts = rows.map(function (r, i) { return f(X(i)) + "," + f(Y(r.s)); });
+    out.push('<path class="prof__area" d="M' + f(X(0)) + "," + f(Y(0)) + "L" + pts.join("L") + "L" + f(X(n - 1)) + "," + f(Y(0)) + 'Z"/>');
+    out.push('<polyline class="prof__line" points="' + pts.join(" ") + '"/>');
+    var every = n <= 16 ? 1 : (n <= 30 ? 2 : 3), prev = null;
+    rows.forEach(function (r, i) {
+      var x = f(X(i)), flag = prev != null && r.s > 3000 && r.s - prev > 500;
+      prev = r.s;
+      if (r.m > r.s + 60) out.push('<line class="prof__tick" x1="' + x + '" x2="' + x + '" y1="' + f(Y(r.s)) + '" y2="' + f(Y(r.m)) + '"/><circle class="prof__peak" cx="' + x + '" cy="' + f(Y(r.m)) + '" r="4"><title>Day ' + esc(r.day) + " high point " + fmt(r.m) + " m</title></circle>");
+      out.push('<circle class="prof__dot' + (flag ? " prof__dot--flag" : "") + '" cx="' + x + '" cy="' + f(Y(r.s)) + '" r="5"><title>Day ' + esc(r.day) + " · " + esc(r.name) + " · " + fmt(r.s) + " m</title></circle>");
+      if (i % every === 0 || i === n - 1) out.push('<text class="prof__x" x="' + x + '" y="' + (H - B + 20) + '" text-anchor="middle">' + esc(r.day) + "</text>");
+    });
+    var ti = rows.map(function (r) { return r.m; }).indexOf(top), tx = Math.min(Math.max(X(ti), L + 60), W - R - 60);
+    out.push('<text class="prof__top" x="' + f(tx) + '" y="' + f(Y(top) - 12) + '" text-anchor="middle">' + fmt(top) + " m</text>");
+    out.push('<text class="prof__axis" x="' + L + '" y="' + (H - 6) + '">Day</text></svg>');
+    return out.join("");
+  }
+
+  sel.addEventListener("change", function () {
+    var slug = sel.value, p = D[slug];
+    if (!p) return;
+    svgBox.innerHTML = profile(p.days);
+    title.textContent = p.t;
+    var top = Math.max.apply(null, p.days.map(function (d) { return Math.max(d[2] || 0, d[3] || 0); }).concat([0]));
+    maxEl.textContent = fmt(top);
+    if (quote) { var u = new URL(quote.href, location.href); u.searchParams.set("package", slug); quote.href = u.pathname + u.search; }
+    try { history.replaceState(null, "", location.pathname + "?package=" + encodeURIComponent(slug)); } catch (e) {}
+    /* summary styling follows pass.js's text, which runs after this listener */
+    setTimeout(function () { if (notice) notice.classList.toggle("is-ok", /^No big jumps/.test(notice.textContent.trim())); }, 0);
+  });
+})();
+</script>{% endblock %}
