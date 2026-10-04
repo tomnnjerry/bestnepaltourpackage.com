@@ -105,11 +105,15 @@ def search_files(query, n=8):
 _info = {}
 
 
+BLOCKED = set(json.loads((CONTENT / "image_blocklist.json").read_text(encoding="utf-8"))) \
+    if (CONTENT / "image_blocklist.json").exists() else set()
+
+
 def _record(pg):
     """Credit record for one Commons file page, or None unless it is a free-licence JPEG photo of 1,000 px or more."""
     title = pg.get("title", "")
     ii = (pg.get("imageinfo") or [None])[0]
-    if not ii or ii.get("mime") != "image/jpeg" or ii.get("width", 0) < 1000:
+    if title in BLOCKED or not ii or ii.get("mime") != "image/jpeg" or ii.get("width", 0) < 1000:
         return None
     meta = ii.get("extmetadata", {})
     lic = plain(meta.get("LicenseShortName", {}).get("value"))
