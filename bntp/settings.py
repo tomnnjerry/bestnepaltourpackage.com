@@ -104,6 +104,18 @@ if not DEBUG:
     SECURE_REFERRER_POLICY = "strict-origin-when-cross-origin"
     SECURE_HSTS_SECONDS = int(os.environ.get("DJANGO_HSTS_SECONDS", "0"))  # raise to 31536000 once HTTPS is confirmed
 
+# Social profiles shown as icons in the footer, mobile menu and contact page, and listed as `sameAs` in the
+# site's structured data. Only profiles with a full https:// address are shown. Set them as environment
+# variables (or paste the addresses here), e.g. BNTP_INSTAGRAM=https://www.instagram.com/yourhandle
+SOCIAL = {
+    "facebook": os.environ.get("BNTP_FACEBOOK", ""),
+    "instagram": os.environ.get("BNTP_INSTAGRAM", ""),
+    "youtube": os.environ.get("BNTP_YOUTUBE", ""),
+    "x": os.environ.get("BNTP_X", ""),
+    "linkedin": os.environ.get("BNTP_LINKEDIN", ""),
+    "tiktok": os.environ.get("BNTP_TIKTOK", ""),
+}
+
 # Optional Google Analytics 4 measurement ID (e.g. G-XXXXXXX). Leave empty to load no analytics.
 GA4_ID = os.environ.get("BNTP_GA4", "")
 
