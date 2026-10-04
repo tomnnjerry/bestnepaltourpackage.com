@@ -58,6 +58,11 @@ def api(host, params):
     return data
 
 
+def canon(url):
+    """Canonical Commons media URL: upload.wikimedia.org host, no tracking query string."""
+    return (url or "").split("?")[0].replace("://thumb.wikimedia.org/", "://upload.wikimedia.org/")
+
+
 def plain(s):
     s = re.sub(r"<[^>]+>", "", s or "")
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
@@ -112,7 +117,7 @@ def _record(pg):
     desc = plain(meta.get("ImageDescription", {}).get("value"))[:300]
     if not FREE.match(lic) or SKIP_WORDS.search(title + " " + desc[:120]):
         return None
-    return {"file": title, "url": ii["url"], "thumb": ii.get("thumburl") or ii["url"], "page": ii.get("descriptionurl"),
+    return {"file": title, "url": canon(ii["url"]), "thumb": canon(ii.get("thumburl") or ii["url"]), "page": ii.get("descriptionurl"),
             "author": author[:120], "license": lic, "width": ii["width"], "height": ii["height"], "description": desc}
 
 
