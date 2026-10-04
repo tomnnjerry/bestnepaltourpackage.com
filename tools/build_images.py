@@ -30,7 +30,8 @@ CACHE = ROOT / ".cache" / "commons"
 OUT = CONTENT / "images.json"
 UA = "BestNepalTourPackageBuild/1.0 (https://bestnepaltourpackage.com; image credits)"
 FREE = re.compile(r"^(cc0|public domain|pd|cc by(-sa)? ?\d(\.\d)?( [a-z]+)?|cc by(-sa)?)", re.I)
-SKIP_WORDS = re.compile(r"\b(map|logo|flag|locator|diagram|chart|stamp|coat of arms|seal|banknote|svg)\b", re.I)
+SKIP_WORDS = re.compile(r"\b(map|logo|flag|locator|diagram|chart|stamp|coat of arms|seal|banknote|svg|satellite|nasa|"
+                        r"portrait|selfie|manuscript|municipality)\b|^File:ISS\d", re.I)
 STOP = {"the", "and", "of", "in", "at", "to", "a", "on", "with", "from", "for", "by", "nepal", "tour", "trek",
         "walk", "day", "view", "hotel", "lodge", "resort", "national", "park", "temple", "lake", "base", "camp"}
 WIDTH = 960

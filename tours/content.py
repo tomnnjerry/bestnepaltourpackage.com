@@ -279,6 +279,9 @@ class Catalogue:
             usd = [k.get("price_from_usd") for k in r["packages"] if k.get("price_from_usd")]
             r["price_from_usd"] = min(usd) if usd else None
             r["types"] = [t for t in TYPES if any(k.get("type") == t for k in r["packages"])]
+        for p in self.places.values():  # no photo of its own: borrow a neighbour's, then the region's
+            if not p["images"]:
+                p["images"] = next((n["images"][:3] for n in p["nearby_objs"] if n["images"]), None) or p["region_obj"]["images"][:3]
         for e in self.experiences.values():
             place = self.places[e["place"]]
             e["place_obj"] = place
