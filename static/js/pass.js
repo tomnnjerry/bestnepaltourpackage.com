@@ -50,18 +50,26 @@
   }
   window.addEventListener("scroll", onScroll, { passive: true });
 
-  /* mega menus: hover intent on desktop, click anywhere, Esc closes */
+  /* mega menus: hover intent on desktop, click to pin, Esc closes.
+     A menu opened by hovering stays open when its button is clicked (the click pins it); a second click closes it. */
   var drops = $$(".nav__drop");
-  function closeAll(except) { drops.forEach(function (d) { if (d !== except) { d.classList.remove("is-open"); $("button", d).setAttribute("aria-expanded", "false"); } }); }
+  function closeDrop(d) { d.classList.remove("is-open"); d.dataset.pinned = ""; $("button", d).setAttribute("aria-expanded", "false"); }
+  function closeAll(except) { drops.forEach(function (d) { if (d !== except) closeDrop(d); }); }
   drops.forEach(function (drop) {
     var btn = $("button", drop), timer;
-    var open = function () { clearTimeout(timer); closeAll(drop); drop.classList.add("is-open"); btn.setAttribute("aria-expanded", "true"); };
-    var close = function () { drop.classList.remove("is-open"); btn.setAttribute("aria-expanded", "false"); };
-    btn.addEventListener("click", function (e) { e.stopPropagation(); drop.classList.contains("is-open") ? close() : open(); });
+    var open = function (pin) { clearTimeout(timer); closeAll(drop); drop.classList.add("is-open"); drop.dataset.pinned = pin ? "1" : ""; btn.setAttribute("aria-expanded", "true"); };
+    var close = function () { clearTimeout(timer); closeDrop(drop); };
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      if (!drop.classList.contains("is-open")) open(true);
+      else if (!drop.dataset.pinned) drop.dataset.pinned = "1";
+      else close();
+    });
     if (window.matchMedia("(hover: hover)").matches) {
-      drop.addEventListener("mouseenter", function () { clearTimeout(timer); timer = setTimeout(open, 90); });
-      drop.addEventListener("mouseleave", function () { clearTimeout(timer); timer = setTimeout(close, 180); });
+      drop.addEventListener("mouseenter", function () { clearTimeout(timer); if (!drop.classList.contains("is-open")) timer = setTimeout(function () { open(false); }, 90); });
+      drop.addEventListener("mouseleave", function () { clearTimeout(timer); if (!drop.dataset.pinned) timer = setTimeout(close, 180); });
     }
+    drop.addEventListener("focusout", function (e) { if (drop.classList.contains("is-open") && !drop.contains(e.relatedTarget)) close(); });
   });
   document.addEventListener("click", function (e) { if (!e.target.closest(".nav__drop")) closeAll(); });
 

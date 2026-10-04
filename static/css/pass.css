@@ -152,7 +152,6 @@ ul, ol { padding-left: 1.2em; }
 .nav__drop.is-open > button, .nav__drop > button:hover { background: var(--paper-2); }
 .nav__drop.is-open > button .icon { transform: rotate(180deg); }
 .mega { position: absolute; left: 0; right: 0; top: 100%; padding: 0 16px 16px; opacity: 0; visibility: hidden; transform: translateY(-6px); transition: opacity .2s, transform .25s var(--ease), visibility 0s .25s; }
-.mega::after { content: ""; position: absolute; left: 0; right: 0; bottom: 100%; height: 40px; }
 .nav__drop.is-open .mega { opacity: 1; visibility: visible; transform: none; transition: opacity .2s, transform .25s var(--ease); }
 .mega__in { width: min(100%, var(--wrap)); margin: 0 auto; background: var(--card); border: 1px solid var(--line); border-radius: 0 0 24px 24px; box-shadow: 0 30px 60px -24px rgba(15, 23, 36, .35); padding: 28px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; background-image: var(--contour); background-size: 640px; background-position: right bottom; background-repeat: no-repeat; }
 .mega__in--heli { grid-template-columns: 2fr 1fr; }
@@ -1048,3 +1047,16 @@ body.has-buybar .fab { bottom: 92px; }
 .sheet ul.social a { display: grid; padding: 0; border-radius: 14px; color: #fff; }
 .sheet ul.social a[data-net="whatsapp"] { color: #04210F; }
 .sheet ul.social a .icon { color: currentColor; }
+
+/* hover bridge: only under the open button, so it never covers the other header controls */
+.nav__drop > button { position: relative; }
+.nav__drop.is-open > button::after { content: ""; position: absolute; left: -6px; right: -6px; top: 100%; height: 30px; }
+
+/* mega panels never grow taller than the screen: they scroll inside themselves */
+.mega__in { max-height: calc(100vh - 130px); overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; }
+/* top bar: contact links stay on one line; the promise line makes room on narrower screens */
+.util__links a { white-space: nowrap; }
+@media (min-width: 761px) and (max-width: 1150px) {
+  .util__promise { display: none; }
+  .util__in { justify-content: flex-end; }
+}
