@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "ker-downey-himalaya-lodge",
+    "name": "Himalaya Lodge, Ghandruk",
+    "place": "ghandruk",
+    "kind": "mountain lodge",
+    "class": "Premium",
+    "wiki": "",
+    "image_query": "Ghandruk village Annapurna South view",
+    "summary": "A Ker & Downey Nepal lodge set just above the slate roofs of Ghandruk at about 2,000 m, facing Annapurna South, Hiunchuli and Machhapuchhre. It is the comfortable alternative to a teahouse for families and older travellers walking the Gurung villages.",
+    "body": [
+      "Himalaya Lodge belongs to the small group of lodges that Ker & Downey Nepal runs in the Annapurna foothills, each a half-day walk from the next. It sits on the slope above Ghandruk, the large Gurung village that sent generations of men into the Gurkha regiments, so the view from the terrace takes in the stone houses and terraced fields below and the snow peaks of the Modi Khola head behind. At roughly 2,000 m the nights are cool but not severe, and altitude is not a concern for most guests.",
+      "Rooms have private bathrooms with hot water, which is the main step up from the teahouses in the village. Meals are served at the lodge and the walk to the Gurung museum and the old lanes of the village takes ten minutes. We use Himalaya Lodge on our Annapurna luxury lodge trek, usually for two nights so that guests get a full free day in Ghandruk. Operation and room availability can change from season to season, so we confirm the booking with the lodge before we confirm yours."
+    ],
+    "why": [
+      "Private bathrooms with hot water at about 2,000 m",
+      "Terrace view over Ghandruk to Annapurna South and Machhapuchhre",
+      "Ten minutes' walk from the Gurung museum and old village lanes"
+    ],
+    "best_for": ["couples", "families", "seniors", "first-timers"],
+    "website": "",
+    "faqs": [
+      {
+        "q": "Can you drive to Himalaya Lodge in Ghandruk?",
+        "a": "Partly. A jeep road now runs from Nayapul and Kimche to the lower edge of Ghandruk, about 3 hours from Pokhara. From the road head it is a short uphill walk through the village to the lodge, and porters carry the luggage. On our lodge trek most guests arrive on foot from Landruk instead, which is the more rewarding way in."
+      },
+      {
+        "q": "Is Himalaya Lodge suitable for children and seniors?",
+        "a": "Yes, it is one of the easier places in the Annapurna region for a mixed-age group. The altitude of about 2,000 m rarely causes problems, the rooms are warmer and better equipped than village teahouses, and the walks around Ghandruk can be as short as an hour. The approach paths include stone steps, so anyone with knee trouble should take walking poles and go slowly."
+      },
+      {
+        "q": "How many nights should we stay at Himalaya Lodge?",
+        "a": "We suggest two nights. One night gives you a sunset and a sunrise, but the second night allows a slow morning on the terrace, a visit to the Gurung museum and a short hike above the village without the pressure of the next stage. If cloud hides the peaks on day one, the extra morning also doubles your chance of a clear view."
+      }
+    ]
+  },
+  {
+    "slug": "ker-downey-la-bee-lodge",
+    "name": "La Bee Lodge, Landruk",
+    "place": "landruk",
+    "kind": "mountain lodge",
+    "class": "Premium",
+    "wiki": "",
+    "image_query": "Landruk village Modi Khola valley",
+    "summary": "Ker & Downey Nepal's lodge at Landruk, about 1,640 m on the eastern wall of the Modi Khola gorge, looking straight across to Ghandruk. A quiet overnight stop between Dhampus and Ghandruk on lodge-to-lodge treks in the Annapurna foothills.",
+    "body": [
+      "Landruk is a Gurung village spread across terraces on the east side of the Modi Khola, and La Bee Lodge sits at its edge at roughly 1,640 m. From here the whole slope of Ghandruk is visible on the opposite side of the gorge, and on clear mornings Annapurna South and Hiunchuli fill the head of the valley. The lodge is reached on foot: it is about five hours from Dhampus over the Bhichok Deurali ridge, or four hours from Ghandruk down to the river and back up.",
+      "The lodge is small, with private bathrooms and hot water, and meals cooked on site. It suits travellers who want the village atmosphere of the foothills without the shared washrooms of a teahouse. We place it on the third night of our Annapurna luxury lodge trek, between Ker & Downey's Basanta Lodge in Dhampus and Himalaya Lodge in Ghandruk. As with all mountain lodges, opening dates and availability vary by season, so we confirm directly with the operator when you book."
+    ],
+    "why": [
+      "Front-row view across the Modi Khola gorge to Ghandruk",
+      "Private bathrooms in a village where most rooms share facilities",
+      "Fits neatly between Dhampus and Ghandruk on a gentle lodge trek"
+    ],
+    "best_for": ["couples", "seniors", "families", "photographers"],
+    "website": "",
+    "faqs": [
+      {
+        "q": "How do you get to La Bee Lodge in Landruk?",
+        "a": "On foot. The usual approach is from Dhampus, about 30 minutes' drive from Pokhara plus a 2–3 hour walk, then a 5-hour stage via Pothana, Bhichok Deurali at 2,100 m and Tolka down to Landruk. From Ghandruk it is about 4 hours, dropping to the Modi Khola bridge and climbing back up. Porters carry the bags on both routes."
+      },
+      {
+        "q": "Is Landruk on the way to Annapurna Base Camp?",
+        "a": "It can be. Some Annapurna Base Camp itineraries start at Kande or Phedi, pass through Landruk and then join the main trail at New Bridge and Jhinu Danda before climbing to Chhomrong. It adds a day compared with driving to Siwai, but the walk is quieter and passes through more villages. Most lodge guests at La Bee are on shorter foothill treks rather than heading to base camp."
+      },
+      {
+        "q": "What is the weather like at Landruk?",
+        "a": "At about 1,600 m Landruk is mild for most of the year. October to November brings clear days around 18–22 °C and cool nights near 8 °C. December and January nights can drop close to freezing, though days are often sunny. March and April are warm with hazier views, and June to September is the monsoon, with daily rain and leeches on the forest trails."
+      }
+    ]
+  },
+  {
+    "slug": "chhomrong-cottage",
+    "name": "Chhomrong Cottage",
+    "place": "chhomrong",
+    "kind": "teahouse lodge",
+    "class": "Standard",
+    "wiki": "",
+    "image_query": "Chhomrong village Annapurna South",
+    "summary": "A family-run teahouse in Chhomrong at about 2,170 m, the last permanent village on the Annapurna Base Camp trail. Trekkers have stopped here for decades for its freshly baked chocolate cake and its view of Annapurna South and Machhapuchhre.",
+    "body": [
+      "Chhomrong Cottage is one of the long-established lodges in Chhomrong, a Gurung village that climbs a steep spur above the Chhomrong Khola. It is known on the Annapurna Base Camp trail above all for its chocolate cake, baked fresh each day by the family that runs the lodge and eaten by trekkers on the way up as a reward and on the way down as a celebration. The cake has been written about in trekking accounts and travel press for years.",
+      "As a teahouse it offers simple twin rooms, a dining room where trekkers gather around the stove, and a menu of dal bhat, noodles, potatoes and baked goods. Washrooms and hot showers are typical of the trail rather than hotel standard. We use it as a lunch or overnight stop on our ABC treks depending on the itinerary. Because teahouse rooms fill quickly in October and April, we reserve ahead where the lodge accepts bookings; otherwise your guide arranges a room on arrival in the village."
+    ],
+    "why": [
+      "Freshly baked chocolate cake that the trail is known for",
+      "Close view of Annapurna South and Machhapuchhre from the village",
+      "Last full-service village before the gorge to base camp"
+    ],
+    "best_for": ["solo", "groups", "first-timers", "couples"],
+    "website": "",
+    "faqs": [
+      {
+        "q": "Is the Chhomrong Cottage chocolate cake worth the stop?",
+        "a": "For most trekkers, yes. It is a warm, dense slice baked that day, and after several days of dal bhat it is welcome. Expect to pay roughly NPR 400–600 a slice, more than in Pokhara because everything is carried in. Many people eat one on the way up and another on the way down. Ask early in the afternoon, as it can run out."
+      },
+      {
+        "q": "Can I stay overnight at Chhomrong Cottage?",
+        "a": "Yes, it is a working teahouse with rooms. Rooms are basic twins with blankets, so bring a sleeping bag rated to around −5 °C for the higher nights of the trek. In peak months of October, November and April we book ahead where possible; at quieter times your guide can arrange a room on arrival. Charging and hot showers usually cost extra."
+      },
+      {
+        "q": "How far is Chhomrong from Annapurna Base Camp?",
+        "a": "About two days' walk up and one long day down. From Chhomrong at 2,170 m most itineraries sleep at Bamboo or Dovan, then Deurali at 3,230 m, and reach Annapurna Base Camp at 4,130 m on the following day. The return from base camp to Chhomrong takes 7–8 hours for fit walkers, though many split it with a night at Bamboo."
+      }
+    ]
+  }
+]

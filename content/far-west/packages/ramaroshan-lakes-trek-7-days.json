@@ -1,0 +1,84 @@
+{
+  "slug": "ramaroshan-lakes-trek-7-days",
+  "title": "Ramaroshan Lakes Trek 7 Days",
+  "region": "far-west",
+  "type": "trek",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["trekking", "photography", "budget-nepal", "family-holidays"],
+  "stops": [{"place": "dhangadhi", "nights": 2}, {"place": "ramaroshan", "nights": 2}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 64000,
+  "price_from_usd": 750,
+  "best_months": [0, 0, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 2700,
+  "accommodation": "City hotel in Dhangadhi, basic hotel in Sanfebagar, community homestay at Ramaroshan",
+  "transport": "Kathmandu–Dhangadhi return flights, private jeep in the hills",
+  "group": "Private or small group, 2–10; families welcome",
+  "meta_description": "Ramaroshan lakes trek, 7 days: fly to Dhangadhi, drive into Achham, two nights among the 12 lakes and 18 meadows, Jigale Tal and Api–Saipal sunrise views.",
+  "summary": "An easy walking trip to Ramaroshan in Achham, the land of twelve lakes and eighteen meadows at about 2,500 m. Fly to Dhangadhi, drive into the far-western hills, and spend two nights in a village homestay walking between Jigale Tal, smaller lakes and open patans, with sunrise views of Api and Saipal.",
+  "intro": [
+    "Ramaroshan has become one of the most talked-about destinations among Nepali travellers, yet foreign visitors are still rare. Its small lakes, the largest being Y-shaped Jigale Tal, lie in hollows between pine-forested ridges, with grassy meadows called patans spread between them. On clear mornings the snow peaks of Saipal and Api line the northern horizon. The Danphe, Nepal's national bird, lives in the surrounding forest.",
+    "Walking here is gentle, 3–5 hours a day at 2,200–2,700 m with no passes, which makes it suitable for families and for travellers who want the far-western hills without a hard trek. The challenge is distance: Ramaroshan is a long day's drive from Dhangadhi on winding hill roads, so we break the journey at Sanfebagar on the Budhiganga. Nights are in a community homestay, which brings you into far-western village life."
+  ],
+  "highlights": [
+    "Two nights at Ramaroshan among lakes and meadows",
+    "Jigale Tal and the lakes circuit through pine and rhododendron",
+    "Sunrise over Saipal and Api from a ridge above the lakes",
+    "Community homestay with home-cooked far-western food",
+    "Road journey through Dadeldhura, Doti and Achham hill country"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly Kathmandu to Dhangadhi", "place": "dhangadhi", "overnight": "Dhangadhi", "altitude_m": 109, "max_m": 1400, "walk": "", "drive": "≈ 10 km · 20 min", "flight": "Kathmandu–Dhangadhi · ≈ 1 h 15 min", "text": "Fly west to Dhangadhi on the far-western Terai and transfer to a city hotel. Meet your guide for a briefing on the route and what to expect from homestays. In the late afternoon, a short outing for a Tharu thali at a local restaurant, with fish curry, dhikri dumplings and greens. Early night before a long drive.", "meals": "D"},
+    {"day": 2, "title": "Drive Dhangadhi to Sanfebagar", "place": "", "overnight": "Sanfebagar", "altitude_m": 1000, "max_m": 1800, "walk": "", "drive": "≈ 260 km · 9–10 h", "flight": "", "text": "Leave early and climb from Attariya through Budar to Dadeldhura on its ridge, then descend to Dipayal on the Seti river and continue to Sanfebagar on the Budhiganga in Achham. The road winds through pine forest, terraced hills and small bazaars, with tea and lunch stops. It is a long day, but the scenery changes constantly. Overnight in a basic hotel in Sanfebagar.", "meals": "B, L, D"},
+    {"day": 3, "title": "Jeep to Ramaroshan, walk to homestay", "place": "ramaroshan", "overnight": "Ramaroshan homestay", "altitude_m": 2400, "max_m": 2500, "walk": "≈ 1.5–2 h · 4 km", "drive": "≈ 3–4 h by jeep", "flight": "", "text": "Jeep up a rough road into the hills of north-eastern Achham, climbing through villages and forest towards Ramaroshan. From the roadhead, walk to your homestay village at about 2,400 m, with first views over the meadows. After lunch, a gentle stroll to the nearest lake and patan. In the evening the host family serves dal bhat, and neighbours may gather to sing Deuda songs.", "meals": "B, L, D"},
+    {"day": 4, "title": "Jigale Tal and the lakes circuit", "place": "ramaroshan", "overnight": "Ramaroshan homestay", "altitude_m": 2400, "max_m": 2600, "walk": "≈ 4–5 h · 10 km", "drive": "", "flight": "", "text": "A full day exploring on foot. Walk to Jigale Tal, the largest lake, shaped like a Y and fringed with pine, then follow paths across a series of patans and past smaller lakes and ponds that make up the twelve of local tradition. Herders graze cattle and horses on the meadows; rhododendrons flower in March and April. Picnic lunch by the water and return to the homestay in the afternoon.", "meals": "B, L, D"},
+    {"day": 5, "title": "Sunrise ridge, drive to Sanfebagar", "place": "ramaroshan", "overnight": "Sanfebagar", "altitude_m": 1000, "max_m": 2700, "walk": "≈ 3 h · 6 km", "drive": "≈ 3–4 h by jeep", "flight": "", "text": "Pre-dawn walk of 30–60 minutes to a ridge at about 2,700 m to watch sunrise on the Saipal and Api ranges across the Budhiganga valley, with mist lying in the valleys below. Back for breakfast with the family, then walk to the roadhead and drive down to Sanfebagar for the night. Hot showers and a quiet evening.", "meals": "B, L, D"},
+    {"day": 6, "title": "Drive Sanfebagar to Dhangadhi", "place": "dhangadhi", "overnight": "Dhangadhi", "altitude_m": 109, "max_m": 1800, "walk": "", "drive": "≈ 260 km · 9–10 h", "flight": "", "text": "Return by road via Dipayal and Dadeldhura, descending to the plains in the afternoon. If a scheduled flight from Sanfebagar to Dhangadhi is operating and the group prefers, we can replace the drive with a short flight at extra cost. Evening in Dhangadhi.", "meals": "B, L"},
+    {"day": 7, "title": "Fly Dhangadhi to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 10 km · 20 min", "flight": "Dhangadhi–Kathmandu · ≈ 1 h 15 min", "text": "Morning flight back to Kathmandu. If you have more time, add two nights at Shuklaphanta National Park for swamp deer and grassland birds, 1.5 hours from Dhangadhi, before flying, or link with Khaptad National Park for a longer far-western journey.", "meals": "B"}
+  ],
+  "stays": [],
+  "includes": [
+    "Return flights Kathmandu–Dhangadhi",
+    "2 nights in a Dhangadhi city hotel and 2 nights in a basic Sanfebagar hotel, twin sharing",
+    "2 nights in a community homestay at Ramaroshan",
+    "All meals from day 2 breakfast to day 7 breakfast, except Dhangadhi dinner on day 6",
+    "Private jeep with driver for all road travel in the hills",
+    "English- or Hindi-speaking guide throughout",
+    "Local conservation or entry fees at Ramaroshan where charged",
+    "Airport transfers in Kathmandu and Dhangadhi"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Hotels in Kathmandu",
+    "Sleeping bag (recommended for homestay nights)",
+    "Dinner in Dhangadhi on day 6",
+    "Sanfebagar–Dhangadhi flight if chosen",
+    "Drinks, snacks and bottled water",
+    "Tips for guide and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing a private jeep and rooms; groups of four to six pay less per person.",
+    "The drives are long, about 9–10 hours each way between Dhangadhi and Sanfebagar, on winding hill roads; bring motion-sickness tablets if needed.",
+    "Homestays are basic, with shared toilets and blankets; bring a sleeping bag or liner and a torch.",
+    "Landslides close roads from late June to September, so we do not run this trip in the monsoon.",
+    "Local fees, flight availability and road conditions change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Shuklaphanta National Park 2-night extension", "price": "≈ ₹18,000 per person"},
+    {"name": "Sanfebagar–Dhangadhi flight instead of day 6 drive", "price": "≈ ₹8,000 per person, when operating"}
+  ],
+  "faqs": [
+    {"q": "Is the Ramaroshan trek difficult?", "a": "No, the walking is easy: 3–5 hours a day on paths between lakes and meadows at 2,200–2,700 m, with no passes. Children and older travellers who walk regularly manage well. The tiring part is the road journey, about 9–10 hours each way between Dhangadhi and Sanfebagar on winding hill roads."},
+    {"q": "How much does a Ramaroshan trip cost?", "a": "This 7-day trip starts from about ₹64,000 or US$750 per person, twin sharing, including flights from Kathmandu to Dhangadhi, private jeep, hotels, homestay, meals in the hills and guide. Groups of four or more pay less per person. Indian travellers arriving by road can skip the flights."},
+    {"q": "Where is Ramaroshan?", "a": "In north-eastern Achham district in Sudurpashchim Province, above the Budhiganga valley and between Khaptad National Park and Bajura. The nearest town on the main road is Sanfebagar. Dhangadhi, the nearest city with regular flights from Kathmandu, is a long day's drive away."},
+    {"q": "When is the best time to visit Ramaroshan?", "a": "March to May for rhododendrons and spring flowers, and September to November for clear skies and views of Api and Saipal. December is possible but cold. From late June to early September monsoon rain, leeches and landslides make roads and trails difficult."},
+    {"q": "Do I need a permit for Ramaroshan?", "a": "No national park or restricted area permit is required. Local bodies may charge a small entry or conservation fee, which is included. If you extend towards Badimalika or into protected areas, other permits may be needed. Check current status before you travel."},
+    {"q": "Is Ramaroshan good for families?", "a": "Yes, for families comfortable with long drives and simple homestays. Walks are short and easy, the altitude modest, and children usually enjoy the lakes, horses and village life. Bring snacks and motion-sickness remedies for the road, and warm clothes for the cold nights."},
+    {"q": "What food is available at Ramaroshan?", "a": "Homestays serve dal bhat with local rice or buckwheat bread, potatoes, greens, pickles and sometimes chicken or eggs. Vegetarian meals are standard. Bring snacks you like, as shops are few. Tell us in advance about dietary needs so the host family can prepare."},
+    {"q": "Can I combine Ramaroshan with Khaptad?", "a": "Yes. Both use the same road network from Dhangadhi via Dipayal. A 12–14 day trip can include Khaptad's plateau trek and Ramaroshan's lakes, saving one round trip on the long road. Allow buffer days for road conditions in the hills."},
+    {"q": "Can Indian travellers do this Ramaroshan trip?", "a": "Yes. Indian nationals can reach Dhangadhi by road from Lucknow or Bareilly via the Gauriphanta border, with a passport or voter ID and no visa, and join on day 2. This reduces the cost by removing the Kathmandu flights. We can arrange pick-up at the border."}
+  ]
+}

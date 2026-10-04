@@ -1,0 +1,9 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Hotels and Lodges in Nepal We Book{% endblock %}
+{% block meta_description %}Hotels, resorts, jungle lodges and mountain lodges in Kathmandu, Pokhara, Chitwan, the Everest region and beyond, as used in our Nepal packages.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "bed" %}Hotels</p><h1>Hotels and lodges</h1><p class="phead__lede">Real properties we book in our packages, from heritage hotels in Kathmandu to jungle lodges in Chitwan and lodges on the Everest trail.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "bed" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+{% for r in regions %}<section class="sec--tight" data-land="{{ r.slug }}"><div class="wrap"><div class="sec__head"><h2 class="h2"><a href="{{ r.url }}" style="color:inherit;text-decoration:none">{{ r.name }}</a></h2></div>
+<div class="grid grid--4">{% for s in r.stays %}<a class="ecard" href="{{ s.url }}">{% photo s|first_img s.name "" "25vw" False False %}<span class="ecard__kind">{% icon "bed" %}{{ s.class|default:s.kind }}</span><span class="ecard__txt"><b>{{ s.name }}</b><small>{{ s.place_obj.name }} · {{ s.kind|capfirst }}</small></span></a>{% endfor %}</div></div></section>{% endfor %}
+{% endblock %}

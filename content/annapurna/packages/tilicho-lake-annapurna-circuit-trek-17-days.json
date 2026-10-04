@@ -1,0 +1,335 @@
+{
+  "slug": "tilicho-lake-annapurna-circuit-trek-17-days",
+  "title": "Tilicho Lake and Annapurna Circuit 17 Days",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Strenuous",
+  "nights": 16,
+  "themes": ["trekking", "adventure-sports", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "besisahar", "nights": 1},
+    {"place": "manang", "nights": 2},
+    {"place": "tilicho-lake", "nights": 0},
+    {"place": "thorong-la", "nights": 0},
+    {"place": "muktinath", "nights": 1},
+    {"place": "jomsom", "nights": 1},
+    {"place": "pokhara", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 121000,
+  "price_from_usd": 1410,
+  "best_months": [0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5416,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, standard hotel in Besisahar, teahouse lodges on the trail",
+  "transport": "Private vehicle Kathmandu–Besisahar, jeep to Chame, jeep Muktinath–Jomsom, Jomsom–Pokhara and Pokhara–Kathmandu flights",
+  "group": "Small group, 2–10",
+  "meta_description": "Tilicho Lake and Annapurna Circuit in 17 days: Manang, Shree Kharka, Tilicho Lake at 4,919 m, Thorong La at 5,416 m and Muktinath. Guide, permits, flights.",
+  "summary": "Seventeen days that add Tilicho Lake, 4,919 m, to the full Annapurna Circuit. After two nights in Manang we head west to Shree Kharka and Tilicho Base Camp, climb to the lake, cut back to Yak Kharka and cross Thorong La at 5,416 m to Muktinath. Our hardest Annapurna trek.",
+  "intro": [
+    "Tilicho is the side trip that serious circuit trekkers talk about afterwards. The lake lies in a high basin under the ice cliffs of Tilicho Peak, 7,134 m, and the approach from Manang crosses a long slope of scree and landslide debris that keeps the route wild. Adding it to the circuit means three extra nights above 4,000 m, which is demanding, but it also leaves your body far better prepared for Thorong La than the standard route does.",
+    "We start the same way as our classic circuit: road to Besisahar, jeep to Chame, then the high trail via Upper Pisang and Ngawal to Manang, where we rest. From there the route forks west through Khangsar, sleeps at Shree Kharka and Tilicho Base Camp, and returns via Old Khangsar to Yak Kharka on the main trail. Daily walks are 3–9 hours. You need previous trekking experience, steady footing on loose ground and good fitness."
+  ],
+  "highlights": [
+    "Tilicho Lake at 4,919 m beneath Tilicho Peak's ice walls",
+    "Thorong La, 5,416 m, after three nights of extra acclimatisation",
+    "The scree traverse from Shree Kharka to Tilicho Base Camp",
+    "Khangsar and Old Khangsar, quiet Tibetan-style villages off the main trail",
+    "Herds of blue sheep on the slopes around Shree Kharka",
+    "Exit via Muktinath, Kagbeni and the Jomsom flight"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu arrival and kit check",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "After the airport pick-up and hotel check-in, your guide meets you to go through the route in detail. Tilicho demands more than the standard circuit, so we check footwear with good grip for scree, microspikes for shoulder-season ice, a sleeping bag rated to −15 °C and a proper down jacket. We also confirm insurance cover for helicopter evacuation above 5,500 m. Any rentals or purchases can be made in Thamel this evening. ACAP permits are arranged ahead.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Road to Besisahar",
+      "place": "besisahar",
+      "overnight": "Besisahar",
+      "altitude_m": 760,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 175 km · 6–7 h",
+      "flight": "",
+      "text": "An early start takes us out of the Kathmandu Valley and down to the Trishuli river, following the busy Prithvi Highway past Malekhu and Mugling. At Dumre we leave the highway and head north into Lamjung district. Besisahar, at 760 m, is a district town of offices and shops on a ridge above the Marsyangdi. The permit is checked at the ACAP office on the way in. Stock up on cash and snacks here; prices climb sharply further up the valley.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Jeep to Chame",
+      "place": "",
+      "overnight": "Chame",
+      "altitude_m": 2670,
+      "max_m": 2670,
+      "walk": "",
+      "drive": "≈ 65 km · 6–7 h",
+      "flight": "",
+      "text": "The jeep ride up the Marsyangdi is long and bumpy but scenic. Waterfalls drop from the cliffs around Chamje, the valley floor turns into a sandy flat at Tal, and pine forest takes over beyond Dharapani and Danaque. By the time you reach Chame at 2,670 m, the air is cool and Annapurna II appears above the rooftops. A short evening walk to the hot spring by the river loosens legs stiff from the drive.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Chame to Upper Pisang",
+      "place": "",
+      "overnight": "Upper Pisang",
+      "altitude_m": 3310,
+      "max_m": 3310,
+      "walk": "≈ 5–6 h · 14 km",
+      "drive": "",
+      "flight": "",
+      "text": "We walk out of Chame through mixed forest beside the river, passing the apple orchards and lodges of Bhratang. Beyond, the trail clings to a cliff and then opens onto a view of Paungda Danda, a smooth, curving rock face that rises some 1,500 m and is sacred to local people. The forest gives way to a wider, drier valley at Dhukur Pokhari. We climb the short hill to Upper Pisang, 3,310 m, for the night, with Annapurna II directly opposite.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Upper Pisang to Ngawal via Ghyaru",
+      "place": "",
+      "overnight": "Ngawal",
+      "altitude_m": 3660,
+      "max_m": 3670,
+      "walk": "≈ 5 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "The steep climb to Ghyaru is short but hard work, about 400 m of switchbacks that lift you onto a terrace at 3,670 m. From here Annapurna II, III and IV and Gangapurna line the southern skyline. The trail continues through dry juniper country, past ruined forts and chortens, to Ngawal at 3,660 m. Sleeping this high before Manang is the first deliberate acclimatisation step of the trip, which matters more on a Tilicho itinerary.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Ngawal to Manang",
+      "place": "manang",
+      "overnight": "Manang",
+      "altitude_m": 3519,
+      "max_m": 3660,
+      "walk": "≈ 4 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "A relaxed morning descent brings us past barley fields to the valley floor at Mungji and then Braga, where a gompa sits against a cliff of eroded pillars. Manang, the largest settlement in the upper valley at 3,519 m, is reached by lunchtime. Bakeries, gear shops and lodges with hot showers make it a comfortable base. We plan Tilicho logistics here, confirm lodge bookings at Shree Kharka and base camp, and check on trail conditions.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "Manang rest day, Ice Lake option",
+      "place": "manang",
+      "overnight": "Manang",
+      "altitude_m": 3519,
+      "max_m": 4600,
+      "walk": "≈ 6–7 h",
+      "drive": "",
+      "flight": "",
+      "text": "On a Tilicho trek the rest day matters more than ever. Strong walkers climb from Braga to Ice Lake, Kicho Tal, at about 4,600 m, gaining 1,100 m with a sweeping view of the Annapurna range, then return to sleep at 3,519 m. Those who prefer a gentler day can walk to Praken Gompa at about 3,945 m or the Gangapurna glacier viewpoint. Either way, the aim is to climb high and come back down. Evening oxygen checks guide tomorrow's plan.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 8,
+      "title": "Manang via Khangsar to Shree Kharka",
+      "place": "",
+      "overnight": "Shree Kharka",
+      "altitude_m": 4060,
+      "max_m": 4060,
+      "walk": "≈ 4–5 h · 9 km",
+      "drive": "",
+      "flight": "",
+      "text": "We leave the main circuit and head west along the valley to Khangsar at 3,734 m, a compact stone village with chortens and a small gompa, about 2–3 hours away. Above it, the trail climbs past a monastery on the hillside and the last fields to Shree Kharka at 4,060 m, a summer grazing area with a few lodges. Gain today is about 540 m. Look for blue sheep on the slopes in the late afternoon, and rest well for the scree section tomorrow.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 9,
+      "title": "Shree Kharka to Tilicho Base Camp",
+      "place": "",
+      "overnight": "Tilicho Base Camp",
+      "altitude_m": 4150,
+      "max_m": 4200,
+      "walk": "≈ 3–4 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "This short day is the most exposed walking of the trek. We start early and, after a gentle stretch, reach the long traverse across a slope of loose scree and eroded cliffs above the Khangsar Khola gorge. The path is narrow, with drops below and occasional rockfall from above, so we move in single file with gaps between walkers and do not stop beneath overhangs. Tilicho Base Camp at 4,150 m is a small cluster of lodges in a bowl under the peaks, reached by late morning.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 10,
+      "title": "Climb to Tilicho Lake, back to Shree Kharka",
+      "place": "tilicho-lake",
+      "overnight": "Shree Kharka",
+      "altitude_m": 4060,
+      "max_m": 4919,
+      "walk": "≈ 8–9 h · 16 km",
+      "drive": "",
+      "flight": "",
+      "text": "We leave base camp around 5:30 am and climb steep switchbacks for about 2 hours before the gradient eases across a moraine shelf. After 3–4 hours and about 770 m of gain, the lake opens below Tilicho Peak's ice cliffs at 4,919 m, blue in autumn and frozen white from about December to April. Thirty to forty-five minutes on the shore is plenty in the cold wind. We descend to base camp for lunch and recross the scree to Shree Kharka in the afternoon.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 11,
+      "title": "Shree Kharka via Old Khangsar to Yak Kharka",
+      "place": "",
+      "overnight": "Yak Kharka",
+      "altitude_m": 4018,
+      "max_m": 4200,
+      "walk": "≈ 6 h · 13 km",
+      "drive": "",
+      "flight": "",
+      "text": "Rather than returning to Manang, we take the higher trail back east to Old Khangsar and the Thare Gompa area, then cross the slopes north towards the Jharsang Khola, joining the main circuit near Yak Kharka at 4,018 m. Path conditions vary year to year, so the guide may choose the route via Khangsar and Tenki if the high path is damaged. The day is long but not steep, and the views back towards Tilicho Peak and Gangapurna are wide.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 12,
+      "title": "Yak Kharka to Thorong Phedi",
+      "place": "",
+      "overnight": "Thorong Phedi",
+      "altitude_m": 4450,
+      "max_m": 4450,
+      "walk": "≈ 3–4 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "After the Tilicho days, the walk to Thorong Phedi feels easier. We pass Letdar at 4,200 m, cross a wooden bridge and traverse a slope of loose rock to the lodges at 4,450 m. With the extra acclimatisation from Tilicho, some groups prefer to continue to High Camp at 4,880 m to shorten tomorrow; the guide decides based on how everyone feels. Afternoon rest, plenty of fluids, a final health check and an early dinner.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 13,
+      "title": "Thorong La to Muktinath",
+      "place": "thorong-la",
+      "overnight": "Muktinath",
+      "altitude_m": 3710,
+      "max_m": 5416,
+      "walk": "≈ 8–10 h · 15 km",
+      "drive": "",
+      "flight": "",
+      "text": "We start by headtorch about 4 am, zigzagging up to High Camp and then along a broad valley of rock and snow towards the pass. Expect several false crests before the prayer flags of Thorong La appear at 5,416 m, usually between 8 and 10 am. After a hot drink at the seasonal tea hut and a round of photos, the long descent begins: 1,700 m of switchbacks down towards the Kali Gandaki side to Muktinath at 3,710 m, where lodges and hot showers wait.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 14,
+      "title": "Muktinath and Kagbeni to Jomsom",
+      "place": "muktinath",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 3710,
+      "walk": "≈ 1 h temple visit",
+      "drive": "≈ 25 km · 1.5–2 h",
+      "flight": "",
+      "text": "The morning starts at the Muktinath temple, a pilgrimage site for Hindus, who bathe beneath 108 spouts of cold water, and Buddhists, who revere the flame at Jwala Mai. A jeep then follows the road down through dry, wind-sculpted hills to Kagbeni at 2,810 m, where mud-brick houses and a red gompa mark the entrance to Upper Mustang. We continue down the Kali Gandaki to Jomsom at 2,720 m for the night.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 15,
+      "title": "Morning flight to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 2720,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Jomsom–Pokhara · 20 min",
+      "text": "Flights from Jomsom leave early, before the daily wind arrives in the Kali Gandaki. The short hop between Dhaulagiri and the Annapurnas ends at Pokhara's lakeside airport in about 20 minutes. If flights are cancelled, we drive by jeep, about 8–9 hours, and the schedule shifts by half a day. In Pokhara, relax by Phewa Lake, book a massage or take a boat out at sunset: you have just completed one of Nepal's hardest teahouse treks.",
+      "meals": "B"
+    },
+    {
+      "day": 16,
+      "title": "Fly to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Pokhara–Kathmandu · 25 min",
+      "text": "A morning flight returns you to Kathmandu. The afternoon is free for sightseeing or shopping: Patan's Durbar Square and its museum are a short taxi ride from Thamel, while Boudhanath is pleasant at sunset when locals walk around the stupa. If the Jomsom flight was cancelled, this day absorbs the delay. In the evening we meet for a farewell dinner, and your guide presents your trek certificate.",
+      "meals": "B"
+    },
+    {
+      "day": 17,
+      "title": "Departure",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "We take you to Tribhuvan International Airport about three hours before your flight. If you are staying longer, we can arrange a few days in Chitwan National Park or a cultural tour of Bhaktapur. Remember to keep an eye on your international ticket: mountain flight delays can shift your arrival in Kathmandu by a day, so we suggest flexible tickets or one spare night before flying home.",
+      "meals": "B"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers in Kathmandu and Pokhara",
+    "2 nights 3-star hotel in Kathmandu, 1 night in Pokhara and 1 night in Besisahar",
+    "Private vehicle Kathmandu–Besisahar and jeep Besisahar–Chame",
+    "Jeep Muktinath–Jomsom and flights Jomsom–Pokhara–Kathmandu",
+    "Licensed trekking guide trained in altitude first aid",
+    "One porter for every two trekkers",
+    "ACAP entry permit and any trekking registration currently required",
+    "Teahouse rooms and all meals during the trek",
+    "Pulse oximeter checks and first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Lunch and dinner in Kathmandu and Pokhara",
+    "Travel insurance covering helicopter rescue above 5,500 m",
+    "Microspikes and personal trekking gear",
+    "Hot showers, charging, Wi-Fi and bottled drinks",
+    "Tips for guide, porters and drivers",
+    "Extra nights and transport if weather forces changes"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more trekkers; dormitory nights at Tilicho Base Camp are possible in peak October if twin rooms are full.",
+    "The ACAP permit (NPR 3,000 foreigners, NPR 1,000 SAARC including Indians) is included, and a licensed guide is part of the package as required since 2023; check current status before you travel.",
+    "Tilicho Lake is frozen from about December to April, and the base camp lodges can close in deep winter. We run this trek in April–May and late September–November.",
+    "The scree section between Shree Kharka and base camp has rockfall risk; the guide may delay or cancel the lake visit if conditions are unsafe.",
+    "This trek needs prior experience of multi-day walking and comfort on loose, steep ground."
+  ],
+  "add_ons": [
+    {"name": "Extra acclimatisation night in Manang", "price": "≈ ₹4,500 / US$ 50 per person"},
+    {"name": "Helicopter Muktinath–Pokhara", "price": "≈ US$ 600–750 per seat, shared"}
+  ],
+  "faqs": [
+    {
+      "q": "How difficult is the Tilicho Lake and Annapurna Circuit trek?",
+      "a": "We grade it Strenuous. Beyond the standard circuit's Thorong La crossing, it includes three extra nights above 4,000 m, a scree traverse with rockfall risk and a long day climbing about 770 m to Tilicho Lake. You need previous trekking experience, good fitness and steady footing on loose ground. Beginners should start with a shorter trek."
+    },
+    {
+      "q": "How many extra days does Tilicho add to the circuit?",
+      "a": "Usually 2–3 days. Our standard circuit is 15 days; with Tilicho it becomes 17. The Tilicho section takes four days from Manang to Yak Kharka: Shree Kharka, Tilicho Base Camp, the lake and back, then Yak Kharka. Some itineraries squeeze it into three days by skipping a night, but that leaves less margin."
+    },
+    {
+      "q": "Is Tilicho Lake worth adding to the Annapurna Circuit?",
+      "a": "For experienced trekkers with time, yes. The lake is one of the most remarkable high lakes in Nepal, the trail is quieter than the main circuit and the extra altitude helps on Thorong La. If you have only two weeks or are unsure about loose trails, the standard circuit with a Manang rest day is the better choice."
+    },
+    {
+      "q": "What is the price of the Tilicho Lake circuit trek?",
+      "a": "Our 17-day package starts from about ₹1,21,000 or US$1,410 per person on twin sharing, including transport, flights from Jomsom, hotels, guide, porter, permits and all trail meals. Solo travellers pay a supplement for a private guide and room. Prices can be slightly higher in the peak weeks of October."
+    },
+    {
+      "q": "When is the best time for Tilicho Lake?",
+      "a": "Late September to November is best, with clear skies and the lake mostly unfrozen. April and May are also good, though the lake may still be partly frozen and Thorong La can hold snow. From December to March the lake is frozen, lodges may close and snow makes the scree section dangerous."
+    },
+    {
+      "q": "Can I sleep at Tilicho Lake?",
+      "a": "No. There is no lodge at the lake. We sleep at Tilicho Base Camp at 4,150 m the night before and return to Shree Kharka at 4,060 m after the climb. Camping at 4,919 m would require extra gear and much better acclimatisation, and is not part of a teahouse trek."
+    },
+    {
+      "q": "Is the landslide section to Tilicho Base Camp dangerous?",
+      "a": "It carries real risk from rockfall and narrow footing, but with an early start, good boots and a guide setting a steady pace, most trekkers cross it without trouble. We walk in single file with gaps, do not stop under cliffs and avoid it after storms or heavy rain. If conditions are poor, we skip it."
+    },
+    {
+      "q": "Does Tilicho Lake help acclimatisation for Thorong La?",
+      "a": "Yes. Sleeping at 4,060–4,150 m for three nights and climbing to 4,919 m prepares your body well for Thorong Phedi at 4,450 m and the pass at 5,416 m. Many trekkers find the pass easier after Tilicho. It only works if you are already adjusting well after Manang; anyone unwell should descend rather than push on."
+    },
+    {
+      "q": "What permits are needed for Tilicho and the circuit?",
+      "a": "Only the ACAP permit: NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals, including Indians. There is no separate Tilicho permit. Nepal has required licensed guides for foreign trekkers in conservation areas since 2023, with patchy enforcement. Check current status before you travel; our package includes the permit and guide."
+    }
+  ]
+}

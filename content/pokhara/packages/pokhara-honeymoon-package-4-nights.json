@@ -1,0 +1,85 @@
+{
+  "slug": "pokhara-honeymoon-package-4-nights",
+  "title": "Pokhara Honeymoon Package 4 Nights 5 Days",
+  "region": "pokhara",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["honeymoon", "luxury-nepal", "short-breaks", "photography"],
+  "stops": [{"place": "pokhara", "nights": 4}, {"place": "sarangkot", "nights": 0}, {"place": "world-peace-pagoda", "nights": 0}, {"place": "begnas-lake", "nights": 0}],
+  "start": "Pokhara International Airport",
+  "end": "Pokhara International Airport",
+  "price_from_inr": 34000,
+  "price_from_usd": 400,
+  "best_months": [1, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "2 nights Temple Tree Resort & Spa (Lakeside) + 2 nights Fish Tail Lodge (Phewa peninsula), breakfast daily",
+  "transport": "Private car for all transfers and sightseeing, private boats on Phewa and Begnas",
+  "group": "Private, 2 (couples)",
+  "meta_description": "Pokhara honeymoon package, 5 days 4 nights: Temple Tree and Fish Tail Lodge, private sunrise boat, couple's spa, Sarangkot sunrise and candle-lit dinner. From ₹34,000.",
+  "summary": "Four nights for couples in Pokhara: two at the boutique Temple Tree Resort & Spa in Lakeside and two at Fish Tail Lodge on its car-free peninsula in Phewa Lake. Private sunrise at Sarangkot, a private boat to Tal Barahi, a couple's spa session, Begnas Lake and a candle-lit dinner, from ₹34,000 per person.",
+  "intro": [
+    "Pokhara works for a honeymoon because everything a couple wants is within 30 minutes: a lake for slow mornings, a ridge for sunrise, good restaurants, a spa and the Annapurnas on the horizon. We split your stay between two very different hotels. Temple Tree Resort & Spa puts you in a quiet lane a few minutes' walk from the lake, with a garden pool and a full spa. Fish Tail Lodge, reached only by a hand-pulled raft, gives you lawns on the water's edge and Machhapuchhre across the lake at breakfast.",
+    "The pace is deliberately relaxed. There is one early start, for the Sarangkot sunrise, and everything else begins after breakfast. We include a private boat rather than a shared one, a couple's massage, a candle-lit dinner on the first night and a half-day at quiet Begnas Lake. Optional extras such as a tandem paragliding flight together, an ultralight flight or an upgrade to Tiger Mountain Pokhara Lodge are easy to add."
+  ],
+  "highlights": [
+    "Two nights at Temple Tree Resort & Spa and two at Fish Tail Lodge on Phewa Lake",
+    "Private sunrise outing to Sarangkot with hot drinks on the ridge",
+    "Private boat to Tal Barahi temple and the World Peace Pagoda",
+    "60-minute couple's massage at the Temple Tree spa",
+    "Candle-lit dinner for two on arrival night",
+    "Half-day at Begnas Lake with a ridge walk and fish lunch"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive Pokhara, candle-lit dinner for two", "place": "pokhara", "overnight": "Pokhara (Temple Tree Resort & Spa)", "altitude_m": 822, "max_m": 822, "walk": "", "drive": "≈ 5 km · 15 min", "flight": "", "text": "We meet you at Pokhara International Airport with garlands and drive 15 minutes to Temple Tree Resort & Spa at Gaurighat, Lakeside. Your room is decorated for the occasion. Spend the afternoon by the garden pool or wander down to the lakeshore, three minutes away, as the boats come in and the light softens over Raniban hill. In the evening a candle-lit dinner for two is set for you, at the resort or at a lakeside restaurant, with a set menu of Nepali and continental dishes. Your guide briefs you on tomorrow's sunrise.", "meals": "Dinner"},
+    {"day": 2, "title": "Sarangkot sunrise, private boat and spa", "place": "sarangkot", "overnight": "Pokhara (Temple Tree Resort & Spa)", "altitude_m": 822, "max_m": 1600, "walk": "≈ 30 min", "drive": "≈ 25 km · 1.5 h", "flight": "", "text": "A private car collects you before dawn for the 40-minute drive to Sarangkot. From the terraces at about 1,600 m, watch the sun light Machhapuchhre, Annapurna South and Dhaulagiri while the valley lies in mist; your guide brings a flask of tea. After breakfast back at the resort, a private boat rows you across Phewa to Tal Barahi temple, where many newly married couples stop to offer flowers together, then along the quiet north shore. The afternoon is for the spa: a 60-minute couple's massage, then the pool or a lakeside sunset walk.", "meals": "Breakfast"},
+    {"day": 3, "title": "Peace Pagoda walk and move to Fish Tail Lodge", "place": "world-peace-pagoda", "overnight": "Pokhara (Fish Tail Lodge)", "altitude_m": 822, "max_m": 1100, "walk": "≈ 1.5 h · 3 km", "drive": "≈ 12 km · 45 min", "flight": "", "text": "After a slow breakfast, drive to the road head below Anadu hill and walk the short stepped path to the World Peace Pagoda at about 1,100 m, or take the boat-and-forest route if you prefer a longer walk. From the stupa terrace you look straight down on Phewa Lake, with Fish Tail Lodge's peninsula below. In the afternoon, transfer to the lodge, crossing the water on its hand-pulled raft. There are no cars on the peninsula, only gardens, a pool and the lake on three sides. Watch the sunset on Machhapuchhre from the lawn.", "meals": "Breakfast"},
+    {"day": 4, "title": "Begnas Lake, ridge walk and fish lunch", "place": "begnas-lake", "overnight": "Pokhara (Fish Tail Lodge)", "altitude_m": 822, "max_m": 822, "walk": "≈ 1.5 h · 4 km", "drive": "≈ 35 km · 1.5 h", "flight": "", "text": "Drive 40 minutes east to Begnas Lake, Pokhara's quiet second lake, ringed by terraced hills and fish farms. Take a private rowing boat for an hour along the forested shore, then walk up onto the Panchabhaiya Danda ridge, where Begnas lies on one side and Rupa Lake on the other with the Annapurnas behind. Lunch is fresh lake fish, fried or curried, at a simple restaurant by the water. Return to Fish Tail Lodge in the afternoon for the pool, or book an optional tandem paragliding flight together from Sarangkot.", "meals": "Breakfast, Lunch"},
+    {"day": 5, "title": "Lakeside breakfast and departure", "place": "pokhara", "overnight": "", "altitude_m": 822, "max_m": 822, "walk": "", "drive": "≈ 8 km · 20 min", "flight": "", "text": "Wake early for the clearest view of the day: on still mornings Machhapuchhre is mirrored in the lake directly in front of the lodge, and the light is softest before 8 am. Enjoy breakfast on the terrace, then cross back over on the raft, where your car waits. If your flight is in the afternoon, we can arrange a final stroll along Lakeside's cafes and craft shops. Your driver takes you to Pokhara International Airport, about 20 minutes away, for your onward flight to Kathmandu or beyond.", "meals": "Breakfast"}
+  ],
+  "stays": ["temple-tree-resort-spa", "fish-tail-lodge"],
+  "includes": [
+    "2 nights Temple Tree Resort & Spa and 2 nights Fish Tail Lodge in a double room with breakfast",
+    "Honeymoon room decoration and welcome garlands on arrival",
+    "Candle-lit dinner for two on day 1",
+    "60-minute couple's massage at Temple Tree spa",
+    "Private Sarangkot sunrise trip with guide and hot drinks",
+    "Private boat on Phewa Lake to Tal Barahi and private rowing boat on Begnas Lake",
+    "Fish lunch at Begnas Lake on day 4",
+    "All transfers and sightseeing by private car",
+    "Taxes and service charges on included services"
+  ],
+  "excludes": [
+    "Flights to and from Pokhara",
+    "Lunches and dinners not listed",
+    "Paragliding, ultralight and other optional activities",
+    "Drinks, minibar and room service",
+    "Travel insurance",
+    "Tips for guide, driver and boatmen",
+    "Extra nights caused by flight delays",
+    "Anything not mentioned under includes"
+  ],
+  "good_to_know": [
+    "The price is per person for a couple sharing a double room in the October–March season; lake-facing rooms at Fish Tail Lodge and Christmas–New Year dates cost extra.",
+    "Hotels are subject to availability at booking; if one is full we offer a property of similar standard and tell you before confirming.",
+    "Indian couples need a valid passport or voter ID each; a marriage certificate is not required by hotels in Nepal.",
+    "Sarangkot sunrise is weather dependent; if day 2 is cloudy we try again on day 4 or 5.",
+    "For extra privacy, swap the Fish Tail Lodge nights for Tiger Mountain Pokhara Lodge, about 10 km east of town on a quiet ridge."
+  ],
+  "add_ons": [
+    {"name": "Tandem paragliding for two from Sarangkot", "price": "≈ ₹14,000 / US$ 170 per couple"},
+    {"name": "Upgrade 2 nights to Tiger Mountain Pokhara Lodge, full board", "price": "≈ US$ 230–300 per person per night extra"},
+    {"name": "30-minute ultralight flight over Pokhara", "price": "≈ US$ 200 per person"}
+  ],
+  "faqs": [
+    {"q": "Is Pokhara good for a honeymoon?", "a": "Yes. Pokhara combines a calm lake, mountain views, good hotels and restaurants within a small area, so couples spend time together rather than in cars. Sunrise at Sarangkot, a private boat on Phewa and a night at a lake or hillside lodge make it one of the most romantic short trips in Nepal."},
+    {"q": "What is the cost of a Pokhara honeymoon package from India?", "a": "Our 4-night package starts from about ₹34,000 per person, or ₹68,000 per couple, with Temple Tree Resort & Spa and Fish Tail Lodge, breakfast, transfers, a candle-lit dinner, couple's massage and private sightseeing. Flights from India and to Pokhara are extra. Five-star or Tiger Mountain upgrades raise the cost to ₹90,000 and above per person."},
+    {"q": "Which is the most romantic hotel in Pokhara?", "a": "For seclusion and mountain views, Tiger Mountain Pokhara Lodge on a ridge east of town. For a lake setting with no traffic, Fish Tail Lodge on its peninsula. For a boutique stay near Lakeside's restaurants, Temple Tree Resort & Spa. Our package combines the last two; the first is an upgrade."},
+    {"q": "What is the best time for a Pokhara honeymoon?", "a": "October to early December has the clearest mountain views and pleasant 20–25 °C days. February and March are also lovely, with flowering hills and fewer crowds. Winter nights in December and January are cool, around 5–8 °C. Avoid June to August if you want views, as the monsoon brings daily rain."},
+    {"q": "Can we combine Pokhara with Kathmandu or Chitwan for our honeymoon?", "a": "Yes. A popular plan is 2 nights in Kathmandu with a heritage hotel, 4 nights in Pokhara on this package, and optionally 2 nights in a Chitwan jungle lodge. Kathmandu–Pokhara is a 25-minute flight. Tell us your dates and we build the full itinerary with transfers."},
+    {"q": "Is paragliding safe for honeymoon couples?", "a": "Tandem paragliding is flown by licensed pilots, each passenger with their own pilot, and couples fly side by side. It is popular with honeymooners and generally safe with established operators. Avoid it if either of you is pregnant or has heart or back problems. Flights are cancelled in poor weather."},
+    {"q": "Are honeymoon decorations and cake included?", "a": "Room decoration with flowers and welcome garlands on arrival are included, along with a candle-lit dinner. A celebration cake can be arranged at either hotel for a small extra charge. Tell us your wedding date and any special requests when booking."},
+    {"q": "Do we need a marriage certificate to stay together in Pokhara hotels?", "a": "No. Hotels in Nepal do not usually ask couples for a marriage certificate. Each guest needs valid photo ID: a passport or voter ID card for Indian citizens and a passport with visa for other nationalities. Rules can change, so check current status before you travel."},
+    {"q": "Can we extend the Pokhara honeymoon package?", "a": "Yes. Popular extensions are one night at Australian Camp for sunrise in the hills, two nights at Tiger Mountain Pokhara Lodge, or a Muktinath helicopter flight from Pokhara. Extra Lakeside nights cost from about ₹5,000–7,000 per room depending on the hotel and season."}
+  ]
+}

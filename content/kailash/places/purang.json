@@ -1,0 +1,131 @@
+{
+  "slug": "purang",
+  "name": "Purang (Taklakot)",
+  "region": "kailash",
+  "kind": "border town",
+  "wiki": "Purang Town",
+  "image_query": "Purang Taklakot town Karnali valley",
+  "lat": 30.29,
+  "lng": 81.18,
+  "altitude_m": 3900,
+  "tagline": "Karnali valley town at 3,900 m, first stop after the Hilsa border",
+  "meta_description": "Purang (Taklakot) at ≈ 3,900 m: first night in Tibet on the Hilsa route, Khorzhak monastery, acclimatisation, hotels and distances to Manasarovar.",
+  "summary": "Purang, known in India and Nepal as Taklakot, is a Tibetan town at about 3,900 m in the Karnali valley, some 25–30 km from the Hilsa border. Pilgrims on the Simikot heli route spend their first one or two nights here to acclimatise before Manasarovar, and some official Lipulekh-route yatris pass through too.",
+  "intro": [
+    "Purang lies in a broad valley of the Karnali river, which Tibetans call the Mapcha Tsangpo, with the snow massif of Gurla Mandhata (7,694 m) rising to the north-east. The town has long been a trading centre where Nepali, Indian and Tibetan merchants met, and its Taklakot market was once the meeting point for traders crossing the Lipulekh pass from Kumaon. Today it is the administrative seat of Purang county, with new streets, government buildings and hotels.",
+    "For Kailash yatris on the Nepal heli route, Purang is the first night in Tibet. The helicopter lands at Hilsa, the group walks across the bridge into Tibet, completes immigration and drives about 25–30 km to town. At about 3,900 m, Purang is ideal for acclimatisation: high enough to begin adapting, low enough for a decent night's sleep before the climb to the lake at about 4,590 m.",
+    "The rest day is usually spent shopping for supplies, walking gently and visiting Khorzhak monastery near the Karnali. Purang has the best hotels and shops of the far west, a clinic and banks. Rules for border opening hours, permits and Indian passport holders change; check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 3,900 m"],
+    ["Best months", "May – Jun · Sep"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Simikot (Nepal) via Hilsa"],
+    ["From Kathmandu", "Flights to Nepalgunj and Simikot + heli + 1 h drive"],
+    ["Known for", "Hilsa route base, Khorzhak monastery, Gurla Mandhata"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "Khorzhak monastery", "text": "About 20 km down the Karnali towards Nepal, the old monastery of Khorzhak, known to Hindus as Khojarnath, has a main temple with silver images that pilgrims associate with Ram, Sita and Lakshman. It is a peaceful half-day outing."},
+    {"title": "Gurla Mandhata above town", "text": "The 7,694 m massif dominates the skyline north-east of Purang. On clear mornings its glaciers shine above the valley, and on the drive to Manasarovar the road passes right beneath its western flank."},
+    {"title": "Acclimatisation night at 3,900 m", "text": "Purang is the gentlest first stop in Tibet on the Hilsa route, gaining only a few hundred metres from Hilsa. One or two nights here make the arrival at Manasarovar at about 4,590 m far easier."},
+    {"title": "Old cliffs and cave dwellings", "text": "Above the town, the hillside is honeycombed with old caves and the ruins of a fort and monastery. A slow walk on the lower paths gives views over the Karnali valley and good acclimatisation exercise."},
+    {"title": "Market for last supplies", "text": "Purang's shops sell warm clothes, dry fruit, fruit, flasks and snacks, and there are Nepali-run restaurants serving dal bhat. It is the best-stocked town between the border and Darchen."}
+  ],
+  "how_to_reach": [
+    {"mode": "Helicopter", "text": "From Simikot a helicopter shuttles pilgrims to Hilsa in about 20–30 minutes, in groups of four or five per flight, in the morning. After crossing the border on foot, a vehicle reaches Purang in about an hour."},
+    {"mode": "Road", "text": "Hilsa to Purang is about 25–30 km by road (≈ 1 h). Purang to Manasarovar is about 75 km (1.5–2 h) and to Darchen about 100 km (2–3 h). A motor road from Simikot towards Hilsa exists in parts but is rough and unreliable for tourist groups."},
+    {"mode": "Air", "text": "The nearest Nepali airport is Simikot, reached from Nepalgunj in about 45 minutes. Ngari Gunsa airport on the Tibetan side is about 350 km away and used mainly on itineraries from Lhasa."}
+  ],
+  "where_to_stay": "Purang has several Chinese-run hotels of a simple 2-star to 3-star standard with heated rooms, attached bathrooms and hot water, plus smaller guesthouses run by Tibetans and Nepalis. Standards are better than at Manasarovar or Darchen. Because hotel names and ownership change frequently, we do not list a specific property; our Tibetan partner books the best available rooms each season, twin sharing. Wi-Fi is common, though foreign apps are blocked.",
+  "stays": [],
+  "tips": [
+    "Use the rest day for gentle activity only; save energy for the lake and the parikrama.",
+    "Carry yuan in small notes; few shops accept cards and foreign phones rarely work with local payment apps.",
+    "Take a hot shower here; facilities at Manasarovar and on the kora are basic.",
+    "Respect photography rules near government and border buildings; police may check phones.",
+    "Buy fresh fruit and snacks for the lake days; choice drops sharply beyond Purang."
+  ],
+  "themes": ["kailash-yatra", "pilgrimage", "heli-tours"],
+  "nearby": ["hilsa", "lake-manasarovar", "darchen"],
+  "experiences": [
+    {
+      "slug": "purang-khorzhak-monastery-visit",
+      "title": "Khorzhak (Khojarnath) monastery visit",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning of the rest day",
+      "price_hint": "Included on most Hilsa-route yatras",
+      "image_query": "Khorzhak monastery Purang Tibet",
+      "wiki": "Khorzhak Monastery",
+      "summary": "A short drive down the Karnali valley to Khorzhak, an old Sakya monastery revered by both Buddhists and Hindus, whose main hall holds silver images that Indian pilgrims identify with Ram, Sita and Lakshman.",
+      "body": [
+        "Khorzhak village stands on the bank of the Karnali about 20 km from Purang, near the road towards Hilsa. The monastery dates back roughly a thousand years and has been rebuilt after damage in the 20th century. Its red walls, prayer wheels and courtyard make it one of the more atmospheric shrines in far western Tibet, and pilgrims from Humla in Nepal visit it as often as yatris do.",
+        "In the main chapel, three silver-plated figures are regarded by Tibetans as bodhisattvas and by Hindu pilgrims as Ram, Sita and Lakshman, so the temple is known in India as Khojarnath. Butter lamps burn in front of them, and monks allow visitors to walk the inner circuit. Photography inside may be restricted; ask first.",
+        "The visit fits easily into the acclimatisation day, returning to Purang for lunch. At about 3,800 m, walking around the village and fields adds gentle exercise. Some itineraries visit on the way in from Hilsa, others on the way out."
+      ],
+      "good_for": ["pilgrims", "families", "seniors"],
+      "faqs": [
+        {"q": "Why is Khojarnath temple important for Hindu pilgrims?", "a": "The main hall of Khorzhak monastery holds three silver-covered images that Hindu pilgrims identify with Ram, Sita and Lakshman, while Tibetans see them as bodhisattvas. That shared reverence makes it a popular stop for Indian yatris on the Hilsa route. It is about 20 km from Purang."},
+        {"q": "How far is Khorzhak from Purang?", "a": "About 20 km along the Karnali valley, roughly 30–45 minutes by road. Visits take 2–3 hours including the drive, so it fits comfortably into the rest day in Purang or the transfer between Hilsa and Purang."},
+        {"q": "Can I take photos inside Khorzhak monastery?", "a": "Rules vary; photography inside the chapels is often not allowed or requires permission and a small fee. The courtyard, exterior and village are fine to photograph. Ask the monks or your guide before taking pictures indoors, and never use flash on murals."}
+      ]
+    },
+    {
+      "slug": "purang-cliff-caves-acclimatisation-walk",
+      "title": "Purang cliff caves acclimatisation walk",
+      "kind": "hiking",
+      "duration": "1.5–2 hours",
+      "best_time": "Late afternoon or morning",
+      "price_hint": "",
+      "image_query": "Purang cave dwellings cliff Tibet",
+      "wiki": "",
+      "summary": "A gentle walk on the hillside above Purang, past old cave dwellings and ruined fort walls, gaining 100–200 m for views over the Karnali valley and Gurla Mandhata. Ideal light exercise on the acclimatisation day.",
+      "body": [
+        "Purang's old settlement climbed the cliffs on the edge of the valley, where people carved rooms into soft rock and built a fort and monastery above. Much is ruined now, but the openings of caves and lines of walls are clearly visible from town. Your guide leads a slow walk on the lower paths, keeping within marked or safe areas.",
+        "From a hundred metres or so above town, the view opens down the Karnali towards Nepal and up to the long glaciated ridge of Gurla Mandhata. Prayer flags flap on the ridges, and in late afternoon the light turns the cliffs gold. The climb is gentle but enough to raise your breathing at about 4,000 m, which is the purpose.",
+        "Do not enter caves or climb on crumbling walls. Wear walking shoes, take water and turn back if you feel unwell. The walk ends back in town with time for a hot drink and an early dinner."
+      ],
+      "good_for": ["photographers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "What should I do on the rest day in Purang?", "a": "Keep it gentle: a short walk above town or to the market, a visit to Khorzhak monastery, plenty of fluids, a hot shower and an early night. The aim is light activity at about 3,900 m without tiring yourself before the lake and the parikrama."},
+        {"q": "Is the Purang cave walk difficult?", "a": "No. It gains 100–200 m on dirt paths and takes about 1.5–2 hours at a slow pace. The only challenge is the altitude. Seniors can walk a short way up and return. Avoid entering caves or crumbling walls."},
+        {"q": "Can I see Gurla Mandhata from Purang?", "a": "Yes, on clear days the 7,694 m massif is visible north-east of town and especially from the hillside above. The drive from Purang to Manasarovar passes close beneath its western flank, with the best views in the morning."}
+      ]
+    },
+    {
+      "slug": "purang-taklakot-market-stroll",
+      "title": "Taklakot market and Nepali eateries",
+      "kind": "food",
+      "duration": "1–2 hours",
+      "best_time": "Afternoon",
+      "price_hint": "Meals ≈ CNY 30–60",
+      "image_query": "Taklakot market Purang shops",
+      "wiki": "",
+      "summary": "A stroll through Purang's shopping streets, historically the Taklakot trading market, where Nepali and Tibetan traders sell dry fruit, warm clothing and household goods, and Nepali cooks serve dal bhat to homesick yatris.",
+      "body": [
+        "For centuries, traders from Humla, Kumaon and western Tibet met at Taklakot to exchange salt, wool, grain and goods from the plains. Today the market is a set of modern streets with Chinese-run supermarkets and clothing stores, Tibetan shops selling incense and beads, and Nepali-run businesses with signs in Devanagari.",
+        "Yatris come for practical things: dry fruit, biscuits, flasks, gloves and woollen socks, and fresh fruit for the lake. Nepali eateries serve dal bhat, momo and sweet tea, a welcome taste after days of travel, and Tibetan shops sell yak-wool shawls. Bargain politely and pay in yuan.",
+        "Keep your passport and cash safe and photograph only shops and street scenes, not police or government buildings. Return before dark; evening temperatures drop quickly."
+      ],
+      "good_for": ["families", "pilgrims", "groups"],
+      "faqs": [
+        {"q": "Can I find Indian or Nepali food in Purang?", "a": "Yes. Several Nepali-run eateries serve dal bhat, vegetable curry, momo and tea, and many cooks understand vegetarian needs. Our groups also travel with support staff who prepare Indian vegetarian meals on the Tibet section. Purang has the widest food choice west of Saga."},
+        {"q": "What should I buy in Purang before Manasarovar?", "a": "Fresh fruit, extra water, biscuits, dry fruit and glucose powder for the lake and the parikrama, plus any missing warm items like gloves or woollen socks. Prices are in yuan. Choice is much smaller in Darchen and almost nothing is available on the kora."},
+        {"q": "Is Taklakot the same as Purang?", "a": "Yes. Taklakot is the old name used in India and Nepal, while Purang (or Burang) is the Tibetan and official name. It is the seat of Purang county in Ngari prefecture, Tibet."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Purang (Taklakot)?", "a": "Purang is at about 3,900 m (12,800 ft) in the Karnali valley. That is a gain of a few hundred metres over Hilsa and about 700 m below Lake Manasarovar, which makes it a good first stop for acclimatisation on the Simikot–Hilsa route."},
+    {"q": "How far is Purang from the Hilsa border?", "a": "About 25–30 km, roughly an hour by road. Pilgrims cross the bridge from Hilsa on foot, complete Chinese immigration and baggage checks, and drive to Purang with their Tibetan guide. Border opening hours are set by the authorities and can change; check current status before you travel."},
+    {"q": "How many nights should I spend in Purang?", "a": "One night is the minimum and two nights are better, especially for first-timers and seniors. The second night allows a gentle walk and a visit to Khorzhak monastery, and it lowers the risk of altitude sickness at Manasarovar. Our heli-route yatras usually include two."},
+    {"q": "How far is Purang from Lake Manasarovar?", "a": "About 75 km, 1.5–2 hours by road, passing Rakshastal and the flank of Gurla Mandhata. Darchen is about 100 km from Purang, 2–3 hours. Most groups drive to the lake for a holy dip and parikrama after their acclimatisation nights in Purang."},
+    {"q": "Are there good hotels in Purang?", "a": "Purang has the best accommodation in far western Tibet: simple 2-star to 3-star hotels with heated rooms, attached bathrooms and hot water. They are clean but plain. International chains do not operate here. Our partner books the best available rooms each season."},
+    {"q": "Do Indian pilgrims on the official route pass through Purang?", "a": "Yes. The Government of India yatra via the Lipulekh pass enters Tibet near Purang, so Taklakot appears on both routes. The official yatra is organised separately by India's Ministry of External Affairs and is not part of our Nepal-route packages."},
+    {"q": "Can I exchange money in Purang?", "a": "Purang has banks, but changing Indian rupees is not reliable for foreigners. Arrive with Chinese yuan changed in Kathmandu or Nepalgunj, in small notes. Your guide can advise on exchange at the border. Mobile payment apps are widely used but hard for visitors to set up."},
+    {"q": "Is it cold in Purang?", "a": "Purang is milder than the lake. In June days reach about 15–20 °C and nights 2–6 °C; September nights fall to around 0 °C. Wind picks up in the afternoon. Pack layers, a warm jacket and a hat."},
+    {"q": "What happens if helicopters to Hilsa are delayed?", "a": "Groups wait in Simikot, and the Tibet section shifts by a day or more. Because the Tibet permit lists dates, the Tibetan agency adjusts arrangements when possible. Our heli-route itineraries include a buffer day for this reason, and we explain any extra costs before you book."}
+  ]
+}

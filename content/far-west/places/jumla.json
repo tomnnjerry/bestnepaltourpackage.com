@@ -1,0 +1,131 @@
+{
+  "slug": "jumla",
+  "name": "Jumla",
+  "region": "far-west",
+  "kind": "valley",
+  "wiki": "Jumla (town)",
+  "image_query": "Jumla Khalanga Tila valley",
+  "lat": 29.274,
+  "lng": 82.183,
+  "altitude_m": 2514,
+  "tagline": "Apple orchards, red rice terraces and the trailhead for Rara",
+  "meta_description": "Jumla travel guide: flights from Nepalgunj, the Karnali Highway, Chandannath Temple, Jumla apples and Marshi red rice, and the trek to Rara Lake.",
+  "summary": "Jumla is the main town of the Karnali hills, at 2,514 m in the Tila valley. It is known for apples, Marshi red rice grown at the world's highest rice altitudes, and the Chandannath Temple. Most visitors fly in from Nepalgunj in about 40 minutes and start the 5–6 day trek to Rara Lake here.",
+  "intro": [
+    "Jumla town, the centre of Chandannath municipality, spreads along the Tila river in a wide, terraced valley ringed by forested ridges. For centuries it was the most important place in the Karnali basin, close to Sinja, the summer capital of the Khasa Malla kings who ruled much of western Nepal and south-west Tibet between the 12th and 14th centuries. Today it is a district headquarters with a short airstrip, a bazaar of wooden-fronted shops and a growing number of apple traders.",
+    "Agriculture defines the valley. Jumli Marshi, a cold-tolerant red rice, grows on terraces from about 2,400 to over 3,000 m, among the highest rice fields in the world, and it has been farmed here for many centuries. Jumla apples, grown without much chemical input, are sold across Nepal each autumn, and the valley also produces beans, buckwheat, walnuts and honey. In September and October the terraces turn gold and red and the orchards are heavy with fruit.",
+    "For travellers, Jumla is above all the trailhead for Rara. The classic trek leaves town past the Chandannath Temple, climbs to the meadow camp at Chere Chaur and crosses passes of 3,500 m and more towards Sinja and the lake. The Karnali Highway also now connects Jumla to Surkhet and Nepalgunj, so the town fills with jeeps and domestic tourists in spring and autumn. One night in Jumla before the trek is usual; two if you want to see Sinja by jeep."
+  ],
+  "facts": [
+    ["Altitude", "2,514 m (airport ≈ 2,350 m)"],
+    ["Best months", "Apr – Jun · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Jumla Airport, at the edge of town"],
+    ["From Kathmandu", "≈ 1 h flight to Nepalgunj + 40 min flight to Jumla"],
+    ["Known for", "Rara trek start, Chandannath Temple, apples, Marshi red rice"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Chandannath Temple", "text": "The town's main temple, dedicated to Chandannath, a form of Vishnu brought, according to local tradition, from Kashmir. Its pagoda roof and the nearby Bhairabnath temple stand in the old core of the bazaar. Festivals bring crowds from villages across the district."},
+    {"title": "Marshi red rice terraces", "text": "Jumli Marshi is grown on terraces up to about 3,050 m at Chhumchaur, a record altitude for rice. The Tila and Sinja valleys glow red-gold before harvest in September and October. Bags of the rice make a good, light souvenir."},
+    {"title": "Apple country", "text": "Orchards line the valley and the slopes above town. Harvest runs from late August to October, when trucks leave daily along the Karnali Highway. Dried apple chips, juice and brandy are sold in the bazaar."},
+    {"title": "Gateway to Rara", "text": "The 5–6 day walk from Jumla to Rara Lake is the classic way to reach Nepal's largest lake, through meadows, pine forest and Thakuri villages over passes up to about 3,580 m. Most groups spend one night in Jumla preparing."},
+    {"title": "Sinja valley", "text": "Half a day by jeep or two days' walk from Jumla, Sinja was the summer capital of the Khasa Malla kingdom. The Kankasundari temple, old stone structures and inscriptions survive in a quiet valley of rice terraces, on the trekking route to Rara."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Small planes fly Nepalgunj–Jumla in about 40 minutes, usually in the morning, with occasional flights from Surkhet and Kathmandu. Seats are limited and weather cancels flights regularly, so keep a spare day. Baggage is generally 15 kg. Check current schedules before you travel."},
+    {"mode": "Road", "text": "From Nepalgunj: ≈ 340 km · 12–14 h via Surkhet and the Karnali Highway, through Dailekh and Kalikot. The road is paved in parts but narrow and landslide-prone, especially June–September. Most visitors fly one way and drive the other only if they want to see the Karnali gorge."},
+    {"mode": "On foot", "text": "Jumla is the start, not the end, of most treks: Rara Lake in 5–6 days, Dolpa via Kagmara La for experienced trekkers, and short walks to Sinja or the meadow at Chere Chaur."}
+  ],
+  "where_to_stay": "Jumla has a few simple hotels and guesthouses along the main bazaar and near the airport, catering mostly to officials, traders and domestic tourists. Rooms are clean but basic, with attached bathrooms in the better places, hot water by gas geyser and Nepali and Indian dishes. Expect power cuts to be covered by solar or generator. For the night before a Rara trek we choose a hotel within walking distance of the airstrip and the start of the trail. There are no star-rated properties, so we confirm availability and current standard for each departure rather than naming a fixed hotel.",
+  "stays": [],
+  "tips": [
+    "Buy Jumli Marshi red rice and dried apples in the bazaar; both travel well.",
+    "Walk to the Chandannath Temple in the early morning, when the bazaar is quiet.",
+    "Use your Jumla night to check boots, sleeping bag and rain gear before the Rara trek.",
+    "Carry enough cash for the trek; ATMs in Jumla are few and sometimes offline.",
+    "If driving the Karnali Highway, avoid the monsoon months and travel only in daylight."
+  ],
+  "themes": ["trekking", "cultural-tours", "photography", "budget-nepal"],
+  "nearby": ["rara-lake", "nepalgunj", "simikot"],
+  "experiences": [
+    {
+      "slug": "jumla-chandannath-temple-bazaar-walk",
+      "title": "Chandannath Temple and old bazaar walk",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Early morning, Apr–Nov",
+      "price_hint": "Included in Rara trek packages",
+      "image_query": "Chandannath Temple Jumla",
+      "wiki": "Chandannath Temple",
+      "summary": "A morning walk through Jumla's old core to the Chandannath and Bhairabnath temples, the wooden shopfronts of the bazaar and the banks of the Tila river. An easy introduction to the Karnali hills before the trek.",
+      "body": [
+        "The Chandannath Temple stands at the centre of old Jumla, and the town's municipality takes its name from it. Local tradition holds that the deity was brought from Kashmir by a holy man in the medieval period, and the temple has been the focus of the valley's religious life ever since. The nearby Bhairabnath shrine is linked to it in festivals and processions.",
+        "From the temple we walk through the bazaar, where wooden-fronted shops sell red rice, beans, apples, walnuts, woollen blankets and Chinese goods brought down from Humla. Traders from Mugu and Humla pass through, and in autumn trucks load apples for the long drive south.",
+        "The walk ends at the Tila river, with views over the terraced fields towards the ridges you cross on the first day of the Rara trek. It is level, easy and best done early, when farmers bring produce to market and the light is soft."
+      ],
+      "good_for": ["first-timers", "photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "What is special about Chandannath Temple in Jumla?", "a": "It is the main temple of the Karnali region, dedicated to Chandannath, a form of Vishnu that local tradition says was brought from Kashmir. The town's municipality is named after it. Major festivals, including Dashain, draw villagers from across the district, and it is the natural first stop before walking to Rara."},
+        {"q": "Can tourists enter Chandannath Temple?", "a": "Visitors can walk around the temple area and watch the rituals; entry to the inner sanctum is usually limited to Hindus. Remove shoes and leather items, dress modestly and ask before photographing priests or worshippers. Mornings are the best time, when the temple is active but not crowded."},
+        {"q": "What can I buy in Jumla bazaar?", "a": "Jumli Marshi red rice, local beans, walnuts, dried apple chips, apple juice, honey and handmade woollen blankets are the classic buys. Shops also sell trekking basics such as gas canisters, snacks and torches, but quality and stock vary, so bring important gear from Kathmandu or Nepalgunj."}
+      ]
+    },
+    {
+      "slug": "jumla-apple-orchard-red-rice-walk",
+      "title": "Apple orchards and red rice terraces",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Sep–Oct for harvest",
+      "price_hint": "≈ ₹2,500 per group with local guide",
+      "image_query": "Jumla apple orchard Nepal",
+      "wiki": "",
+      "summary": "A half-day walk through Jumla's orchards and terraces with a local guide, tasting apples and learning how Marshi red rice is grown at around 2,500 m. Best in harvest season, September and October.",
+      "body": [
+        "Jumla's orchards spread up the valley sides from the Tila river. Many farms use little or no chemical fertiliser, partly from tradition and partly because inputs are hard to bring this far, and the district has promoted its produce as organic. Harvest runs from late August into October, when families pick, sort and pack fruit for trucks heading down the Karnali Highway.",
+        "Below the orchards, terraces of Jumli Marshi red rice step down to the river. This cold-tolerant variety has been cultivated here for many centuries and grows higher than almost any rice in the world. Farmers explain irrigation channels, transplanting in June and the threshing that follows harvest.",
+        "We stop at a farmhouse for fresh apples or juice, and, in season, a plate of red rice with local beans and greens. Bring a hat and water; the sun is strong at this altitude even when the air is cool."
+      ],
+      "good_for": ["families", "couples", "photographers", "groups"],
+      "faqs": [
+        {"q": "When is apple season in Jumla?", "a": "From late August to October, with the peak in September. Orchards are full, roadside stalls sell fruit cheaply, and trucks queue to carry apples down the Karnali Highway. In spring, April and May, the trees are in blossom, which is also a good time for photographs but without fruit to taste."},
+        {"q": "What is Jumla Marshi rice?", "a": "Jumli Marshi is a cold-tolerant red rice grown in the Tila and Sinja valleys from about 2,400 m to over 3,000 m, among the highest rice fields on earth. It has a nutty flavour and firm texture and is sold across Nepal as a speciality grain. It is believed to have been grown here for over a thousand years."},
+        {"q": "Can I buy Jumla apples and rice to take home?", "a": "Yes. Red rice in 1–2 kg packs and dried apple chips are easy to carry and sold in the bazaar. Fresh apples are cheap in season but heavy for the flight, where baggage is usually limited to 15 kg. Indian travellers can carry them home overland via Nepalgunj without difficulty."}
+      ]
+    },
+    {
+      "slug": "jumla-sinja-valley-heritage-day",
+      "title": "Sinja valley and the Khasa Malla capital",
+      "kind": "culture",
+      "duration": "Full day by jeep",
+      "best_time": "Apr–Jun and Sep–Nov",
+      "price_hint": "≈ ₹12,000 per jeep",
+      "image_query": "Sinja Valley Jumla Kankasundari",
+      "wiki": "Sinja Valley",
+      "summary": "A day trip by jeep to Sinja, the summer capital of the medieval Khasa Malla kingdom, to see the Kankasundari temple, old stone remains and the terraced rice valley that trekkers cross on the way to Rara.",
+      "body": [
+        "Between roughly the 12th and 14th centuries, the Khasa Malla kings ruled a domain stretching from western Nepal into south-western Tibet, and Sinja was one of their capitals. The valley is also linked by many scholars to the early development of the Nepali language, which spread from this region. Little remains of the royal town, but the setting explains why it was chosen: a sheltered, fertile valley on the trade route between the Karnali and Tibet.",
+        "The road from Jumla is rough and slow; allow 2–3 hours each way. In Sinja we visit the Kankasundari temple, look at old stone structures and inscribed stones, and walk through the village and rice terraces. A local guide or schoolteacher adds the history that signboards do not.",
+        "Trekkers on our Rara trek pass through Sinja on foot on day four, so this day trip suits those flying into Rara instead, or anyone with an extra day in Jumla. Take a packed lunch; food options in Sinja are limited."
+      ],
+      "good_for": ["groups", "photographers", "solo"],
+      "faqs": [
+        {"q": "Why is Sinja valley important?", "a": "Sinja was a capital of the Khasa Malla kingdom, which ruled much of western Nepal and parts of Tibet in the medieval period. Many historians connect the region with the origins of the Nepali language. The Kankasundari temple and old stone remains survive in a quiet valley of red rice terraces."},
+        {"q": "How far is Sinja from Jumla?", "a": "Around 2–3 hours by jeep each way on a rough road, or about two days on foot via Chere Chaur and Chalachaur on the Rara trekking route. A day trip by jeep is possible in the dry seasons. The road can be blocked by landslides during the monsoon from late June to September."},
+        {"q": "Is Sinja on the Rara Lake trek?", "a": "Yes. Most Rara treks from Jumla pass through Sinja on the third or fourth day before heading north towards Pina and the lake. Trekkers spend a night near the village and can visit the temple and old remains. If you fly to Talcha instead, see Sinja by jeep from Jumla."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Jumla from Nepalgunj?", "a": "Fly in about 40 minutes on a morning small-plane service, or drive about 340 km on the Karnali Highway via Surkhet, which takes 12–14 hours. Flights are weather-dependent and seats are limited, so book early and keep a spare day. Most trekkers fly in and walk out to Rara and Talcha."},
+    {"q": "What is Jumla famous for?", "a": "Jumla is known for its apples, Jumli Marshi red rice grown at record altitudes, the Chandannath Temple, and as the start of the trek to Rara Lake. Historically it was close to Sinja, a capital of the medieval Khasa Malla kingdom, and it remains the main town of the Karnali hills."},
+    {"q": "How many days is the trek from Jumla to Rara?", "a": "Five to six days on the classic route via Chere Chaur, Chalachaur, Sinja and Pina, with passes up to about 3,580 m. Add a rest day at the lake and either fly out from Talcha or walk back to Jumla in 3–4 days over Danphe Lagna. A full trip from Kathmandu takes 12–14 days."},
+    {"q": "Is there accommodation in Jumla?", "a": "Yes, a few simple hotels and guesthouses in the bazaar and near the airport, with basic rooms, attached bathrooms in the better places and local meals. There are no star-rated hotels. Rooms fill with domestic tourists in October and around the Nepali New Year in April, so book ahead."},
+    {"q": "When is the best time to visit Jumla?", "a": "September to November for harvest colours, apples and clear skies, and April to June for blossom and warm days. July and August bring monsoon rain, cancelled flights and landslides on the Karnali Highway. Winter, December to February, is cold with snow on the passes, and few visitors come."},
+    {"q": "Is Jumla safe for tourists?", "a": "Yes. Jumla is a peaceful district town and visitors are welcomed. The main risks are practical: flight cancellations, road conditions on the Karnali Highway and altitude. Trek with a licensed guide, carry cash, and register with your agency. Women travellers report few problems, and conservative dress is appreciated."},
+    {"q": "Can I drive from Jumla to Rara Lake?", "a": "Yes, a road runs from Jumla towards Gamgadhi and the Rara area, and jeeps reach the park in about 5–7 hours in dry weather. The road is rough and closed by landslides in the monsoon. Many domestic tourists now visit this way, but trekking gives a far better feel for the region."},
+    {"q": "What is the altitude of Jumla?", "a": "Jumla town is at about 2,514 m, and the airport sits a little lower at about 2,350 m. That is high enough for some visitors to feel mild altitude effects on the first night, especially after flying from Nepalgunj at 150 m. Take it easy on arrival and drink plenty of water."},
+    {"q": "Are flights to Jumla reliable?", "a": "They run most mornings in good weather but are often delayed or cancelled by cloud, wind or rain, especially in the monsoon and in winter. Operators fly small planes with limited seats and prioritise passengers already booked. Always build a spare day into a Jumla itinerary and avoid tight international connections."}
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "shey-phoksundo-lake",
+  "name": "Shey Phoksundo Lake",
+  "region": "mustang",
+  "kind": "lake",
+  "wiki": "Phoksundo Lake",
+  "image_query": "Phoksundo Lake Ringmo Dolpo turquoise",
+  "lat": 29.200,
+  "lng": 82.950,
+  "altitude_m": 3611,
+  "tagline": "Nepal's deepest lake, a turquoise sheet in remote Dolpo",
+  "meta_description": "Shey Phoksundo Lake guide: 3,611 m turquoise lake in Dolpo, Nepal's deepest at about 145 m, reached by a 3–4 day trek from Juphal. Permits, season, lodges.",
+  "summary": "Shey Phoksundo Lake (3,611 m) in Dolpo is Nepal's deepest lake, about 145 m, famous for water that shifts from turquoise to deep blue. It lies inside Shey Phoksundo National Park, 3–4 days' walk from Juphal airstrip. Ringmo village and a Bon monastery stand on its southern shore.",
+  "intro": [
+    "Few sights in Nepal match the first view of Phoksundo. After days in a narrow, forested gorge, the trail climbs past a 167 m waterfall, Nepal's tallest by most accounts, and tops a ridge to reveal a lake of improbable colour, turquoise in the shallows and ink blue in the depths, walled by grey cliffs and snow peaks. The lake is about 5 km long and roughly 145 m deep, held back by an ancient landslide dam.",
+    "On the southern shore sits Ringmo, a village of stone houses with flat roofs piled with firewood, and a few minutes' walk along the shore stands Tshowa Gompa, a monastery of the Bon religion, Tibet's pre-Buddhist faith, with prayer flags reflected in the water. Dolpo's people follow Bon and Buddhism, farm barley and potatoes, herd yaks and goats and trade over high passes to Tibet, much as in the film Himalaya (1999), which was shot in the region.",
+    "Phoksundo is the centrepiece of Shey Phoksundo National Park, Nepal's largest at 3,555 km², home to blue sheep, Himalayan tahr and the elusive snow leopard. Getting here takes effort: flights from Kathmandu to Nepalgunj and on to Juphal, then three or four days of trekking through Dunai and up the Suli Gad. Visitors are few, lodges are simple and the reward is a lake that many trekkers call the most beautiful in the Himalaya."
+  ],
+  "facts": [
+    ["Altitude", "3,611 m"],
+    ["Best months", "May – Jun · Sep – Oct"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Juphal (2,475 m), 3–4 days' walk"],
+    ["From Kathmandu", "Flight to Nepalgunj (1 h) + Juphal (35–45 min) + 3–4 days on foot"],
+    ["Known for", "Deepest lake in Nepal, Bon monastery, Phoksundo waterfall"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "First view over the lake", "text": "From the ridge above Ringmo at about 3,800 m, the lake appears below in full: a long turquoise sheet framed by cliffs and peaks. Arrive in the morning for the strongest colour, before clouds or wind ruffle the surface."},
+    {"title": "Phoksundo waterfall", "text": "Below Ringmo, the lake's outflow drops about 167 m in a long white cascade, often described as Nepal's highest waterfall. The trail climbs alongside it, so you see it from several angles on the final day in."},
+    {"title": "Tshowa Bon monastery", "text": "On the lake shore east of Ringmo, Tshowa Gompa belongs to the Bon tradition. Bon followers walk anticlockwise around shrines, the reverse of Buddhists. Monks or a caretaker may open the prayer hall."},
+    {"title": "Ringmo village", "text": "Ringmo's stone houses, mani walls and chortens sit between the lake and fields of barley. Women weave on back-strap looms and sell woollen goods; the village is the base for all walks around the lake."},
+    {"title": "The western shore trail", "text": "A narrow path cut into cliffs runs along the lake's western shore towards Upper Dolpo and the Kang La. Walking the first section gives remarkable views down onto the water, but it has drops, so go with a guide."},
+    {"title": "Wildlife of the national park", "text": "Blue sheep graze the slopes above the lake, and Himalayan griffons and lammergeiers ride the thermals. Snow leopards live in the park but sightings are rare and need luck and time."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Nepalgunj (about 1 h), then take the early-morning Nepalgunj–Juphal flight (35–45 min) on Tara Air or Summit Air. Juphal flights are small, weather-dependent and frequently delayed; keep at least one buffer day each way. Check current schedules before you travel."},
+    {"mode": "On foot", "text": "From Juphal (2,475 m) the trek reaches Phoksundo in 3–4 days: Juphal–Dunai (3 h), Dunai–Chhepka (6–7 h), Chhepka–Jharana or Amchi Hospital (5–6 h), then to Ringmo (4–5 h), climbing past the waterfall. Lower Dolpo circuits arrive from Do Tarap over the Numa La and Baga La."},
+    {"mode": "Helicopter", "text": "Charter helicopters from Nepalgunj or Juphal can land near Ringmo, mainly for rescues or private trips. Flying straight to 3,611 m without acclimatisation is not advised. Costs are high and landing rules in the park can change; check current status before you travel."},
+    {"mode": "Road", "text": "A rough seasonal road now reaches Dunai from Jajarkot and Surkhet, a long 2-day drive. It is used by locals and supply trucks and is often closed by landslides in the monsoon. Most visitors fly."}
+  ],
+  "where_to_stay": "Ringmo has a few simple lodges and campsites run by local families, with twin rooms, shared toilets and dining rooms serving dal bhat, potatoes, Tibetan bread and noodles. Supplies come by mule from Juphal, so menus are short and prices higher than in Annapurna. Many agencies camp at Phoksundo for comfort and flexibility, with tents, a kitchen crew and dining tent. On the approach, Chhepka, Rechi and Amchi Hospital have small lodges or campsites. There are no hotels of standard grade anywhere in Dolpo; bring a four-season sleeping bag.",
+  "stays": [],
+  "tips": [
+    "Keep at least one spare day for the Juphal flight each way; delays of a day or more are common.",
+    "Bon followers circle shrines anticlockwise; follow your guide's lead at Tshowa Gompa.",
+    "Do not swim or wash in the lake; it is sacred to local people and the water is very cold.",
+    "Carry cash for the whole trip; there are no ATMs beyond Nepalgunj, and Dunai's banks are unreliable for foreign cards.",
+    "Bring water purification tablets or a filter; bottled water is scarce and plastic must be carried out."
+  ],
+  "themes": ["trekking", "photography", "adventure-sports"],
+  "nearby": ["dunai"],
+  "experiences": [
+    {
+      "slug": "phoksundo-lakeshore-tshowa-gompa-walk",
+      "title": "Lakeshore walk to Tshowa Bon monastery",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning, May–Jun and Sep–Oct",
+      "price_hint": "Included in our Dolpo trek",
+      "image_query": "Tshowa monastery Phoksundo lake",
+      "wiki": "",
+      "summary": "An easy morning walk from Ringmo along the turquoise shore of Phoksundo to Tshowa Gompa, a centuries-old monastery of the Bon religion, with time to sit by the water and watch the colours change.",
+      "body": [
+        "From the lodges in Ringmo, a path follows the eastern shore past mani walls and chortens to Tshowa Gompa, a small white-and-red monastery on a spur above the lake. It belongs to Bon, the religion of Tibet before Buddhism arrived, which survives strongly in Dolpo. Inside, statues and paintings show Bon deities and the founder Tonpa Shenrab, whose iconography looks familiar yet different from Buddhist images.",
+        "Bon practice runs in reverse to Buddhist custom: followers walk anticlockwise around temples and spin prayer wheels the other way. Your guide explains the differences and the history of Bon in Dolpo. A monk or caretaker usually opens the prayer hall for a donation. From the monastery's terrace the lake spreads out below, its colours shifting from pale turquoise near the shore to deep blue farther out.",
+        "The walk is short and almost flat, about 2 km each way, and suits everyone, though at 3,611 m you should still walk slowly. Many trekkers return to sit on the shore through the afternoon, reading or photographing. Remember the lake is sacred: no swimming, no washing and no stones thrown into the water."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "What is Bon religion?", "a": "Bon is the indigenous religion of Tibet, which predates the arrival of Buddhism in the 7th–8th centuries. Over time it absorbed many Buddhist elements, and today it has monasteries, monks and scriptures similar in form to Buddhism, but with its own founder, deities and rituals. Dolpo is one of its strongholds in Nepal."},
+        {"q": "Can I swim in Phoksundo Lake?", "a": "No. Phoksundo is sacred to local Bon and Buddhist communities, and swimming, washing and fishing are not allowed. The water is also extremely cold, a few degrees above freezing even in summer, and very deep close to the shore. Enjoy the lake from its banks and the trails above."},
+        {"q": "How old is Tshowa Gompa?", "a": "Tshowa Gompa is usually described as several centuries old, with some sources claiming around 900 years, though exact dates are uncertain. It has been repaired many times. It remains an active Bon monastery serving Ringmo and nearby villages, and visitors are welcome respectfully."}
+      ]
+    },
+    {
+      "slug": "phoksundo-western-shore-viewpoint-hike",
+      "title": "Western shore trail and lake viewpoint hike",
+      "kind": "hiking",
+      "duration": "4–5 hours",
+      "best_time": "Morning, May–Jun and Sep–Oct",
+      "price_hint": "Included on our acclimatisation day",
+      "image_query": "Phoksundo lake western trail cliff",
+      "wiki": "",
+      "summary": "A guided half-day hike along the start of the narrow cliff trail on Phoksundo's western shore, the route to Upper Dolpo, climbing to viewpoints high above the water for the best views of the whole lake.",
+      "body": [
+        "The trail around the western side of Phoksundo is the famous route towards Shey Gompa and Upper Dolpo, shown in the film Himalaya when a yak caravan edges along the cliff. It is cut into the rock face, with stretches supported by wooden beams and stone, and in places drops sharply to the water. We walk only the first section, to viewpoints that look down the full length of the lake.",
+        "From Ringmo the path crosses the outflow and climbs steadily along the shore, gaining about 300–400 m over 2 hours. From the high points, the lake spreads out below in shades of turquoise and blue, Ringmo's roofs are tiny on the far shore and the peaks of Kanjiroba rise to the south-west. Lammergeiers and griffons often circle at eye level.",
+        "This is a moderate hike with exposure, so it is not suitable for anyone uneasy with heights or for young children. Your guide decides how far to go based on conditions and the group. On the way back you can stop at the waterfall viewpoint. It makes an excellent acclimatisation walk on the rest day at Phoksundo."
+      ],
+      "good_for": ["photographers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "Is the Phoksundo cliff trail dangerous?", "a": "The first part used by day hikers is narrow and exposed in places but well trodden, and safe with care and a guide. Further along towards Upper Dolpo it becomes more precarious, especially when wet or icy. People with vertigo or poor balance should avoid it, and children should not go without close supervision."},
+        {"q": "Which film was shot at Phoksundo Lake?", "a": "Himalaya, released in 1999 and directed by Éric Valli, was filmed in Dolpo with local actors, including scenes on the cliff trail above Phoksundo. Also known as Caravan, it was nominated for an Academy Award for Best Foreign Language Film and brought Dolpo to international attention."},
+        {"q": "Can I trek from Phoksundo to Upper Dolpo?", "a": "Yes, the western shore trail leads to the Kang La (about 5,360 m) and Shey Gompa in Upper Dolpo. This needs the Upper Dolpo restricted area permit (US$ 500 for 10 days), full camping and a strong team. It is a separate, much harder expedition. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "phoksundo-waterfall-ringmo-approach",
+      "title": "Phoksundo waterfall and the climb to Ringmo",
+      "kind": "nature",
+      "duration": "4–5 hours",
+      "best_time": "Morning, May–Jun and Sep–Oct",
+      "price_hint": "Part of our Dolpo trek",
+      "image_query": "Phoksundo waterfall Dolpo Nepal",
+      "wiki": "",
+      "summary": "The final day of the approach to Phoksundo: through birch and pine forest, past Nepal's tallest waterfall and up to the ridge where the lake comes into view, before dropping to Ringmo village.",
+      "body": [
+        "From Amchi Hospital or Jharana, the trail follows the Phoksundo Khola through forests of birch, pine and juniper. Then the valley steepens and you hear the waterfall before you see it: the lake's outflow plunging about 167 m down a rock face, white against dark stone. Most sources call it the highest waterfall in Nepal, and on a sunny morning rainbows form in the spray.",
+        "The path climbs a series of switchbacks beside the falls, gaining roughly 400–500 m to a ridge at about 3,800 m marked by prayer flags and a chorten. Over the top, Phoksundo appears below in one sweep, its colour so intense that many trekkers stop in silence. From here it is a short descent to Ringmo and the lakeshore lodges or campsite.",
+        "Allow 4–5 hours, with plenty of stops for photos and breath. This is the highest gain of the approach, so walk slowly and drink well. Mule trains carrying supplies use the same path, so step to the uphill side when they pass. Arrive by early afternoon to enjoy the lake before the wind."
+      ],
+      "good_for": ["photographers", "groups", "couples", "solo"],
+      "faqs": [
+        {"q": "How high is the Phoksundo waterfall?", "a": "The waterfall below Phoksundo Lake is usually given as about 167 m, which makes it the highest waterfall in Nepal according to most sources. It forms where the lake's outflow drops off the old landslide dam into the gorge below. The trail to Ringmo climbs alongside it."},
+        {"q": "How many days does it take to reach Phoksundo from Juphal?", "a": "Most itineraries take three or four days: Juphal to Dunai, Dunai to Chhepka, Chhepka to Amchi Hospital or Jharana, then on to Ringmo. Fast trekkers combine days, but gradual ascent helps acclimatisation. The return to Juphal takes two to three days."},
+        {"q": "What should I watch for on the trail to Phoksundo?", "a": "Mule trains, loose stones and altitude. Always step to the uphill side when animals pass. The final climb past the waterfall gains about 400–500 m to around 3,800 m, so pace yourself, drink water and tell your guide about headaches or dizziness. Afternoon wind can be strong on the ridge."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Shey Phoksundo Lake?", "a": "Shey Phoksundo Lake is in Dolpa district, Karnali Province, in north-west Nepal, inside Shey Phoksundo National Park. It lies at 3,611 m, beside Ringmo village. The nearest airstrip is Juphal, reached by flight from Nepalgunj, followed by a 3–4 day trek."},
+    {"q": "How deep is Phoksundo Lake?", "a": "Phoksundo is about 145 m deep, the deepest lake in Nepal, and covers roughly 4.9 km². It was formed when a huge landslide dammed the valley thousands of years ago. The depth and mineral content give it its intense turquoise and blue colours."},
+    {"q": "How much does the Shey Phoksundo trek cost?", "a": "A Shey Phoksundo trek of 10–12 days from Kathmandu, with flights to Juphal, permits, guide, porters and lodges or camping, typically costs US$ 1,500–2,200 per person. Longer Lower Dolpo circuits cost more. Flights and camping logistics are the main costs."},
+    {"q": "What permits do I need for Phoksundo Lake?", "a": "You need the Shey Phoksundo National Park entry permit, around NPR 3,000 for foreigners, and most agencies also obtain the Lower Dolpo restricted area permit, around US$ 20 per week. A licensed guide and registered agency are required. Upper Dolpo needs a separate, costlier permit. Check current status before you travel."},
+    {"q": "When is the best time to visit Phoksundo?", "a": "May–June and September–October are best. Dolpo lies partly in a rain shadow, so June to August is drier than most of Nepal, but flights to Juphal can still be disrupted. Winter from December to February is very cold, with snow on passes, and many Ringmo residents move to lower villages."},
+    {"q": "Is the Shey Phoksundo trek difficult?", "a": "It is moderate. Daily walking is 5–7 hours with ascents of 400–700 m and a maximum altitude around 3,800 m on the ridge above the lake. Facilities are basic and remote, so good fitness, some trekking experience and patience with delays matter more than technical skill."},
+    {"q": "Can Indians trek to Shey Phoksundo Lake?", "a": "Yes. Indian nationals need the national park entry permit at the SAARC rate, the Lower Dolpo restricted area permit and a licensed guide through a registered agency, the same process as other foreigners. Bring a passport or voter ID and passport photos. Check current status before you travel."},
+    {"q": "Are there lodges at Phoksundo Lake?", "a": "Yes, Ringmo has a few simple family lodges and campsites with basic rooms, shared toilets and limited menus. There are no hotels. Many agencies camp, providing tents, a cook and a dining tent. Lodge capacity is small, so in peak months it is wise to carry tents or book ahead."},
+    {"q": "Can I see snow leopards at Shey Phoksundo?", "a": "Snow leopards live in Shey Phoksundo National Park, but sightings on a normal trek are very rare. They move at dawn and dusk on remote cliffs. Blue sheep, their main prey, are common and easy to see. Dedicated winter wildlife trips to Upper Dolpo have better chances."}
+  ]
+}

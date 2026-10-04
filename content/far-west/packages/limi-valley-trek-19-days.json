@@ -1,0 +1,99 @@
+{
+  "slug": "limi-valley-trek-19-days",
+  "title": "Limi Valley Trek 19 Days",
+  "region": "far-west",
+  "type": "trek",
+  "grade": "Strenuous",
+  "nights": 18,
+  "themes": ["trekking", "cultural-tours", "photography", "buddhist-circuit"],
+  "stops": [{"place": "nepalgunj", "nights": 1}, {"place": "simikot", "nights": 2}, {"place": "limi-valley", "nights": 4}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 330000,
+  "price_from_usd": 3880,
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 2, 0, 0],
+  "max_altitude_m": 4949,
+  "accommodation": "Hotel in Nepalgunj, simple lodge in Simikot, full-service camping on the trek",
+  "transport": "Flights Kathmandu–Nepalgunj–Simikot and return, mules for camp loads",
+  "group": "Small group or private, minimum 2 (restricted area rule)",
+  "meta_description": "Limi Valley trek, 19 days: Simikot, the Karnali salt trail, Nara La, Hilsa, Til, Halji's Rinchenling Gompa, Jang and Nyalu La. Camping, permits, flights.",
+  "summary": "A fully supported camping trek through Upper Humla to the Limi Valley, a Tibetan Buddhist enclave on the border. Follow the old salt trail up the Karnali from Simikot, cross Nara La to Hilsa, visit Til, Halji and Jang, and return over Nyalu La at about 4,950 m. For experienced trekkers.",
+  "intro": [
+    "Limi is one of the most isolated inhabited valleys in Nepal. Its three villages, Til, Halji and Jang, sit between about 3,660 and 4,100 m near the Tibet border, built of stone with flat roofs piled with firewood, and their people follow Tibetan Buddhism and a way of life tied more to the plateau than to Kathmandu. Halji's Rinchenling Gompa, often said to be around 800 years old or more, is the spiritual heart of the valley.",
+    "This loop starts and ends in Simikot. It follows the Humla Karnali north on the salt-trade trail through Kermi's hot springs and Yalbang's monastery, crosses Nara La at about 4,620 m to Hilsa on the border, and enters Limi through the Karnali gorge. The return crosses Nyalu La, about 4,950 m, then the Langdogd pass, about 4,550 m, before dropping back to Simikot. It is a camping trek with mules, a cook and crew, under Humla's restricted area rules."
+  ],
+  "highlights": [
+    "Old salt-trade trail up the Humla Karnali from Simikot",
+    "Kermi hot springs and Namkha Khyung Dzong monastery at Yalbang",
+    "Nara La at about 4,620 m and the border post at Hilsa",
+    "Til, Halji and Jang, Tibetan villages of the Limi Valley",
+    "Rinchenling Gompa in Halji, centuries old and still active",
+    "Nyalu La at about 4,950 m with views of Saipal and the plateau"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly Kathmandu to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "≈ 10 km · 20 min", "flight": "Kathmandu–Nepalgunj · ≈ 1 h", "text": "Afternoon flight to Nepalgunj. Meet your trek leader at the hotel for a detailed briefing and gear check: sleeping bag rated to −15 °C, down jacket, sturdy boots, microspikes if late season. Repack to the 15 kg limit for the Simikot flight; the rest stays at the hotel. Restricted area permits, issued in Kathmandu, are checked against passports.", "meals": "D"},
+    {"day": 2, "title": "Fly to Simikot, acclimatisation walk", "place": "simikot", "overnight": "Simikot", "altitude_m": 2910, "max_m": 3150, "walk": "≈ 2 h · 4 km", "drive": "", "flight": "Nepalgunj–Simikot · ≈ 40–50 min", "text": "Early Twin Otter or Dornier flight north to Simikot, the roadless headquarters of Humla at 2,910 m. After tea, the crew organises mules and loads while you rest. In the afternoon, walk slowly to the ridge above town, gaining 200–300 m for acclimatisation, with views down the Humla Karnali. Overnight in a simple lodge.", "meals": "B, L, D"},
+    {"day": 3, "title": "Simikot to Dharapori", "place": "", "overnight": "Dharapori (camp)", "altitude_m": 2300, "max_m": 3000, "walk": "≈ 4–5 h · 11 km", "drive": "", "flight": "", "text": "Climb briefly out of Simikot to a ridge at about 3,000 m, then descend steeply through pine forest to the Humla Karnali and follow it upstream to Dharapori at about 2,300 m. The trail is the old salt route to Tibet, and you share it with mule trains carrying rice north and Chinese goods south. Camp near the river among walnut trees and fields.", "meals": "B, L, D"},
+    {"day": 4, "title": "Dharapori to Kermi hot springs", "place": "", "overnight": "Kermi (camp)", "altitude_m": 2670, "max_m": 2670, "walk": "≈ 4–5 h · 10 km", "drive": "", "flight": "", "text": "Continue up the Karnali through terraced fields and forest to Kermi, the first Buddhist village on the route, at about 2,670 m. Prayer flags and mani walls mark the change of culture. In the afternoon, walk to the natural hot springs a short distance from the village for a soak, then visit one of the small monasteries nearby.", "meals": "B, L, D"},
+    {"day": 5, "title": "Kermi to Yalbang", "place": "", "overnight": "Yalbang (camp)", "altitude_m": 3020, "max_m": 3020, "walk": "≈ 5–6 h · 13 km", "drive": "", "flight": "", "text": "Cross a small pass and walk through pine forest and barley fields above the river, then descend to cross the Karnali on a suspension bridge before climbing to Yalbang at about 3,020 m. Visit Namkha Khyung Dzong, the large monastery above the village, home to monks and a school for local children. Evening prayers are often open to respectful visitors.", "meals": "B, L, D"},
+    {"day": 6, "title": "Yalbang to Tumkot", "place": "", "overnight": "Tumkot (camp)", "altitude_m": 3380, "max_m": 3380, "walk": "≈ 6 h · 14 km", "drive": "", "flight": "", "text": "The valley narrows and the trail climbs along cliffs above the river, sometimes on rock-cut sections. Pass the village of Yangar and continue to Tumkot at about 3,380 m, below a hilltop monastery of the Sakya tradition. The landscape grows drier and more Tibetan in character as forest thins. Camp on terraces near the village.", "meals": "B, L, D"},
+    {"day": 7, "title": "Tumkot via Yari to Thado Dhunga", "place": "", "overnight": "Thado Dhunga (camp)", "altitude_m": 4000, "max_m": 4000, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Climb through Yari, a village of about 3,700 m and the last permanent settlement before the pass, where a rough road from the border now arrives. Continue up a barren valley to the camp at Thado Dhunga, about 4,000 m, below Nara La. It is a significant gain in sleeping altitude, so walk slowly, drink well and report any headache to your leader.", "meals": "B, L, D"},
+    {"day": 8, "title": "Cross Nara La to Hilsa", "place": "", "overnight": "Hilsa (camp)", "altitude_m": 3700, "max_m": 4620, "walk": "≈ 6–7 h · 14 km", "drive": "", "flight": "", "text": "An early start for the climb to Nara La, about 4,620 m, hung with prayer flags, with views north to the brown hills of Tibet and, on clear days, the snow ranges of western Tibet. A long, steep descent on switchbacks leads to Hilsa at about 3,700 m, the border post where the Karnali enters Nepal from Tibet and Kailash pilgrims cross the bridge to Purang.", "meals": "B, L, D"},
+    {"day": 9, "title": "Hilsa to Manepeme on the gorge path", "place": "", "overnight": "Manepeme (camp)", "altitude_m": 3990, "max_m": 3990, "walk": "≈ 5–6 h · 11 km", "drive": "", "flight": "", "text": "Leave the Kailash route and head west into the Karnali gorge on a trail cut into cliffs high above the river, exposed in places with long drops. Follow the leader closely and keep to the inside of the path. The camp at Manepeme, about 3,990 m, sits on a shelf above the gorge with a mani wall and wide views up and down the Karnali.", "meals": "B, L, D"},
+    {"day": 10, "title": "Manepeme to Til village", "place": "limi-valley", "overnight": "Til (camp)", "altitude_m": 4100, "max_m": 4300, "walk": "≈ 6–7 h · 13 km", "drive": "", "flight": "", "text": "A high traverse over open slopes and a ridge crossing brings you into the Limi Valley. Blue sheep are often seen on the hillsides. Descend to Til, the smallest and highest of Limi's three villages at about 4,100 m, with stone houses clustered below a small gompa and fields of barley and peas. Villagers may invite you for butter tea.", "meals": "B, L, D"},
+    {"day": 11, "title": "Til to Halji and Rinchenling Gompa", "place": "limi-valley", "overnight": "Halji (camp or homestay)", "altitude_m": 3660, "max_m": 4100, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "A short walk down-valley to Halji, the largest village in Limi at about 3,660 m, built tightly around Rinchenling Gompa. In the afternoon, a caretaker or monk opens the assembly hall with its statues, thangkas and smoke-darkened murals. Walk the kora around the gompa and chortens and look at the stacked firewood on the roofs, a measure of each family's wealth.", "meals": "B, L, D"},
+    {"day": 12, "title": "Halji to Jang and the hot springs", "place": "limi-valley", "overnight": "Jang (camp)", "altitude_m": 3930, "max_m": 3930, "walk": "≈ 4 h · 9 km", "drive": "", "flight": "", "text": "Follow the Limi river upstream past fields and pastures to Jang at about 3,930 m, the third Limi village, with its own gompa and a strong herding tradition. Continue to camp near the Chagzur hot springs, where you can bathe in the natural pools. The valley above Jang leads towards remote pastures where kiang and wild yak are sometimes seen.", "meals": "B, L, D"},
+    {"day": 13, "title": "Rest day at Jang and Chagzur", "place": "limi-valley", "overnight": "Jang (camp)", "altitude_m": 3930, "max_m": 4200, "walk": "≈ 2–3 h optional", "drive": "", "flight": "", "text": "A rest and acclimatisation day before the high crossing. Soak in the hot springs, wash clothes, or take a short hike above camp to scan the slopes for blue sheep and lammergeiers. This day also serves as a weather buffer: if the forecast for Nyalu La is poor, we wait here rather than at the higher camp.", "meals": "B, L, D"},
+    {"day": 14, "title": "Jang to Nyalu La high camp", "place": "", "overnight": "Talung, Nyalu base (camp)", "altitude_m": 4350, "max_m": 4350, "walk": "≈ 6–7 h · 13 km", "drive": "", "flight": "", "text": "Leave the villages behind and climb the Talung valley through high pasture to the base camp below Nyalu La at about 4,350 m. The country is wild and empty, with views of glaciated peaks ahead. It is a cold camp; eat well, drink plenty and get to bed early for a pre-dawn start.", "meals": "B, L, D"},
+    {"day": 15, "title": "Cross Nyalu La to Shinjungma", "place": "", "overnight": "Shinjungma (camp)", "altitude_m": 3620, "max_m": 4949, "walk": "≈ 8–9 h · 16 km", "drive": "", "flight": "", "text": "The hardest day. Climb by headtorch over scree and moraine to Nyalu La, about 4,950 m, the high point of the trek, with views of Saipal to the south and Tibet to the north, and a lake lying below the pass. After a short stop, descend steeply and then steadily for well over 1,000 m to the camp at Shinjungma, about 3,620 m, in a grassy valley.", "meals": "B, L, D"},
+    {"day": 16, "title": "Shinjungma to Langdogd base", "place": "", "overnight": "Below Langdogd pass (camp)", "altitude_m": 4160, "max_m": 4160, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Climb out of the valley past herders' summer camps around Ding towards the base of the Langdogd pass at about 4,160 m. The day is shorter, allowing recovery after Nyalu La. Watch for marmots and griffon vultures, and enjoy a final night high in the mountains of Upper Humla.", "meals": "B, L, D"},
+    {"day": 17, "title": "Over Langdogd pass to Lekh Dinga", "place": "", "overnight": "Lekh Dinga (camp)", "altitude_m": 3890, "max_m": 4550, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Cross the Langdogd pass at about 4,550 m, the last high crossing, with views back over the ranges you have walked through. Descend through alpine meadow to the camp at Lekh Dinga, about 3,890 m, a pasture with juniper and the first forests of the return journey.", "meals": "B, L, D"},
+    {"day": 18, "title": "Lekh Dinga down to Simikot", "place": "simikot", "overnight": "Simikot", "altitude_m": 2910, "max_m": 3890, "walk": "≈ 6–7 h · 15 km", "drive": "", "flight": "", "text": "A long descent through forest and villages back to Simikot, losing nearly 1,000 m. Arrive in the afternoon to a lodge bed and a hot bucket shower. Settle with the mule team and crew, and celebrate the end of the trek with a farewell dinner.", "meals": "B, L, D"},
+    {"day": 19, "title": "Fly Simikot–Nepalgunj–Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2910, "walk": "", "drive": "≈ 10 km · 30 min", "flight": "Simikot–Nepalgunj · ≈ 45 min; Nepalgunj–Kathmandu · ≈ 1 h", "text": "Morning flight to Nepalgunj, collect stored bags and connect to Kathmandu, arriving in the afternoon. Simikot flights are often delayed, so we strongly advise keeping at least two days free before any international flight; if the flight is cancelled, we wait in Simikot and fly the next day.", "meals": "B"}
+  ],
+  "stays": ["siddhartha-hotel-nepalgunj"],
+  "includes": [
+    "1 night at Siddhartha Hotel Nepalgunj with breakfast and dinner",
+    "Flights Kathmandu–Nepalgunj–Simikot and return",
+    "2 nights in a simple Simikot lodge and 15 nights full-service camping",
+    "All meals from day 2 to breakfast on day 19",
+    "Licensed trek leader, cook, kitchen crew, mule team and handlers",
+    "Humla restricted area permit and TIMS card",
+    "Sleeping, dining, kitchen and toilet tents, mattresses",
+    "First-aid kit, pulse oximeter and satellite communication with the leader",
+    "Airport transfers in Kathmandu and Nepalgunj"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Hotels in Kathmandu",
+    "Sleeping bag, down jacket and personal gear",
+    "Helicopter evacuation and extra nights from flight delays",
+    "Excess baggage on mountain flights",
+    "Drinks, snacks and gompa donations",
+    "Tips for leader, crew and mule handlers",
+    "Travel and rescue insurance covering up to 5,000 m"
+  ],
+  "good_to_know": [
+    "Price assumes a private group of two sharing tents and flights; groups of four to eight pay noticeably less per person.",
+    "The Humla restricted area permit has been US$50 per person for the first 7 days and US$10 per extra day, with a minimum of two trekkers and a licensed guide; check current status before you travel.",
+    "This is a strenuous trek with passes at about 4,620 m, 4,950 m and 4,550 m; previous high-altitude trekking is strongly recommended.",
+    "Days of 5–9 hours with climbs up to about 950 m; know the signs of altitude sickness and descend if symptoms worsen.",
+    "Simikot flights are often delayed; keep at least two spare days before international departures."
+  ],
+  "add_ons": [
+    {"name": "Helicopter Simikot–Hilsa to shorten the trek by four days", "price": "≈ US$ 2,500–3,200 per helicopter"},
+    {"name": "Extra contingency day in Simikot with full crew", "price": "≈ US$ 120 per person"},
+    {"name": "Sleeping bag and down jacket hire", "price": "≈ US$ 50 per trip"}
+  ],
+  "faqs": [
+    {"q": "How hard is the Limi Valley trek?", "a": "It is strenuous. You camp for over two weeks, walk 5–9 hours on many days and cross three passes between about 4,550 and 4,950 m. Trails include exposed cliff sections in the Karnali gorge. It suits fit trekkers with previous high-altitude experience who are comfortable with basic camp life."},
+    {"q": "What permits do I need for the Limi Valley?", "a": "A Humla restricted area permit, issued through a registered agency, plus a TIMS card. You must trek with a licensed guide and in a group of at least two. The permit has cost US$50 for the first seven days and US$10 per day after. We arrange everything; check current status before you travel."},
+    {"q": "How much does the Limi Valley trek cost?", "a": "This 19-day trek starts from about US$3,880 or ₹3,30,000 per person for two people, including flights, permits, full camping crew, mules and meals. Larger groups pay less per person. Helicopter shortcuts, extra contingency days and Kathmandu hotels are additional."},
+    {"q": "When is the best time to trek the Limi Valley?", "a": "May to June and September to October. Humla lies in a rain shadow, so July and August are possible with lighter rain than central Nepal, though Simikot flights may be disrupted. From November to April, snow closes Nyalu La and Nara La and the trek is not feasible."},
+    {"q": "Is there accommodation in Limi villages?", "a": "There are no trekking lodges. Some families in Halji and Jang may offer homestay rooms or space in a courtyard, but the trek is run as a full camping trip with tents, cook and mules. This independence is essential in such a remote area, where supplies are scarce."},
+    {"q": "Can I visit Kailash on the same trip?", "a": "The route passes Hilsa, the border crossing for Kailash, but entering Tibet requires separate Chinese permits arranged in advance and changes the itinerary significantly. Combined Kailash and Limi trips are possible for some nationalities in some years. Rules change; check current status before you travel."},
+    {"q": "How high is the Limi Valley trek?", "a": "The highest point is Nyalu La at about 4,950 m. Nara La is about 4,620 m and Langdogd about 4,550 m. You sleep as high as about 4,350 m at the Nyalu base camp. The itinerary gains height gradually from Simikot, with a rest day at Jang before the highest crossing."},
+    {"q": "What wildlife can I see on the Limi trek?", "a": "Blue sheep are seen regularly, and Tibetan wild ass and wild yak live in remote valleys towards the border. Marmots, red fox, lammergeiers and griffon vultures are common. Snow leopards live here but are very rarely seen by trekkers. Bring binoculars."},
+    {"q": "What happens in an emergency on the Limi trek?", "a": "Our leader carries a satellite communication device, first-aid kit and pulse oximeter, and the crew is trained to manage altitude problems by descending. Serious cases need helicopter evacuation, which depends on weather and must be covered by your insurance. Insurance with rescue cover up to 5,000 m is mandatory."}
+  ]
+}

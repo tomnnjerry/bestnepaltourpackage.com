@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "koshi-camp",
+    "name": "Koshi Camp",
+    "place": "koshi-tappu",
+    "kind": "tented camp",
+    "class": "Standard",
+    "wiki": "",
+    "image_query": "Koshi Camp tents Koshi Tappu",
+    "summary": "A long-running birders' tented camp in Madhuban village on the eastern edge of Koshi Tappu Wildlife Reserve, about 7 km off the East–West Highway, with walk-in safari tents, its own pond and bird hide, and naturalist-led walks and river trips.",
+    "body": [
+      "Koshi Camp has been a base for birdwatching groups visiting Koshi Tappu for many years, and it appears in the itineraries of several international nature tour operators. It sits in Madhuban, a farming village on the eastern side of the reserve, about 7 km from the highway, close to the embankment walks and a short drive from the river put-ins. Accommodation is in walk-in safari tents on raised platforms, with a central dining tent and bar serving Nepali and international food on full board.",
+      "What makes the camp useful is its focus. Staff naturalists know the reserve's birds and calls, and the camp's own pond and hide let you watch birds between outings without leaving the grounds. Days follow a birders' rhythm: dawn walks on the embankment, a river float or a drive to the Koshi Barrage, an afternoon rest in the heat and a second outing towards dusk. Facilities are simple rather than luxurious, and power can be limited, so bring a torch and a power bank."
+    ],
+    "why": [
+      "On the reserve edge, close to the best embankment birding",
+      "Own pond and hide for birding between outings",
+      "Naturalist guides used to international birding groups"
+    ],
+    "best_for": ["photographers", "couples", "solo", "seniors"],
+    "website": "",
+    "faqs": [
+      {"q": "When is Koshi Camp open?", "a": "The camp operates mainly in the dry season, roughly October to April, which is also the birding season. It may close or offer limited service in the hot, flood-prone monsoon months. Check current status before you travel."},
+      {"q": "Are meals included at Koshi Camp?", "a": "Stays are normally booked on a full-board basis with naturalist-led activities, because there are few other places to eat nearby. Our Koshi Tappu package includes all meals at the camp."},
+      {"q": "How far is Koshi Camp from Biratnagar airport?", "a": "About 1.5–2 hours by road via Itahari and the East–West Highway, then a short drive on village roads to Madhuban. We arrange the transfer with your package."}
+    ]
+  },
+  {
+    "slug": "aqua-birds-unlimited-camp",
+    "name": "Aqua Birds Unlimited Camp",
+    "place": "koshi-tappu",
+    "kind": "tented camp",
+    "class": "Standard",
+    "wiki": "",
+    "image_query": "Aqua Birds Unlimited Camp Koshi Tappu",
+    "summary": "An eco-camp on about 10 acres of private wetland on the border of Koshi Tappu Wildlife Reserve, with tented rooms, ponds that draw waterbirds right into the grounds and guided birding, river and village walks around the reserve.",
+    "body": [
+      "Aqua Birds Unlimited Camp sits on its own patch of wetland on the edge of Koshi Tappu, roughly 10 acres of ponds, reeds and trees that attract birds into the grounds. Guests stay in tented rooms around the property, and meals are served in a central dining area. The camp presents itself as an eco-lodge and has promoted its environmental certification, and it is set up primarily for nature lovers rather than for resort-style holidays.",
+      "Most guests come for guided birding. From the camp you can walk to the reserve boundary and the embankment, take a float on the Koshi with the chance of dolphins, visit the Koshi Barrage for gulls and terns, or explore nearby Tharu and Maithil villages. Because the camp's own wetland is productive, quieter moments between outings are rarely wasted. Comfort is simple: expect a clean tent room, basic bathroom facilities and generator or limited power at times."
+    ],
+    "why": [
+      "Private wetland on the reserve border, with birds in the grounds",
+      "Easy access to embankment walks, river trips and the barrage",
+      "Small, nature-focused camp rather than a busy resort"
+    ],
+    "best_for": ["photographers", "families", "solo", "couples"],
+    "website": "",
+    "faqs": [
+      {"q": "Is Aqua Birds Unlimited Camp inside Koshi Tappu?", "a": "It is on private land on the border of the reserve, not inside it. Entry to the reserve itself requires a permit, which we arrange as part of your safari."},
+      {"q": "Is Aqua Birds Unlimited Camp suitable for children?", "a": "Yes, for families who enjoy nature. The grounds are flat and the ponds keep children busy spotting birds. Supervise young children near open water."},
+      {"q": "What is the best season to stay at Aqua Birds Unlimited Camp?", "a": "November to March, when migratory waterbirds are present and temperatures are comfortable. April becomes hot, and the monsoon months bring flooding and fewer birds."}
+    ]
+  }
+]

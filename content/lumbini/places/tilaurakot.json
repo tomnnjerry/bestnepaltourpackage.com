@@ -1,0 +1,131 @@
+{
+  "slug": "tilaurakot",
+  "name": "Tilaurakot (Kapilavastu)",
+  "region": "lumbini",
+  "kind": "heritage site",
+  "wiki": "Tilaurakot",
+  "image_query": "Tilaurakot Kapilavastu ruins eastern gate",
+  "lat": 27.5772,
+  "lng": 83.0546,
+  "altitude_m": 110,
+  "tagline": "Ruined Shakya capital where Prince Siddhartha grew up",
+  "meta_description": "Tilaurakot (Kapilavastu) guide: the walled Shakya city where Siddhartha lived for 29 years, the eastern gate, Kapilvastu Museum, timings and how to reach from Lumbini.",
+  "summary": "Tilaurakot, 27 km west of Lumbini near Taulihawa, is the excavated walled city that Nepal and many archaeologists identify as Kapilavastu, capital of the Shakya clan. Prince Siddhartha is said to have lived here for 29 years before leaving through the eastern gate. Brick walls, gateways, a moat and a small museum survive.",
+  "intro": [
+    "Tilaurakot lies in Kapilvastu district on the bank of the Banganga river, about 3 km north of the district town of Taulihawa and 27 km west of Lumbini. The site is a low rectangular mound, roughly 500 m by 400 m, enclosed by the remains of a brick wall and an outer moat. Excavations since the 1960s have exposed gateways, house foundations, wells and roadways, along with painted grey ware and northern black polished ware pottery that place the settlement in the centuries before and during the Buddha's lifetime.",
+    "Buddhist texts describe Kapilavastu as the city of King Suddhodana, Siddhartha's father, where the prince lived in luxury until the age of 29. According to the story, he rode out of the eastern gate at night on his horse Kanthaka to begin his search for an answer to suffering. The eastern gateway at Tilaurakot is the most visited spot on the site for this reason. Whether Kapilavastu was here or at Piprahwa just across the border in India is still debated; Tilaurakot sits on UNESCO's tentative list as part of the wider Lumbini landscape.",
+    "A visit takes about two hours, plus 30–45 minutes for the Kapilvastu Museum, which displays coins, pottery, terracotta toys and jewellery from the excavations. The site is quiet, shaded by old trees and often almost empty, which makes it one of the most reflective stops on the Buddhist circuit. Combine it in a half-day with Kudan and the Ashoka pillar at Niglihawa, all within 10 km."
+  ],
+  "facts": [
+    ["Altitude", "110 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "0 (day trip from Lumbini)"],
+    ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 50 km)"],
+    ["From Kathmandu", "Fly to Bhairahawa, then ≈ 50 km · 1.5 h by car"],
+    ["Known for", "Shakya city walls, eastern gate of the Great Departure, Kapilvastu Museum"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The eastern gate", "text": "Brick foundations of the eastern gateway mark the spot where, by tradition, Siddhartha left the palace for good. Pilgrim groups often stop here to chant, and the low walls let you picture the old road heading out towards the river."},
+    {"title": "City walls and moat", "text": "The fortification wall can be traced around much of the mound, with the line of the moat still visible as a depression outside it. Walking the perimeter takes about 30 minutes and shows the scale of a city that held a royal court."},
+    {"title": "Twin stupas outside the walls", "text": "Just outside the city, two brick stupa mounds are traditionally linked to King Suddhodana and Queen Maya Devi. They sit in fields and are best visited with a guide who knows the short path between them."},
+    {"title": "Kapilvastu Museum", "text": "The small museum at the site entrance holds finds from Tilaurakot and nearby mounds: punch-marked and cast coins, grey and black pottery, beads, terracotta figurines and toys. Labels are brief, so a guide helps place the objects in time."},
+    {"title": "Samai Mai shrine", "text": "Within the ruins a small active Hindu shrine is visited by local villagers, who leave terracotta elephants and horses as offerings. It shows how the site has remained sacred to the people around it long after the city fell."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini, drive west on the Lumbini–Taulihawa road, ≈ 27 km · 45 min–1 h. From Bhairahawa it is ≈ 50 km · 1.5 h. Local buses run to Taulihawa, from where autos and rickshaws cover the last 3 km. Most visitors come by private car as part of a half-day Kapilavastu circuit."},
+    {"mode": "Air", "text": "Fly Kathmandu to Gautam Buddha International Airport in Bhairahawa in about 35 minutes, then drive about 1.5 hours west. Most travellers base themselves in Lumbini and visit Tilaurakot as a day trip."},
+    {"mode": "Road", "text": "From India, the Krishnanagar–Barhni border crossing south of Taulihawa is the closest point, but foreign nationals should use Sonauli–Belahiya, which has full immigration facilities. From Sonauli it is ≈ 75 km · 2 h to Tilaurakot via Bhairahawa and Lumbini."}
+  ],
+  "where_to_stay": "There are no hotels at Tilaurakot itself and only very basic lodges in Taulihawa, 3 km south, used mainly by business travellers. We do not recommend staying overnight here. Instead, base yourself in Lumbini, 45 minutes away, at Buddha Maya Gardens or Lumbini Hokke Hotel, and visit Tilaurakot as part of a half-day or full-day Kapilavastu circuit with Kudan and Niglihawa. Groups arriving from the west can also stay in Bhairahawa at Hotel Nirvana, about 1.5 hours away by road.",
+  "stays": [],
+  "tips": [
+    "Combine Tilaurakot with Kudan and Niglihawa in one half-day; all three lie within about 10 km of Taulihawa.",
+    "Visit the museum first so the coins and pottery make sense when you walk the ruins.",
+    "Carry water and snacks, since there are only small tea stalls near the entrance.",
+    "Bring mosquito repellent from April to October, as the site is surrounded by fields and the Banganga river.",
+    "Keep your entry ticket, as the museum and the ruins are sometimes checked separately."
+  ],
+  "themes": ["pilgrimage", "buddhist-circuit", "cultural-tours", "photography"],
+  "nearby": ["kudan", "niglihawa", "lumbini"],
+  "experiences": [
+    {
+      "slug": "tilaurakot-eastern-gate-ruins-walk",
+      "title": "Kapilavastu ruins and the eastern gate",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Included in our Buddhist circuit packages",
+      "image_query": "Tilaurakot ruins eastern gate",
+      "wiki": "",
+      "summary": "A guided two-hour walk around the brick walls, gateways and house foundations of ancient Kapilavastu, pausing at the eastern gate where Siddhartha is said to have left his father's palace at the age of 29.",
+      "body": [
+        "We enter from the western side near the museum and walk the main excavated area, where low brick walls show the plan of houses, a well and part of the inner roadway. Your guide explains the stages of excavation, from early Nepalese surveys to more recent joint projects, and what the layers of pottery tell us about when the city flourished.",
+        "The walk then follows the line of the fortifications to the eastern gate. Here the story of the Great Departure is told: the four sights of old age, sickness, death and a wandering monk, the sleeping palace, and the horse Kanthaka carrying the prince across the river. Many pilgrim groups pause for chanting or silent sitting under the trees near the gate.",
+        "Finally we visit the twin stupas outside the walls, linked by tradition to the Buddha's parents. The site is flat but the paths are rough earth, so wear closed shoes. Morning light is best for photographs, and winter mornings are often quiet enough to hear only birds and wind in the trees."
+      ],
+      "good_for": ["pilgrims", "seniors", "photographers", "families"],
+      "faqs": [
+        {"q": "Is Tilaurakot the real Kapilavastu?", "a": "Nepal identifies Tilaurakot as ancient Kapilavastu, and excavations show a fortified city occupied in the Buddha's era. Indian archaeologists point instead to Piprahwa in Uttar Pradesh, where a relic casket inscription was found. The question is unresolved, and many pilgrims visit both. Tilaurakot's walls and eastern gate make it the more vivid site to walk."},
+        {"q": "How long do we need at Tilaurakot?", "a": "Allow about two hours for the ruins and twin stupas, plus 30–45 minutes for the Kapilvastu Museum. With Kudan and Niglihawa added, the Kapilavastu circuit fills a comfortable half-day from Lumbini, or a full day at a gentle pace with lunch in Taulihawa."},
+        {"q": "Is there an entry fee for Tilaurakot?", "a": "Yes, a modest entry fee is charged by the site authorities, with separate rates for Nepali, SAARC and other foreign visitors, and the museum may charge separately. Fees are revised from time to time, so check current status before you travel. Our circuit packages include entry fees."}
+      ]
+    },
+    {
+      "slug": "kapilvastu-museum-visit",
+      "title": "Kapilvastu Museum and Shakya-era finds",
+      "kind": "culture",
+      "duration": "45 minutes",
+      "best_time": "Late morning, all year (closed on public holidays)",
+      "price_hint": "Small entry fee",
+      "image_query": "Kapilvastu Museum Tilaurakot",
+      "wiki": "",
+      "summary": "A short, focused visit to the museum at the Tilaurakot entrance, where coins, pottery, beads, terracotta toys and figurines from the Kapilavastu excavations help date the city and bring daily Shakya life into view.",
+      "body": [
+        "The Kapilvastu Museum is a single-storey building by the Tilaurakot entrance. Its cases hold objects found at Tilaurakot and nearby mounds across the district: punch-marked silver coins and later cast copper coins, bowls of painted grey ware and the glossy northern black polished ware associated with the Buddha's era, terracotta animals and toys, bangles, beads and household tools.",
+        "These finds give a picture of a working town with trade, crafts and children's games, rather than only a palace. Your guide links the objects to the timeline of the site, from early settlement through the Maurya and Kushan periods, and to the debate over Kapilavastu's location.",
+        "Labels are short and lighting is basic, so the visit takes 30–45 minutes. Photography rules vary; ask the attendant before taking pictures. The museum observes government holidays and may close at lunchtime, so we plan it around the opening hours on the day."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "groups"],
+      "faqs": [
+        {"q": "What can we see in the Kapilvastu Museum?", "a": "The museum shows coins, pottery, beads, terracotta toys and figurines, bangles and tools excavated at Tilaurakot and nearby sites. Highlights are the punch-marked coins and the northern black polished ware, which help date the city to the Buddha's lifetime. It is small and takes under an hour."},
+        {"q": "Is the museum open every day?", "a": "It is generally open daily except on certain government holidays, with a possible lunchtime closure. Hours can change with the season and local staffing, so check current status before you travel. We confirm opening times on the morning of your visit."},
+        {"q": "Is the museum suitable for children?", "a": "Yes, for a short visit. The terracotta animals and toys made by children over two thousand years ago tend to interest young visitors, and the visit takes less than an hour. Pair it with the open-air ruins outside, where children can walk the old walls."}
+      ]
+    },
+    {
+      "slug": "tilaurakot-banganga-riverside-evening",
+      "title": "Banganga riverside evening at Tilaurakot",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Nov–Feb",
+      "price_hint": "",
+      "image_query": "Banganga river Kapilvastu Nepal",
+      "wiki": "",
+      "summary": "A quiet late-afternoon walk from the Tilaurakot ruins to the Banganga river and through surrounding fields, watching farm life, egrets and the low winter sun, a counterpoint to the busier sites of Lumbini.",
+      "body": [
+        "The Banganga flows past the western edge of Tilaurakot, and in the dry winter months it shrinks to a broad, shallow stream between sandbanks. From the ruins, a field path leads down to the bank in about 15 minutes. Villagers bring buffalo to drink and wash clothes on the stones, and egrets and pond herons work the shallows.",
+        "We walk back along field edges planted with mustard, wheat or lentils depending on the season, past small mango groves and mud-and-brick farmhouses. It is a simple outing, but it shows the landscape in which the Shakya city grew, and late light on the yellow mustard in January is good for photographs.",
+        "The walk is flat and about 3 km in total. Avoid it in the monsoon, when the river rises and the field paths turn to mud. Carry mosquito repellent in the evening and respect private fields by staying on the bunds."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can we swim in the Banganga at Tilaurakot?", "a": "We do not recommend it. The river is shallow and muddy in winter and fast and silty in the monsoon, and it is used by villagers for washing and by livestock. Enjoy it from the bank instead, ideally in the late afternoon when the light is soft."},
+        {"q": "Is it safe to walk around Tilaurakot in the evening?", "a": "Yes, the area is rural and calm, and villagers are friendly to visitors. Return to the car before dark, since there is no lighting on field paths. Our driver waits at the site entrance, and the drive back to Lumbini takes 45 minutes to an hour."},
+        {"q": "What crops will we see around Tilaurakot?", "a": "From December to February the fields are green with wheat and yellow with mustard, with lentils in some plots. Rice is planted with the monsoon in June and July and harvested in October and November. Mango groves are common, fruiting in May and June."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Tilaurakot from Lumbini?", "a": "About 27 km west, which takes 45 minutes to an hour by car on the Lumbini–Taulihawa road. Most visitors make it a half-day trip from Lumbini, combined with Kudan and the Ashoka pillar at Niglihawa. Local buses also run to Taulihawa, with autos for the last 3 km."},
+    {"q": "Why is Tilaurakot important to Buddhists?", "a": "Tilaurakot is identified by Nepal as Kapilavastu, the capital of the Shakya kingdom ruled by King Suddhodana. Buddhist tradition says Prince Siddhartha lived here until the age of 29 and left through the eastern gate to seek enlightenment. For pilgrims it completes the story that begins with his birth at Lumbini."},
+    {"q": "What is the difference between Kapilavastu and Kapilvastu?", "a": "Kapilavastu is the ancient Shakya capital known from Buddhist texts. Kapilvastu, spelled without the middle a, is the modern district in Nepal, with its headquarters at Taulihawa, and also the name of the municipality. Tilaurakot is the archaeological site inside Kapilvastu district that Nepal identifies as ancient Kapilavastu."},
+    {"q": "Is Tilaurakot a UNESCO World Heritage Site?", "a": "Not yet. Lumbini itself has been a World Heritage Site since 1997. Tilaurakot has been on Nepal's tentative list for UNESCO since 1996, often discussed together with Ramagrama as an extension of the Lumbini property. Its status can change, so check current status before you travel."},
+    {"q": "When is the best time to visit Tilaurakot?", "a": "October to March brings dry weather and temperatures of 15–28 °C, ideal for walking the open site. Mornings in December and January can be foggy until 10 am. April to June is very hot, often above 38 °C, and the monsoon from June to September makes paths muddy and brings mosquitoes."},
+    {"q": "Can I see Tilaurakot and Lumbini in one day?", "a": "Yes. Visit the Sacred Garden in Lumbini at opening time, drive to Tilaurakot by late morning, and add Kudan and Niglihawa before returning to Lumbini for the late-afternoon monasteries. It is a full day but manageable by private car, with about 70 km of driving in total."},
+    {"q": "Are there toilets and food at Tilaurakot?", "a": "Basic toilets are available near the museum and entrance, and small tea stalls sell drinks and biscuits. For a proper meal, eat in Taulihawa town, 3 km away, or return to Lumbini. We usually carry packed snacks and water in the car on Kapilavastu days."},
+    {"q": "Is Tilaurakot suitable for elderly pilgrims?", "a": "Yes. The site is flat, though the paths are uneven earth and there is no wheelchair route. Seniors can see the eastern gate and the main excavated area in about an hour with rests in the shade. Bring a folding stick or seat if walking long distances is difficult."},
+    {"q": "Which other Kapilavastu sites can I visit nearby?", "a": "Kudan, about 4 km south of Taulihawa, is linked to the Buddha's return to meet his father. Niglihawa, 7 km north-east of Taulihawa, has Ashoka's pillar for the Kanakamuni Buddha. Gotihawa, a few kilometres south-west of Taulihawa, holds another Ashoka pillar stump. All fit in a half-day circuit."}
+  ]
+}

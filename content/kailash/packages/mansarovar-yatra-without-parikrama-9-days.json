@@ -1,0 +1,92 @@
+{
+  "slug": "mansarovar-yatra-without-parikrama-9-days",
+  "title": "Mansarovar Yatra without Parikrama, 9 Days",
+  "region": "kailash",
+  "type": "yatra",
+  "grade": "Moderate",
+  "nights": 8,
+  "themes": ["kailash-yatra", "pilgrimage", "heli-tours"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "nepalgunj", "nights": 2},
+    {"place": "purang", "nights": 3},
+    {"place": "lake-manasarovar", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 245000,
+  "price_from_usd": 2850,
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "max_altitude_m": 4675,
+  "accommodation": "3-star hotels in Kathmandu and Nepalgunj, hotel in Purang, guesthouse at Manasarovar",
+  "transport": "Kathmandu–Nepalgunj–Simikot flights, Simikot–Hilsa helicopter, Tibetan agency vehicles",
+  "group": "Fixed-departure groups of 8–25, or private groups of 5+",
+  "meta_description": "Mansarovar yatra without Kailash parikrama, 9 days via Simikot and Hilsa: lake parikrama, holy dip, Kailash darshan from Darchen, price and rules.",
+  "summary": "For pilgrims who want Manasarovar and Kailash darshan without the three-day walk: fly to Simikot, helicopter to Hilsa, two nights in Purang, two nights at the lake for the bus parikrama, holy dip and puja, and a darshan visit to Darchen and Tarboche. 9 days, little walking, from ₹2,45,000.",
+  "intro": [
+    "Not every pilgrim wants, or is able, to cross the Dolma La. This yatra keeps everything that can be done by vehicle: the flight and helicopter route through Simikot and Hilsa, two acclimatisation nights in Purang, two nights at Lake Manasarovar with the parikrama by bus, holy dip and havan, and a day trip to Darchen and Yam Dwar for close darshan of Kailash's south face. The highest point is about 4,675 m at Tarboche, almost 1,000 m below the Dolma La.",
+    "It still means sleeping at about 4,590 m by the lake, so the same visa, permits and medical fitness rules apply as for the full yatra, and the same weather risks on the Simikot sector. It suits seniors, families with older parents and anyone with knee problems, provided a doctor confirms fitness for high altitude. Rules for Indian passport holders and age limits change; check current status before you travel."
+  ],
+  "highlights": [
+    "Two nights at Lake Manasarovar for puja, havan and holy dip",
+    "Mansarovar parikrama by bus, about 90–100 km",
+    "Kailash darshan at Darchen and the Tarboche flagpole",
+    "Rakshastal and Khorzhak monastery on the way",
+    "Highest point about 4,675 m; no trekking",
+    "Shortest Kailash-region itinerary from Kathmandu"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Arrive in Kathmandu and transfer to a 3-star hotel. Time permitting, visit Pashupatinath for evening aarti on the Bagmati. The tour leader briefs the group on baggage limits (about 10–15 kg on the Simikot sector), what to wear for the cold at the lake, altitude sickness and the rules at the Hilsa border, and collects medical certificates and passport copies.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Kathmandu–Nepalgunj · 1 h", "text": "A one-hour flight to Nepalgunj on the Terai plains. After lunch, repack into soft duffels and leave extra luggage in hotel storage. In the evening, visit the Bageshwari temple for aarti. Nepalgunj is hot in summer, often 35–40 °C, so rest in the air-conditioned hotel through the afternoon and keep warm clothes ready in your hand luggage for tomorrow.", "meals": "B, L, D"},
+    {"day": 3, "title": "Simikot, Hilsa heli and Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Hilsa–Purang · ≈ 28 km · 1 h", "flight": "Nepalgunj–Simikot · 45 min; Simikot–Hilsa heli · 20–30 min", "text": "Early flight to Simikot at about 2,910 m, then helicopter shuttles of four or five passengers to Hilsa. When the group is complete, we clear Nepali exit, walk across the bridge, pass Chinese immigration and drive to Purang at about 3,900 m. Seniors are helped at the border by staff. If weather stops flights, the group waits in Nepalgunj or Simikot.", "meals": "B, L, D"},
+    {"day": 4, "title": "Purang rest and Khorzhak temple", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 3900, "walk": "≈ 1 h gentle walking", "drive": "≈ 40 km return", "flight": "", "text": "A rest day for acclimatisation. A short drive down the Karnali brings us to Khorzhak monastery, called Khojarnath by Indian pilgrims, with its silver images revered as Ram, Sita and Lakshman. The rest of the day is for gentle walking in town, plenty of fluids and an early night. The guide checks oxygen saturation and pulse morning and evening.", "meals": "B, L, D"},
+    {"day": 5, "title": "Rakshastal and Lake Manasarovar", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks", "drive": "≈ 75 km · 1.5–2 h", "flight": "", "text": "Drive north past Gurla Mandhata to Rakshastal, then on to Manasarovar. After checking in at Chiu, spend a quiet afternoon by the water: prayers, a short walk and tea. Chiu Gompa on its rocky hill looks across the lake to Kailash. Sleep early; nights at about 4,590 m are cold and sleep can be light.", "meals": "B, L, D"},
+    {"day": 6, "title": "Lake parikrama, holy dip and puja", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 90–100 km lake circuit · 4–5 h", "flight": "", "text": "The main day of the yatra. The bus parikrama of about 90–100 km stops at ghats and monasteries around the shore. At a permitted ghat, take the holy dip or bucket snan as local rules allow, then join puja and havan led by our pandit facing Kailash. Collect Manasarovar jal in sealed bottles. Return to Chiu to rest and watch sunset over the lake.", "meals": "B, L, D"},
+    {"day": 7, "title": "Kailash darshan at Darchen, to Purang", "place": "darchen", "overnight": "Purang", "altitude_m": 3900, "max_m": 4675, "walk": "Short walks at Tarboche", "drive": "≈ 35 km to Darchen, ≈ 20 km return to Tarboche, ≈ 100 km to Purang · 4–5 h total", "flight": "", "text": "Sunrise over the lake, then a short drive to Darchen at the foot of Kailash's south face. We continue by eco-bus or vehicle to Tarboche and Yam Dwar at about 4,675 m, where the parikrama begins, for prayers and darshan as close as the road allows. After lunch in Darchen, we drive back to Purang, losing almost 700 m. Optional Ashtapad darshan can be added if arranged in advance.", "meals": "B, L, D"},
+    {"day": 8, "title": "Hilsa heli and fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Purang–Hilsa · 1 h", "flight": "Hilsa–Simikot heli · 20–30 min; Simikot–Nepalgunj · 45 min", "text": "Early drive to the border, Chinese exit formalities and the walk back across the bridge to Hilsa. Helicopters shuttle the group to Simikot and, weather permitting, the afternoon flight brings us down to Nepalgunj. If not, we overnight in Simikot. Collect stored luggage and enjoy a hot shower in Nepalgunj.", "meals": "B, L, D"},
+    {"day": 9, "title": "Fly to Kathmandu, tour ends", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Nepalgunj–Kathmandu · 1 h", "text": "Morning flight to Kathmandu, where the yatra ends at the airport. Pilgrims from Uttar Pradesh may instead cross by road at Rupaidiha, 6 km from Nepalgunj. Please book international flights with flexibility or for the next day, since weather on the Simikot sector can delay the return by a day.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and hotel nights in Kathmandu and Nepalgunj, twin sharing",
+    "Kathmandu–Nepalgunj–Simikot return flights and Simikot–Hilsa return helicopter sector",
+    "Chinese group visa processing support and Tibet Travel Permit",
+    "Tibetan agency vehicles, eco-bus fees and border transfers",
+    "Accommodation in Purang and at Manasarovar",
+    "All meals from day 1 dinner, Indian vegetarian in Tibet",
+    "Nepali tour leader and licensed Tibetan guide",
+    "Oxygen cylinders, pulse oximeter and first-aid kit",
+    "Group puja and havan with pandit at Manasarovar"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Chinese visa fees and nationality-specific surcharges",
+    "Travel insurance with high-altitude and helicopter evacuation cover",
+    "Extra nights and meals caused by weather delays",
+    "Excess baggage on aircraft and helicopter",
+    "Ashtapad darshan trip (optional, set locally)",
+    "Tips, drinks and personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing, a group of at least 8 and standard-season rates, including the shared helicopter sector.",
+    "There is no trekking, but you sleep two nights at about 4,590 m; a doctor's fitness certificate is still required, and an age limit of around 70 has applied on the Nepal routes recently. Guidance only.",
+    "Helicopter flights depend on morning weather and payload limits at altitude, so groups shuttle in sorties of four or five. Anyone with heart or lung conditions or pregnancy should not fly to high altitude.",
+    "Rules for Indian passport holders, including where visas are processed, biometrics and fees, have changed several times since 2023. Check current status before you travel.",
+    "Bathing rules at Manasarovar are set locally and have restricted direct dips at many ghats in recent seasons; we follow what is allowed on the day."
+  ],
+  "add_ons": [
+    {"name": "Ashtapad darshan from Darchen", "price": "≈ ₹4,000–6,000 per person, set locally"},
+    {"name": "Extra night at Manasarovar", "price": "≈ ₹9,000 per person"}
+  ],
+  "faqs": [
+    {"q": "Can I do Mansarovar yatra without Kailash parikrama?", "a": "Yes. This 9-day yatra includes two nights at Manasarovar with the bus parikrama, holy dip and puja, plus Kailash darshan at Darchen and Tarboche, but no trekking. The highest point is about 4,675 m. You need the same visa and permits as the full yatra."},
+    {"q": "What is the cost of Mansarovar yatra only?", "a": "Our Mansarovar-only yatra via Simikot starts from ₹2,45,000 (US$2,850) per person, twin sharing, for a group of 8 or more, including flights from Kathmandu, the helicopter sector, permits, hotels, meals and guides. Visa fees, insurance and delay costs are extra."},
+    {"q": "Is Mansarovar yatra suitable for senior citizens?", "a": "It is the gentlest Kailash-region itinerary, with minimal walking, but you sleep at about 4,590 m and may face flight delays. Seniors need a medical check and fitness certificate. An age limit of around 70 has applied recently on the Nepal routes; check current status before you travel."},
+    {"q": "Will I see Mount Kailash on the Mansarovar-only yatra?", "a": "Yes, weather permitting. Kailash is visible from the lake's western and southern shores, and on day 7 we drive to Darchen and Tarboche at the foot of the south face for close darshan. Cloud can hide the peak on some days, especially in July and August."},
+    {"q": "Can some family members do the parikrama while others stay at the lake?", "a": "Yes, but on a different itinerary. In our full yatras, non-walkers stay in Darchen during the parikrama. If your family includes both, book the 11-day Simikot heli yatra and the non-walkers will be looked after in Darchen."},
+    {"q": "How cold is it at Manasarovar?", "a": "In June days are about 10–18 °C in sun but windy, and nights fall to around freezing. In September nights reach −5 °C. Pack thermals, a down jacket, warm hat, gloves and woollen socks, and take the holy dip in the warmest part of the day."},
+    {"q": "Do I need an oxygen cylinder for Mansarovar yatra?", "a": "We carry oxygen cylinders and a pulse oximeter in the group's vehicle, so you do not need your own. Oxygen relieves mild symptoms but is not a cure; anyone with serious altitude sickness must descend, which on this route means driving to Purang."},
+    {"q": "How many days does the Mansarovar yatra take?", "a": "Nine days from Kathmandu to Kathmandu on this itinerary, with three nights in Purang and two at the lake. Weather delays on the Simikot sector can add a day. Overland versions via Kyirong take about 11 days when the border is open."},
+    {"q": "Is holy dip allowed in Manasarovar?", "a": "In recent seasons, bathing directly in the lake has been restricted at many points, with pilgrims instead pouring lake water over themselves at designated spots. Rules change, so check current status before you travel. Our guide chooses a permitted ghat on the day."}
+  ]
+}

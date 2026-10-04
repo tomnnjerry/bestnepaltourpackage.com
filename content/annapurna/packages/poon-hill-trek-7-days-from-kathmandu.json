@@ -1,0 +1,245 @@
+{
+  "slug": "poon-hill-trek-7-days-from-kathmandu",
+  "title": "Poon Hill Trek 7 Days from Kathmandu",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 6,
+  "themes": [
+    "trekking",
+    "family-holidays",
+    "short-breaks",
+    "photography"
+  ],
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "pokhara",
+      "nights": 2
+    },
+    {
+      "place": "ghandruk",
+      "nights": 1
+    },
+    {
+      "place": "ghorepani",
+      "nights": 1
+    },
+    {
+      "place": "poon-hill",
+      "nights": 0
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 52000,
+  "price_from_usd": 610,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "max_altitude_m": 3210,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, teahouse lodges on the trail",
+  "transport": "Kathmandu–Pokhara flights, private jeeps to and from the trail, airport transfers",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Poon Hill trek in 7 days from Kathmandu: fly to Pokhara, walk via Ghandruk, Tadapani and Ghorepani to Poon Hill sunrise, 3,210 m. Hotels and flights included.",
+  "summary": "A week from Kathmandu that packs in a flight to Pokhara, four days of walking through Gurung and Magar villages, a night in Ghandruk and a dawn on Poon Hill at 3,210 m. Built for travellers flying in from India or overseas who want a full trek without long road days.",
+  "intro": [
+    "Most people who ask us for a short Himalayan trek have about a week, arrive in Kathmandu and want mountains rather than buses. This itinerary answers that. You fly to Pokhara on day two, drive to Ghandruk the next morning and then walk the classic loop clockwise: Ghandruk to Tadapani, over the Deurali ridge to Ghorepani, up to Poon Hill for sunrise, and down the Ulleri steps to the road. A spare evening in Pokhara and the flight back close the week.",
+    "Walking clockwise means the first trail day is short and gentle, ideal after travel, and the famous staircase is descended rather than climbed. Indian families particularly like this direction for older parents. Hotels in Kathmandu and Pokhara are comfortable 3-star properties; on the trail you stay in family teahouses with twin rooms. The maximum altitude is 3,210 m on Poon Hill, and you sleep no higher than 2,874 m. Porters carry the bags."
+  ],
+  "highlights": [
+    "Kathmandu–Pokhara flight with the Himalaya off the right-hand windows",
+    "A full afternoon and night in the Gurung village of Ghandruk",
+    "Forest ridge walk over the Deurali pass at 3,090 m",
+    "Dawn on Poon Hill: Dhaulagiri, Annapurna South and Machhapuchhre",
+    "Descending the Ulleri staircase instead of climbing it",
+    "A free evening at Phewa Lake to finish"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "We meet you at Tribhuvan International Airport and drive to your hotel in Thamel or nearby. In the evening your guide comes to brief you on the route, check your boots, sleeping bag and warm clothing, and collect passport details for the ACAP permit, which we arrange in advance. If you arrive early, walk to Kathmandu Durbar Square or the stupa at Swayambhunath, a 30-minute walk from Thamel. Dinner is at your leisure; keep it light and go to bed early, since the Pokhara flight leaves in the morning.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Fly to Pokhara, lakeside afternoon",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Kathmandu–Pokhara · 25 min",
+      "text": "A morning flight takes about 25 minutes to Pokhara; sit on the right for Ganesh Himal, Manaslu and the Annapurnas. After check-in, spend the afternoon on Phewa Lake: hire a rowing boat to the island temple of Tal Barahi, or walk the lakeside promenade. Shops in Lakeside sell or rent any missing gear, from walking poles to down jackets, at fair prices. If flights are cancelled by weather, we switch to a private car on the 200 km road, about 6–7 hours, so the trek still starts on time.",
+      "meals": "B"
+    },
+    {
+      "day": 3,
+      "title": "Drive to Ghandruk, village afternoon",
+      "place": "ghandruk",
+      "overnight": "Ghandruk",
+      "altitude_m": 1940,
+      "max_m": 1940,
+      "walk": "≈ 1–2 h village walk",
+      "drive": "≈ 55 km · 3 h",
+      "flight": "",
+      "text": "Our jeep leaves Pokhara at 8 am, follows the Baglung highway to Nayapul and climbs the dirt road via Syauli Bazaar and Kimche to Ghandruk at 1,940 m, arriving before lunch. The afternoon is for the village: slate-roofed houses, stone-paved lanes, millet terraces and the Gurung museum with its displays of traditional dress and tools. Many families here have Gurkha soldiers among their grandfathers. From the upper village, Annapurna South, Hiunchuli and Machhapuchhre glow at sunset. This short first day helps everyone settle into trail life.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Ghandruk to Tadapani",
+      "place": "",
+      "overnight": "Tadapani",
+      "altitude_m": 2630,
+      "max_m": 2630,
+      "walk": "≈ 3–4 h · 6 km",
+      "drive": "",
+      "flight": "",
+      "text": "From the top of Ghandruk the trail climbs steadily north-west, past the last houses and into forest of oak and rhododendron. The gain is about 700 m in 3–4 hours, with a few steep pitches on stone steps and a tea stop at Bhaise Kharka. Tadapani, a handful of lodges in a forest clearing at 2,630 m, faces Machhapuchhre and Annapurna South directly. Arriving by lunchtime leaves time to rest, read and watch the evening light. The name means far water, after the long walk villagers once made to the nearest spring.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Tadapani over Deurali to Ghorepani",
+      "place": "ghorepani",
+      "overnight": "Ghorepani",
+      "altitude_m": 2874,
+      "max_m": 3090,
+      "walk": "≈ 5–6 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "Today is the longest walking day. The trail drops into a stream gorge below Tadapani, then climbs through dense rhododendron forest, beautiful in March and April, to Banthanti and onward to the ridge. Near the top you reach the Deurali pass at 3,090 m, where tea shops sit beside a viewpoint taking in Dhaulagiri and the Annapurnas. The final hour is a gentle ridge descent to Ghorepani at 2,874 m. Your guide will confirm the Poon Hill plan for tomorrow morning and suggest an early dinner.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Poon Hill sunrise, down to Pokhara",
+      "place": "poon-hill",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 3210,
+      "walk": "≈ 1.5 h Poon Hill + 4–5 h · 12 km",
+      "drive": "≈ 50 km · 2.5 h",
+      "flight": "",
+      "text": "At 4:45 am we climb about 340 m by headtorch to Poon Hill. From 3,210 m the panorama spreads over more than twenty peaks, with Dhaulagiri turning pink first and Machhapuchhre last. After breakfast in Ghorepani we descend through Nangethanti and Banthanti to Ulleri and down the long staircase to Tikhedhunga and Hile, losing about 1,450 m. It is hard on knees but easy on lungs; poles help. Our jeep waits at Hile for the 2.5-hour drive back to Pokhara and a hot shower.",
+      "meals": "B, L"
+    },
+    {
+      "day": 7,
+      "title": "Fly back to Kathmandu, depart",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Pokhara–Kathmandu · 25 min",
+      "text": "After breakfast, we drive you to Pokhara airport for the 25-minute flight to Kathmandu, timed to connect with afternoon or evening international departures. If your flight home is late, you can visit Pashupatinath or Boudhanath on the way to the airport. We recommend leaving at least four hours between your domestic arrival and your international departure, since mountain flights can be delayed by morning cloud. Travellers staying on in Nepal can extend into Chitwan or the Kathmandu Valley.",
+      "meals": "B"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Airport pick-up and drop in Kathmandu",
+    "1 night 3-star hotel in Kathmandu and 2 nights in Pokhara with breakfast",
+    "Kathmandu–Pokhara–Kathmandu flights with 15 kg baggage allowance",
+    "Private jeep Pokhara–Ghandruk and Hile–Pokhara",
+    "Licensed trekking guide for 4 trail days",
+    "One porter for every two trekkers",
+    "ACAP entry permit and any trekking registration currently required",
+    "Three nights in teahouses with all meals on the trail",
+    "Purified drinking water refills on the trail"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee",
+    "Lunch and dinner in Kathmandu and Pokhara",
+    "Travel insurance with helicopter evacuation cover",
+    "Poon Hill viewpoint ticket, hot showers, charging and Wi-Fi on the trail",
+    "Drinks, snacks and desserts",
+    "Tips for guide, porter and drivers",
+    "Extra nights caused by flight cancellations beyond our control"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more travellers with 3-star hotels in cities; 5-star upgrades in Kathmandu and Pokhara are available.",
+    "Indian nationals pay the SAARC ACAP rate of NPR 1,000 instead of NPR 3,000; both are included. Licensed-guide rules for foreign trekkers have applied since 2023; check current status before you travel.",
+    "Domestic flights carry 15 kg checked baggage plus a small carry-on. Leave extra luggage at the Kathmandu hotel.",
+    "If the Pokhara flight is cancelled, we drive instead at no extra cost; the trek dates stay the same.",
+    "Daily walking is 3–6 hours; the hardest day is day 6, with the dawn climb and a long descent."
+  ],
+  "add_ons": [
+    {
+      "name": "Kathmandu Valley heritage tour (half day)",
+      "price": "≈ ₹4,500 / US$ 50 per person"
+    },
+    {
+      "name": "Sarangkot sunrise drive in Pokhara",
+      "price": "≈ ₹2,500 / US$ 30 per vehicle"
+    },
+    {
+      "name": "Paragliding over Phewa Lake",
+      "price": "≈ US$ 90–110 per person"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is 7 days enough for Poon Hill from Kathmandu?",
+      "a": "Yes. Seven days gives you an arrival day in Kathmandu, a flight to Pokhara, four trail days and the flight back on day seven. It is a comfortable pace with one short first walking day. If you want to drive rather than fly between Kathmandu and Pokhara, add a day each way or accept two long road days."
+    },
+    {
+      "q": "What is the Poon Hill trek package cost from India?",
+      "a": "Our 7-day package from Kathmandu starts from about ₹52,000 per person on twin sharing, including domestic flights, 3-star hotels, guide, porter, permits at the SAARC rate and trail meals. Flights from Indian cities to Kathmandu are extra. Groups of four or more often pay less per person; peak October dates can cost slightly more."
+    },
+    {
+      "q": "Can senior citizens do the Poon Hill trek?",
+      "a": "Many active people in their 60s and 70s complete it. The clockwise route helps: day one is short, the climbing is spread out and the Ulleri steps are walked downhill. The key requirements are steady knees, the ability to walk 5–6 hours with rests and no serious heart or lung conditions. Consult your doctor before booking."
+    },
+    {
+      "q": "Do I need to fly to Pokhara or can I drive?",
+      "a": "Either works. The flight takes 25 minutes and saves a full day; the drive is about 200 km and 6–8 hours on a busy highway. We include flights in this package. If you prefer the road, we can swap in a private car or tourist bus and lower the price, but the itinerary then needs an extra day."
+    },
+    {
+      "q": "What is the difference between the 4-day and 7-day Poon Hill trek?",
+      "a": "The trail days are similar. The 7-day trip starts and ends in Kathmandu, includes flights and city hotels, and walks the loop clockwise with a full night in Ghandruk. The 4-day trip starts and ends in Pokhara, walks anticlockwise via Ulleri and is better if you are already holidaying in Pokhara."
+    },
+    {
+      "q": "How cold is Poon Hill at sunrise?",
+      "a": "In October and November expect around 0 to 5 °C at the summit at dawn, falling to about −5 °C in December to February, colder with wind. Wear a down jacket, hat and gloves for the climb and the 30–45 minutes of waiting for the sun. It warms quickly once the sun is up."
+    },
+    {
+      "q": "Is vegetarian food available on the Poon Hill trek?",
+      "a": "Yes, easily. Dal bhat, the standard meal of rice, lentils and vegetable curry, is vegetarian and refilled free. Menus also offer noodles, pasta, potatoes, pancakes, porridge and eggs. Jain travellers should tell us in advance so the guide can ask lodges to avoid onion, garlic and root vegetables where possible."
+    },
+    {
+      "q": "Is there mobile network on the Poon Hill trail?",
+      "a": "Mostly, yes. Nepal Telecom and Ncell have signal in Ghandruk, Ghorepani and much of the trail, though speed varies and forest sections can drop out. Many lodges offer Wi-Fi, sometimes for a fee. An Indian SIM may work on roaming at high cost; a local SIM bought in Kathmandu with a passport copy is cheaper."
+    },
+    {
+      "q": "What happens if it is cloudy on Poon Hill?",
+      "a": "Cloud at dawn is possible in any season, more likely in spring and the monsoon. If the summit is clouded, the views from Ghorepani, the Deurali pass and Tadapani often clear later. We cannot repeat Poon Hill without adding a night, but you can request a spare day when booking if the sunrise matters most."
+    }
+  ]
+}

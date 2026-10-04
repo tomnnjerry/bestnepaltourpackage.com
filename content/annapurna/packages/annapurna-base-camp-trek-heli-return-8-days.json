@@ -1,0 +1,213 @@
+{
+  "slug": "annapurna-base-camp-trek-heli-return-8-days",
+  "title": "ABC Trek with Helicopter Return 8 Days",
+  "region": "annapurna",
+  "type": "heli",
+  "grade": "Challenging",
+  "nights": 7,
+  "themes": ["heli-tours", "trekking", "luxury-nepal", "photography"],
+  "stops": [
+    {"place": "pokhara", "nights": 3},
+    {"place": "chhomrong", "nights": 1},
+    {"place": "annapurna-base-camp", "nights": 1}
+  ],
+  "start": "Pokhara (airport or hotel pick-up)",
+  "end": "Pokhara",
+  "price_from_inr": 112000,
+  "price_from_usd": 1310,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 4130,
+  "accommodation": "3-star lakeside hotel in Pokhara, teahouse lodges on the trail",
+  "transport": "Private jeep Pokhara–Siwai, helicopter ABC–Pokhara",
+  "group": "Private or small group, 2–5 (helicopter payload)",
+  "meta_description": "ABC trek with helicopter return in 8 days from Pokhara: walk up via Chhomrong and Deurali, sleep at 4,130 m, then fly back to Pokhara in 25 minutes.",
+  "summary": "Walk up to Annapurna Base Camp in four days from Pokhara via Jhinu Danda, Chhomrong and Deurali, sleep at 4,130 m under Annapurna I, then fly back to Pokhara by helicopter the next morning in about 25 minutes. It saves three days of descent and the knee-jarring Chhomrong steps.",
+  "intro": [
+    "The walk up to Annapurna Base Camp is the best part of the trek: villages, forest, the narrowing gorge and the arrival in the Sanctuary. The walk down retraces the same trail over two or three days, with the long Chhomrong staircase in the middle. This package keeps the ascent and replaces the descent with a 25-minute helicopter flight from base camp to Pokhara, so the whole trip fits into 8 days from Pokhara and leaves a spare day for weather.",
+    "You trek four days to ABC with a licensed guide and porters, sleeping at Chhomrong, Dovan and Deurali before the final climb through Machhapuchhre Base Camp. After sunrise at base camp, the helicopter picks you up as soon as the weather allows, usually between 7 and 9 am. Groups are limited to five so that everyone fits within the helicopter's payload at altitude. If clouds close in, the plan switches to walking down or waiting a morning, explained in detail below."
+  ],
+  "highlights": [
+    "Four days on foot through the Modi Khola gorge to ABC, 4,130 m",
+    "Sunrise on Annapurna I and the Sanctuary from base camp",
+    "Helicopter flight down the gorge to Pokhara in about 25 minutes",
+    "A night in Chhomrong, home of the famous chocolate cake",
+    "Saves 2–3 days of descent and the Chhomrong staircase",
+    "Spare day in Pokhara for weather or Phewa Lake"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara, briefing",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "Airport transfer",
+      "flight": "",
+      "text": "We meet you at Pokhara airport or the bus park and check you into a lakeside hotel. Your guide visits in the afternoon to explain the trek and the helicopter plan, including the weight limit for the flight back: about 15 kg of luggage per person, plus a small daypack. We weigh everyone's bags and store extra luggage at the hotel. The ACAP permit is ready. Use the evening to stroll along Phewa Lake and get a good night's sleep.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Drive to Siwai, walk to Chhomrong",
+      "place": "chhomrong",
+      "overnight": "Chhomrong",
+      "altitude_m": 2170,
+      "max_m": 2170,
+      "walk": "≈ 5 h · 9 km",
+      "drive": "≈ 65 km · 3 h",
+      "flight": "",
+      "text": "A jeep takes us via Nayapul up the Modi Khola valley to Siwai, about 3 hours. We walk upstream to New Bridge, cross the river and climb to Jhinu Danda at 1,780 m for lunch. If you have time and energy, the riverside hot springs lie 20 minutes below. The afternoon brings a steep climb of about 400 m on stone steps to Chhomrong at 2,170 m, where Annapurna South and Machhapuchhre appear close above the village. We stay at Chhomrong Cottage and try its chocolate cake.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Chhomrong to Dovan",
+      "place": "",
+      "overnight": "Dovan",
+      "altitude_m": 2600,
+      "max_m": 2600,
+      "walk": "≈ 6 h · 11 km",
+      "drive": "",
+      "flight": "",
+      "text": "We descend the long staircase from Chhomrong to the Chhomrong Khola, then climb to Sinuwa at 2,340 m. Beyond, the trail enters thick bamboo and rhododendron forest, with views of Machhapuchhre through the trees and langur monkeys in the canopy. We pass Bamboo at 2,310 m and continue to Dovan at 2,600 m. It is a long day with plenty of ups and downs, but the gain in sleeping height is modest, which helps acclimatisation.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Dovan to Deurali",
+      "place": "",
+      "overnight": "Deurali",
+      "altitude_m": 3230,
+      "max_m": 3230,
+      "walk": "≈ 4 h · 6 km",
+      "drive": "",
+      "flight": "",
+      "text": "A shorter day lets your body adjust. The gorge narrows as we climb past the Hinku cave and Himalaya lodge at 2,920 m, with waterfalls dropping from the cliffs on both sides. Bamboo gives way to scrub and grass above 3,000 m. Deurali, at 3,230 m, is a small group of lodges in a steep part of the valley. We arrive by lunch, rest in the afternoon and take a short walk higher to aid acclimatisation before tomorrow's climb into the Sanctuary.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Deurali to Annapurna Base Camp",
+      "place": "annapurna-base-camp",
+      "overnight": "Annapurna Base Camp",
+      "altitude_m": 4130,
+      "max_m": 4130,
+      "walk": "≈ 4–5 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "An early start takes us through the avalanche-prone section above Deurali while it is cold and stable; in late winter and spring the trail may be rerouted, so check current status before you travel. After 2–3 hours, the valley opens at Machhapuchhre Base Camp, 3,700 m, below the fishtail summit. A further 1.5–2 hours across moraine meadows brings us to Annapurna Base Camp at 4,130 m, surrounded by Annapurna I, Annapurna South, Hiunchuli and Gangapurna. Stay warm and drink plenty this evening.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "ABC sunrise, helicopter to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 4130,
+      "walk": "",
+      "drive": "Airport–hotel transfer",
+      "flight": "ABC–Pokhara · 25 min",
+      "text": "Watch the sunrise light Annapurna I and the ring of peaks from the memorial chortens. After breakfast the helicopter arrives from Pokhara, usually between 7 and 9 am. Payload limits at 4,130 m mean that groups may be flown in two shuttles. The flight down the gorge, over Chhomrong and Ghandruk, takes about 25 minutes. By mid-morning you are at your Pokhara hotel. If the helicopter cannot fly by about 11 am, we follow the weather plan described below.",
+      "meals": "B"
+    },
+    {
+      "day": 7,
+      "title": "Spare day in Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "",
+      "flight": "",
+      "text": "This day absorbs any weather delay for the helicopter. If everything ran on time, it is yours to enjoy. Take a rowing boat to the Tal Barahi temple, walk up to the World Peace Pagoda, drive to Sarangkot for sunrise over the Annapurnas you have just flown past, or try paragliding. Lakeside cafés, massage centres and bookshops are close to the hotel. In the evening, a farewell dinner with your guide.",
+      "meals": "B"
+    },
+    {
+      "day": 8,
+      "title": "Departure from Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "Airport transfer",
+      "flight": "",
+      "text": "After breakfast we transfer you to Pokhara airport for a flight to Kathmandu or onward, or to the bus park for the road journey. If you are staying on in Nepal, Chitwan is about 5 hours by road and makes a good contrast to the mountains. We recommend leaving a buffer before international flights, as both helicopter and domestic flights depend on weather.",
+      "meals": "B"
+    }
+  ],
+  "stays": ["chhomrong-cottage"],
+  "includes": [
+    "Airport or bus park transfers in Pokhara",
+    "3 nights 3-star lakeside hotel in Pokhara with breakfast",
+    "Private jeep Pokhara–Siwai",
+    "Shared helicopter flight ABC–Pokhara (up to 5 passengers)",
+    "Licensed trekking guide and one porter for every two trekkers",
+    "ACAP entry permit and any trekking registration currently required",
+    "Teahouse rooms and all meals on the trail",
+    "Pulse oximeter checks and first-aid kit"
+  ],
+  "excludes": [
+    "Flights or bus between Kathmandu and Pokhara",
+    "Lunch and dinner in Pokhara",
+    "Travel insurance with helicopter evacuation cover",
+    "Excess luggage on the helicopter beyond about 15 kg per person",
+    "Hot showers, charging, Wi-Fi and hot-spring entry",
+    "Drinks, snacks and desserts",
+    "Tips for guide, porters and helicopter crew"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for a group of 4–5 sharing the helicopter; smaller groups pay more because the helicopter cost is split between fewer people.",
+    "Weather plan: helicopters fly only in clear morning conditions. If the flight cannot happen by about 11 am, we wait a morning at ABC or Machhapuchhre Base Camp or walk down to Bamboo and fly from there; if no flight is possible at all, we walk out and refund the unused helicopter fare, less any positioning costs.",
+    "Payload rules: at 4,130 m a helicopter carries fewer people and less luggage, so groups may fly in two shuttles. Pack within about 15 kg per person.",
+    "The ACAP permit (NPR 3,000 foreigners, NPR 1,000 SAARC including Indians) and a licensed guide, as required for foreign trekkers since 2023, are included; check current status before you travel.",
+    "The helicopter flight is not suitable for travellers with certain heart or lung conditions or for pregnant women; tell us about any medical issues before booking."
+  ],
+  "add_ons": [
+    {"name": "Private helicopter for your group only", "price": "≈ US$ 2,800–3,500 per helicopter"},
+    {"name": "Extra night at Machhapuchhre Base Camp", "price": "≈ ₹4,000 / US$ 45 per person"},
+    {"name": "Kathmandu–Pokhara flights", "price": "≈ US$ 100–130 one way"}
+  ],
+  "faqs": [
+    {
+      "q": "How much does the ABC trek with helicopter return cost?",
+      "a": "Our 8-day package from Pokhara starts from about ₹1,12,000 or US$1,310 per person on twin sharing, based on 4–5 people sharing the helicopter. It includes the Pokhara hotel, jeep, trekking guide and porters, permits, trail meals and the helicopter flight. Smaller groups pay more, because the fixed helicopter cost is split between fewer people."
+    },
+    {
+      "q": "Why take a helicopter back from Annapurna Base Camp?",
+      "a": "It saves 2–3 days of retracing the same trail, including the steep Chhomrong staircase, which is hard on knees. It also gives you a flight down the gorge past the peaks. For travellers with limited time, it allows the full ABC experience in about a week from Pokhara, with a spare day for weather."
+    },
+    {
+      "q": "What if the helicopter cannot fly from ABC?",
+      "a": "Helicopters fly only in clear morning weather. If clouds or wind stop the flight, we wait a day, or walk down to a lower landing spot such as Bamboo where the weather may be clearer. If no flight is possible, we walk out to Siwai and refund the unused helicopter fare, minus any positioning costs already incurred."
+    },
+    {
+      "q": "How many passengers can a helicopter take from ABC?",
+      "a": "Usually up to five passengers in good conditions, but payload falls with altitude and temperature. At 4,130 m, pilots may take fewer people at once and shuttle the group in two trips. This is why we limit groups to five and ask everyone to keep luggage to about 15 kg plus a small daypack."
+    },
+    {
+      "q": "Can I do the helicopter one way up instead?",
+      "a": "Flying up to ABC and walking down is possible but not ideal. Arriving at 4,130 m from 822 m in 25 minutes and staying overnight carries a high risk of altitude sickness. Walking up gives your body time to adjust. If you want to fly up, we recommend a day tour with a short landing instead."
+    },
+    {
+      "q": "How difficult is the walk up to ABC?",
+      "a": "We grade it Challenging. Daily walks are 4–6 hours with many stone steps, especially around Chhomrong, and the final day climbs to 4,130 m. There are no technical sections. Regular hikers with good fitness manage well; training with stairs or hill walks for 6–8 weeks beforehand helps."
+    },
+    {
+      "q": "What luggage can I take on the helicopter?",
+      "a": "About 15 kg per person, including your trekking bag, plus a small daypack. Excess weight may have to be sent down with porters, costing extra and arriving later. Leave non-essential items at the Pokhara hotel before the trek. Your guide will weigh bags on day one to avoid surprises."
+    },
+    {
+      "q": "Is the ABC helicopter return suitable for older trekkers?",
+      "a": "Yes, it is one of the best options for fit trekkers in their 50s and 60s, because it removes the hardest descent. The walk up still requires reasonable fitness and good health. Anyone with heart or lung conditions should consult a doctor before trekking to 4,130 m or flying at altitude."
+    },
+    {
+      "q": "When is the best time for the ABC trek with heli return?",
+      "a": "October to December gives the most reliable morning weather for flights and the clearest views. March to May is also good, though afternoon cloud is more common and flights may need to leave early. Avoid June to September, when monsoon cloud often grounds helicopters for days."
+    }
+  ]
+}

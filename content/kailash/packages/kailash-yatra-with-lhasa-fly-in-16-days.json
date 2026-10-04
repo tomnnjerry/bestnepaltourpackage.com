@@ -1,0 +1,102 @@
+{
+  "slug": "kailash-yatra-with-lhasa-fly-in-16-days",
+  "title": "Kailash Yatra with Lhasa Fly-in, 16 Days",
+  "region": "kailash",
+  "type": "yatra",
+  "grade": "Challenging",
+  "nights": 15,
+  "themes": ["kailash-yatra", "pilgrimage", "cultural-tours", "buddhist-circuit"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "lhasa", "nights": 4},
+    {"place": "shigatse", "nights": 2},
+    {"place": "saga", "nights": 2},
+    {"place": "lake-manasarovar", "nights": 2},
+    {"place": "mount-kailash", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 325000,
+  "price_from_usd": 3780,
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "max_altitude_m": 5630,
+  "accommodation": "3-star hotels in Kathmandu and Lhasa, 4-star in Shigatse, hotels in Saga, guesthouses at Manasarovar, Darchen and on the parikrama",
+  "transport": "Kathmandu–Lhasa return flights, Tibetan agency coach or Land Cruisers, eco-buses at the lake and kora",
+  "group": "Fixed-departure groups of 8–20, or private groups of 4+",
+  "meta_description": "Kailash yatra with Lhasa fly-in, 16 days from Kathmandu: Potala and Jokhang, Shigatse, Saga, Manasarovar, 3-day parikrama, price and permit rules.",
+  "summary": "Fly from Kathmandu to Lhasa, spend three days acclimatising among the Potala, Jokhang and Sera, then drive west via Yamdrok, Gyantse, Shigatse and Saga to Manasarovar and the three-day Kailash parikrama, returning to Lhasa to fly out. 16 days, independent of the Kerung border, from ₹3,25,000.",
+  "intro": [
+    "This yatra enters Tibet by air rather than across a land border, which makes it the most dependable option while the Rasuwagadhi–Kyirong crossing is closed. A 75–90 minute flight takes you from Kathmandu to Lhasa at 3,656 m, where three nights of gentle sightseeing at the Potala, Jokhang and Sera give the best acclimatisation of any Kailash route. The road west then passes Yamdrok Lake, the Kumbum of Gyantse and Tashilhunpo in Shigatse before reaching Saga and the lake.",
+    "It is the longest and most expensive of our yatras, with several long driving days across the plateau, but it combines the pilgrimage with Tibet's great Buddhist sites and avoids both helicopter weather risk and the Kyirong road. Flights between Kathmandu and Lhasa thin out in some months, and permits for Indian passport holders via Lhasa have not been issued in every season. Check current status before you travel."
+  ],
+  "highlights": [
+    "Kathmandu–Lhasa flight with Himalayan views",
+    "Potala Palace, Jokhang and Sera debates while acclimatising",
+    "Yamdrok Lake, Gyantse Kumbum and Tashilhunpo on the road west",
+    "Two nights at Manasarovar with holy dip and havan",
+    "Three-day Kailash parikrama over Dolma La (≈ 5,630 m)",
+    "No dependence on the Kerung border or Simikot helicopters"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Arrival in Kathmandu and transfer to a 3-star hotel. Evening briefing on the route, documents, baggage and altitude. Non-Indian travellers submit passports for the Chinese group visa, which our partner collects from the Chinese embassy in Kathmandu over the following days; Indian pilgrims arrive with visas processed through New Delhi as required in recent seasons. Visit Pashupatinath for evening aarti if time allows.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lhasa", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3656, "walk": "", "drive": "Gonggar airport to city · ≈ 60 km · 1 h", "flight": "Kathmandu–Lhasa · 75–90 min", "text": "Morning flight across the Himalaya; sit on the left for views of Everest and Makalu. Our Tibetan guide meets the group at Lhasa Gonggar with khata scarves and drives about an hour along the Yarlung Tsangpo and Kyi Chu to Lhasa. Clocks move forward 2 hours 15 minutes. Rest for the remainder of the day: no stairs, no alcohol, plenty of water. Many people feel a mild headache on arrival.", "meals": "B, D"},
+    {"day": 3, "title": "Jokhang, Barkhor and Norbulingka", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3700, "walk": "≈ 2–3 h gentle walking", "drive": "City transfers", "flight": "", "text": "A gentle sightseeing day. Morning at the Jokhang, Tibet's holiest temple, then the 1 km Barkhor circuit with pilgrims spinning prayer wheels. In the afternoon, the gardens and palaces of the Norbulingka, the Dalai Lamas' summer residence. Keep the pace slow; you are adapting to 3,656 m, and the next week climbs far higher.", "meals": "B, L, D"},
+    {"day": 4, "title": "Potala Palace and Sera Monastery", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3750, "walk": "≈ 3 h incl. Potala steps", "drive": "City transfers", "flight": "", "text": "The Potala Palace on its timed ticket: the climb up several hundred steps takes 20–30 minutes at a careful pace, and visitors have about an hour inside the White and Red Palaces. After lunch, Sera Monastery, where monks debate in the courtyard most afternoons from about 3 pm. Good acclimatisation exercise without strain.", "meals": "B, L, D"},
+    {"day": 5, "title": "Yamdrok and Gyantse to Shigatse", "place": "shigatse", "overnight": "Shigatse", "altitude_m": 3840, "max_m": 5000, "walk": "Short walks at stops", "drive": "≈ 360 km · 8–9 h with stops", "flight": "", "text": "A long, scenic day. The road climbs to the Kamba La at about 4,790 m for the view over turquoise Yamdrok Lake, follows its shore, and passes the hanging glaciers of the Karo La near 5,000 m. In Gyantse we visit the Kumbum, the tiered stupa of 77 chapels, before the final 90 km across farmland to Shigatse at 3,840 m.", "meals": "B, L, D"},
+    {"day": 6, "title": "Tashilhunpo, drive to Saga", "place": "saga", "overnight": "Saga", "altitude_m": 4640, "max_m": 5000, "walk": "≈ 1.5 h at Tashilhunpo", "drive": "≈ 450 km · 7–8 h", "flight": "", "text": "Early visit to Tashilhunpo Monastery, seat of the Panchen Lamas, with its 26 m gilded Maitreya. Then west via Lhatse, where the road leaves the Friendship Highway, crossing passes near 5,000 m and following the Yarlung Tsangpo across wide valleys to Saga at about 4,640 m. Eat lightly, drink plenty and rest.", "meals": "B, L, D"},
+    {"day": 7, "title": "Saga to Lake Manasarovar", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 5200, "walk": "", "drive": "≈ 480 km · 8–9 h", "flight": "", "text": "West across the high grasslands via Zhongba and Paryang, past nomad camps and herds of yak and sheep, over the Mayum La at roughly 5,200 m. Lake Manasarovar appears in the afternoon, with Gurla Mandhata above its southern shore and Kailash to the north if the sky is clear. Overnight in a guesthouse at Chiu.", "meals": "B, L, D"},
+    {"day": 8, "title": "Mansarovar parikrama and holy dip", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 90–100 km lake circuit · 4–5 h", "flight": "", "text": "The parikrama of the lake by bus, stopping at ghats and monasteries. At a permitted ghat the group takes the holy dip or bucket snan as local rules allow, then performs puja and havan facing Kailash. Afternoon rest at Chiu and a climb to Chiu Gompa for sunset if you feel strong.", "meals": "B, L, D"},
+    {"day": 9, "title": "Darchen, parikrama day 1 to Dirapuk", "place": "mount-kailash", "overnight": "Dirapuk", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 12 km · 5–7 h", "drive": "≈ 35 km + eco-bus to Yam Dwar", "flight": "", "text": "Early drive to Darchen to meet ponies and porters, then the eco-bus to Yam Dwar beside Tarboche. The trail runs north up the Lha Chu valley for about 12 km, gaining some 225 m, to Dirapuk at about 4,900 m, facing the north face of Kailash. Non-walkers stay in Darchen with a staff member.", "meals": "B, L, D"},
+    {"day": 10, "title": "Dolma La to Zuthulpuk", "place": "mount-kailash", "overnight": "Zuthulpuk", "altitude_m": 4790, "max_m": 5630, "walk": "≈ 20–22 km · 10–12 h", "drive": "", "flight": "", "text": "The pre-dawn climb of about 730 m to the Dolma La at approximately 5,630 m, past Shiva-sthal, takes 3–4 hours. After prayers among the flags, descend steeply past Gauri Kund and follow the long valley to Zuthulpuk at about 4,790 m. Lhasa's acclimatisation days usually make this crossing noticeably easier than on faster routes.", "meals": "B, L, D"},
+    {"day": 11, "title": "Finish the kora, drive to Saga", "place": "saga", "overnight": "Saga", "altitude_m": 4640, "max_m": 5200, "walk": "≈ 9–10 km · 3–4 h", "drive": "≈ 500 km · 8–9 h", "flight": "", "text": "Milarepa's cave at Zuthulpuk, then the gentle walk out to Zongdo and the eco-bus to Darchen, where the group reunites. After lunch, the long drive east over the Mayum La and across the plateau to Saga, arriving in the evening. A tiring day, but hot showers and heated rooms await.", "meals": "B, L, D"},
+    {"day": 12, "title": "Saga to Shigatse", "place": "shigatse", "overnight": "Shigatse", "altitude_m": 3840, "max_m": 5000, "walk": "", "drive": "≈ 450 km · 7–8 h", "flight": "", "text": "East along the Yarlung Tsangpo valley via Lhatse, rejoining the Friendship Highway, to Shigatse at 3,840 m. Descending from the high plateau, most pilgrims sleep better and eat more. Evening free to walk the Tashilhunpo kora if you missed it on the way out, or rest at the hotel.", "meals": "B, L, D"},
+    {"day": 13, "title": "Shigatse to Lhasa", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3900, "walk": "", "drive": "≈ 270 km · 4–5 h", "flight": "", "text": "The direct northern road follows the Yarlung Tsangpo gorge back to Lhasa in 4–5 hours, arriving by early afternoon. Free time for shopping on the Barkhor for thangkas, incense and prayer flags, and an evening walk around the Jokhang. Farewell dinner with the Tibetan crew, when tips are usually given.", "meals": "B, L, D"},
+    {"day": 14, "title": "Drepung Monastery and free time", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3800, "walk": "≈ 2 h", "drive": "City transfers", "flight": "", "text": "A spare day in Lhasa, which also serves as a buffer against delays on the road. In the morning, Drepung Monastery on the hillside west of the city, founded in 1416 and once among the largest monasteries in the world. Afternoon at leisure. If the schedule slipped earlier in the trip, this day absorbs it.", "meals": "B, L, D"},
+    {"day": 15, "title": "Fly back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 3656, "walk": "", "drive": "City to Gonggar · 1 h", "flight": "Lhasa–Kathmandu · 75–90 min", "text": "Transfer to Lhasa Gonggar for the flight to Kathmandu. Clocks move back 2 hours 15 minutes. Afternoon free for Pashupatinath darshan or rest, then farewell dinner and parikrama certificates at the hotel.", "meals": "B, D"},
+    {"day": 16, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "Transfer to Tribhuvan International Airport for your flight home. Pilgrims wishing to extend can add Pokhara, Muktinath or Chitwan, or a night at a Kathmandu valley temple town. If flights from Lhasa were rescheduled, we adjust the final hotel night at cost.", "meals": "Breakfast"}
+  ],
+  "stays": ["yak-hotel-lhasa", "gesar-hotel-shigatse"],
+  "includes": [
+    "Airport transfers and 2 nights in a 3-star hotel in Kathmandu, twin sharing",
+    "Kathmandu–Lhasa–Kathmandu economy flights",
+    "Chinese group visa processing support and Tibet Travel Permit with all area permits",
+    "4 nights in Lhasa at the Yak Hotel or similar, 2 nights in Shigatse at the Gesar Hotel or similar",
+    "Hotels in Saga and guesthouses at Manasarovar, Darchen, Dirapuk and Zuthulpuk",
+    "All entrance fees in Lhasa, Gyantse and Shigatse",
+    "All meals from day 1 dinner, Indian vegetarian food on the Kailash section",
+    "Licensed Tibetan guide throughout and Nepali tour leader for groups of 10+",
+    "Oxygen cylinders, pulse oximeter and first-aid kit"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Chinese visa fees and nationality-specific surcharges",
+    "Pony, horseman and porter on the parikrama",
+    "Travel insurance with high-altitude evacuation cover",
+    "Upgrades to the St. Regis or Shangri-La in Lhasa",
+    "Extra nights caused by flight changes or road closures",
+    "Tips, drinks, laundry and personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing, a group of at least 8 and standard-season flight fares; Kathmandu–Lhasa fares vary widely and are confirmed at booking.",
+    "Permits for Indian passport holders via Lhasa have not been issued in every season, and visa processing for resident Indians has run through New Delhi. Check current status before you travel.",
+    "Other nationalities obtain a Chinese group visa from the embassy in Kathmandu, which needs the original passport for several working days; individual Chinese visas are usually not valid for entering Tibet from Nepal.",
+    "An age limit of around 70 and a medical fitness certificate have applied for Kailash on the Nepal routes in recent seasons. Guidance only.",
+    "Day 14 is a buffer day in Lhasa; if the road west is delayed, it is used to keep your flight date."
+  ],
+  "add_ons": [
+    {"name": "Upgrade to Shangri-La or St. Regis in Lhasa (4 nights)", "price": "From ≈ ₹28,000 per person"},
+    {"name": "Pony and horseman for the 3-day parikrama", "price": "≈ US$ 450–550, set locally each season"},
+    {"name": "Everest north base camp extension (2 extra days)", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "Can I go to Kailash via Lhasa from Kathmandu?", "a": "Yes. You fly Kathmandu–Lhasa in about 75–90 minutes, acclimatise in Lhasa, then drive west via Shigatse and Saga to Manasarovar. Our 16-day yatra follows this route. It is independent of the Kerung border, which was closed by floods in August 2026."},
+    {"q": "What does the Kailash yatra via Lhasa cost?", "a": "From ₹3,25,000 (US$3,780) per person, twin sharing, in a group of 8 or more. That covers Kathmandu–Lhasa flights, permits, hotels, entrance fees, meals, guides and oxygen. Visa fees, ponies, insurance and hotel upgrades are extra. Flight fares change the price more than anything else."},
+    {"q": "Is the Lhasa route better for acclimatisation?", "a": "Yes. Three nights in Lhasa at 3,656 m and a night in Shigatse at 3,840 m before Saga give a gradual climb, and most pilgrims find Dolma La easier as a result. The trade-off is long drives of 450–500 km on several days."},
+    {"q": "Can Indian passport holders take the Lhasa route to Kailash?", "a": "Indian pilgrims have used Lhasa itineraries in some seasons, but permits via Lhasa for Indian nationals have not been issued every year, and visa processing has run through New Delhi. Rules have changed several times since 2023. Check current status before you travel."},
+    {"q": "How long are the drives on this yatra?", "a": "Lhasa–Shigatse via Gyantse about 360 km, Shigatse–Saga about 450 km, Saga–Manasarovar about 480 km, and similar distances back. Most driving days are 7–9 hours on paved roads with stops. Comfortable coaches or Land Cruisers are used."},
+    {"q": "Do I see the Potala Palace on this yatra?", "a": "Yes, on day 4 with a timed ticket and about an hour inside. The itinerary also includes the Jokhang, Barkhor, Norbulingka, Sera debates and Drepung in Lhasa, the Gyantse Kumbum and Tashilhunpo in Shigatse."},
+    {"q": "What happens if Kathmandu–Lhasa flights are cancelled?", "a": "Flights are generally reliable in summer, but schedules change. If a flight is cancelled, we rebook the next available service and the Tibetan agency adjusts permit dates. Day 14 serves as a buffer. Extra nights are charged at cost."},
+    {"q": "Which hotels are used in Lhasa and Shigatse?", "a": "In Lhasa we use the Yak Hotel near the Barkhor or similar 3-star hotels, with upgrades to the Shangri-La or St. Regis available. In Shigatse we book the Gesar Hotel or a similar 4-star. Hotels in Saga and guesthouses near Kailash are simple."},
+    {"q": "Is this yatra suitable for first-time high-altitude travellers?", "a": "It is the most gradual Kailash itinerary we offer, so it suits first-timers who can handle long drives. You still need good fitness for the parikrama and a medical check. Pilgrims who prefer not to walk can stay in Darchen during the kora."}
+  ]
+}

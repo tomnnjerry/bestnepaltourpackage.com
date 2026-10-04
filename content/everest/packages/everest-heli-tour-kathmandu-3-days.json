@@ -1,0 +1,122 @@
+{
+  "slug": "everest-heli-tour-kathmandu-3-days",
+  "title": "Everest Heli Tour with Kathmandu 2 Nights",
+  "region": "everest",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["heli-tours", "family-holidays", "short-breaks", "cultural-tours", "pilgrimage"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "lukla", "nights": 0},
+    {"place": "namche-bazaar", "nights": 0},
+    {"place": "everest-base-camp", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 115000,
+  "price_from_usd": 1310,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 3880,
+  "accommodation": "3-star hotel in Kathmandu (2 nights), breakfast at Hotel Everest View",
+  "transport": "Shared helicopter seat, private air-conditioned car with driver in Kathmandu",
+  "group": "Private family car; shared or private helicopter",
+  "meta_description": "Everest heli tour with 2 nights in Kathmandu, 3 days: Pashupatinath aarti, fly past Everest Base Camp, breakfast at Hotel Everest View. For Indian families.",
+  "summary": "A 3-day, 2-night package built for Indian families: arrive in Kathmandu and see the evening aarti at Pashupatinath, fly by helicopter past Everest Base Camp with breakfast at Hotel Everest View, then visit Boudhanath and Swayambhunath before flying home. The heli landing stays at 3,880 m, safe for children and grandparents.",
+  "intro": [
+    "Many Indian families want to see Everest without a two-week trek and without putting grandparents or young children through a landing above 5,000 m. This package solves that. The helicopter flies up the Khumbu valley past Namche, Tengboche and Dingboche, circles over Everest Base Camp and Kala Patthar so you see Everest at close range from the air, then lands at Hotel Everest View (3,880 m) for breakfast with Everest, Lhotse and Ama Dablam in front of you. Fit adults can add a short Kala Patthar landing.",
+    "Around the flight we add two nights in a 3-star Kathmandu hotel and the city's most important temples. On arrival day, we take you to Pashupatinath for the evening aarti on the Bagmati ghats. After the heli tour, there is time for Boudhanath stupa, and on the last morning Swayambhunath before your flight home. Indian nationals need no visa for Nepal; carry a passport or voter ID card. The price assumes two adults sharing a room and a shared heli seat; child rates and private charters are available."
+  ],
+  "highlights": [
+    "Helicopter flight past Everest Base Camp and Kala Patthar with no high landing needed",
+    "Breakfast at Hotel Everest View (3,880 m) facing Everest and Ama Dablam",
+    "Evening aarti at Pashupatinath on the Bagmati ghats",
+    "Boudhanath and Swayambhunath with a private car and guide",
+    "Ideal for families with children and grandparents"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, Pashupatinath evening aarti",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport–hotel–Pashupatinath · ≈ 15 km · 1.5 h in total",
+      "flight": "",
+      "text": "Our representative meets you at Tribhuvan International Airport and drives you to your 3-star hotel in Thamel or near Durbar Marg. After check-in and a briefing on the heli tour, including weight and health questions, rest until late afternoon. At about 5 pm we drive to Pashupatinath, Nepal's holiest Shiva temple, to watch the Bagmati aarti held on the riverside ghats at dusk, with lamps, bells and chanting. Non-Hindus may watch from the opposite bank. Return to the hotel for dinner and an early night.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Everest heli tour, Boudhanath afternoon",
+      "place": "namche-bazaar",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 3880,
+      "walk": "",
+      "drive": "Hotel–airport–Boudhanath · ≈ 20 km · 1.5 h in total",
+      "flight": "Kathmandu–Lukla · 45–50 min; Lukla–Everest Base Camp flyover–Hotel Everest View · 25–30 min; Everest View–Lukla–Kathmandu · 60 min",
+      "text": "Pickup at 5:45 am. The helicopter leaves around 6:30 am for Lukla, refuels, then flies up the Dudh Koshi and Khumbu valleys past Namche, Tengboche and Dingboche to circle over Everest Base Camp, the Khumbu Icefall and Kala Patthar. You then land at Hotel Everest View for about 45 minutes of breakfast on the terrace, facing Everest and Ama Dablam. Back in Kathmandu by around 11 am, rest at the hotel. In the late afternoon visit Boudhanath, one of the largest stupas in the world, and walk the kora with Tibetan pilgrims at sunset.",
+      "meals": "B, D"
+    },
+    {
+      "day": 3,
+      "title": "Swayambhunath and departure",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Hotel–Swayambhunath–airport · ≈ 15 km · 1.5 h",
+      "flight": "",
+      "text": "After breakfast, drive to Swayambhunath, the hilltop stupa known to many visitors as the monkey temple, for views over the Kathmandu Valley. Children enjoy the monkeys, and elders can take the vehicle road to the top instead of the 365 steps. If time allows before your flight, stop in Thamel or at a handicraft shop for souvenirs such as pashmina, singing bowls and Nepali tea. Transfer to the airport three hours before your international flight. If your heli tour was delayed by weather on day 2, this morning is the backup slot.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-everest-view"],
+  "includes": [
+    "2 nights in a 3-star Kathmandu hotel, twin or double sharing, with breakfast",
+    "2 dinners at the hotel",
+    "Shared helicopter seat Kathmandu–Lukla–EBC flyover–Hotel Everest View–Kathmandu",
+    "Breakfast at Hotel Everest View",
+    "Private air-conditioned car for all transfers and sightseeing",
+    "English or Hindi-speaking city guide for Pashupatinath, Boudhanath and Swayambhunath",
+    "Monument entrance fees at the three sites",
+    "Sagarmatha National Park and local landing fees"
+  ],
+  "excludes": [
+    "Flights to and from Kathmandu",
+    "Kala Patthar landing supplement",
+    "Lunches and drinks",
+    "Travel insurance",
+    "Tips for guide, driver and pilot",
+    "Personal shopping and camera fees at temples",
+    "Extra nights if the heli tour is delayed beyond day 3"
+  ],
+  "good_to_know": [
+    "Price is per person for two adults sharing a 3-star room and a shared heli seat. A private helicopter for up to five passengers costs roughly US$ 5,000–6,500 extra per helicopter, which often suits a family of four or five.",
+    "Indian nationals do not need a visa for Nepal; carry a valid passport or voter ID card. Children under 18 may need a birth certificate or school ID. Check current entry rules before you travel.",
+    "The helicopter flies only in clear weather. Day 3 morning acts as a backup slot; if both mornings are cloudy, we refund the heli portion as per our terms.",
+    "Hotel Everest View is at 3,880 m. Healthy children and seniors usually manage 45 minutes there, but anyone with heart or lung problems should consult a doctor first. Pregnant travellers should not fly to this height.",
+    "Weight limits apply in the helicopter, so passengers are weighed and seating is set by balance. Bring only a small bag with warm layers.",
+    "Pashupatinath's main temple is open only to Hindus; others watch the aarti from across the river."
+  ],
+  "add_ons": [
+    {"name": "Kala Patthar landing for fit adults (shared tour)", "price": "≈ ₹8,000–12,000 per seat"},
+    {"name": "Upgrade to a 5-star Kathmandu hotel (2 nights)", "price": "≈ ₹18,000–28,000 per room"},
+    {"name": "Bhaktapur Durbar Square half-day tour", "price": "≈ ₹3,000 per person"}
+  ],
+  "faqs": [
+    {"q": "What is the Everest heli tour package cost from India?", "a": "Our 3-day Everest heli tour with 2 nights in Kathmandu starts from about ₹1,15,000 per person, twin sharing, with a shared helicopter seat, 3-star hotel, transfers and guided sightseeing. Flights from India are extra; Delhi–Kathmandu return often costs ₹12,000–20,000."},
+    {"q": "Is the Everest heli tour safe for elderly parents?", "a": "This version is designed for them: the only landing is at Hotel Everest View (3,880 m), not Kala Patthar. Most healthy seniors manage a 45-minute breakfast there. Those with heart or lung conditions should check with their doctor and may stay seated."},
+    {"q": "Can children go on the Everest helicopter tour?", "a": "Yes. Children usually enjoy it, and the 3,880 m landing keeps the altitude moderate. Infants under two and children with respiratory problems should not fly high. Child seats are charged like adult seats because helicopter capacity is limited."},
+    {"q": "Do Indians need a passport for Nepal?", "a": "No passport or visa is required for Indian nationals. A valid Indian passport or voter ID card is accepted for flights to Kathmandu. Minors may travel with a birth certificate or school ID. Check current rules with your airline before you travel."},
+    {"q": "Can we pay in Indian rupees?", "a": "Yes, we quote and accept payment in INR. Indian ₹100 notes are widely accepted in Nepal; larger denominations have faced restrictions in the past, so check current status before you travel. Cards and Nepali rupees work for most purchases."},
+    {"q": "Is vegetarian food available?", "a": "Yes. Kathmandu has many vegetarian and Jain-friendly restaurants, and hotels serve Indian vegetarian meals. Breakfast at Hotel Everest View includes vegetarian options. Tell us about dietary needs when booking."},
+    {"q": "What if the weather is bad for the helicopter?", "a": "We try the next morning, using day 3 as backup. If you can add an extra night, the chance of flying improves. If no flight is possible, the helicopter portion is refunded as per our terms, and we offer alternative sightseeing."},
+    {"q": "Can we land at Kala Patthar on this package?", "a": "Fit adults can add a Kala Patthar landing on the shared tour for a supplement, subject to weather, payload and current landing rules. Family members who prefer not to go high wait at Hotel Everest View while the others land in a shuttle."},
+    {"q": "Which is the best time for an Everest heli tour with family?", "a": "October to December gives the clearest mornings and pleasant Kathmandu days, ideal around Diwali holidays. March to May is good too, with warmer weather. The monsoon from June to August brings frequent cancellations, so avoid it for short trips."}
+  ]
+}

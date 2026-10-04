@@ -1,0 +1,84 @@
+{
+  "slug": "lhasa-and-yamdrok-lake-tour-5-days",
+  "title": "Lhasa and Yamdrok Lake Short Tour, 5 Days",
+  "region": "kailash",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["cultural-tours", "short-breaks", "photography", "honeymoon"],
+  "stops": [
+    {"place": "lhasa", "nights": 4}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 98000,
+  "price_from_usd": 1140,
+  "best_months": [1, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 1],
+  "max_altitude_m": 4790,
+  "accommodation": "3-star hotel in Lhasa (Yak Hotel or similar), 5-star upgrades available",
+  "transport": "Kathmandu–Lhasa return flights, private vehicle with driver",
+  "group": "Private tour for 2+",
+  "meta_description": "Lhasa and Yamdrok Lake short tour from Kathmandu, 5 days and 4 nights: Potala, Jokhang, Sera, Kamba La viewpoint and lakeshore, price and permits.",
+  "summary": "A compact Tibet break from Kathmandu: four nights in Lhasa for the Jokhang, Potala and Sera, and a full-day trip over the Kamba La (about 4,790 m) to the turquoise shore of Yamdrok Lake. 5 days by air, private guide and vehicle, from ₹98,000. Good for couples and travellers short of time.",
+  "intro": [
+    "If you have only five days, this tour gives you the two images most people carry home from Tibet: the white and red walls of the Potala, and Yamdrok Lake winding between brown hills under a deep blue sky. The first two days in Lhasa are gentle, letting your body adjust to 3,656 m while you visit the Jokhang, the Barkhor, the Potala and Sera's monk debates. On day four, the road climbs over the Kamba La to the lakeshore and back.",
+    "The tour runs privately for two or more travellers, with your own guide and vehicle, so the pace suits you. Foreigners need a Chinese group visa from Kathmandu and a Tibet Travel Permit, both arranged by us; Indian passport holders face separate rules that have limited Lhasa-only tours in recent seasons. Tibet closes to foreign tourists for some weeks around February and March. Check current status before you travel."
+  ],
+  "highlights": [
+    "Kamba La viewpoint over Yamdrok Lake at about 4,790 m",
+    "Walk on the lakeshore at about 4,440 m",
+    "Potala Palace with timed entry",
+    "Jokhang temple and Barkhor circuit at dusk",
+    "Sera Monastery's afternoon debate",
+    "Private guide and vehicle for two or more"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Lhasa, rest", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3656, "walk": "", "drive": "Gonggar to city · ≈ 60 km · 1 h", "flight": "Kathmandu–Lhasa · 75–90 min", "text": "Fly from Kathmandu across the Himalaya to Lhasa Gonggar, with views of Everest on the left on clear days. Your guide meets you with khata scarves and drives about an hour into the city, past the Yarlung Tsangpo and a large rock-carved Buddha by the road. Afternoon rest at the hotel; drink plenty and take it slowly. A short evening walk on the Barkhor if you feel fine.", "meals": "Dinner"},
+    {"day": 2, "title": "Jokhang, Barkhor and Sera", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3700, "walk": "≈ 2–3 h", "drive": "City transfers", "flight": "", "text": "Morning at the Jokhang, where pilgrims prostrate at the gate and queue to see the Jowo Shakyamuni, and its roof terrace with views over Barkhor Square. Walk the Barkhor circuit clockwise among prayer wheels and juniper smoke. After lunch, drive to Sera Monastery for the monks' debate, usually from about 3 pm on most days.", "meals": "Breakfast"},
+    {"day": 3, "title": "Potala Palace and Norbulingka", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3750, "walk": "≈ 3 h incl. Potala steps", "drive": "City transfers", "flight": "", "text": "The Potala Palace on your timed ticket: climb slowly up the stone ramps, then spend about an hour in the White and Red Palaces among chapels and gilded tomb stupas. After lunch, the gardens and pavilions of the Norbulingka summer palace. In the evening, photograph the Potala lit up from the square in front, or from Chakpori hill.", "meals": "Breakfast"},
+    {"day": 4, "title": "Day trip to Yamdrok Lake", "place": "", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 4790, "walk": "≈ 1 h at the lakeshore", "drive": "≈ 110 km each way · 2.5–3 h", "flight": "", "text": "Drive south-west along the Yarlung Tsangpo, then climb in long switchbacks to the Kamba La at about 4,790 m. Over the crest, Yamdrok Lake appears in arms of turquoise and deep blue, with the snow summit of Nojin Kangsang beyond. After photographs among the prayer flags, descend to the shore at about 4,440 m for a walk on the pebble beach and a picnic lunch. Return to Lhasa in the late afternoon.", "meals": "B, L"},
+    {"day": 5, "title": "Fly back to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 3656, "walk": "", "drive": "City to Gonggar · 1 h", "flight": "Lhasa–Kathmandu · 75–90 min", "text": "Transfer to Lhasa Gonggar for the flight back to Kathmandu, where the tour ends on arrival. Clocks move back 2 hours 15 minutes. Allow at least four hours before an international connection, or stay a night in Kathmandu.", "meals": "Breakfast"}
+  ],
+  "stays": ["yak-hotel-lhasa"],
+  "includes": [
+    "Kathmandu–Lhasa–Kathmandu economy flights",
+    "Chinese group visa processing in Kathmandu and Tibet Travel Permit",
+    "4 nights at the Yak Hotel or similar 3-star hotel, twin sharing, with breakfast",
+    "Private vehicle with driver and airport transfers in Tibet",
+    "Licensed English-speaking Tibetan guide",
+    "Entrance fees for the Potala, Jokhang, Sera, Norbulingka and Yamdrok Lake",
+    "Welcome dinner and picnic lunch at Yamdrok",
+    "Bottled water and a portable oxygen can per person"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Chinese visa fee",
+    "Meals other than those listed",
+    "Travel insurance with medical cover",
+    "Camera fees and paid photos with yaks or mastiffs at Yamdrok",
+    "Tips for guide and driver",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing for two travellers, a 3-star hotel and standard-season flight fares; it falls slightly for groups of four or more.",
+    "Most nationalities need a Chinese group visa from the embassy in Kathmandu, which keeps your original passport for several working days; arrive in Kathmandu early. Check current status before you travel.",
+    "Indian passport holders: Lhasa-only tours have not been possible in every season, as permits for Indians have focused on the Kailash yatra. Check current status before you travel.",
+    "Yamdrok is visited on day four, after three nights in Lhasa, because the Kamba La is about 1,100 m higher than the city.",
+    "Upgrades to the St. Regis or Shangri-La make this a comfortable honeymoon or anniversary trip; ask for rates."
+  ],
+  "add_ons": [
+    {"name": "Upgrade to Shangri-La Hotel, Lhasa (4 nights)", "price": "From ≈ ₹26,000 per person"},
+    {"name": "Extend to Gyantse and Shigatse (2 extra days)", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "Can I see Yamdrok Lake on a day trip from Lhasa?", "a": "Yes. Yamdrok is about 110 km from Lhasa, 2.5–3 hours each way, over the Kamba La at about 4,790 m. A day trip with time at the viewpoint and the lakeshore takes 8–9 hours. We schedule it after two or three nights in Lhasa for acclimatisation."},
+    {"q": "How much does a Lhasa and Yamdrok tour cost from Kathmandu?", "a": "From ₹98,000 (US$1,140) per person, twin sharing, for two travellers, including return flights from Kathmandu, visa processing, permit, 3-star hotel with breakfast, private guide and vehicle, and entrance fees. The visa fee, most meals and tips are extra."},
+    {"q": "Is 5 days enough for Lhasa?", "a": "It is enough for the main sites and Yamdrok Lake at a gentle pace. You will miss Drepung, Ganden and the road west to Gyantse and Shigatse, which our 5-night Lhasa tour and Tibet group tour include. For a short break, five days works well."},
+    {"q": "What is the altitude of Yamdrok Lake?", "a": "Yamdrok Lake lies at about 4,440 m and the Kamba La viewpoint at about 4,790 m, roughly 1,100 m above Lhasa. Move slowly at the viewpoint, drink water and tell your guide if you feel dizzy. Most visitors who have spent three nights in Lhasa cope well."},
+    {"q": "Is this tour good for a honeymoon?", "a": "Yes, especially with an upgrade to the St. Regis or Shangri-La. The private guide and vehicle let you set your own pace, and Yamdrok and the Potala make memorable photographs. Be aware that altitude can cause tiredness in the first days."},
+    {"q": "Do I need a Chinese visa for this short Lhasa tour?", "a": "Yes. Travellers from Nepal need a Chinese group visa issued in Kathmandu and the Tibet Travel Permit, both arranged by us. The visa process keeps your passport for several working days, so plan to be in Kathmandu beforehand. Check current status before you travel."},
+    {"q": "Can I swim or take a boat on Yamdrok Lake?", "a": "No. Yamdrok is a sacred lake for Tibetans, and swimming and boating are not allowed. You can walk on the shore, take photographs and offer khata scarves at cairns. Vendors charge for photographs with yaks and Tibetan mastiffs."},
+    {"q": "What is the best season for Yamdrok Lake?", "a": "April to June and September to October bring the clearest skies and the most vivid lake colours. July and August are greener but cloudier. In winter the lake can partially freeze and the Kamba La may be icy. Tibet often closes to foreigners around February and March."},
+    {"q": "Can children join the Lhasa and Yamdrok tour?", "a": "Healthy children used to travel usually manage, as the itinerary has no trekking. The main concerns are altitude on arrival and at the Kamba La. Consult a paediatrician, keep children warm and hydrated, and tell us their ages when booking."}
+  ]
+}

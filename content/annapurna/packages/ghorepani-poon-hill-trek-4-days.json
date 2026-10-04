@@ -1,0 +1,162 @@
+{
+  "slug": "ghorepani-poon-hill-trek-4-days",
+  "title": "Ghorepani Poon Hill Trek 4 Days from Pokhara",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 3,
+  "themes": ["trekking", "short-breaks", "budget-nepal", "photography"],
+  "stops": [
+    {"place": "pokhara", "nights": 0},
+    {"place": "ghorepani", "nights": 1},
+    {"place": "poon-hill", "nights": 0},
+    {"place": "ghandruk", "nights": 0}
+  ],
+  "start": "Pokhara (hotel pick-up)",
+  "end": "Pokhara",
+  "price_from_inr": 29000,
+  "price_from_usd": 340,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3210,
+  "accommodation": "Teahouse lodges with twin rooms (Ulleri, Ghorepani, Tadapani)",
+  "transport": "Private jeep Pokhara–Hile and Ghandruk–Pokhara",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Ghorepani Poon Hill trek in 4 days from Pokhara: Ulleri, Ghorepani, Poon Hill sunrise at 3,210 m, Tadapani and Ghandruk. Guide, permits and meals included.",
+  "summary": "A 4-day loop from Pokhara through rhododendron forest to Ghorepani, a dawn climb to Poon Hill at 3,210 m for Dhaulagiri and Annapurna South, then down via Tadapani to the Gurung village of Ghandruk. Daily walks of 3–6 hours with jeeps at both ends.",
+  "intro": [
+    "This is the shortest proper trek in the Annapurna region and the one we recommend to first-timers, families with teenagers and anyone with only a few days after a Pokhara holiday. You drive to Hile, climb the stone staircase to Ulleri, walk through moss-hung forest to Ghorepani and wake at 4:45 am for the 45–60 minute climb to Poon Hill. From the tower at 3,210 m, Dhaulagiri at 8,167 m and the Annapurna range light up one after another.",
+    "We walk the loop anticlockwise, which puts the steepest climbing on day one when legs are fresh and saves the gentler descent through Tadapani and Ghandruk for the end. Nights are spent in family-run teahouses with shared or attached bathrooms. The highest sleeping altitude is Ghorepani at 2,874 m, so altitude sickness is rare, though you will notice the thinner air on the Poon Hill steps. Our licensed guide handles permits, lodge bookings and pacing."
+  ],
+  "highlights": [
+    "Sunrise on Dhaulagiri, Annapurna South and Machhapuchhre from Poon Hill, 3,210 m",
+    "The 3,000-odd stone steps from Tikhedhunga to Ulleri",
+    "Rhododendron forest between Banthanti and Ghorepani, in bloom March–April",
+    "Ridge walk over the Deurali pass at 3,090 m to Tadapani",
+    "Slate-roofed Ghandruk, home of Gurkha families and the Gurung museum",
+    "Jeep transfers at both ends, so only 4 days from Pokhara"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara to Ulleri via Hile",
+      "place": "",
+      "overnight": "Ulleri",
+      "altitude_m": 2020,
+      "max_m": 2020,
+      "walk": "≈ 3–4 h · 6 km",
+      "drive": "≈ 50 km · 2.5 h",
+      "flight": "",
+      "text": "We collect you from your Pokhara hotel at 8 am and drive west along the Baglung highway to Nayapul, then up a dirt road to Hile at 1,430 m. Your guide shows your ACAP permit at the checkpost and the walk begins. After crossing the Bhurungdi Khola at Tikhedhunga, the trail turns into the famous staircase: roughly 3,300 stone steps climbing 480 m to the Magar village of Ulleri. Take it slowly, with breaks in the shade. By late afternoon you reach the lodge, where Annapurna South and Hiunchuli often appear above the terraces at sunset.",
+      "meals": "L, D"
+    },
+    {
+      "day": 2,
+      "title": "Ulleri to Ghorepani through the forest",
+      "place": "ghorepani",
+      "overnight": "Ghorepani",
+      "altitude_m": 2874,
+      "max_m": 2874,
+      "walk": "≈ 4–5 h · 8 km",
+      "drive": "",
+      "flight": "",
+      "text": "After breakfast the climb continues more gently out of Ulleri, past the last fields and into a forest of oak, maple and rhododendron. Banthanti, about 2 hours in, is the tea stop; Nangethanti follows an hour later. In March and April this stretch glows with red and pink blooms, while in autumn it is cool and full of birdsong. The trail gains about 850 m in total. Ghorepani, a village of blue-roofed lodges on a saddle at 2,874 m, appears in early afternoon. Rest, drink plenty of tea and go to bed early: the alarm is set for 4:45 am.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Poon Hill sunrise, walk to Tadapani",
+      "place": "poon-hill",
+      "overnight": "Tadapani",
+      "altitude_m": 2630,
+      "max_m": 3210,
+      "walk": "≈ 1.5 h Poon Hill return + 5–6 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "In the dark we climb about 340 m on stone steps to Poon Hill, 45–60 minutes with headtorches. From the viewing tower at 3,210 m, the sun first hits Dhaulagiri at 8,167 m to the west, then Tukuche, Nilgiri, Annapurna South, Hiunchuli and the fishtail of Machhapuchhre to the east. Back in Ghorepani for breakfast, we pack and head east along a forested ridge to the Deurali pass at 3,090 m, with more views, then descend through rhododendron and a stream gorge to Tadapani at 2,630 m. It is the longest day of the trek.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Tadapani to Ghandruk, drive to Pokhara",
+      "place": "ghandruk",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 2630,
+      "walk": "≈ 3 h · 6 km",
+      "drive": "≈ 55 km · 3 h",
+      "flight": "",
+      "text": "Tadapani faces Machhapuchhre and Annapurna South head-on, so step out for the dawn light before breakfast. The trail then drops about 700 m through forest and terraced fields to Ghandruk at 1,940 m, one of the largest Gurung villages in Nepal. Walk its stone lanes, visit the small Gurung museum and stop for lunch with a view of the peaks you watched from Poon Hill. In the early afternoon our jeep takes you down via Kimche and Nayapul, about 3 hours, back to your Pokhara hotel.",
+      "meals": "B, L"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Licensed English- or Hindi-speaking trekking guide for 4 days",
+    "One porter for every two trekkers (up to 10 kg per person)",
+    "ACAP entry permit and any trekking registration currently required",
+    "Private jeep Pokhara–Hile and Ghandruk–Pokhara",
+    "Three nights in teahouse lodges on twin sharing",
+    "All meals on the trail: 4 lunches, 3 dinners and 3 breakfasts",
+    "Boiled or purified drinking water refills",
+    "First-aid kit carried by the guide and staff insurance"
+  ],
+  "excludes": [
+    "Hotel nights in Pokhara before and after the trek",
+    "Travel and medical insurance with helicopter evacuation cover",
+    "Poon Hill viewpoint entry ticket (small fee paid at the gate)",
+    "Hot showers, battery charging and Wi-Fi where lodges charge",
+    "Bottled drinks, snacks, alcohol and desserts",
+    "Tips for guide and porter",
+    "Flights or buses between Kathmandu and Pokhara"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing in teahouses for a group of 2 or more; solo travellers pay a supplement for a private guide and room.",
+    "The ACAP permit costs NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians; it is included. Since 2023 Nepal's rules require foreign trekkers in conservation areas to walk with a licensed guide, which our package covers; check current status before you travel.",
+    "The Ulleri staircase is the hardest part: about 480 m of continuous steps. Knee problems? Ask us about the reverse direction, which climbs gently via Ghandruk instead.",
+    "Rooms in peak October–November and April are simple twins; attached bathrooms are available in Ghorepani and Ghandruk at extra cost if booked early.",
+    "Weather can hide the peaks on any morning. Clear sunrises are most likely from October to December."
+  ],
+  "add_ons": [
+    {"name": "Extra night in Ghandruk with village walk", "price": "≈ ₹3,500 / US$ 40 per person"},
+    {"name": "Private room upgrade with attached bathroom", "price": "≈ ₹1,500 / US$ 20 per room per night"},
+    {"name": "Kathmandu–Pokhara flights", "price": "≈ US$ 100–130 one way"}
+  ],
+  "faqs": [
+    {
+      "q": "Is the Ghorepani Poon Hill trek suitable for beginners?",
+      "a": "Yes. It is the most popular first trek in Nepal, with daily walks of 3–6 hours and a top sleeping altitude of 2,874 m. The challenge is the steps: the climb to Ulleri and the pre-dawn ascent of Poon Hill are steep. Anyone who walks regularly and can climb stairs for an hour with breaks will manage comfortably."
+    },
+    {
+      "q": "Can children do the Poon Hill trek in 4 days?",
+      "a": "Children aged about 8 and over who enjoy walking usually do well. The altitude is moderate and the teahouses are friendly. For younger children or a slower pace, we suggest stretching it to 5 days or reversing the route so the steps come down rather than up. Porters can carry children's bags, and we can add a spare day."
+    },
+    {
+      "q": "How much does the Poon Hill trek cost from Pokhara?",
+      "a": "Our 4-day package starts from about ₹29,000 or US$340 per person on twin sharing, including guide, porter, permits, teahouse rooms, all trail meals and jeeps. Independent trekkers spend roughly US$25–35 a day on food and rooms, plus the permit and transport. Prices for the package rise slightly for solo travellers or in peak October."
+    },
+    {
+      "q": "What is the best time for Ghorepani Poon Hill?",
+      "a": "October to early December gives the clearest sunrises. March and April bring rhododendrons in full bloom, with hazier views in the afternoon. January and February are cold, around −5 °C at dawn on Poon Hill, but often clear and quiet. June to September is monsoon: muddy, leech-prone and usually cloudy at sunrise."
+    },
+    {
+      "q": "Will I get altitude sickness on the Poon Hill trek?",
+      "a": "It is unlikely. The highest night is Ghorepani at 2,874 m and the high point is Poon Hill at 3,210 m, below the heights where altitude sickness usually becomes common. Some people feel breathless on the steps or have a mild headache. Drink plenty of water, go slowly and tell your guide if symptoms get worse."
+    },
+    {
+      "q": "Do I need a guide for Poon Hill?",
+      "a": "Under rules in place since April 2023, foreign trekkers in Nepal's conservation areas should be accompanied by a licensed guide booked through a registered agency, though enforcement on this trail has varied. The route is well marked, but a guide handles permits, lodge bookings in busy months and the dark climb to Poon Hill. Check current status before you travel."
+    },
+    {
+      "q": "Can I do Poon Hill trek without a porter?",
+      "a": "Yes, if you are happy to carry your own 8–10 kg pack. On a 4-day trek you need little: warm layers, a rain shell, toiletries and a light sleeping bag liner. A porter makes the Ulleri steps much easier and supports local employment. Our price includes one porter for every two trekkers; you can remove it for a small discount."
+    },
+    {
+      "q": "What is the Poon Hill trek route in 4 days?",
+      "a": "Day 1: drive Pokhara to Hile and walk to Ulleri at 2,020 m. Day 2: Ulleri to Ghorepani at 2,874 m. Day 3: Poon Hill sunrise at 3,210 m, then walk to Tadapani at 2,630 m. Day 4: Tadapani to Ghandruk at 1,940 m and drive back to Pokhara. Total walking is about 30 km."
+    },
+    {
+      "q": "What should I pack for a 4-day Poon Hill trek?",
+      "a": "Pack light: broken-in walking shoes or boots, two pairs of trekking socks, quick-dry trousers and tops, a fleece, a down jacket for the dawn on Poon Hill, a rain jacket, a hat, gloves, a headtorch, sunscreen, a water bottle and a sleeping bag or liner. Keep cash in rupees for snacks and showers."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "sakela-kirat-festival",
+    "name": "Sakela (Ubhauli and Udhauli)",
+    "place": "dhankuta",
+    "wiki": "Sakela",
+    "image_query": "Sakela dance Rai festival",
+    "when": "Baisakh full moon (Apr–May) and Mangsir full moon (Nov–Dec)",
+    "month_nums": [4, 5, 11, 12],
+    "summary": "Sakela is the main festival of the Kirat Rai, held twice a year: Ubhauli at the Baisakh full moon to open the farming year, and Udhauli at the Mangsir full moon to give thanks for the harvest. Circles of dancers in traditional dress move to drums and cymbals across the eastern hills.",
+    "body": [
+      "For the Rai people, one of the Kirat peoples of eastern Nepal, Sakela is a prayer to nature and the earth for good crops and protection from disaster. The spring celebration, Sakela Ubhauli, begins at Baisakh Purnima, the full moon of April or May, when families prepare to sow; the word ubhauli relates to the upward movement of people and birds to the hills. The autumn celebration, Sakela Udhauli, falls at the Mangsir full moon in November or December, at harvest, as people and herds move back down.",
+      "The heart of the festival is the Sakela dance, or sili. Men and women in traditional dress, with the women in bright cloth and silver jewellery, form a large circle around a sacred stone or shrine called the sakela than and move to the beat of the dhol and jhyamta, imitating the movements of birds, animals and farm work. A silimangpa leads the dancers, and ritual priests make offerings. Celebrations can last for days, with feasting and tongba.",
+      "In the hills of Dhankuta, Khotang, Bhojpur, Sankhuwasabha and Ilam, village grounds host Sakela gatherings, and in recent years big public events in Dharan, Kathmandu and other towns have brought thousands of dancers together. Visitors are welcome to watch, and often to join the outer circle once the formal part is over. The exact dates follow the lunar calendar and local decisions, so check current status before you travel."
+    ],
+    "tips": [
+      "Ask your guide to confirm the local celebration date a week or two ahead; villages sometimes hold events on weekends near the full moon.",
+      "Dress modestly and ask before photographing ritual offerings or elders leading the ceremony.",
+      "Join the dance only when invited, and follow the steps of the person in front of you."
+    ],
+    "faqs": [
+      {"q": "When is Sakela celebrated?", "a": "Twice a year: Sakela Ubhauli at Baisakh Purnima (April–May) and Sakela Udhauli at Mangsir Purnima (November–December). Local events can spread over several days around those dates. Check current status before you travel."},
+      {"q": "Who celebrates Sakela?", "a": "Sakela is the main festival of the Rai (Khambu) people of eastern Nepal, Sikkim and the Darjeeling hills. Other Kirat groups have related festivals, and many neighbours join public celebrations."},
+      {"q": "Where can tourists see Sakela in east Nepal?", "a": "In Rai villages of Dhankuta, Khotang, Bhojpur, Sankhuwasabha and Ilam, and at large public gatherings in towns such as Dharan. We arrange village visits around the full moon when local organisers welcome guests."},
+      {"q": "Can visitors join the Sakela dance?", "a": "Often, yes. After the opening rituals the circle usually opens to anyone who follows the steps respectfully. Watch first, wait to be invited and follow the person ahead of you."}
+    ]
+  },
+  {
+    "slug": "halesi-maha-shivaratri-mela",
+    "name": "Maha Shivaratri at Halesi Mahadev",
+    "place": "halesi-mahadev",
+    "wiki": "Maha Shivaratri",
+    "image_query": "Halesi Mahadev Shivaratri pilgrims",
+    "when": "Feb–Mar, the night of Phalgun Krishna Chaturdashi",
+    "month_nums": [2, 3],
+    "summary": "On Maha Shivaratri, the great night of Shiva in February or March, tens of thousands of pilgrims, sadhus and families crowd the Halesi caves in Khotang, queuing through the night for darshan of Halesi Mahadev while a fair fills the village.",
+    "body": [
+      "Maha Shivaratri is the most important night of the year for Shiva devotees, and in eastern Nepal no site draws more pilgrims for it than Halesi Mahadev. In the days before the festival, buses, jeeps and walkers converge on Mahadevsthan village from across Khotang, Udayapur, Okhaldhunga, the Terai and the Indian border districts, and sadhus set up camp around the caves with fires and ash-smeared foreheads.",
+      "Through the night of Shivaratri, devotees fast, keep vigil and queue to enter the main cave and make offerings at the natural lingam of Halesi Mahadev, with priests chanting and bells ringing continuously. The queues can stretch for hours. Around the caves, a mela of stalls sells puja items, sweets, bangles, toys and food, and local groups play music and sing bhajans late into the night.",
+      "It is the most atmospheric time to see Halesi and also the hardest. Rooms in the village sell out weeks ahead, roads are congested and the caves are packed. Pilgrims who want a calmer darshan often visit in the days just before or after the festival. The date follows the lunar calendar, falling on the 14th night of the dark half of Phalgun; check current status before you travel."
+    ],
+    "tips": [
+      "Book accommodation in Mahadevsthan at least a month ahead, or plan a helicopter day trip a day before or after the main night.",
+      "Carry water, snacks and a warm layer for long night queues in February.",
+      "Keep valuables to a minimum and keep children close in the crowds."
+    ],
+    "faqs": [
+      {"q": "When is Shivaratri at Halesi?", "a": "Maha Shivaratri falls in February or March, on the 14th night of the dark fortnight of Phalgun in the lunar calendar. The exact date changes each year, so check current status before you travel."},
+      {"q": "How crowded is Halesi on Shivaratri?", "a": "Very crowded. Tens of thousands of pilgrims visit over the festival, queues for the main cave can last hours and village rooms sell out. Visiting a day or two before or after is much calmer."},
+      {"q": "Can we fly to Halesi for Shivaratri?", "a": "Helicopter charters from Kathmandu fly to Halesi in about 45 minutes, and demand is high around Shivaratri. Book early, and expect crowds on the ground even if you skip the road journey."},
+      {"q": "What do pilgrims do on Shivaratri?", "a": "Devotees fast, keep a night-long vigil, offer milk, bel leaves, flowers and water to the Shiva lingam and chant 'Om Namah Shivaya'. Sadhus gather around fires, and a fair runs around the temple."}
+    ]
+  }
+]

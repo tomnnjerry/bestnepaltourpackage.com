@@ -1,0 +1,131 @@
+{
+  "slug": "chandanbari",
+  "name": "Chandanbari (Sing Gompa)",
+  "region": "langtang",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Sing Gompa Chandanbari Langtang",
+  "lat": 28.0985,
+  "lng": 85.3655,
+  "altitude_m": 3330,
+  "tagline": "Forest clearing at 3,330 m with a gompa and a cheese dairy",
+  "meta_description": "Chandanbari or Sing Gompa (3,330 m) is the first stop on the Gosaikunda trek from Dhunche: monastery, cheese dairy, red panda forest and Cholang Pati views.",
+  "summary": "Chandanbari, better known as Sing Gompa, is a small settlement at about 3,330 m in fir and rhododendron forest, a 5–6 hour climb from Dhunche. It is the usual first night on the Gosaikunda trek, with a small Buddhist monastery, a government cheese dairy and lodges, and views from nearby Cholang Pati.",
+  "intro": [
+    "Chandanbari sits in a clearing in old-growth forest on the ridge between Dhunche and Gosaikunda. The name Sing Gompa comes from the small Buddhist monastery at the top of the settlement; Chandanbari, meaning sandalwood garden, is the name used on government signs. A dozen or so lodges, a cheese dairy run by the state and a few herders' huts make up the place. It is quiet for most of the year and transformed in August when Janai Purnima pilgrims pass through by the thousand.",
+    "Two trails meet here. From the west comes the climb from Dhunche via Deurali, and from the north the path from Thulo Syabru via Foprang Danda, used by trekkers coming over from the Langtang Valley. Above Chandanbari the trail continues up through Cholang Pati (3,584 m) and Lauribina (3,910 m) to Gosaikunda (4,380 m), so this is the last real forest stop before the alpine zone.",
+    "The forests around Chandanbari are some of the best red panda habitat in Langtang National Park, with fir, hemlock, rhododendron and bamboo undergrowth. Mornings are often clear, with views west to the Ganesh Himal and north to Langtang Lirung from the ridge above the lodges. At 3,330 m nights are cold, below freezing from November to March, and the clearing is often wrapped in mist by afternoon."
+  ],
+  "facts": [
+    ["Altitude", "3,330 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Kathmandu"],
+    ["From Kathmandu", "≈ 117 km drive to Dhunche + 5–6 h walk"],
+    ["Known for", "Sing Gompa monastery, cheese dairy, red panda forest"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 1, 2, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sing Gompa monastery", "text": "The small gompa that gives the place its common name sits above the lodges, with prayer flags, a chorten and views through the trees. Visit in the evening when butter lamps are lit. It was repaired after damage in the 2015 earthquake."},
+    {"title": "Government cheese dairy", "text": "A small state-run dairy makes hard cheese from yak and chauri milk brought by herders in the surrounding pastures. Production is seasonal, but cheese is usually on sale, and it makes a good comparison with the Kyanjin factory in the Langtang Valley."},
+    {"title": "Red panda forest", "text": "The fir, hemlock and bamboo forest around Chandanbari is prime red panda habitat. Early morning walks with a quiet guide offer the best chance of a sighting, though nothing is guaranteed. Himalayan monal and blood pheasant are seen more often."},
+    {"title": "Cholang Pati viewpoint", "text": "An hour above Chandanbari, the clearing at Cholang Pati (3,584 m) opens up views of Langtang Lirung, the Ganesh Himal and on clear days Manaslu. Families and older pilgrims often walk up here and back as a short excursion."},
+    {"title": "Meeting point of two trails", "text": "Trekkers from Thulo Syabru and the Langtang Valley join pilgrims from Dhunche here, so the lodges see a mix of Nepali and Indian pilgrims, international trekkers and guides swapping news about conditions at the lake."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Drive about 117 km and 6–7 hours from Kathmandu to Dhunche via Trishuli Bazaar. Rough tracks above Dhunche are sometimes used by jeeps in the dry season towards Deurali; ask for current conditions."},
+    {"mode": "On foot", "text": "From Dhunche (1,960 m) walk 5–6 hours via Deurali, gaining about 1,370 m. From Thulo Syabru (2,210 m) walk 4–5 hours via Dursagang and Foprang Danda, gaining about 1,120 m."},
+    {"mode": "Helicopter", "text": "There are no tourist flights to Chandanbari, but rescue helicopters can land in the clearing in an emergency. The nearest tour landing is Gosaikunda."}
+  ],
+  "where_to_stay": "Around ten to fifteen simple teahouse lodges stand in the clearing, built of timber and stone with twin rooms, shared toilets, blankets and a warm dining room with a wood stove. Some have been rebuilt since 2015 with attached bathrooms. Electricity is solar and limited. There are no hotels. In August during Janai Purnima, lodges are crammed and many pilgrims sleep in dining halls or tents, so we carry tents on festival dates. In October and spring, rooms are easy to find. Choose a lodge near the top of the clearing for morning views and a shorter walk to the monastery.",
+  "stays": [],
+  "tips": [
+    "Rest an extra night here if you feel a headache after the 1,370 m climb from Dhunche.",
+    "Walk up to Cholang Pati at dawn for the clearest mountain views before cloud rises from the valleys.",
+    "Buy cheese at the dairy to carry as a high-energy snack for the climb to Gosaikunda.",
+    "Carry a warm hat and gloves even in August; nights here are cold and damp.",
+    "Walk quietly in the forest early in the morning if you hope to see red pandas or pheasants."
+  ],
+  "themes": ["trekking", "pilgrimage", "family-holidays", "photography"],
+  "nearby": ["gosaikunda", "dhunche", "syabrubesi"],
+  "experiences": [
+    {
+      "slug": "sing-gompa-cheese-dairy-and-monastery",
+      "title": "Sing Gompa monastery and cheese dairy visit",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Late afternoon, Apr–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Sing Gompa monastery prayer flags forest",
+      "wiki": "",
+      "summary": "An easy hour around Chandanbari: the small gompa with its prayer flags and butter lamps, then the state cheese dairy where herders' milk becomes hard mountain cheese. A relaxed way to end the climb from Dhunche.",
+      "body": [
+        "After the steep climb from Dhunche, an easy stroll around the clearing helps your legs recover and your body adjust to 3,330 m. Start at Sing Gompa, the small monastery at the top of the settlement. It is a simple building with a painted interior, prayer wheels and a chorten outside. If a caretaker is present, you can step inside, remove shoes and leave a donation. Evening is the best time, when lamps are lit.",
+        "The cheese dairy, run by a government dairy corporation, sits a short walk away. Herders bring milk from yaks and chauri grazing on nearby pastures, and it is pressed into firm wheels similar to the cheese at Kyanjin Gompa. Production is seasonal, mostly from late spring to autumn, but cheese is usually for sale. Lodges serve it on toast, in sandwiches and pizzas.",
+        "Children enjoy seeing the cheese being made when it is in season, and the monastery is peaceful even when the trail is busy. The whole visit takes about an hour. If you have energy left, walk 10 minutes into the forest above the lodges to look for birds in the late light, but be back before dark."
+      ],
+      "good_for": ["families", "pilgrims", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Is there a cheese factory at Sing Gompa?", "a": "Yes. Chandanbari has a small government-run cheese dairy that makes hard cheese from yak and chauri milk collected from nearby herders. Production is seasonal, mainly late spring to autumn, but cheese is usually on sale at the dairy or lodges. It is smaller than the better-known Kyanjin Gompa factory."},
+        {"q": "Why is Chandanbari called Sing Gompa?", "a": "Sing Gompa is the name of the small Buddhist monastery in the settlement, and trekkers and guides adopted it for the whole place. Chandanbari, meaning sandalwood garden, is the official Nepali name you will see on park signs and maps. Both names refer to the same lodges and clearing."},
+        {"q": "Can I enter Sing Gompa monastery?", "a": "Usually yes, when the caretaker is around, often in the morning and evening. Remove shoes, walk clockwise, do not touch statues or offerings, and ask before taking photos. A donation of NPR 100–200 is appreciated. During Janai Purnima the monastery is busy with Buddhist and Hindu pilgrims alike."}
+      ]
+    },
+    {
+      "slug": "cholang-pati-viewpoint-hike",
+      "title": "Dawn hike to Cholang Pati viewpoint",
+      "kind": "hiking",
+      "duration": "2–3 hours return",
+      "best_time": "Dawn, Oct–Nov and Mar–May",
+      "price_hint": "Included in most treks",
+      "image_query": "Cholang Pati Langtang Lirung view",
+      "wiki": "",
+      "summary": "A one-hour climb from Chandanbari to the clearing at Cholang Pati (3,584 m) for sunrise on Langtang Lirung, the Ganesh Himal and sometimes Manaslu. A good short outing for families and an acclimatisation walk for pilgrims.",
+      "body": [
+        "Cholang Pati is a small clearing with a couple of lodges on the trail above Chandanbari, at about 3,584 m. The path climbs through fir and rhododendron forest for about an hour, gaining 250 m, and comes out on an open shoulder where the trees thin. On clear mornings Langtang Lirung (7,227 m) dominates the view to the north, the Ganesh Himal rises to the west, and on very clear days Manaslu appears further west.",
+        "Start 45 minutes before sunrise with a headlamp. The first light catches the summits while the valleys below are still dark, and forest birds start calling as you climb. Himalayan monal, the colourful national bird of Nepal, is often seen in the open areas near Cholang Pati in the early morning. Return to Chandanbari for breakfast, or continue on to Lauribina and Gosaikunda if this is your trekking day.",
+        "For families on a short Sing Gompa trek, this is the high point of the trip and a safe height for children who have acclimatised overnight at Chandanbari. For pilgrims heading to Gosaikunda, going up and back down to sleep is excellent acclimatisation. Carry a warm jacket, gloves and water."
+      ],
+      "good_for": ["families", "photographers", "pilgrims", "couples"],
+      "faqs": [
+        {"q": "How high is Cholang Pati?", "a": "Cholang Pati lies at about 3,584 m, roughly 250 m above Chandanbari (Sing Gompa) and on the main trail to Lauribina and Gosaikunda. The climb takes about an hour. It is a good viewpoint and a safe target for families who do not want to go to the lake at 4,380 m."},
+        {"q": "Can children do the Cholang Pati hike?", "a": "Yes, children aged about 7 and above who have trekked to Chandanbari usually manage it well. The trail is steady, not exposed, and takes about an hour up. Go slowly, keep them warm and well fed, and turn back if they complain of headache or nausea, which can signal altitude sickness."},
+        {"q": "What birds can be seen at Cholang Pati?", "a": "Himalayan monal, blood pheasant, spotted nutcracker and various tits and laughingthrushes are common in the forest and clearings around Cholang Pati in the early morning. Lammergeiers and Himalayan griffons often soar overhead later in the day. Bring binoculars and walk quietly."}
+      ]
+    },
+    {
+      "slug": "chandanbari-red-panda-forest-walk",
+      "title": "Red panda forest walk with a local guide",
+      "kind": "wildlife",
+      "duration": "3 hours",
+      "best_time": "Early morning, Mar–May and Sep–Nov",
+      "price_hint": "≈ ₹2,000–3,000 per group, check locally",
+      "image_query": "red panda Langtang National Park",
+      "wiki": "Red panda",
+      "summary": "A slow early-morning walk through fir and bamboo forest around Chandanbari looking for red pandas, monals and other wildlife of Langtang National Park. Sightings are not guaranteed, but the forest itself is reason enough.",
+      "body": [
+        "Langtang National Park is one of the best places in Nepal to see the red panda, a small, shy, tree-climbing mammal with a ringed tail that feeds mostly on bamboo leaves. The forests between Chandanbari, Thulo Syabru and Lama Hotel hold a significant population. A dedicated morning walk with a local guide who knows recent sightings gives you the best chance of seeing one.",
+        "Walks start at first light, when red pandas are most active, and go slowly along side trails through fir, hemlock and rhododendron with bamboo undergrowth. Your guide looks for droppings, chewed bamboo and movement high in the branches. Even without a panda, you are likely to see Himalayan monal, blood pheasant, langur monkeys and perhaps musk deer tracks.",
+        "Keep groups small, speak quietly and do not use flash or try to approach animals. Red pandas are endangered and easily disturbed. Spring, when bamboo has fresh shoots, and autumn are the best seasons. The walk takes about 3 hours and can be arranged on an extra day at Chandanbari on a family or pilgrimage trek."
+      ],
+      "good_for": ["photographers", "families", "couples", "solo"],
+      "faqs": [
+        {"q": "Can you see red pandas in Langtang?", "a": "Yes, Langtang National Park has one of Nepal's important red panda populations, especially in the forests around Chandanbari, Thulo Syabru and Lama Hotel. They are shy and sightings are occasional, perhaps one in several dedicated walks. Early morning walks with a local guide in spring or autumn give the best odds."},
+        {"q": "What is the best time to see red pandas?", "a": "Early morning, from first light to about 9 am, is best, as red pandas feed and move then. March to May, when bamboo shoots are fresh, and September to November are the best months. In the monsoon the forest is wet and dense, and in winter animals move to lower slopes."},
+        {"q": "Is the red panda walk suitable for children?", "a": "Yes, for children who can walk quietly for 2–3 hours. The trails are uneven but not steep. Keep expectations realistic, as sightings are not guaranteed, and make it a wider nature walk with birds, langurs and tracks. Binoculars for each child help keep them interested."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Sing Gompa?", "a": "Sing Gompa, or Chandanbari, lies at about 3,330 m. It is about 1,370 m above Dhunche and 1,050 m below Gosaikunda. Most trekkers sleep here one night, and some spend two to acclimatise better before continuing to Lauribina (3,910 m) and the lake."},
+    {"q": "How long from Dhunche to Chandanbari?", "a": "Most walkers take 5–6 hours from Dhunche (1,960 m) to Chandanbari (3,330 m), climbing steadily via Deurali through oak, rhododendron and fir forest. The first 3 hours to Deurali are steepest. Older pilgrims often take 7 hours or split the walk with a night at Deurali."},
+    {"q": "How long from Sing Gompa to Gosaikunda?", "a": "About 5–6 hours via Cholang Pati (3,584 m) and Lauribina (3,910 m), gaining about 1,050 m. Many itineraries sleep at Lauribina and walk the final 2–3 hours to the lake the next morning, which is easier on the body at altitude."},
+    {"q": "Is Chandanbari good for a family trek?", "a": "Yes. Chandanbari makes a good target for families who want a taste of the mountains without going above about 3,600 m. With a jeep to Dhunche, a gentle climb over one or two days, the cheese dairy, the monastery and the Cholang Pati viewpoint, it fits a 5–6 day trip."},
+    {"q": "Can I reach Sing Gompa from the Langtang Valley?", "a": "Yes. From the Langtang Valley trail, go to Thulo Syabru (2,210 m), then walk 4–5 hours via Dursagang and Foprang Danda to Chandanbari. This links the Langtang Valley and Gosaikunda treks into one 10–12 day route without returning to Syabrubesi."},
+    {"q": "Is there Wi-Fi at Chandanbari?", "a": "Some lodges offer Wi-Fi for a fee, and mobile data works in parts of the clearing, but connections are slow and drop in bad weather. Electricity is solar-powered and limited, so charging may cost extra. Expect to be largely offline from here up to Gosaikunda."},
+    {"q": "What does Chandanbari mean?", "a": "Chandanbari means sandalwood garden in Nepali. Despite the name, the forest here is mostly fir, hemlock and rhododendron, not sandalwood. The common trekker's name Sing Gompa comes from the small monastery in the settlement."},
+    {"q": "Is Chandanbari crowded during Janai Purnima?", "a": "Very. In the days around the August full moon, thousands of pilgrims pass through, lodges overflow and many people sleep in halls or tents. Food runs short and prices rise. If you want to walk during the festival, start two or three days early and travel with an agency that carries tents and supplies."},
+    {"q": "How cold is Chandanbari at night?", "a": "In October and November nights drop to around −3 to 2 °C, and from December to February they can fall to −10 °C with snow. Even in August it is about 6–10 °C at night and damp. Bring a warm sleeping bag rated to at least −10 °C, or rent one in Kathmandu."}
+  ]
+}

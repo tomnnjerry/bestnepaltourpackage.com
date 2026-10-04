@@ -1,0 +1,81 @@
+{
+  "slug": "janakpur-ram-janaki-darshan-2-nights",
+  "title": "Janakpur Ram Janaki Darshan 2 Nights 3 Days",
+  "region": "chitwan",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["pilgrimage", "cultural-tours", "short-breaks"],
+  "stops": [{"place": "janakpur", "nights": 2}, {"place": "dhanusadham", "nights": 0}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 19000,
+  "price_from_usd": 250,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Best available 3-star hotel near the Janaki Mandir, twin sharing",
+  "transport": "Kathmandu–Janakpur return flights, private car and e-rickshaws in Janakpur",
+  "group": "Private families and pilgrim groups, 2–20",
+  "meta_description": "Janakpur Ram Janaki darshan 2 nights 3 days by flight from Kathmandu: Janaki Mandir aarti, Vivah Mandap, Ram Mandir, Ganga Sagar, Dhanusadham. From ₹19,000.",
+  "summary": "A short pilgrimage by air to Janakpur, Sita's birthplace, with two evening aartis at the Janaki Mandir, darshan at the Vivah Mandap and Ram Mandir, a dawn walk to Ganga Sagar, a half-day trip to Dhanusadham and a visit to the Mithila art centre. Vegetarian meals and a local guide are included.",
+  "intro": [
+    "Janakpur is a must for anyone following the Ramayana: the city of King Janak, where Sita was born and where Rama broke Shiva's bow to marry her. This package uses flights to turn a long road journey into a comfortable three-day darshan. You arrive in time for the first evening aarti at the white marble Janaki Mandir, spend a full day at the temples, ponds and Dhanusadham, and fly back after morning darshan on the third day.",
+    "A local Maithili-speaking guide stays with you throughout, explains the stories behind each shrine, and arranges a special puja with temple priests if you wish. Hotels in Janakpur are simple, so we choose clean 3-star properties within walking distance of the temple, with pure vegetarian kitchens. The trip suits families, senior pilgrims and Indian visitors who want to add Janakpur to a Kathmandu holiday. For the wedding festival, see our Vivah Panchami tour."
+  ],
+  "highlights": [
+    "Two evening aartis at the Janaki Mandir",
+    "Darshan at the Vivah Mandap, where Sita and Rama are believed to have married",
+    "Dawn at Ganga Sagar and the Ram Mandir",
+    "Half day at Dhanusadham, shrine of Shiva's broken bow",
+    "Mithila painting at the Janakpur Women's Development Centre",
+    "Return flights instead of a 7–8 hour drive"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Janakpur, evening aarti", "place": "janakpur", "overnight": "Janakpur", "altitude_m": 74, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 3 km · 10 min", "flight": "Kathmandu–Janakpur · 25 min", "text": "A late-morning or early-afternoon flight from Kathmandu crosses the Mahabharat range and drops onto the flat Terai in about 25 minutes. Your guide meets you at Janakpur Airport, 2 km from the temple, and takes you to the hotel. After lunch and rest, walk to the Janaki Mandir in the late afternoon. Explore the courtyard, the carved jharokha windows and the Mithila museum rooms, then join the crowd for the sunset aarti, with lamps, bells, conch shells and Sita–Ram bhajans. Vegetarian dinner at the hotel.", "meals": "L, D"},
+    {"day": 2, "title": "Ganga Sagar, Ram Mandir and Dhanusadham", "place": "dhanusadham", "overnight": "Janakpur", "altitude_m": 74, "max_m": 90, "walk": "≈ 2.5 h · 4 km", "drive": "≈ 40 km · 1.5 h in total", "flight": "", "text": "Rise early for Ganga Sagar, where pilgrims bathe and offer water at dawn, then walk to Dhanush Sagar and the pagoda-style Ram Mandir, stopping at the Lakshman and Hanuman shrines. Breakfast of jalebi and kachori in the bazaar, then morning darshan at the Janaki Mandir and the Vivah Mandap next door. After lunch, drive 40 minutes to Dhanusadham to pray at the stone fragment of Shiva's bow, through Mithila villages of rice fields and ponds. On the way back, visit the Janakpur Women's Development Centre to see artists painting. Evening aarti at the Janaki Mandir.", "meals": "B, L, D"},
+    {"day": 3, "title": "Morning darshan, fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 3 km · 10 min", "flight": "Janakpur–Kathmandu · 25 min", "text": "A final morning darshan at the Janaki Mandir soon after it opens, when the temple is calm and priests perform the morning rituals. This is a good time for a personal puja, which your guide can arrange. Breakfast at the hotel, then transfer to Janakpur Airport for the flight back to Kathmandu, about 25 minutes. On arrival we drop you at your Kathmandu hotel or the international terminal; book onward flights after 3 pm to allow for delays.", "meals": "B"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Janakpur return flights in economy",
+    "Two nights at a 3-star hotel near the Janaki Mandir, twin sharing",
+    "Pure vegetarian meals from lunch on day 1 to breakfast on day 3",
+    "Local Maithili-speaking guide throughout",
+    "Private car to Dhanusadham and airport transfers in Janakpur",
+    "E-rickshaws for short hops in the city",
+    "Entry to the Janaki Mandir museum rooms",
+    "Visit to the Janakpur Women's Development Centre"
+  ],
+  "excludes": [
+    "Kathmandu hotels and transfers in Kathmandu",
+    "Special puja fees and temple donations",
+    "Drinks, bottled water and snacks",
+    "Tips for guide and driver",
+    "Personal shopping, such as Mithila paintings",
+    "Travel insurance",
+    "Festival surcharges during Vivah Panchami and Ram Navami"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, for 2 travellers outside festival weeks; groups of 6 or more pay less per person.",
+    "Janakpur hotels are simple 2- to 3-star properties; we choose clean ones close to the temple rather than distant ones with more facilities.",
+    "Fog can delay Janakpur flights from mid-December to January; we keep afternoon buffers and can switch to road if needed.",
+    "Temple timings change with the season and festivals; your guide confirms them the day before.",
+    "Indian pilgrims can also reach Janakpur by the Jaynagar–Janakpur train; we can start the tour there instead."
+  ],
+  "add_ons": [
+    {"name": "Private car Kathmandu–Janakpur instead of flights (one way)", "price": "≈ ₹16,000 per car (up to 3 guests)"},
+    {"name": "Sitamarhi (Punaura Dham) day trip for Indian citizens", "price": "≈ ₹6,000 per car"},
+    {"name": "Special puja at the Janaki Mandir", "price": "Temple fee plus ≈ ₹1,000 arrangement"}
+  ],
+  "faqs": [
+    {"q": "What is the Janakpur tour package cost from Kathmandu?", "a": "From about ₹19,000 per person twin sharing for two travellers, including return flights from Kathmandu, two nights near the Janaki Mandir, vegetarian meals, a local guide, transfers and the Dhanusadham trip. International visitors pay from about US$ 250. Prices rise during Vivah Panchami and Ram Navami."},
+    {"q": "Is 2 nights enough for Janakpur?", "a": "Yes. Two nights cover the Janaki Mandir, two evening aartis, the Vivah Mandap, Ram Mandir, Ganga Sagar, Dhanusadham and the Mithila art centre at a comfortable pace. For festivals, or to add Sitamarhi in India, plan three nights."},
+    {"q": "Can senior citizens do this Janakpur pilgrimage?", "a": "Yes. Flights avoid the long drive, the hotel is close to the temple, and we use e-rickshaws for short distances. The only steps are at the pond ghats. Tell us about mobility needs and we will arrange wheelchairs at the airports and ground-floor rooms where possible."},
+    {"q": "Are meals in Janakpur vegetarian?", "a": "Yes. All meals in the package are pure vegetarian, which is the norm around the temples. Expect dal, rice, roti, seasonal vegetables, puri-sabzi, kachori and Maithili sweets. Jain food without onion and garlic can be arranged with notice."},
+    {"q": "How do I reach Janakpur from India?", "a": "From Bihar, cross at Jaynagar and take the train or a car to Janakpur, about 30 km. From elsewhere in India, fly to Kathmandu and connect on a 25-minute domestic flight. Indian citizens need a passport or voter ID card. We can start this package at Jaynagar instead of Kathmandu."},
+    {"q": "Can I perform a special puja at the Janaki Mandir?", "a": "Yes. Your guide can arrange a puja with temple priests, such as an abhishek or an offering for a marriage or family occasion. Fees depend on the ritual and are paid to the temple. We tell you the cost in advance; it is not included in the package price."},
+    {"q": "What should I wear at the Janaki Mandir?", "a": "Modest clothes covering shoulders and knees. Many pilgrims wear traditional dress, but it is not required. Shoes are left at a stand by the gate, and leather items are best left at the hotel. In December and January bring a warm shawl for the evening aarti."},
+    {"q": "Is Janakpur crowded outside festivals?", "a": "Moderately. The evening aarti draws a good crowd every day, and weekends are busier with Nepali and Indian families. It is manageable without special planning. The biggest crowds are at Vivah Panchami, Ram Navami, Sita Navami and Chhath."},
+    {"q": "Can I combine Janakpur with Chitwan or Kathmandu?", "a": "Yes. Many guests add this trip to a Kathmandu holiday or link it with Chitwan by road. Our Devghat and Janakpur yatra connects both, and our Kathmandu and Chitwan tour can be extended with two nights in Janakpur."}
+  ]
+}

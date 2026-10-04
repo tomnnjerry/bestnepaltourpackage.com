@@ -1,0 +1,27 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ g.title }}{% endblock %}
+{% block meta_description %}{{ g.meta_description|default:g.summary|truncatechars:158 }}{% endblock %}
+{% block og_image %}{% with i=g|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}data-land="{{ r.slug }}"{% endblock %}
+{% block main %}
+<header class="phead"><div class="phead__bg">{% photo g|first_img g.title "" "100vw" True True %}</div><div class="wrap"><div class="phead__in">
+  <p class="kicker"><a href="{{ r.url }}">{% icon r.icon %}{{ r.name }}</a> · {{ g.category|capfirst }} · {{ g.read_min }} min read</p><h1>{{ g.title }}</h1>
+  <p class="phead__lede">By {{ SITE.byline }}</p>
+</div></div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight"><div class="split"><article class="prose">
+  {% include "tours/partials/brief.html" with text=g.summary %}
+  {% for s in g.sections %}<h2 class="h2" id="{{ s.anchor }}">{{ s.heading }}</h2>
+    {% for para in s.paras %}<p>{{ para }}</p>{% endfor %}
+    {% if s.list %}<ul class="ticks">{% for li in s.list %}<li>{% icon "check" %}<span>{{ li }}</span></li>{% endfor %}</ul>{% endif %}
+    {% if s.table %}<div class="tbl-wrap"><table class="tbl"><thead><tr>{% for h in s.table.head %}<th>{{ h }}</th>{% endfor %}</tr></thead><tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
+    {% if forloop.counter == 3 and packages %}<aside class="panel panel--dark" style="margin:28px 0"><p class="kicker">{% icon "ticket" %}Ready to go</p><p class="h3" style="color:#fff">{{ packages.0.title }}</p><p style="color:#C9D1DE">{{ packages.0.summary|truncatewords:26 }}</p><a class="btn btn--foil" href="{{ packages.0.url }}">See the trip, from <span data-inr="{{ packages.0.price_from_inr|inr }}" data-usd="{{ packages.0.price_from_usd|usd }}">{{ packages.0.price_from_inr|inr }}</span></a></aside>{% endif %}
+  {% endfor %}
+  {% if g.related_objs %}<h2 class="h3">Places in this guide</h2><ul class="chips">{% for p in g.related_objs %}<li><a class="chip" href="{{ p.url }}">{% icon "pin" %}{{ p.name }}</a></li>{% endfor %}</ul>{% endif %}
+  {% include "tours/partials/faqs.html" with faqs=g.faqs %}
+</article><aside class="aside">
+  <div class="panel"><h2 class="h3">In this guide</h2><ol class="toc">{% for s in g.sections %}<li><a href="#{{ s.anchor }}">{{ s.heading }}</a></li>{% endfor %}</ol></div>
+  {% include "tours/partials/quick_form.html" with heading="Get a free quote" region=r.slug where="guide-aside" %}
+</aside></div></div>
+{% if packages %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Packages in {{ r.name }}</h2></div><div class="passes">{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if more %}<section class="sec"><div class="wrap"><div class="sec__head"><h2 class="h2">More {{ r.short|default:r.name }} guides</h2></div><div class="grid grid--3">{% for g in more %}{% include "tours/partials/guide_card.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

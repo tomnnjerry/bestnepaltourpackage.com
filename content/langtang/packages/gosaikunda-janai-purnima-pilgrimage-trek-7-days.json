@@ -1,0 +1,91 @@
+{
+  "slug": "gosaikunda-janai-purnima-pilgrimage-trek-7-days",
+  "title": "Gosaikunda Janai Purnima Pilgrimage Trek 7 Days",
+  "region": "langtang",
+  "type": "pilgrimage",
+  "grade": "Challenging",
+  "nights": 6,
+  "themes": ["pilgrimage", "festivals", "trekking"],
+  "stops": [
+    {"place": "dhunche", "nights": 2},
+    {"place": "chandanbari", "nights": 2},
+    {"place": "gosaikunda", "nights": 1}
+  ],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_inr": 36000,
+  "price_from_usd": 430,
+  "best_months": [0, 0, 1, 1, 2, 1, 1, 2, 1, 2, 2, 0],
+  "max_altitude_m": 4380,
+  "accommodation": "Lodges in Dhunche, lodges or tents at Chandanbari, Lauribina and Gosaikunda",
+  "transport": "Private jeep or tourist bus Kathmandu–Dhunche–Kathmandu",
+  "group": "Pilgrim group departures, 4–20, or private",
+  "meta_description": "Gosaikunda pilgrimage trek 7 days for Janai Purnima: Dhunche, Sing Gompa, Lauribina, holy dip at Gosaikunda (4,380 m) on the full moon. From ₹36,000.",
+  "summary": "A 7-day walking pilgrimage timed for Janai Purnima, the August full moon, when thousands gather at Gosaikunda (4,380 m) for the holy dip. We drive to Dhunche, climb over three days via Sing Gompa and Lauribina for safe acclimatisation, spend the full-moon night at the lake, and descend slowly. Also available on other dates from April to November.",
+  "intro": [
+    "For many Hindu pilgrims, a dip in Gosaikunda on Janai Purnima is a lifetime wish. The lake, created by Lord Shiva's trishul according to tradition, draws thousands on the full moon of Shrawan, when men renew their sacred janai, everyone receives a raksha doro, and Tamang and other jhankri shamans drum and dance through the night by the water. This itinerary is built for that day, with time to acclimatise and carry tents and food in case lodges overflow.",
+    "The route follows the main pilgrim trail from Dhunche through oak and fir forest to Chandanbari (Sing Gompa), then up to the ridge at Lauribina for an acclimatisation night before the final climb to the lake. After the dawn dip and puja, we descend in two easier days. August is monsoon season, so expect rain, leeches and cloud, and possible landslides on the road. Our crew is used to festival conditions and carries backup supplies."
+  ],
+  "highlights": [
+    "Holy dip and Shiva puja at Gosaikunda on Janai Purnima",
+    "Jhankri shamans' drumming and dancing on the full-moon night",
+    "Janai and raksha doro rituals with priests at the lake",
+    "Slow ascent with acclimatisation nights at Sing Gompa and Lauribina",
+    "Tents, food and crew to cope with festival crowds",
+    "Also runs on non-festival dates from April to November"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive Kathmandu to Dhunche", "place": "dhunche", "overnight": "Dhunche", "altitude_m": 1960, "max_m": 1960, "walk": "", "drive": "≈ 117 km · 6–7 h", "flight": "", "text": "Leave Kathmandu early by private jeep or bus via Kakani, Trishuli Bazaar and Betrawati. During festival week the road is busy with pilgrim buses, and monsoon landslides can cause delays, so we allow extra time. Arrive in Dhunche, Rasuwa's district headquarters, in the afternoon. Your group leader briefs everyone on the route, altitude sickness signs, rain and leech precautions and festival arrangements. Buy any last offerings in the bazaar.", "meals": "Dinner"},
+    {"day": 2, "title": "Dhunche to Chandanbari (Sing Gompa)", "place": "chandanbari", "overnight": "Chandanbari", "altitude_m": 3330, "max_m": 3330, "walk": "≈ 5–6 h", "drive": "", "flight": "", "text": "Start early and climb steadily from the top of Dhunche through farmland and then oak, rhododendron and fir forest to Deurali (about 2,690 m), where tea houses offer a rest. Continue through damp, mossy forest to the clearing of Chandanbari at about 3,330 m, with its small gompa and cheese dairy. You gain about 1,370 m. In August the trail is wet and leeches are common; keep trousers tucked into socks and walk at a slow, even pace.", "meals": "B, L, D"},
+    {"day": 3, "title": "Chandanbari to Lauribina", "place": "", "overnight": "Lauribina", "altitude_m": 3910, "max_m": 3910, "walk": "≈ 3–4 h", "drive": "", "flight": "", "text": "A short day for acclimatisation. Climb through forest to Cholang Pati (3,584 m) and on to the open ridge at Lauribina (3,910 m), where trees give way to shrubs and grassland. Rest in the afternoon, drink plenty of water and, if clouds part, enjoy views of Langtang Lirung, Ganesh Himal and Manaslu. Sleeping here rather than at the lake on this night greatly lowers the risk of altitude sickness. Our crew pitches tents if lodges are full.", "meals": "B, L, D"},
+    {"day": 4, "title": "Lauribina to Gosaikunda for the full moon", "place": "gosaikunda", "overnight": "Gosaikunda", "altitude_m": 4380, "max_m": 4380, "walk": "≈ 2–3 h", "drive": "", "flight": "", "text": "Walk the narrow stone trail high above the valley, past Saraswati Kunda and Bhairab Kunda, to Gosaikunda at 4,380 m. Arrive by midday to settle into lodge or tent space before the crowds peak. In the afternoon, visit the Shiva shrine and watch pilgrims arrive. Through the evening and night, jhankri shamans in white robes and feathered headdresses drum and dance around the lake. Stay warm, as the temperature drops near freezing after dark even in August.", "meals": "B, L, D"},
+    {"day": 5, "title": "Holy dip, puja and descent", "place": "chandanbari", "overnight": "Chandanbari", "altitude_m": 3330, "max_m": 4380, "walk": "≈ 4–5 h", "drive": "", "flight": "", "text": "Rise before dawn for the holy dip on Janai Purnima. Bathe briefly near the shore or sprinkle water, then change straight into dry, warm clothes. Priests tie raksha doro and men renew their janai at the shrine. After puja and breakfast, descend past Lauribina and Cholang Pati to Chandanbari, losing about 1,050 m. Descending the same day is the best remedy for any altitude discomfort felt overnight at the lake.", "meals": "B, L, D"},
+    {"day": 6, "title": "Chandanbari to Dhunche", "place": "dhunche", "overnight": "Dhunche", "altitude_m": 1960, "max_m": 3330, "walk": "≈ 4–5 h", "drive": "", "flight": "", "text": "Descend through the forest via Deurali to Dhunche, losing about 1,370 m on steep stone steps that can be slippery after rain. Use trekking poles and take your time, especially older pilgrims. Arrive in Dhunche by early afternoon for a hot shower, a proper meal and rest. In the evening, the group shares prasad and gives thanks to the crew.", "meals": "B, L, D"},
+    {"day": 7, "title": "Drive Dhunche to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1960, "walk": "", "drive": "≈ 117 km · 6–7 h", "flight": "", "text": "Drive back to Kathmandu via Betrawati and Trishuli Bazaar, arriving in the afternoon. Many pilgrims offer the holy water they carried from Gosaikunda at Pashupatinath or the Kumbheshwar temple in Patan, where a festival of its own takes place on Janai Purnima. We drop you at your hotel. Keep this evening free of flights in case of road delays.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep or tourist bus Kathmandu–Dhunche–Kathmandu",
+    "Experienced pilgrimage leader and licensed guide (Hindi and English)",
+    "Porters for group luggage (one per two pilgrims)",
+    "Lodge rooms where available; tents, mats and kitchen crew on festival dates",
+    "Three vegetarian meals a day on the trek",
+    "Langtang National Park entry fee",
+    "Basic puja items for the lake",
+    "Guide, porter and crew wages, food and insurance",
+    "First-aid kit and pulse oximeter"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "Priest dakshina and personal offerings",
+    "Travel insurance with helicopter evacuation cover",
+    "Hot showers, charging and drinks",
+    "Tips for guide and crew",
+    "Extra nights from landslides or weather",
+    "Personal gear including rain jacket and sleeping bag",
+    "Helicopter return (available as an add-on)"
+  ],
+  "good_to_know": [
+    "Price assumes group departure with twin sharing in lodges or tents and vegetarian meals; private departures cost more.",
+    "Janai Purnima follows the lunar calendar and falls in August, sometimes late July; we set departures each year around the full moon. Check current status before you travel.",
+    "Monsoon brings rain, leeches and possible road landslides; carry a rain jacket, poncho, leech socks and a dry change of clothes.",
+    "At 4,380 m altitude sickness is possible; tell the leader about headache, vomiting or breathlessness at rest, and descend if it worsens.",
+    "Pilgrims with heart or lung conditions should consult a doctor before booking; the helicopter yatra may be a safer option."
+  ],
+  "add_ons": [
+    {"name": "Helicopter return from Gosaikunda to Kathmandu", "price": "≈ ₹50,000–60,000 per seat, weather permitting"},
+    {"name": "Private room upgrade in Dhunche", "price": "≈ ₹2,000 per room per night"},
+    {"name": "Pony for older pilgrims, Dhunche–Chandanbari section", "price": "≈ ₹6,000–8,000 per day, subject to availability"}
+  ],
+  "faqs": [
+    {"q": "When is Janai Purnima at Gosaikunda this year?", "a": "Janai Purnima is the full moon of Shrawan, which falls in August and sometimes late July. Our departure leaves Kathmandu four days before the full moon so the group spends the festival night at the lake. The exact date changes each year with the lunar calendar; check current status before you travel."},
+    {"q": "How hard is the Gosaikunda pilgrimage trek?", "a": "It is challenging for most pilgrims: about 2,400 m of ascent over three days on steep stone steps, in monsoon rain, to 4,380 m. Fit adults who walk regularly manage it with a slow pace. Older pilgrims should train for several weeks, use porters, and consider the helicopter yatra if they have health concerns."},
+    {"q": "What is the Gosaikunda yatra cost from Kathmandu?", "a": "Our 7-day walking pilgrimage starts at about ₹36,000 or US$ 430 per person on a group departure, including transport, leader, guide, porters, lodges or tents, vegetarian meals, park fee and basic puja items. Private departures, helicopter returns and room upgrades cost extra."},
+    {"q": "Where do pilgrims stay at Gosaikunda during the festival?", "a": "Lake-side lodges fill days in advance, and thousands of pilgrims sleep in crowded halls, tents or the open. Our festival departures carry tents, mats and a kitchen crew so the group has guaranteed shelter and hot meals. Nights are cold and damp, so bring a warm sleeping bag."},
+    {"q": "Can women take the holy dip at Gosaikunda?", "a": "Yes, women and men both bathe at Gosaikunda. Most women bathe in a sari or salwar kameez and change behind a cloth or in a tent afterwards. Our crew sets up a changing tent near the shore on festival departures. The water is near freezing, so keep the dip short."},
+    {"q": "Is it safe to trek to Gosaikunda in August?", "a": "With care and good preparation, yes. Expect rain, slippery trails, leeches and possible landslides on the road. Altitude is the bigger risk at 4,380 m, which is why we include acclimatisation nights at Chandanbari and Lauribina. Travel with an experienced crew and have insurance covering helicopter evacuation."},
+    {"q": "What should I pack for the Gosaikunda pilgrimage?", "a": "Bring a rain jacket and poncho, waterproof trekking shoes, leech socks, warm layers including a down jacket, a sleeping bag rated to −5 °C or lower, a towel and dry clothes for after the dip, a headlamp, water bottles, puja items, personal medicines and a small bottle for holy water."},
+    {"q": "Can I do this pilgrimage outside Janai Purnima?", "a": "Yes. We run the same 7-day itinerary from April to June and September to November, when skies are clearer, trails drier and lodges quiet. You still take the holy dip and perform puja, without festival crowds. Many pilgrims prefer October for its clear mountain views."},
+    {"q": "Is a guide needed for the Gosaikunda yatra?", "a": "A guide is strongly recommended for any pilgrim, and foreign trekkers need a licensed guide inside Langtang National Park under rules in force since 2023. How the rule applies to Indian nationals has varied. Our package includes an experienced leader and guide; check current status before you travel."}
+  ]
+}

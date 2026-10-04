@@ -1,0 +1,83 @@
+{
+  "slug": "trishuli-rafting-chitwan-3-nights",
+  "title": "Trishuli Rafting and Chitwan Safari 3 Nights",
+  "region": "chitwan",
+  "type": "adventure",
+  "grade": "Moderate",
+  "nights": 3,
+  "themes": ["adventure-sports", "wildlife-safari", "short-breaks", "family-holidays"],
+  "stops": [{"place": "chitwan-national-park", "nights": 3}, {"place": "sauraha", "nights": 0}],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu (or Pokhara)",
+  "price_from_inr": 23000,
+  "price_from_usd": 300,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 0, 2, 2, 1],
+  "max_altitude_m": 1400,
+  "accommodation": "Tigerland Safari, A Lemon Tree Resort, or similar near the park, twin sharing",
+  "transport": "Private car Kathmandu–Charaudi–Chitwan–Kathmandu, raft, park jeeps",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Trishuli rafting and Chitwan safari 3 nights 4 days: half-day grade II–III rafting from Charaudi, then jeep safari, canoe and jungle walk in Chitwan. From ₹23,000.",
+  "summary": "Start with half a day of white-water rafting on the Trishuli, grade II to III rapids through a forested gorge, then continue to Chitwan for three nights of jeep safari, canoeing, a walking safari and Tharu culture. An active, varied trip for couples, friends and families with teenagers.",
+  "intro": [
+    "The Trishuli is the river most people see on the road from Kathmandu to Chitwan, running green and fast beside the Prithvi Highway. It is also Nepal's most popular rafting river, with grade II to III rapids, warm water by Himalayan standards and road access at both ends. This trip puts you on it for the first morning: you are on the water by late morning, take out by mid-afternoon, and continue by car to Chitwan the same day.",
+    "Then the pace changes. Three nights at a riverside resort near the park give time for a full jeep safari, a canoe ride on the Rapti, a walking safari with two licensed guides and an evening of Tharu dance. Rafting is run by licensed operators with safety kayakers or safety boats, helmets and life jackets, and suits anyone over about 12 who can follow instructions. No previous experience is needed."
+  ],
+  "highlights": [
+    "Half-day Trishuli rafting through grade II–III rapids",
+    "Riverside lunch on a sandy beach in the gorge",
+    "Jeep safari for rhino, gaur and deer in Chitwan",
+    "Canoe on the Rapti and guided walking safari",
+    "Tharu village and evening stick dance",
+    "Private car throughout, no tourist buses"
+  ],
+  "days": [
+    {"day": 1, "title": "Raft the Trishuli, drive to Chitwan", "place": "chitwan-national-park", "overnight": "Chitwan (Jagatpur)", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "≈ 75 km · 2.5–3 h, then ≈ 100 km · 3 h", "flight": "", "text": "Leave Kathmandu at 6:30 am and drive the Prithvi Highway to Charaudi, about 75 km, where the rafting company sets up on the riverbank. After a safety briefing and paddle practice, you raft 15–20 km downstream for 2.5 to 3 hours, through grade II–III rapids with names such as Upset and Ladies Delight, separated by calm stretches where you can float in your life jacket. Lunch is served on a sandy beach. After take-out near Kurintar or Fishling, change and drive on via Mugling and Narayangarh to your resort near Chitwan, arriving by early evening.", "meals": "L, D"},
+    {"day": 2, "title": "Canoe, walking safari, Tharu dance", "place": "chitwan-national-park", "overnight": "Chitwan (Jagatpur)", "altitude_m": 150, "max_m": 160, "walk": "≈ 3 h · 8 km", "drive": "", "flight": "", "text": "After an early breakfast, a dugout canoe drifts along the Rapti for 45 minutes past mugger crocodiles, kingfishers and storks. From the landing you walk into the forest with two licensed guides for around three hours, reading rhino trails, tiger scratch marks and sloth bear digs, and learning what to do if an animal charges. Rest through the hot middle of the day at the resort. In the late afternoon, visit a Tharu village on the park edge, then drive to Sauraha for the evening stick dance at the Tharu Culture House.", "meals": "B, L, D"},
+    {"day": 3, "title": "Jeep safari and gharial centre", "place": "chitwan-national-park", "overnight": "Chitwan (Jagatpur)", "altitude_m": 150, "max_m": 200, "walk": "", "drive": "Jeep safari ≈ 5 h", "flight": "", "text": "A morning jeep safari enters the park and drives through sal forest and grassland toward the lakes and Kasara, stopping at watchtowers to scan for rhino, gaur, deer, wild boar and, with luck, sloth bear or tiger. At Kasara, visit the gharial breeding centre and the small park museum. Back at the resort for a late lunch. The afternoon is free for the pool or a sunset walk along the Rapti, where rhinos are often seen across the river.", "meals": "B, L, D"},
+    {"day": 4, "title": "Drive back to Kathmandu or Pokhara", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 165 km · 5.5–6.5 h", "flight": "", "text": "An optional dawn bird walk along the riverbank, then breakfast and the drive back up the Trishuli valley via Narayangarh and Mugling. You pass the stretch of river you rafted on day 1 and can stop for lunch at one of the riverside restaurants near Kurintar. Arrive in Kathmandu by mid-afternoon. If you are continuing to Pokhara instead, the drive is about 5–6 hours via Mugling and Damauli.", "meals": "B"}
+  ],
+  "stays": ["tigerland-safari-resort"],
+  "includes": [
+    "Private car Kathmandu–Charaudi–Chitwan–Kathmandu (or Pokhara)",
+    "Half-day Trishuli rafting with licensed operator, guide, helmet and life jacket",
+    "Riverside lunch on the rafting day",
+    "Three nights at Tigerland Safari or similar, twin sharing",
+    "All meals in Chitwan",
+    "Jeep safari, canoe ride and walking safari with licensed guides",
+    "Tharu village visit and cultural show",
+    "Chitwan National Park entry fees",
+    "Rafting permit and river fees"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "Lunch on day 4",
+    "Drinks and bottled water",
+    "Waterproof camera hire and rafting photos",
+    "Elephant rides or bathing (not offered)",
+    "Tips for rafting crew, naturalists and driver",
+    "Travel insurance covering rafting"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, for 2 guests sharing a car, with SAARC park fees; groups of 4 or more pay less per person.",
+    "Rafting is not run during the monsoon peak (roughly late June to mid-September) because of high water; from late September to November and March to May conditions are best.",
+    "Minimum age for rafting is usually 12; non-swimmers can raft but must tell the guide.",
+    "Pack quick-dry clothes, sandals with straps and a change of clothes for after rafting.",
+    "Insurance should cover white-water rafting; check your policy before you travel."
+  ],
+  "add_ons": [
+    {"name": "Full-day rafting instead of half day", "price": "≈ ₹3,500 per person"},
+    {"name": "Overnight riverside camp on the Trishuli", "price": "≈ ₹5,000 per person"},
+    {"name": "Canyoning or zipline near Kathmandu (extension)", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "Is Trishuli rafting safe for beginners?", "a": "Yes. The Trishuli's grade II–III rapids are Nepal's most popular beginner rafting. Licensed operators provide helmets, life jackets, a safety briefing and experienced guides, often with a safety kayaker. Follow paddle commands, keep your feet up if you fall in, and you will be fine. No experience is needed."},
+    {"q": "What is the minimum age for Trishuli rafting?", "a": "Operators usually set 12 as the minimum, sometimes lower in very low water with a private raft. Children must be comfortable in water and able to follow instructions. Younger children can join the Chitwan part and skip the rafting, travelling with a parent by car."},
+    {"q": "Do I need to know how to swim for rafting?", "a": "It is helpful but not required. Everyone wears a life jacket, and guides explain how to float and get back into the raft. Tell your guide if you cannot swim so they can seat you safely. Avoid rafting in the monsoon, when water is high and fast."},
+    {"q": "When is the best time for Trishuli rafting?", "a": "Late September to November and March to May. Autumn has higher, more exciting water; spring is warmer with lower, gentler rapids. December to February is possible but the water is cold. Commercial rafting usually stops in the monsoon peak because of floods."},
+    {"q": "How much does the Trishuli rafting and Chitwan package cost?", "a": "From about ₹23,000 per person twin sharing for two guests, including private car, half-day rafting with lunch, three nights near Chitwan with all meals, safari activities and park fees. International guests pay from about US$ 300. Full-day rafting or a river camp costs extra."},
+    {"q": "What should I wear for rafting?", "a": "Quick-dry shorts or swimwear, a synthetic T-shirt, sandals with straps or old trainers, sunscreen and sunglasses with a strap. In cooler months, a thin fleece under the provided splash jacket. Bring a dry change of clothes and a towel for the car."},
+    {"q": "Can we do rafting on the way from Kathmandu to Chitwan?", "a": "Yes, that is exactly how this trip works. The rafting section lies along the Prithvi Highway, so you raft in the morning and continue to Chitwan the same afternoon. It turns a dull transfer day into one of the highlights of the trip."},
+    {"q": "Is the walking safari safe after rafting?", "a": "The walking safari is on day 2, after a night's rest. It is led by two licensed guides and suits fit adults and teenagers over 12. It carries some risk from rhinos and sloth bears, which guides manage. Anyone who prefers can swap it for a second jeep drive."},
+    {"q": "Can I end this trip in Pokhara instead of Kathmandu?", "a": "Yes. On day 4, drive from Chitwan to Pokhara in about 5–6 hours instead of returning to Kathmandu. The price is similar. Pokhara is a good next stop for paragliding, boating on Phewa Lake or a short trek."}
+  ]
+}

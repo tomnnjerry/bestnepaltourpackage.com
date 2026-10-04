@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "dwarikas-hotel-kathmandu",
+    "name": "Dwarika's Hotel",
+    "place": "kathmandu",
+    "kind": "heritage hotel",
+    "class": "Luxury",
+    "wiki": "Dwarika's Hotel",
+    "image_query": "Dwarika's Hotel Kathmandu courtyard",
+    "summary": "A heritage hotel in Battisputali, a short drive from Pashupatinath, built around brick courtyards and centuries-old Newar wood carving rescued from demolished valley houses. It is the stay we book when a Kathmandu trip is meant to feel like part of the holiday rather than a base.",
+    "body": [
+      "Dwarika's grew out of one man's salvage project. From the 1950s Dwarika Das Shrestha collected carved windows, struts and door frames being thrown out as old Kathmandu houses came down, and the hotel was later built to give those pieces a home. The result is a cluster of red-brick buildings, terracotta and latticed windows arranged around quiet courtyards and fountains, with the noise of the Ring Road kept outside the walls. Rooms follow the same Newar style, with handmade textiles and wood details.",
+      "Location suits sightseeing: Pashupatinath is about 1.5 km away and Boudhanath roughly 3 km, so both can be visited early before tour buses arrive, and the airport is around 15 to 20 minutes by car outside rush hour. The hotel's Krishnarpan restaurant serves long multi-course Nepali dinners that many of our honeymoon and luxury guests book for one night of the trip. Rates sit at the top of the Kathmandu market, so we use Dwarika's mainly in our luxury and honeymoon packages."
+    ],
+    "why": [
+      "Restored Newar woodwork and courtyards you will not find in a chain hotel",
+      "About 1.5 km from Pashupatinath and 3 km from Boudhanath",
+      "Krishnarpan's multi-course Nepali dinner makes a special final night"
+    ],
+    "best_for": ["couples", "luxury travellers", "culture lovers", "seniors"],
+    "website": "https://www.dwarikas.com",
+    "faqs": [
+      {"q": "How far is Dwarika's Hotel from Kathmandu airport?", "a": "Dwarika's is in Battisputali, roughly 3 km from Tribhuvan International Airport, which usually means 15 to 20 minutes by car. At peak traffic hours, around 9 to 11 am and 5 to 7 pm, allow 30 minutes or more. Our packages include the airport transfer, and for early Everest mountain flights the short drive to the domestic terminal is a real advantage."},
+      {"q": "Is Dwarika's Hotel worth the price for a Nepal honeymoon?", "a": "For couples who want their Kathmandu nights to feel distinctive, yes. The hotel is built from salvaged Newar carvings around calm courtyards, it is close to Pashupatinath and Boudhanath, and the Krishnarpan dinner is a memorable evening. If you will be out sightseeing from 8 am to 6 pm every day, a 5-star city hotel such as Yak & Yeti gives good comfort for less money."},
+      {"q": "Can we walk to Pashupatinath from Dwarika's?", "a": "Yes. Pashupatinath is about 1.5 km from the hotel, a 20 to 25 minute walk through local streets, though most guests take a short taxi ride to save energy and avoid traffic on the Ring Road crossing. Going for the evening aarti and returning by car after dark is the plan we usually suggest. Check current aarti timings before you travel."}
+    ]
+  },
+  {
+    "slug": "hotel-yak-and-yeti",
+    "name": "Hotel Yak & Yeti",
+    "place": "kathmandu",
+    "kind": "5-star hotel",
+    "class": "Luxury",
+    "wiki": "Hotel Yak & Yeti",
+    "image_query": "Hotel Yak and Yeti Kathmandu",
+    "summary": "A long-running 5-star hotel on Durbar Marg whose older wing occupies part of a 19th-century Rana palace. Thamel, the Narayanhiti Palace Museum and Kathmandu Durbar Square are all within a short drive, which makes it a practical upmarket base for first visits.",
+    "body": [
+      "Yak & Yeti sits just off Durbar Marg, the wide avenue that runs south from the old royal palace at Narayanhiti. Part of the hotel uses the Lal Durbar, a Rana-era palace with mirrored and stucco-heavy halls, while the newer wings hold most of the guest rooms around gardens and an outdoor pool. The hotel's name and its Chimney restaurant go back to Boris Lissanevitch, the Russian hotelier who ran some of Kathmandu's first tourist hotels in the 1950s and 1960s.",
+      "For our guests the strength is location. Thamel is about 1.5 km away, Kathmandu Durbar Square around 2.5 km and the airport roughly 6 km, so sightseeing days start quickly. It is a large hotel used to Indian families, groups and wedding parties, and it stayed open through the September 2025 protests, when it took in guests moved from damaged hotels nearby. We use it in luxury, family and honeymoon packages when guests want a full-service 5-star in the city centre."
+    ],
+    "why": [
+      "Central Durbar Marg address, about 1.5 km from Thamel",
+      "Rana-palace halls alongside modern room wings and gardens",
+      "Large property that handles families and groups well"
+    ],
+    "best_for": ["families", "groups", "first-timers", "couples"],
+    "website": "https://www.yakandyeti.com",
+    "faqs": [
+      {"q": "Is Hotel Yak & Yeti open in 2026?", "a": "Yes. Hotel Yak & Yeti is operating normally in 2026. During the September 2025 protests in Kathmandu it remained open and received guests moved from other hotels that were damaged. As with any city hotel, we recommend checking current local advisories before you travel, and we confirm the booking with the hotel when your package is finalised."},
+      {"q": "How far is Yak & Yeti from Thamel?", "a": "About 1.5 km, which is a 20 minute walk or a five minute taxi ride depending on traffic. Many guests walk to Thamel for dinner or shopping and take a taxi back at night. Kathmandu Durbar Square is about 2.5 km away and the international airport roughly 6 km, usually 20 to 30 minutes by car."},
+      {"q": "Is Yak & Yeti good for an Indian family holiday?", "a": "It works well. The hotel is used to Indian families and groups, the restaurants serve Indian and vegetarian food alongside Nepali and continental dishes, and the central location keeps drive times short for children and grandparents. Ask us for connecting or extra-bed rooms early in October and during Indian school holidays, when the hotel fills quickly."}
+    ]
+  },
+  {
+    "slug": "kathmandu-marriott-hotel",
+    "name": "Kathmandu Marriott Hotel",
+    "place": "kathmandu",
+    "kind": "5-star hotel",
+    "class": "Luxury",
+    "wiki": "",
+    "image_query": "Kathmandu Marriott Hotel Naxal",
+    "summary": "A modern international 5-star in Naxal, opened in 2019, a few minutes from Durbar Marg and the Narayanhiti Palace Museum. It suits travellers who prefer a contemporary chain hotel with predictable standards and Marriott Bonvoy points over a heritage property.",
+    "body": [
+      "The Marriott stands in Naxal, a residential and embassy district north-east of the city centre. It is a newer building than most of Kathmandu's luxury hotels, opened in 2019, with contemporary rooms, several restaurants and the kind of consistent service that international chain guests expect. From here Thamel is about 2 km, Durbar Marg and the Narayanhiti Palace Museum roughly 1 km, and the airport around 5 km.",
+      "We offer the Marriott in luxury and honeymoon packages for guests who collect Marriott Bonvoy points or simply prefer a modern room with good soundproofing after a long sightseeing day. It is also a convenient base for Pashupatinath and Boudhanath, both 15 to 20 minutes away by car. Because it is a newer property in a quieter street, mornings are calm, which helps on days that begin with a 6 am Everest mountain flight."
+    ],
+    "why": [
+      "Modern international 5-star opened in 2019",
+      "Quiet Naxal location about 1 km from Durbar Marg",
+      "Useful for Marriott Bonvoy members"
+    ],
+    "best_for": ["couples", "business travellers", "luxury travellers", "first-timers"],
+    "website": "",
+    "faqs": [
+      {"q": "Where is the Kathmandu Marriott Hotel located?", "a": "The Kathmandu Marriott is in Naxal, north-east of the city centre, about 1 km from Durbar Marg and the Narayanhiti Palace Museum and roughly 2 km from Thamel. Tribhuvan International Airport is around 5 km away, normally 20 to 25 minutes by car. Pashupatinath and Boudhanath are each 15 to 20 minutes by road."},
+      {"q": "Marriott or Dwarika's for a luxury Nepal trip?", "a": "Choose Dwarika's for heritage character: Newar carvings, courtyards and a hotel that is itself a sight. Choose the Marriott for a modern international room, chain consistency and loyalty points. Both work for our luxury and honeymoon packages, and some guests split their Kathmandu nights, staying at the Marriott on arrival and Dwarika's at the end of the trip."},
+      {"q": "Can we earn Marriott Bonvoy points on a package booking?", "a": "Points usually depend on how the room is booked. Rooms booked through a tour operator at contracted rates may not earn points in the same way as direct bookings. If points matter to you, tell us when you enquire and we can price the package without the Kathmandu hotel so you can book the Marriott directly."}
+    ]
+  },
+  {
+    "slug": "gokarna-forest-resort",
+    "name": "Gokarna Forest Resort",
+    "place": "kathmandu",
+    "kind": "resort",
+    "class": "Premium",
+    "wiki": "",
+    "image_query": "Gokarna Forest Kathmandu",
+    "summary": "A resort inside the Gokarna forest, the former royal hunting reserve on Kathmandu's north-eastern edge, with an 18-hole golf course and spa. It is about 10 minutes from Boudhanath and gives a green, quiet base inside the city limits.",
+    "body": [
+      "Gokarna Forest Resort sits within a protected stretch of old woodland that once served as a royal hunting ground. Monkeys and spotted deer move through the trees, the 18-hole golf course runs along the forest, and the main buildings use Nepali brick and wood. Being on the edge of Kathmandu means you trade a little drive time for far more peace than any city-centre hotel can offer.",
+      "Boudhanath and Pashupatinath are each about 10 to 15 minutes by car, and the airport around 20 minutes outside rush hour. The Gokarneshwar Mahadev temple on the Bagmati is close by. We suggest Gokarna for families who want space for children after sightseeing, for golfers, and for our wellness and yoga trips, where an indoor pool, spa and forest walks support a slower pace. Thamel is 40 minutes or more away in traffic, so it is not the base for nightlife."
+    ],
+    "why": [
+      "Forest setting with an 18-hole golf course inside Kathmandu",
+      "10 to 15 minutes from Boudhanath and Pashupatinath",
+      "Indoor pool and spa suit wellness and family stays"
+    ],
+    "best_for": ["families", "couples", "golfers", "wellness seekers"],
+    "website": "",
+    "faqs": [
+      {"q": "How far is Gokarna Forest Resort from Thamel?", "a": "About 12 km, which takes 40 minutes to an hour depending on traffic. That distance is the trade-off for a quiet forest setting. Boudhanath and Pashupatinath are much closer, each around 10 to 15 minutes by car, and the airport about 20 minutes. If you want to spend evenings in Thamel, a central hotel suits you better."},
+      {"q": "Can non-golfers enjoy Gokarna Forest Resort?", "a": "Yes. Most guests do not play golf. The forest itself is the attraction, with spotted deer and monkeys around the grounds, along with an indoor pool, spa and space for children to move about. It is a good choice for the first or last night of a trip, or for a slower two-night stay between sightseeing days."},
+      {"q": "Is Gokarna Forest Resort good for families with kids?", "a": "It is one of the better family bases in Kathmandu because there is open space, wildlife to spot and a pool, which children appreciate after temple visits. Boudhanath is close enough for an evening kora. The drawback is distance from the old city squares, so plan a full day with a car for Kathmandu, Patan or Bhaktapur Durbar Squares."}
+    ]
+  },
+  {
+    "slug": "hotel-shanker-kathmandu",
+    "name": "Hotel Shanker",
+    "place": "kathmandu",
+    "kind": "heritage hotel",
+    "class": "Premium",
+    "wiki": "",
+    "image_query": "Hotel Shanker Lazimpat Kathmandu",
+    "summary": "A Rana-era palace in Lazimpat converted into a hotel, with a white neoclassical facade, gardens and an outdoor pool. It is about 1 km from Thamel and gives palace character at a lower rate than the city's top luxury hotels.",
+    "body": [
+      "Hotel Shanker occupies a late 19th-century palace built during the Rana period, when Nepal's ruling families commissioned European-style mansions across Kathmandu. The pillared facade, high ceilings and front lawn still carry that history, while the guest rooms have been modernised over the years. It sits in Lazimpat, an embassy district just north of Thamel, so you can walk to Thamel's restaurants in about 15 minutes yet sleep away from its late-night noise.",
+      "We use Shanker as a mid-to-upper option in city breaks, family tours and temple circuits for guests who want more character than a standard 4-star without paying 5-star prices. The garden and outdoor pool help on warm April and September afternoons. Kathmandu Durbar Square is around 3 km away and the airport about 7 km, roughly 25 to 35 minutes by car."
+    ],
+    "why": [
+      "Converted Rana palace with gardens and an outdoor pool",
+      "Lazimpat location about 1 km from Thamel",
+      "Palace setting at a mid-range price"
+    ],
+    "best_for": ["couples", "families", "culture lovers", "groups"],
+    "website": "https://www.shankerhotel.com.np",
+    "faqs": [
+      {"q": "Is Hotel Shanker a real palace?", "a": "Yes. Hotel Shanker is a converted Rana-period palace from the late 19th century, built when Nepal's ruling Rana families commissioned European-style mansions in Kathmandu. The front facade, lawns and public rooms keep that palace look, while guest rooms have been modernised. It is one of the more affordable ways to stay in a heritage building in the city."},
+      {"q": "Can I walk from Hotel Shanker to Thamel?", "a": "Yes, Thamel is about 1 km away, a 10 to 15 minute walk along Lazimpat Road. The hotel is far enough to avoid Thamel's late-night noise yet close enough for an evening out. At night we suggest a short taxi ride back, which costs a few hundred rupees; agree the fare before you get in."},
+      {"q": "Is Hotel Shanker a 5-star hotel?", "a": "We class it as a premium heritage hotel rather than a full 5-star. You get palace architecture, gardens and a pool, with service and rooms that sit between a good 4-star and the city's top hotels. For a full 5-star experience we recommend Yak & Yeti, the Marriott or Dwarika's, at a higher package price."}
+    ]
+  },
+  {
+    "slug": "club-himalaya-nagarkot",
+    "name": "Club Himalaya",
+    "place": "nagarkot",
+    "kind": "resort",
+    "class": "Premium",
+    "wiki": "",
+    "image_query": "Nagarkot Himalaya view sunrise hotel",
+    "summary": "A hillside resort on Nagarkot's Windy Hill at about 2,195 m, roughly 32 km from Kathmandu. Rooms have balconies facing the Himalaya, and the indoor pool and sunrise terraces make it our usual choice for a comfortable night in Nagarkot.",
+    "body": [
+      "Club Himalaya, run by ACE Hotels, sits high on the Nagarkot ridge with an open sweep of the range from Langtang and Dorje Lakpa across to Gauri Shankar on clear mornings. Guest rooms come with private balconies, so in October and November many guests watch sunrise from their room without climbing to the view tower. The resort has an indoor swimming pool with a Jacuzzi, a spa with sauna and a bar and restaurant serving Nepali, Indian, Chinese and continental food.",
+      "The drive from Kathmandu takes about 1.5 hours via Bhaktapur, which makes Club Himalaya a natural first stop on our grand tour and honeymoon packages. Nights at this height are cold from November to February, often near 0 °C, and an indoor pool is rare at Nagarkot, which helps in those months. Book well ahead for Dashain and Tihar weekends, when Kathmandu residents fill the ridge."
+    ],
+    "why": [
+      "Balcony rooms facing the Himalaya on Windy Hill",
+      "Indoor pool and spa, uncommon in Nagarkot",
+      "About 1.5 hours from Kathmandu via Bhaktapur"
+    ],
+    "best_for": ["couples", "families", "photographers", "seniors"],
+    "website": "",
+    "faqs": [
+      {"q": "Can you see Everest from Club Himalaya Nagarkot?", "a": "On very clear mornings, mostly October to December, a small tip of Everest can be picked out far to the east, but it is distant and easy to miss. What you will see clearly is the closer line of Langtang, Dorje Lakpa, Jugal and Gauri Shankar. For the best chance, be on your balcony or the terrace 20 minutes before sunrise."},
+      {"q": "How cold is Nagarkot in winter?", "a": "From December to February night and early-morning temperatures at Nagarkot often fall to around 0 to 3 °C, with clear, sunny days near 12 to 15 °C. Bring a warm jacket, a hat and gloves for sunrise. Club Himalaya's rooms are heated and its indoor pool makes winter stays more comfortable than at simpler lodges on the ridge."},
+      {"q": "How long is the drive from Kathmandu to Club Himalaya?", "a": "Around 1.5 hours for the 32 km, via Bhaktapur and the winding Nagarkot road. Many of our itineraries combine the drive with a Bhaktapur Durbar Square visit in the afternoon, arriving at the resort in time for sunset. The road is paved but narrow near the top, so we use experienced local drivers."}
+    ]
+  },
+  {
+    "slug": "dhulikhel-mountain-resort",
+    "name": "Dhulikhel Mountain Resort",
+    "place": "dhulikhel",
+    "kind": "resort",
+    "class": "Standard",
+    "wiki": "",
+    "image_query": "Dhulikhel Himalaya view resort",
+    "summary": "A garden resort of bungalow-style rooms at Khawa, Dhulikhel, about 34 km from Kathmandu airport, open since 1981. It offers clear Himalayan views at a fair price and works as a calm base for Namobuddha, Panauti and the valley rim trek.",
+    "body": [
+      "Dhulikhel Mountain Resort is one of the older hill resorts east of Kathmandu, built in 1981 and refurbished since. Rooms are spread through landscaped gardens in low bungalow blocks, simply furnished with Nepali rugs and wood, and most look north toward the snow peaks from Langtang to Gauri Shankar. It sits just off the Araniko Highway beyond Dhulikhel town, so the drive from Kathmandu is about 1 to 1.5 hours.",
+      "We place guests here when they want mountain mornings without Nagarkot's colder nights: at about 1,550 m Dhulikhel stays several degrees warmer. It suits our valley rim trek, our yoga and meditation retreat and families who want space and gardens. The resort is a practical starting point for the 3 to 4 hour walk to Namobuddha and for an afternoon in Panauti, 7 km away. Expect comfortable, unfussy rooms rather than luxury finishes."
+    ],
+    "why": [
+      "Garden bungalows with northern Himalayan views",
+      "Warmer than Nagarkot at about 1,550 m",
+      "Good base for Namobuddha, Panauti and the valley rim trek"
+    ],
+    "best_for": ["families", "trekkers", "seniors", "wellness seekers"],
+    "website": "",
+    "faqs": [
+      {"q": "Which mountains can you see from Dhulikhel Mountain Resort?", "a": "On clear mornings, mainly October to March, the view runs from Langtang Lirung and Dorje Lakpa through the Jugal Himal to Gauri Shankar and, on the best days, Numbur. Monsoon months from June to September usually hide the peaks in cloud. Sunrise around 6 to 6.30 am in autumn gives the sharpest light."},
+      {"q": "Is Dhulikhel Mountain Resort good for the Namobuddha hike?", "a": "Yes. The resort is close to the start of the trail through Kavre villages to Namobuddha, a walk of about 3 to 4 hours one way with roughly 300 m of ascent. We usually walk out in the morning, have lunch near the monastery and return by car. The route is easy and suits fit families and older walkers."},
+      {"q": "Dhulikhel or Nagarkot for one night?", "a": "Nagarkot sits higher at about 2,175 m and gives a wider mountain panorama, but nights are colder. Dhulikhel, at about 1,550 m, is warmer, has a Newar old town to walk through and connects easily to Namobuddha and Panauti. For pure sunrise views choose Nagarkot; for culture plus views and milder nights choose Dhulikhel."}
+    ]
+  }
+]

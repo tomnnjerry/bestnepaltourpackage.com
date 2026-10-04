@@ -1,0 +1,132 @@
+{
+  "slug": "sauraha",
+  "name": "Sauraha",
+  "region": "chitwan",
+  "kind": "border town",
+  "wiki": "Sauraha",
+  "image_query": "Sauraha Rapti river sunset Chitwan",
+  "lat": 27.5747,
+  "lng": 84.4936,
+  "altitude_m": 160,
+  "tagline": "Chitwan's riverside safari village and Tharu dance halls",
+  "meta_description": "Sauraha, Chitwan: where to stay, Tharu stick dance, Elephant Breeding Centre, riverside sunsets, safari bookings and how to reach Sauraha from Kathmandu or Pokhara.",
+  "summary": "Sauraha is the main gateway to Chitwan National Park, a village of hotels, cafes and safari counters on the north bank of the Rapti. From here you can walk to the river, cross into the park for jeep and canoe trips, and spend evenings at Tharu dance shows. Two or three nights suit most visitors.",
+  "intro": [
+    "Forty years ago Sauraha was a small Tharu farming village with a park gate. Today it is the busiest entry to Chitwan, part of Ratnanagar Municipality, with more than a hundred hotels and guesthouses packed into a few square kilometres between the Rapti and the mustard fields. The main road ends at the river, where the sunset crowd gathers on the sandbank each evening and rhinos sometimes wade across to graze on the village side.",
+    "What Sauraha does well is convenience. Jeep, canoe and walking safaris all start within ten minutes of most hotels, the national park visitor centre is at the river, and you can book a Tharu dance show, a bicycle or a village walk in an afternoon. Budget travellers find rooms from about NPR 2,000 a night, while resorts such as Green Park Chitwan offer pools, air conditioning and full-board safari packages that suit Indian families and couples.",
+    "Sauraha is also where most visitors meet Tharu culture. The Tharu Cultural Museum, the Tharu Culture House dance hall and village walks through Bachhauli and Baghmara show how the Terai's oldest community lives beside the park. The Elephant Breeding Centre at Khorsor is a short walk or cycle west. Just bear in mind that a few lodges still sell elephant rides; we do not include them, and we explain why in our safari guide."
+  ],
+  "facts": [
+    ["Altitude", "≈ 160 m"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Bharatpur (≈ 15 km · 30 min)"],
+    ["From Kathmandu", "≈ 165 km · 5–7 h by road"],
+    ["Known for", "Park gateway, riverside sunsets, Tharu dance"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Sunset on the Rapti sandbank", "text": "Every evening the riverbank at the end of Sauraha's main road fills with people watching the sun drop behind the park's forest. Cafes set out chairs on the sand, boatmen pole canoes back to shore, and rhinos or deer often appear on the far bank as the light fades."},
+    {"title": "Tharu stick dance shows", "text": "Each evening the Tharu Culture House and several hotels stage the lathi or stick dance, the peacock dance and harvest dances, performed by young men and women from local villages. Shows last about an hour and tickets cost a few hundred rupees."},
+    {"title": "Tharu Cultural Museum", "text": "A small museum on the edge of the village explains Tharu farming, fishing, festivals and house-building through photographs, tools and life-size mud-wall paintings. It is a useful hour before a village walk and helps children understand what they will see."},
+    {"title": "Elephant Breeding Centre at Khorsor", "text": "About 3 km west, the government centre keeps working elephants and their calves. You can see how the park's elephants are housed and fed, and talk to keepers about their care. Read our welfare note before going; we do not book rides."},
+    {"title": "Cycling to Bishazari Tal", "text": "Hire a bicycle and ride through mustard and rice fields to the Bishazari Tal wetland, a Ramsar site about 15 km away. The route passes Tharu villages and community forests where spotted deer and peafowl are common."},
+    {"title": "Easy safari logistics", "text": "Jeep, canoe and walking safaris all leave from the Sauraha riverside within minutes of most hotels. It is the simplest base for a short trip, especially for families who want activities without long transfers."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Kathmandu to Sauraha is ≈ 165 km via Mugling and Narayangarh, 5–7 h by car or 6–7 h by tourist bus. Tourist buses leave Kathmandu around 7 am and stop at the Sauraha bus park, 1–2 km from most hotels; hotel jeeps meet them. From Pokhara it is ≈ 150 km · 5–6 h."},
+    {"mode": "Air", "text": "Fly Kathmandu–Bharatpur in about 25 minutes, then drive ≈ 15 km · 30 min to Sauraha via Tandi. Most hotels arrange airport pick-ups. This is the best option for seniors and families short on time."},
+    {"mode": "Road", "text": "From India, Raxaul–Birgunj to Sauraha is ≈ 150 km · 4–5 h via Pathlaiya and Hetauda, and Sunauli–Bhairahawa to Sauraha is ≈ 165 km · 4–5 h via Butwal and Narayangarh."}
+  ],
+  "where_to_stay": "Most hotels line the roads leading to the Rapti. River-view properties near the riverbank give the best sunsets, while quieter places lie a little east toward Baghmara and west toward the Elephant Breeding Centre. Green Park Chitwan is one of the most comfortable resorts, with an outdoor pool and a children's pool, a short walk from the river. Budget travellers find many family-run guesthouses with garden rooms at NPR 2,000–4,000 a night. In October, November and the Indian winter holidays, book well ahead.",
+  "stays": ["green-park-chitwan"],
+  "tips": [
+    "Take a tourist bus or car that drops you at your hotel rather than the public bus park on the highway at Tandi.",
+    "Book safaris through your hotel or package; touts on the main road may quote low prices that exclude park fees.",
+    "Never walk along the riverbank after dark; rhinos cross into the village at night.",
+    "Hire bicycles for about NPR 500 a day to reach Tharu villages and Bishazari Tal at your own pace.",
+    "The Tharu Culture House show runs most evenings; ask your hotel for the time, usually 7 or 7:30 pm."
+  ],
+  "themes": ["wildlife-safari", "family-holidays", "budget-nepal", "short-breaks", "cultural-tours"],
+  "nearby": ["chitwan-national-park", "bishazari-tal", "bharatpur", "devghat"],
+  "experiences": [
+    {
+      "slug": "sauraha-tharu-stick-dance-show",
+      "title": "Tharu stick dance show in Sauraha",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Evenings, 7–8 pm, all year",
+      "price_hint": "≈ NPR 200–300 per person",
+      "image_query": "Tharu stick dance Sauraha",
+      "wiki": "Tharu people",
+      "summary": "Young Tharu dancers clash bamboo sticks in fast, rhythmic circles to drums and song in the lathi naach, then perform the peacock dance and harvest dances. It is the liveliest hour in Sauraha and a good first look at Tharu culture.",
+      "body": [
+        "The lathi naach, or stick dance, is the best known of the Tharu dances. Rows of men, sometimes joined by women, strike sticks against their partners' in a steady pattern that speeds up with the madal drum until the sound is like rain on a tin roof. Locals tell different stories about its origin; one is that villagers used sticks to drive wild animals and evil spirits away from their fields and houses.",
+        "Shows at the Tharu Culture House and at several hotels run about an hour and usually include four to six dances: the stick dance, the peacock dance with a dancer in a feathered costume, the fire dance in some halls, and the jhumra or harvest dance performed by women in white and red. At the end, audiences are often invited onto the floor to try a few steps.",
+        "Tickets cost about NPR 200–300 at the door, and our packages include one evening show. Seats are plastic chairs or benches, the halls get warm in April and May, and photography is allowed. Arrive 15 minutes early for a front row, and walk back with a torch, as the lanes are dark."
+      ],
+      "good_for": ["families", "groups", "first-timers", "couples"],
+      "faqs": [
+        {"q": "What is the Tharu stick dance?", "a": "The lathi naach or stick dance is a traditional Tharu dance in which performers strike bamboo sticks against their partners' in rhythm with drums and singing. It speeds up as the song goes on. It is performed at festivals and, in Sauraha, every evening for visitors at the Tharu Culture House and several hotels."},
+        {"q": "How much is the Tharu cultural show in Sauraha?", "a": "Tickets at the Tharu Culture House are around NPR 200–300 per person, paid at the door. Some hotels stage their own shows free for guests. Our Chitwan packages include one evening show with transfers. Prices change, so check current status before you travel."},
+        {"q": "Is the Tharu dance show good for kids?", "a": "Yes. Children usually enjoy the noise, the costumes and the peacock dance, and the show lasts only an hour. Sit near the front so they can see. Some halls are warm and crowded in April and May, so carry water."}
+      ]
+    },
+    {
+      "slug": "sauraha-elephant-breeding-centre",
+      "title": "Elephant Breeding Centre at Khorsor",
+      "kind": "wildlife",
+      "duration": "1.5–2 hours including the walk or ride",
+      "best_time": "Late morning or afternoon, Oct–Apr",
+      "price_hint": "Small entry fee, ≈ NPR 100–200",
+      "image_query": "Elephant Breeding Centre Chitwan calf",
+      "wiki": "",
+      "summary": "The government breeding centre 3 km west of Sauraha houses the park's working elephants and their calves. A visit shows how they are kept and raises honest questions about captive elephants; we explain the welfare issues and do not sell rides.",
+      "body": [
+        "The Elephant Breeding Centre at Khorsor was set up by the national park in the 1980s to breed elephants for anti-poaching patrols, since buying them from India had become difficult. Calves are born here, and you may see young elephants with their mothers in the stalls, along with the mahouts who care for them. A small display explains the elephants' role in the park and the history of elephant-keeping in the Terai.",
+        "Visiting raises welfare questions that we think travellers should hear. Elephants here are often chained at the stall overnight, training methods for young elephants have been criticised by animal-welfare groups, and riding puts strain on an elephant's back. Conditions have improved in recent years, with more corral space and time to graze, but standards are still debated. We think it is better to see the centre with that context than to avoid the subject.",
+        "That is also why we do not book elephant-back safaris or elephant bathing, both still offered by some Sauraha lodges. Jeep, canoe and walking safaris show the park well. The centre is a 45-minute walk or 15-minute cycle from Sauraha, often combined with the canoe ride and the walk back. Entry is a small fee; check current status before you travel."
+      ],
+      "good_for": ["families", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Is visiting the Elephant Breeding Centre in Chitwan ethical?", "a": "It is a fair question. The centre breeds elephants for park patrols, and welfare groups have raised concerns about chaining and training. Conditions have improved but are still debated. We take guests who want to learn, explain the issues openly, and do not support riding or bathing elephants, which we think cause more harm."},
+        {"q": "Can I ride an elephant in Chitwan with your company?", "a": "No. We do not sell elephant rides, elephant safaris or elephant bathing. A jeep safari reaches the same grasslands and gives better odds of tiger, and canoes and walks cover the rest. If an elephant ride matters to you, we will still tell you about the welfare concerns honestly."},
+        {"q": "How do I get to the Elephant Breeding Centre from Sauraha?", "a": "It is about 3 km west of Sauraha. Most visitors walk back to it after the morning canoe ride, a 1–2 hour guided walk through forest, or cycle there in about 15 minutes along the village track. A jeep transfer is also possible. Allow 45 minutes at the centre."}
+      ]
+    },
+    {
+      "slug": "sauraha-tharu-village-bike-ride",
+      "title": "Tharu village bike ride from Sauraha",
+      "kind": "culture",
+      "duration": "2.5–3 hours",
+      "best_time": "Late afternoon, Oct–Mar",
+      "price_hint": "≈ NPR 1,500 per person with guide and bike",
+      "image_query": "Tharu village house Chitwan mud wall",
+      "wiki": "",
+      "summary": "A guided bicycle loop through Bachhauli and nearby Tharu hamlets passes mud-walled houses, mustard and rice fields, and community forest, ending at the Rapti for sunset. It is flat, gentle and a good counterweight to the jeep.",
+      "body": [
+        "The loop runs 12 to 15 km on flat village tracks east and north of Sauraha. You stop at Tharu homes with walls of mud and cow dung painted with clay reliefs of birds and animals, see grain stored in tall clay jars called dehari, and watch families thresh rice or press mustard oil depending on the season. Your guide, often from a Tharu family, explains how farming has changed since the park was created in 1973.",
+        "Part of the ride passes through community-managed buffer-zone forest, where spotted deer and peacocks are common and where villagers collect fodder and grass under rules set by the buffer-zone committees. The project shares a portion of park income with local communities, which our guide can explain on the way.",
+        "We supply single-speed or geared bicycles, helmets on request, and a guide who sets an easy pace. Children over about 10 who cycle confidently can join; younger ones can ride in an ox-cart or e-rickshaw for part of the route. The loop ends at the riverbank in time for sunset, and you are back at the hotel before the dance show."
+      ],
+      "good_for": ["couples", "families", "solo", "photographers"],
+      "faqs": [
+        {"q": "Is the Sauraha bike ride difficult?", "a": "No. The route is flat, 12 to 15 km on dirt and paved village roads, with frequent stops. Anyone who can ride a bicycle comfortably will manage. In April and May go after 4 pm to avoid the heat, and carry water. Ox-carts and e-rickshaws are options for those who would rather not cycle."},
+        {"q": "Can I visit a Tharu village without a guide?", "a": "You can cycle the village roads on your own, but a local guide makes the visit far more rewarding. Families are more open to visitors who come with someone they know, and the guide explains the paintings, crops and customs. Ask before photographing people or entering a courtyard."},
+        {"q": "What will I see in a Tharu village near Chitwan?", "a": "Mud-and-thatch houses with painted clay reliefs, tall grain jars, fishing traps, mustard and rice fields, and family courtyards with cattle and goats. In autumn you may see harvest work; in winter, mustard in yellow flower. Some families also show how they cook local dishes such as ghonghi, freshwater snails."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Sauraha a good base for Chitwan National Park?", "a": "Yes, for most first-time visitors. Sauraha has the widest choice of hotels and prices, and jeep, canoe and walking safaris leave from its riverside within minutes. Its sector of the park is busier than Meghauli's, so serious wildlife photographers may prefer a quieter base, but Sauraha is the most convenient."},
+    {"q": "How far is Sauraha from Kathmandu?", "a": "About 165 km by road via Mugling and Narayangarh, which takes 5–7 hours by car and 6–7 hours by tourist bus, depending on traffic and road works. The quickest option is a 25-minute flight to Bharatpur followed by a 30-minute drive to Sauraha."},
+    {"q": "How far is Sauraha from Pokhara?", "a": "About 150 km, 5–6 hours by car or tourist bus via Damauli, Mugling and Narayangarh. Tourist buses leave Pokhara's Tourist Bus Park around 7:30 am. Many travellers do Kathmandu–Pokhara–Chitwan as a loop, finishing in Kathmandu."},
+    {"q": "What can I do in Sauraha in the evening?", "a": "Watch the sunset from the Rapti sandbank, attend the Tharu stick dance show at the Tharu Culture House (around 7 pm), eat at the riverside cafes, or simply sit in your hotel garden listening to frogs and birds. Avoid walking along the river after dark, when rhinos cross into the village."},
+    {"q": "Are there ATMs and Wi-Fi in Sauraha?", "a": "Yes. Sauraha has several ATMs along the main road, though they occasionally run out of cash on busy weekends, and most hotels have Wi-Fi. Indian rupees in denominations of 100 and below are widely accepted; larger Indian notes are not. Carry Nepali rupees for park fees and small purchases."},
+    {"q": "Is Sauraha safe at night?", "a": "The village is safe from crime, but wildlife is the concern. Rhinos regularly wander into Sauraha at night, and sloth bears occasionally do. Stay on lit roads, carry a torch, keep away from the riverbank and grassland after dark, and follow your hotel's advice."},
+    {"q": "Can I see rhinos in Sauraha village itself?", "a": "Often, yes. Rhinos cross the Rapti to graze on the village side, especially in the early morning and evening, and are sometimes seen from riverside cafes. Watch from a safe distance and never approach. For guaranteed close views, a jeep or canoe safari is still the best bet."},
+    {"q": "What is the weather in Sauraha?", "a": "October to February is pleasant, 20–28 °C by day and 7–15 °C at night, with foggy mornings in December and January. March and April warm up to 30–35 °C. May and early June are hot, often 38 °C or more, and mid-June to mid-September is monsoon, with heavy rain and high humidity."},
+    {"q": "Do Sauraha hotels include safari activities?", "a": "Many hotels sell full-board packages with activities, typically a jeep safari, canoe ride, jungle walk, village tour and the dance show. Check whether park fees and jeep entry are included; often they are extra. Our packages state exactly what is included so there are no surprises at check-out."}
+  ]
+}

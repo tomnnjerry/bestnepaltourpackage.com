@@ -1,0 +1,5 @@
+{% load tours %}<a class="pcard" href="{{ p.url }}" data-land="{{ p.region }}">
+  {% photo p|first_img p.name "" "(max-width: 760px) 50vw, 25vw" False False %}
+  <span class="pcard__alt">{{ p.altitude_m|thousands }} m</span>
+  <span class="pcard__txt"><b>{{ p.name }}</b><small>{{ p.tagline }}</small></span>
+</a>

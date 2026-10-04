@@ -1,0 +1,132 @@
+{
+  "slug": "nepalgunj",
+  "name": "Nepalgunj",
+  "region": "far-west",
+  "kind": "border town",
+  "wiki": "Nepalgunj",
+  "image_query": "Nepalgunj Bageshwari temple pond",
+  "lat": 28.05,
+  "lng": 81.617,
+  "altitude_m": 150,
+  "tagline": "Hot, flat hub for Rara, Simikot, Bardia and the Kailash flights",
+  "meta_description": "Nepalgunj travel guide: flights to Rara, Jumla and Simikot, the Rupaidiha border, Bageshwari Temple, Bardia transfers and where to stay.",
+  "summary": "Nepalgunj is the air and road hub of western Nepal, 150 m above sea level and 6 km from the Indian border at Rupaidiha. Almost every trip to Rara Lake, Jumla, Simikot or Bardia passes through it. Plan one night here, see Bageshwari Temple, and fly out early next morning.",
+  "intro": [
+    "Nepalgunj sits on the hot Terai plain in Banke district, close to the Indian town of Rupaidiha in Uttar Pradesh. It is the largest city in mid-western Nepal and the base for the small-plane network that serves the western hills: Twin Otters and Dorniers leave its runway at first light for Jumla, Talcha (Rara), Simikot, Dolpa and a dozen other mountain strips. Buddha Air and Shree Airlines run several jet and turboprop flights a day from Kathmandu, taking about an hour.",
+    "For Indian travellers the city is the easiest way into western Nepal. Lucknow is about 190 km away by road through Bahraich, and the Jamunaha–Rupaidiha crossing is open to Indian nationals without a visa. Many Kailash Mansarovar yatris now fly Lucknow or Delhi to Nepalgunj, take the morning flight to Simikot and continue by helicopter to Hilsa on the Tibet border. That makes Nepalgunj a pilgrim town for half the year, with hotels used to early starts and large groups.",
+    "The town itself is flat, warm and busy with cycle rickshaws and the last horse-drawn tongas in Nepal. The Bageshwari Temple, a Shakti peeth with a large tank, is the main sight. Mosques, Tharu villages on the outskirts and markets selling Lucknow cloth reflect a population mixed between hill, Madhesi, Muslim and Tharu families. Summer is fierce: May and early June often pass 40 °C, so most visitors come between October and March."
+  ],
+  "facts": [
+    ["Altitude", "150 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Nepalgunj Airport (KEP), 6 km from the centre"],
+    ["From Kathmandu", "≈ 1 h flight or ≈ 520 km · 12–14 h by road"],
+    ["Known for", "Mountain flights, Bageshwari Temple, Indian border at Rupaidiha"]
+  ],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Bageshwari Temple", "text": "The city's main shrine, dedicated to the goddess Bageshwari and counted by many devotees as a Shakti peeth. The temple stands beside a large pond with a Shiva statue at its centre, and it fills on Tuesdays, Saturdays and during Dashain. Allow 45 minutes; shoes off at the gate."},
+    {"title": "Mountain flights at first light", "text": "Nepalgunj is the only practical air gateway to Simikot, Talcha and Jumla. Flights leave between 6 and 9 am to beat the afternoon wind in the hills. Watching Twin Otters load rice, gas cylinders and pilgrims at the small-plane apron shows how the far west is supplied."},
+    {"title": "Rupaidiha border", "text": "The Jamunaha–Rupaidiha crossing is 6 km south of the centre. Indian nationals cross with an ID such as a passport or voter card; other nationalities need a Nepal visa and must use the immigration office. Lucknow, with direct flights to most Indian cities, is about 4–5 hours beyond."},
+    {"title": "Banke National Park", "text": "Nepal's newer tiger park, declared in 2010, starts 30 km east along the highway and joins Bardia to form one large forest block. The 2026 census counted 51 tigers here. Visitor facilities are thin, so most travellers treat it as a drive-through on the way to Bardia."},
+    {"title": "Tongas and the old bazaar", "text": "Horse-drawn tongas still carry passengers and goods around the older lanes near Dhamboji Chowk and the main bazaar. A short ride, a lassi and a plate of kebabs or sweets from a Muslim-run shop is the easiest way to see a town most visitors only use as a transit stop."},
+    {"title": "Gateway to Bardia", "text": "Thakurdwara, the main entrance to Bardia National Park, is about 95 km away, 2.5–3 hours by car via Kohalpur and the East–West Highway. Many travellers land at Nepalgunj in the morning and are on a jungle walk the same afternoon."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Buddha Air and Shree Airlines fly Kathmandu–Nepalgunj several times a day, about 55–65 minutes. Morning flights connect with afternoon onward arrangements; for Simikot, Talcha or Jumla you normally overnight here because mountain flights leave early. Schedules change by season, so check current status before you travel."},
+    {"mode": "Road", "text": "From Lucknow: ≈ 190 km · 4–5 h via Bahraich and the Rupaidiha border. From Kathmandu: ≈ 520 km · 12–14 h on the Prithvi and East–West highways, usually done as an overnight bus. From Bardia (Thakurdwara): ≈ 95 km · 2.5–3 h."},
+    {"mode": "Rail", "text": "The nearest Indian railheads are Nanpara and Bahraich on the Indian side; most travellers find a car from Lucknow simpler. There is no railway in Nepal west of the Janakpur line, so the last stretch is always by road."}
+  ],
+  "where_to_stay": "Most hotels sit within 10–15 minutes of the airport, which keeps early flights simple. Siddhartha Hotel, near Mahendra Stadium, is the town's best-known upscale option, with a pool that matters from April onward and staff used to Kailash groups leaving at 5 am. A handful of mid-range hotels near Birendra Chowk and the bus park suit budget travellers and drivers. Air-conditioning is worth paying for between April and September. There is little reason to stay more than one night unless a mountain flight is cancelled, which happens often enough that we build a spare night into Simikot and Rara itineraries.",
+  "stays": ["siddhartha-hotel-nepalgunj"],
+  "tips": [
+    "Book a hotel close to the airport if you have a 6 am flight to Simikot, Jumla or Talcha.",
+    "Carry small Nepali rupee notes; Indian rupee notes above ₹100 are not legal tender in Nepal.",
+    "Expect fog delays on morning flights in late December and January.",
+    "From April to June keep sightseeing to early morning and late afternoon to avoid 40 °C heat.",
+    "If a mountain flight is cancelled, stay flexible; operators usually rebook on the next morning's first flight."
+  ],
+  "themes": ["overland-from-india", "kailash-yatra", "pilgrimage", "wildlife-safari", "budget-nepal"],
+  "nearby": ["bardia-national-park", "simikot", "rara-lake", "jumla"],
+  "experiences": [
+    {
+      "slug": "nepalgunj-bageshwari-temple-visit",
+      "title": "Bageshwari Temple and evening aarti",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours",
+      "best_time": "Early morning or around sunset, Oct–Mar",
+      "price_hint": "Included in most Nepalgunj stopovers",
+      "image_query": "Bageshwari temple Nepalgunj",
+      "wiki": "",
+      "summary": "A short visit to Nepalgunj's main temple, a Shakti shrine beside a large pond. It is busiest on Tuesdays and Saturdays and during Dashain, and it is the natural stop for pilgrims flying on to Simikot for Kailash.",
+      "body": [
+        "Bageshwari is a goddess temple in the middle of town, a few minutes from Birendra Chowk. Devotees hold that it is one of the Shakti peeths, the places where parts of the goddess Sati are said to have fallen. The shrine is small and colourful, and most of the space is taken by the courtyard and the large tank beside it, with a tall Shiva figure standing in the water.",
+        "Mornings bring local families with flowers, coconuts and red powder; evenings are quieter and cooler. Many Kailash groups visit on the day before their Simikot flight to ask for good weather. Photography is fine in the courtyard but not inside the sanctum. Remove shoes at the gate, cover shoulders and knees, and keep leather items in the car.",
+        "Combine the visit with a walk into the older bazaar for sweets or a lassi, or a tonga ride back to your hotel. If you arrive in Nepalgunj by the afternoon flight from Kathmandu, there is time to see the temple before dinner and still sleep early for a dawn departure."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "groups"],
+      "faqs": [
+        {"q": "Is Bageshwari Temple a Shakti peeth?", "a": "Local tradition and many devotees treat Bageshwari Temple as a Shakti peeth, linked to the story of Sati. You will see it described that way by priests and pilgrims. Lists of Shakti peeths differ between texts, so it does not appear on every list, but its local importance is not in doubt and it is the main shrine of Nepalgunj."},
+        {"q": "Can non-Hindus enter Bageshwari Temple?", "a": "Visitors of any faith can enter the courtyard, walk around the pond and watch the rituals. Entry to the inner shrine is usually for Hindus. Dress modestly, remove shoes and leather items at the gate, and ask before photographing people or priests. A visit takes under an hour."},
+        {"q": "What time is best to visit Bageshwari Temple?", "a": "Early morning, around 6 to 8 am, is cool and shows the temple at its most active with local worshippers. Late afternoon into dusk is also pleasant. Avoid midday between April and June, when Nepalgunj regularly reaches 40 °C and the stone courtyard becomes very hot underfoot."}
+      ]
+    },
+    {
+      "slug": "nepalgunj-tonga-ride-old-bazaar",
+      "title": "Tonga ride through the old bazaar",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Oct–Mar",
+      "price_hint": "≈ ₹600 per tonga",
+      "image_query": "tonga horse cart Nepalgunj",
+      "wiki": "",
+      "summary": "Nepalgunj is one of the last towns in Nepal where horse-drawn tongas still work the streets. A short ride through the bazaar lanes with stops for sweets, kebabs and cloth shops shows the town's mixed hill, Madhesi and Muslim character.",
+      "body": [
+        "Tongas once carried most of Nepalgunj's traffic between the border and the bazaar. Rickshaws and e-rickshaws have taken over, but a few dozen carts still work around the main bazaar and the roads towards Rupaidiha. A ride is slow, bumpy and the best way to see the town at street level.",
+        "We usually start near Birendra Chowk, pass the clock tower and the cloth market where traders sell fabric from Lucknow and Kanpur, and stop at a mosque area where small restaurants serve kebabs, biryani and sweet seviyan. The town has a large Muslim community, and its food leans towards Awadh rather than the Kathmandu hills.",
+        "The ride ends back at your hotel or at Bageshwari Temple. Agree the fare before you get on; a local guide makes this simple and can explain which shops have been trading for generations. Late afternoon is best, when the heat drops and the bazaar fills with families."
+      ],
+      "good_for": ["families", "couples", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Are tonga rides safe for children?", "a": "Yes, for a short ride at walking pace. Tongas are open carts on town roads shared with motorbikes and rickshaws, so keep children seated in the middle and avoid the main highway. Our guide chooses quieter lanes through the old bazaar. Rides last about an hour including stops for sweets and photographs."},
+        {"q": "How much does a tonga ride cost in Nepalgunj?", "a": "Expect around ₹600 to ₹800 in Nepali rupees equivalent for an hour with a few stops, paid to the driver. Prices are not fixed, so agree the fare before setting off. On our Nepalgunj stopovers the ride is often included when there is time between the flight from Kathmandu and dinner."},
+        {"q": "What food should I try in Nepalgunj?", "a": "Try seekh kebabs and biryani from the Muslim-run eateries near the bazaar, sweets such as rasgulla and peda, and a cold lassi in the warm months. Hotels serve Nepali dal bhat and Indian thalis. Nepalgunj food is closer to Lucknow than to Kathmandu, which surprises many visitors."}
+      ]
+    },
+    {
+      "slug": "nepalgunj-banke-national-park-drive",
+      "title": "Banke National Park forest drive",
+      "kind": "wildlife",
+      "duration": "Half day",
+      "best_time": "Early morning, Nov–Apr",
+      "price_hint": "≈ ₹7,000 per vehicle plus park fee",
+      "image_query": "Banke National Park forest Nepal",
+      "wiki": "Banke National Park",
+      "summary": "A half-day drive into Banke National Park, the 550 km² forest that joins Bardia to the east. Tracks are basic and sightings are a matter of luck, but the sal forest and riverbeds hold tigers, deer and good birdlife.",
+      "body": [
+        "Banke National Park was declared in 2010 to give Bardia's tigers more room. Together the two parks form a single protected block of about 1,437 km². The 2026 national census counted 51 tigers in Banke, double the 2022 figure, which made it one of the fastest-growing tiger populations in Nepal.",
+        "Tourism here is still small. There are few lodges and no established safari circuit, so we treat Banke as a half-day forest drive from Nepalgunj or a stop on the way to Bardia. Expect sal and riverine forest, dry stream beds, spotted deer, langur monkeys, peafowl and hornbills. Tiger sightings are rare.",
+        "Park entry is paid at the office near Obhari on the highway, and a licensed nature guide must accompany you inside. Go early, carry water, and expect dust between February and May. For a real chance of seeing tigers, spend your nights at Bardia instead."
+      ],
+      "good_for": ["photographers", "solo", "groups"],
+      "faqs": [
+        {"q": "Is Banke National Park worth visiting?", "a": "It is worth a half day if you are curious about Nepal's newer parks or want a quiet forest drive from Nepalgunj. Facilities are basic and sightings depend on luck. For tigers, rhinos and proper lodges, Bardia is much better, and it is only an hour further west along the same highway."},
+        {"q": "How far is Banke National Park from Nepalgunj?", "a": "The park's edge is about 30 km east of Nepalgunj along the highway through Kohalpur, around 45 minutes by car. The East–West Highway runs through the park, so you also cross it on the drive to Bardia. Entry for a forest drive is from the park office area, with a licensed guide."},
+        {"q": "How many tigers are in Banke National Park?", "a": "Nepal's 2026 tiger census counted 51 tigers in Banke, up from 25 in 2022. Banke and Bardia are connected forest, so tigers move between them. Numbers are estimates from camera traps and change with each census, which is carried out roughly every four years."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Nepalgunj from Kathmandu?", "a": "Fly. Buddha Air and Shree Airlines run several flights a day, about an hour each way, and fares for foreigners are usually around US$150–200 one way. The road is about 520 km and takes 12–14 hours by bus or car. If you are heading to Simikot or Rara, fly in the afternoon before your mountain flight. Check current schedules before you travel."},
+    {"q": "How far is Nepalgunj from Lucknow?", "a": "About 190 km, 4–5 hours by car via Bahraich and the Rupaidiha–Jamunaha border. Indian nationals cross with a passport or voter ID and need no visa. Other nationalities must complete Nepal immigration at the border post. Many Kailash yatris and Bardia safari groups now start in Lucknow because of its direct flights."},
+    {"q": "Can Indians cross the border at Nepalgunj?", "a": "Yes. Indian citizens can cross at Jamunaha–Rupaidiha with a valid passport or Election Commission voter ID. Children usually need a school ID or birth certificate with a parent. Private Indian cars need a temporary permit (bhansar) at Nepal customs. Rules change, so check current status before you travel."},
+    {"q": "Is there anything to see in Nepalgunj?", "a": "Enough for half a day. See Bageshwari Temple, take a tonga ride through the old bazaar, eat kebabs or sweets near the mosques, and if you have time, drive into Banke National Park. Most travellers spend one night here between a Kathmandu flight and an early mountain flight to Simikot, Rara or Jumla."},
+    {"q": "How hot does Nepalgunj get?", "a": "Very hot. Nepalgunj is one of the hottest towns in Nepal, often 40–45 °C in May and early June, with humid monsoon heat until September. December and January are mild by day, around 20–23 °C, but foggy mornings can delay flights. October–November and February–March are the most comfortable months to pass through."},
+    {"q": "Why do Kailash yatris fly via Nepalgunj?", "a": "The Simikot route to Kailash starts here. Groups fly Nepalgunj–Simikot by small plane, then helicopter to Hilsa on the Tibet border, cross to Purang and drive to Lake Manasarovar. It avoids the long overland drive from Kathmandu and suits pilgrims with limited time. Kailash rules for Indian passport holders change, so check current status before you travel."},
+    {"q": "How long is the flight from Nepalgunj to Simikot?", "a": "About 40–50 minutes in a Twin Otter or Dornier, usually leaving between 6 and 9 am. Seats are limited and baggage allowance is typically 15 kg including hand luggage. Cloud or wind in the hills often delays or cancels flights, so build at least one spare day into any Simikot or Limi Valley itinerary."},
+    {"q": "Where should I stay in Nepalgunj?", "a": "Siddhartha Hotel near Mahendra Stadium is the best-known upscale choice, with a pool, air-conditioning and experience handling early Kailash departures. Mid-range and budget hotels cluster near Birendra Chowk and the bus park. Stay near the airport road if your flight leaves at dawn, and pay for air-conditioning from April to September."},
+    {"q": "Is Nepalgunj safe for tourists?", "a": "Yes, Nepalgunj is a normal working town and visitors rarely face problems beyond heat, traffic and the usual border-town touts. Use registered taxis or your tour vehicle, keep valuables in the hotel, and avoid walking along the highway at night. Women travellers usually find the town relaxed, though conservative dress is wise."}
+  ]
+}

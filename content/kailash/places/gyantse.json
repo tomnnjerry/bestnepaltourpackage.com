@@ -1,0 +1,131 @@
+{
+  "slug": "gyantse",
+  "name": "Gyantse",
+  "region": "kailash",
+  "kind": "old town",
+  "wiki": "Gyantse",
+  "image_query": "Gyantse Kumbum stupa Palcho",
+  "lat": 28.915,
+  "lng": 89.605,
+  "altitude_m": 3977,
+  "tagline": "Old fort town at ≈ 3,980 m with the great Kumbum stupa",
+  "meta_description": "Gyantse (≈ 3,980 m): Pelkor Chode and the Kumbum, Gyantse Dzong, Yamdrok Lake and Karo La on the road from Lhasa, best months and hotels.",
+  "summary": "Gyantse is a small historic town at about 3,980 m between Lhasa and Shigatse, known for the Pelkor Chode monastery and its 15th-century Kumbum, a tiered stupa of 77 chapels, and for the hilltop dzong. The drive from Lhasa passes Yamdrok Lake and the Karo La glacier.",
+  "intro": [
+    "Gyantse sits in the fertile Nyang Chu valley at about 3,980 m, roughly 260 km from Lhasa by the scenic southern road. In the 14th and 15th centuries it was the capital of a princely state on the trade route between Tibet, Bhutan and Sikkim, and its rulers built the monastery of Pelkor Chode and, in 1427, the Kumbum, a great stupa whose nine levels hold 77 chapels painted with thousands of images.",
+    "The town is smaller and quieter than Lhasa or Shigatse, with an old quarter of white Tibetan houses below the walls of Gyantse Dzong, a fortress on a rock outcrop. The dzong saw fierce fighting in 1904, when a British expedition under Francis Younghusband stormed it on the way to Lhasa. Today you can climb it for views over the valley and the monastery walls.",
+    "For most travellers, Gyantse is a one-night or half-day stop on the Lhasa–Gyantse–Shigatse circuit or on the way to Everest's north side. The drive from Lhasa over the Kamba La to Yamdrok Lake and past the Karo La glacier is one of the finest days in Tibet. Permits are needed for all foreigners; check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 3,980 m"],
+    ["Best months", "Apr – Jun · Sep – Oct"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Lhasa Gonggar (≈ 230 km) or Shigatse Peace"],
+    ["From Kathmandu", "Flight to Lhasa + ≈ 260 km road via Yamdrok"],
+    ["Known for", "Kumbum stupa, Pelkor Chode, Gyantse Dzong"]
+  ],
+  "best_months": [1, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "The Kumbum", "text": "Built in 1427, the Kumbum rises about 35 m in nine levels, with 77 chapels lining its walls. Climbing through them, you pass murals and statues in a style influenced by Newar artists. The view from the top looks over Gyantse and the dzong."},
+    {"title": "Pelkor Chode monastery", "text": "Founded in 1418, the monastery once housed monks of several schools under one roof. Its main assembly hall has statues, murals and a large mandala chapel, and the complex sits inside long walls climbing the hill."},
+    {"title": "Gyantse Dzong", "text": "The fortress on its rock above the town was the scene of the 1904 siege by British troops. A steep climb leads to ramparts with sweeping views of the valley, the old town and the Kumbum below."},
+    {"title": "Yamdrok Lake on the way", "text": "The road from Lhasa crosses the Kamba La at about 4,790 m and drops to the shore of Yamdrok Lake, at about 4,440 m, a long lake of deep turquoise ringed by brown hills and snow peaks."},
+    {"title": "Karo La glacier", "text": "Between Yamdrok and Gyantse the road passes the Karo La, where the glaciers of Nojin Kangsang (7,191 m) hang almost above the roadside, one of the closest glacier views anywhere on a Tibetan highway."},
+    {"title": "Old town lanes", "text": "Below the dzong, lanes of whitewashed houses with wood-framed windows, courtyards of drying dung fuel and small shrines show daily life far from Lhasa's crowds. Early morning walks are best."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Lhasa to Gyantse is about 260 km (6–7 h with stops) via the Kamba La, Yamdrok Lake and Karo La. Gyantse to Shigatse is about 90 km (1.5–2 h) across farmland. Gyantse to Rongbuk is about 420 km and normally broken with a night in Shigatse."},
+    {"mode": "Air", "text": "There is no airport in Gyantse. Visitors from Nepal fly Kathmandu–Lhasa (≈ 75–90 min) and drive from there."}
+  ],
+  "where_to_stay": "Gyantse has a small number of 3-star and simple 4-star hotels and Tibetan-style guesthouses in the town centre near the main crossroads, within a short drive or walk of Pelkor Chode. Standards are plain but rooms have heating and hot water. Because properties change frequently, we book the best available rooms for each group rather than naming one here. Many tours visit Gyantse in half a day and overnight in Shigatse, where choice is wider.",
+  "stays": [],
+  "tips": [
+    "Start early from Lhasa so you reach Yamdrok and Karo La in good morning light.",
+    "Carry a warm jacket for the Kamba La and Karo La stops; wind at 4,800–5,000 m is fierce.",
+    "Climb the Kumbum slowly; the staircases are steep and narrow.",
+    "Bring a small torch for the darker Kumbum chapels if your guide allows it.",
+    "Expect a fee for photographs with yaks and Tibetan mastiffs at Yamdrok viewpoints."
+  ],
+  "themes": ["cultural-tours", "buddhist-circuit", "photography"],
+  "nearby": ["shigatse", "lhasa"],
+  "experiences": [
+    {
+      "slug": "gyantse-pelkor-chode-and-kumbum",
+      "title": "Pelkor Chode and the Kumbum stupa",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning or mid-afternoon",
+      "price_hint": "Ticket ≈ CNY 60, included in our tours",
+      "image_query": "Kumbum Gyantse chapels stupa",
+      "wiki": "Palcho Monastery",
+      "summary": "Explore the 1418 monastery of Pelkor Chode and climb the 1427 Kumbum, a 35 m stupa of nine levels and 77 chapels, with murals and statues in a style shaped by Newar and Tibetan artists.",
+      "body": [
+        "Pelkor Chode was founded by the prince Rabten Kunzang Phak and the scholar Kedrup Je, and unusually housed colleges of several Tibetan Buddhist schools. Its assembly hall holds large statues of Buddhas of the three times, and upstairs chapels contain fine mandalas and murals. Pilgrims move clockwise with butter and coins.",
+        "Beside it stands the Kumbum, whose name means a hundred thousand images. You climb through the levels by steep internal stairs, entering one small chapel after another, each painted floor to ceiling with deities, teachers and protectors. Many statues were damaged in the 1960s and later restored, but the murals are a major survival of 15th-century Tibetan art.",
+        "The upper levels open onto narrow terraces with views of the dzong and the valley; the top requires ladders. Allow two or three hours for both buildings. Photography fees apply in some chapels, and the light is dim, so expect slow shutter speeds."
+      ],
+      "good_for": ["photographers", "couples", "first-timers", "solo"],
+      "faqs": [
+        {"q": "What is the Gyantse Kumbum?", "a": "The Kumbum is a multi-storey stupa built in 1427 within the Pelkor Chode monastery. It is about 35 m high with nine levels and 77 chapels, each painted with Buddhist images. The name means one hundred thousand images. It is one of the most important monuments of Tibetan art."},
+        {"q": "Can I climb to the top of the Kumbum?", "a": "You can climb through most levels by steep internal stairs; the highest sections use narrow ladders and may be closed at times. At nearly 4,000 m it is tiring, so go slowly. The terraces give views over Gyantse and its dzong."},
+        {"q": "How much time do I need at Pelkor Chode?", "a": "Allow 2–3 hours for the monastery and Kumbum together. Visitors short of time can see the assembly hall and the first few Kumbum levels in about an hour and a half. Mornings and mid-afternoons are quieter."}
+      ]
+    },
+    {
+      "slug": "gyantse-dzong-fort-climb",
+      "title": "Climb Gyantse Dzong",
+      "kind": "culture",
+      "duration": "1.5–2 hours",
+      "best_time": "Late afternoon",
+      "price_hint": "Ticket ≈ CNY 30–50",
+      "image_query": "Gyantse Dzong fortress hill",
+      "wiki": "Gyantse Dzong",
+      "summary": "A steep climb up to the fortress on its rock above Gyantse, scene of the 1904 British siege, for wide views of the old town, Pelkor Chode's walls and the Nyang Chu valley.",
+      "body": [
+        "Gyantse Dzong dates mainly from the 14th century and guarded the trade route between Lhasa, Shigatse and the Himalayan passes to Sikkim and Bhutan. In July 1904 British and Indian troops of the Younghusband expedition shelled and stormed it after a long siege, opening the way to Lhasa. A small museum on site presents the Chinese account of the battle.",
+        "The climb follows stone steps and ramps up the rock, gaining about 100 m. At this altitude it takes 30–45 minutes at a steady pace. From the ramparts you look straight down on the old town's white houses and across to the walls of Pelkor Chode snaking up the hillside, with the Kumbum's gold dome shining in the afternoon.",
+        "Wear proper shoes; the steps are uneven and some sections have no railings. Opening hours and access to upper parts vary; your guide will check on the day. Late afternoon light is best for photographs."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "What happened at Gyantse Dzong in 1904?", "a": "In 1904 a British expedition led by Francis Younghusband, with British and Indian troops, besieged and stormed Gyantse Dzong after Tibetan forces held it for weeks. The fall of the fort opened the road to Lhasa, which the expedition reached in August 1904."},
+        {"q": "How hard is the climb to Gyantse Dzong?", "a": "It gains about 100 m on uneven steps and ramps, taking 30–45 minutes up. The altitude of about 4,000 m makes it tiring. Anyone with knee problems or breathlessness can enjoy the view of the dzong from the old town instead."},
+        {"q": "Is Gyantse Dzong open to visitors?", "a": "Yes, as a paid site, though opening hours and access to upper levels change and it is sometimes closed for repairs. Your guide checks on the day. Combine it with Pelkor Chode for a half-day in Gyantse."}
+      ]
+    },
+    {
+      "slug": "gyantse-yamdrok-lake-kamba-la",
+      "title": "Yamdrok Lake from the Kamba La",
+      "kind": "nature",
+      "duration": "1–2 hours with stops",
+      "best_time": "Morning, Apr–Oct",
+      "price_hint": "Lake fee included in our tours",
+      "image_query": "Yamdrok Lake Kamba La turquoise",
+      "wiki": "Yamdrok Lake",
+      "summary": "On the road from Lhasa to Gyantse, stop at the Kamba La pass (about 4,790 m) for the famous view of Yamdrok Lake, a long turquoise lake at about 4,440 m, then drive along its shore towards the Karo La glacier.",
+      "body": [
+        "About 100 km from Lhasa the road climbs in switchbacks out of the Yarlung Tsangpo valley to the Kamba La, at roughly 4,790 m. Over the crest, Yamdrok Lake appears below, its arms winding between brown hills in shades of turquoise and deep blue, with the snow summit of Nojin Kangsang to the west. Prayer flags snap in the wind.",
+        "Yamdrok is one of Tibet's three sacred lakes, and Tibetans regard it as the transformation of a goddess. After photographs at the pass, the road descends to the shore at about 4,440 m and follows it for some 40 km through small villages to Nangartse. Many travellers stop by the water to walk on the pebble beaches.",
+        "Further on, the road climbs to the Karo La, where glaciers hang almost over the highway. The whole stretch makes a long morning before lunch and the final run into Gyantse. Expect vendors with yaks and mastiffs for paid photos at viewpoints."
+      ],
+      "good_for": ["photographers", "couples", "families", "first-timers"],
+      "faqs": [
+        {"q": "How high is Yamdrok Lake?", "a": "Yamdrok Lake lies at about 4,440 m, and the Kamba La viewpoint above it is about 4,790 m. Most travellers visit after at least two nights in Lhasa to avoid altitude problems. It is roughly 100–110 km from Lhasa, about 2.5–3 hours by road."},
+        {"q": "Can I visit Yamdrok Lake as a day trip from Lhasa?", "a": "Yes. A day trip from Lhasa to the Kamba La and the lakeshore takes about 8–9 hours return. Our Lhasa and Yamdrok short tour includes it. Overnight tours continue to Gyantse and Shigatse instead of returning."},
+        {"q": "Is swimming allowed in Yamdrok Lake?", "a": "No. Yamdrok is a sacred lake for Tibetans, and swimming or boating is not allowed. The water is also very cold. Visitors walk along the shore, take photographs and may offer khata scarves at cairns."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Gyantse?", "a": "Gyantse is at about 3,980 m (13,050 ft), a little higher than Lhasa and Shigatse. The drive from Lhasa crosses passes near 5,000 m, so most tours spend at least two nights in Lhasa before heading to Gyantse."},
+    {"q": "How far is Gyantse from Lhasa?", "a": "About 260 km by the southern road via the Kamba La, Yamdrok Lake and Karo La, taking 6–7 hours with sightseeing stops. The northern road to Shigatse is shorter but bypasses Gyantse and Yamdrok."},
+    {"q": "What is Gyantse famous for?", "a": "The Kumbum stupa of 1427, with 77 chapels of murals; the Pelkor Chode monastery; Gyantse Dzong and its 1904 siege; and its position on the scenic road from Lhasa past Yamdrok Lake and the Karo La glacier."},
+    {"q": "Is Gyantse worth an overnight stay?", "a": "One night allows a relaxed visit to the Kumbum in the afternoon and the dzong at sunset, and a quiet morning in the old town. Many tours instead see Gyantse in half a day and overnight in Shigatse, 90 km away. Both work well."},
+    {"q": "How far is Gyantse from Shigatse?", "a": "About 90 km, 1.5–2 hours on a good road through farmland. Shalu Monastery lies near this road and can be added as a side trip. Most Tibet circuits drive Lhasa–Gyantse–Shigatse in two days."},
+    {"q": "What is the Karo La glacier?", "a": "Karo La is a pass on the road between Yamdrok Lake and Gyantse where glaciers of Nojin Kangsang (7,191 m) descend close to the roadside. Tours stop for photographs. Sources quote the pass height variously at around 5,000 m, so treat figures as approximate."},
+    {"q": "What is the best time to visit Gyantse?", "a": "April to June and September to October bring clear weather and comfortable days. July and August are greener with some rain. Winter is cold but sunny. Tibet often closes to foreigners for weeks around February and March; check current status before you travel."},
+    {"q": "Can I visit Gyantse on the way to Everest Base Camp?", "a": "Yes. Most Lhasa–Everest tours drive Lhasa–Gyantse–Shigatse over two days, then continue to Rongbuk. It spreads the altitude gain and includes Yamdrok Lake. Our Lhasa to Everest base camp and Kathmandu tour follows this route."},
+    {"q": "Are there good hotels in Gyantse?", "a": "Gyantse has a few 3-star and simple 4-star hotels with heating and hot water, plus Tibetan guesthouses. Standards are modest. Travellers wanting more comfort can overnight in Shigatse, about 90 km on, where the Gesar Hotel and other 4-star options are available."}
+  ]
+}

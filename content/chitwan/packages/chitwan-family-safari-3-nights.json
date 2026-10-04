@@ -1,0 +1,84 @@
+{
+  "slug": "chitwan-family-safari-3-nights",
+  "title": "Chitwan Family Safari 3 Nights 4 Days",
+  "region": "chitwan",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["family-holidays", "wildlife-safari", "short-breaks", "overland-from-india"],
+  "stops": [{"place": "sauraha", "nights": 3}, {"place": "chitwan-national-park", "nights": 0}, {"place": "devghat", "nights": 0}],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu (or Pokhara)",
+  "price_from_inr": 24000,
+  "price_from_usd": 310,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Green Park Chitwan (pool and children's pool) or Tigerland Safari, family rooms",
+  "transport": "Private car or van Kathmandu–Chitwan–Kathmandu",
+  "group": "Private family groups, 2–12",
+  "meta_description": "Chitwan family safari 3 nights 4 days: kid-friendly half-day jeep safaris, canoe, gharial centre, Tharu dance and resort with children's pool. From ₹24,000.",
+  "summary": "A Chitwan safari paced for children: two short jeep drives instead of one long one, a canoe ride, the gharial breeding centre at Kasara, a bicycle or ox-cart village tour and the Tharu dance, with a resort pool for the hot afternoons. Private car from Kathmandu, family rooms and child-friendly meals.",
+  "intro": [
+    "Children remember Chitwan. They see rhinos from the jeep, crocodiles from the canoe and baby gharials at Kasara, and they get to try the Tharu stick dance on the last evening. But a standard safari, with an 8-hour jeep day and a long walking safari, is too much for most under-12s. This package rearranges the activities into shorter blocks, morning and late afternoon, with rest, lunch and the pool in between.",
+    "We travel by private car or van with child seats on request, stop when children need a break, and use a resort with family rooms and a children's pool, usually Green Park Chitwan in Sauraha or Tigerland Safari, a Lemon Tree resort familiar to Indian families. Kitchens serve mild Indian and continental food alongside Nepali dishes. Grandparents are welcome too: every activity can be skipped or swapped, and nothing requires long walks."
+  ],
+  "highlights": [
+    "Two half-day jeep safaris timed for the cooler hours",
+    "Canoe ride on the Rapti and crocodile spotting",
+    "Baby gharials at the Kasara breeding centre",
+    "Ox-cart or bicycle tour of a Tharu village",
+    "Tharu stick dance with a chance for kids to join in",
+    "Resort with family rooms and a children's pool"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive to Chitwan, pool and sunset", "place": "sauraha", "overnight": "Sauraha", "altitude_m": 160, "max_m": 1400, "walk": "≈ 30 min", "drive": "≈ 165 km · 5.5–6.5 h with stops", "flight": "", "text": "We collect your family from your Kathmandu hotel at 8 am in a private car or van. The road follows the Trishuli river through the hills, and we stop for snacks and toilets at clean roadside restaurants near Malekhu and for lunch at Narayangarh. You reach the resort in Sauraha by mid-afternoon. Children can head straight for the pool while parents settle in, then we walk 10 minutes to the Rapti sandbank to watch the sunset and look across the river for rhinos and deer. Early dinner at the resort.", "meals": "D"},
+    {"day": 2, "title": "Canoe, gharial centre and jeep safari", "place": "chitwan-national-park", "overnight": "Sauraha", "altitude_m": 160, "max_m": 160, "walk": "≈ 30 min", "drive": "Jeep safari ≈ 4 h", "flight": "", "text": "After breakfast, a 45-minute dugout canoe ride on the Rapti with a naturalist, counting mugger crocodiles and kingfishers; child life jackets are arranged in advance. A jeep then takes you into the park to the Kasara headquarters to see the gharial breeding centre, where rows of baby gharials with long thin snouts are raised in pools before release. Back for lunch and a rest at the resort during the heat of the day. The afternoon jeep drive, 3 to 4 hours, scans grassland and watchtowers for rhino, deer and peacocks.", "meals": "B, L, D"},
+    {"day": 3, "title": "Morning jeep, village tour and dance", "place": "sauraha", "overnight": "Sauraha", "altitude_m": 160, "max_m": 160, "walk": "≈ 1 h", "drive": "Jeep safari ≈ 3.5 h", "flight": "", "text": "A second short jeep safari at 6:30 am, when animals are most active, gives another chance at rhinos, sloth bear or even a tiger, and the light is soft for photos. Breakfast and pool time follow. In the late afternoon, tour a Tharu village by ox-cart or bicycle, stopping at a home with painted mud walls and a grain store, and at the Tharu Cultural Museum. In the evening, the stick dance show at the Tharu Culture House ends with dancers inviting children onto the floor.", "meals": "B, L, D"},
+    {"day": 4, "title": "Devghat stop and drive to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 45 min", "drive": "≈ 175 km · 6–6.5 h with stops", "flight": "", "text": "After a relaxed breakfast, drive 45 minutes to Devghat, where the Trishuli and Kali Gandaki meet, and walk onto the suspension bridge for a view of the confluence; grandparents may like to visit the ghats and temples. The road then climbs back up the Trishuli valley via Mugling, with a lunch stop on the way, reaching Kathmandu by late afternoon. If your family is continuing to Pokhara instead, we drive there in about 5–6 hours from Chitwan.", "meals": "B"}
+  ],
+  "stays": ["green-park-chitwan", "tigerland-safari-resort"],
+  "includes": [
+    "Private car or van with driver for the whole trip",
+    "Three nights in a family room or connecting rooms at Green Park Chitwan or Tigerland Safari",
+    "All meals in Chitwan, with children's menu options",
+    "Two half-day jeep safaris",
+    "Canoe ride with child life jackets on request",
+    "Gharial breeding centre visit at Kasara",
+    "Ox-cart or bicycle Tharu village tour and Tharu museum entry",
+    "Tharu cultural show tickets",
+    "Chitwan National Park entry fees for all activities",
+    "Child car seats on request"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "Lunch on travel days",
+    "Drinks, bottled water and snacks",
+    "Walking safari (not recommended for under-12s; available for teenagers and adults)",
+    "Elephant rides or bathing (not offered)",
+    "Tips for naturalists and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "The INR price is per adult for a family of two adults and two children sharing a family room, with SAARC park fees; children 5–11 pay about 60 percent and under-5s travel free.",
+    "The USD price covers the higher park fee for other foreign nationals.",
+    "Activity times can be moved to suit naps and meals; tell your naturalist each evening.",
+    "From March to May afternoons pass 33 °C; we keep children out of the sun between 11 am and 3 pm.",
+    "Pack mosquito repellent suitable for children and long, light clothing for the evenings."
+  ],
+  "add_ons": [
+    {"name": "Fly Kathmandu–Bharatpur one way to shorten travel", "price": "≈ US$ 115 per person (children's fares lower)"},
+    {"name": "Extra night with Bishazari Tal crocodile walk", "price": "≈ ₹6,500 per adult"},
+    {"name": "Continue to Pokhara instead of Kathmandu", "price": "≈ ₹2,000 per car"}
+  ],
+  "faqs": [
+    {"q": "Is Chitwan safe for kids?", "a": "Yes, with the right activities. Jeep safaris, canoe rides with life jackets, the breeding centres, village tours and the dance show are all safe for children with a naturalist. We do not book walking safaris for under-12s. Use repellent, keep children away from the riverbank after dark, and avoid the midday heat from March to May."},
+    {"q": "What age is suitable for a Chitwan safari?", "a": "Any age can join jeep safaris and canoe rides, and we have taken toddlers. Children aged 5 and over get the most from it. The walking safari is limited to 12 and over. For very young children we shorten jeep drives and plan plenty of pool and rest time."},
+    {"q": "How much does a Chitwan family package cost?", "a": "From about ₹24,000 per adult for a family of four sharing a family room, with children aged 5–11 paying about 60 percent and under-5s free. That includes private car from Kathmandu, three nights with all meals in Chitwan, activities and park fees. International families pay from about US$ 310 per adult."},
+    {"q": "Will my children see rhinos?", "a": "Almost certainly. Rhinos are seen on most jeep safaris and canoe rides, and often from the Sauraha riverbank at dusk. Children also usually see crocodiles, gharials at Kasara, spotted deer, monkeys and peacocks. Tigers are rare, so we tell children it is a bonus, not a promise."},
+    {"q": "Is the drive from Kathmandu to Chitwan OK for kids?", "a": "It takes 5.5–6.5 hours with stops, on a winding but paved road down the Trishuli valley. Children prone to car sickness should take medication and sit at the front. We stop every 1.5–2 hours. To cut travel time, fly one way to Bharatpur in 25 minutes."},
+    {"q": "Which Chitwan hotel is best for families?", "a": "We like Green Park Chitwan in Sauraha for its outdoor pool and separate children's pool, and Tigerland Safari for its standalone cottages and Lemon Tree management familiar to Indian families. Kasara Resort's private-pool family villas are a premium option."},
+    {"q": "Can grandparents join the family safari?", "a": "Yes. Every activity is optional, jeep safaris are short, and the resort has easy access with few steps. Grandparents often enjoy the canoe, the Devghat visit and the dance show. Tell us about any mobility needs so we can choose a ground-floor room and plan accordingly."},
+    {"q": "What food is available for children in Chitwan?", "a": "Resorts serve Indian, Nepali, Chinese and continental food, and kitchens will cook mild dishes, pasta, toast, eggs, rice and dal for children. Packed snacks are provided on jeep safaris. Bring any special foods for toddlers, as baby food is limited in Sauraha."},
+    {"q": "Do you include elephant rides for children?", "a": "No. We do not book elephant rides or elephant bathing for anyone, because of welfare concerns about how elephants are trained and kept. Children see working elephants at the breeding centre if you choose to visit, and we explain to them why we do not ride."}
+  ]
+}

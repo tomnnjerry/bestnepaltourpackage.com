@@ -1,0 +1,84 @@
+{
+  "slug": "lumbini-meditation-retreat-5-nights",
+  "title": "Lumbini Meditation Retreat 5 Nights",
+  "region": "lumbini",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["wellness-yoga", "pilgrimage", "buddhist-circuit"],
+  "stops": [{"place": "lumbini", "nights": 5}, {"place": "tilaurakot", "nights": 0}],
+  "start": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "end": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "price_from_inr": 42000,
+  "price_from_usd": 540,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 150,
+  "accommodation": "3-star garden hotel beside the Sacred Garden, single or twin rooms",
+  "transport": "Private car for transfers and the Tilaurakot visit; walking and bicycle within Lumbini",
+  "group": "Private or small group, 1–10",
+  "meta_description": "Lumbini meditation retreat, 6 days: guided sitting and walking meditation, dawn chanting at monasteries, a day of silence and Tilaurakot. Vegetarian meals included.",
+  "summary": "Six days of gentle, structured practice at the Buddha's birthplace: two guided sitting sessions a day with a lay meditation teacher, walking meditation in the Sacred Garden, dawn chanting at Theravada and Tibetan monasteries, a full day of noble silence and a contemplative visit to Kapilavastu's eastern gate. Suitable for beginners and returning practitioners.",
+  "intro": [
+    "This retreat is for travellers who want more than sightseeing in Lumbini but cannot commit to a 10-day residential course. You stay in a quiet garden hotel minutes from the Sacred Garden and follow a light daily rhythm: dawn sitting, breakfast, a morning teaching on breath awareness or loving-kindness, free time to rest or visit temples, an afternoon session and evening chanting at a monastery. Meals are vegetarian and simple.",
+    "Sessions are led by an experienced lay meditation teacher we engage locally, drawing on Theravada breath and walking practice with an introduction to metta. The fourth day is kept in silence. We are not a monastery and do not ordain or certify; serious practitioners seeking a full residential retreat can apply directly to the Panditarama Lumbini International Vipassana Meditation Centre or the Dhamma Janani Vipassana centre, and we are happy to add travel arrangements around their schedules."
+  ],
+  "highlights": [
+    "Two guided meditation sessions daily with a lay teacher",
+    "Walking meditation in the Sacred Garden at opening time",
+    "Dawn chanting with monks at Theravada and Tibetan monasteries",
+    "A full day of noble silence",
+    "Contemplative visit to the eastern gate of Kapilavastu at Tilaurakot",
+    "Vegetarian meals and a quiet garden hotel near the Maya Devi Temple"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrival and orientation", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 1 h", "drive": "≈ 20–26 km · 35–45 min", "flight": "", "text": "We meet you at Bhairahawa airport or the Sonauli border and drive to your garden hotel beside the Sacred Garden. After lunch and rest, meet your teacher for an introduction to the week: posture, the daily timetable, the basics of breath awareness and how silence will work on day 4. At sunset, walk to a nearby monastery for evening chanting, then return for a light dinner and an early night. Phones are best kept off after dinner from now on.", "meals": "L, D"},
+    {"day": 2, "title": "Sacred Garden at dawn, breath practice", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 2 h · 3 km", "drive": "", "flight": "", "text": "Enter the Sacred Garden at opening time for 40 minutes of quiet sitting near the bodhi tree, followed by walking meditation around the Puskarini pond. Your teacher then guides a short visit inside the Maya Devi Temple to the marker stone and to the Ashoka pillar. After breakfast, a morning session on anapana, awareness of breathing, with time for questions. Afternoons are free for rest or reading. A second sitting at 4 pm and evening chanting close the day.", "meals": "B, L, D"},
+    {"day": 3, "title": "Monastery chanting and walking practice", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 2.5 h · 5 km", "drive": "", "flight": "", "text": "Rise early to join morning chanting at a Theravada monastery in the eastern monastic zone, where monks recite in Pali before their meal. Return for breakfast and a session on walking meditation, slowing each step to notice lifting, moving and placing the foot. In the afternoon, cycle or walk to a Tibetan monastery on the western side of the canal to observe its prayers and see the contrast in practice. Evening sitting and a short talk on mindfulness in daily life.", "meals": "B, L, D"},
+    {"day": 4, "title": "Day of noble silence", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 2 h, at your own pace", "drive": "", "flight": "", "text": "From waking until the evening session, the group keeps noble silence: no talking, no phones, no reading. The day follows a simple timetable of sitting and walking periods, alternating every 45 minutes, with meals taken quietly in the garden. You may walk alone in the Sacred Garden or the monastic zone during free periods. The teacher is available for brief one-to-one guidance. Silence ends with a short sharing circle after the evening sitting.", "meals": "B, L, D"},
+    {"day": 5, "title": "Tilaurakot's gate and loving-kindness", "place": "tilaurakot", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 1.5 h", "drive": "≈ 55 km · 2 h round trip", "flight": "", "text": "After dawn sitting and breakfast, drive 45 minutes to Tilaurakot. At the eastern gate of ancient Kapilavastu, where Siddhartha is said to have left the palace, the teacher leads a reflection on renunciation and a short sitting under the trees. Return to Lumbini for lunch. The afternoon session introduces metta, loving-kindness meditation. At sunset, walk or ride to the World Peace Pagoda for a closing sit as the light fades.", "meals": "B, L, D"},
+    {"day": 6, "title": "Closing sitting and departure", "place": "lumbini", "overnight": "", "altitude_m": 150, "max_m": 150, "walk": "≈ 1 h", "drive": "≈ 20–26 km · 35–45 min", "flight": "", "text": "A final dawn sitting in the Sacred Garden, followed by a closing session with your teacher on keeping a short daily practice at home, with simple routines you can take away. After breakfast and check-out, transfer to Bhairahawa airport for your flight or to the Sonauli border to continue into India.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini"],
+  "includes": [
+    "5 nights at a 3-star garden hotel near the Sacred Garden",
+    "Vegetarian meals as listed (full board on days 2–5)",
+    "Two guided meditation sessions daily with a lay teacher (days 1–6)",
+    "Monastery chanting visits arranged with monastery permission",
+    "Private car for transfers and the Tilaurakot visit",
+    "Lumbini Sacred Garden and Tilaurakot entry fees",
+    "Bicycle hire within Lumbini",
+    "Airport or border pick-up and drop-off"
+  ],
+  "excludes": [
+    "Flights to and from Bhairahawa",
+    "Nepal visa fee for non-Indian nationals",
+    "Donations to monasteries (customary, at your discretion)",
+    "Single room supplement",
+    "Massage or spa treatments",
+    "Travel insurance",
+    "Tips for teacher, guide and driver",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Prices assume twin sharing at a 3-star hotel; many guests choose a single room, which costs extra.",
+    "This is a gentle guided retreat, not a formal residential course; no prior experience is needed.",
+    "For a strict 10-day Vipassana course, apply directly to Dhamma Janani or Panditarama in Lumbini; their courses follow fixed schedules and rules.",
+    "Dress modestly in loose clothing, and bring a light shawl for early mornings from November to February.",
+    "Avoid April–June if heat is a concern; temperatures reach 38–42 °C and sessions move indoors."
+  ],
+  "add_ons": [
+    {"name": "Extra retreat night with sessions", "price": "≈ ₹7,000 per person"},
+    {"name": "Ramagrama stupa visit with meditation", "price": "≈ ₹6,000 per car"}
+  ],
+  "faqs": [
+    {"q": "Do I need meditation experience for this retreat?", "a": "No. The retreat starts with basic posture and breath awareness and builds slowly. Sessions last 30–45 minutes, with chairs available for anyone who cannot sit on the floor. Returning practitioners can use the free time for longer personal sittings and ask the teacher for more advanced guidance."},
+    {"q": "Is this a Vipassana course like Dhamma Janani?", "a": "No. Dhamma Janani in Lumbini runs 10-day residential Vipassana courses in the S.N. Goenka tradition, with strict silence and a fixed schedule, booked directly with the centre. Our retreat is shorter and gentler, combining guided sessions with pilgrimage. Both have value; choose by the depth of practice you want."},
+    {"q": "Who leads the meditation sessions?", "a": "An experienced lay meditation teacher based in the Lumbini area, practising in the Theravada tradition, leads the sessions. We match the teacher to group size and language; English and Hindi are standard. Monks are not employed by us, but we arrange respectful visits to monastery chanting."},
+    {"q": "What does a day on the retreat look like?", "a": "A typical day starts with dawn sitting at 6 am, breakfast, a morning teaching session, free time to rest or explore, a 4 pm sitting and evening chanting at a monastery. Day 4 is held in silence. Most days include 3–4 hours of formal practice in total."},
+    {"q": "Can I book the retreat as a solo traveller?", "a": "Yes. Many guests come alone. Solo travellers pay a single room supplement, and we can match you with a small group if dates align. The teacher and our team look after you from arrival to departure, and Lumbini is a calm, safe place to walk alone."},
+    {"q": "What food is served on the retreat?", "a": "Simple vegetarian meals of Nepali, Indian and continental dishes, served at the hotel. We avoid heavy or very spicy food on retreat days. Vegan, Jain and gluten-free needs can be met with notice. Many guests skip alcohol and caffeine during the week, but it is not compulsory."},
+    {"q": "What should I pack for a meditation retreat in Lumbini?", "a": "Pack loose, modest clothing in light colours, a warm shawl or fleece for winter mornings, slip-on shoes, a small cushion if you have a favourite one, a water bottle, sunscreen and mosquito repellent. A notebook helps for reflections. The hotel provides mats and chairs."},
+    {"q": "When is the best time for a meditation retreat in Lumbini?", "a": "October to March offers mild days for outdoor sittings. November and February are especially good. December and January mornings are foggy and cool, near 7 °C, which some find peaceful. April to June is very hot, and the monsoon brings rain and mosquitoes, so sessions move indoors."},
+    {"q": "Can I extend the retreat?", "a": "Yes. You can add nights with daily sessions for about ₹7,000 per person per night, or add a pilgrimage day to Ramagrama or Devdaha with meditation at each site. If you want to continue with a 10-day course at a Lumbini centre, we can arrange transfers around its start date."}
+  ]
+}

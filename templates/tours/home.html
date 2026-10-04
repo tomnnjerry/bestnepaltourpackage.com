@@ -1,0 +1,157 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Tour Packages from India, Heli Tours and Treks{% endblock %}
+{% block meta_description %}Nepal tour packages with prices in INR and USD: Everest and Muktinath heli tours, Everest and Annapurna treks, Kathmandu–Pokhara–Chitwan tours, pilgrimages and Kailash yatras.{% endblock %}
+{% block og_image %}{% with i=ladder.0|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_class %}page-home{% endblock %}
+{% block main %}
+<section class="hero">
+  <div class="hero__bg" aria-hidden="false">
+    {% for p in ladder %}<div class="hero__slide{% if forloop.counter == 3 %} is-on{% endif %}">{% if forloop.counter == 3 %}{% photo p|first_img p.name "" "100vw" True True %}{% else %}{% photo p|first_img p.name "" "100vw" False True %}{% endif %}</div>{% endfor %}
+  </div>
+  <div class="wrap hero__in">
+    <div>
+      <h1>Nepal tour packages<span>Heli tours, treks, temple trips and safaris, priced in ₹ and US$</span></h1>
+      <p class="hero__lede">Chitwan's grassland sits at 150 m. Kala Patthar's summit is at 5,644 m. We sell trips at every height in between, with every hotel, flight and permit priced before you pay a rupee.</p>
+      <div class="hero__acts">
+        <a class="btn btn--foil" href="{% url 'plan' %}?from=home-hero" data-cta="hero-quote">Get a free quote{% icon "arrow" %}</a>
+        <a class="btn btn--line" href="{% url 'theme' 'heli-tours' %}" data-cta="hero-heli">{% icon "heli" %}See heli tours</a>
+      </div>
+      <ul class="hero__note"><li>{% icon "check" %}Indians: no visa, passport or voter ID</li><li>{% icon "check" %}Quotes in one working day</li><li>{% icon "check" %}Pay nothing to ask</li></ul>
+    </div>
+    {% if ladder %}<div class="ladder" data-ladder>
+      <p class="ladder__h">{% icon "altitude" %}Pick a height</p>
+      <span class="ladder__rail" aria-hidden="true"></span>
+      <ul class="ladder__list">
+        {% for p in ladder %}<li><button type="button" class="ladder__stop{% if forloop.counter == 3 %} is-on{% endif %}" aria-pressed="{% if forloop.counter == 3 %}true{% else %}false{% endif %}"
+          data-name="{{ p.name }}" data-alt="{{ p.altitude_m|thousands }}" data-url="{{ p.url }}" data-region="{{ p.region_obj.name }}"
+          data-line="{% with n=p.package_objs|length %}{% if n %}{% with k=p.package_objs.0 %}{{ k.title }}{% endwith %}{% else %}{{ p.tagline }}{% endif %}{% endwith %}"><b>{{ p.altitude_m|thousands }}</b><span>{{ p.name }}</span></button></li>{% endfor %}
+      </ul>
+      {% with p=ladder.2 %}<a class="ladder__card" href="{{ p.url }}"><small>{{ p.region_obj.name }}</small><b>{{ p.name }} · {{ p.altitude_m|thousands }} m</b><span>{% if p.package_objs %}{{ p.package_objs.0.title }}{% else %}{{ p.tagline }}{% endif %} &rarr;</span></a>{% endwith %}
+    </div>{% endif %}
+  </div>
+</section>
+
+<div class="finder wrap">
+  <form class="finder__card" action="{% url 'packages' %}" method="get" data-finder role="search" aria-label="Find a package">
+    <div class="finder__tabs" role="radiogroup" aria-label="Trip type">
+      <label><input type="radio" name="type" value="" checked><span>{% icon "ticket" %}All trips</span></label>
+      {% for slug, t in types.items %}<label><input type="radio" name="type" value="{{ slug }}"><span>{% icon t.icon %}{{ t.plural }}</span></label>{% endfor %}
+    </div>
+    <div class="finder__row">
+      <label class="field"><span>Where</span><select name="region"><option value="">Anywhere in Nepal</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+      <label class="field"><span>When</span><select name="month"><option value="">Any month</option>{% for m in months_full %}<option value="{{ m|lower }}"{% if forloop.counter0 == month_i %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
+      <label class="field"><span>How long</span><select name="days"><option value="">Any length</option><option value="1-3">1–3 days</option><option value="4-7">4–7 days</option><option value="8-12">8–12 days</option><option value="13-30">13 days or more</option></select></label>
+      <label class="field"><span>Budget per person</span><select name="budget"><option value="">Any budget</option><option value="under-30k">Under ₹30,000</option><option value="30k-75k">₹30,000 – 75,000</option><option value="75k-150k">₹75,000 – 1,50,000</option><option value="150k-plus">Above ₹1,50,000</option></select></label>
+      <button class="btn btn--foil" type="submit">{% icon "search" %}Show packages</button>
+    </div>
+  </form>
+</div>
+
+<div class="wrap trustbar">{% include "tours/partials/trust.html" %}</div>
+
+{% if heli %}<section class="sec" aria-labelledby="h-heli">
+  <div class="wrap">
+    <div class="sec__head">
+      <div><p class="kicker">{% icon "heli" %}Fly</p><h2 class="h2" id="h-heli">Helicopter tours, boarding daily in season</h2></div>
+      <a class="textlink" href="{% url 'theme' 'heli-tours' %}">Every heli tour{% icon "arrow" %}</a>
+    </div>
+    <div class="bpasses" data-stagger>{% for k in heli %}{% include "tours/partials/bpass.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--tint sec--contour" aria-labelledby="h-trek">
+  <div class="wrap">
+    <div class="sec__head">
+      <div><p class="kicker">{% icon "boot" %}Walk</p><h2 class="h2" id="h-trek">Every trek on one chart: days against height</h2><p>Each dot is a trek or climb. Further right takes longer; higher goes higher. Tap a dot to open it.</p></div>
+      <a class="textlink" href="{% url 'theme' 'trekking' %}">Trek finder{% icon "arrow" %}</a>
+    </div>
+    <div class="tchart" data-tchart data-points="{{ trek_points }}">
+      <div class="tchart__bar"><ul class="chips"><li><button type="button" class="chip is-on" data-grade="all">All grades</button></li><li><button type="button" class="chip" data-grade="Easy">Easy</button></li><li><button type="button" class="chip" data-grade="Moderate">Moderate</button></li><li><button type="button" class="chip" data-grade="Challenging">Challenging</button></li><li><button type="button" class="chip" data-grade="Strenuous">Strenuous</button></li></ul></div>
+      <div class="tchart__wrap"></div>
+      <div class="tchart__legend">{% for r in regions %}{% if r.packages %}<span data-land="{{ r.slug }}"><i style="background:{{ r.accent }}"></i>{{ r.short|default:r.name }}</span>{% endif %}{% endfor %}</div>
+      <noscript><p><a href="{% url 'packages' %}?type=trek&amp;sort=altitude">See every trek, highest first</a></p></noscript>
+    </div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-dest">
+  <div class="wrap">
+    <div class="sec__head">
+      <div><p class="kicker">{% icon "map" %}Where</p><h2 class="h2" id="h-dest">Twelve regions, each in its own colours</h2></div>
+      <a class="textlink" href="{% url 'regions' %}">Map of Nepal{% icon "arrow" %}</a>
+    </div>
+    <div class="rtiles" data-stagger>{% for r in regions %}{% include "tours/partials/region_tile.html" %}{% endfor %}</div>
+  </div>
+</section>
+
+{% if picks %}<section class="sec sec--tint" aria-labelledby="h-picks">
+  <div class="wrap">
+    <div class="sec__head">
+      <div><p class="kicker">{% icon "ticket" %}Book</p><h2 class="h2" id="h-picks">One pick from every kind of trip</h2></div>
+      <a class="textlink" href="{% url 'packages' %}">Every package{% icon "arrow" %}</a>
+    </div>
+    <div class="passes passes--4" data-stagger>{% for k in picks %}{% include "tours/partials/pass.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if classics %}<section class="sec" aria-labelledby="h-classic">
+  <div class="wrap">
+    <div class="sec__head">
+      <div><p class="kicker">{% icon "pagoda" %}First time in Nepal</p><h2 class="h2" id="h-classic">Kathmandu, Pokhara and Chitwan classics</h2></div>
+      <a class="textlink" href="{% url 'theme' 'cultural-tours' %}">All sightseeing tours{% icon "arrow" %}</a>
+    </div>
+    <div class="passes passes--4" data-stagger>{% for k in classics %}{% include "tours/partials/pass.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec dark" aria-labelledby="h-month">
+  <div class="ridge ridge--top" aria-hidden="true"></div>
+  <div class="wrap season">
+    <div>
+      <p class="kicker">{% icon "calendar" %}Right now</p>
+      <p class="season__month" id="h-month">{{ month }}</p>
+      <h2 class="h3">Where is good in Nepal this month</h2>
+      <p class="lede">Places at their best in {{ month }}, from our month-by-month notes. Festivals in the next six weeks are listed below.</p>
+      {% if festivals %}<ul class="chips">{% for f in festivals %}<li><a class="chip chip--land" data-land="{{ f.region }}" href="{{ f.url }}">{% icon "lamp" %}{{ f.name }}</a></li>{% endfor %}</ul>{% endif %}
+      <p style="margin-top:22px"><a class="btn btn--line" href="{% url 'seasons' %}">Best time to visit, region by region</a></p>
+    </div>
+    <div class="grid grid--4" data-stagger>{% for p in in_season %}{% include "tours/partials/place_card.html" %}{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-styles">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "compass" %}How</p><h2 class="h2" id="h-styles">Trips by style</h2></div><a class="textlink" href="{% url 'themes' %}">All tour styles{% icon "arrow" %}</a></div>
+    <ul class="styles" data-stagger>{% for t in themes %}<li><a href="{{ t.url }}"><span class="tbadge">{% icon t.icon %}</span><b>{{ t.short|default:t.name }}</b>{% if t.price_from_inr %}<small data-inr="from {{ t.price_from_inr|inr }}" data-usd="">from {{ t.price_from_inr|inr }}</small>{% endif %}</a></li>{% endfor %}</ul>
+  </div>
+</section>
+
+{% if origins %}<section class="sec dark" aria-labelledby="h-india">
+  <div class="ridge ridge--top" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "road" %}From India</p><h2 class="h2" id="h-india">Nepal tour packages from your city</h2><p>Flights to Kathmandu or Bhairahawa, or by road through Sonauli, Raxaul, Rupaidiha and Kakarbhitta. Each page lists the route, the time and the documents you need.</p></div></div>
+    <ul class="cities" data-stagger>{% for o in origins %}<li><a href="{{ o.url }}"><small>From</small><b>{{ o.city }}</b></a></li>{% endfor %}</ul>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--contour" aria-labelledby="h-how">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "shield" %}Booking</p><h2 class="h2" id="h-how">How booking works</h2></div><a class="textlink" href="{% url 'how_we_work' %}">The full process{% icon "arrow" %}</a></div>
+    <ol class="steps">
+      <li><b>Tell us the trip</b><p>Send the quote form or a WhatsApp message: dates, group, budget, heli or trek.</p></li>
+      <li><b>Get a written quote</b><p>Day-by-day plan, hotel names, flights, permits and the total, usually in one working day.</p></li>
+      <li><b>Change anything</b><p>Swap hotels, add a night in Pokhara, upgrade to a heli return. We re-quote at no charge.</p></li>
+      <li><b>Pay a deposit and go</b><p>The balance is due before departure. One trip manager stays with you on WhatsApp.</p></li>
+    </ol>
+    {% include "tours/partials/faqs.html" with faqs=faqs faq_title="Before you book" %}
+  </div>
+</section>
+
+{% if guides or posts %}<section class="sec sec--tint" aria-labelledby="h-read">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="kicker">{% icon "book" %}Read</p><h2 class="h2" id="h-read">Guides that answer the real questions</h2></div><a class="textlink" href="{% url 'guides' %}">All travel guides{% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-stagger>{% for g in guides %}{% include "tours/partials/guide_card.html" %}{% endfor %}</div>
+    {% if posts %}<div class="grid grid--3" style="margin-top:22px" data-stagger>{% for g in posts %}{% include "tours/partials/guide_card.html" %}{% endfor %}</div>{% endif %}
+  </div>
+</section>{% endif %}
+{% endblock %}

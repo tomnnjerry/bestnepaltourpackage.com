@@ -1,0 +1,254 @@
+{
+  "slug": "poon-hill-khopra-photography-trek-11-days",
+  "title": "Poon Hill and Khopra Photography Trek 11 Days",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 10,
+  "themes": ["photography", "trekking"],
+  "stops": [
+    {"place": "pokhara", "nights": 1},
+    {"place": "ghorepani", "nights": 1},
+    {"place": "poon-hill", "nights": 0},
+    {"place": "khopra-danda", "nights": 3},
+    {"place": "ghandruk", "nights": 1}
+  ],
+  "start": "Pokhara (hotel pick-up)",
+  "end": "Pokhara",
+  "price_from_inr": 87000,
+  "price_from_usd": 1010,
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "max_altitude_m": 4660,
+  "accommodation": "3-star hotel in Pokhara, teahouses and community lodges on the trail",
+  "transport": "Private jeep Pokhara–Hile and Ghandruk–Pokhara",
+  "group": "Small group of photographers, 2–8",
+  "meta_description": "Poon Hill and Khopra photography trek in 11 days from Pokhara: timed sunrises, three nights on Khopra Danda, Khayer Lake, Mulde viewpoint and star trails.",
+  "summary": "An 11-day trek paced for mountain photographers: sunrise on Poon Hill, three nights on the Khopra ridge facing Dhaulagiri, a day at Khayer Lake under Annapurna South, the Mulde viewpoint at dawn and a final morning in Ghandruk. Short walking days are arranged around golden hour, blue hour and night skies.",
+  "intro": [
+    "Most treks are planned around distance. This one is planned around light. Walking days are kept to 3–6 hours and timed so that you arrive before golden hour, sleep where the dawn view is best and have spare mornings if cloud ruins the first attempt. The route combines the classic Poon Hill sunrise with three nights on Khopra Danda, at 3,660 m, where Dhaulagiri and Annapurna South fill the frame from the lodge door, and returns via the Mulde viewpoint above Dobato.",
+    "We run it from October to December and in April, the months with the clearest air or the best rhododendrons. Our guide knows the viewpoints and the timings, and the group is small so that tripods do not crowd each other on the ridge. Expect cold mornings, around −5 to −10 °C at dawn on Khopra in November, and limited solar charging at the higher lodges, so plan batteries carefully. Drones need permits in Nepal and are generally not allowed without them; check current status before you travel."
+  ],
+  "highlights": [
+    "Three nights on Khopra Danda for repeated Dhaulagiri sunsets and sunrises",
+    "Poon Hill at dawn with the full Annapurna and Dhaulagiri line-up",
+    "Star trails over Annapurna South from a dark-sky ridge",
+    "Khayer Lake, about 4,660 m, beneath the glaciers of Annapurna South",
+    "Mulde viewpoint at sunrise above Dobato",
+    "Gurung village life and terraces in Ghandruk on the last morning"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara, Phewa Lake evening shoot",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "Airport or hotel transfer",
+      "flight": "",
+      "text": "We meet you in Pokhara and check you into a lakeside hotel. In the afternoon, the guide goes through the route, sunrise and sunset times, battery and charging plans, and cold-weather camera care. Before sunset we take a rowing boat onto Phewa Lake to shoot the reflections of Machhapuchhre and the Annapurna range as the light fades, with fishing boats and the Tal Barahi temple in the foreground. A good first exercise in balancing exposure between bright peaks and dark water.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Jeep to Hile, walk to Ulleri",
+      "place": "",
+      "overnight": "Ulleri",
+      "altitude_m": 2020,
+      "max_m": 2020,
+      "walk": "≈ 3 h · 5 km",
+      "drive": "≈ 50 km · 2.5 h",
+      "flight": "",
+      "text": "A jeep takes us to Hile at 1,430 m. We walk across the Bhurungdi Khola at Tikhedhunga and climb the long staircase to Ulleri at 2,020 m, gaining about 590 m. The Magar village sits on a steep slope with terraced fields below and Annapurna South and Hiunchuli above. In the late afternoon, shoot the warm light on the terraces and the peaks, and the stone houses in shadow. Ulleri at dusk, with lights coming on below the snow, is a good wide-angle scene.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Ulleri to Ghorepani through the forest",
+      "place": "ghorepani",
+      "overnight": "Ghorepani",
+      "altitude_m": 2874,
+      "max_m": 2874,
+      "walk": "≈ 4–5 h · 8 km",
+      "drive": "",
+      "flight": "",
+      "text": "The trail climbs through oak, maple and rhododendron forest via Banthanti and Nangethanti to Ghorepani at 2,874 m. In April this is a rhododendron tunnel of red and pink, best photographed in soft morning light or under light cloud; a polariser helps cut glare on wet leaves. In autumn, look for moss, ferns and shafts of light through the trees. We arrive in early afternoon, scout tomorrow's Poon Hill compositions from the village and go to bed early.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Poon Hill dawn, walk to Swanta",
+      "place": "poon-hill",
+      "overnight": "Swanta",
+      "altitude_m": 2214,
+      "max_m": 3210,
+      "walk": "≈ 1.5 h Poon Hill + 4 h · 8 km",
+      "drive": "",
+      "flight": "",
+      "text": "We climb by headtorch to Poon Hill at 3,210 m, about 45 minutes, to claim a good spot before the crowd. Shoot blue hour first, then the first light on Dhaulagiri, followed by Annapurna South and Machhapuchhre; a 70–200 mm lens isolates the summits and a wide lens takes in the tower and prayer flags. After breakfast in Ghorepani, we leave the main route and descend about 660 m to Swanta, a quiet Magar village of stone houses and gardens at 2,214 m.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Swanta to Chistibang",
+      "place": "",
+      "overnight": "Chistibang",
+      "altitude_m": 3026,
+      "max_m": 3026,
+      "walk": "≈ 4–5 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "The trail climbs about 810 m through farmland and then dense rhododendron and oak forest to Chistibang at 3,026 m, a small community lodge in a forest clearing. It is a steep but shaded walk with few other trekkers. Look for village portraits in Swanta before leaving, always asking permission, and for forest details on the way up: lichen, moss and old trees. In clear weather, the late afternoon brings views through the trees towards Dhaulagiri.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Chistibang to Khopra Danda",
+      "place": "khopra-danda",
+      "overnight": "Khopra Danda",
+      "altitude_m": 3660,
+      "max_m": 3660,
+      "walk": "≈ 3–4 h · 5 km",
+      "drive": "",
+      "flight": "",
+      "text": "A short climb of about 630 m takes us out of the forest onto open pasture and up to the community lodge on Khopra Danda at 3,660 m. The view opens dramatically: Dhaulagiri I and its satellites across the Kali Gandaki, Tukuche Peak and Nilgiri to the north, and Annapurna South and Fang behind. We arrive by lunch, rest and scout compositions. At sunset, shoot Dhaulagiri turning gold and pink from the knoll above the lodge, with prayer flags in the foreground.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "Full day on the Khopra ridge",
+      "place": "khopra-danda",
+      "overnight": "Khopra Danda",
+      "altitude_m": 3660,
+      "max_m": 3800,
+      "walk": "≈ 2 h short walks",
+      "drive": "",
+      "flight": "",
+      "text": "A day without moving camp. Shoot sunrise on Dhaulagiri and Annapurna South, then explore the ridge for new angles, herders' shelters and grazing yaks. Midday is for rest, backups and charging what you can on the lodge's limited solar power. After dark, the sky over Khopra is free of light pollution: set up for star trails or a Milky Way panorama over Annapurna South using a sturdy tripod, wide fast lens and intervalometer. Expect −5 to −10 °C at night in November.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 8,
+      "title": "Khayer Lake day hike",
+      "place": "khopra-danda",
+      "overnight": "Khopra Danda",
+      "altitude_m": 3660,
+      "max_m": 4660,
+      "walk": "≈ 8–9 h return",
+      "drive": "",
+      "flight": "",
+      "text": "We leave at first light for Khayer Lake, climbing about 1,000 m across pasture and moraine to about 4,660 m beneath the ice of Annapurna South. Carry a light kit: one body, a wide-to-standard zoom and a short telephoto. The lake, small and sacred to Hindus, reflects the glaciers on calm mornings, and prayer flags add colour. Cloud often builds by late morning, so we aim to arrive by about 11 am. Those who prefer can stay on the ridge for another round of shooting.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 9,
+      "title": "Khopra via Bayeli Kharka to Dobato",
+      "place": "",
+      "overnight": "Dobato",
+      "altitude_m": 3420,
+      "max_m": 3660,
+      "walk": "≈ 5–6 h · 9 km",
+      "drive": "",
+      "flight": "",
+      "text": "After a final Khopra sunrise, we follow the ridge east across open grazing land to Bayeli Kharka, then through rhododendron forest to Dobato at about 3,420 m. The path rises and falls across side valleys, so the day is longer than the distance suggests. In the late afternoon, we climb about 40 minutes to the Mulde viewpoint at about 3,640 m for sunset, with a wide panorama from Dhaulagiri to Machhapuchhre, then return to the lodge by headtorch.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 10,
+      "title": "Mulde dawn, down to Ghandruk",
+      "place": "ghandruk",
+      "overnight": "Ghandruk",
+      "altitude_m": 1940,
+      "max_m": 3640,
+      "walk": "≈ 1.5 h Mulde + 6 h · 12 km",
+      "drive": "",
+      "flight": "",
+      "text": "We climb back to the Mulde viewpoint in the dark for sunrise, often with a sea of cloud in the valleys below the peaks. After breakfast at Dobato, we descend through forest to Tadapani at 2,630 m, facing Machhapuchhre, and continue down through terraces to Ghandruk at 1,940 m, losing about 1,500 m in total. In the late afternoon, photograph Ghandruk's slate roofs, stone lanes and daily life, with Annapurna South above the village at sunset.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 11,
+      "title": "Ghandruk dawn, jeep to Pokhara",
+      "place": "ghandruk",
+      "overnight": "",
+      "altitude_m": 822,
+      "max_m": 1940,
+      "walk": "≈ 1 h village walk",
+      "drive": "≈ 55 km · 3 h",
+      "flight": "",
+      "text": "A final dawn session from the upper village, as first light catches Annapurna South, Hiunchuli and Machhapuchhre and smoke rises from the kitchen fires below. After breakfast, a short walk through the lanes for portraits and details, with permission. Our jeep then drives down via Kimche and Nayapul to Pokhara, about 3 hours. We drop you at your hotel or the airport. The trek ends here; tell us if you need an extra night in Pokhara.",
+      "meals": "B"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Pokhara airport or hotel transfers and 1 night 3-star lakeside hotel",
+    "Phewa Lake rowing boat for the evening shoot",
+    "Private jeep Pokhara–Hile and Ghandruk–Pokhara",
+    "Licensed trekking guide who knows the viewpoints and light timings",
+    "One porter for every two trekkers (heavier allowance for camera gear on request)",
+    "ACAP entry permit and any trekking registration currently required",
+    "Teahouse and community lodge rooms with all trail meals",
+    "Purified water refills and first-aid kit"
+  ],
+  "excludes": [
+    "Flights or bus to and from Pokhara",
+    "Extra hotel nights in Pokhara",
+    "Camera equipment, insurance for gear and personal travel insurance",
+    "Drone permits and fees",
+    "Charging fees, hot showers and Wi-Fi",
+    "Drinks, snacks and Poon Hill viewpoint ticket",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more trekkers; at Khopra and Dobato twin rooms are limited and dorm nights are possible in peak season.",
+    "The ACAP permit (NPR 3,000 foreigners, NPR 1,000 SAARC including Indians) and a licensed guide, required for foreign trekkers since 2023, are included; check current status before you travel.",
+    "Drones need government permission and, in conservation areas, extra approvals; flying without permits can lead to confiscation. Check current status before you travel.",
+    "Charging is limited and costs NPR 200–500 per device at higher lodges; bring spare batteries, a 20,000 mAh power bank and keep batteries warm.",
+    "Porters carry up to about 10 kg per trekker; carry fragile camera gear yourself and ask us about an extra porter if needed."
+  ],
+  "add_ons": [
+    {"name": "Extra porter for camera and tripod", "price": "≈ US$ 25 per day"},
+    {"name": "Additional night on Khopra Danda", "price": "≈ ₹3,500 / US$ 40 per person"},
+    {"name": "Sunrise helicopter flight to ABC from Pokhara", "price": "≈ US$ 650 per seat, shared"}
+  ],
+  "faqs": [
+    {
+      "q": "What is the best season for mountain photography in Annapurna?",
+      "a": "October to December offers the clearest air and sharpest mountain views, with calm, cold mornings. November is often the most reliable. April brings rhododendron blooms below 3,300 m but more afternoon haze and cloud. January and February are clear but very cold. Avoid June to September, when monsoon cloud hides the peaks."
+    },
+    {
+      "q": "What lenses should I bring for the Khopra photography trek?",
+      "a": "A wide-angle zoom of about 16–35 mm for panoramas and night skies, a standard zoom for village scenes, and a telephoto of 70–200 mm or longer to isolate summits like Dhaulagiri and Machhapuchhre. A fast wide prime helps with astrophotography. Keep the kit light, as you will carry it daily."
+    },
+    {
+      "q": "Can I fly a drone on the Poon Hill and Khopra trek?",
+      "a": "Only with permission. Nepal requires drone approvals from the authorities, and conservation areas such as Annapurna need additional permission. Unpermitted flying can lead to confiscation and fines. Rules change, so check current status before you travel. We can advise on the process but do not include drone permits in the price."
+    },
+    {
+      "q": "How do I charge camera batteries on the trek?",
+      "a": "Lodges offer charging for a fee, usually NPR 200–500 per device at higher altitude, but solar power at Khopra and Dobato is limited and slow in cloud. Bring at least three camera batteries, a large power bank and a USB charger for your camera. Keep batteries warm inside your jacket or sleeping bag."
+    },
+    {
+      "q": "Is Khopra Danda good for astrophotography?",
+      "a": "Yes. Khopra has no road or village lights, and on clear autumn nights the Milky Way rises behind Annapurna South. Three nights on the ridge improve your chances. Bring a sturdy tripod, a fast wide lens, an intervalometer and warm clothes: temperatures drop to −5 to −10 °C at night in November."
+    },
+    {
+      "q": "How difficult is the photography trek?",
+      "a": "We grade it Moderate. Daily walks are 3–6 hours, except the optional Khayer Lake hike of 8–9 hours to about 4,660 m. Early starts for sunrise and late evenings for night shots add tiredness, so the pace is slower than a standard trek. Reasonable fitness and comfort with cold mornings are needed."
+    },
+    {
+      "q": "Is this trek suitable for non-photographers?",
+      "a": "Yes, for anyone who enjoys a slower pace and more time at viewpoints. Partners who do not photograph can rest, read or explore while others shoot. The route is quieter than the standard Poon Hill trek, with three nights on Khopra ridge. If you prefer longer walking days, choose our 8-day Khopra trek instead."
+    },
+    {
+      "q": "How cold is it at Khopra at sunrise?",
+      "a": "In November and December, expect around −5 to −10 °C at sunrise on Khopra Danda, colder with wind. October is a few degrees milder; April is milder still. Wear a down jacket, thermal layers, warm gloves with thin liners for camera controls, and a hat. Hand warmers help keep batteries and fingers working."
+    },
+    {
+      "q": "Can I hire a porter just for camera gear?",
+      "a": "Yes. Standard porters carry up to about 10 kg per trekker for clothing and personal items. If you are bringing a heavy tripod and several lenses, we can add an extra porter for about US$25 a day. Carry fragile cameras and lenses yourself in a padded daypack."
+    }
+  ]
+}

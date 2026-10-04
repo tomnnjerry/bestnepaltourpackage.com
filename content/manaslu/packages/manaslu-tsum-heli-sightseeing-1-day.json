@@ -1,0 +1,81 @@
+{
+  "slug": "manaslu-tsum-heli-sightseeing-1-day",
+  "title": "Manaslu and Tsum Heli Sightseeing 1 Day",
+  "region": "manaslu",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "photography", "buddhist-circuit", "luxury-nepal"],
+  "stops": [
+    {"place": "kathmandu", "nights": 0},
+    {"place": "tsum-valley", "nights": 0},
+    {"place": "samagaun", "nights": 0},
+    {"place": "gorkha", "nights": 0}
+  ],
+  "start": "Kathmandu (domestic airport, 6 am check-in)",
+  "end": "Kathmandu",
+  "price_from_inr": 156000,
+  "price_from_usd": 1790,
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 3530,
+  "accommodation": "None (day tour)",
+  "transport": "Helicopter (AS350 B3 or similar, up to 5 passengers), hotel transfers",
+  "group": "Shared seats or private charter, 1–5 passengers",
+  "meta_description": "Manaslu and Tsum Valley heli sightseeing 1 day: fly over Mu Gompa and Chhokangparo, land in Samagaun under Manaslu, return via Gorkha. From US$1,790.",
+  "summary": "A longer helicopter sightseeing flight that takes in two valleys in one morning: the Tsum Valley with Mu Gompa and the villages of the upper Tsum, then Samagaun for a breakfast landing under Manaslu, a pass along the Manaslu Glacier and a return over Gorkha. Around 2.5 hours in the air.",
+  "intro": [
+    "The Tsum Valley takes most trekkers a week to explore, and few ever see it from above. On this flight you head north from Kathmandu past Ganesh Himal into the Siyar Khola valley, following it up over Chumling, Chhokangparo and the long mani walls of the upper valley to Mu Gompa near the Tibet border. The pilot then crosses into the Budhi Gandaki and lands at Samagaun, where you have breakfast with Manaslu filling the sky.",
+    "After the landing the helicopter flies along the Manaslu Glacier and Birendra Tal, then returns south down the Budhi Gandaki and over the hill town of Gorkha, birthplace of Prithvi Narayan Shah, before reaching Kathmandu. The tour does not land in the Tsum Valley; it is a sightseeing overflight there. The landing in Samagaun requires the Manaslu restricted area permit for each foreign passenger, which we arrange. Shared prices assume five passengers."
+  ],
+  "highlights": [
+    "Overflight of the Tsum Valley and Mu Gompa near the Tibet border",
+    "Breakfast landing in Samagaun (3,530 m) facing Manaslu",
+    "Flight along the Manaslu Glacier and Birendra Tal",
+    "Ganesh Himal, Himal Chuli and Ngadi Chuli from the air",
+    "Return over Gorkha and its hilltop palace"
+  ],
+  "days": [
+    {"day": 1, "title": "Tsum Valley, Samagaun and Gorkha by air", "place": "samagaun", "overnight": "Kathmandu (own hotel)", "altitude_m": 1400, "max_m": 3530, "walk": "", "drive": "Hotel to domestic airport · 30 min each way", "flight": "Kathmandu–Tsum Valley overflight · ≈ 60 min; Tsum–Samagaun · ≈ 15 min; Samagaun–Kathmandu via Manaslu Glacier and Gorkha · ≈ 75 min", "text": "Pick-up at 5:30 am for the domestic terminal and a safety briefing. Take off around 6:30 am and fly north past Ganesh Himal into the Tsum Valley, tracing the Siyar Khola over Chumling, Chhokangparo, Rachen Gompa and up to Mu Gompa. Cross the ridge into the Budhi Gandaki and land at Samagaun for about 45 minutes of breakfast and photographs. Then fly along the Manaslu Glacier and over Birendra Tal before heading south down the valley and over Gorkha's hilltop palace to Kathmandu, back by about noon.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Helicopter seat on a shared flight (5 passengers) or private charter as booked",
+    "Manaslu restricted area permit and conservation area permit for the Samagaun landing",
+    "Breakfast in a Samagaun lodge",
+    "Experienced mountain pilot and ground crew",
+    "Airport taxes and fuel surcharges at the time of booking",
+    "Hotel–airport transfers in Kathmandu",
+    "Supplementary oxygen on board"
+  ],
+  "excludes": [
+    "Landing in the Tsum Valley (needs a separate permit and charter; on request)",
+    "Kathmandu hotel nights",
+    "Travel insurance",
+    "Fuel price surcharges after booking",
+    "Tips for pilot and crew",
+    "Personal expenses in Samagaun",
+    "Rescheduling costs for personal reasons"
+  ],
+  "good_to_know": [
+    "The shared price assumes five passengers; a private charter for up to five people costs about US$8,000 to 9,500 per helicopter, depending on fuel and season.",
+    "The route is long and weather dependent; flights leave around 6:30 am because cloud usually fills the valleys by late morning, and the pilot may shorten the Tsum section if cloud builds.",
+    "Payload limits at altitude may mean fewer passengers per flight or a short fuel stop on the way; the pilot decides on the day.",
+    "We do not land in the Tsum Valley on this tour; a landing there needs the Tsum restricted area permit and is possible only as a private charter. Check current status before you travel.",
+    "Passengers with heart or lung conditions, uncontrolled blood pressure or pregnancy should consult a doctor before flying to altitude, even with a 3,530 m landing."
+  ],
+  "add_ons": [
+    {"name": "Private charter with Tsum Valley landing (permit extra)", "price": "≈ US$ 9,000–10,500 per helicopter"},
+    {"name": "Manaslu Base Camp landing (weather permitting)", "price": "≈ US$ 150 per seat"}
+  ],
+  "faqs": [
+    {"q": "Does the Manaslu and Tsum heli tour land in the Tsum Valley?", "a": "Not on the standard tour. You fly over the Tsum Valley and Mu Gompa, then land in Samagaun on the Manaslu side. A landing in Tsum is possible as a private charter with the Tsum restricted area permit and depends on weather and a suitable site. Ask us when you book."},
+    {"q": "How long is the Manaslu and Tsum helicopter flight?", "a": "About 2.5 hours of flying, plus 45 minutes on the ground in Samagaun. With transfers the tour lasts about 6 hours from hotel pick-up, and you are back in Kathmandu around noon in normal conditions. Weather can shorten or delay the Tsum section."},
+    {"q": "How much does the Manaslu and Tsum heli tour cost?", "a": "A shared seat starts from about US$1,790 or ₹1,56,000 per person with five passengers. A private charter costs about US$8,000 to 9,500 per helicopter. The longer route uses more fuel than the standard Manaslu heli tour, which explains the higher price."},
+    {"q": "Which side of the helicopter is best for photos?", "a": "On the way out to Tsum, Ganesh Himal is on the right; over the Tsum Valley and into Samagaun, Manaslu and Himal Chuli appear on the left. The pilot and crew usually rotate seats at Samagaun so everyone gets a window view on one leg."},
+    {"q": "Do I need a permit for a Tsum Valley overflight?", "a": "As we understand it, flying over the Tsum Valley does not need a ground permit, but landing in Samagaun needs the Manaslu restricted area permit and conservation permit for each foreign passenger. A landing in Tsum would need the Tsum permit. Check current status before you travel."},
+    {"q": "Is this tour good for Buddhist pilgrims?", "a": "It is a good way to see the Tsum Valley's monasteries, including Mu Gompa and Rachen Gompa, from the air, especially for pilgrims who cannot trek for a week. You do not visit the monasteries on foot. For an in-person visit, consider our 14-day Tsum Valley trek."},
+    {"q": "What if the weather is bad?", "a": "We postpone to the next clear morning. If the weather closes in during the flight, the pilot may skip the Tsum section or turn back, and charges are adjusted for flying time. Keep one or two spare days in Kathmandu around your tour date."},
+    {"q": "Can children join the Manaslu and Tsum heli tour?", "a": "Yes, healthy children usually enjoy the flight. The only landing is at 3,530 m in Samagaun for about 45 minutes, which most people tolerate well. Bring warm clothing, as mornings in Samagaun are close to or below freezing in autumn and winter."},
+    {"q": "Can I book the Manaslu and Tsum heli tour from India?", "a": "Yes. We need passport details at least two working days before the flight to arrange the permit for the Samagaun landing. Indian passport holders need the same restricted area permit, as we understand it. We quote in INR at the current exchange rate when you book."}
+  ]
+}

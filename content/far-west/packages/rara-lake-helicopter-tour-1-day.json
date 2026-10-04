@@ -1,0 +1,77 @@
+{
+  "slug": "rara-lake-helicopter-tour-1-day",
+  "title": "Rara Lake Helicopter Tour from Nepalgunj 1 Day",
+  "region": "far-west",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "luxury-nepal", "photography", "honeymoon"],
+  "stops": [{"place": "nepalgunj", "nights": 0}, {"place": "rara-lake", "nights": 0}],
+  "start": "Nepalgunj airport",
+  "end": "Nepalgunj airport",
+  "price_from_inr": 115000,
+  "price_from_usd": 1350,
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 2990,
+  "accommodation": "None included (day tour); Nepalgunj hotel available as an add-on",
+  "transport": "Charter helicopter, typically an AS350 B3 or similar, 5 passenger seats",
+  "group": "Shared seat (5 per helicopter) or private charter",
+  "meta_description": "Rara Lake helicopter tour, 1 day from Nepalgunj: about 1 h 10 min each way over the Karnali hills, time on the ground at Nepal's largest lake. From ₹1,15,000.",
+  "summary": "A morning helicopter flight from Nepalgunj to Rara Lake, about 1 hour 10 minutes each way over the Karnali hills, with time on the ground beside Nepal's largest lake before returning by early afternoon. Priced per seat with five sharing, or as a private charter.",
+  "intro": [
+    "Rara is two days by road or a week on foot from Nepalgunj, and even the scheduled Talcha flight needs two or three days to fit. A helicopter puts you on the shore of the lake by mid-morning and back in Nepalgunj for lunch, which suits travellers short on time, older relatives who cannot manage the walk, and photographers who want the aerial view of the lake and its forest basin.",
+    "The route follows the Bheri and Karnali valleys north, crossing forested ridges, terraced villages around Jumla and Mugu and, on clear mornings, giving views of the Kanjiroba and Saipal ranges before the lake appears as a deep blue oval among pines. We plan around early weather windows, fly with experienced mountain pilots, and confirm the current landing arrangement inside Rara National Park for each booking."
+  ],
+  "highlights": [
+    "Aerial views of Rara Lake and its forested basin",
+    "Flight over the Karnali hills with Kanjiroba and Saipal views",
+    "Time on the ground beside Nepal's largest lake",
+    "Back in Nepalgunj by early afternoon",
+    "No trekking or long drives; suitable for most ages"
+  ],
+  "days": [
+    {"day": 1, "title": "Helicopter Nepalgunj–Rara Lake–Nepalgunj", "place": "rara-lake", "overnight": "", "altitude_m": 150, "max_m": 2990, "walk": "≈ 30–45 min on the shore", "drive": "≈ 10 km · 20 min", "flight": "Nepalgunj–Rara · ≈ 1 h 10 min; Rara–Nepalgunj · ≈ 1 h 10 min", "text": "Hotel pick-up at about 6:30 am for a 7–7:30 am departure, when skies in the hills are usually clearest. The helicopter climbs over the Siwalik hills and follows the river valleys north past Surkhet and the Karnali gorge, then over ridges near Jumla and into Mugu. After about 1 hour 10 minutes it circles the lake for photographs and lands at the designated point. Spend around 1–1.5 hours walking a short stretch of the shore, visiting the park area and having tea before the return flight, landing in Nepalgunj by about 12:30–1 pm.", "meals": "Tea and snacks at Rara"}
+  ],
+  "stays": [],
+  "includes": [
+    "Shared seat on a 5-seat charter helicopter Nepalgunj–Rara–Nepalgunj",
+    "Experienced mountain pilot and ground handling",
+    "Landing and ground time at Rara, subject to park rules",
+    "Rara National Park entry fee",
+    "Nepalgunj hotel–airport transfers",
+    "Tea and light snacks at Rara",
+    "Our coordinator at Nepalgunj airport"
+  ],
+  "excludes": [
+    "Flights to Nepalgunj from Kathmandu or India",
+    "Hotel nights in Nepalgunj",
+    "Extra ground time beyond the agreed schedule (charged as waiting time)",
+    "Private charter supplement if fewer than five passengers",
+    "Meals other than tea and snacks",
+    "Travel insurance",
+    "Tips for crew"
+  ],
+  "good_to_know": [
+    "The per-seat price assumes five passengers sharing one helicopter; a private charter costs around US$5,500–6,800 per helicopter depending on fuel and season.",
+    "Flights leave early because cloud and wind build in the hills by late morning; weather can delay or cancel the flight, and we reschedule or refund the unused flight.",
+    "Unlike high landings on Everest or Kailash routes, where time above 5,000 m is often limited to 10–15 minutes, Rara at about 2,990 m allows a stop of 1–1.5 hours.",
+    "Payload falls with altitude, so heavy bags are not allowed; carry only a small daypack, camera and warm jacket.",
+    "Rara is at about 2,990 m; people with serious heart or lung conditions, or who are pregnant, should consult a doctor before flying.",
+    "Landing points inside Rara National Park are controlled; we confirm the current arrangement and fees for each booking, so check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Night at Siddhartha Hotel Nepalgunj before the flight", "price": "≈ ₹7,000 per room"},
+    {"name": "Overnight at Rara with return heli next morning", "price": "≈ US$ 600–900 extra per helicopter, plus lodge"}
+  ],
+  "faqs": [
+    {"q": "How long is the helicopter flight from Nepalgunj to Rara Lake?", "a": "About 1 hour 10 minutes each way, depending on wind and routing. With 1–1.5 hours on the ground, the whole trip takes about 4–5 hours from take-off to landing. Departures are early, usually around 7 am, to use the clearest weather in the hills."},
+    {"q": "How much does a Rara Lake heli tour cost?", "a": "A shared seat with five passengers starts from about ₹1,15,000 or US$1,350 per person. A private 5-seat charter costs around US$5,500–6,800 per helicopter, depending on fuel prices, season and waiting time at the lake. Rates change, so we confirm the price when you book."},
+    {"q": "Can senior citizens do the Rara helicopter tour?", "a": "Yes, it is one of the best ways for older travellers to see Rara, since there is no trekking. At about 2,990 m, some people feel breathless, so walk slowly on the ground. Anyone with serious heart or lung conditions, or who is pregnant, should get medical advice before flying."},
+    {"q": "What if the weather is bad on the day of the heli tour?", "a": "We fly only when the pilot judges conditions safe. If clouds or wind prevent the flight, we try again the next morning or later the same morning if weather clears. If you cannot wait, the unused flight is refunded according to the operator's terms. Building in one spare day is wise."},
+    {"q": "How long do we stay at Rara Lake on the heli tour?", "a": "Usually 1–1.5 hours on the ground, enough for a walk along the shore, photographs and tea. Longer stays are possible but charged as waiting time, and the risk of afternoon cloud increases. For more time, consider an overnight with a next-morning return, or the 5-day tour by scheduled flight."},
+    {"q": "Can I fly to Rara Lake from Kathmandu by helicopter?", "a": "It is possible but long and expensive, as the distance requires a refuelling stop, usually at Nepalgunj or Surkhet. Most travellers fly to Nepalgunj on a scheduled airline and start the helicopter tour there. We can quote a Kathmandu departure on request."},
+    {"q": "Is the Rara helicopter tour safe?", "a": "Helicopter operators in Nepal fly mountain routes daily with experienced pilots, and flights only go in suitable weather. The main risks are weather changes and altitude effects for passengers with health issues. We use established operators and follow the pilot's decisions on routing, loads and timing."},
+    {"q": "Can children join the Rara heli tour?", "a": "Yes. Children can fly and usually enjoy it, and the altitude of about 2,990 m for a short stay is fine for healthy children. Infants and toddlers may need ear protection. Children occupy a full seat on shared flights. Bring warm clothes, as it is cold at the lake even in summer."},
+    {"q": "What should I wear on the Rara helicopter tour?", "a": "Layers. Nepalgunj may be 30 °C at take-off while Rara is near 10 °C with wind. Wear comfortable shoes, carry a warm jacket, hat, sunglasses and sunscreen, and keep a small daypack. Avoid loose hats and scarves near the rotors, and follow the crew's instructions when boarding."}
+  ]
+}

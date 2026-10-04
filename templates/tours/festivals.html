@@ -1,0 +1,8 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Festival Calendar, Month by Month{% endblock %}
+{% block meta_description %}Nepal's festivals month by month: Dashain, Tihar, Indra Jatra, Bisket Jatra, Shivaratri, Mani Rimdu, Tiji, Buddha Jayanti and more, with dates that move each year.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "lamp" %}Festivals</p><h1>Nepal's festival calendar</h1><p class="phead__lede">Most festivals follow the lunar calendar, so dates move every year. We confirm the year's date before we build your trip.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "lamp" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<div class="wrap sec--tight">{% for m in by_month %}{% if m.festivals %}<section style="margin-bottom:34px"><h2 class="h2">{{ m.name }}</h2><div class="grid grid--3">{% for f in m.festivals %}<a class="ecard" href="{{ f.url }}" data-land="{{ f.region }}">{% photo f|first_img f.name "" "33vw" False False %}<span class="ecard__kind">{% icon "lamp" %}{{ f.region_obj.short|default:f.region_obj.name }}</span><span class="ecard__txt"><b>{{ f.name }}</b><small>{{ f.when }}</small></span></a>{% endfor %}</div></section>{% endif %}{% endfor %}</div>
+{% endblock %}

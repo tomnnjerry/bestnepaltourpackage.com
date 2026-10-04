@@ -1,0 +1,97 @@
+{
+  "slug": "kailash-yatra-from-lucknow-via-nepalgunj-12-days",
+  "title": "Kailash Yatra from Lucknow via Nepalgunj, 12 Days",
+  "region": "kailash",
+  "type": "yatra",
+  "grade": "Challenging",
+  "nights": 11,
+  "themes": ["kailash-yatra", "pilgrimage", "overland-from-india", "heli-tours"],
+  "stops": [
+    {"place": "nepalgunj", "nights": 3},
+    {"place": "purang", "nights": 3},
+    {"place": "lake-manasarovar", "nights": 2},
+    {"place": "darchen", "nights": 1},
+    {"place": "mount-kailash", "nights": 2}
+  ],
+  "start": "Lucknow (Charbagh railway station or Chaudhary Charan Singh Airport)",
+  "end": "Lucknow",
+  "price_from_inr": 275000,
+  "price_from_usd": 3200,
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "max_altitude_m": 5630,
+  "accommodation": "3-star hotel in Nepalgunj, hotel in Purang, guesthouses at Manasarovar, Darchen and on the parikrama",
+  "transport": "Private AC vehicle Lucknow–Nepalgunj, Nepalgunj–Simikot flights, Simikot–Hilsa helicopter, Tibetan agency vehicles",
+  "group": "Fixed-departure groups of 10–25 from Uttar Pradesh, or private groups of 5+",
+  "meta_description": "Kailash yatra from Lucknow via Nepalgunj, Simikot and Hilsa, 12 days: no Kathmandu flights, two nights at Manasarovar, price, visa and border details.",
+  "summary": "Built for pilgrims from Uttar Pradesh and nearby states: drive from Lucknow to Nepalgunj through the Rupaidiha border, fly to Simikot, take the helicopter to Hilsa and cross into Tibet. Two nights at Manasarovar, the three-day parikrama and back to Lucknow in 12 days, from ₹2,75,000, with no Kathmandu flights.",
+  "intro": [
+    "For families in Lucknow, Kanpur, Varanasi, Gorakhpur or anywhere in central Uttar Pradesh, Nepalgunj is closer than Kathmandu. It sits just 6 km across the border from Rupaidiha in Bahraich district, about 190 km and 5 hours by road from Lucknow. Indian nationals cross by road without a visa for Nepal, and from Nepalgunj the yatra follows the same air and helicopter route to Simikot and Hilsa as our Kathmandu departures, saving two domestic flights and a day.",
+    "We add a second night at Lake Manasarovar, which gives a full day for puja, havan and rest at about 4,590 m before the parikrama. As with all Simikot departures, weather can delay flights by a day or more, and baggage is limited to about 10–15 kg. Chinese visa processing for resident Indians has run through New Delhi in recent seasons, and rules have changed several times since 2023; check current status before you travel."
+  ],
+  "highlights": [
+    "Start and finish in Lucknow; no Kathmandu flights needed",
+    "Bageshwari Shakti peeth in Nepalgunj before the mountains",
+    "Simikot flight and Hilsa helicopter over Humla's gorges",
+    "Two nights at Manasarovar with a full day for puja and havan",
+    "Three-day Kailash parikrama over Dolma La (≈ 5,630 m)",
+    "Khorzhak (Khojarnath) temple near Purang"
+  ],
+  "days": [
+    {"day": 1, "title": "Lucknow to Nepalgunj by road", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 150, "walk": "", "drive": "≈ 190 km · 5–6 h + border", "flight": "", "text": "Pick-up in Lucknow in the morning and drive via Bahraich and Nanpara to Rupaidiha on the border. Indian pilgrims cross into Nepal with passport or voter ID for the Nepal leg, though the passport is needed for China later. After a short drive to Nepalgunj, check into a 3-star hotel. The evening briefing covers baggage limits, the helicopter sector, the border at Hilsa and altitude sickness.", "meals": "L, D"},
+    {"day": 2, "title": "Nepalgunj: Bageshwari and preparation", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 150, "walk": "≈ 1 h sightseeing", "drive": "Local transfers", "flight": "", "text": "A day to complete documents and prepare. In the morning the tour leader checks passports, visas, medical certificates and any biometric or document formalities required that season. We repack everyone into soft duffels within the 10–15 kg limit and store the rest at the hotel. In the evening, visit the Bageshwari temple, a Shakti peeth revered by pilgrims from both sides of the border, for aarti.", "meals": "B, L, D"},
+    {"day": 3, "title": "Fly to Simikot, heli to Hilsa, Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Hilsa–Purang · ≈ 28 km · 1 h", "flight": "Nepalgunj–Simikot · 45 min; Simikot–Hilsa heli · 20–30 min", "text": "An early small-aircraft flight lifts the group from the plains to Simikot at about 2,910 m in roughly 45 minutes. Helicopters then shuttle groups of four or five up the Humla Karnali to Hilsa. When everyone is across, we clear Nepali exit, walk over the bridge, pass Chinese immigration and drive to Purang at about 3,900 m. Weather may hold flights; if so, the group waits and the plan shifts by a day.", "meals": "B, L, D"},
+    {"day": 4, "title": "Rest day in Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4000, "walk": "≈ 1.5–2 h gentle walk", "drive": "≈ 40 km return to Khorzhak", "flight": "", "text": "Acclimatisation day. We drive about 20 km down the Karnali to Khorzhak monastery, where pilgrims offer prayers before the silver images revered as Ram, Sita and Lakshman. Back in Purang, a short walk on the hillside or a browse through the Taklakot market. Keep activity light, drink plenty of water and sleep early. Oxygen saturation is checked morning and evening.", "meals": "B, L, D"},
+    {"day": 5, "title": "Rakshastal and arrival at Manasarovar", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks", "drive": "≈ 75 km · 1.5–2 h", "flight": "", "text": "Drive north under Gurla Mandhata to Rakshastal, the saltwater lake associated with Ravana, then on to the shore of Manasarovar. After settling into the guesthouse at Chiu, the afternoon is deliberately quiet: prayers by the water, a short walk and early dinner. Arriving without rushing gives the body time to adjust to about 4,590 m. Kailash appears to the north when the sky clears.", "meals": "B, L, D"},
+    {"day": 6, "title": "Lake parikrama, holy dip and havan", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 90–100 km lake circuit · 4–5 h", "flight": "", "text": "A full day at the lake. The bus parikrama of about 90–100 km stops at ghats and shore monasteries, and at a permitted spot the group takes the holy dip or bucket snan, as local rules allow that season. Our pandit leads puja, Rudrabhishek or havan facing Kailash, and families can perform shraddha for ancestors with advance notice. Afternoon rest and Manasarovar jal collection.", "meals": "B, L, D"},
+    {"day": 7, "title": "To Darchen at the foot of Kailash", "place": "darchen", "overnight": "Darchen", "altitude_m": 4575, "max_m": 4600, "walk": "Optional short walk", "drive": "≈ 35 km · 45 min", "flight": "", "text": "A short drive brings us to Darchen, facing the south face of Kailash. The guide books ponies and porters through the local cooperative, and everyone packs a 25–30 litre bag for the parikrama with warm layers, rain jacket, snacks and medicines. Pilgrims not walking the kora can join the optional Ashtapad darshan in the afternoon.", "meals": "B, L, D"},
+    {"day": 8, "title": "Parikrama day 1: Yam Dwar to Dirapuk", "place": "mount-kailash", "overnight": "Dirapuk", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 12 km · 5–7 h", "drive": "Eco-bus to Yam Dwar · 20 min", "flight": "", "text": "We pass through Yam Dwar beside the Tarboche flagpole and walk north up the Lha Chu valley, a gentle 12 km with about 225 m of gain, to Dirapuk at about 4,900 m. The north face of Kailash rises close across the river at the end of the day. Stone guesthouses with dorm rooms tonight; bring your sleeping bag liner. Non-walkers stay in Darchen with a staff member.", "meals": "B, L, D"},
+    {"day": 9, "title": "Parikrama day 2: over Dolma La", "place": "mount-kailash", "overnight": "Zuthulpuk", "altitude_m": 4790, "max_m": 5630, "walk": "≈ 20–22 km · 10–12 h", "drive": "", "flight": "", "text": "Up before 4 am for the climb of about 730 m to the Dolma La at approximately 5,630 m, past Shiva-sthal where pilgrims leave a token of their old life. Ten to fifteen minutes of prayer among the flags at the top, then the steep descent past Gauri Kund and the long valley walk to Zuthulpuk at about 4,790 m. This is the day that defines the yatra; go slowly and steadily.", "meals": "B, L, D"},
+    {"day": 10, "title": "Parikrama day 3, drive to Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4790, "walk": "≈ 9–10 km · 3–4 h", "drive": "≈ 100 km · 2–3 h", "flight": "", "text": "Visit Milarepa's cave at Zuthulpuk, then walk 9–10 km down the gorge to Zongdo, where the eco-bus returns us to Darchen and the group reunites. Lunch, then the drive back past Manasarovar and Rakshastal to Purang, about 700 m lower. Hot showers, heated rooms and a celebration dinner.", "meals": "B, L, D"},
+    {"day": 11, "title": "Hilsa heli and flight to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Purang–Hilsa · 1 h", "flight": "Hilsa–Simikot heli · 20–30 min; Simikot–Nepalgunj · 45 min", "text": "Early drive to the border, Chinese exit and the walk back across to Hilsa. Helicopters shuttle the group to Simikot, and the afternoon flight carries us down to Nepalgunj if weather and schedules allow; otherwise we overnight in Simikot and fly the next morning. Collect stored luggage at the hotel in Nepalgunj.", "meals": "B, L, D"},
+    {"day": 12, "title": "Drive back to Lucknow", "place": "", "overnight": "", "altitude_m": 120, "max_m": 150, "walk": "", "drive": "≈ 190 km · 5–6 h + border", "flight": "", "text": "After breakfast we cross the border at Rupaidiha and drive back via Nanpara and Bahraich to Lucknow, arriving in the afternoon. Drop-off at your home in Lucknow, Charbagh station or the airport. Pilgrims travelling on to other cities should book trains or flights for the evening or the next day, since weather on the Simikot sector can delay the return.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private AC vehicle Lucknow–Nepalgunj–Lucknow with border assistance at Rupaidiha",
+    "3 nights in a 3-star hotel in Nepalgunj, twin sharing, with luggage storage",
+    "Nepalgunj–Simikot return flights and Simikot–Hilsa return helicopter sector",
+    "Chinese group visa processing support and Tibet Travel Permit with all area permits",
+    "Accommodation in Purang, Manasarovar (2 nights), Darchen, Dirapuk and Zuthulpuk",
+    "All meals from day 1 lunch, Indian vegetarian in Tibet, Jain meals on request",
+    "Hindi-speaking tour leader and licensed Tibetan guide",
+    "Oxygen cylinders, pulse oximeter and first-aid kit",
+    "Group puja and havan with pandit at Manasarovar"
+  ],
+  "excludes": [
+    "Travel to Lucknow from your home city",
+    "Chinese visa fees and any nationality-specific surcharges",
+    "Pony, horseman and porter on the parikrama",
+    "Travel insurance with high-altitude and helicopter evacuation cover",
+    "Extra nights and meals caused by weather or border delays",
+    "Excess baggage on aircraft and helicopter",
+    "Tips, drinks and personal expenses",
+    "Ashtapad darshan (optional)"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing, a group of at least 10 Indian passport holders and standard-season rates, including the shared helicopter sector.",
+    "In recent seasons resident Indian pilgrims have had to obtain the Chinese group visa through New Delhi, submitting original passports weeks ahead, and complete biometrics. These rules, fees and age limits have changed several times since 2023. Check current status before you travel.",
+    "Helicopters fly in the morning in shuttles of four or five, depending on payload at altitude; cloud and wind often stop flights by midday. People with heart or lung conditions or pregnancy should not fly to high altitude.",
+    "An age limit of around 70 years and a medical fitness certificate have applied on the Nepal routes. Treat this as guidance only.",
+    "This is a private Nepal-route pilgrimage, separate from the Government of India's Kailash Mansarovar Yatra via Lipulekh and Nathu La."
+  ],
+  "add_ons": [
+    {"name": "Pony and horseman for the 3-day parikrama", "price": "≈ US$ 450–550, set locally each season"},
+    {"name": "Pick-up from Kanpur, Ayodhya or Gorakhpur", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "Can I go to Kailash from Lucknow without going to Kathmandu?", "a": "Yes. Nepalgunj is about 190 km from Lucknow by road via the Rupaidiha border. From there you fly to Simikot and take the helicopter to Hilsa on the Tibet border. Our 12-day yatra starts and ends in Lucknow and never touches Kathmandu."},
+    {"q": "What is the Kailash yatra cost from Lucknow?", "a": "Our 12-day Lucknow departure starts from ₹2,75,000 per person, twin sharing, for a group of 10 or more. It includes road transfers, Nepalgunj hotel, flights, helicopter, permits, accommodation, meals and guides. Visa fees, ponies, insurance and delay costs are extra."},
+    {"q": "How far is Nepalgunj from Lucknow?", "a": "About 190 km by road, 5–6 hours via Bahraich and Nanpara to Rupaidiha, then 6 km across the border. Rail connections also reach Nanpara and Bahraich, but a private vehicle is more practical with luggage."},
+    {"q": "Do I need a passport for the Lucknow–Nepalgunj border?", "a": "Indian citizens can enter Nepal with a passport or voter ID card, but you need your passport with the Chinese visa for Tibet, so carry it from the start. Keep photocopies and passport photos for the Hilsa border too."},
+    {"q": "Why two nights at Manasarovar on this yatra?", "a": "The extra night gives a relaxed arrival day and a full day for the bus parikrama, holy dip and havan, and it improves acclimatisation before Dolma La. Pilgrims from the plains of Uttar Pradesh, at about 120 m, benefit from every extra night at altitude."},
+    {"q": "Is the Nepalgunj route good for pilgrims from Varanasi or Kanpur?", "a": "Yes. Kanpur is about 270 km and Varanasi about 400 km from Rupaidiha, so many pilgrims reach Lucknow by train and join the group. We can arrange pick-ups from Kanpur, Ayodhya or Gorakhpur on request."},
+    {"q": "How hot is Nepalgunj in May and June?", "a": "Very hot: daytime temperatures of 35–42 °C are common before the monsoon. Hotels are air-conditioned. Within 24 hours you will be at 3,900 m in Purang, where nights are near freezing, so carry warm clothes in your hand luggage."},
+    {"q": "What if weather delays the Simikot flight on the way back?", "a": "The group waits in Simikot or Hilsa until flights resume, usually by the next morning. Extra nights are charged at cost. Book onward trains or flights from Lucknow with some flexibility, or for the day after the scheduled return."},
+    {"q": "Can seniors from Lucknow join this yatra?", "a": "Yes, many do. The route has limited walking apart from the optional parikrama, and seniors can stay at Darchen during the kora. An age limit of about 70 has applied recently, and a medical certificate is required. Check current status before you travel."}
+  ]
+}

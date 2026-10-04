@@ -1,0 +1,131 @@
+{
+  "slug": "kathmandu-city-break-3-nights",
+  "title": "Kathmandu City Break: 3 Nights, 4 Days",
+  "region": "kathmandu-valley",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["cultural-tours", "short-breaks", "photography"],
+  "stops": [{"place": "kathmandu", "nights": 3}],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 16000,
+  "price_from_usd": 240,
+  "best_months": [1, 1, 2, 2, 1, 1, 1, 1, 1, 2, 2, 1],
+  "max_altitude_m": 1541,
+  "accommodation": "3-star hotel in Thamel or Lazimpat, twin sharing, breakfast daily",
+  "transport": "Private car or van with driver for airport transfers and all sightseeing",
+  "group": "Private tour, 1–12 travellers",
+  "meta_description": "Kathmandu city break, 4 days: Pashupatinath aarti, Swayambhunath, Patan, Bhaktapur and Boudhanath with a private guide. 3-star hotel from ₹16,000.",
+  "summary": "Four days and three nights in Kathmandu that cover all seven UNESCO monument zones of the valley with a private car and a licensed guide. You watch the evening aarti at Pashupatinath, climb to Swayambhunath, walk the Durbar Squares of Kathmandu, Patan and Bhaktapur, and finish with a dusk kora at Boudhanath.",
+  "intro": [
+    "This is the trip we suggest when you have a long weekend and a direct flight. Delhi to Kathmandu takes about 1 hour 40 minutes, so you can land by midday, check in at a 3-star hotel in Thamel and be on the Bagmati ghats for the evening aarti the same day. Everything sits inside the Kathmandu Valley at around 1,400 m, so there is no altitude to worry about and no long drives. The longest single transfer is the 13 km run east to Bhaktapur.",
+    "We plan the days around the light and the crowds. Swayambhunath and Bhaktapur are best early, before tour buses arrive; Boudhanath is at its best at dusk when butter lamps are lit and the kora fills with Tibetan families. Your guide speaks English or Hindi and handles tickets, timings and parking. Afternoons are paced so that grandparents and children keep up, and the last morning stays free for shopping or the Everest mountain flight."
+  ],
+  "highlights": [
+    "Evening aarti on the Bagmati at Pashupatinath on arrival day",
+    "Dawn climb up the 365 steps of Swayambhunath",
+    "Kathmandu and Patan Durbar Squares, Krishna Mandir and the Golden Temple",
+    "Nyatapola temple, Pottery Square and juju dhau in Bhaktapur",
+    "Changunarayan, the oldest temple site in the valley",
+    "Dusk kora and butter lamps at Boudhanath"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, Pashupatinath aarti",
+      "place": "pashupatinath",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 1 h · 2 km",
+      "drive": "≈ 6 km · 30 min to Thamel, then 5 km to Pashupatinath",
+      "flight": "",
+      "text": "We meet you outside arrivals at Tribhuvan International Airport with a name board and drive you 6 km to your hotel in Thamel, 20–40 minutes depending on traffic. After lunch on your own and a rest, your guide collects you around 4 pm for Pashupatinath. Hindu visitors can go into the main courtyard for darshan of the Shiva lingam; everyone can walk the stone terraces on the east bank of the Bagmati opposite Arya Ghat. At about 6 pm (earlier in winter) the evening aarti begins, with brass lamps, bells and bhajans across the river. Dinner tonight is your choice in Thamel.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Swayambhunath, Kathmandu and Patan squares",
+      "place": "swayambhunath",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 3–4 h in total · 6 km",
+      "drive": "≈ 20 km · 1.5 h across the day",
+      "flight": "",
+      "text": "We leave at 7 am for Swayambhunath, the hilltop stupa west of the city. Climb the 365 steps of the eastern stairway past resident monkeys to the whitewashed dome and its painted eyes, then look out over the whole valley. Next is Kathmandu Durbar Square: the Hanuman Dhoka palace, the Kumari Ghar where the living goddess sometimes appears at a carved window, and Kasthamandap, rebuilt in 2021. Walk through Indra Chowk and the spice stalls of Asan. After lunch we cross the Bagmati to Patan for Krishna Mandir (1637), the Patan Museum and the Golden Temple of Hiranya Varna Mahavihar.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Bhaktapur, Changunarayan and Boudhanath",
+      "place": "bhaktapur",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1541,
+      "walk": "≈ 3 h in total · 5 km",
+      "drive": "≈ 45 km · 2.5 h across the day",
+      "flight": "",
+      "text": "Bhaktapur is 13 km east, 40 minutes to an hour by car, and best reached by 9 am. Walk from Durbar Square, with the 55-Window Palace and the Golden Gate, to Taumadhi Square and the five-tiered Nyatapola temple, then down to Pottery Square where potters turn clay on hand wheels. Taste juju dhau, the town's sweet set curd, in a clay bowl. Around 1 pm we drive 6 km up the ridge to Changunarayan at 1,541 m and read the Licchavi stone inscription dated 464 CE. We return by Boudhanath at dusk to join the clockwise kora as butter lamps are lit.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Free morning or mountain flight, depart",
+      "place": "kathmandu",
+      "overnight": "Departure",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min to the airport",
+      "flight": "",
+      "text": "If you booked the Everest mountain flight, we pick you up at about 5:30 am for the domestic terminal. The plane flies east along the Himalaya for about an hour and every passenger gets a window seat; you are back at the hotel for a late breakfast. Otherwise the morning is free. The Garden of Dreams, a restored 1920s garden on the edge of Thamel, is a quiet place for an hour, and Thamel shops sell pashmina, singing bowls and Ilam tea. We drop you at the international terminal three hours before your flight.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "3 nights at a 3-star hotel in Thamel or Lazimpat, twin sharing, with breakfast",
+    "Airport pickup and drop by private car with a name-board welcome",
+    "Private car or van with driver for three days of sightseeing",
+    "Licensed English- or Hindi-speaking city guide on days 1–3",
+    "Guided visit to the Pashupatinath evening aarti",
+    "Fuel, parking, tolls and the driver's food and lodging",
+    "Bottled drinking water in the vehicle",
+    "Nepal government taxes and our service charge"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Nepal visa fee for non-Indian passport holders",
+    "Monument entry fees: about NPR 5,700 per foreigner and far less at SAARC rates for Indians (check current status before you travel)",
+    "Lunches and dinners",
+    "Everest mountain flight and other optional extras",
+    "Travel insurance",
+    "Tips for your guide and driver",
+    "Personal costs such as drinks, laundry, phone and shopping"
+  ],
+  "good_to_know": [
+    "The ₹16,000 price is per person for two people sharing a twin room at a 3-star hotel with a private car, for travel outside Dashain, Tihar and Christmas–New Year; solo travellers pay a single supplement.",
+    "Indian and other SAARC nationals pay much lower monument fees than other foreigners, and Hindus enter Pashupatinath free for darshan; carry your passport or voter ID to prove nationality, and check current status before you travel.",
+    "Non-Hindus cannot enter the main courtyard at Pashupatinath and watch the aarti from the east bank; leather belts and bags are best left in the car.",
+    "Cover shoulders and knees at temples and stupas, walk clockwise around stupas, and ask before photographing people, especially at the cremation ghats.",
+    "Kathmandu traffic and dust can be heavy in the dry months, so a light mask helps; for protests or strikes, check current advisories before you travel."
+  ],
+  "add_ons": [
+    {"name": "Everest mountain flight at dawn, about 1 hour", "price": "≈ ₹15,000 for Indian nationals · ≈ US$ 230 for other nationals (check current fares)"},
+    {"name": "Half-day Chandragiri cable car trip with private car", "price": "≈ ₹3,500 per person"},
+    {"name": "Upgrade to a 5-star hotel such as Hotel Yak & Yeti", "price": "from ≈ ₹7,000 per person per night"}
+  ],
+  "faqs": [
+    {"q": "How much does a Kathmandu tour package from India cost?", "a": "Our 3-night Kathmandu city break starts at ₹16,000 per person for two sharing a 3-star room, with breakfast, a private car, airport transfers and a guide for three days. Flights from Delhi usually add ₹10,000–20,000 return depending on dates. Monument fees at SAARC rates, meals and tips come to roughly ₹3,000–5,000 more per person. A 5-star hotel raises the package by about ₹7,000 per person per night."},
+    {"q": "Is 3 nights enough for Kathmandu?", "a": "Yes, three nights is enough to see the main sights of the valley at a comfortable pace. With a private car you cover Pashupatinath, Swayambhunath, Boudhanath, Changunarayan and the three Durbar Squares of Kathmandu, Patan and Bhaktapur. What you will not have time for is the mountains. For Himalayan views add a night in Nagarkot, the Everest mountain flight, or extend to Pokhara on our 5-night Kathmandu–Pokhara tour."},
+    {"q": "Do Indians need a passport or visa for Kathmandu?", "a": "Indian citizens do not need a visa for Nepal. Adults need either a valid Indian passport or an Election Commission voter ID card, and airlines check this at check-in. Do not rely on Aadhaar, which airlines often refuse. Children under 15 and adults over 65 can usually travel on other photo ID such as a PAN card or driving licence, but confirm with your airline and check current status before you travel."},
+    {"q": "Can non-Hindus enter Pashupatinath Temple?", "a": "Non-Hindus cannot enter the main temple courtyard where the Shiva lingam stands, and guards check at the gate. Foreign visitors pay an entry fee of about NPR 1,000 and can walk the ghats, the smaller shrines and the east-bank terraces, which give the best view of the evening aarti. Indian and Nepali Hindus enter free for darshan. Rules and fees can change, so check current status before you travel."},
+    {"q": "What is the best time for a Kathmandu city tour?", "a": "October and November are the best months, with clear skies, 10–25 °C days and the Dashain and Tihar festivals. March and April are warm and pleasant but hazier. December to February is dry and sunny by day, with mornings close to 2 °C. The June–September monsoon brings afternoon and night rain, but city sightseeing still works well and hotels are cheaper."},
+    {"q": "Can I pay in Indian rupees in Kathmandu?", "a": "Yes, ₹100 and smaller notes are accepted in many shops, taxis and hotels, at the fixed rate of 1 INR to 1.6 NPR. Indian nationals may carry ₹200 and ₹500 notes up to ₹25,000 in total. Many Fonepay QR merchants accept Indian UPI, so check that your bank app supports it. Monument counters often want Nepali rupees, so change some money on arrival."},
+    {"q": "How long is the flight from Delhi to Kathmandu?", "a": "A direct flight from Delhi to Kathmandu takes about 1 hour 40 minutes, and there are several departures a day on Indian and Nepali airlines. Direct flights also run from other Indian cities, including Kolkata, Mumbai and Varanasi. Schedules change often, so check current status before you travel. We plan day 1 around your landing time, and a midday arrival lets you make the Pashupatinath aarti that evening."},
+    {"q": "Is the Everest mountain flight worth it?", "a": "On a clear morning it is the only way to see Everest on a short Kathmandu trip. The fixed-wing plane flies about an hour along the range at roughly 7,600 m in a pressurised cabin, every passenger gets a window seat, and each gets a short look from the cockpit. It does not land. Cloud can cancel or delay it, so book it for day 2 or 3 and keep day 4 as a backup."},
+    {"q": "Is Kathmandu safe for tourists right now?", "a": "Kathmandu is generally safe for visitors, with petty theft in crowds the most common problem. In September 2025 protests led to curfews and arson at several buildings in the city, so check current advisories from your government before you book and again before you fly. Our guides keep you away from rallies and change routes when strikes are announced. Keep valuables in the hotel safe."}
+  ]
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "kathmandu-to-chitwan-national-park",
+    "from": "kathmandu",
+    "to": "chitwan-national-park",
+    "distance_km": 165,
+    "summary": "Kathmandu to Chitwan National Park is about 165 km by road to Sauraha, 5–7 hours by car or tourist bus via Mugling and Narayangarh. The fastest option is a 25-minute flight to Bharatpur, followed by a 30-minute drive to Sauraha or Patihani.",
+    "options": [
+      {"mode": "Flight", "time": "25 min + 30 min drive", "text": "Buddha Air and Yeti/Tara Air fly Kathmandu–Bharatpur several times a day in about 25 minutes, with one-way fares typically around US$ 110–130 for foreigners and less for Nepalis and Indians. From Bharatpur Airport, Sauraha and Patihani are about 30 minutes by road and Meghauli about an hour. It is the best choice for seniors, families short on time and luxury stays. Fog can delay morning flights in December and January."},
+      {"mode": "Private car", "time": "5–6 h", "text": "A private car or jeep follows the Prithvi Highway west to Naubise, down the Trishuli gorge to Mugling, then south along the river to Narayangarh and east to Sauraha, about 165 km. Expect 5–6 hours plus stops, more if traffic is heavy or road works slow the Mugling–Narayangarh stretch. A car costs roughly ₹12,000–15,000 one way and lets you stop at Devghat, Manakamana or a rafting put-in."},
+      {"mode": "Tourist bus", "time": "6–7 h", "text": "Tourist buses leave Kathmandu's Kantipath and Thamel area around 7 am and reach the Sauraha bus park around 1–2 pm, with a breakfast and lunch stop. Standard tourist buses cost around NPR 800–1,200; premium services such as Greenline cost more and include lunch. It is the cheapest comfortable option. Hotels send jeeps to meet the bus, but check that your bus goes to Sauraha, not just Tandi on the highway."},
+      {"mode": "Local bus", "time": "7–8 h", "text": "Local buses and micro-vans run from Kathmandu's Gongabu bus park to Narayangarh and Tandi, where you change to a local jeep or taxi for the last 6 km to Sauraha. They are cheap but crowded, stop often and can be uncomfortable on a long journey. We do not recommend them for families or travellers with luggage."}
+    ],
+    "stops_on_way": ["Manakamana cable car at Kurintar", "Trishuli rafting put-ins at Charaudi", "Riverside fish restaurants near Malekhu", "Mugling junction", "Devghat confluence near Narayangarh"],
+    "tip": "Leave Kathmandu by 7:30 am to clear the valley traffic at Kalanki before it builds, and keep an hour spare for road works below Mugling.",
+    "faqs": [
+      {"q": "How long does it take from Kathmandu to Chitwan by road?", "a": "About 5–7 hours for the 165 km to Sauraha, depending on traffic, road works on the Mugling–Narayangarh stretch and stops. Private cars are usually quicker than tourist buses. In the monsoon, landslides can add hours. Leaving early in the morning avoids the worst traffic in Kathmandu."},
+      {"q": "Is there a flight from Kathmandu to Chitwan?", "a": "Yes, to Bharatpur Airport, which serves Chitwan. Flights take about 25 minutes and operate several times a day with Buddha Air and Yeti/Tara Air. Sauraha is about 30 minutes from the airport by road. Schedules and fares change, so check current status before you travel."},
+      {"q": "What is the cheapest way from Kathmandu to Chitwan?", "a": "The tourist bus, at around NPR 800–1,200 per seat, is the cheapest comfortable option, taking 6–7 hours to Sauraha. Local buses are cheaper but slower and crowded. A private car costs more but can be shared by up to three or four people, which brings the per-person cost down."},
+      {"q": "Is the road from Kathmandu to Chitwan safe?", "a": "It is busy, with trucks and buses on a winding river road, but well travelled. Use experienced drivers, avoid night driving, and allow extra time during the monsoon, when landslides occasionally block the road. Our drivers know the route and stop every couple of hours."}
+    ]
+  },
+  {
+    "slug": "chitwan-national-park-to-lumbini",
+    "from": "chitwan-national-park",
+    "to": "lumbini",
+    "distance_km": 165,
+    "summary": "Chitwan to Lumbini is about 165 km by road from Sauraha, 4.5–5 hours by car via Narayangarh, Butwal and Bhairahawa on the Mahendra Highway. There are no direct flights between Bharatpur and Bhairahawa, so road is the practical choice. Tourist buses and private cars both run the route.",
+    "options": [
+      {"mode": "Private car", "time": "4.5–5 h", "text": "From Sauraha, drive west through Narayangarh, cross the Narayani at Gaindakot and follow the Mahendra Highway through Kawasoti, Sunwal and Butwal, where the hills meet the plain. Turn south to Bhairahawa and west to Lumbini. The road is flat and paved, and a car costs about ₹11,000–14,000 one way. It allows a stop at Barauli or Maula Kalika on the way."},
+      {"mode": "Tourist bus", "time": "5–6 h", "text": "A few tourist buses run between Sauraha and Lumbini each morning, typically leaving around 9 am and reaching Lumbini in the early afternoon. Seats cost roughly NPR 1,000–1,500. They are comfortable and cheap but less flexible than a car, and some stop at Bhairahawa rather than Lumbini, so check the drop point."},
+      {"mode": "Local bus", "time": "6–7 h", "text": "Local buses run frequently from Narayangarh to Butwal and Bhairahawa, where you change for Lumbini, about 22 km further. They are inexpensive but crowded, with many stops. Better for budget travellers with light luggage and time to spare."}
+    ],
+    "stops_on_way": ["Maula Kalika temple at Gaindakot", "Barauli Tharu village near Kawasoti", "Butwal, gateway to Tansen and Palpa", "Bhairahawa and Gautam Buddha International Airport"],
+    "tip": "Leave Chitwan after a dawn safari or bird walk and breakfast, and you will reach Lumbini in time for a sunset visit to the Sacred Garden.",
+    "faqs": [
+      {"q": "How far is Lumbini from Chitwan?", "a": "About 165 km from Sauraha by road, 4.5–5 hours by car via Narayangarh, Butwal and Bhairahawa. From Meghauli or Barauli in west Chitwan it is shorter, about 120–140 km and 3.5–4 hours. The road is mostly flat and paved."},
+      {"q": "Is there a flight from Chitwan to Lumbini?", "a": "No regular flights connect Bharatpur and Bhairahawa. Flying would mean going via Kathmandu, which takes longer than driving. The road journey is straightforward and passes through Terai towns and sal forest."},
+      {"q": "Is there a tourist bus from Sauraha to Lumbini?", "a": "Yes, a few tourist buses run each morning, taking 5–6 hours. Some terminate at Bhairahawa, 22 km from Lumbini, so check before you book. A private car is faster and can stop on the way, and it is good value for a family or small group."},
+      {"q": "Can I stop somewhere between Chitwan and Lumbini?", "a": "Yes. Good stops include the Maula Kalika temple at Gaindakot, the Barauli Tharu homestay near Kawasoti and lunch in Butwal. With an extra night, you could detour north from Butwal to the hill town of Tansen, about 1.5 hours away."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-janakpur",
+    "from": "kathmandu",
+    "to": "janakpur",
+    "distance_km": 230,
+    "summary": "Kathmandu to Janakpur is about 230 km by road via Dhulikhel, the BP Highway through Sindhuli and Bardibas, taking 7–8 hours. The quickest way is a 25-minute flight. Indian pilgrims often arrive instead from Jaynagar in Bihar by train or road.",
+    "options": [
+      {"mode": "Flight", "time": "25 min", "text": "Buddha Air and Shree Airlines fly Kathmandu–Janakpur in about 25 minutes, usually two to four times a day. Janakpur Airport is 2 km from the Janaki Mandir, so you can land and be at the temple within half an hour. It is the best option for seniors and short trips. Winter fog from mid-December to January can delay flights; afternoon departures are more reliable then."},
+      {"mode": "Private car", "time": "7–8 h", "text": "The BP Highway leaves the Arniko Highway at Dhulikhel and winds through the Mahabharat hills via Sindhuli to Bardibas on the Terai, then east to Janakpur, about 230 km. The road is paved and scenic but has many bends, so take car-sickness precautions. A private car costs roughly ₹16,000–19,000 one way. Stop for lunch in Sindhuli."},
+      {"mode": "Bus", "time": "8–10 h", "text": "Day and night buses run from Kathmandu to Janakpur via the BP Highway. Deluxe buses are reasonably comfortable and cheap; night buses save a hotel night but are tiring and not ideal for older travellers. Book through your hotel or the bus park and travel with minimal luggage."},
+      {"mode": "Road via Narayangarh", "time": "10–11 h", "text": "The longer route goes via Mugling, Narayangarh and the Mahendra Highway east through Hetauda and Bardibas, about 380 km. It makes sense only if you are combining Janakpur with Chitwan or Devghat, as on our Devghat and Janakpur yatra."}
+    ],
+    "stops_on_way": ["Dhulikhel viewpoint", "Sindhuli Gadhi fort", "Sindhuli Bazaar for lunch", "Bardibas junction", "Dhanusadham (short detour)"],
+    "tip": "Fly one way and drive the other: the flight saves a day, and the BP Highway shows the Mahabharat hills and Terai villages you would otherwise miss.",
+    "faqs": [
+      {"q": "How long does it take from Kathmandu to Janakpur by road?", "a": "About 7–8 hours for 230 km via Dhulikhel, the BP Highway and Bardibas. The road is paved but winding through the hills. Buses take 8–10 hours. The alternative route via Narayangarh is about 380 km and 10–11 hours, used only when combining with Chitwan."},
+      {"q": "Is there a flight from Kathmandu to Janakpur?", "a": "Yes. Buddha Air and Shree Airlines fly in about 25 minutes, usually several times a day. Fares vary by season and nationality. Fog can delay flights in winter, so keep a buffer before connecting flights. Check current status before you travel."},
+      {"q": "Which is better for Janakpur, flight or road?", "a": "For seniors, families and short trips, the flight saves a full day and a winding drive. Road suits groups, budget travellers and anyone who enjoys scenery. A good compromise is to fly one way and drive the other, stopping at Sindhuli Gadhi on the way."},
+      {"q": "How do I reach Janakpur from India?", "a": "From Bihar, cross at Jaynagar, about 30 km away, by the cross-border train or by road. From Raxaul–Birgunj, Janakpur is about 4–5 hours by road. Many Indian pilgrims combine Janakpur with Sitamarhi, about 50 km away. Indian citizens need a passport or voter ID card."}
+    ]
+  }
+]

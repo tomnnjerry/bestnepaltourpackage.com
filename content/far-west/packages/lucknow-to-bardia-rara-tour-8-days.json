@@ -1,0 +1,86 @@
+{
+  "slug": "lucknow-to-bardia-rara-tour-8-days",
+  "title": "Lucknow to Bardia and Rara Lake Tour 8 Days",
+  "region": "far-west",
+  "type": "tour",
+  "grade": "Moderate",
+  "nights": 7,
+  "themes": ["overland-from-india", "wildlife-safari", "family-holidays", "photography"],
+  "stops": [{"place": "nepalgunj", "nights": 3}, {"place": "bardia-national-park", "nights": 2}, {"place": "rara-lake", "nights": 2}],
+  "start": "Lucknow (hotel or Chaudhary Charan Singh Airport)",
+  "end": "Lucknow",
+  "price_from_inr": 68000,
+  "price_from_usd": 800,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 3630,
+  "accommodation": "Siddhartha Hotel in Nepalgunj, Mango Tree Lodge or similar in Bardia, basic lodge at Rara",
+  "transport": "Private car from Lucknow via Rupaidiha, Nepalgunj–Talcha return flights",
+  "group": "Private, 2–8; families welcome",
+  "meta_description": "Western Nepal tour from Lucknow, 8 days: drive via Rupaidiha to Nepalgunj, 2 nights Bardia tiger safari, fly to Rara Lake for 2 nights. No visa for Indians.",
+  "summary": "An overland Nepal holiday from Lucknow that pairs the jungle and the mountains: drive across the Rupaidiha border to Nepalgunj, spend two nights on safari in Bardia National Park, then fly to Talcha for two nights at Rara Lake, Nepal's largest lake. No visa needed for Indian citizens.",
+  "intro": [
+    "For families in Uttar Pradesh and beyond, western Nepal is closer than most people realise. Lucknow to Nepalgunj is about 190 km, 4–5 hours by car through Bahraich, and the Rupaidiha–Jamunaha crossing is open to Indian citizens with a passport or voter ID. From Nepalgunj, Bardia's tiger forest is under three hours away, and a 45-minute flight lands you at Talcha, a short walk from Rara Lake.",
+    "This tour links the two in a week. Two nights in Bardia give you a full-day jeep safari on the Karnali and a Tharu village evening; two nights at Rara give a sunrise on Murma Top and a walk around the lake at nearly 3,000 m. Nepalgunj nights between them keep the logistics simple and give a hotel pool in the heat. The Rara section depends on mountain flights, so we hold a spare afternoon in the plan."
+  ],
+  "highlights": [
+    "Overland from Lucknow via the Rupaidiha border, no visa for Indians",
+    "Full-day jeep safari for tigers in Bardia National Park",
+    "Small-plane flight to Talcha and two nights at Rara Lake",
+    "Murma Top sunrise over Nepal's largest lake",
+    "Bageshwari Temple and tonga ride in Nepalgunj"
+  ],
+  "days": [
+    {"day": 1, "title": "Lucknow to Nepalgunj via Rupaidiha", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 150, "walk": "", "drive": "≈ 190 km · 4–5 h", "flight": "", "text": "Pick-up from your Lucknow hotel or the airport after breakfast. Drive through Barabanki and Bahraich to Rupaidiha on the border, where your Nepali guide meets you and helps with the short formalities at Jamunaha. Indian vehicles need a Nepal customs permit, so most groups switch to a Nepali car here. Check in at Siddhartha Hotel in Nepalgunj. In the evening visit the Bageshwari Temple and its pond.", "meals": "D"},
+    {"day": 2, "title": "Nepalgunj to Bardia, afternoon walk", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "≈ 1.5 h · 4 km", "drive": "≈ 95 km · 2.5–3 h", "flight": "", "text": "Drive east through Kohalpur and the forest of Banke National Park, then north from Ambassa to Thakurdwara at the edge of Bardia. After lunch at the lodge, visit the gharial and crocodile breeding centre at the park headquarters and walk through Tharu villages, where mud-walled houses are painted with patterns and grain is stored in tall clay bins. Evening Tharu stick dance.", "meals": "B, L, D"},
+    {"day": 3, "title": "Full-day jeep safari in Bardia", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "", "drive": "≈ 60–80 km in the park · 8–9 h", "flight": "", "text": "An early start in an open jeep with a naturalist to the grasslands and river channels on the Karnali side of the park. Long, quiet waits at crossings give the best tiger chances; on the way you will see deer, langurs, wild boar, peafowl and raptors, and on many days rhinos or wild elephants. Packed lunch at a riverside watchtower. Families with young children can choose a half-day drive and an afternoon at the lodge.", "meals": "B, L, D"},
+    {"day": 4, "title": "Bardia to Nepalgunj, tonga ride", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 180, "walk": "≈ 1 h · 2 km", "drive": "≈ 95 km · 2.5–3 h", "flight": "", "text": "A short morning birding walk in the buffer zone, then drive back to Nepalgunj for lunch. Rest by the hotel pool through the afternoon heat. In the late afternoon take a horse-drawn tonga through the old bazaar, stopping for lassi, sweets or kebabs near the mosques. Early dinner and a briefing on tomorrow's Rara flight: 15 kg baggage, warm clothes in your daypack, and extra bags left at the hotel.", "meals": "B, D"},
+    {"day": 5, "title": "Fly to Talcha, walk to Rara Lake", "place": "rara-lake", "overnight": "Rara Lake", "altitude_m": 2990, "max_m": 3000, "walk": "≈ 1.5–2 h · 4–5 km", "drive": "", "flight": "Nepalgunj–Talcha · ≈ 45 min", "text": "Morning flight in a small plane over the Siwalik and Mahabharat ranges into the Karnali hills, landing at Talcha at about 2,700 m. Walk 1.5–2 hours through fields and blue pine to the national park and the shore of Rara Lake, about 300 m higher. After lunch at the lodge, a gentle stroll along the south-east shore. Rest well; you have gone from the plains to almost 3,000 m in one morning.", "meals": "B, L, D"},
+    {"day": 6, "title": "Murma Top and Rara lake circuit", "place": "rara-lake", "overnight": "Rara Lake", "altitude_m": 2990, "max_m": 3630, "walk": "≈ 7–8 h · 18 km", "drive": "", "flight": "", "text": "Optional pre-dawn climb to Murma Top, about 3,630 m, for sunrise over the whole lake and the Kanjiroba and Saipal ranges. After breakfast, walk the 13 km shore path clockwise through pine, spruce and juniper, past meadows and the Thakur Baba temple, with lunch on the north shore. Children and less active members can walk half the circuit and return, or rest by the water.", "meals": "B, L, D"},
+    {"day": 7, "title": "Walk to Talcha, fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 2990, "walk": "≈ 1.5 h · 4–5 km", "drive": "≈ 10 km · 20 min", "flight": "Talcha–Nepalgunj · ≈ 45 min", "text": "Early walk down to Talcha for the morning flight back to Nepalgunj. Back at the hotel by midday if the plane is on time, with the afternoon free to rest or shop for Nepali tea and handicrafts. If weather delays the flight, this afternoon is our buffer; we stay in touch with the airline and keep your Nepalgunj room ready. Farewell dinner.", "meals": "B, D"},
+    {"day": 8, "title": "Drive Nepalgunj to Lucknow", "place": "", "overnight": "", "altitude_m": 120, "max_m": 150, "walk": "", "drive": "≈ 190 km · 4–5 h", "flight": "", "text": "After breakfast, drive to the Rupaidiha border and on through Bahraich to Lucknow, arriving by mid-afternoon for your train, flight or onward journey. If you would rather fly from Nepalgunj to Kathmandu and add a few nights in the Kathmandu Valley or Pokhara, we can adjust the last day.", "meals": "B"}
+  ],
+  "stays": ["siddhartha-hotel-nepalgunj", "mango-tree-lodge-bardia"],
+  "includes": [
+    "3 nights at Siddhartha Hotel Nepalgunj with breakfast and dinner",
+    "2 nights at Mango Tree Lodge or similar in Bardia with all meals",
+    "2 nights in a lodge or homestay at Rara with all meals",
+    "Private car Lucknow–Nepalgunj–Bardia–Nepalgunj–Lucknow",
+    "Return flights Nepalgunj–Talcha",
+    "Full-day jeep safari in Bardia with naturalist",
+    "Bardia and Rara national park entry fees",
+    "Hindi- and English-speaking guide in Nepal",
+    "Tonga ride and temple visit in Nepalgunj"
+  ],
+  "excludes": [
+    "Train or flights to Lucknow",
+    "Lunches in Nepalgunj",
+    "Excess baggage over 15 kg on the Talcha flight",
+    "Extra nights caused by flight cancellations beyond the built-in buffer",
+    "Drinks, snacks and bottled water",
+    "Tips for guides, drivers and porters",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Price assumes Indian nationals, two to four people sharing a car and twin rooms, with SAARC park fees; foreign nationals pay more for fees and flights.",
+    "Indian citizens need a valid passport or voter ID; children need a school ID or birth certificate.",
+    "Rooms at Rara are basic, with shared toilets and cold nights; bring warm clothes and a sleeping bag.",
+    "Talcha flights depend on weather; day 7 afternoon and day 8 can absorb a one-day delay.",
+    "Carry Nepali rupees or small Indian notes; Indian notes above ₹100 are not accepted in Nepal.",
+    "Border rules, fares and park fees change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Extra Bardia night with walking safari", "price": "≈ ₹9,000 per person"},
+    {"name": "Karnali river float for dolphins", "price": "≈ ₹7,000 per person"}
+  ],
+  "faqs": [
+    {"q": "Do Indians need a visa or passport for this Nepal tour?", "a": "No visa is needed for Indian citizens. Carry a valid Indian passport or Election Commission voter ID. Children under 15 can use a school ID or birth certificate with a parent; those 15–18 may need an ID card from their school principal. Rules change, so check current status before you travel."},
+    {"q": "Can I take my own car from Lucknow into Nepal?", "a": "Yes, Indian private cars can enter with a temporary customs permit (bhansar) at the border, paid per day. However, mountain roads and Nepal driving rules make a Nepali car and driver easier and safer, especially for Bardia. Most families leave their car in Nepalgunj or travel with our vehicle throughout."},
+    {"q": "How much does a Nepal tour from Lucknow cost?", "a": "This 8-day Bardia and Rara tour starts from about ₹68,000 per person, twin sharing, for Indian nationals, including car from Lucknow, hotels, lodges, Talcha flights, safari and park fees. A shorter Bardia-only trip costs from about ₹22,000 from Nepalgunj plus the Lucknow transfer."},
+    {"q": "Is this tour suitable for families with children?", "a": "Yes, for children around eight and older who can manage a short mountain walk and simple lodges at Rara. Jeep safaris, temple visits and tonga rides are family-friendly. The Murma Top sunrise climb is optional. Avoid May for very young children because of the heat in Bardia and Nepalgunj."},
+    {"q": "What is the best time for a Bardia and Rara combined trip?", "a": "October–November and April–May. October and November give clear mountain views at Rara and comfortable safari weather. April and May give the best tiger chances in Bardia and spring flowers at Rara, but Bardia is hot. Avoid June to September, when rain closes Bardia and disrupts Talcha flights."},
+    {"q": "Can I pay in Indian rupees in Nepal?", "a": "Indian rupee notes of ₹100 and below are widely accepted in western Nepal, especially near the border, but larger notes are not legal tender. Carry Nepali rupees for Rara, where cash is the only option. Our package price can be paid in Indian rupees before you travel."},
+    {"q": "How long is the drive from Lucknow to Nepalgunj?", "a": "About 190 km, 4–5 hours, via Barabanki and Bahraich to Rupaidiha, plus 15–30 minutes for border formalities. Roads on the Indian side have improved, but allow extra time around market days and festivals. Starting early from Lucknow lets you reach Nepalgunj by lunchtime."},
+    {"q": "Is food at Rara and Bardia vegetarian-friendly?", "a": "Yes. Lodges in Bardia serve Nepali and Indian vegetarian dishes alongside meat. At Rara, dal bhat, vegetables, potatoes, noodles and eggs are standard, and pure vegetarian meals are easy. Jain food can be arranged with notice, though choice is limited in the mountains."},
+    {"q": "What if the flight to Rara is cancelled?", "a": "If the outbound flight on day 5 is cancelled, we fly the next day and shorten the Rara stay, or replace Rara with extra Bardia nights if weather stays poor. If the return is delayed, day 8 can absorb it. Additional hotel nights beyond the plan are charged at cost."}
+  ]
+}

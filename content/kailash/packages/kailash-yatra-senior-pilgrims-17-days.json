@@ -1,0 +1,103 @@
+{
+  "slug": "kailash-yatra-senior-pilgrims-17-days",
+  "title": "Kailash Yatra for Senior Pilgrims, 17 Days",
+  "region": "kailash",
+  "type": "yatra",
+  "grade": "Challenging",
+  "nights": 16,
+  "themes": ["kailash-yatra", "pilgrimage", "overland-from-india", "family-holidays"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "kyirong", "nights": 4},
+    {"place": "saga", "nights": 3},
+    {"place": "lake-manasarovar", "nights": 2},
+    {"place": "darchen", "nights": 2},
+    {"place": "mount-kailash", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 245000,
+  "price_from_usd": 2850,
+  "best_months": [0, 0, 0, 0, 2, 2, 0, 0, 2, 1, 0, 0],
+  "max_altitude_m": 5630,
+  "accommodation": "3-star hotel in Kathmandu, hotels in Kyirong and Saga, guesthouses at Manasarovar, Darchen and on the parikrama",
+  "transport": "Private coach in Nepal, Tibetan agency coach with fewer passengers per vehicle, eco-buses",
+  "group": "Small groups of 8–16 with an extra staff member",
+  "meta_description": "Kailash yatra for senior pilgrims, 17 days via Kerung: extra acclimatisation nights, pony and porter guidance, Darchen option for non-walkers, fitness and age rules.",
+  "summary": "A slower overland yatra for pilgrims in their late 50s and 60s: three nights in Kyirong, two in Saga before the lake, a rest day in Darchen and a night there after the kora, with pony and porter guidance and an extra staff member. 17 days, from ₹2,45,000. Kerung crossing status must be checked before you travel.",
+  "intro": [
+    "Most Kailash itineraries are built around the fittest pilgrims in a group. This one is built around the parents and grandparents. It follows the overland route through Kyirong but adds three acclimatisation nights that the standard 14-day yatra leaves out: a third night in Kyirong, a second night in Saga before the long drive west, and a night in Darchen after the parikrama instead of the punishing drive to Saga on the same day. Drives are kept to daylight, with frequent stops.",
+    "Every group carries an extra staff member so that pilgrims who stay in Darchen during the kora are looked after while the others walk, and our leader arranges ponies, porters and, where needed, a personal attendant through the Darchen cooperative. Recent rules on the Nepal routes have set an age limit around 70, with medical certificates required, and the Rasuwagadhi crossing was closed by floods in August 2026. Check current status before you travel."
+  ],
+  "highlights": [
+    "Three nights in green Kyirong before the plateau",
+    "Two nights in Saga to adapt at about 4,640 m",
+    "Pony and porter booked in advance for every walker",
+    "Darchen stay with staff for pilgrims not walking the kora",
+    "Night in Darchen after the parikrama, no same-day long drive",
+    "Smaller groups and more space in each vehicle"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Our team meets you at the airport with wheelchair assistance if requested and drives you to a 3-star hotel with lifts. A relaxed afternoon, then a welcome dinner where the leader explains the pace of the yatra, the medical checks we will run each day and how ponies and porters work. We collect medical certificates and a list of each pilgrim's regular medicines.", "meals": "Dinner"},
+    {"day": 2, "title": "Pashupatinath and health check", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "City transfers", "flight": "", "text": "Morning darshan at Pashupatinath and Budhanilkantha, with plenty of time and no rushing. In the afternoon, the group leader checks blood pressure and oxygen saturation for each pilgrim to set a baseline, and reviews medicines, warm clothing and footwear. We issue down jackets and duffels and complete any document formalities required that season.", "meals": "B, L, D"},
+    {"day": 3, "title": "Drive to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 2000, "walk": "", "drive": "≈ 122 km · 7–8 h with breaks", "flight": "", "text": "An unhurried drive north via Trishuli and Dhunche to Syabrubesi at about 1,460 m, with tea and toilet stops every 90 minutes or so. The road is winding, so pilgrims prone to motion sickness should take medicine beforehand and sit near the front. Overnight in a simple hotel close to the border road.", "meals": "B, L, D"},
+    {"day": 4, "title": "Border crossing to Kyirong", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 2700, "walk": "Bridge crossing on foot, assistance available", "drive": "≈ 41 km · 2 h + border 2–4 h", "flight": "", "text": "A short drive to Rasuwagadhi. Staff carry bags and help pilgrims across the bridge, through Chinese immigration and baggage scanning, which can take several hours; chairs and water are arranged where possible. Then 25 km to Kyirong at about 2,700 m for lunch and rest. Check current status of the crossing before you travel.", "meals": "B, L, D"},
+    {"day": 5, "title": "Rest day in Kyirong", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 2850, "walk": "≈ 1–2 h gentle walk", "drive": "", "flight": "", "text": "A full rest day. In the morning, a gentle walk of an hour or two along the valley, gaining 100–150 m at a slow pace, with seats at viewpoints. The afternoon is for rest and a hot shower. The leader checks oxygen saturation and blood pressure morning and evening.", "meals": "B, L, D"},
+    {"day": 6, "title": "Second rest day in Kyirong", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 2850, "walk": "≈ 1 h town walk", "drive": "", "flight": "", "text": "The extra day that sets this yatra apart. A slow walk in Kyirong town, time for prayers and rest, and a short group meeting on what to expect at Saga and the lake. Every additional night at moderate altitude reduces the risk of altitude sickness higher up, and older bodies benefit most.", "meals": "B, L, D"},
+    {"day": 7, "title": "Kyirong to Saga", "place": "saga", "overnight": "Saga", "altitude_m": 4640, "max_m": 5200, "walk": "", "drive": "≈ 250 km · 6–7 h with stops", "flight": "", "text": "The road climbs past Gyirong county town over passes above 5,000 m and along Pelku Tso, with Shishapangma to the south. We stop often, keep windows slightly open and give oxygen in the vehicle to anyone who needs it. Arrival in Saga at about 4,640 m by mid-afternoon; light dinner and early bed.", "meals": "B, L, D"},
+    {"day": 8, "title": "Acclimatisation day in Saga", "place": "saga", "overnight": "Saga", "altitude_m": 4640, "max_m": 4700, "walk": "≈ 30–60 min easy walk", "drive": "Optional short drive to the Yarlung Tsangpo", "flight": "", "text": "A second night in Saga lets the body adapt before the long day west. Light activity only: a short walk on the main street or a drive to see the Yarlung Tsangpo, the upper Brahmaputra. Drink 3–4 litres of fluids and rest. Anyone with worrying symptoms is assessed by the leader and, if needed, taken back down to Kyirong.", "meals": "B, L, D"},
+    {"day": 9, "title": "Saga to Lake Manasarovar", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 5200, "walk": "", "drive": "≈ 480 km · 9–10 h with stops", "flight": "", "text": "A long day west via Zhongba and Paryang over the Mayum La at roughly 5,200 m, with regular breaks, hot lunch at a roadside restaurant and oxygen available in the vehicle. In the late afternoon, Lake Manasarovar appears with Gurla Mandhata behind. Overnight at Chiu.", "meals": "B, L, D"},
+    {"day": 10, "title": "Lake parikrama, dip and puja", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 90–100 km lake circuit · 4–5 h", "flight": "", "text": "The bus parikrama of the lake with stops at ghats. Seniors take a short, symbolic snan with lake water poured over the head rather than entering the cold water, especially anyone with heart or blood pressure conditions. Our pandit leads puja and havan facing Kailash. Long afternoon rest at Chiu.", "meals": "B, L, D"},
+    {"day": 11, "title": "Darchen and Ashtapad darshan", "place": "darchen", "overnight": "Darchen", "altitude_m": 4575, "max_m": 4700, "walk": "Short walks", "drive": "≈ 35 km + optional Ashtapad trip", "flight": "", "text": "Drive to Darchen at the foot of Kailash. The leader confirms ponies, horsemen and porters for each walker, and decides with every pilgrim, based on oxygen readings and how they feel, whether to walk the parikrama, ride, or stay in Darchen. Optional Ashtapad darshan in the afternoon for close views of the south face.", "meals": "B, L, D"},
+    {"day": 12, "title": "Parikrama day 1 to Dirapuk by pony", "place": "mount-kailash", "overnight": "Dirapuk", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 12 km on foot or pony · 5–7 h", "drive": "Eco-bus to Yam Dwar · 20 min", "flight": "", "text": "Walkers and riders pass through Yam Dwar and follow the Lha Chu valley about 12 km to Dirapuk at about 4,900 m, with a staff member walking with the slowest pilgrim. Most seniors ride for part of the day. Pilgrims staying behind remain in Darchen with our extra staff member, and can visit Tarboche or rest.", "meals": "B, L, D"},
+    {"day": 13, "title": "Dolma La by pony to Zuthulpuk", "place": "mount-kailash", "overnight": "Zuthulpuk", "altitude_m": 4790, "max_m": 5630, "walk": "≈ 20–22 km, partly on pony · 10–12 h", "drive": "", "flight": "", "text": "A very early start. Riders cover most of the climb to the Dolma La at approximately 5,630 m on horseback, dismounting on the steepest rocks, and must walk the first steep descent with a staff member and the horseman supporting them. Oxygen is carried on the trail. Anyone who feels unwell at Dirapuk is escorted back to Darchen rather than continuing.", "meals": "B, L, D"},
+    {"day": 14, "title": "Parikrama day 3, night in Darchen", "place": "darchen", "overnight": "Darchen", "altitude_m": 4575, "max_m": 4790, "walk": "≈ 9–10 km · 3–4 h", "drive": "Eco-bus Zongdo–Darchen", "flight": "", "text": "Visit Milarepa's cave, then an easy walk or ride down to Zongdo and the eco-bus to Darchen, where the group reunites. Instead of the long same-day drive used on faster itineraries, we spend the night in Darchen: lunch, a long rest and a quiet celebration. This single change makes the end of the yatra far kinder.", "meals": "B, L, D"},
+    {"day": 15, "title": "Darchen to Saga", "place": "saga", "overnight": "Saga", "altitude_m": 4640, "max_m": 5200, "walk": "", "drive": "≈ 520 km · 9–10 h with stops", "flight": "", "text": "A long drive east over the Mayum La and across the plateau to Saga, with regular breaks and a hot lunch on the way. Most pilgrims doze, look out at nomad camps and talk over the parikrama. Heated rooms and showers in Saga tonight.", "meals": "B, L, D"},
+    {"day": 16, "title": "Saga to Kyirong", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 5200, "walk": "", "drive": "≈ 250 km · 6 h", "flight": "", "text": "Back past Pelku Tso and down into the green Kyirong valley, losing almost 2,000 m. Appetite and sleep return. Farewell dinner with the Tibetan crew, who are usually tipped this evening.", "meals": "B, L, D"},
+    {"day": 17, "title": "Kyirong to Kathmandu, tour ends", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2700, "walk": "Bridge crossing on foot", "drive": "≈ 165 km · 8–9 h + border", "flight": "", "text": "Early start for the border, assisted crossing at Rasuwagadhi and the drive via Syabrubesi and Trishuli to Kathmandu, arriving in the evening. The tour ends at your Kathmandu hotel or the airport. We strongly recommend an extra night in Kathmandu before flying home; we can book it at cost.", "meals": "B, L"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers with wheelchair assistance on request and 2 nights in a 3-star hotel in Kathmandu",
+    "Chinese group visa processing support and Tibet Travel Permit with all area permits",
+    "All ground transport, with no more than about two-thirds of coach seats filled",
+    "Hotels in Kyirong and Saga, guesthouses at Manasarovar, Darchen, Dirapuk and Zuthulpuk",
+    "All meals, Indian vegetarian cooked by our crew in Tibet, soft diet on request",
+    "Nepali tour leader, licensed Tibetan guide and one extra staff member per group",
+    "Daily oxygen saturation and blood pressure checks, oxygen cylinders and first-aid kit",
+    "Advance booking of ponies and porters through the Darchen cooperative",
+    "Down jacket and duffel bag on loan"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Chinese visa fees and nationality-specific surcharges",
+    "Pony, horseman and porter hire charges",
+    "Travel insurance with high-altitude evacuation cover (mandatory, check age limits on your policy)",
+    "Extra nights caused by border closures, landslides or illness",
+    "Final extra night in Kathmandu (recommended)",
+    "Tips, drinks and personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing and a group of at least 8; single rooms are not available on most Tibet nights.",
+    "An age limit of around 70 years, a medical fitness certificate and in some seasons further checks have applied on the Nepal routes. These are guidance only and change; check current status before you travel.",
+    "Pilgrims with uncontrolled blood pressure, heart disease, lung disease, recent surgery or severe anaemia should not travel; our medical checklist lists tests to discuss with your doctor.",
+    "The Rasuwagadhi–Kyirong crossing was destroyed by a flood on 26 August 2026. If it remains closed, we offer this senior itinerary via Lhasa or Simikot with equivalent extra rest days. Check current status before you travel.",
+    "Rules for Indian passport holders, including visa processing in New Delhi and biometrics, have changed several times since 2023."
+  ],
+  "add_ons": [
+    {"name": "Pony and horseman for the 3-day parikrama", "price": "≈ US$ 450–550, set locally each season"},
+    {"name": "Personal porter-attendant for the parikrama", "price": "≈ US$ 200–280, set locally each season"},
+    {"name": "Extra night in Kathmandu at the end", "price": "≈ ₹5,000 per room"}
+  ],
+  "faqs": [
+    {"q": "What is the age limit for Kailash yatra via Nepal?", "a": "In recent seasons the Nepal routes have applied an age limit of around 70 years, with exceptions or extra conditions in some years. The official Government of India yatra uses 18–70. These limits change, so treat them as guidance and check current status before you travel."},
+    {"q": "Can a 65-year-old do the Kailash parikrama?", "a": "Many pilgrims in their 60s complete it, usually riding a pony for much of days one and two. What matters is heart and lung health, blood pressure control and walking fitness. Get a full check-up, start walking daily months ahead, and be ready to stay in Darchen if your body says no."},
+    {"q": "Is a pony safe for senior pilgrims on Dolma La?", "a": "Ponies are led by experienced horsemen and are the usual way seniors complete the parikrama, but riders must dismount on the steepest rocky sections, especially the first descent below Dolma La. A staff member walks with each rider there. Hold on firmly and follow the horseman's instructions."},
+    {"q": "What if a senior cannot continue the parikrama?", "a": "The pilgrim returns to Darchen with a staff member, by pony and eco-bus, and waits there with our extra staff until the group returns. Turning back early is sensible, not a failure. In an emergency, the Tibetan guide arranges vehicle evacuation to Purang or beyond."},
+    {"q": "Why is this senior yatra longer than the standard one?", "a": "It adds three nights: an extra night in Kyirong, a second night in Saga before the lake, and a night in Darchen after the kora instead of a long same-day drive. These spread the altitude gain and reduce fatigue, which matters more with age."},
+    {"q": "What medical tests should seniors do before Kailash yatra?", "a": "Discuss with your doctor: ECG and, if advised, a stress test; blood pressure and blood sugar control; lung function if you have any breathing condition; haemoglobin; and BMI. Bring a fitness certificate. Our fitness and medical checklist guide lists them in detail."},
+    {"q": "Is the food suitable for older pilgrims?", "a": "Yes. Our crew cooks Indian vegetarian meals, and we can provide soft or low-salt food, khichdi and daliya on request. Tell us about diabetes or other dietary needs when booking. Carry your own regular snacks and medicines in hand luggage."},
+    {"q": "Can a senior parent travel with a family member who does the full kora?", "a": "Yes, that is common. The family member walks the parikrama while the parent stays in Darchen with our extra staff member, joining for the Mansarovar parikrama and Ashtapad darshan. You share rooms on all other nights."},
+    {"q": "Is this senior yatra available if the Kerung border is closed?", "a": "Yes, in modified form. We run the same slower pace via Lhasa, with three nights there before heading west, or via Simikot and Hilsa with an extra night in Purang. Prices differ. Check current status before you travel and we will advise the best route."}
+  ]
+}

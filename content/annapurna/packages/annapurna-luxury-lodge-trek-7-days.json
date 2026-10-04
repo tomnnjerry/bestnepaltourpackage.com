@@ -1,0 +1,201 @@
+{
+  "slug": "annapurna-luxury-lodge-trek-7-days",
+  "title": "Annapurna Luxury Lodge Trek 7 Days",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["luxury-nepal", "trekking", "honeymoon", "family-holidays"],
+  "stops": [
+    {"place": "pokhara", "nights": 1},
+    {"place": "landruk", "nights": 1},
+    {"place": "ghandruk", "nights": 2}
+  ],
+  "start": "Pokhara (hotel or airport pick-up)",
+  "end": "Pokhara",
+  "price_from_inr": 188000,
+  "price_from_usd": 2190,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 2100,
+  "accommodation": "4-star lakeside hotel in Pokhara, Ker & Downey Nepal mountain lodges on the trail",
+  "transport": "Private car transfers in and around Pokhara",
+  "group": "Private, 2–8",
+  "meta_description": "Annapurna luxury lodge trek in 7 days from Pokhara: Dhampus, Landruk, two nights in Ghandruk and Birethanti, with private bathrooms and half-day walks.",
+  "summary": "A slow, comfortable week in the Annapurna foothills: half-day walks of 2–5 hours between Ker & Downey Nepal's mountain lodges at Dhampus, Landruk, Ghandruk and Birethanti, each with private bathrooms and hot water, never going above 2,100 m. For couples, families and older travellers who want the views without the teahouse basics.",
+  "intro": [
+    "This trek trades altitude for comfort and time. Instead of racing towards a base camp, you walk for a few hours each day between Gurung villages, arriving at a lodge in time for lunch, a hot shower and an afternoon on the terrace watching Annapurna South, Hiunchuli and Machhapuchhre change colour. The lodges are operated by Ker & Downey Nepal and sit at Dhampus, Landruk, Ghandruk and near Birethanti, each about half a day's walk from the next.",
+    "The route is gentle by Nepal standards. The highest point is the Bhichok Deurali ridge at about 2,100 m, and the longest day is about 5 hours with plenty of stops. There is a full free day in Ghandruk for the Gurung museum, village lanes and an optional dawn hike. Porters carry your luggage between lodges, and a licensed guide stays with you throughout. Lodge operation and room availability vary by season, so we confirm every night before we confirm your booking."
+  ],
+  "highlights": [
+    "Private bathrooms and hot water in every lodge on the trail",
+    "Half-day walks of 2–5 hours with afternoons free",
+    "A free day in Ghandruk with the Gurung museum and village lanes",
+    "Views across the Modi Khola gorge from La Bee Lodge in Landruk",
+    "Machhapuchhre and Annapurna South from Himalaya Lodge",
+    "No nights above 2,100 m, so altitude is not a concern"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "Airport transfer",
+      "flight": "",
+      "text": "We meet you at Pokhara airport and drive you to a 4-star hotel near Phewa Lake. In the afternoon, your guide joins you for tea to explain the route and the lodges, and to check what you will carry in your daypack: water, sunscreen, a light fleece and a rain jacket. Everything else travels with the porters. In the evening, take a boat across the lake or walk along Lakeside as the light fades on Machhapuchhre, the mountain you will see every day of the trek.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Drive to Phedi, walk up to Dhampus",
+      "place": "",
+      "overnight": "Dhampus",
+      "altitude_m": 1650,
+      "max_m": 1650,
+      "walk": "≈ 2–3 h · 4 km",
+      "drive": "≈ 20 km · 30 min",
+      "flight": "",
+      "text": "A 30-minute drive takes us west to Phedi on the Baglung road. From here a stone staircase climbs through farmland and small forests, gaining about 500 m to Dhampus, a scattered village of Gurung and Brahmin houses on a ridge at around 1,650 m. We arrive by lunchtime at Ker & Downey's Basanta Lodge, which looks north over the Mardi and Phedi valleys to the Annapurna range. The afternoon is free for a village walk or simply sitting on the terrace with a book.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Dhampus over the ridge to Landruk",
+      "place": "landruk",
+      "overnight": "Landruk",
+      "altitude_m": 1565,
+      "max_m": 2100,
+      "walk": "≈ 5 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "Today is the longest walk. The trail climbs gently through rhododendron forest past Pothana to the Bhichok Deurali ridge at about 2,100 m, where Annapurna South and Hiunchuli fill the skyline. We descend through Tolka, a quiet village of terraces, and continue to Landruk at about 1,640 m on the east side of the Modi Khola. La Bee Lodge sits at the edge of the village, looking straight across the gorge to the slate roofs of Ghandruk. Lunch is taken on the trail.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Landruk across the gorge to Ghandruk",
+      "place": "ghandruk",
+      "overnight": "Ghandruk",
+      "altitude_m": 2000,
+      "max_m": 2000,
+      "walk": "≈ 4 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "We drop through terraced fields to the Modi Khola, cross a long suspension bridge high above the river, and climb steadily up the far slope to Ghandruk, one of the largest Gurung villages in Nepal. The climb gains about 700 m on stone steps and paths, so we take it slowly. Himalaya Lodge stands just above the village at about 2,000 m, facing Annapurna South, Hiunchuli and Machhapuchhre across the valley. Arrive for a late lunch and watch the sunset from the terrace.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Free day in Ghandruk",
+      "place": "ghandruk",
+      "overnight": "Ghandruk",
+      "altitude_m": 2000,
+      "max_m": 2100,
+      "walk": "≈ 2–3 h optional",
+      "drive": "",
+      "flight": "",
+      "text": "A day with no luggage and no schedule. Early risers can hike 1–1.5 hours up the trail above the village for a wider view of the Annapurnas at dawn, returning for breakfast. Later, walk through Ghandruk's stone lanes with your guide, visit the Gurung museum and its displays of costumes and farming tools, and stop at the ACAP visitor office to learn about conservation projects. Many families here have served in the Gurkha regiments, and older residents are often happy to talk.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Ghandruk down to Birethanti",
+      "place": "",
+      "overnight": "Birethanti",
+      "altitude_m": 1025,
+      "max_m": 2000,
+      "walk": "≈ 4–5 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "We descend from Ghandruk through Kimche and terraced hillsides to Syauli Bazaar on the Modi Khola, then follow the river downstream past small waterfalls and rice terraces to Birethanti at 1,025 m. The trail loses about 1,000 m, mostly on stone steps, so walking poles help. Our last lodge is Ker & Downey's Sanctuary Lodge near Birethanti, set on a riverside promenade with gardens. After a week in the hills, the evening by the river is warm and quiet.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "Walk to Nayapul, drive to Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "altitude_m": 822,
+      "max_m": 1070,
+      "walk": "≈ 20 min",
+      "drive": "≈ 42 km · 1.5 h",
+      "flight": "",
+      "text": "After a slow breakfast, a short walk brings us to the road at Nayapul, 1,070 m, where our car waits. The drive back to Pokhara takes about 1.5 hours along the Baglung highway, with a final view of the Annapurnas if the sky is clear. We can drop you at the airport for an afternoon flight to Kathmandu, at your Pokhara hotel, or arrange an onward transfer to Chitwan or another part of Nepal.",
+      "meals": "B"
+    }
+  ],
+  "stays": ["ker-downey-la-bee-lodge", "ker-downey-himalaya-lodge"],
+  "includes": [
+    "Airport and hotel transfers in Pokhara",
+    "1 night 4-star lakeside hotel in Pokhara with breakfast",
+    "5 nights in Ker & Downey Nepal mountain lodges (Dhampus, Landruk, Ghandruk 2 nights, Birethanti)",
+    "All meals on the trail",
+    "Licensed English-speaking guide throughout",
+    "Porters to carry your luggage between lodges",
+    "ACAP entry permit and any trekking registration currently required",
+    "Private car Pokhara–Phedi and Nayapul–Pokhara",
+    "First-aid kit carried by the guide"
+  ],
+  "excludes": [
+    "Flights to and from Pokhara",
+    "Lunch and dinner in Pokhara",
+    "Travel insurance",
+    "Drinks, alcohol and laundry at the lodges",
+    "Gurung museum entry and donations",
+    "Tips for guide, porters and lodge staff",
+    "Extra nights or changes due to weather or illness"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 travellers in Ker & Downey Nepal lodges and a 4-star Pokhara hotel; single supplements apply.",
+    "Lodge opening dates and room availability vary by season; we confirm each lodge with the operator before confirming your trip, and substitute the best available lodge if one is closed. Check current status before you travel.",
+    "The ACAP permit (NPR 3,000 foreigners, NPR 1,000 SAARC including Indians) and a licensed guide, required for foreign trekkers since 2023, are included; check current status before you travel.",
+    "Walks include many stone steps; the climb from the Modi Khola to Ghandruk gains about 700 m. Good knees and steady footing help.",
+    "Lodges offer private bathrooms with hot water; mobile signal and Wi-Fi are available but can be slow."
+  ],
+  "add_ons": [
+    {"name": "Extra night at Himalaya Lodge, Ghandruk", "price": "On request"},
+    {"name": "Kathmandu–Pokhara flights", "price": "≈ US$ 100–130 one way"},
+    {"name": "Sunrise helicopter flight from Pokhara to ABC", "price": "≈ US$ 650 per seat, shared"}
+  ],
+  "faqs": [
+    {
+      "q": "Is there luxury accommodation on Annapurna treks?",
+      "a": "Yes, in the lower foothills. Ker & Downey Nepal operates mountain lodges at Dhampus, Landruk, Ghandruk and near Birethanti, with private bathrooms, hot water and good food. Higher trails such as ABC and the circuit have only teahouses, though some offer attached bathrooms. This 7-day trek uses the foothill lodges for every trail night."
+    },
+    {
+      "q": "How much does the Annapurna luxury lodge trek cost?",
+      "a": "Our 7-day package starts from about ₹1,88,000 or US$2,190 per person on twin sharing, including lodges, a 4-star Pokhara hotel, all trail meals, guide, porters, permits and transfers. Prices vary with season and lodge availability. Single travellers pay a supplement for a private room."
+    },
+    {
+      "q": "Is the luxury lodge trek suitable for honeymooners?",
+      "a": "Yes. Short walking days, private rooms, hot showers, mountain views and quiet afternoons make it a popular choice for couples. There is no altitude stress and plenty of free time. We can add a special dinner, extra nights in Ghandruk or a stay at a lakeside resort in Pokhara for a longer honeymoon."
+    },
+    {
+      "q": "How fit do I need to be for the lodge trek?",
+      "a": "Moderate fitness is enough. Walks last 2–5 hours with many breaks, and the highest point is about 2,100 m. The most demanding stretch is the climb from the Modi Khola to Ghandruk, about 700 m on stone steps. If you can walk 3–4 hours on hilly ground comfortably, you will enjoy this trek."
+    },
+    {
+      "q": "Can children and seniors join this lodge trek?",
+      "a": "Yes. It is one of our best options for multi-generation families. Children aged 7 and over usually manage the walks, and active seniors appreciate the short days and comfortable rooms. Porters carry all luggage. If needed, we can shorten days with vehicle sections where roads now reach the villages."
+    },
+    {
+      "q": "What are Ker & Downey lodges like?",
+      "a": "They are small mountain lodges built in local style, each with a limited number of rooms, private bathrooms with hot water and a dining room serving set meals. They sit at Dhampus, Landruk, Ghandruk and Birethanti, each a half-day walk apart. Exact facilities and opening dates vary, so we confirm details when booking."
+    },
+    {
+      "q": "What is the best season for the Annapurna lodge trek?",
+      "a": "October to December offers the clearest mountain views and mild days. March and April bring rhododendrons in bloom and warm weather, with more afternoon haze. January and February are cool but often clear. June to September is monsoon, with rain, leeches and cloud, and some lodges reduce operations."
+    },
+    {
+      "q": "Will I get altitude sickness on this trek?",
+      "a": "It is very unlikely. The highest sleeping point is about 2,000 m in Ghandruk, and the highest point on the trail is about 2,100 m, below the level where altitude sickness is common. You may feel short of breath on steep climbs, which is normal. Walk at your own pace and drink plenty of water."
+    },
+    {
+      "q": "Can I add a helicopter flight to the lodge trek?",
+      "a": "Yes. A sunrise helicopter flight from Pokhara to Annapurna Base Camp, with a short landing, fits well before or after the trek. It takes about 2 hours in total, flies only in clear morning weather and is not suitable for people with heart or lung conditions or pregnant travellers. We book it as an add-on."
+    }
+  ]
+}

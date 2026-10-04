@@ -1,0 +1,131 @@
+{
+  "slug": "chisapani",
+  "name": "Chisapani",
+  "region": "langtang",
+  "kind": "viewpoint",
+  "wiki": "",
+  "image_query": "Chisapani Nuwakot Himalaya view sunrise",
+  "lat": 27.8365,
+  "lng": 85.4525,
+  "altitude_m": 2165,
+  "tagline": "Ridge-top village a day's walk from Kathmandu with Himalayan views",
+  "meta_description": "Chisapani (2,165 m) is a ridge village above Kathmandu, 4–5 hours' walk from Sundarijal through Shivapuri. Sunrise views, lodges and short treks.",
+  "summary": "Chisapani is a small lodge village at about 2,165 m on the ridge north of Kathmandu, reached by a 4–5 hour walk from Sundarijal through Shivapuri Nagarjun National Park. On clear mornings it faces a 200 km wall of peaks from the Ganesh Himal and Langtang to Gaurishankar, and it is the first night of the Helambu trek.",
+  "intro": [
+    "Chisapani means cold water, and the village is named after a spring on the ridge where travellers once stopped on the old route from Kathmandu to Helambu and Tibet. Today it is a line of lodges and tea houses on a saddle at about 2,165 m, just beyond the northern edge of Shivapuri Nagarjun National Park. It is the closest place to Kathmandu where you can wake up to a broad view of the high Himalaya after a proper day's walk.",
+    "The walk from Sundarijal, at the eastern edge of the valley, climbs past the reservoir and through forest to Mulkharka, then over Borlang Bhanjyang at about 2,438 m before dropping to Chisapani. It takes 4–5 hours and makes a good first trekking day for newcomers, families and anyone wanting a short escape from the city. Many lodges were destroyed in the 2015 earthquake and have been rebuilt, some with larger rooms and terraces facing the mountains.",
+    "From Chisapani, trails continue north to Kutumsang and Helambu, or east along the rim of the valley to Nagarkot via Chauki Bhanjyang and Jhule, a popular two- or three-day loop that ends with a drive back to Kathmandu. A dirt road now reaches the village, so it is also possible to drive in and walk out. The clearest months are October to March, when sunrise lights up the peaks from Himalchuli to Gaurishankar."
+  ],
+  "facts": [
+    ["Altitude", "2,165 m"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu (Tribhuvan International)"],
+    ["From Kathmandu", "≈ 45 min drive to Sundarijal + 4–5 h walk"],
+    ["Known for", "Sunrise over Langtang and Jugal, first night of Helambu trek"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunrise over 200 km of peaks", "text": "On clear mornings Chisapani looks north across the Melamchi and Trishuli hills to the Ganesh Himal, the Langtang range, Dorje Lakpa, the Jugal Himal and Gaurishankar. Early light from October to March gives the sharpest view."},
+    {"title": "Walk in through Shivapuri", "text": "The trail from Sundarijal climbs through oak, rhododendron and pine forest inside Shivapuri Nagarjun National Park, past the old water reservoir and the village of Mulkharka, to the pass of Borlang Bhanjyang at about 2,438 m."},
+    {"title": "Start of the Helambu trek", "text": "From Chisapani the trail continues to Pati Bhanjyang, Chipling and Kutumsang, then to Tharepati and the Hyolmo villages of Helambu. Most Helambu itineraries spend their first night here."},
+    {"title": "Ridge walk to Nagarkot", "text": "A 6–7 hour walk east via Chauki Bhanjyang and Jhule follows the hills along the valley rim to Nagarkot, crossing Tamang and Brahmin villages and terraced fields. It turns Chisapani into a two- or three-day loop."},
+    {"title": "Short break close to the city", "text": "With only 45 minutes of driving each way, Chisapani is one of the few true mountain overnights possible on a weekend from Kathmandu, which makes it popular with families, students and visitors with a spare day or two."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Drive 45 minutes to 1 hour from central Kathmandu to Sundarijal, about 15 km. A rough road also continues to Chisapani itself, around 2–3 hours by 4WD, mostly used for supplies and by those who want to walk only one way."},
+    {"mode": "On foot", "text": "From Sundarijal (1,460 m) walk 4–5 hours and about 11 km via the reservoir, Mulkharka and Borlang Bhanjyang (2,438 m) to Chisapani. From Nagarkot it is 6–7 hours via Jhule and Chauki Bhanjyang."},
+    {"mode": "Helicopter", "text": "There are no regular flights, but Chisapani is about 10 minutes from Kathmandu by helicopter, used occasionally for charter picnics and emergencies."}
+  ],
+  "where_to_stay": "Chisapani has around a dozen family-run lodges along the ridge, most rebuilt after the 2015 earthquake. Rooms are simple twins and doubles, often with attached bathrooms and hot showers, and several lodges have rooftop terraces or dining rooms facing north for the sunrise. Meals are dal bhat, noodles, momos and pancakes. There are no star-rated hotels; standards are a step above high-mountain teahouses because supplies come by road. Weekends and Nepali holidays can be busy with groups from Kathmandu, so book ahead from October to December. Choose a north-facing room to see the peaks from bed.",
+  "stays": [],
+  "tips": [
+    "Start from Sundarijal by 9 am so you reach Chisapani in time for the late-afternoon light on the peaks.",
+    "Carry your passport and cash for the Shivapuri Nagarjun National Park entry fee at the Sundarijal gate.",
+    "Set an alarm for 30 minutes before sunrise; the clearest view usually lasts only until about 8 am.",
+    "Avoid Friday and Saturday nights if you prefer quiet; local groups often visit at weekends.",
+    "Bring a warm jacket even in spring, because the ridge is windy and nights drop near freezing from December to February."
+  ],
+  "themes": ["trekking", "short-breaks", "family-holidays", "budget-nepal"],
+  "nearby": ["shivapuri-nagarjun-national-park", "helambu"],
+  "experiences": [
+    {
+      "slug": "chisapani-sunrise-himalaya-view",
+      "title": "Sunrise over the Langtang and Jugal ranges",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Dawn, Oct–Mar",
+      "price_hint": "Included in most treks",
+      "image_query": "Chisapani sunrise Langtang range",
+      "wiki": "",
+      "summary": "Wake before dawn at Chisapani for sunrise on a long line of peaks from the Ganesh Himal through Langtang and Dorje Lakpa to Gaurishankar. The closest proper Himalayan sunrise to Kathmandu after a day's walk.",
+      "body": [
+        "Chisapani faces north across a sea of foothills, and on clear mornings the horizon fills with snow peaks for around 200 km. From west to east you can pick out the Ganesh Himal, the Langtang range with Langtang Lirung, the Jugal Himal and Dorje Lakpa, and further east Gaurishankar and the Rolwaling peaks. Your guide or lodge owner will name them.",
+        "Sunrise lights the highest summits first, turning them pink and then gold, while the valleys below stay dark and often full of mist. The best light lasts about 20–30 minutes. Most lodges have a terrace, roof or open ground at the front, so you do not need to walk far; a 5–10 minute climb above the village gives a slightly wider view.",
+        "October to March offers the clearest skies, with December and January especially sharp. In April and May haze from farm fires and dust can hide the peaks, and in the monsoon they are rarely visible. Bring a warm jacket, hat and gloves, as dawn is close to freezing in winter. Tea is usually ready by the time you have taken your photographs."
+      ],
+      "good_for": ["photographers", "couples", "families", "first-timers"],
+      "faqs": [
+        {"q": "Which mountains can you see from Chisapani?", "a": "On clear mornings you see the Ganesh Himal, Langtang range including Langtang Lirung, Dorje Lakpa, the Jugal Himal, Gaurishankar and parts of the Rolwaling. Some lodge owners also point out Manaslu and Himalchuli far to the west on exceptionally clear days. October to March offers the best visibility."},
+        {"q": "Chisapani or Nagarkot for sunrise?", "a": "Both face similar peaks. Chisapani is quieter, higher in feel and requires a 4–5 hour walk from Sundarijal, so you earn the view. Nagarkot is reached by road in 1–1.5 hours and has more hotels. A two-day walk between them lets you compare both sunrises."},
+        {"q": "What time should I wake up for sunrise at Chisapani?", "a": "Wake about 30 minutes before sunrise, which ranges from roughly 5:15 am in June to 7:00 am in January. The summits light up a few minutes before the sun appears. Your lodge or guide will tell you the exact time the evening before."}
+      ]
+    },
+    {
+      "slug": "sundarijal-to-chisapani-hike",
+      "title": "Sundarijal to Chisapani through Shivapuri",
+      "kind": "hiking",
+      "duration": "4–5 hours",
+      "best_time": "Morning start, Oct–May",
+      "price_hint": "Included in most treks",
+      "image_query": "Sundarijal waterfall Shivapuri trail",
+      "wiki": "Sundarijal",
+      "summary": "A 4–5 hour, 700 m climb from the edge of Kathmandu through Shivapuri Nagarjun National Park, past the Sundarijal reservoir and Mulkharka village to Borlang Bhanjyang (2,438 m) and down to Chisapani.",
+      "body": [
+        "The hike starts at Sundarijal, 15 km north-east of central Kathmandu, where the Bagmati's tributaries have been dammed to supply the city's water. Stone steps climb beside the pipeline and small waterfalls into the national park, where you pay the entry fee at the gate. The first hour is steep, reaching the reservoir, then the trail continues through forest to the Tamang village of Mulkharka at about 1,895 m.",
+        "Above Mulkharka, the path climbs through oak and rhododendron forest to Chisapani's pass, Borlang Bhanjyang, at about 2,438 m, where tea shops look back over the Kathmandu Valley. From there it is a gentle descent of 30–45 minutes to Chisapani. Total height gain is about 1,000 m with some descent, over roughly 11 km, and most people take 4–5 hours with breaks.",
+        "Birdwatchers enjoy this trail; Shivapuri has recorded more than 300 bird species, and the forest above the reservoir is home to laughingthrushes, sunbirds and barbets. Monkeys are common. Start early to avoid afternoon heat on the lower steps, carry 2 litres of water, and wear proper walking shoes, as the stone steps are uneven and slippery after rain."
+      ],
+      "good_for": ["first-timers", "families", "groups", "solo"],
+      "faqs": [
+        {"q": "How long is the Sundarijal to Chisapani hike?", "a": "About 11 km and 4–5 hours, with around 1,000 m of climbing from Sundarijal (1,460 m) to Borlang Bhanjyang (2,438 m), then a short descent to Chisapani (2,165 m). The first hour on stone steps is the steepest. Fit walkers do it in 3.5 hours; families with children may take 6."},
+        {"q": "Is there an entry fee for Sundarijal to Chisapani?", "a": "Yes. The trail passes through Shivapuri Nagarjun National Park, and foreigners pay around NPR 1,000, with lower rates for SAARC nationals and Nepalis, at the Sundarijal gate. Carry your passport. Fees change from time to time, so check current status before you travel."},
+        {"q": "Can children hike to Chisapani?", "a": "Yes. Children aged about 7 and above who are used to walking generally manage it with breaks, snacks and an early start. The trail is steep in places but not exposed. Altitude is not an issue at 2,165 m. A porter can carry bags, letting children walk light."}
+      ]
+    },
+    {
+      "slug": "chisapani-to-nagarkot-ridge-walk",
+      "title": "Ridge walk from Chisapani to Nagarkot",
+      "kind": "hiking",
+      "duration": "6–7 hours",
+      "best_time": "Full day, Oct–Apr",
+      "price_hint": "Included in Chisapani–Nagarkot treks",
+      "image_query": "Nagarkot hill trail terraced fields",
+      "wiki": "",
+      "summary": "A long day east along the hills on the Kathmandu Valley rim, from Chisapani via Chauki Bhanjyang and Jhule to Nagarkot, through Tamang and Brahmin villages, forest and terraced fields with mountain views on clear days.",
+      "body": [
+        "From Chisapani the trail drops east to Chauki Bhanjyang, then follows ridges and contours through farmland, small forests and villages towards Jhule and Nagarkot. It is a walk through rural life rather than wilderness: rice and millet terraces, buffalo sheds, village schools and tea shops where porters and farmers stop. Views of the Langtang and Jugal ranges open up from higher points on clear mornings.",
+        "The route covers about 18–20 km with plenty of up and down, and takes 6–7 hours. Parts now follow dirt roads, especially near Jhule and Kattike, so traffic is light but present. A local guide is useful because trails split often. Lunch is usually at a simple tea house in Chauki Bhanjyang or Jhule.",
+        "Nagarkot, at about 2,175 m on the eastern rim of the Kathmandu Valley, has many hotels and its own famous sunrise. Ending here lets you finish with a comfortable night and a short drive back to Kathmandu, or a walk down to the Changu Narayan temple the next morning. October to April is best, with December and January clearest."
+      ],
+      "good_for": ["groups", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "How long does it take to walk from Chisapani to Nagarkot?", "a": "About 6–7 hours and 18–20 km, with frequent ups and downs via Chauki Bhanjyang and Jhule. Some sections follow rural dirt roads. It is a long but not high day, staying between about 1,700 and 2,200 m. Lunch stops are available in villages along the way."},
+        {"q": "Is a guide needed from Chisapani to Nagarkot?", "a": "It is strongly recommended. The route is not well signposted, crosses many village paths and dirt roads, and is easy to lose in fog. A guide also explains the villages and handles lunch stops. On our Chisapani–Nagarkot package, a licensed guide walks with you throughout."},
+        {"q": "Can I see mountains on the Chisapani to Nagarkot walk?", "a": "On clear mornings, yes, especially in the first hours from Chisapani and near Nagarkot, with the Langtang range, Dorje Lakpa and the Jugal Himal visible. By midday haze or cloud often hides them. The clearest skies come from October to January."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Chisapani?", "a": "Chisapani lies at about 2,165 m on the ridge north of the Kathmandu Valley. The highest point on the walk from Sundarijal is Borlang Bhanjyang at about 2,438 m. Altitude sickness is not a concern at this height, which makes it a good first trek for beginners and children."},
+    {"q": "How far is Chisapani from Kathmandu?", "a": "Chisapani is about 15 km by road from central Kathmandu to Sundarijal (45 minutes to 1 hour), then 11 km and 4–5 hours on foot. A rough road also reaches Chisapani directly, taking about 2–3 hours by 4WD from the city, depending on conditions."},
+    {"q": "Is Chisapani trek good for beginners?", "a": "Yes. It is one of the best short treks for first-timers: one day of 4–5 hours walking, a maximum height of about 2,438 m, comfortable lodges and a big mountain view. It is also a good test before committing to longer treks such as Langtang or Everest."},
+    {"q": "Can I do Chisapani in one day from Kathmandu?", "a": "You can hike from Sundarijal to Chisapani and back in a long day of 8–9 hours, but you would miss the sunrise, which is the main reason to go. We recommend one night at Chisapani, then either walking back or continuing to Nagarkot."},
+    {"q": "What is the best time to visit Chisapani?", "a": "October to March gives the clearest mountain views, with December and January the sharpest but coldest. April and May are warm with rhododendrons but often hazy. From June to September, monsoon rain and cloud usually hide the peaks and the trail is muddy with leeches."},
+    {"q": "Are there good hotels in Chisapani?", "a": "Chisapani has simple family-run lodges, many rebuilt after 2015, with clean rooms, attached bathrooms in most and terraces facing the mountains. There are no star-rated hotels. If you want a resort-style stay, combine Chisapani with a night in Nagarkot or Dhulikhel, which have more upscale hotels."},
+    {"q": "Is Chisapani in Shivapuri National Park?", "a": "Chisapani lies on the northern edge of Shivapuri Nagarjun National Park, and the trail from Sundarijal runs through the park for most of the way. You pay the park entry fee at the Sundarijal gate. North of Chisapani, the Helambu trail leaves the park."},
+    {"q": "Is it safe to hike to Chisapani?", "a": "Generally yes, but walk in a group or with a guide. There have been occasional reports over the years of solo hikers being robbed in the Shivapuri forests, so avoid walking alone, especially late in the day. Tell your hotel your plans and carry a charged phone."},
+    {"q": "Chisapani trek cost from Kathmandu?", "a": "A guided 2-day Sundarijal–Chisapani trek costs from about ₹9,000–12,000 (US$ 110–140) per person, and our 3-day Chisapani–Nagarkot trek starts at ₹16,000 (US$ 190), including guide, lodges, meals and transfers. Park fees and tips may be extra. Prices assume two people sharing."}
+  ]
+}

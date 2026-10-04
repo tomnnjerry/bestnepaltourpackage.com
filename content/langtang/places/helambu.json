@@ -1,0 +1,132 @@
+{
+  "slug": "helambu",
+  "name": "Helambu",
+  "region": "langtang",
+  "kind": "valley",
+  "wiki": "Helambu",
+  "image_query": "Helambu Tarkeghyang Hyolmo village",
+  "lat": 28.0064,
+  "lng": 85.5464,
+  "altitude_m": 2600,
+  "tagline": "Hyolmo villages and monasteries a day from Kathmandu",
+  "meta_description": "Helambu: Hyolmo villages of Tarkeghyang (2,600 m) and Melamchi Gaun, Ama Yangri viewpoint and a low-altitude 5-day trek close to Kathmandu. Plan here.",
+  "summary": "Helambu is a group of Hyolmo villages on the ridges of the upper Melamchi valley, north-east of Kathmandu, with Tarkeghyang at about 2,600 m and Melamchi Gaun at 2,530 m. It is the closest teahouse trek to the capital, staying below 3,700 m, and links with Gosaikunda over Lauribina La.",
+  "intro": [
+    "Helambu, or Yolmo in the local language, is the homeland of the Hyolmo people, Buddhists of Tibetan origin whose villages sit on terraced ridges between the Melamchi and Indrawati rivers. Their houses are whitewashed stone with carved windows, gathered around large old gompas, and the hillsides are covered in apple orchards, potato fields and forests of oak and rhododendron. Tarkeghyang, Melamchi Gaun and Sermathang are the main villages, each a day's walk from the next.",
+    "Helambu's great advantage is location. The trek starts at Sundarijal on the edge of Kathmandu, climbs through Shivapuri Nagarjun National Park to Chisapani, and reaches Hyolmo country in two or three days, with the highest point at Tharepati (3,690 m). There are no long drives or flights, altitude sickness is rarely a problem, and the trek is possible for most of the year. Jeep roads now reach Tarkeghyang and Melamchi Gaun, so you can walk one way and drive back.",
+    "Helambu also forms the end of the longer Langtang–Gosaikunda–Helambu route, which crosses Lauribina La at 4,610 m and descends through Ghopte and Tharepati. In June 2021 a flood and debris flow on the Melamchi River devastated Melamchi Bazaar and damaged roads up the valley; much has been repaired since, but road conditions can still change after heavy rain. Check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "2,530 – 3,690 m (Tarkeghyang 2,600 m)"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Kathmandu (Tribhuvan International)"],
+    ["From Kathmandu", "≈ 45 min to Sundarijal + 2–3 days' walk, or ≈ 6–7 h by jeep to Tarkeghyang"],
+    ["Known for", "Hyolmo culture, old gompas, apple orchards, Ama Yangri"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Tarkeghyang gompa and village", "text": "Tarkeghyang, at about 2,600 m, is the largest Hyolmo village, with tightly packed stone houses and a large old gompa at its centre. Its lanes, prayer wheels and carved doors make it the cultural heart of Helambu and a good place for a rest day."},
+    {"title": "Ama Yangri viewpoint", "text": "Ama Yangri (3,771 m) is a sacred hill above Tarkeghyang, worshipped as a protective goddess. A steep 3–4 hour climb leads to prayer flags and a view from the Langtang and Jugal ranges round to Gaurishankar on clear mornings."},
+    {"title": "Melamchi Gaun monastery", "text": "Melamchi Gaun (2,530 m) sits on a shelf below Tharepati, with a gompa, a cluster of lodges and a big view down the Melamchi valley. It is the first Hyolmo village on the trek from Chisapani via Tharepati."},
+    {"title": "Tharepati ridge", "text": "The ridge at Tharepati (3,690 m) is the highest point of the standard Helambu trek, where trails from Kutumsang, Gosaikunda and Melamchi Gaun meet. On clear mornings it gives views of the Langtang, Jugal and Dorje Lakpa ranges."},
+    {"title": "Apple orchards and rhododendron forest", "text": "Helambu is known for apples, harvested in autumn, and for rhododendron forests that flower red and pink from March to April. Spring walks between Melamchi Gaun and Tarkeghyang pass through both."},
+    {"title": "Low altitude, close to Kathmandu", "text": "Starting 45 minutes from the city and staying mostly between 2,000 and 3,700 m, Helambu suits first-time trekkers, families and anyone short of time. It is also one of the few Himalayan treks that works well in December and January."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "The classic route starts at Sundarijal (1,460 m), 45 minutes by car from Kathmandu, and walks via Chisapani, Kutumsang and Tharepati to Melamchi Gaun in three days, then to Tarkeghyang on day four."},
+    {"mode": "Road", "text": "Jeeps drive from Kathmandu via Melamchi Bazaar and Timbu to Tarkeghyang or Melamchi Gaun in about 6–7 hours, roughly 110 km. Road sections below Timbu can be damaged in the monsoon. Check current status before you travel."},
+    {"mode": "Helicopter", "text": "Charter helicopters can reach Helambu villages in about 20–25 minutes from Kathmandu, mostly used for emergencies or to fly out after the Gosaikunda–Helambu trek."}
+  ],
+  "where_to_stay": "Helambu villages have family-run teahouse lodges, typically with twin rooms, shared or attached bathrooms, gas or solar hot showers and dining rooms serving dal bhat, potatoes, Tibetan bread and apple pie in season. Melamchi Gaun, Tarkeghyang, Sermathang, Kutumsang and Tharepati each have several lodges, rebuilt or repaired since the 2015 earthquake. Homestays in Hyolmo houses can be arranged in Tarkeghyang and Melamchi Gaun through your guide. There are no star-rated hotels. Rooms are rarely full except in October, and winter nights are cold, so a good sleeping bag is useful even though blankets are provided.",
+  "stays": [],
+  "tips": [
+    "Walk in December or January for clear skies and quiet trails, but pack for nights near −5 °C at Tharepati.",
+    "Spend a full day in Tarkeghyang to climb Ama Yangri or simply explore the village and gompa.",
+    "Buy local apples, apple brandy or dried apple in autumn; it supports Hyolmo farming families.",
+    "Ask before entering a gompa and walk clockwise around chortens and mani walls.",
+    "If driving out, ask your agency to check the road below Timbu, which floods and slides in the monsoon."
+  ],
+  "themes": ["trekking", "cultural-tours", "short-breaks", "budget-nepal"],
+  "nearby": ["chisapani", "gosaikunda", "shivapuri-nagarjun-national-park"],
+  "experiences": [
+    {
+      "slug": "ama-yangri-sunrise-hike",
+      "title": "Ama Yangri sunrise hike from Tarkeghyang",
+      "kind": "hiking",
+      "duration": "6–7 hours return",
+      "best_time": "Pre-dawn start, Oct–Apr",
+      "price_hint": "≈ ₹2,500 extra day on most treks",
+      "image_query": "Ama Yangri Helambu prayer flags",
+      "wiki": "",
+      "summary": "A steep climb of about 1,170 m from Tarkeghyang to the prayer-flag summit of Ama Yangri (3,771 m), a hill sacred to the Hyolmo people, for sunrise views over the Langtang, Jugal and Rolwaling ranges.",
+      "body": [
+        "Ama Yangri is the protective mountain goddess of the Hyolmo people, and the hill named after her rises above Tarkeghyang. The summit, at about 3,771 m, is crowned with prayer flags and a small shrine, and villagers climb it for special prayers and festivals. For trekkers it is the best viewpoint in Helambu, with a long sweep of snow peaks to the north and east.",
+        "Most groups leave Tarkeghyang at about 3 am with headlamps to reach the top for sunrise, climbing 3–4 hours through rhododendron and fir forest and then open grass. It is steep throughout, gaining about 1,170 m. On a clear morning you see the Langtang range, Dorje Lakpa and the Jugal Himal, Gaurishankar to the east and down to the hills around Kathmandu.",
+        "The descent takes 2–3 hours, so you are back in Tarkeghyang for a late breakfast. October to April gives the clearest skies; in December and January expect frost and possibly snow near the top. The climb needs a good level of fitness but no technical skills. Carry warm layers, water and snacks, and respect the shrine by not climbing on it."
+      ],
+      "good_for": ["photographers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "How high is Ama Yangri?", "a": "Ama Yangri rises to about 3,771 m above Tarkeghyang in Helambu. The climb from the village gains around 1,170 m and takes 3–4 hours up and 2–3 hours down. It is the highest viewpoint on the standard Helambu trek, higher than Tharepati (3,690 m)."},
+        {"q": "What can you see from Ama Yangri?", "a": "On clear mornings, the Langtang range, Dorje Lakpa and the Jugal Himal fill the view to the north, with Gaurishankar and the Rolwaling peaks to the east. To the south the foothills fall away towards Kathmandu. October to April gives the best visibility, and sunrise is the clearest time."},
+        {"q": "Is Ama Yangri a sacred site?", "a": "Yes. The Hyolmo people worship Ama Yangri as a protective goddess of their land, and villagers climb the hill for prayers and during festivals. Please do not climb on the shrine or remove prayer flags or offerings, keep noise low, and carry all rubbish back down."}
+      ]
+    },
+    {
+      "slug": "hyolmo-homestay-tarkeghyang",
+      "title": "Hyolmo homestay night in Tarkeghyang",
+      "kind": "culture",
+      "duration": "Overnight",
+      "best_time": "Evening, Sep–May",
+      "price_hint": "≈ ₹2,000–3,000 per person with meals, check locally",
+      "image_query": "Tarkeghyang village houses Helambu",
+      "wiki": "Yolmo people",
+      "summary": "A night with a Hyolmo family in Tarkeghyang or Melamchi Gaun: home-cooked meals by the fire, butter tea, stories of the gompa and the old trade routes, and a morning visit to the monastery with your hosts.",
+      "body": [
+        "The Hyolmo, also spelt Yolmo, are Tibetan Buddhists who have lived in the Helambu valley for centuries. Their language is close to Tibetan, and their houses, dress and festivals reflect that heritage. Staying with a family instead of a lodge gives a much closer look at daily life: cooking on a mud stove, prayers in the family shrine room and conversations about children working in Kathmandu or abroad.",
+        "Your guide arranges the homestay with a family in Tarkeghyang or Melamchi Gaun. Expect a simple room with a bed and blankets, a shared outside toilet and meals with the family: dal bhat, potatoes, Tibetan bread, local greens and, if you wish, salt butter tea. In autumn there may be fresh apples or apple brandy. Evenings are spent around the kitchen fire, the warmest place in the house.",
+        "In the morning, your hosts may take you to the gompa for prayers or show you the fields and orchards. Homestays suit travellers who are flexible and curious; there is less privacy than in a lodge. Bring a small gift such as fruit or stationery for children, and remember that payment, agreed in advance, is the main way the visit helps the household."
+      ],
+      "good_for": ["families", "couples", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Who are the Hyolmo people?", "a": "The Hyolmo, also written Yolmo, are a Tibetan Buddhist community native to the Helambu area north-east of Kathmandu. Their language is related to Tibetan and close to Sherpa, and many families carry the surname Lama or Hyolmo. Their villages centre on old gompas, and many now also live in Kathmandu."},
+        {"q": "What is a Helambu homestay like?", "a": "You sleep in a simple room in a family home, eat meals with your hosts around the kitchen fire and share their outside toilet and water tap. Food is local: dal bhat, potatoes, Tibetan bread and tea. It is warm and personal but basic. Most travellers do one homestay night within a lodge-based trek."},
+        {"q": "Is a homestay safe for families with children?", "a": "Yes. Hyolmo families are used to guests, and children often play together without needing a shared language. Keep an eye on young children near the open kitchen fire and steep stairs. Bring a headlamp for night-time trips to the toilet and a warm sleeping bag or liner."}
+      ]
+    },
+    {
+      "slug": "melamchi-gaun-gompa-and-tharepati-views",
+      "title": "Tharepati ridge and Melamchi Gaun gompa",
+      "kind": "nature",
+      "duration": "4–5 hours",
+      "best_time": "Morning, Oct–May",
+      "price_hint": "Included in Helambu treks",
+      "image_query": "Tharepati Helambu ridge Langtang view",
+      "wiki": "",
+      "summary": "The trekking day from Tharepati (3,690 m), the high point of the Helambu circuit, down through rhododendron forest to the monastery village of Melamchi Gaun (2,530 m), with long views of the Jugal and Langtang ranges.",
+      "body": [
+        "Tharepati sits on a ridge at about 3,690 m where the trail from Kutumsang meets the route from Gosaikunda and Lauribina La. Its handful of lodges face north and east, and on clear mornings the Langtang range, Dorje Lakpa and the Jugal Himal stand out in sequence. A short climb above the lodges to a prayer-flag knoll gives the widest view. Dawn is best; cloud often rises by 10 am.",
+        "From Tharepati, the trail drops steeply east, losing about 1,150 m in 3–4 hours through dense rhododendron, oak and fir forest, crossing streams by wooden bridges. In March and April this forest flowers red. The path is steep and can be slippery when wet, so trekking poles help. Langur monkeys and pheasants are often seen.",
+        "Melamchi Gaun sits on an open shelf above the Melamchi valley with a gompa, chortens and a few lodges. Visit the monastery in the afternoon, where monks or a caretaker can show you the prayer hall. The village is a good overnight stop before crossing the valley to Tarkeghyang the next day, a walk of 5–6 hours down to the Melamchi Khola and up again."
+      ],
+      "good_for": ["photographers", "couples", "groups", "solo"],
+      "faqs": [
+        {"q": "How high is Tharepati on the Helambu trek?", "a": "Tharepati lies at about 3,690 m, the highest point on the standard Helambu trek from Sundarijal. It is also where the Langtang–Gosaikunda–Helambu route arrives after crossing Lauribina La (4,610 m). Altitude sickness is uncommon on Helambu, but sleep and walk slowly here if you feel symptoms."},
+        {"q": "Is the descent from Tharepati to Melamchi Gaun steep?", "a": "Yes. It drops about 1,150 m in 3–4 hours on a forest trail with steep sections, roots and stone steps that are slippery after rain or frost. Trekking poles and good boots with grip help a lot. Knees take a pounding, so go slowly and take breaks."},
+        {"q": "Can I see mountains on the Helambu trek?", "a": "Yes, especially from Chisapani, Tharepati and Ama Yangri. On clear mornings you see the Langtang range, Dorje Lakpa, the Jugal Himal and sometimes Gaurishankar. Views are best from October to April. Much of the trail is forested, so plan to be at the viewpoints early in the day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days is the Helambu trek?", "a": "The standard Helambu trek takes 5–7 days from Kathmandu: Sundarijal to Chisapani, Kutumsang, Tharepati or Melamchi Gaun, and Tarkeghyang, then a jeep back. A short version of 4–5 days walks out by jeep from Melamchi Gaun. Joined to Langtang and Gosaikunda, it becomes a 14–16 day route."},
+    {"q": "Is Helambu trek difficult?", "a": "Helambu is graded easy to moderate. Days are 5–7 hours with plenty of climbing and descending on stone steps, but the highest point is only Tharepati at 3,690 m, so altitude is rarely a problem. Anyone in reasonable health who walks regularly can do it, including fit teenagers and active seniors."},
+    {"q": "What is the best time for the Helambu trek?", "a": "October to April is best. October and November bring clear skies, December and January are cold but very clear and quiet, and March and April add rhododendron flowers. June to September is rainy with leeches and landslide risk on roads. Helambu is one of the best Himalayan treks in winter."},
+    {"q": "Do I need a permit for Helambu?", "a": "The trail from Sundarijal passes through Shivapuri Nagarjun National Park, which charges an entry fee, and the upper route near Tharepati and Gosaikunda lies within Langtang National Park. Foreign trekkers also need a TIMS card and a licensed guide under rules in force since 2023. Check current status before you travel."},
+    {"q": "Can I drive to Helambu?", "a": "Yes. Jeep roads reach Tarkeghyang, Sermathang and Melamchi Gaun via Melamchi Bazaar and Timbu, about 6–7 hours from Kathmandu. Many trekkers walk in from Sundarijal and drive back. Roads below Timbu were damaged by the 2021 Melamchi flood and can be affected by monsoon rain."},
+    {"q": "Who lives in Helambu?", "a": "Helambu is home to the Hyolmo (Yolmo) people, Tibetan Buddhists with their own language and customs, plus Tamang and other communities on the lower slopes. Villages centre on old gompas, and agriculture is based on apples, potatoes, maize and livestock. Many families also live and work in Kathmandu."},
+    {"q": "Is Helambu good for a winter trek?", "a": "Yes, it is one of the best. From December to February skies are usually clear, trails are quiet and the highest point, Tharepati at 3,690 m, rarely holds heavy snow for long. Nights at Tharepati drop to around −5 to −10 °C, so bring a warm sleeping bag and down jacket."},
+    {"q": "Helambu or Langtang Valley, which is better?", "a": "Langtang Valley is higher (up to 4,773 m on Kyanjin Ri) with bigger glacier views and needs about 8 days. Helambu is lower, closer to Kathmandu, more cultural and possible in winter, needing about 5 days. Choose Langtang for mountains, Helambu for villages, monasteries and a short trip."},
+    {"q": "What was the 2021 Melamchi flood?", "a": "In June 2021, a flood and debris flow on the Melamchi River, triggered by heavy monsoon rain and glacial sediment, swept through Melamchi Bazaar and other settlements, killing and displacing people and damaging roads and the Melamchi water supply project. Reconstruction has continued since. Check current road status before you travel."}
+  ]
+}

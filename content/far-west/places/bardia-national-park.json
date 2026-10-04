@@ -1,0 +1,131 @@
+{
+  "slug": "bardia-national-park",
+  "name": "Bardia National Park",
+  "region": "far-west",
+  "kind": "national park",
+  "wiki": "Bardiya National Park",
+  "image_query": "Bardia National Park tiger Karnali",
+  "lat": 28.383,
+  "lng": 81.5,
+  "altitude_m": 180,
+  "tagline": "Nepal's quieter tiger park, with river walks and very few jeeps",
+  "meta_description": "Bardia National Park guide: tiger odds, jeep safaris, jungle walks, Karnali river dolphins, best months, lodges in Thakurdwara and how to get there.",
+  "summary": "Bardia National Park covers 968 km² of sal forest, grassland and river islands on the Karnali in western Nepal. The 2026 census counted 112 tigers. It gets a fraction of Chitwan's visitors, so walks and jeep days feel wild. Stay three nights or more at Thakurdwara, 95 km from Nepalgunj.",
+  "intro": [
+    "Bardia is the largest national park in Nepal's Terai and the least disturbed. It runs from the braided channels of the Karnali (here called the Geruwa on its eastern branch) across sal forest and tall grassland to the Babai valley and the crest of the Siwalik hills. The park was gazetted in 1988 after starting life as a royal hunting reserve, and it now joins Banke National Park to form one of the best tiger habitats in South Asia.",
+    "Tigers are the reason most people come. Nepal's 2026 census counted 112 in Bardia, down from 125 in 2022 but still one of the highest densities in the country. The park also holds Asian elephants, including large wild bulls, greater one-horned rhinos moved here from Chitwan, swamp deer, gharial and mugger crocodiles, and Ganges river dolphins in the Karnali. Over 400 bird species have been recorded, from Bengal florican to great hornbill.",
+    "The style of safari is different from Chitwan. Visitor numbers are low, the lodges are small and family-run or high-end, and the classic day is a long walk or a full-day jeep drive with a packed lunch, sitting quietly by a river crossing where tigers come to drink. Thakurdwara village, at the park headquarters, is the base. Most of the lodges are a short walk from the park gate, among Tharu farms and mango orchards."
+  ],
+  "facts": [
+    ["Altitude", "≈ 150 – 1,441 m (Thakurdwara ≈ 180 m)"],
+    ["Best months", "Oct – Apr; Feb – May for tigers"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Nepalgunj (≈ 95 km · 2.5–3 h)"],
+    ["From Kathmandu", "≈ 1 h flight to Nepalgunj + 2.5–3 h drive"],
+    ["Known for", "Wild tigers, river dolphins, elephants, Tharu villages"]
+  ],
+  "best_months": [1, 2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 1],
+  "nights": "3",
+  "highlights": [
+    {"title": "Tiger watching on foot and by jeep", "text": "Guides read pugmarks, alarm calls from spotted deer and langurs, and fresh scrapes on sand. Full-day jeep drives cover the Karnali side; walks follow the Orai and Khauraha streams. Sightings are never certain, but the low number of vehicles means you often have a waterhole to yourself."},
+    {"title": "Karnali river and Gangetic dolphins", "text": "The Karnali is Nepal's longest river and one of the few in the country where Ganges river dolphins still survive. Float trips on the Geruwa channel give chances of dolphins, mugger crocodiles, gharial, otters and wading birds, with tigers occasionally seen crossing the islands."},
+    {"title": "Wild elephants", "text": "Bardia has one of Nepal's largest resident wild elephant populations, including big tuskers that roam between the park and Khata corridor towards India. Guides keep a careful distance on foot. Sightings are most common in the cooler months on the grasslands near the Karnali."},
+    {"title": "Babai valley", "text": "The Babai river cuts through the eastern half of the park between Siwalik ridges. It is wilder and harder to reach than the Karnali side, and it was the core area where rhinos were reintroduced. Long jeep days or multi-day camping trips with special permission visit it."},
+    {"title": "Tharu villages of Thakurdwara", "text": "The Tharu people have lived in this forest belt for centuries. Their mud-walled longhouses, painted granaries, fishing with hand nets and stick dances are part of a Bardia stay. Many lodges are on Tharu land, and evening village walks are easy to arrange."},
+    {"title": "Crocodile breeding centre", "text": "The park headquarters at Thakurdwara runs a breeding centre for gharial and mugger crocodiles, with a small visitor area. It is a 15-minute visit at the start or end of a jungle walk and explains why gharial nearly vanished from Nepal's rivers."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Nepalgunj, about an hour on Buddha Air or Shree Airlines, then drive to Thakurdwara. Morning flights let you reach the lodge for lunch and an afternoon walk. Flights to Nepalgunj from Indian cities have been planned for years; check current status before you travel."},
+    {"mode": "Road", "text": "From Nepalgunj: ≈ 95 km · 2.5–3 h via Kohalpur and the East–West Highway to Ambassa, then 20 km of village road. From Lucknow: ≈ 280 km · 6–7 h via Rupaidiha. From Kathmandu: ≈ 590 km · 13–15 h, best broken at Chitwan or Lumbini. From Dhangadhi: ≈ 210 km · 5 h."}
+  ],
+  "where_to_stay": "Thakurdwara, beside the park headquarters, has about two dozen lodges, from simple family guesthouses to one high-end safari property. Tiger Tops Karnali Lodge, built in Tharu style on the buffer zone edge, is the luxury option, with solar power, its own naturalists and full-board stays. Mango Tree Lodge is a well-run, family-owned mid-range choice with experienced guides and cottages set in a garden. Several other locally owned lodges line the road to the park gate. There are no lodges inside the park, so all accommodation is in the buffer zone, usually 5–15 minutes from the entrance. Many lodges close or run reduced service from late June to mid-September.",
+  "stays": ["tiger-tops-karnali-lodge", "mango-tree-lodge-bardia"],
+  "tips": [
+    "Stay at least three nights; tiger sightings come from patience, not from one quick drive.",
+    "Book a full-day jeep or walking safari with a packed lunch rather than two short drives.",
+    "Wear muted green, brown or grey and avoid perfume on jungle walks.",
+    "Bring binoculars; dolphins, crocodiles and distant tigers are often seen across a river.",
+    "Expect 38–42 °C in May; walks start at dawn and stop by late morning."
+  ],
+  "themes": ["wildlife-safari", "photography", "family-holidays", "luxury-nepal", "overland-from-india"],
+  "nearby": ["nepalgunj", "shuklaphanta-national-park", "dhangadhi"],
+  "experiences": [
+    {
+      "slug": "bardia-full-day-jeep-safari",
+      "title": "Full-day jeep safari on the Karnali side",
+      "kind": "wildlife",
+      "duration": "8–9 hours",
+      "best_time": "Feb–May for tigers; Oct–Jan for comfort",
+      "price_hint": "≈ ₹14,000–18,000 per jeep plus park fees",
+      "image_query": "Bardia National Park jeep safari grassland",
+      "wiki": "",
+      "summary": "The standard way to look for tigers in Bardia: a full day in an open jeep with a naturalist and a packed lunch, waiting at river crossings and grassland edges on the Karnali side of the park.",
+      "body": [
+        "Bardia jeep safaris are long and slow. You leave Thakurdwara around 6:30 am, drive through sal forest to the grasslands of Baghaura and Lamkauli, and spend much of the day parked quietly at points where tigers cross or drink, often on the banks of the Geruwa channel of the Karnali. Lunch is eaten at a riverside watchtower or picnic spot.",
+        "Through the day you are likely to see spotted deer, hog deer, barking deer, langur and rhesus monkeys, wild boar, peafowl and many raptors. Rhinos and wild elephants appear on some days. Tigers are seen on a minority of drives, more often in April and May, when the grass has been cut and burnt and animals gather at the remaining water.",
+        "Up to six guests share an open jeep, though private jeeps are easy to arrange. A licensed nature guide and the park driver are required. Bring a hat, a scarf for dust, sunscreen and binoculars. Mornings from December to February can be foggy and cold, so pack a warm layer for the first two hours."
+      ],
+      "good_for": ["photographers", "families", "couples", "groups"],
+      "faqs": [
+        {"q": "What are the chances of seeing a tiger on a Bardia jeep safari?", "a": "Honestly, it varies a lot. In April and May, a full-day drive gives a real chance, and guests staying three or four nights with a mix of jeep and walking days often see at least one tiger. In winter and after the monsoon the odds fall. No operator can promise a sighting, and anyone who does is overselling."},
+        {"q": "Is a full-day jeep safari suitable for children?", "a": "Children aged about eight and above usually manage well, provided they can sit quietly for long spells. The day is hot, dusty and slow, with many hours of waiting. For younger children a half-day drive or a morning river float is easier. Bring snacks, water and something to do during the waits."},
+        {"q": "Do I need a guide for a Bardia jeep safari?", "a": "Yes. Park rules require a licensed nature guide with every vehicle, and jeeps are registered with the park. Your lodge or our team arranges the jeep, guide, permits and lunch. Park entry for foreigners has been NPR 1,500 per day plus VAT, less for SAARC nationals; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "bardia-guided-jungle-walk",
+      "title": "Guided jungle walk with two naturalists",
+      "kind": "hiking",
+      "duration": "4–8 hours",
+      "best_time": "Dawn, Nov–May",
+      "price_hint": "≈ ₹4,000–6,000 per person for a full day with guides",
+      "image_query": "Bardia jungle walk tiger tracking guide",
+      "wiki": "",
+      "summary": "Walking safaris are Bardia's speciality. Two licensed guides lead small groups along stream beds and forest trails, tracking tigers by pugmarks and alarm calls and waiting in hides near waterholes.",
+      "body": [
+        "On foot you notice far more: tiger pugmarks in the sand of the Khauraha stream, scratch marks on trees, the bark of a startled barking deer, the alarm cough of a langur. Walks start at dawn from the park gate and follow streams and forest roads to watchtowers or shaded spots by water, where you may sit still for an hour or more.",
+        "Park rules require at least two licensed guides for walking groups, usually with a maximum of about six guests. Guides carry only bamboo sticks, so the briefing matters: stay together, stay quiet, and follow instructions if you meet a rhino, elephant or sloth bear. Encounters with these animals are the real risk on foot, not tigers.",
+        "Half-day walks return for lunch; full-day walks carry a packed meal. Wear closed shoes, long trousers and earth-coloured clothes, and carry two litres of water. Leeches are not an issue in the dry season, but ticks can be, so check your legs in the evening."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Is walking in Bardia National Park safe?", "a": "It is safe when done properly with two experienced licensed guides, a small group and a clear briefing. The main dangers are surprise meetings with rhinos, wild elephants or sloth bears rather than tigers. Guides choose routes with escape options and keep groups quiet and close. We do not take children under 12 on full-day walks."},
+        {"q": "Can you see tigers on a jungle walk?", "a": "Yes, and seeing a tiger on foot from a riverbank hide is one of the reasons people choose Bardia. It does not happen often, and most sightings on foot are brief and at a distance. You will almost certainly see fresh tracks and hear alarm calls, which makes the day absorbing even without a sighting."},
+        {"q": "What should I wear on a Bardia jungle walk?", "a": "Wear green, khaki, brown or grey clothing, long trousers, closed walking shoes and a hat. Avoid white, red, bright colours and strong perfume. Carry two litres of water, sunscreen, insect repellent and binoculars. In December and January add a fleece for the cold, foggy early mornings."}
+      ]
+    },
+    {
+      "slug": "bardia-karnali-river-float",
+      "title": "Karnali river float for dolphins and crocodiles",
+      "kind": "water",
+      "duration": "4–6 hours",
+      "best_time": "Oct–Apr",
+      "price_hint": "≈ ₹6,000–9,000 per person",
+      "image_query": "Karnali river Bardia rafting dolphin",
+      "wiki": "Ganges river dolphin",
+      "summary": "A gentle raft float down the Geruwa channel of the Karnali along the park's western edge, with chances of Ganges river dolphins, mugger crocodiles, gharial, otters and riverside wildlife. Calm water, no rapids, packed lunch.",
+      "body": [
+        "The trip starts near the Karnali bridge at Chisapani, where the river leaves the hills, and drifts south along the park boundary. The water is broad and slow, and the guide does most of the rowing, so you can keep binoculars ready. Dolphins surface in deeper pools; they are shy, and a sighting is usually a brief grey back and a puff of breath.",
+        "Crocodiles bask on sandbanks, and in quiet stretches you may see smooth-coated otters, ospreys, river lapwings and great cormorants. On some trips guests have seen tigers or elephants crossing between islands. Lunch is on a sand bar, and the float ends at a pick-up point near the park where the jeep returns you to Thakurdwara.",
+        "Life jackets are provided and the trip suits non-swimmers and older travellers. River levels are best from October to April. During the monsoon the Karnali floods and floats stop. The sun on open water is strong, so bring a hat, sunscreen and a long-sleeved shirt."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "Are there dolphins in the Karnali river?", "a": "Yes, a small population of Ganges river dolphins survives in the Karnali and its Geruwa channel near Bardia, mostly in deep pools downstream of Chisapani. Numbers are low and they are endangered, so sightings are not guaranteed. Calm, clear days in winter and spring give the best chance of seeing one surface."},
+        {"q": "Is the Karnali float in Bardia a rafting trip with rapids?", "a": "No. This section is flat water, so it is a wildlife float rather than whitewater rafting. Guides row the boat, life jackets are worn, and families with children over about six and seniors can join. Whitewater on the Karnali starts much further upstream in the hills, on multi-day expeditions."},
+        {"q": "When can you do the river float in Bardia?", "a": "From October to April, when water levels are stable and the weather is dry. March and April combine warm weather with good wildlife activity near the river. From late June to September the Karnali floods with monsoon water and floats do not operate. Ask us to check conditions closer to your dates."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many tigers are in Bardia National Park?", "a": "Nepal's 2026 national tiger census counted 112 tigers in Bardia, down from 125 in 2022. It was the only park where numbers fell, which officials linked to tigers moving into Banke and to habitat pressure. Even so, Bardia still has one of the highest tiger densities in Nepal and remains an excellent place to look for them."},
+    {"q": "Bardia or Chitwan, which is better for tigers?", "a": "Bardia generally gives better tiger chances per day for patient visitors because it has fewer vehicles, long walking safaris and open river crossings. Chitwan has more tigers overall, more rhinos, easier access and more hotels, but busier safari routes. For a first, short trip choose Chitwan; for tigers and quiet, choose Bardia with at least three nights."},
+    {"q": "What is the best time to visit Bardia?", "a": "February to May is best for tigers, when grass has been cut and animals gather at shrinking water. April and May are hot, often 38–42 °C. October to January is cooler and green, but with fog in late December and January. From late June to mid-September the monsoon floods rivers and many lodges close."},
+    {"q": "How do I get to Bardia National Park?", "a": "Fly Kathmandu to Nepalgunj in about an hour, then drive 95 km, 2.5–3 hours, to Thakurdwara. From India, drive Lucknow–Rupaidiha–Nepalgunj–Bardia in 6–7 hours. By road from Kathmandu it is 13–15 hours, so most road travellers break the journey in Chitwan or Lumbini."},
+    {"q": "How many days do I need in Bardia?", "a": "Three nights is the sensible minimum, giving two full days in the park: one jeep day and one walking or river day. Four or five nights gives much better tiger odds and time for the Babai valley or a village walk. One night is rarely worth the journey from Kathmandu."},
+    {"q": "What is the Bardia National Park entry fee?", "a": "The park has charged foreigners NPR 1,500 per person per day plus VAT, SAARC nationals NPR 750 and Nepalis a small fee. Jeep, guide and raft charges are separate. Fees are paid at the headquarters in Thakurdwara and are usually bundled into safari packages. Check current status before you travel."},
+    {"q": "Can I do an elephant safari in Bardia?", "a": "We do not book elephant-back safaris, and in Bardia they have largely given way to walking and jeep safaris. Some lodges, including Tiger Tops Karnali, run elephant programmes based on observation and care rather than riding. Wild elephants can be seen on jeep drives, especially in winter."},
+    {"q": "Is Bardia good for a family holiday?", "a": "Yes, for families with children around eight and older. Jeep drives, river floats, the crocodile breeding centre and Tharu village walks suit most ages. Long jungle walks are better for teenagers and adults. Choose a lodge with a garden or pool for the hot afternoons, and avoid May if your children struggle with heat."},
+    {"q": "Are there rhinos in Bardia?", "a": "Yes. Greater one-horned rhinos were translocated from Chitwan from 1986 onwards and now live mainly in the Babai valley and around the Karnali floodplain. Numbers are far lower than in Chitwan, so sightings are less frequent. If seeing a rhino is your top priority, add a night or two in Chitwan."}
+  ]
+}

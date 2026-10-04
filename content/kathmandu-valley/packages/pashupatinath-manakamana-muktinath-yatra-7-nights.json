@@ -1,0 +1,190 @@
+{
+  "slug": "pashupatinath-manakamana-muktinath-yatra-7-nights",
+  "title": "Pashupatinath Muktinath Yatra, 7 Nights",
+  "region": "kathmandu-valley",
+  "type": "pilgrimage",
+  "grade": "Moderate",
+  "nights": 7,
+  "themes": ["pilgrimage", "cultural-tours", "family-holidays"],
+  "stops": [
+    {"place": "kathmandu", "nights": 3},
+    {"place": "pokhara", "nights": 2},
+    {"place": "jomsom", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 45000,
+  "price_from_usd": 620,
+  "best_months": [0, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3710,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, best available lodge-hotel in Jomsom",
+  "transport": "Private car or van for road legs, Manakamana cable car, Pokhara–Jomsom–Pokhara flights, shared jeep Jomsom–Muktinath",
+  "group": "Private family or group yatra, 2–15 pilgrims",
+  "meta_description": "Pashupatinath, Manakamana and Muktinath yatra, 8 days: aarti on the Bagmati, cable car darshan, Jomsom flights and the 108 spouts. From ₹45,000.",
+  "summary": "Three of Nepal's most sacred darshans in one 8-day yatra: Pashupatinath on the Bagmati, Manakamana Bhagwati by cable car, and Muktinath at 3,710 m with its 108 water spouts and eternal flame. We fly the Jomsom leg, sleep low at 2,720 m and keep the plan gentle for senior pilgrims.",
+  "intro": [
+    "This yatra links the shrine that Hindu families across India hold dearest in Nepal, Pashupatinath, with two temples that ask a little more effort. Manakamana Bhagwati, the wish-fulfilling goddess, sits on a ridge 1,302 m high and is reached by a 10-minute cable car from Kurintar on the Trishuli river. Muktinath, sacred to Vishnu devotees and to Buddhists, stands at 3,710 m in the rain shadow of the Annapurna and Dhaulagiri ranges, beyond the Kali Gandaki gorge.",
+    "We built the route around older pilgrims. Nobody sleeps higher than Jomsom at 2,720 m, the Muktinath darshan is a day visit by jeep, and the Jomsom flights are timed so a weather delay eats into a Pokhara afternoon rather than your flight home. In Kathmandu you have two evenings near the Bagmati, one for the Ganga-style aarti and one free for a Rudrabhishek puja if your family wishes. Pokhara adds the lakeside temple of Tal Barahi and Bindhyabasini on its hill above the old bazaar."
+  ],
+  "highlights": [
+    "Evening aarti at Pashupatinath on the Bagmati ghats",
+    "Manakamana Bhagwati darshan by cable car from Kurintar",
+    "Muktidhara: bathing under the 108 spouts at Muktinath, 3,710 m",
+    "Jwala Mai, where a natural flame burns beside spring water",
+    "Saligram stones from the Kali Gandaki and old Kagbeni village",
+    "Paced for senior pilgrims, sleeping no higher than 2,720 m"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, Pashupatinath aarti",
+      "place": "pashupatinath",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 1 h at the ghats",
+      "drive": "≈ 6 km · 20–30 min",
+      "flight": "",
+      "text": "Our representative receives you at Tribhuvan International Airport with marigold garlands and drives you to your hotel. After a rest, we walk with you to Pashupatinath, only 2 km from the airport, in time for the evening aarti, held on the steps across the Bagmati from the temple at about 6 pm (earlier in winter). Priests in saffron wave multi-tiered lamps to bells and bhajans while families float diyas on the river. Sit on the eastern bank steps for the best view, and keep phones away from the Arya Ghat cremation platforms.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Pashupatinath darshan, Budhanilkantha",
+      "place": "pashupatinath",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 2 h at the temples",
+      "drive": "≈ 30 km · 2 h in total",
+      "flight": "",
+      "text": "Start early, around 6 am, when the queue at Pashupatinath's western gate is shortest. Hindu pilgrims enter the main courtyard for darshan of the four-faced Shiva linga and offer bel leaves, milk and flowers; our guide explains the rituals and holds shoes and leather items outside. Afterwards cross the Bagmati to Guhyeshwari, the Shakti Peeth linked with Sati. After breakfast we drive 9 km north to Budhanilkantha, where a 5 m stone Vishnu reclines on the coils of the serpent Ananta in a sacred pond. Late afternoon is free for a Rudrabhishek puja.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Manakamana by cable car, on to Pokhara",
+      "place": "manakamana",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 1400,
+      "walk": "≈ 30 min to the temple and back",
+      "drive": "≈ 205 km · 7–8 h in total",
+      "flight": "",
+      "text": "We leave Kathmandu at 6:30 am and follow the Prithvi Highway down to the Trishuli river, reaching Kurintar (about 258 m) after 3–4 hours. The cable car climbs 2.8 km to the ridge at about 1,302 m in roughly 10 minutes, over terraced fields and sal forest. At the pagoda temple of Manakamana Bhagwati, pilgrims offer coconuts, red cloth and sweets; queues can run an hour on Saturdays and festival days. Back at Kurintar, it is another 3–4 hours by road via Mugling and Damauli to Pokhara.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Fly to Jomsom, Kali Gandaki saligrams",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 2810,
+      "walk": "≈ 2 h, gentle",
+      "drive": "≈ 24 km · 1.5 h return to Kagbeni",
+      "flight": "Pokhara–Jomsom · 20 min",
+      "text": "Jomsom flights leave Pokhara only in the early morning, before the Kali Gandaki wind picks up; check-in is around 6 am. In 20 minutes the small twin-engine plane threads between Dhaulagiri (8,167 m) and Annapurna I (8,091 m). Today is for resting at 2,720 m, so walk slowly and drink plenty of water. In the afternoon our jeep takes you up the riverbed to Kagbeni (2,810 m), an old walled village of mud-brick houses and a red monastery, where many families perform shraddha at the confluence and search the gravel for saligram stones.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Muktinath darshan and Jwala Mai",
+      "place": "muktinath",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 3710,
+      "walk": "≈ 1 h · 1 km uphill from Ranipauwa and back",
+      "drive": "≈ 44 km · 3 h return by jeep",
+      "flight": "",
+      "text": "Our jeep leaves Jomsom at 7 am for the 22 km climb to Ranipauwa, about 1–1.5 hours. From the jeep stand it is a 20–30 minute walk up stone steps to the temple at 3,710 m; ponies and porters are available for elderly pilgrims. Devotees bathe in the two kunds, then run beneath the 108 bull-headed spouts of Muktidhara, each pouring icy water. Inside the pagoda, Vishnu is worshipped as Muktinath. Nearby, the Jwala Mai shrine shelters a small natural gas flame burning beside a spring. We descend to Jomsom by early afternoon.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Fly back to Pokhara, Bindhyabasini",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 2720,
+      "walk": "≈ 1 h",
+      "drive": "≈ 15 km · 1 h in town",
+      "flight": "Jomsom–Pokhara · 20 min",
+      "text": "We take the first possible morning flight down the gorge to Pokhara. If wind or cloud holds the planes, we wait in Jomsom and fly later, or in rare cases drive down the dirt road through Marpha, Tukuche and Beni (about 8–10 hours, extra cost). Once in Pokhara, visit the Bindhyabasini temple, a white shikhara on a small hill above the old bazaar, dedicated to Durga. Late afternoon, a boatman rows you across Phewa Lake to the island temple of Tal Barahi for evening prayers.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Drive back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 200 km · 6–8 h",
+      "flight": "",
+      "text": "After an early breakfast our driver takes the Prithvi Highway back to Kathmandu, about 200 km and 6–8 hours with a tea stop above the Trishuli and lunch at Kurintar or Malekhu. Road works near Mugling and on the climb to Naubise can slow the last stretch, which is why we keep this as a full travel day. If you would rather fly, we can book the 25-minute Pokhara–Kathmandu flight instead. In the evening, there is time for a last visit to Pashupatinath or for shopping for rudraksha malas around the temple gates.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Swayambhunath and departure",
+      "place": "swayambhunath",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 1 h",
+      "drive": "≈ 15 km · 1 h",
+      "flight": "",
+      "text": "With a midday or afternoon flight, there is time for a morning visit to Swayambhunath, the hilltop stupa on the western edge of the city at about 1,420 m. Hindu and Buddhist shrines share the platform, including the Harati temple to the goddess of children, and from the top you look back across the valley you arrived in. Our car then takes you to Tribhuvan International Airport, reaching the terminal three hours before an international flight or two hours before a domestic one.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "7 nights twin sharing: 3 nights Kathmandu and 2 nights Pokhara in 3-star hotels, 2 nights Jomsom in a lodge-hotel with attached bathroom",
+    "Breakfast daily, dinner days 1–7, all meals in Jomsom (vegetarian on request)",
+    "Pokhara–Jomsom and Jomsom–Pokhara flights with 10 kg checked baggage",
+    "Shared jeep Jomsom–Kagbeni–Jomsom and Jomsom–Muktinath–Jomsom",
+    "Manakamana cable car return ticket",
+    "Private car or van with driver for all road transfers and sightseeing",
+    "Hindi- and English-speaking guide throughout",
+    "Annapurna Conservation Area entry permit",
+    "Airport pick-up and drop-off in Kathmandu"
+  ],
+  "excludes": [
+    "International flights or rail and road travel to the Nepal border",
+    "Nepal visa fee for non-Indian passport holders",
+    "Puja, abhishek and donation costs at temples",
+    "Ponies or porters at Muktinath (about NPR 1,500–2,500 return)",
+    "Lunches in Kathmandu and Pokhara",
+    "Pokhara–Kathmandu flight (road transfer is included)",
+    "Extra nights or charges if Jomsom flights are delayed",
+    "Travel and medical insurance",
+    "Tips for guide, drivers and hotel staff"
+  ],
+  "good_to_know": [
+    "The price assumes Indian-national airfares, 3-star hotels with twin rooms and a group of at least 4; the USD price includes foreign-passport fares on the Jomsom flights.",
+    "Jomsom flights run in the morning only and are often delayed or cancelled by wind and cloud; keep one spare day at the end of your trip if you can, and check current status before you travel.",
+    "Muktinath is at 3,710 m. Most pilgrims feel short of breath on the steps; walk slowly, drink 3–4 litres of water and tell the guide about headaches. People with heart or lung disease should consult a doctor first.",
+    "Jomsom checked baggage is limited to about 10 kg per person on most aircraft, so leave a suitcase at the Pokhara hotel and take a small bag.",
+    "Mornings at Jomsom and Muktinath are cold year-round, often below 0 °C from December to February; pack a down jacket, cap and gloves.",
+    "Indian nationals need a valid passport or voter ID; carry photocopies and two passport photos for the conservation area permit."
+  ],
+  "add_ons": [
+    {"name": "Fly Pokhara–Kathmandu instead of driving", "price": "≈ ₹4,500 per person (Indian-national fare; check current status before you travel)"},
+    {"name": "Rudrabhishek puja at Pashupatinath with priest", "price": "≈ ₹3,500–6,000 per family"},
+    {"name": "Muktinath helicopter from Pokhara instead of flights", "price": "≈ ₹55,000 per seat, shared"}
+  ],
+  "faqs": [
+    {"q": "Is the Muktinath yatra suitable for senior citizens?", "a": "Yes, for most healthy seniors. Our route sleeps at Jomsom (2,720 m) and visits Muktinath (3,710 m) for a few hours only, by jeep. The last 20–30 minutes is a climb up steps, and ponies or porters can carry those who need help. Pilgrims with heart conditions, severe asthma or recent surgery should get medical clearance first."},
+    {"q": "How do we reach Muktinath from Pokhara?", "a": "We fly Pokhara–Jomsom in about 20 minutes, then take a jeep 22 km to Ranipauwa below the temple, about 1–1.5 hours. The alternative is a full road journey of 9–11 hours via Beni and Jomsom, which is tiring and dusty. A shared helicopter from Pokhara takes about 40 minutes and costs much more."},
+    {"q": "What happens if the Jomsom flight is cancelled?", "a": "We wait for the next flight window, usually later that morning or the following morning, and rearrange the days so you still get darshan. If flights stay grounded, we can drive via Beni at extra cost. Airline cancellations are refunded or rebooked, but extra hotel nights are not in the price. Keep a spare day if possible."},
+    {"q": "Will we get altitude sickness at Muktinath?", "a": "Serious altitude sickness is uncommon on a short day visit, but mild headache and breathlessness at 3,710 m are normal. We sleep lower at Jomsom, walk slowly, avoid alcohol and drink plenty of water. If anyone develops a bad headache, vomiting or confusion, we descend at once, which is the right treatment."},
+    {"q": "Can we take saligram stones home from the Kali Gandaki?", "a": "Many pilgrims bring small saligrams home for worship, and shops in Jomsom and Pokhara sell them. Collecting from the riverbed at Kagbeni is traditional, but large quantities or fossils sold for trade can attract questions at customs. Keep a few for puja, buy rather than dig, and check current status before you travel."},
+    {"q": "Is Pashupatinath darshan allowed for Indian pilgrims?", "a": "Yes. Hindu pilgrims of any nationality, including Indians, may enter the main courtyard of Pashupatinath for darshan without a ticket. Foreign visitors who are not Hindu pay an entry fee and view the temple from the outer areas and the eastern bank of the Bagmati. Leather belts and bags must be left outside the inner gate."},
+    {"q": "What is the best month for the Muktinath yatra?", "a": "March to May and late September to November are best, with dependable morning flights and mild days. December to February is cold, often below 0 °C at Muktinath, with occasional snow on the jeep road. From June to August the Jomsom flights are frequently cancelled by cloud and the Pokhara road suffers landslides, so we avoid those months."},
+    {"q": "What should we wear for the Muktidhara bath?", "a": "Bring a change of clothes, a thin cotton towel and a plastic bag for wet clothing. Men usually bathe in shorts or a dhoti, and women in a salwar or cotton saree. The water from the 108 spouts is close to freezing, so many seniors simply sprinkle water on their heads. There are changing rooms near the kunds."},
+    {"q": "Is vegetarian food available throughout the yatra?", "a": "Yes. Hotels in Kathmandu and Pokhara serve North Indian and Nepali vegetarian meals, and lodges in Jomsom cook dal bhat, chapati, rice and vegetable curries. We tell every hotel in advance if your group needs no onion or garlic food or Jain meals. In Jomsom, try the apple pie made with fruit from nearby Marpha orchards."}
+  ]
+}

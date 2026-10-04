@@ -1,0 +1,131 @@
+{
+  "slug": "parsa-national-park",
+  "name": "Parsa National Park",
+  "region": "chitwan",
+  "kind": "national park",
+  "wiki": "Parsa National Park",
+  "image_query": "Parsa National Park sal forest Churia hills",
+  "lat": 27.319,
+  "lng": 84.9125,
+  "altitude_m": 435,
+  "tagline": "Chitwan's wilder eastern neighbour in the Churia hills",
+  "meta_description": "Parsa National Park guide: sal forest and Churia hills east of Chitwan, tigers, wild elephants, gaur, jeep safaris, birding, best months and access from Birgunj.",
+  "summary": "Parsa National Park adjoins Chitwan to the east, covering 627 km² of sal forest and Churia hills at 435–950 m. Upgraded from a wildlife reserve in 2017, it holds tigers, wild elephants, gaur and sloth bears, with very few visitors. It suits travellers who want a quieter, rougher forest experience, ideally after Chitwan.",
+  "intro": [
+    "Parsa was set up as a wildlife reserve in 1984, originally to protect wild elephants and as a hunting ground in earlier times, and became a national park in 2017. It covers 627 km² across Parsa, Makwanpur and Bara districts, running east from Chitwan's boundary to the Hetauda–Birgunj highway. Unlike Chitwan's river plains, most of Parsa lies on the dry, rugged Churia (Siwalik) hills, at 435 to 950 m, covered in sal, chir pine on the ridges and seasonal stream beds called khola.",
+    "Together with Chitwan and India's Valmiki Tiger Reserve to the south, Parsa forms one of the largest tiger landscapes in South Asia. The 2022 survey counted 41 tigers in Parsa, up sharply from a handful a decade earlier. Wild elephants move through the park, gaur graze the forest clearings, and sloth bears, leopards and four-horned antelope live in the hills. A few rhinos have been translocated here from Chitwan.",
+    "Parsa is not set up for mass tourism. There is no village like Sauraha at the gate, accommodation near the park is basic, and wildlife is harder to see in dense forest and steep terrain than on Chitwan's grasslands. That is its appeal for some travellers: you may drive for hours without meeting another vehicle. We arrange Parsa trips on request as an extension to a Chitwan safari, with a jeep, naturalist and park permits. Check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "435 – 950 m"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1–2 (as an extension to Chitwan)"],
+    ["Nearest airport", "Simara (≈ 25 km from the park headquarters)"],
+    ["From Kathmandu", "≈ 270 km · 7–8 h by road via Narayangarh and Hetauda"],
+    ["Known for", "Tigers, wild elephants, gaur, Churia hill forest"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "A growing tiger population", "text": "Parsa's tigers rose to 41 in the 2022 survey, making it one of the success stories of Nepal's tiger programme. Sightings remain rare in thick forest, but fresh pugmarks on the dry stream beds are common."},
+    {"title": "Wild elephants and gaur", "text": "Herds of wild Asian elephants move between Parsa, Chitwan and the Indian forests to the south. Gaur, the world's largest wild cattle, graze clearings in the sal forest and are seen more often here than in Chitwan."},
+    {"title": "Churia hill forest", "text": "Most of Parsa lies on the Churia hills, a young, crumbling range of sandstone and gravel cut by dry stream beds. The landscape of ridges, gorges and sal forest is very different from Chitwan's river plains."},
+    {"title": "Birding without crowds", "text": "Parsa's forest holds hornbills, woodpeckers, pittas in the wet season, raptors and many forest birds. With almost no other visitors, it rewards patient birders willing to walk and wait."},
+    {"title": "Part of a cross-border landscape", "text": "Parsa connects with Chitwan to the west and Valmiki Tiger Reserve in India to the south, forming a large corridor for tigers, elephants and other wide-ranging animals across the border."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "The park headquarters at Adhabhar lie on the Hetauda–Birgunj highway, ≈ 25 km · 45 min north of Birgunj and ≈ 40 km · 1 h south of Hetauda. From Sauraha it is ≈ 110 km · 3 h via Tandi and Hetauda; from Kathmandu ≈ 270 km · 7–8 h via Mugling, Narayangarh and Hetauda."},
+    {"mode": "Air", "text": "Simara Airport, with flights from Kathmandu of about 20 minutes, is ≈ 25 km from Adhabhar. Flights are less frequent than to Bharatpur, so check current status before you travel."},
+    {"mode": "Road", "text": "From India, cross at Raxaul–Birgunj and drive ≈ 25 km north to Adhabhar. This makes Parsa a convenient first stop for Indian travellers driving into Nepal, before continuing to Chitwan."}
+  ],
+  "where_to_stay": "Accommodation near Parsa is limited and basic. Small lodges and buffer-zone homestays operate near the park boundary, and hotels in Birgunj, Simara and Hetauda offer more comfort within an hour's drive. Most of our guests visit Parsa as a day trip or one-night extension from Chitwan, staying in Hetauda or Birgunj, then return to a comfortable lodge in Sauraha or Patihani. Ask us for current options, as facilities near the park are still developing.",
+  "stays": [],
+  "tips": [
+    "Treat Parsa as an add-on to Chitwan rather than a replacement; wildlife is harder to see here.",
+    "Book a jeep and naturalist in advance; there are few activity operators near the gate.",
+    "The Churia hills are hot and dry from March; start drives at dawn and carry plenty of water.",
+    "Park fees are similar to Chitwan's and are paid at the headquarters at Adhabhar.",
+    "Wild elephants are the main risk on foot; walk only with licensed guides and follow their lead."
+  ],
+  "themes": ["wildlife-safari", "photography", "overland-from-india"],
+  "nearby": ["chitwan-national-park", "sauraha", "bharatpur"],
+  "experiences": [
+    {
+      "slug": "parsa-jeep-safari",
+      "title": "Jeep safari in Parsa National Park",
+      "kind": "wildlife",
+      "duration": "4–6 hours",
+      "best_time": "Dawn or late afternoon, Nov–Apr",
+      "price_hint": "≈ NPR 15,000–22,000 per jeep plus park fees",
+      "image_query": "gaur Parsa National Park",
+      "wiki": "Gaur",
+      "summary": "A jeep drive with a naturalist along the park's forest roads and dry stream beds in search of gaur, wild elephants, deer and tiger signs, through Churia hill scenery where you may not see another vehicle all day.",
+      "body": [
+        "Drives start from the park headquarters at Adhabhar after permits are issued. Forest roads run west and north into the sal forest and up the dry, gravel stream beds that cut through the Churia hills. These khola beds are the animals' highways; your naturalist reads tracks in the sand for tiger, leopard, elephant and sloth bear, and checks waterholes where gaur and deer come to drink.",
+        "Gaur are the highlight for many visitors, massive dark cattle with white socks, often seen in small groups at the forest edge. Spotted deer, barking deer, sambar, wild boar and langur monkeys are common. Wild elephants are present but wide-ranging, and tigers, though increasing, are rarely seen in the dense cover.",
+        "Roads are rough and some sections close after rain, so routes vary by season. Bring water, snacks, a hat and binoculars. A private jeep for up to six people costs roughly NPR 15,000–22,000 for a half day, plus park fees per person; check current status before you travel. We arrange it as part of a Parsa extension."
+      ],
+      "good_for": ["photographers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "Can I see tigers in Parsa National Park?", "a": "Tigers live in Parsa in growing numbers, 41 in the 2022 survey, but sightings are rare because of dense forest and hilly terrain. You are far more likely to see pugmarks and scrapes. For a better chance of seeing a tiger, combine Parsa with full-day safaris in Chitwan."},
+        {"q": "Is Parsa better than Chitwan for safari?", "a": "Not for most visitors. Chitwan has more open grassland, more rhinos and better facilities. Parsa offers solitude, gaur, wild elephants and Churia hill scenery. It suits travellers who have already done Chitwan or who want a wilder, quieter add-on."},
+        {"q": "Do I need a permit for Parsa National Park?", "a": "Yes. A park entry permit is required for each day, paid at the headquarters at Adhabhar, with different rates for Nepalis, SAARC nationals and other foreigners. Jeeps also pay a vehicle fee. Rules and fees change, so check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "parsa-churia-forest-birding",
+      "title": "Churia forest birding walk in Parsa",
+      "kind": "hiking",
+      "duration": "3–4 hours",
+      "best_time": "Dawn, Nov–Apr",
+      "price_hint": "≈ NPR 4,000–6,000 per group for guides plus park fees",
+      "image_query": "great hornbill Nepal forest",
+      "wiki": "Great hornbill",
+      "summary": "A guided morning walk on the edges of the park's sal and riverine forest in search of hornbills, woodpeckers, raptors and forest birds, with the Churia hills as a backdrop and almost no other people.",
+      "body": [
+        "Walks start at dawn from points near the headquarters or buffer zone, with at least two licensed guides. The route follows forest edges and dry stream beds, where visibility is better than in the dense interior. Great and oriental pied hornbills feed in fruiting trees, woodpeckers drum on sal trunks, and crested serpent eagles and changeable hawk-eagles hunt from high perches.",
+        "Smaller birds include minivets, drongos, bulbuls, babblers and flycatchers, with pittas arriving with the pre-monsoon rains in May. Your guides also watch for elephant, gaur and sloth bear, and plan the route to avoid surprises. Expect 4 to 6 km at an easy pace on uneven ground, with long pauses to watch and listen.",
+        "This is for keen birders and walkers comfortable in remote forest. Wear neutral colours and closed shoes, carry two litres of water, and start early: by 10 am in March and April the Churia hills are hot and quiet. Walking rules and permitted routes are set by the park; check current status before you travel."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "What birds live in Parsa National Park?", "a": "Parsa's sal and hill forest holds great and oriental pied hornbills, many woodpeckers, raptors such as crested serpent eagles, minivets, drongos, babblers and, in the wet season, pittas. It shares many species with Chitwan but has more forest birds and fewer grassland and wetland species."},
+        {"q": "Is walking in Parsa safe?", "a": "With licensed guides and following their instructions, yes. Wild elephants, sloth bears and occasionally tigers are present, so walks stay on forest edges and open stream beds with good visibility. We do not book walks for children under 12 or anyone who cannot move quickly over rough ground."},
+        {"q": "How does birding in Parsa compare with Chitwan?", "a": "Chitwan has a longer bird list and more wetland and grassland species. Parsa is quieter, with forest birds and almost no other visitors. Keen birders often spend most of their time in Chitwan and add a morning in Parsa for forest species and solitude."}
+      ]
+    },
+    {
+      "slug": "parsa-halkhoriya-daha-visit",
+      "title": "Halkhoriya Daha lake in Parsa",
+      "kind": "nature",
+      "duration": "Half day including the drive",
+      "best_time": "Morning, Nov–Mar",
+      "price_hint": "Included in Parsa jeep safaris where access is open",
+      "image_query": "Halkhoriya Daha Parsa lake",
+      "wiki": "",
+      "summary": "A forest lake inside Parsa National Park, used by wild elephants, deer and water birds. Where park rules allow, a jeep safari can include a stop here to watch the water from a safe distance.",
+      "body": [
+        "Halkhoriya Daha is a lake in the forest of Parsa National Park, a reliable water source in the dry Churia landscape. It attracts wild elephants, gaur, deer and wild boar, especially in the dry months from February to May, and water birds such as egrets, cormorants and kingfishers use it year round.",
+        "Reaching the lake involves a jeep drive on forest roads, and whether visitors can go depends on road conditions, park rules and current wildlife activity, particularly the movement of elephant herds. When it is open, a stop of half an hour or so at the lake is a highlight of a Parsa safari, quiet and often without another person in sight.",
+        "We confirm access with the park office before planning this visit. Stay in or near the vehicle unless your naturalist says otherwise, keep voices low, and be ready to leave quickly if elephants approach. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can tourists visit Halkhoriya Daha?", "a": "Sometimes, as part of a jeep safari with park permits. Access depends on road conditions, park rules and wildlife activity, so it is not always possible. We check with the park office before your trip and plan an alternative route if the lake is closed."},
+        {"q": "What wildlife can I see at Halkhoriya Daha?", "a": "Wild elephants, gaur, deer, wild boar and water birds are the most common visitors, especially in the dry season. Tigers and leopards use the area but are rarely seen. Sightings depend on season and luck, as in any forest."},
+        {"q": "When is the best time to visit Halkhoriya Daha?", "a": "February to May, when water is scarce elsewhere and animals gather at the lake, with mornings being best before the heat. November to January is cooler and pleasant. The monsoon months make forest roads difficult or impassable."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Parsa National Park?", "a": "Parsa lies in south-central Nepal, east of Chitwan National Park, across Parsa, Makwanpur and Bara districts. The headquarters are at Adhabhar on the Hetauda–Birgunj highway, about 25 km north of the Indian border at Birgunj."},
+    {"q": "How big is Parsa National Park?", "a": "About 627 km², with a further buffer zone of 285 km². It was a wildlife reserve from 1984 and became a national park in 2017. Most of it lies on the Churia hills between 435 and 950 m."},
+    {"q": "Is Parsa National Park worth visiting?", "a": "For travellers who enjoy quiet, rugged forest and do not need guaranteed sightings, yes. Gaur, wild elephants and tiger signs are the highlights. For a first safari in Nepal, Chitwan is better. Parsa works best as a one- or two-day extension."},
+    {"q": "How many tigers are in Parsa?", "a": "The 2022 national tiger survey counted 41 tigers in Parsa National Park, a big increase from earlier counts. Together with Chitwan and India's Valmiki reserve, Parsa forms an important tiger landscape. A new survey has been planned; check current figures."},
+    {"q": "How do I get to Parsa from Chitwan?", "a": "Drive from Sauraha east via Tandi and Hetauda, then south to Adhabhar, about 110 km and 3 hours. It is possible as a long day trip, but a night in Hetauda or Birgunj makes for a better early-morning safari."},
+    {"q": "Can I visit Parsa from India?", "a": "Yes, easily. From Raxaul, cross into Birgunj and drive about 25 km north to the park headquarters at Adhabhar. Indian visitors pay the SAARC park fee. Parsa makes a good first stop before continuing to Chitwan, about 3 hours away."},
+    {"q": "What is the best time to visit Parsa?", "a": "November to April. Winter is cool and pleasant; February to April is best for wildlife at water sources but gets very hot by April. Monsoon rains from June to September make forest roads difficult, and some areas close."},
+    {"q": "Are there hotels inside Parsa National Park?", "a": "No. There are no hotels inside the park. Basic lodges and homestays operate near the boundary, and better hotels are in Hetauda, Simara and Birgunj, within an hour. Most visitors base themselves in Chitwan and visit Parsa as an extension."},
+    {"q": "What animals live in Parsa National Park?", "a": "Tigers, leopards, wild elephants, gaur, sloth bears, sambar, spotted and barking deer, four-horned antelope, wild boar, langurs and a few translocated rhinos, plus many forest birds. Wildlife is harder to see than in Chitwan because of dense forest and hills."}
+  ]
+}

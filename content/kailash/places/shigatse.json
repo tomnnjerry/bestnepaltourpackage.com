@@ -1,0 +1,131 @@
+{
+  "slug": "shigatse",
+  "name": "Shigatse",
+  "region": "kailash",
+  "kind": "city",
+  "wiki": "Shigatse",
+  "image_query": "Tashi Lhunpo Monastery Shigatse",
+  "lat": 29.267,
+  "lng": 88.881,
+  "altitude_m": 3840,
+  "tagline": "Tibet's second city at 3,840 m, seat of the Panchen Lamas",
+  "meta_description": "Shigatse (3,840 m): Tashilhunpo Monastery, the Panchen Lama's seat, Shalu, the kora path, hotels and distances to Lhasa, Gyantse and Everest north side.",
+  "summary": "Shigatse, at 3,840 m, is Tibet's second-largest city and home to Tashilhunpo Monastery, the seat of the Panchen Lamas founded in 1447. It sits about 270 km west of Lhasa and is the overnight stop on journeys to Everest's north side, Kailash from Lhasa, and the Lhasa–Gyantse–Shigatse circuit.",
+  "intro": [
+    "Shigatse lies at the meeting of the Yarlung Tsangpo and the Nyang Chu rivers, in a wide farming valley at 3,840 m. Historically the capital of the Tsang region, it rivalled Lhasa for power, and the rebuilt Shigatse Dzong on its hill recalls that past. Today it is a large modern city with broad avenues, an airport and a railway link to Lhasa, but its heart is still the great monastery of Tashilhunpo on the western edge of town.",
+    "Tashilhunpo was founded in 1447 by Gendun Drup, later recognised as the first Dalai Lama, and became the seat of the Panchen Lamas. Its gold roofs, white assembly halls and red chapels cover a hillside, and its Maitreya chapel holds a seated statue of the future Buddha some 26 m high. Pilgrims walk a kora path around the walls, spinning prayer wheels and stopping at shrines.",
+    "Most travellers spend one night here, either on the Lhasa–Gyantse–Shigatse circuit, on the way to Everest's north base camp, or on the long road from Lhasa to Kailash. A second night allows a morning trip to Shalu Monastery and a slower look at the old town. Foreigners need a guide and the Tibet Travel Permit; check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "3,840 m"],
+    ["Best months", "Apr – Jun · Sep – Oct"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Shigatse Peace (≈ 45 km)"],
+    ["From Kathmandu", "Flight to Lhasa + ≈ 270 km road or 3 h train"],
+    ["Known for", "Tashilhunpo Monastery, Panchen Lamas, Shalu"]
+  ],
+  "best_months": [1, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Tashilhunpo Monastery", "text": "Founded in 1447 and seat of the Panchen Lamas, Tashilhunpo is one of the great Gelug monasteries. Its chapels hold the tombs of several Panchen Lamas and a 26 m gilded Maitreya, among the largest seated metal statues anywhere."},
+    {"title": "The Tashilhunpo kora", "text": "A pilgrim path of about an hour circles the monastery walls and climbs the hill behind, lined with prayer wheels, mani stones and rock paintings. It gives views over the gold roofs and the city."},
+    {"title": "Shalu Monastery", "text": "About 22 km south-east of town, Shalu dates from the 11th century and blends Tibetan and Chinese styles, with green-glazed tile roofs and fine early murals. It sees few visitors."},
+    {"title": "Shigatse Dzong", "text": "The fortress on the hill above the old town was rebuilt in the 2000s on the lines of the original, often compared to a small Potala. It is best seen from the streets below at sunset."},
+    {"title": "Gateway to Everest and Kailash", "text": "Shigatse is the last city on the road west. From here it is about 330 km to Everest's north side via Lhatse and the Gyatso La, and some 450 km to Saga on the way to Kailash."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Lhasa–Shigatse is about 270 km (4–5 h) by the direct northern road, or about 360 km via Yamdrok Lake and Gyantse with sightseeing stops. Gyantse–Shigatse is about 90 km (1.5–2 h)."},
+    {"mode": "Rail", "text": "The Lhasa–Shigatse railway takes about 3 hours. Foreigners can use it with their guide and permit; seats sell out in summer."},
+    {"mode": "Air", "text": "Shigatse Peace airport, about 45 km from town, has limited flights to Chinese cities. There are no flights from Kathmandu; travellers from Nepal fly to Lhasa."}
+  ],
+  "where_to_stay": "Shigatse has several mid-range and upper mid-range hotels in the city centre and along the main avenues. The Gesar Hotel (Xigaze Gesar Hotel), a Tibetan-styled 4-star property, is a common choice for tour groups. Other hotels change names and standards often, so we book the best available 3-star or 4-star rooms for each departure. All have heating and hot water; some offer room oxygen. Stays near the Tashilhunpo end of town allow an easy early walk to the monastery.",
+  "stays": ["gesar-hotel-shigatse"],
+  "tips": [
+    "Visit Tashilhunpo in the morning when monks are active and light is good on the roofs.",
+    "Walk the kora clockwise and allow an hour; the hill section is steep at 3,900 m.",
+    "Ask before photographing inside chapels; many charge a camera fee or ban photos.",
+    "If you are heading to Everest, buy snacks and water here; choice thins out beyond Lhatse.",
+    "Carry your passport for checkpoints entering and leaving the city."
+  ],
+  "themes": ["cultural-tours", "buddhist-circuit", "photography"],
+  "nearby": ["gyantse", "lhasa", "rongbuk"],
+  "experiences": [
+    {
+      "slug": "shigatse-tashilhunpo-monastery",
+      "title": "Tashilhunpo Monastery and Maitreya chapel",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–Oct",
+      "price_hint": "Ticket ≈ CNY 100, included in our tours",
+      "image_query": "Tashi Lhunpo Monastery gold roofs",
+      "wiki": "Tashi Lhunpo Monastery",
+      "summary": "A guided visit to the monastery founded in 1447 as seat of the Panchen Lamas, with its 26 m gilded Maitreya, the tomb chapels of past Panchen Lamas and assembly halls still used by monks.",
+      "body": [
+        "You enter through the main gate and climb lanes between whitewashed monk quarters towards the chapels. The Maitreya chapel on the western side holds the Jampa statue, cast in 1914 under the 9th Panchen Lama, seated and about 26 m high, covered in gold and copper. Visitors look up from the floor through several storeys of balconies.",
+        "Nearby are the tomb stupas of the Panchen Lamas, including a joint tomb for the 5th to 9th, and the chapel of the 10th Panchen Lama, who died in 1989. The main assembly hall is lined with thangkas and rows of cushions where monks gather for prayers. Butter lamps, murmured chanting and the smell of juniper fill the rooms.",
+        "Allow two or three hours, moving slowly; the lanes rise steadily. Photography rules vary by chapel, and fees apply in some. Afterwards, walk part of the kora or browse the market opposite the gate for prayer flags and incense."
+      ],
+      "good_for": ["first-timers", "photographers", "families", "pilgrims"],
+      "faqs": [
+        {"q": "Who founded Tashilhunpo Monastery?", "a": "Tashilhunpo was founded in 1447 by Gendun Drup, a disciple of Tsongkhapa who was later recognised as the first Dalai Lama. It became the seat of the Panchen Lamas from the 17th century and is one of the six great monasteries of the Gelug school."},
+        {"q": "How big is the Maitreya statue at Tashilhunpo?", "a": "The seated Maitreya (Jampa) statue in Tashilhunpo is about 26 m high and was cast in 1914 under the 9th Panchen Lama, using large quantities of gold and copper. It is one of the largest gilded seated Buddha statues in the world."},
+        {"q": "How long does a Tashilhunpo visit take?", "a": "Allow 2–3 hours for the main chapels, assembly hall and Maitreya chapel, plus about an hour if you walk the outer kora. Mornings are best, when monks are at prayer and crowds are thinner."}
+      ]
+    },
+    {
+      "slug": "shigatse-tashilhunpo-kora-walk",
+      "title": "Tashilhunpo kora walk",
+      "kind": "hiking",
+      "duration": "1–1.5 hours",
+      "best_time": "Early morning or late afternoon",
+      "price_hint": "",
+      "image_query": "Tashilhunpo kora prayer wheels Shigatse",
+      "wiki": "",
+      "summary": "Join local pilgrims on the clockwise circuit around Tashilhunpo's walls and up the hill behind, past prayer wheels, mani stones and painted rocks, with views over the monastery roofs and Shigatse.",
+      "body": [
+        "The kora begins near the monastery gate and runs clockwise along the outer wall, where long rows of prayer wheels turn under the hands of elderly pilgrims. It then climbs the slope behind the monastery to a ridge hung with prayer flags, with rock carvings and painted Buddhas along the way.",
+        "From the high section you look down on the gold roofs of Tashilhunpo and across the city to the dzong and the farmland of the Nyang Chu valley. Early morning and evening are when locals walk it, many carrying beads and murmuring mantras. Keep pace with them and follow the clockwise direction.",
+        "The walk is about 3 km and gains roughly 100 m, which feels steep at 3,900 m. Wear walking shoes, take water and go slowly. It is an excellent acclimatisation exercise before heading west to higher ground."
+      ],
+      "good_for": ["solo", "photographers", "couples", "pilgrims"],
+      "faqs": [
+        {"q": "How long is the Tashilhunpo kora?", "a": "About 3 km, taking 1–1.5 hours at a pilgrim pace. It follows the outer wall and climbs the hill behind the monastery, gaining roughly 100 m. Morning and evening are best for atmosphere and light."},
+        {"q": "Is the Tashilhunpo kora suitable for older travellers?", "a": "The wall section is flat and easy; the hill section is steeper and uneven. Older travellers can walk the prayer-wheel stretch and skip the climb. At 3,840 m, slow steady walking is the key."},
+        {"q": "Can I walk the kora without a guide?", "a": "Guides must accompany foreigners in Tibet, but on the kora they often let you walk at your own pace and meet at the end. Ask your guide; rules on independent movement inside towns are applied with some flexibility."}
+      ]
+    },
+    {
+      "slug": "shigatse-shalu-monastery-side-trip",
+      "title": "Shalu Monastery side trip",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning",
+      "price_hint": "≈ ₹3,000–5,000 per vehicle add-on",
+      "image_query": "Shalu Monastery green tile roof",
+      "wiki": "Shalu Monastery",
+      "summary": "A half-day trip to Shalu, about 22 km south-east of Shigatse, an 11th-century monastery with green-glazed Chinese-style roofs and some of the finest early murals in central Tibet, visited by few travellers.",
+      "body": [
+        "Shalu was founded in 1040 and rebuilt in the 14th century, when the scholar Butön Rinchen Drub was its abbot. Craftsmen from the Yuan court in China worked on it, which explains the green glazed-tile roofs that make it look unlike any other monastery in Tibet. The village around it is quiet farmland.",
+        "Inside, the corridors and chapels preserve murals from the 14th century, showing a blend of Newar, Chinese and Tibetan styles. The light is dim, so bring a small torch if allowed. A few monks look after the building and may show you the main chapels.",
+        "The drive takes about 40 minutes each way on a minor road. It fits on the morning before leaving Shigatse for Gyantse or Lhasa, or as an add-on day for travellers interested in art history. Check with your guide whether the monastery is open on the day."
+      ],
+      "good_for": ["couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "Why is Shalu Monastery special?", "a": "Shalu combines Tibetan and Yuan Chinese architecture, with distinctive green-glazed tile roofs, and keeps important 14th-century murals in Newar and Chinese influenced styles. It was the seat of the scholar Butön, who compiled the Tibetan Buddhist canon. It is far less visited than Tashilhunpo."},
+        {"q": "How far is Shalu from Shigatse?", "a": "About 22 km south-east, roughly 40 minutes each way by road. A visit takes 2–3 hours including travel. It can be combined with the drive from Shigatse to Gyantse, which runs in the same direction."},
+        {"q": "Is Shalu included in standard Tibet tours?", "a": "Not usually. It is an optional add-on in our Tibet group tour and Lhasa–Everest tour, priced per vehicle. It needs to be listed in your permit, so request it when booking rather than on the road."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Shigatse?", "a": "Shigatse is at about 3,840 m (12,600 ft), slightly higher than Lhasa at 3,656 m. Travellers who have spent three nights in Lhasa usually cope well. Those coming from Kathmandu overland should allow time to acclimatise before heading higher."},
+    {"q": "How far is Shigatse from Lhasa?", "a": "About 270 km by the direct road (4–5 hours), or about 360 km via Yamdrok Lake and Gyantse, a full day with stops. The train takes about 3 hours. Most tours go out via Gyantse and return by the direct road or train."},
+    {"q": "How many days do I need in Shigatse?", "a": "One night is enough to see Tashilhunpo and walk the kora. A second night allows a trip to Shalu Monastery or Sakya, and a slower pace before Everest or Kailash. On the Lhasa–Gyantse–Shigatse tour we include one night."},
+    {"q": "What is Shigatse famous for?", "a": "Tashilhunpo Monastery, seat of the Panchen Lamas, with its 26 m gilded Maitreya; the rebuilt Shigatse Dzong; and its role as Tibet's second city and the gateway west to Everest and Kailash."},
+    {"q": "Where should I stay in Shigatse?", "a": "Tour groups commonly use the Gesar Hotel, a Tibetan-styled 4-star property, and similar 3-star and 4-star hotels in the centre. All have heating and hot water. We book the best available option for each departure depending on your package."},
+    {"q": "Can I go from Shigatse to Everest Base Camp?", "a": "Yes. Shigatse to Rongbuk is about 330 km, 6–7 hours via Lhatse, the Gyatso La (about 5,250 m) and the Pang La viewpoint. Most tours overnight at Rongbuk or Old Tingri. You need your Tibet permit endorsed for the Everest area."},
+    {"q": "Is there a train to Shigatse?", "a": "Yes, the Lhasa–Shigatse railway opened in 2014 and takes about 3 hours. Foreigners may ride it with their guide and permit. It is a comfortable alternative to the drive, though seats sell out in peak months."},
+    {"q": "What is the weather like in Shigatse?", "a": "Dry and sunny for most of the year. May, June and September bring days of 18–24 °C and cool nights. July and August have some afternoon rain. Winters are cold, around −10 °C at night, but clear."},
+    {"q": "Can I visit Shigatse on a Kailash yatra?", "a": "Only on itineraries that start in Lhasa. Our Kailash yatra with Lhasa fly-in passes through Shigatse in both directions. The Kerung and Simikot routes from Nepal do not pass Shigatse."}
+  ]
+}

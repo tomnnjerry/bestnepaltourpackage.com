@@ -1,0 +1,130 @@
+{
+  "slug": "dhanusadham",
+  "name": "Dhanusadham",
+  "region": "chitwan",
+  "kind": "pilgrimage site",
+  "wiki": "Dhanusadham",
+  "image_query": "Dhanusha temple Dhanushadham Nepal",
+  "lat": 26.84,
+  "lng": 86.07,
+  "altitude_m": 90,
+  "tagline": "Where a fragment of Shiva's broken bow is worshipped",
+  "meta_description": "Dhanusadham near Janakpur: Dhanusha temple with the fragment of Shiva's bow broken by Rama, Makar Sankranti fair, Mithila villages and how to reach from Janakpur.",
+  "summary": "Dhanusadham is a pilgrimage town about 18 km north-east of Janakpur where Hindus believe a piece of Shiva's bow, broken by Rama at Sita's swayamvara, fell and turned to stone. The Dhanusha temple guards the fragment. Pilgrims pair it with Janakpur in a half day, and a big fair marks Makar Sankranti.",
+  "intro": [
+    "In the Ramayana, King Janak declared that only a man who could string the great bow of Shiva would marry his daughter Sita. Princes from across the land failed to lift it; Rama lifted it, drew the string, and the bow broke into pieces. Local tradition holds that one piece fell here, in the forests north of Janakpur, and turned to stone. The place became Dhanusadham, the abode of the bow, and gives its name to the whole district of Dhanusha.",
+    "Today Dhanusadham is a small municipality of farming villages, formed in 2014, with the Dhanusha temple at its heart. The temple is modest compared with Janakpur's marble Janaki Mandir, but for pilgrims it completes the story: Janakpur for Sita's birth and wedding, Dhanusadham for the bow that made the wedding possible. Many visitors come with a priest from Janakpur and offer prayers, flowers and red powder at the fragment.",
+    "The drive from Janakpur runs through flat Mithila countryside of rice and wheat fields, ponds, mango orchards and mud-walled villages, some with Mithila paintings on the walls. On Makar Sankranti in mid-January, a large fair fills the temple grounds; at other times Dhanusadham is quiet. We include it as a half-day trip on our Janakpur packages and yatras."
+  ],
+  "facts": [
+    ["Altitude", "≈ 90 m"],
+    ["Best months", "Oct – Mar; Makar Sankranti fair in mid-January"],
+    ["Nights we suggest", "0 (half-day trip from Janakpur)"],
+    ["Nearest airport", "Janakpur (≈ 18 km · 40 min)"],
+    ["From Kathmandu", "≈ 245 km · 7.5–8.5 h by road via Janakpur"],
+    ["Known for", "Fragment of Shiva's bow, Ramayana pilgrimage"]
+  ],
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The Dhanusha temple", "text": "The temple at Dhanusadham shelters a stone believed to be a fragment of Shiva's bow, broken by Rama to win Sita's hand. Pilgrims circle it, offer flowers and red powder, and pray for happy marriages."},
+    {"title": "A key stop on the Ramayana circuit", "text": "For Ramayana pilgrims, Dhanusadham completes the Janakpur story: Sita's birthplace and wedding in Janakpur, the broken bow here. Many Indian groups add it to visits to Ayodhya and Sitamarhi."},
+    {"title": "Makar Sankranti fair", "text": "In mid-January, Dhanusadham hosts a large Makar Sankranti fair, with pilgrims from Nepal and Bihar bathing, praying and browsing stalls of sweets, bangles and household goods."},
+    {"title": "Mithila countryside drive", "text": "The 40-minute drive from Janakpur crosses flat farmland, ponds and villages where women still paint Mithila designs on house walls, especially around weddings and festivals."},
+    {"title": "Quiet temple grounds", "text": "Outside festival days, Dhanusadham is calm, with shady trees and few visitors, a contrast to Janakpur's crowded centre and a good place for unhurried prayers."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Dhanusadham is ≈ 18 km · 40 min north-east of Janakpur on a paved road. We use private cars from Janakpur; local buses and shared jeeps also run but are crowded. From Kathmandu, drive ≈ 230 km to Janakpur via the BP Highway, then continue to Dhanusadham."},
+    {"mode": "Air", "text": "Fly Kathmandu–Janakpur in about 25 minutes, then drive ≈ 18 km · 40 min to Dhanusadham. This is the easiest route for seniors."}
+  ],
+  "where_to_stay": "There are no tourist hotels in Dhanusadham. Pilgrims stay in Janakpur, 40 minutes away, where hotels within walking distance of the Janaki Mandir offer simple, clean rooms and vegetarian food, and visit Dhanusadham on a half-day trip. On our Janakpur packages we stay two nights in Janakpur so that Dhanusadham can be visited without rushing.",
+  "stays": [],
+  "tips": [
+    "Visit in the morning and return to Janakpur for lunch and the evening aarti at the Janaki Mandir.",
+    "Carry water and snacks; there are only small tea shops near the temple.",
+    "Dress modestly and remove shoes at the temple entrance.",
+    "On Makar Sankranti, roads from Janakpur are jammed; leave very early or visit on another day.",
+    "Ask your guide to stop at a Mithila village on the way if you would like to see wall paintings."
+  ],
+  "themes": ["pilgrimage", "cultural-tours", "festivals"],
+  "nearby": ["janakpur"],
+  "experiences": [
+    {
+      "slug": "dhanusadham-bow-temple-darshan",
+      "title": "Darshan at the Dhanusha bow temple",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours at the temple",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Free; donations welcome",
+      "image_query": "Dhanusha Dham temple bow fragment",
+      "wiki": "Dhanusadham",
+      "summary": "Offer prayers at the stone fragment of Shiva's bow, hear the story of Sita's swayamvara from the temple priest, and circle the shrine as pilgrims have done for generations.",
+      "body": [
+        "The temple stands in a compound with shady trees and smaller shrines. At its centre is the stone revered as a piece of Shiva's great bow, Pinaka, broken when Rama strung it at Sita's swayamvara. Pilgrims offer flowers, red and yellow powder, sweets and coins, and circle the shrine clockwise while chanting Rama's name.",
+        "A priest usually sits at the shrine and can perform a short puja on request, telling the story of the swayamvara and explaining the temple's place in Mithila tradition. Couples often pray here for a strong marriage, echoing Sita and Rama, and families bring children for blessings. The atmosphere on ordinary days is quiet and personal, without the crowds of Janakpur.",
+        "Allow an hour at the temple, plus 40 minutes each way from Janakpur. Remove shoes at the gate and dress modestly. Photography of the compound is generally fine; ask the priest before photographing the shrine itself."
+      ],
+      "good_for": ["pilgrims", "seniors", "families", "couples"],
+      "faqs": [
+        {"q": "What is worshipped at Dhanusadham?", "a": "A stone believed to be a fragment of the bow of Shiva, which Rama broke while stringing it at Sita's swayamvara in Janakpur. Pilgrims offer flowers, red powder and prayers to the fragment, especially for happy marriages. The temple gives its name to the district of Dhanusha."},
+        {"q": "How far is Dhanusadham from Janakpur?", "a": "About 18 km north-east, a 40-minute drive on a paved road. A half day is enough for the round trip and darshan. We include it with a private car on our Janakpur packages, returning in time for lunch."},
+        {"q": "Is there an entry fee at Dhanusadham?", "a": "No, entry is free. Donations to the temple and payments for a priest-led puja are voluntary; agree the amount for a puja in advance or let our guide arrange it. Carry small notes for offerings."}
+      ]
+    },
+    {
+      "slug": "dhanusadham-makar-sankranti-fair",
+      "title": "Makar Sankranti fair at Dhanusadham",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Makar Sankranti, around 14–15 January",
+      "price_hint": "Free",
+      "image_query": "Makar Sankranti fair Terai Nepal",
+      "wiki": "Makar Sankranti",
+      "summary": "On Makar Sankranti in mid-January, pilgrims from across Mithila gather at Dhanusadham for prayers, ritual bathing and a busy fair of food, music and stalls around the bow temple.",
+      "body": [
+        "Makar Sankranti marks the sun's entry into Capricorn and the turn toward longer days, and it is one of the main festivals at Dhanusadham. Pilgrims from Dhanusha, neighbouring districts and Bihar arrive from early morning, bathe in nearby ponds, offer sesame and rice at the temple and share festive food: chura (beaten rice), dahi (curd), tilkut and sesame laddoo.",
+        "A fair grows around the temple, with stalls of sweets, bangles, toys, clothes and household goods, swings for children and devotional music. It is a local celebration rather than a tourist event, and the mix of pilgrims, families and traders gives a strong sense of Mithila village life.",
+        "If you plan to visit on the day, start early from Janakpur, agree a meeting point with your group, and keep valuables to a minimum. The temple queue can be long by mid-morning. January mornings in the Terai are often foggy and cold, so bring a warm layer."
+      ],
+      "good_for": ["pilgrims", "photographers", "groups"],
+      "faqs": [
+        {"q": "When is the Dhanusadham fair?", "a": "The main fair is on Makar Sankranti, usually 14 or 15 January, with activity continuing for a day or two. Check the exact date in the calendar each year. Smaller gatherings take place on other festival days such as Ram Navami and Vivah Panchami."},
+        {"q": "What food is eaten on Makar Sankranti in Mithila?", "a": "Chura (beaten rice) with dahi (curd) and jaggery is the classic meal, along with sesame sweets such as tilkut and til laddoo. Khichdi is also cooked in many homes. Stalls at the Dhanusadham fair sell most of these."},
+        {"q": "Is the Dhanusadham fair crowded?", "a": "Yes, on the main day the temple and roads are very busy, especially from mid-morning. It is a friendly local crowd, but keep children and seniors close. Visiting early or the day after gives a calmer experience."}
+      ]
+    },
+    {
+      "slug": "dhanusha-mithila-village-drive",
+      "title": "Mithila village stop near Dhanusadham",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Morning, Oct–Mar; best around Diwali, Chhath and weddings",
+      "price_hint": "Included in our Janakpur packages",
+      "image_query": "Mithila wall painting village house",
+      "wiki": "Madhubani art",
+      "summary": "A short stop in a Maithili village on the road between Janakpur and Dhanusadham to see mud-walled homes, ponds, mango groves and, in festival seasons, fresh Mithila paintings on the walls.",
+      "body": [
+        "The road from Janakpur to Dhanusadham crosses classic Mithila countryside: flat fields of rice and wheat, ponds lined with bamboo and mango trees, and villages of mud and brick houses. With our guide, we stop at a village where families are used to visitors and walk for half an hour through the lanes.",
+        "In the weeks around Diwali, Chhath and wedding seasons, women paint fresh designs on walls and courtyard floors: fish, birds, lotus flowers, and figures from the Ramayana and Krishna stories. At other times you may see older, faded paintings and the kohbar designs painted in bridal rooms. Your guide explains what the motifs mean and how the tradition passes from mother to daughter.",
+        "Ask before photographing people or entering courtyards. Children often gather to say hello; please do not hand out sweets or money. If you want to buy art, the Janakpur Women's Development Centre near Janakpur is the fairest place to do so."
+      ],
+      "good_for": ["photographers", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "Can I see Mithila wall paintings in villages near Janakpur?", "a": "Yes, especially in the weeks around Diwali, Chhath and weddings, when women repaint house walls and courtyards. At other times you will still see older paintings. A guide helps you find villages where visitors are welcome and explains the designs."},
+        {"q": "What is a kohbar painting?", "a": "A kohbar is a Mithila painting made in the room where a newly married couple spends their first nights. It is full of symbols of fertility and long marriage, such as lotus flowers, bamboo, fish, turtles and the sun and moon. It is one of the oldest forms of Mithila art."},
+        {"q": "Is it respectful to visit Mithila villages as a tourist?", "a": "Yes, if you go with a local guide, keep visits short, dress modestly and ask before taking photographs. Avoid entering homes uninvited and do not give money or sweets to children. Buying art from women's cooperatives is a good way to support the community."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the story of Dhanusadham?", "a": "According to the Ramayana, King Janak promised Sita to the man who could string Shiva's bow. Rama lifted and strung it, and the bow broke. Local tradition says one fragment fell at Dhanusadham and turned to stone, and the temple there now enshrines it. The district of Dhanusha takes its name from the bow."},
+    {"q": "Where is Dhanusadham?", "a": "Dhanusadham is a municipality in Dhanusha District, Madhesh Province, about 18 km north-east of Janakpur. It sits in flat Terai farmland and is reached by a paved road in about 40 minutes from Janakpur."},
+    {"q": "How much time do I need for Dhanusadham?", "a": "A half day from Janakpur: 40 minutes each way and about an hour at the temple, plus a village stop if you like. Most pilgrims go in the morning and return to Janakpur for lunch and the evening aarti."},
+    {"q": "Is Dhanusadham included in Janakpur tour packages?", "a": "Yes, in our Janakpur Ram Janaki darshan, Vivah Panchami and Devghat–Janakpur packages. We visit with a private car and guide. If you are booking only hotels and flights, we can add the trip as a half-day excursion."},
+    {"q": "What is the best time to visit Dhanusadham?", "a": "October to March, in the morning. Makar Sankranti in mid-January brings a big fair. April to June is very hot, often above 40 °C, and July to September is monsoon, when roads can flood."},
+    {"q": "Is Dhanusadham suitable for elderly pilgrims?", "a": "Yes. The drive is short and flat, the car can stop near the temple and the shrine is at ground level. There are few facilities, so bring water and use the toilet in Janakpur before leaving. Avoid Makar Sankranti day if crowds are a concern."},
+    {"q": "Can I combine Dhanusadham with Sitamarhi in India?", "a": "Yes. Many Indian pilgrims combine Janakpur, Dhanusadham and Sitamarhi (Punaura Dham, believed to be Sita's birthplace in Bihar), about 50 km from Janakpur. Indian citizens cross easily at Bhitthamore or Jaynagar; others should check border rules."},
+    {"q": "Are there hotels in Dhanusadham?", "a": "No tourist hotels. Stay in Janakpur, which has simple hotels near the Janaki Mandir, and visit Dhanusadham as a day trip. During festivals some pilgrims stay in local dharamshalas, but these are very basic."},
+    {"q": "What else is near Dhanusadham?", "a": "Janakpur, 18 km away, with the Janaki Mandir, Vivah Mandap and sacred ponds. Mithila villages lie along the route. Further afield, Jaleshwar in Mahottari has a well-known Shiva temple, and Sitamarhi in Bihar is about 50 km from Janakpur."}
+  ]
+}

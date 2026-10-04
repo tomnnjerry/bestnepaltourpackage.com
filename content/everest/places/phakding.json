@@ -1,0 +1,131 @@
+{
+  "slug": "phakding",
+  "name": "Phakding",
+  "region": "everest",
+  "kind": "trekking village",
+  "wiki": "Phakding",
+  "image_query": "Phakding village Dudh Koshi bridge",
+  "lat": 27.7397,
+  "lng": 86.7128,
+  "altitude_m": 2610,
+  "tagline": "Riverside first-night stop on the Dudh Koshi, three hours from Lukla",
+  "meta_description": "Phakding (2,610 m): first night of the Everest trek, 3–4 h downhill from Lukla on the Dudh Koshi, with lodges, prayer wheels and the walk to Namche next day.",
+  "summary": "Phakding is a string of lodges on both banks of the Dudh Koshi at 2,610 m, three to four hours' easy walk from Lukla. Nearly every Everest trek sleeps here on night one, because it is lower than Lukla and sets up the long climb to Namche Bazaar the next day.",
+  "intro": [
+    "Phakding sits in a narrow, forested stretch of the Dudh Koshi valley, where the milky glacial river runs fast between pine-covered slopes. The village is split by a suspension bridge: lodges line the trail on both sides, with terraced fields of potatoes and barley behind them. It is 250 m lower than Lukla, which is the main reason it works so well as a first stop. You sleep low after flying up from Kathmandu, and your body gets a gentle start.",
+    "The walk in from Lukla takes three to four hours. You pass Chaurikharka's fields, the junction at Cheplung, then Thado Koshi and Ghat, where chortens, long mani walls of carved stones and water-driven prayer wheels sit beside the trail. Kusum Kanguru (6,367 m) shows its snowy summit up side valleys to the east on clear mornings. Mule trains, yaks crossbred with cattle (called dzopkyo) and porters share the path all day.",
+    "Phakding itself is quiet once the day's trekkers have arrived. There is little to do beyond a short walk, a hot shower and an early dinner, and that is the point. On the way back down from Namche, many groups pass through Phakding at lunchtime on their way to Lukla rather than staying. The next morning's walk to Namche passes Benkar, Monjo, the Sagarmatha National Park gate at Jorsale and the Hillary Suspension Bridge before the long climb."
+  ],
+  "facts": [
+    ["Altitude", "2,610 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Lukla, 3–4 h walk"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 3–4 h walk"],
+    ["Known for", "First night of the EBC trek, Dudh Koshi river, mani walls"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Gentle first day from Lukla", "text": "The trail from Lukla to Phakding loses about 250 m over 8 km, with a few short climbs. After an early flight it gives you a relaxed half-day walk and an afternoon to rest, which is ideal at the start of an altitude trek."},
+    {"title": "Mani walls and prayer wheels at Ghat", "text": "Below Phakding, the hamlet of Ghat has long walls of stones carved with the mantra om mani padme hum and prayer wheels turned by streams. Pass them on your right, clockwise, as Sherpas do."},
+    {"title": "Dudh Koshi river", "text": "The Dudh Koshi, or milk river, drains the glaciers of Everest and Cho Oyu. At Phakding it runs grey-white and loud beside the lodges. Suspension bridges strung with prayer flags cross it here and several times on the way to Namche."},
+    {"title": "Kusum Kanguru glimpses", "text": "On clear mornings the snow summit of Kusum Kanguru (6,367 m) appears up side valleys east of the trail between Lukla and Phakding. It is one of the more technical trekking peaks in Nepal and rarely climbed."},
+    {"title": "Quiet evenings by the river", "text": "With no road and few shops, Phakding is calm by late afternoon. Most lodges have a sunny terrace and a warm dining room, and the sound of the river helps most people sleep well on their first night in the mountains."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Lukla, walk north through the Pasang Lhamu gate and down via Chaurikharka, Cheplung, Thado Koshi and Ghat: about 8 km and 3–4 hours. From Namche on the way back it is about 10 km and 4–5 hours, mostly downhill to the Hillary Bridge then along the river."},
+    {"mode": "Air", "text": "Fly to Lukla, about 35 minutes from Kathmandu, or 20 minutes from Ramechhap (Manthali) in the peak months when scheduled flights move there. Check current status before you travel."},
+    {"mode": "Road", "text": "Jeeps from Kathmandu via Salleri reach road heads south of Lukla, such as Kharikhola or Surke, in about 2 days; from there you walk 1–2 days to Phakding. Road conditions change each season."}
+  ],
+  "where_to_stay": "Phakding has dozens of lodges on both banks, from basic family teahouses to comfortable lodges with ensuite rooms and hot showers. Yeti Mountain Home Phakding, on the riverside, is the most comfortable, with ensuite rooms, electric blankets and a garden. Many mid-range lodges offer twin rooms with attached bathrooms and Wi-Fi at reasonable prices, as this is still low on the trail. Lodges on the east bank, after the main bridge, catch the morning sun; those on the west bank are a little quieter. Booking is rarely an issue except in mid-October and mid-April.",
+  "stays": [],
+  "tips": [
+    "Wear sun protection on day one: the valley is low but the sun at 2,600 m is strong.",
+    "Take a short evening walk 100–150 m uphill and come back down to help your body adjust.",
+    "Treat or filter all water, including tap water at lodges, from Phakding onwards.",
+    "Step to the hillside, never the river side, when mule trains or yaks pass you on the trail.",
+    "Charge devices at Phakding while charging is cheaper, as prices rise higher up."
+  ],
+  "themes": ["trekking", "family-holidays", "budget-nepal"],
+  "nearby": ["lukla", "namche-bazaar"],
+  "experiences": [
+    {
+      "slug": "hillary-suspension-bridge-crossing",
+      "title": "Crossing the high Hillary Suspension Bridge",
+      "kind": "adventure",
+      "duration": "15 minutes (on the Phakding–Namche day)",
+      "best_time": "Morning, Mar–May and Sep–Nov",
+      "price_hint": "Included in all our Everest treks",
+      "image_query": "Hillary Suspension Bridge Dudh Koshi prayer flags",
+      "wiki": "",
+      "summary": "On the walk from Phakding to Namche, the trail crosses the Dudh Koshi on the Hillary Suspension Bridge, a long steel bridge strung high above the confluence with the Bhote Koshi and draped in prayer flags.",
+      "body": [
+        "After Monjo and the national park gate at Jorsale, the trail runs along the river bed for an hour. At the confluence of the Dudh Koshi and the Bhote Koshi, called Larja Dobhan, it climbs to a high steel suspension bridge spanning the gorge. The present bridge replaced an older, lower one that still hangs below it. It is roughly 100 m above the river at its centre and heavily hung with prayer flags, white khata scarves and bits of tinsel.",
+        "Crossing takes a couple of minutes. The deck sways gently, especially when a yak train or a large group is on it, and the wind can be strong. Wait for yaks and mules to clear the bridge before you step on; you do not want to meet them halfway. Keep one hand on the side cable if you are nervous and look ahead rather than down. Photography is easiest from the trail just before the bridge, where the whole span is visible.",
+        "The bridge marks the start of the climb to Namche Bazaar, about 600 m of switchbacks that take two to three hours. Fill your water bottle before crossing and eat something, because there are only a couple of tea stalls on the hill. People who dislike heights generally find this bridge less frightening than they expect: it is wide, fenced with wire mesh and walked by thousands of trekkers every season."
+      ],
+      "good_for": ["families", "first-timers", "photographers", "groups"],
+      "faqs": [
+        {"q": "Is the Hillary Bridge scary?", "a": "It is high and sways a little, but it has wire mesh sides and a firm deck, and thousands of trekkers cross it every season. If you are nervous about heights, hold the side cable, look ahead and walk steadily behind your guide. It takes about two minutes."},
+        {"q": "Where is the Hillary Suspension Bridge?", "a": "At Larja Dobhan, the confluence of the Dudh Koshi and Bhote Koshi, about an hour beyond the Jorsale park gate on the way from Phakding to Namche. The bridge is at about 2,850 m, at the foot of the climb to Namche."},
+        {"q": "Can yaks and mules cross the Hillary Bridge?", "a": "Yes, and they have right of way in practice. Wait at the end of the bridge until any animal train has crossed completely, then go. Never share the bridge with a yak train; their loads can push you against the cables."}
+      ]
+    },
+    {
+      "slug": "monjo-sagarmatha-park-gate-visit",
+      "title": "Sagarmatha National Park gate at Monjo",
+      "kind": "nature",
+      "duration": "30 minutes",
+      "best_time": "Mid-morning on the Phakding–Namche day",
+      "price_hint": "Park permit ≈ NPR 3,000 (foreigners); check current fees",
+      "image_query": "Sagarmatha National Park entrance Monjo",
+      "wiki": "Sagarmatha National Park",
+      "summary": "Two hours above Phakding, the trail enters Sagarmatha National Park, a UNESCO World Heritage Site since 1979. Permits are checked at the Monjo gate, where a map board and small display introduce the park's peaks, glaciers and wildlife.",
+      "body": [
+        "From Phakding the trail crosses and recrosses the Dudh Koshi through Tok Tok and Benkar, with views of Thamserku's snow ridges above the forest, then climbs gently to Monjo at about 2,835 m. Just past the village, a stone gate and office mark the entrance to Sagarmatha National Park, established in 1976 and listed by UNESCO in 1979. The park covers about 1,148 square km, from the forests here to the summit of Everest.",
+        "Your guide presents your national park permit, or buys it here if it was not arranged in Kathmandu, and the staff record your passport details. While you wait, look at the large relief map at the gate: it shows the whole Khumbu, from Gokyo and the Ngozumpa Glacier to Everest and Island Peak, and is a good way to picture the route ahead. Boards describe snow leopards, red pandas, Himalayan tahr, musk deer and the forests of rhododendron and fir.",
+        "After the gate, stone steps drop steeply to Jorsale on the river, the last village before Namche, and a common lunch stop. Rules inside the park include carrying out non-burnable rubbish, not cutting firewood and not disturbing wildlife. Plastic water bottles are discouraged; refill stations with treated water exist in several villages. Keep your permit and passport handy, as further checks happen at Namche and sometimes elsewhere."
+      ],
+      "good_for": ["families", "first-timers", "groups", "solo"],
+      "faqs": [
+        {"q": "Where do I get the Sagarmatha National Park permit?", "a": "You can buy it at the Nepal Tourism Board office in Kathmandu or at the park gate at Monjo. Most agencies arrange it in advance. The fee for foreigners has been NPR 3,000 and lower for SAARC nationals; check current status before you travel."},
+        {"q": "When did Sagarmatha National Park become a World Heritage Site?", "a": "Sagarmatha National Park was established in 1976 and inscribed as a UNESCO World Heritage Site in 1979. It covers about 1,148 square km in the Khumbu, including Everest, Lhotse, Cho Oyu and their glaciers."},
+        {"q": "What wildlife can I see near Monjo?", "a": "Himalayan tahr on rocky slopes, musk deer in the forest, Himalayan monal and blood pheasants near the trail, and langur monkeys lower down. Snow leopards and red pandas live in the park but are rarely seen by trekkers."}
+      ]
+    },
+    {
+      "slug": "ghat-mani-walls-prayer-wheels",
+      "title": "Mani walls and water prayer wheels at Ghat",
+      "kind": "culture",
+      "duration": "20–30 minutes (on the Lukla–Phakding day)",
+      "best_time": "Late morning, all trekking seasons",
+      "price_hint": "Included in all our Everest treks",
+      "image_query": "mani stones Khumbu trail prayer wheel",
+      "wiki": "Mani stone",
+      "summary": "On the walk from Lukla to Phakding, the hamlet of Ghat has some of the longest carved mani walls and chortens of the lower trail, plus small prayer wheels turned by mountain streams. It is a gentle introduction to Sherpa Buddhist custom.",
+      "body": [
+        "Ghat lies about 30–45 minutes before Phakding, on a flat terrace above the Dudh Koshi. The trail passes long walls built of flat stones, each carved and often painted with the six-syllable mantra om mani padme hum, the prayer associated with Chenrezig, the bodhisattva of compassion. Some stones carry images of deities or entire scriptures. Families commission them to earn merit or remember relatives, and many are decades old and covered in lichen.",
+        "Beside the walls stand chortens, small white stupas with painted eyes or symbols, and prayer wheels housed in little buildings over streams. The running water turns the wheel day and night, and each turn is believed to send the prayers inside out into the world. Sherpas always pass mani walls, chortens and prayer wheels with them on their right, walking clockwise, and spin hand prayer wheels clockwise too.",
+        "Your guide will explain the basics as you go. Take photos freely of the stones and chortens, but do not sit or climb on them, and never take a stone as a souvenir. From Ghat the trail continues along the river to Phakding, mostly level, with one more suspension bridge. This is a relaxed section of the walk, so slow down here and enjoy it; the bigger climbs start tomorrow."
+      ],
+      "good_for": ["families", "pilgrims", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Why do you walk to the left of mani walls?", "a": "Sherpa and Tibetan Buddhists keep sacred objects on their right, walking clockwise around them. On the trail that means passing to the left of a mani wall or chorten. It is a sign of respect, and trekkers are encouraged to follow the custom."},
+        {"q": "What is written on mani stones?", "a": "Most carry the mantra om mani padme hum in Tibetan script, associated with compassion. Others show deities, prayers or short scriptures. Families pay carvers to make them as an act of merit or in memory of someone who has died."},
+        {"q": "Can I spin the prayer wheels on the Everest trail?", "a": "Yes. Spin them clockwise with your right hand as you pass. Water-driven wheels in stream houses turn by themselves. Avoid spinning them backwards or treating them as toys, as they are religious objects."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Phakding from Lukla?", "a": "About 8 km, taking 3–4 hours on foot. The trail is mostly downhill or level, losing around 250 m from Lukla (2,860 m) to Phakding (2,610 m). It is the easiest stage of the Everest Base Camp trek."},
+    {"q": "Why do treks sleep in Phakding and not Lukla?", "a": "Phakding is lower than Lukla, so sleeping there on the first night after flying up from Kathmandu helps acclimatisation. It also shortens the next day's walk to Namche Bazaar, which includes a 600 m climb."},
+    {"q": "How long is the walk from Phakding to Namche Bazaar?", "a": "About 10–11 km and 5–6 hours, gaining roughly 830 m. You follow the Dudh Koshi via Monjo and Jorsale, cross the Hillary Bridge, then climb about 600 m to Namche. It is the first hard day of the trek."},
+    {"q": "Are there good lodges in Phakding?", "a": "Yes, Phakding has many lodges, from basic teahouses to comfortable places with ensuite rooms and hot showers. Yeti Mountain Home Phakding is the most upmarket. Prices are lower here than higher up the trail."},
+    {"q": "Is there Wi-Fi in Phakding?", "a": "Most lodges in Phakding offer Wi-Fi, free or for a small fee, and there is mobile coverage along much of the valley. Speeds vary. Higher up, many lodges sell Everest Link prepaid Wi-Fi cards."},
+    {"q": "Can I get altitude sickness in Phakding?", "a": "It is rare at 2,610 m. A mild headache after flying up from Kathmandu is possible and usually fades by evening. Drink water, avoid alcohol on the first night and walk slowly. Serious symptoms are uncommon this low."},
+    {"q": "What is the weather in Phakding in spring?", "a": "In March to May, days are mild at about 12–20 °C and nights around 2–6 °C. Mornings are often clear, with cloud and occasional showers building in the afternoon, especially in May. Rhododendrons flower on the slopes above in April."},
+    {"q": "Is Phakding worth a visit for non-trekkers?", "a": "Only as part of a short walk. The Everest View trek and Lukla–Phakding day walks suit families or older travellers who want to see Sherpa villages and the Dudh Koshi valley without going high. On its own it is a simple lodge village."},
+    {"q": "Do I need a permit to reach Phakding?", "a": "You need the Khumbu Pasang Lhamu Rural Municipality permit, checked at Lukla. The Sagarmatha National Park permit is checked the next day at Monjo, just beyond Phakding. Check current fees and rules before you travel."}
+  ]
+}

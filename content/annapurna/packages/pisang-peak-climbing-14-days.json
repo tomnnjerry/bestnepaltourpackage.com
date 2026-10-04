@@ -1,0 +1,293 @@
+{
+  "slug": "pisang-peak-climbing-14-days",
+  "title": "Pisang Peak Climbing 14 Days (6,091 m)",
+  "region": "annapurna",
+  "type": "climb",
+  "grade": "Strenuous",
+  "nights": 13,
+  "themes": ["peak-climbing", "adventure-sports", "trekking"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "besisahar", "nights": 2},
+    {"place": "manang", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 171000,
+  "price_from_usd": 1990,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 6091,
+  "accommodation": "3-star hotel in Kathmandu, standard hotel in Besisahar, teahouses and tented camps on the mountain",
+  "transport": "Private vehicle Kathmandu–Besisahar and return, jeeps Besisahar–Chame and Manang–Besisahar",
+  "group": "Private or small group, 2–8",
+  "meta_description": "Pisang Peak climbing in 14 days: 6,091 m trekking peak above the Manang valley, NMA climbing permit, ACAP permit, base camp, high camp and summit day.",
+  "summary": "A 14-day climb of Pisang Peak, 6,091 m, a pyramid of rock and snow above the Annapurna Circuit near Upper Pisang. We drive to Chame, acclimatise in Pisang and Ghyaru, set up base camp at about 4,380 m and high camp at about 5,400 m, then climb a snow ridge with fixed rope to the top.",
+  "intro": [
+    "Pisang Peak rises directly above the Marsyangdi valley between Pisang and Manang, a clean snow pyramid that every circuit trekker sees on the walk from Chame. It is one of the trekking peaks managed by the Nepal Mountaineering Association, which issues its climbing permits. The standard route climbs through pine forest and yak pasture to a base camp, then up a long ridge to a high camp on rock, and finally onto a snow and ice slope of about 45–50 degrees, secured with fixed rope, to a narrow summit.",
+    "Three permits apply: the NMA climbing permit for Pisang Peak, whose royalty changes with season; the ACAP permit for the Annapurna Conservation Area; and a refundable garbage deposit. You must climb with an NMA-licensed climbing guide, which we provide. The route is not technical by Himalayan standards, but you need to be comfortable with crampons, an ice axe, a harness and jumar on fixed lines, and should have trekked above 5,000 m before."
+  ],
+  "highlights": [
+    "Summit of Pisang Peak, 6,091 m, with Annapurna II and Manaslu in view",
+    "Snow ridge climb on fixed rope above high camp",
+    "Acclimatisation days in Upper Pisang and Ghyaru on the high trail",
+    "Rope and crampon training at base camp before the climb",
+    "A contingency day for weather built into the schedule",
+    "End in Manang, the cultural hub of the upper valley"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "We meet you at the airport and transfer you to your hotel. In the afternoon, our climbing guide checks your equipment: mountaineering boots compatible with crampons, harness, helmet, ice axe, jumar and descender, down suit or heavy down jacket, and a sleeping bag rated to −20 °C. Missing items can be rented in Thamel. We complete paperwork for the NMA climbing permit and the ACAP permit. A short briefing explains the climb, acclimatisation plan and safety rules.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Drive Kathmandu to Besisahar",
+      "place": "besisahar",
+      "overnight": "Besisahar",
+      "altitude_m": 760,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 175 km · 6–7 h",
+      "flight": "",
+      "text": "We leave Kathmandu early and follow the Prithvi Highway to Dumre, then turn north up the Marsyangdi valley to Besisahar at 760 m, the headquarters of Lamjung district. Gear and food for the climb travel with us. The ACAP checkpost records permits on arrival. Besisahar has the last reliable ATMs on the route, so withdraw cash for the trip. Overnight in a standard hotel near the jeep stand.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Jeep from Besisahar to Chame",
+      "place": "",
+      "overnight": "Chame",
+      "altitude_m": 2670,
+      "max_m": 2670,
+      "walk": "",
+      "drive": "≈ 65 km · 6–7 h",
+      "flight": "",
+      "text": "Four-wheel-drive jeeps take the team and equipment up the rough valley road through Jagat, Tal and Dharapani, with the river roaring below. The landscape changes from rice terraces to pine forest, and Lamjung Himal and Annapurna II appear ahead. Chame, at 2,670 m, is the headquarters of Manang district and a good place to sort loads before the walking begins. Porters for the climbing equipment join us here.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Chame to Upper Pisang",
+      "place": "",
+      "overnight": "Upper Pisang",
+      "altitude_m": 3310,
+      "max_m": 3310,
+      "walk": "≈ 5–6 h · 14 km",
+      "drive": "",
+      "flight": "",
+      "text": "We walk along the Marsyangdi through pine forest and apple orchards to Bhratang, then beneath the curved rock face of Paungda Danda. As the valley opens at Dhukur Pokhari, Pisang Peak comes into view for the first time, its snow pyramid rising above the north side of the valley. We climb to Upper Pisang at 3,310 m, a village of stone houses below a gompa, gaining about 640 m. From the lodge, the climb route is visible.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Acclimatisation loop to Ghyaru",
+      "place": "",
+      "overnight": "Upper Pisang",
+      "altitude_m": 3310,
+      "max_m": 3670,
+      "walk": "≈ 4–5 h",
+      "drive": "",
+      "flight": "",
+      "text": "A climb-high, sleep-low day. We walk west along the high trail and climb the steep zigzags to Ghyaru at 3,670 m, a balcony village with views of Annapurna II, III and IV and Gangapurna across the valley. After tea and a look around the village, we return to Upper Pisang for the night. In the afternoon, the guide reviews knots, harness fitting and crampon technique, and checks everyone's oxygen saturation and resting pulse.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Upper Pisang to Pisang Base Camp",
+      "place": "",
+      "overnight": "Pisang Base Camp",
+      "altitude_m": 4380,
+      "max_m": 4380,
+      "walk": "≈ 4 h · 5 km",
+      "drive": "",
+      "flight": "",
+      "text": "We leave the circuit and climb north on a steep path through pine and juniper, then across yak pastures to a flat area at about 4,380 m that serves as base camp. Height gain is about 1,070 m, so we go slowly with frequent stops. The crew sets up tents, a kitchen and a dining tent. From camp, the summit pyramid looks close, and the Annapurna range spreads across the southern skyline. Expect sub-zero temperatures as soon as the sun sets.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "Rest and training at base camp",
+      "place": "",
+      "overnight": "Pisang Base Camp",
+      "altitude_m": 4380,
+      "max_m": 4700,
+      "walk": "≈ 2–3 h",
+      "drive": "",
+      "flight": "",
+      "text": "Today is for acclimatisation and skills. After breakfast the climbing guide runs a training session on a nearby slope: walking in crampons, using the ice axe, clipping into fixed lines, ascending with a jumar and abseiling. In the afternoon we walk up towards about 4,700 m for extra acclimatisation and return to camp to sleep. Rest, eat well and drink 4 litres of fluid; anyone with altitude symptoms stays down.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 8,
+      "title": "Base camp to High Camp",
+      "place": "",
+      "overnight": "Pisang High Camp",
+      "altitude_m": 5400,
+      "max_m": 5400,
+      "walk": "≈ 4–5 h · 3 km",
+      "drive": "",
+      "flight": "",
+      "text": "We climb a steep rocky ridge and moraine to high camp at about 5,400 m, gaining roughly 1,000 m. Loads are kept light, with porters carrying tents and food. The camp sits on a rocky shoulder with a view of the summit snowfield above and the Manang valley far below. We arrive early afternoon, set up tents, eat and rest. The guide checks weather forecasts and gear, and everyone goes to bed early for a 2 am start.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 9,
+      "title": "Summit Pisang Peak, back to base camp",
+      "place": "",
+      "overnight": "Pisang Base Camp",
+      "altitude_m": 4380,
+      "max_m": 6091,
+      "walk": "≈ 10–12 h",
+      "drive": "",
+      "flight": "",
+      "text": "We leave at about 2 am wearing harnesses, helmets and crampons. The route climbs a snowfield and then a ridge to the final summit slope, about 45–50 degrees of snow and ice, where the guide fixes rope for the ascent. The top, 6,091 m, is a narrow crest with views of Annapurna II, Gangapurna, Tilicho Peak and Manaslu in the distance. After photos we descend carefully on the fixed lines to high camp and continue to base camp by evening.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 10,
+      "title": "Contingency day",
+      "place": "",
+      "overnight": "Pisang Base Camp",
+      "altitude_m": 4380,
+      "max_m": 4380,
+      "walk": "",
+      "drive": "",
+      "flight": "",
+      "text": "Mountain weather is unpredictable, and this spare day lets us delay the summit attempt if wind, snow or cloud make day 9 unsafe. If the climb went to plan, we use it to rest at base camp or descend early towards Manang and spend an extra night there. The decision rests with the climbing guide, based on forecasts and how the group is doing. There are no refunds for unused contingency days.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 11,
+      "title": "Base camp via Lower Pisang to Manang",
+      "place": "manang",
+      "overnight": "Manang",
+      "altitude_m": 3519,
+      "max_m": 4380,
+      "walk": "≈ 5–6 h · 15 km",
+      "drive": "",
+      "flight": "",
+      "text": "We break camp and descend through pasture and forest to Pisang, then follow the valley floor via Humde and Braga to Manang at 3,519 m, the largest village in the upper valley. The landscape turns drier and browner as you move into the rain shadow. In Manang, enjoy a hot shower, a bakery treat and a celebration dinner with the team. If time allows, walk down to Gangapurna Lake in the late afternoon.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 12,
+      "title": "Jeep from Manang to Besisahar",
+      "place": "besisahar",
+      "overnight": "Besisahar",
+      "altitude_m": 760,
+      "max_m": 3519,
+      "walk": "",
+      "drive": "≈ 95 km · 9–10 h",
+      "flight": "",
+      "text": "A long jeep ride takes us back down the Marsyangdi valley from Manang to Besisahar, passing through the villages and forests you walked and drove through on the way in. The road is rough and slow, with frequent stops for photos and tea. In the monsoon or after storms, landslides can delay the journey; we keep the itinerary flexible. Overnight in Besisahar.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 13,
+      "title": "Drive Besisahar to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 175 km · 6–7 h",
+      "flight": "",
+      "text": "We drive back to Kathmandu along the Marsyangdi and Trishuli valleys, arriving in the afternoon. The evening is free for a hot shower and a farewell dinner. Your guide helps collect the refundable garbage deposit and returns any rented equipment. If you prefer, we can drop you in Pokhara instead, about 4 hours from Besisahar, for a few days of rest by Phewa Lake.",
+      "meals": "B, L"
+    },
+    {
+      "day": 14,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "We transfer you to Tribhuvan International Airport about three hours before your flight. If you are staying on, we can arrange sightseeing in the Kathmandu Valley or a trip to Chitwan. Keep your NMA summit certificate safe; it is issued for climbers who reach the top. We suggest flexible international tickets, since weather on the mountain can push the schedule by a day.",
+      "meals": "B"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and 2 nights 3-star hotel in Kathmandu with breakfast",
+    "Private vehicle Kathmandu–Besisahar–Kathmandu and jeeps to Chame and from Manang",
+    "NMA climbing permit for Pisang Peak, ACAP permit and garbage deposit handling",
+    "NMA-licensed climbing guide and trekking guide",
+    "Porters for personal and group equipment",
+    "Teahouse lodges on the trail and tented camps at base and high camp",
+    "All meals during the trek and climb",
+    "Group climbing equipment: fixed and main ropes, ice screws, snow bars",
+    "Satellite phone or radio and first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Lunch and dinner in Kathmandu",
+    "Personal climbing gear (boots, crampons, harness, helmet, ice axe, jumar)",
+    "Travel insurance covering climbing and helicopter rescue to 6,500 m",
+    "Summit bonus for climbing guide (customary)",
+    "Hot showers, charging and drinks",
+    "Tips for porters and crew",
+    "Extra nights due to weather or early departure"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more climbers, including permits; solo climbers pay a supplement for a private guide and tent.",
+    "Permits: NMA climbing permit for Pisang Peak (royalty varies by season, roughly US$70–250 per climber), ACAP permit (NPR 3,000 foreigners, NPR 1,000 SAARC including Indians) and a refundable garbage deposit. Check current status before you travel.",
+    "An NMA-licensed climbing guide is mandatory for Pisang Peak, and Nepal's licensed-guide rule applies to the trekking section; both are included.",
+    "You should have previous trekking experience above 5,000 m and be comfortable with crampons and fixed ropes; we offer a training session at base camp, not a beginner's course.",
+    "Best seasons are April–May and October–November. Winter climbs are possible but cold and windy, and snow can block the route."
+  ],
+  "add_ons": [
+    {"name": "Cross Thorong La after the climb (adds 4 days)", "price": "≈ ₹34,000 / US$ 400 per person"},
+    {"name": "Rental of personal climbing gear", "price": "≈ US$ 80–120 per person"},
+    {"name": "Helicopter from Manang to Pokhara instead of jeep", "price": "≈ US$ 600–800 per seat, shared"}
+  ],
+  "faqs": [
+    {
+      "q": "How difficult is Pisang Peak climbing?",
+      "a": "We grade it Strenuous. It is a non-technical trekking peak by Himalayan standards, but the final slope is about 45–50 degrees of snow and ice, climbed with fixed rope, crampons and an ice axe. Summit day lasts 10–12 hours. You need good fitness, previous trekking above 5,000 m and basic rope skills."
+    },
+    {
+      "q": "What permits are needed for Pisang Peak?",
+      "a": "Three: an NMA climbing permit for Pisang Peak, whose royalty varies by season; an ACAP permit for the Annapurna Conservation Area; and a refundable garbage deposit. An NMA-licensed climbing guide is required. We arrange all of them. Fees and rules change, so check current status before you travel."
+    },
+    {
+      "q": "How high is Pisang Peak?",
+      "a": "Pisang Peak is 6,091 m above sea level. Base camp is at about 4,380 m and high camp at about 5,400 m, so summit day climbs about 690 m before descending all the way to base camp. It is one of the more accessible 6,000 m peaks in the Annapurna region."
+    },
+    {
+      "q": "Can beginners climb Pisang Peak?",
+      "a": "Complete beginners should not. You should have trekked above 5,000 m and ideally used crampons and fixed ropes before. Fit trekkers with some winter hiking or alpine course experience can succeed with our training day at base camp. If you are new to climbing, consider Island Peak or a mountaineering course first."
+    },
+    {
+      "q": "How much does Pisang Peak climbing cost?",
+      "a": "Our 14-day package starts from about ₹1,71,000 or US$1,990 per person on twin sharing, including permits, climbing and trekking guides, porters, camps, meals and transport. Personal climbing gear, insurance and the guide's summit bonus are extra. Solo climbers pay more because guide and camp costs are not shared."
+    },
+    {
+      "q": "What is the best time to climb Pisang Peak?",
+      "a": "April and May, and October and November, offer the most stable weather and safest snow conditions. Spring is warmer, autumn clearer. December to February is very cold and windy, with deep snow possible. June to September is monsoon in the lower valley, with unstable snow and limited views higher up."
+    },
+    {
+      "q": "Pisang Peak or Chulu East, which is better?",
+      "a": "Pisang Peak at 6,091 m is shorter and more popular, with a steep final snow slope. Chulu East at about 6,584 m is higher and longer, with more glacier travel and usually an extra camp. Both need NMA permits and licensed guides. Pisang suits a first 6,000 m peak; Chulu East suits climbers with more experience."
+    },
+    {
+      "q": "What is the summit success rate on Pisang Peak?",
+      "a": "Success depends on weather, snow conditions and how well each climber acclimatises. The final slope can be icy or loaded with fresh snow, and some climbers turn back at high camp. Our itinerary includes acclimatisation days and a contingency day to improve the chances, but no operator can guarantee the summit."
+    },
+    {
+      "q": "What insurance do I need for Pisang Peak?",
+      "a": "You need travel insurance that explicitly covers mountaineering to at least 6,500 m and helicopter rescue from high altitude. Many standard policies exclude climbing with ropes or above 6,000 m, so read the terms carefully. We ask for your policy details before the trip and carry them on the mountain."
+    }
+  ]
+}

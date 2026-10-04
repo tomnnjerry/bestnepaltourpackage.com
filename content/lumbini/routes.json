@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "lumbini-to-kathmandu",
+    "from": "lumbini",
+    "to": "kathmandu",
+    "distance_km": 300,
+    "summary": "Lumbini to Kathmandu is about 300 km by road via Butwal, Narayanghat and Mugling, taking 8–10 hours, or a 35-minute flight from Bhairahawa, 20 km from Lumbini. Flying saves a full day; driving lets you stop in Chitwan or at the Manakamana cable car.",
+    "options": [
+      {"mode": "Flight", "time": "35 min + 40 min transfer", "text": "Buddha Air, Yeti Airlines and Shree Airlines fly from Gautam Buddha International Airport in Bhairahawa to Kathmandu in about 35 minutes, usually several times a day. Drive 30–40 minutes from Lumbini to the airport and arrive an hour before departure. Indian nationals pay a rupee fare; other foreign nationals pay a higher dollar fare. Morning fog in December and January can cause delays, so check current status before you travel."},
+      {"mode": "Private car", "time": "8–10 h", "text": "A private car follows the road via Bhairahawa, Butwal and the East-West Highway to Narayanghat, then the Prithvi Highway past Mugling and up the Trishuli valley into Kathmandu, about 300 km. Road widening on the Narayanghat–Mugling section and heavy truck traffic can add hours. Leave by 7 am, stop for lunch at Narayanghat or Kurintar, and expect to reach Kathmandu in the early evening."},
+      {"mode": "Tourist bus", "time": "9–11 h", "text": "Tourist and deluxe buses run daily from Bhairahawa, and some from Lumbini Bazaar, to Kathmandu, mostly in the morning, with night buses also available. Seats are reserved and buses stop for meals. They are much cheaper than a private car but slower and less flexible, and night buses on this route are tiring. Book a day ahead through your hotel."},
+      {"mode": "Road via Chitwan", "time": "2 days", "text": "Many travellers split the journey with one or two nights in Chitwan. Lumbini to Sauraha is about 180 km and five hours; Sauraha to Kathmandu is another 160 km and 5–6 hours. This turns a long transfer into a wildlife stop with a jeep safari and canoe ride, and the driving days stay under six hours."}
+    ],
+    "stops_on_way": ["Butwal (Jit Gadhi fort, lunch)", "Ramagrama stupa (short detour near Parasi)", "Chitwan National Park (Sauraha)", "Narayanghat (Narayani river)", "Manakamana cable car at Kurintar", "Mugling (river confluence)"],
+    "tip": "If you have only a week in Nepal, fly this leg and use the saved day for Pokhara or Chitwan.",
+    "faqs": [
+      {"q": "How long does it take from Lumbini to Kathmandu by road?", "a": "Usually 8–10 hours by private car for the 300 km via Butwal, Narayanghat and Mugling, and 9–11 hours by tourist bus. Highway widening and truck traffic can add more, especially between Narayanghat and Mugling. Check current status before you travel, and start early to arrive in daylight."},
+      {"q": "Is there a flight from Lumbini to Kathmandu?", "a": "Lumbini has no airport of its own, but Gautam Buddha International Airport in Bhairahawa, about 20 km away, has several daily flights to Kathmandu by Buddha Air, Yeti Airlines and Shree Airlines. The flight takes about 35 minutes. Add 30–40 minutes for the drive from Lumbini to the airport."},
+      {"q": "What is the cheapest way from Lumbini to Kathmandu?", "a": "The cheapest way is a tourist or local bus from Bhairahawa or Lumbini Bazaar, costing a fraction of a flight or private car. Expect 9–11 hours with meal stops. Night buses save a hotel night but are tiring and less safe on winding sections, so we recommend day buses."},
+      {"q": "Can I stop in Chitwan between Lumbini and Kathmandu?", "a": "Yes, and we recommend it if you have time. Chitwan's Sauraha is about five hours from Lumbini and 5–6 hours from Kathmandu, so a night or two there splits the journey neatly and adds a jeep safari, a canoe ride and a Tharu cultural evening."}
+    ]
+  },
+  {
+    "slug": "lumbini-to-tansen",
+    "from": "lumbini",
+    "to": "tansen",
+    "distance_km": 90,
+    "summary": "Lumbini to Tansen is about 90 km, 2.5–3 hours by car via Bhairahawa, Butwal and the Siddhartha Highway, climbing from the 150 m Terai plain to a 1,350 m hill town. Devdaha and Butwal's Jit Gadhi fort make good stops on the way.",
+    "options": [
+      {"mode": "Private car", "time": "2.5–3 h", "text": "Drive from Lumbini to Bhairahawa, north to Butwal, then up the Siddhartha Highway through the Tinau gorge to the Bartung junction and the short link road into Tansen. The first hour is flat; the last hour climbs steadily with many bends and gains about 1,150 m. A private car lets you stop at Devdaha, Jit Gadhi fort or the Siddhababa temple, and the air turns noticeably cooler as you climb."},
+      {"mode": "Local bus", "time": "3.5–4.5 h", "text": "There is no direct tourist bus. Take a local bus or microbus from Lumbini Bazaar to Bhairahawa or Butwal, then a bus from Butwal bus park to Tansen, which takes 1.5–2 hours on the hill section. Buses are frequent from morning to late afternoon but crowded, with little space for luggage. Changing in Butwal is straightforward if you ask for the Tansen or Palpa bus."},
+      {"mode": "Car with Devdaha stop", "time": "5 h with stops", "text": "Turn the transfer into a half-day of sightseeing by visiting Devdaha, the home of Maya Devi, about an hour from Lumbini, then lunch in Butwal and a visit to Jit Gadhi fort before the climb. You arrive in Tansen by mid-afternoon with time for an old-town walk. This version adds about two hours to the journey and links the Buddhist story to Palpa's history."}
+    ],
+    "stops_on_way": ["Bhairahawa (Siddharthanagar)", "Devdaha (Maya Devi's home town)", "Butwal and Jit Gadhi fort", "Siddhababa temple at the Tinau gorge", "Bartung junction"],
+    "tip": "Take motion-sickness tablets before leaving Butwal if you are prone, as the climb to Tansen is winding.",
+    "faqs": [
+      {"q": "How far is Tansen from Lumbini?", "a": "About 90 km by road, usually 2.5–3 hours by private car via Bhairahawa, Butwal and the Siddhartha Highway. Local buses take 3.5–4.5 hours with a change in Butwal. The road climbs from about 150 m at Lumbini to 1,350 m at Tansen in the final hour."},
+      {"q": "Is there a direct bus from Lumbini to Tansen?", "a": "No direct tourist bus runs between them. Take a local bus from Lumbini Bazaar to Butwal, either direct or via Bhairahawa, and change to a Tansen or Palpa bus at Butwal bus park. Buses run frequently in daytime. A private car is easier with luggage."},
+      {"q": "Is the road from Butwal to Tansen safe?", "a": "Yes, with a careful driver in daylight. The Siddhartha Highway climbs steeply through the Tinau gorge with many bends, and rockfall and landslides are possible in the monsoon from June to September. Check current status before you travel in heavy rain, and avoid driving it at night."},
+      {"q": "Can I visit Devdaha on the way to Tansen?", "a": "Yes. Devdaha, home of the Buddha's mother Maya Devi, is about 12 km east of Butwal, so it adds roughly two hours including the visit. Combine it with lunch in Butwal and Jit Gadhi fort, and you still reach Tansen by mid-afternoon."}
+    ]
+  },
+  {
+    "slug": "lumbini-to-tilaurakot",
+    "from": "lumbini",
+    "to": "tilaurakot",
+    "distance_km": 27,
+    "summary": "Lumbini to Tilaurakot, the site identified with ancient Kapilavastu, is about 27 km west, 45 minutes to an hour by car on the Lumbini–Taulihawa road. Kudan, Gotihawa and the Niglihawa Ashoka pillar are all within 10 km, making a natural half-day circuit.",
+    "options": [
+      {"mode": "Private car", "time": "45 min–1 h", "text": "The paved Lumbini–Taulihawa road runs west through flat farmland and villages, reaching Taulihawa town in about 45 minutes; Tilaurakot is 3 km further north. A private car with a guide is the best way to combine Tilaurakot with Kudan, Gotihawa and Niglihawa in a half-day or full day, about 70–80 km in total. Narrow village roads lead to the smaller sites."},
+      {"mode": "Local bus + auto", "time": "1.5–2 h", "text": "Local buses run from Lumbini Bazaar and Bhairahawa to Taulihawa several times a day. From Taulihawa bus park, autos and cycle rickshaws can take you to Tilaurakot and wait while you visit. It is cheap but slow, and reaching Kudan or Niglihawa as well requires negotiating a longer auto hire."},
+      {"mode": "Bicycle", "time": "2–2.5 h each way", "text": "Experienced cyclists can ride the flat 27 km in the cool winter months, starting at dawn and riding back in the afternoon. The road carries buses and trucks, there is little shade, and there are only basic tea stalls on the way, so it suits fit riders only. Most visitors cycle within Lumbini and take a car to Tilaurakot."}
+    ],
+    "stops_on_way": ["Lumbini Bazaar (Mahilwar)", "Farm villages and mustard fields", "Taulihawa town", "Kudan (4 km south of Taulihawa)", "Niglihawa Ashoka pillar (7 km north-east of Taulihawa)"],
+    "tip": "Visit Tilaurakot in the morning and Niglihawa on the way back, when late light falls on the pillar and the pond.",
+    "faqs": [
+      {"q": "How far is Kapilavastu from Lumbini?", "a": "Tilaurakot, the site Nepal identifies as ancient Kapilavastu, is about 27 km west of Lumbini, 45 minutes to an hour by car. Piprahwa, the alternative site in India, lies just across the border near Birdpur, roughly 16 km south-east of Tilaurakot as the crow flies, but foreign nationals can only cross at official points such as Sonauli."},
+      {"q": "Can I visit Tilaurakot by public transport?", "a": "Yes. Take a local bus from Lumbini Bazaar or Bhairahawa to Taulihawa, then an auto or rickshaw for the last 3 km to Tilaurakot. Buses run several times a day. Allow 1.5–2 hours each way, and agree the auto fare, including waiting time, in advance."},
+      {"q": "What else is near Tilaurakot?", "a": "Kudan, linked to the Buddha's meeting with his father, is about 4 km south of Taulihawa; Gotihawa, with an Ashoka pillar stump, is a few kilometres south-west; and Niglihawa's Ashoka pillar is 7 km north-east. All can be combined with Tilaurakot in a half-day by car."},
+      {"q": "How much does a car from Lumbini to Tilaurakot cost?", "a": "A private car with driver for a half-day trip to Tilaurakot and back costs roughly ₹3,500–4,500, and a full day covering all Kapilavastu sites with a guide about ₹6,500. Prices vary with season and fuel costs. Our Lumbini packages include this excursion."}
+    ]
+  }
+]

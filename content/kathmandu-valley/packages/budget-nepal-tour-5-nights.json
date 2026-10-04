@@ -1,0 +1,163 @@
+{
+  "slug": "budget-nepal-tour-5-nights",
+  "title": "Budget Nepal Tour, 5 Nights by Tourist Bus",
+  "region": "kathmandu-valley",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["budget-nepal", "cultural-tours", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 3},
+    {"place": "pokhara", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 18000,
+  "price_from_usd": 260,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 1600,
+  "accommodation": "Clean tourist-class hotels with private bathroom in Thamel (Kathmandu) and Lakeside (Pokhara)",
+  "transport": "Kathmandu–Pokhara–Kathmandu by tourist bus, private car for the Kathmandu sightseeing day, taxis in Pokhara",
+  "group": "Private trip for 2 or more; solo travellers on request",
+  "meta_description": "Budget Nepal tour package, 6 days and 5 nights: Kathmandu temples and Pokhara lakes by tourist bus, clean hotels, from ₹18,000 per person.",
+  "summary": "Our lowest-cost Nepal trip covers the two places most first-timers want: the temples and old squares of Kathmandu and the lake and mountain views of Pokhara. We save money where it does not hurt, using tourist buses and simple hotels, and spend it on a proper guided city day and a Sarangkot sunrise.",
+  "intro": [
+    "This 6-day, 5-night trip is built for students, young couples, friends travelling together and anyone who would rather spend on experiences than on hotel lobbies. You sleep in clean, tourist-class hotels with private bathrooms and hot water in Thamel and Lakeside, the two neighbourhoods where cheap food, money changers and taxis are all within a five-minute walk. Breakfast is included every day; lunch and dinner you choose yourself, which is where a budget trip in Nepal saves the most.",
+    "The road journeys run on tourist buses that leave Kathmandu's Kantipath at about 7 am and reach Pokhara's tourist bus park in 7–8 hours, with breakfast and lunch stops on the Prithvi Highway. It is slower than the 25-minute flight, but you see the Trishuli river gorge, terraced hillsides and roadside towns such as Malekhu and Mugling. One full guided day in Kathmandu covers four of the valley's seven UNESCO monument zones, and in Pokhara we set you up with a pre-booked taxi for the Sarangkot sunrise and the main sights."
+  ],
+  "highlights": [
+    "Guided day at Swayambhunath, Kathmandu Durbar Square, Pashupatinath and Boudhanath",
+    "Sunrise over Annapurna and Machhapuchhre from Sarangkot (1,600 m)",
+    "Rowing boat on Phewa Lake to the island temple of Tal Barahi",
+    "Tourist bus along the Trishuli river, about 200 km each way",
+    "Free evenings in Thamel and Lakeside for cheap momos and dal bhat",
+    "Half-day in Patan's Durbar Square before your flight home"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, evening in Asan",
+      "place": "kathmandu",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 1 h · 2 km (optional evening walk)",
+      "drive": "≈ 6 km · 20–30 min airport transfer",
+      "flight": "",
+      "text": "Our driver meets you outside the arrivals hall at Tribhuvan International Airport with a name board and takes you to your hotel in Thamel, about 20–30 minutes away depending on traffic. After check-in we hand over a printed plan, a local SIM tip sheet and a short list of places to eat for under NPR 500 a plate. If you land before dark, walk south from Thamel through the spice and steel-pot shops of Asan and Indra Chowk to see the old trading heart of the city at its busiest hour.",
+      "meals": "—"
+    },
+    {
+      "day": 2,
+      "title": "Kathmandu temples and stupas by car",
+      "place": "kathmandu",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 3 h in total at the sites",
+      "drive": "≈ 30 km · 2 h in short hops",
+      "flight": "",
+      "text": "A licensed city guide and private car pick you up at 8:30 am. We start at Swayambhunath, where the stupa sits on a hill at about 1,420 m with monkeys on the 365 steps and the whole valley below. Next is Kathmandu Durbar Square, where the old palace of Hanuman Dhoka and the rebuilt Kasthamandap pavilion stand beside the house of the Kumari, the living goddess. After lunch we visit Pashupatinath on the Bagmati river, then finish at Boudhanath, one of the largest stupas in the world, as the evening kora begins.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Tourist bus to Pokhara and Lakeside",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "altitude_m": 822,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 200 km · 7–8 h by tourist bus",
+      "flight": "",
+      "text": "We drop you at the Kantipath bus stand for the 7 am departure; your reserved seat number is on the ticket. The bus climbs out of the valley, drops to the Trishuli river at Galchi and follows it past rafting beaches and suspension bridges to Mugling, where the Marsyangdi joins. Breakfast and lunch stops are at roadside restaurants, and you pay for your own meal there, usually NPR 400–700. Expect arrival in Pokhara between 2 and 4 pm. Our taxi takes you to Lakeside, and the evening is free for a walk along Phewa Lake.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Sarangkot sunrise and Phewa Lake",
+      "place": "sarangkot",
+      "overnight": "Pokhara (Lakeside)",
+      "altitude_m": 822,
+      "max_m": 1600,
+      "walk": "≈ 20 min climb to the viewpoint",
+      "drive": "≈ 40 km · 2.5 h by taxi in total",
+      "flight": "",
+      "text": "Your taxi leaves Lakeside at about 5 am for the 40-minute drive to Sarangkot, then it is a 20-minute climb up steps to the viewpoint at about 1,600 m. On a clear morning Dhaulagiri, Annapurna South, Machhapuchhre and the Annapurna II and IV peaks turn orange one after another. After breakfast back at the hotel, the same taxi takes you to Davis Falls, Gupteshwor Mahadev cave and the World Peace Pagoda on its ridge above the lake. Late afternoon, hire a rowing boat (about NPR 600–800 an hour) and paddle out to the Tal Barahi temple.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Tourist bus back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 200 km · 7–8 h by tourist bus",
+      "flight": "",
+      "text": "The tourist bus leaves Pokhara's bus park at 7 or 7:30 am and retraces the Prithvi Highway through Damauli, Mugling and the Trishuli gorge. Road works and slow trucks on the final climb past Naubise can add an hour, so we never book anything for this evening. Pack snacks, a water bottle and a light jacket for the air-conditioned bus. Our driver collects you at the Kathmandu drop-off and takes you back to Thamel. If you still have energy, the Garden of Dreams near the Kaiser Mahal is a quiet place to sit before dinner.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Patan Durbar Square and departure",
+      "place": "patan",
+      "overnight": "",
+      "altitude_m": 1350,
+      "max_m": 1400,
+      "walk": "≈ 2 h · 2 km",
+      "drive": "≈ 15 km · 1 h in total",
+      "flight": "",
+      "text": "If your flight leaves after 2 pm, our car takes you to Patan, 5 km south of Thamel across the Bagmati. Walk the Durbar Square with its Krishna Mandir built entirely in stone, the Golden Temple (Hiranya Varna Mahavihar) two lanes north and the metalwork shops where bronze statues are still cast by hand. Entry to the square is NPR 1,000 for foreigners and NPR 250 for SAARC nationals (check current status before you travel). We then transfer you to Tribhuvan International Airport three hours before an international departure.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "5 nights in tourist-class hotels with private bathroom, twin sharing, breakfast daily",
+    "Airport pick-up and drop-off by private car",
+    "Tourist bus tickets Kathmandu–Pokhara and Pokhara–Kathmandu with reserved seats",
+    "Full-day Kathmandu sightseeing by private car with a licensed English- or Hindi-speaking guide",
+    "Bus-stand transfers in Kathmandu and Pokhara",
+    "Early-morning taxi to Sarangkot and Pokhara sightseeing taxi (half day)",
+    "Half-day Patan visit by private car on day 6 (flight timing permitting)",
+    "All government taxes on included services",
+    "Phone and WhatsApp support from our Kathmandu desk during the trip"
+  ],
+  "excludes": [
+    "International flights or train and road travel to the Nepal border",
+    "Nepal visa fee for non-Indian passport holders",
+    "Monument entry fees (about NPR 4,000–5,000 in total for foreigners, far less for SAARC nationals)",
+    "Lunches, dinners, drinks and bottled water",
+    "Guide in Pokhara (available as an extra)",
+    "Phewa Lake boat hire and paragliding",
+    "Travel insurance",
+    "Tips for guide and drivers",
+    "Laundry, phone calls and personal shopping"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing a twin room in simple tourist-class hotels, travel on tourist buses rather than flights, and breakfast only.",
+    "October, November and the Dashain–Tihar holidays fill buses and hotels early; book at least three weeks ahead for those dates.",
+    "Indian nationals do not need a visa but must carry a valid passport or Election Commission voter ID; Aadhaar is often refused by airlines, so do not rely on it.",
+    "Budget for about NPR 1,500–2,500 per person per day for lunch, dinner and drinks if you eat in local restaurants rather than tourist cafes.",
+    "In the monsoon (June–September) the Prithvi Highway can close for hours after landslides, and mountain views from Sarangkot are rare.",
+    "Monument fees and bus fares change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Fly Kathmandu–Pokhara one way instead of the bus", "price": "≈ US$ 120 per person (lower INR fare for Indian nationals; check current status before you travel)"},
+    {"name": "Tandem paragliding from Sarangkot, 20–30 min", "price": "≈ ₹7,000 / US$ 90 per person"},
+    {"name": "Extra night in Pokhara with breakfast", "price": "≈ ₹2,500 / US$ 35 per person"}
+  ],
+  "faqs": [
+    {"q": "How much does a budget Nepal tour from India cost?", "a": "Our 5-night budget tour starts at ₹18,000 per person, twin sharing, with hotels, breakfast, buses, airport transfers and a guided Kathmandu day. Add about ₹1,000–1,500 a day for meals and roughly ₹2,500 for monument fees at SAARC rates. Train or bus travel to the border, or flights to Kathmandu, are extra and usually the biggest single cost."},
+    {"q": "Is the tourist bus from Kathmandu to Pokhara safe and comfortable?", "a": "Yes, tourist buses are the standard way travellers on a budget make this trip. They are larger and slower than microbuses, run only in daylight, carry no standing passengers and stop for meals. Seats are reserved, most buses have air conditioning, and luggage goes in the hold. The journey still takes 7–8 hours because of road works and truck traffic."},
+    {"q": "Can I pay in Indian rupees in Nepal?", "a": "Mostly yes. Shops and restaurants in Thamel and Lakeside take ₹100 notes and smaller, at 1 INR = 1.6 NPR. Indian nationals may carry ₹200 and ₹500 notes up to ₹25,000 in total. Many shops scan UPI through Fonepay QR codes, but check that your bank app supports it before you travel."},
+    {"q": "What kind of hotels are used on this budget package?", "a": "We use clean, tourist-class hotels in Thamel and Lakeside, usually 2–3 storeys with a lift in some, private bathrooms with hot water, Wi-Fi and a breakfast room. They are not resorts and rooms can be small. If you want a pool or a mountain-view room, we can quote a 3-star or 4-star upgrade for each night."},
+    {"q": "Which ID do Indians need for a Nepal trip?", "a": "Adults need either a valid Indian passport or an Election Commission voter ID card. Children under 15 and adults over 65 can use other photo ID such as a PAN card or driving licence, and teenagers aged 15–18 can carry an identity certificate from their school principal. Airlines often refuse Aadhaar, so carry a passport or voter ID."},
+    {"q": "Can we fly to Pokhara instead of taking the bus?", "a": "Yes, the flight takes about 25 minutes and saves most of a day each way. We can swap one or both bus legs for a flight; a one-way ticket costs about US$ 120 for foreign passport holders and less in INR for Indian nationals. Fares change with season and fuel, so check current status before you travel."},
+    {"q": "When is the cheapest time to travel to Nepal?", "a": "Hotel rates drop from June to mid-September and again in January, so those months give the lowest package prices. The trade-off is rain and cloud in the monsoon, with highway delays and few mountain views, and cold mornings in January. For a cheap trip with good views, early December and the second half of February work well."},
+    {"q": "How much does food cost per day in Kathmandu and Pokhara?", "a": "A plate of momos costs about NPR 150–300 in a local eatery and a dal bhat set NPR 300–500. Tourist cafes in Thamel and Lakeside charge NPR 600–1,200 for a main course. Most budget travellers spend NPR 1,500–2,500 (about ₹950–1,550) per person per day on lunch, dinner, tea and water."},
+    {"q": "Can I add Chitwan or Nagarkot to this budget tour?", "a": "Yes. Chitwan adds two nights and a jungle activity package from Pokhara by tourist bus (about 5–6 hours), then you return to Kathmandu by bus from Sauraha. Nagarkot adds one night at the valley rim for sunrise. Tell us your total days and we will send a revised price within a working day."}
+  ]
+}

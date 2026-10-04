@@ -1,0 +1,130 @@
+{
+  "slug": "samdo",
+  "name": "Samdo",
+  "region": "manaslu",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Samdo village Manaslu yak pasture",
+  "lat": 28.651,
+  "lng": 84.603,
+  "altitude_m": 3875,
+  "tagline": "Last village before Larkya La, a day from the Tibet border",
+  "meta_description": "Samdo (3,875 m) on the Manaslu Circuit: last permanent village before Larkya La, Tibet border hike, yak pastures, lodges and acclimatisation advice.",
+  "summary": "Samdo is the highest permanent village on the Manaslu Circuit, at about 3,875 m, a short 3 hour walk above Samagaun. Its people trace their roots to Tibet, and an old trade route leads north to the border. Most trekkers sleep here once, some twice, before Dharamsala and Larkya La.",
+  "intro": [
+    "Samdo stands on a shelf above the upper Budhi Gandaki, a compact village of stone houses, walled fields and prayer flags surrounded by yak pastures. At about 3,875 m it is the last place on the Manaslu Circuit where people live all year, and the landscape already looks like the Tibetan plateau: wide valleys, bare slopes, juniper and thorn scrub, and peaks of rock and snow on every side.",
+    "The families of Samdo are of Tibetan origin, and many trace their roots to villages just across the border that they left in the mid twentieth century. Trade and family links with Tibet continued for years over the passes north of the village, and the old route towards the border still starts here. Yak herding and potato and barley farming support most households, along with a handful of lodges.",
+    "For trekkers Samdo is a staging post. The walk from Samagaun takes about 3 hours and gains roughly 350 m, after which most groups rest and take an afternoon walk higher up the valley. Slower itineraries spend a second night here with a hike towards the Tibet border, which is excellent preparation for the 5,106 m Larkya La two days later. Next morning the trail continues to Dharamsala, the stone huts below the pass."
+  ],
+  "facts": [
+    ["Altitude", "3,875 m"],
+    ["Best months", "Apr – May · Sep – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Kathmandu (heli landing at Samagaun, 3 h below)"],
+    ["From Samagaun", "≈ 3 h · 8 km · 350 m gain"],
+    ["Known for", "Last village before Larkya La, Tibet border trail, yaks"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Highest village on the circuit", "text": "Samdo is the last permanent settlement before Larkya La. Above it there are only seasonal shelters and the stone lodges at Dharamsala, so this is your last proper village night for three days."},
+    {"title": "Tibet border trail", "text": "An old trading path leads north from Samdo up a side valley towards the Tibet border. An acclimatisation hike up this valley gives wide views of the peaks around Samdo and the route of the salt and wool trade."},
+    {"title": "Yak pastures", "text": "Yak and dzo herds graze the flats around Samdo, and in autumn you see herders bringing animals down from summer pastures. The meadows along the river make an easy afternoon walk with the animals all around."},
+    {"title": "Plateau landscapes", "text": "Above Samagaun the forest ends and the land turns to grass, juniper and rock. Samdo's wide, open valley, with snow peaks behind, feels closer to the Tibetan plateau than to the green hills of Gorkha."},
+    {"title": "Tibetan heritage", "text": "Samdo's families are of Tibetan origin and keep close cultural ties across the border. The village chortens, prayer flags and houses reflect that heritage, and lodge owners often share stories of the old trade."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Samagaun walk north up the Budhi Gandaki past mani walls and yak pastures, cross the river on a wooden bridge and climb to Samdo in about 3 hours, roughly 8 km with 350 m gain. From Samdo to Dharamsala (4,460 m) is 3.5 to 4 hours."},
+    {"mode": "Helicopter", "text": "There is no routine heli service to Samdo, but helicopters can land nearby for rescues. Planned flights and pick-ups use Samagaun. If someone develops serious altitude sickness here, descending to Samagaun on foot is the first step while a helicopter is arranged."}
+  ],
+  "where_to_stay": "Samdo has a few simple stone teahouses near the village entrance with twin rooms, shared outside toilets and a stove-heated dining room. Hot showers depend on sun and gas and may not be available. Lodges are colder and plainer than in Samagaun, and in late November some close for winter. Names that appear on recent group itineraries include Yak Hotel and Jambala Guest House, but we reconfirm each season. Bring a warm sleeping bag rated to −15 °C for late autumn.",
+  "stays": [],
+  "tips": [
+    "Walk slowly from Samagaun even though the day is short; sleeping 350 m higher still matters.",
+    "Take an afternoon walk 200 to 300 m above the village and come back down to sleep.",
+    "Fill up on calories at dinner; appetite drops with altitude but you need energy for the next two days.",
+    "Check your gear for the pass: headtorch batteries, microspikes in snow season, warm gloves and 2 litres of water capacity.",
+    "If you have a worsening headache, vomiting or unusual tiredness, do not go higher; descend to Samagaun with your guide."
+  ],
+  "themes": ["trekking", "photography", "cultural-tours"],
+  "nearby": ["samagaun", "larkya-la", "manaslu-base-camp"],
+  "experiences": [
+    {
+      "slug": "samdo-tibet-border-trail-hike",
+      "title": "Acclimatisation hike towards the Tibet border",
+      "kind": "hiking",
+      "duration": "5–7 hours return",
+      "best_time": "Early start, Apr–May and Sep–Nov",
+      "price_hint": "Included in our 14-day and longer treks",
+      "image_query": "Samdo Tibet border trail valley",
+      "wiki": "",
+      "summary": "A long acclimatisation day up the side valley north of Samdo, following the old trade route towards the Tibet border. You climb several hundred metres for big views of the Manaslu and Larkya peaks and return to sleep in Samdo, which makes the Larkya La crossing easier.",
+      "body": [
+        "The path leaves Samdo heading north-east, crosses the river and climbs into a broad valley used by herders and, for centuries, by traders taking salt and wool between Tibet and the Budhi Gandaki. The gradient is steady and the trail clear, through grass and scree with yak shelters on the way. Most groups turn around at a viewpoint between about 4,500 and 5,000 m, depending on fitness and conditions.",
+        "From the high ground you look back across the Budhi Gandaki to Manaslu, Manaslu North and the Larkya peaks, and north towards the rounded hills of the border. The open, windy landscape feels quite different from the valley below. Lammergeiers and Himalayan griffons often circle overhead, and blue sheep graze the higher slopes.",
+        "The border itself is a restricted zone, and foreign trekkers may not cross into Tibet here. Your guide will set the turn-around point and time. Take warm layers, lunch and 2 litres of water, and come back to Samdo by mid afternoon to rest before the walk to Dharamsala."
+      ],
+      "good_for": ["solo", "groups", "photographers"],
+      "faqs": [
+        {"q": "Can I walk to the Tibet border from Samdo?", "a": "You can hike up the valley towards the border on an acclimatisation day, but foreign trekkers may not cross into Tibet here, and the border area itself is restricted. Your guide will choose a turn-around viewpoint, usually between about 4,500 and 5,000 m, and return to Samdo the same day."},
+        {"q": "Is the Samdo acclimatisation day necessary?", "a": "It is not mandatory, but it makes Larkya La safer and easier, especially if you are older, slower or felt symptoms in Samagaun. Standard 14-day itineraries may skip it; our 15 to 20 day itineraries include a second night in Samdo or an extra day in Samagaun."},
+        {"q": "What wildlife might I see near Samdo?", "a": "Blue sheep (bharal) graze the slopes above the village, and lammergeiers, Himalayan griffons and choughs fly overhead. Snow leopards live in the Manaslu Conservation Area but are very rarely seen. Yaks and dzo graze the valley floor near the village."}
+      ]
+    },
+    {
+      "slug": "samdo-yak-pastures-walk",
+      "title": "Yak pastures along the upper Budhi Gandaki",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Afternoon on arrival, Oct–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "yaks Samdo Manaslu pasture",
+      "wiki": "",
+      "summary": "A gentle afternoon walk from Samdo across the river flats and pastures where yaks and dzo graze, with Manaslu North and the Larkya peaks around you. It keeps you moving on arrival day without adding much height.",
+      "body": [
+        "Samdo's pastures spread along the river below the village, divided by stone walls and crossed by streams. In October herders bring yaks and dzo down from higher grazing, and the animals wander freely across the flats. Keep a respectful distance, never stand between a mother and calf, and step uphill when animals pass on narrow paths.",
+        "The walk is mostly level, so it suits tired legs after the climb from Samagaun. Look back south for views of Manaslu's northern side and the glaciers feeding the Budhi Gandaki. The light is best in mid afternoon, before the wind picks up and the temperature drops quickly as the sun goes behind the ridges.",
+        "Ask your guide about the herding year: animals go up to the high pastures in early summer and come down in autumn, and dried dung is collected as winter fuel. Yak products such as cheese and butter appear on some lodge menus."
+      ],
+      "good_for": ["families", "photographers", "seniors", "couples"],
+      "faqs": [
+        {"q": "Are yaks dangerous on the Manaslu trail?", "a": "Yaks are generally calm, but they are big and have horns. Always step to the uphill side when they pass, keep away from cows with calves and do not walk directly behind animals. Herders and your guide will tell you when to wait. Most encounters are uneventful."},
+        {"q": "What is the difference between a yak and a dzo?", "a": "A yak is the long-haired highland bovine adapted to altitudes above about 3,000 m. A dzo is a cross between a yak and a domestic cow, better suited to lower altitudes and used for ploughing and carrying. Around Samdo you will see both."},
+        {"q": "Can I buy yak cheese in Samdo?", "a": "Sometimes. Some lodges and households make cheese and butter from yak or dzo milk in summer and autumn. Ask at your lodge. Supplies are small and seasonal, so do not count on it, and prices are higher than for Kathmandu cheese."}
+      ]
+    },
+    {
+      "slug": "samdo-tibetan-heritage-village-walk",
+      "title": "Samdo village and its Tibetan roots",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Late afternoon",
+      "price_hint": "",
+      "image_query": "Samdo village houses prayer flags",
+      "wiki": "",
+      "summary": "A short walk through Samdo, the highest permanent village on the Manaslu Circuit, whose families came from Tibet and still keep close ties across the border. Chortens, prayer flags and stone houses tell the story of a community shaped by trade and migration.",
+      "body": [
+        "Samdo's families trace their origins to villages just over the Tibet border, and their move here in the mid twentieth century followed the political changes in Tibet. They brought their herds, their religion and their skills in high-altitude farming. Today the village is part of Nepal's Tsum Nubri rural municipality, but language, dress and food remain close to those of Kyirong and the plateau.",
+        "Walk through the lanes with your guide past the village chortens and houses with stacked firewood and juniper on their roofs. In autumn potatoes and barley are harvested and stored for the long winter, and many families move lower when the snow comes. Children attend the village school or board at schools further down the valley.",
+        "Be discreet: Samdo is small, and visitors should not wander into courtyards or photograph people without permission. Buying snacks, tea or souvenirs in the village shops is a simple way to support local households."
+      ],
+      "good_for": ["pilgrims", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Are the people of Samdo Tibetan?", "a": "Samdo's families are of Tibetan origin and many have roots in villages just across the border, from where they moved in the mid twentieth century. They are Nepali citizens today and part of the Tsum Nubri rural municipality, but their language, religion and customs remain closely tied to Tibet."},
+        {"q": "Does Samdo empty out in winter?", "a": "Many families move to lower villages or Kathmandu in the coldest months, from December to February, when snow blocks the trails and temperatures drop below −15 °C at night. Some lodges close by late November. Treks in winter must check which lodges are open in advance."},
+        {"q": "Can I buy souvenirs in Samdo?", "a": "A few shops and lodges sell small items such as woven bands, prayer flags and occasionally handmade woollen goods, alongside snacks and drinks. Choice is limited. Buying local handicrafts directly supports village families; agree a price politely and pay in small rupee notes."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Samdo?", "a": "Samdo is at about 3,875 m, with some sources giving 3,860 m. It is the highest permanent village on the Manaslu Circuit. From here the trail climbs to Dharamsala, also called Larkya Phedi, at about 4,460 m and then over Larkya La at 5,106 m."},
+    {"q": "How long is the walk from Samagaun to Samdo?", "a": "About 3 hours for roughly 8 km and 350 m of height gain, on an easy trail along the river and through yak pastures. The short day is deliberate, to help acclimatisation. Spend the afternoon on a gentle walk above the village."},
+    {"q": "Should I stay two nights in Samdo?", "a": "If your itinerary allows, yes. A second night with a hike up the Tibet border valley improves acclimatisation before Larkya La. Our 15-day and longer Manaslu itineraries build this in. If you are short of time, an extra night in Samagaun does a similar job."},
+    {"q": "Can I see the Tibet border from Samdo?", "a": "You can hike up the side valley towards the border and see the hills that mark it, but you cannot cross. The border area is restricted and there is no tourist crossing here. Foreign trekkers enter Tibet from Nepal via the Kerung or Kodari crossings."},
+    {"q": "How cold does Samdo get?", "a": "In October nights fall to about −8 °C and in November to −10 to −15 °C, with cold winds in the afternoon. Days in sun can feel warm at 8 to 12 °C. Bring a four-season sleeping bag, down jacket, warm hat and gloves."},
+    {"q": "Are lodges in Samdo open all year?", "a": "Most lodges open from March to late November. In winter many families move lower and the lodges close, and the Larkya La is often snowbound. If you plan a December to February trek, we confirm open lodges in Samdo and Dharamsala before departure."},
+    {"q": "Is there electricity in Samdo?", "a": "Yes, from solar panels and a small hydropower supply, but it can be limited and charging often costs a few hundred rupees per device. Carry a power bank and keep batteries warm in your sleeping bag at night, as cold drains them quickly."},
+    {"q": "What are the symptoms of altitude sickness to watch for at Samdo?", "a": "Headache, nausea, loss of appetite, dizziness and poor sleep are early signs. Worsening headache, vomiting, confusion, loss of balance or breathlessness at rest are danger signs. With early signs, rest and do not go higher; with danger signs, descend at once to Samagaun and seek help."},
+    {"q": "What is after Samdo on the Manaslu Circuit?", "a": "The trail climbs gradually to Dharamsala (Larkya Phedi) at about 4,460 m in 3.5 to 4 hours, passing the Larkya Bazaar ruins. You sleep there, then start before dawn the next day to cross Larkya La at 5,106 m and descend to Bimthang at about 3,590 m."}
+  ]
+}

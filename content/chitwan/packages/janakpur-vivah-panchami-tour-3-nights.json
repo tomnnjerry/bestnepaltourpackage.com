@@ -1,0 +1,82 @@
+{
+  "slug": "janakpur-vivah-panchami-tour-3-nights",
+  "title": "Janakpur Vivah Panchami Tour 3 Nights 4 Days",
+  "region": "chitwan",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["pilgrimage", "festivals", "cultural-tours"],
+  "stops": [{"place": "janakpur", "nights": 3}, {"place": "dhanusadham", "nights": 0}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 29000,
+  "price_from_usd": 370,
+  "best_months": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "3-star hotel near the Janaki Mandir, rooms blocked months ahead",
+  "transport": "Kathmandu–Janakpur return flights, private car and e-rickshaws",
+  "group": "Pilgrim groups and families, 2–25",
+  "meta_description": "Janakpur Vivah Panchami tour 3 nights 4 days, 12–15 December 2026: Ram barat procession, Sita–Ram wedding at Vivah Mandap, aarti, flights. From ₹29,000.",
+  "summary": "Join Janakpur's biggest festival, the re-enactment of the wedding of Sita and Rama, with three nights in a hotel close to the Janaki Mandir. Watch the barat procession, the wedding rites at the Vivah Mandap and the evening aartis, with a local guide to manage crowds and timings. For 2026 the festival falls on 14 December.",
+  "intro": [
+    "Vivah Panchami, on the fifth day of the bright half of Mangsir, celebrates the wedding of Sita and Rama, and nowhere celebrates it like Janakpur. For a week the city fills with pilgrims from Nepal and India, kirtan groups sing through the night, and Ramlila troupes perform the story of the swayamvara. Then comes the barat, Rama's wedding procession, followed by the wedding itself at the Vivah Mandap beside the Janaki Mandir. In 2026 the main day falls on Monday 14 December by most published calendars; check current status before you travel.",
+    "Festival week is the hardest time to visit Janakpur independently: flights and hotels sell out, prices rise and roads close. We block hotel rooms within walking distance of the temple months in advance, book flights early, and assign a local guide who knows when and where each event happens. Our 2026 departure runs 12 to 15 December, arriving two days before the wedding and leaving the morning after. Groups can also travel by road from Kathmandu or start from Jaynagar in Bihar."
+  ],
+  "highlights": [
+    "The Sita–Ram wedding re-enactment at the Vivah Mandap",
+    "Rama's barat procession through Janakpur's streets",
+    "Festival aartis at the Janaki Mandir on three evenings",
+    "Kirtan, Ramlila and Ramayana recitals across the city",
+    "Half day at Dhanusadham, shrine of Shiva's broken bow",
+    "Hotel within walking distance of the temple, booked months ahead"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Janakpur, festival evening", "place": "janakpur", "overnight": "Janakpur", "altitude_m": 74, "max_m": 1400, "walk": "≈ 1.5 h", "drive": "≈ 3 km · 10 min", "flight": "Kathmandu–Janakpur · 25 min", "text": "Fly from Kathmandu to Janakpur in about 25 minutes, two days before Vivah Panchami (12 December in 2026). Your guide meets you and checks you into a hotel close to the Janaki Mandir. The city is already decorated with lights, flags and gateways, and kirtan groups and pilgrims from Ayodhya, Bihar and across Nepal fill the lanes. In the afternoon, a guided walk around the temple complex, Vivah Mandap and Ganga Sagar orients you before the crowds peak. Evening aarti at the Janaki Mandir, then a Ramlila performance if one is staged that night.", "meals": "L, D"},
+    {"day": 2, "title": "Dhanusadham and the Ram barat", "place": "dhanusadham", "overnight": "Janakpur", "altitude_m": 74, "max_m": 90, "walk": "≈ 2–3 h", "drive": "≈ 40 km · 1.5 h in total", "flight": "", "text": "Leave early for Dhanusadham, 40 minutes north-east, to pray at the stone fragment of Shiva's bow before festival traffic builds; the shrine completes the story of the swayamvara you will see re-enacted. Back in Janakpur by late morning for darshan and lunch. In the afternoon and evening, the barat, Rama's wedding procession, moves through the streets with decorated chariots, bands, flags and thousands of devotees singing and dancing. Your guide takes you to a good vantage point along the route and keeps the group together.", "meals": "B, L, D"},
+    {"day": 3, "title": "Vivah Panchami, Sita–Ram wedding", "place": "janakpur", "overnight": "Janakpur", "altitude_m": 74, "max_m": 74, "walk": "≈ 3 h", "drive": "", "flight": "", "text": "The main day (14 December in 2026). Morning darshan at the Janaki Mandir, very crowded but full of energy, then rest at the hotel through the middle of the day. From the afternoon, priests at the Vivah Mandap perform the wedding rites of Sita and Rama, following the stages of a Hindu wedding: tilak, kanyadan, the binding of the couple and the circling of the sacred fire, accompanied by traditional Maithili wedding songs. Our guide secures space nearby as early as possible. The celebrations, music and aarti continue late into the night.", "meals": "B, L, D"},
+    {"day": 4, "title": "Morning darshan, fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 3 km · 10 min", "flight": "Janakpur–Kathmandu · 25 min", "text": "A quieter morning darshan as post-wedding rituals continue at the temple, and time for a visit to the Mithila art centre or the bazaar for wedding sweets and souvenirs. After lunch, transfer to the airport for the flight back to Kathmandu. December fog can delay flights, so we book afternoon departures and keep a car on standby to drive the 7–8 hours to Kathmandu via the BP Highway if flights are cancelled.", "meals": "B, L"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Janakpur return flights",
+    "Three nights at a 3-star hotel near the Janaki Mandir, twin sharing",
+    "Pure vegetarian meals as listed",
+    "Local Maithili-speaking festival guide throughout",
+    "Private car to Dhanusadham and airport transfers",
+    "E-rickshaws for short hops in the city",
+    "Festival surcharges on hotel rates",
+    "Standby road transfer if flights are cancelled by fog"
+  ],
+  "excludes": [
+    "Kathmandu hotels and transfers in Kathmandu",
+    "Puja fees and temple donations",
+    "Drinks, bottled water and snacks",
+    "Tips for guide and driver",
+    "Shopping and personal expenses",
+    "Travel insurance",
+    "Extra nights before or after the festival"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, for the 12–15 December 2026 departure; festival-week rates are higher than normal Janakpur rates.",
+    "Vivah Panchami follows the lunar calendar; 14 December 2026 is the date in most published calendars, but check current status before you travel.",
+    "Crowds are very heavy around the Janaki Mandir; seniors should plan rest breaks at the hotel between events.",
+    "Exact timings of the barat and wedding rites are announced locally; our guide adjusts the plan each day.",
+    "Book at least two months ahead; we hold a limited number of rooms."
+  ],
+  "add_ons": [
+    {"name": "Start from Jaynagar, Bihar, instead of Kathmandu", "price": "Deduct ≈ ₹9,000 per person"},
+    {"name": "Extra night in Janakpur after the festival", "price": "≈ ₹5,500 per person"},
+    {"name": "Sitamarhi (Punaura Dham) day trip for Indian citizens", "price": "≈ ₹6,000 per car"}
+  ],
+  "faqs": [
+    {"q": "When is Vivah Panchami 2026 in Janakpur?", "a": "Most published calendars give Monday 14 December 2026, the fifth day of the bright half of Mangsir. Celebrations build for about a week before. Our tour runs 12 to 15 December so you see the barat and the wedding. Lunar dates can vary slightly, so check current status before you travel."},
+    {"q": "What is the Janakpur Vivah Panchami tour package cost?", "a": "From about ₹29,000 per person twin sharing, including return flights from Kathmandu, three nights near the Janaki Mandir with festival surcharges, vegetarian meals, a festival guide, transfers and Dhanusadham. International visitors pay from about US$ 370. Starting from Jaynagar in Bihar reduces the price."},
+    {"q": "How crowded is Janakpur during Vivah Panchami?", "a": "Extremely crowded around the temple, especially during the barat and the wedding rites. It is a joyful crowd, but expect queues, pushing and closed roads. A hotel within walking distance, a guide who knows the timings and rest breaks make it manageable, even for older pilgrims."},
+    {"q": "Can we see the Sita–Ram wedding ceremony up close?", "a": "Space at the Vivah Mandap is limited, and thousands try to watch. Our guide aims to secure a good position early, but we cannot guarantee a front-row view. Screens and loudspeakers around the complex help, and the procession on the previous day is easier to watch closely."},
+    {"q": "Is this tour suitable for elderly pilgrims?", "a": "Yes, with planning. We use flights, a nearby hotel and e-rickshaws, and schedule rest at the hotel in the middle of each day. Seniors who find crowds difficult can watch the procession from a quieter point and attend darshan early in the morning when it is calmer."},
+    {"q": "Why do pilgrims from Ayodhya come to Janakpur at Vivah Panchami?", "a": "Ayodhya is Rama's city and Janakpur is Sita's, so Vivah Panchami unites the two. Pilgrims and saints from Ayodhya often travel to Janakpur with a ceremonial wedding party, re-enacting Rama's barat. The tradition symbolises the cultural and religious bond between India and Nepal."},
+    {"q": "Can we travel to Janakpur by road for the festival?", "a": "Yes. Kathmandu to Janakpur is about 230 km, 7–8 hours via the BP Highway. Road travel suits large groups and saves on flights. From India, Jaynagar is 30 km away and Raxaul about 4–5 hours by road. We can quote any of these options."},
+    {"q": "What should I pack for Vivah Panchami in Janakpur?", "a": "Modest clothes, a warm shawl or jacket for December nights of 8–10 °C, comfortable slip-on shoes for temple visits, a small torch, a power bank, hand sanitiser and a small bag for valuables. Festive clothes are welcome for the wedding day."},
+    {"q": "Do I need to book Vivah Panchami early?", "a": "Yes, at least two months ahead. Janakpur has limited hotel rooms, and festival week sells out. Flights from Kathmandu also fill up. We hold a block of rooms for our departure, released on a first-come basis."}
+  ]
+}

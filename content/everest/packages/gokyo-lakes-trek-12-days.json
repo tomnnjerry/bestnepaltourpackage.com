@@ -1,0 +1,95 @@
+{
+  "slug": "gokyo-lakes-trek-12-days",
+  "title": "Gokyo Lakes Trek 12 Days",
+  "region": "everest",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 11,
+  "themes": ["trekking", "photography"],
+  "stops": [
+    {"place": "phakding", "nights": 1},
+    {"place": "namche-bazaar", "nights": 3},
+    {"place": "gokyo-lakes", "nights": 3},
+    {"place": "lukla", "nights": 1}
+  ],
+  "start": "Kathmandu (hotel pickup for the Lukla or Ramechhap flight)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 114000,
+  "price_from_usd": 1290,
+  "best_months": [0, 0, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 5357,
+  "accommodation": "Teahouse lodges on the trail, twin sharing",
+  "transport": "Kathmandu–Lukla return flights (or Ramechhap–Lukla with private road transfer)",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Gokyo Lakes trek 12 days: quieter route via Dole and Machhermo, three nights at Gokyo, Gokyo Ri sunrise at 5,357 m and the fifth lake. From US$ 1,290.",
+  "summary": "A 12-day trek from Lukla to the turquoise Gokyo Lakes on the quieter western side of the Khumbu, via Namche, Dole and Machhermo. Three nights at Gokyo give time for the Gokyo Ri sunrise at 5,357 m, with Everest, Lhotse, Makalu and Cho Oyu, and a day hike to the fifth lake.",
+  "intro": [
+    "The Gokyo valley runs parallel to the Everest Base Camp route but sees far fewer trekkers. Beyond Namche the trail climbs to the Mong La ridge, then follows the Dudh Koshi north through yak pastures and small lodge villages at Dole and Machhermo to the chain of glacial lakes beside the Ngozumpa Glacier. Gokyo village, at 4,790 m on the third lake, is the base for Gokyo Ri, whose summit view takes in four of the world's 8,000 m peaks and is often rated above Kala Patthar's.",
+    "This itinerary takes the ascent gently, with a rest day at Namche and nights at 4,040 m and 4,470 m before Gokyo, then spends three nights at the lakes. That gives two chances at a clear sunrise on Gokyo Ri and a full day to walk to the fourth and fifth lakes and Scoundrel's Viewpoint, facing Cho Oyu. Walking days are 4–6 hours. The price covers Lukla flights or the Ramechhap transfer, permits, lodges, all meals on the trail, a licensed guide and porters. Kathmandu hotels are extra."
+  ],
+  "highlights": [
+    "Gokyo Ri sunrise at 5,357 m with Everest, Lhotse, Makalu and Cho Oyu",
+    "Three nights beside turquoise Dudh Pokhari at Gokyo",
+    "Day hike to the fifth lake and Scoundrel's Viewpoint below Cho Oyu",
+    "Quieter trail via Mong La, Dole and Machhermo",
+    "Ngozumpa Glacier, the longest in Nepal"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Lukla, walk to Phakding", "place": "phakding", "overnight": "Phakding", "altitude_m": 2610, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "Pickup at about 5:30 am for a Kathmandu departure, or 1:30 am for the Ramechhap drive in peak months. Land at Lukla, meet your porters and walk down the Dudh Koshi valley to Phakding, passing Chaurikharka, Cheplung and the mani walls of Ghat. A short, mostly downhill first day that ends 250 m lower than Lukla, which helps your body adjust.", "meals": "B, L, D"},
+    {"day": 2, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3440, "walk": "≈ 5–6 h · 10–11 km", "drive": "", "flight": "", "text": "Walk upstream via Benkar and Monjo to the Sagarmatha National Park entrance, then descend to Jorsale for lunch. After crossing the Hillary Bridge high above the river, the trail climbs 600 m through pines to Namche Bazaar. On a clear day you glimpse Everest halfway up. Namche is the last town with ATMs, gear shops and bakeries.", "meals": "B, L, D"},
+    {"day": 3, "title": "Namche rest day", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3880, "walk": "≈ 4–5 h · 7 km loop", "drive": "", "flight": "", "text": "Climb to Hotel Everest View at 3,880 m for views of Everest and Ama Dablam, then walk to Khumjung, the village you will look down on tomorrow from the Mong La trail. See the yeti scalp and the Hillary School before returning to Namche. In the afternoon, rest and buy last supplies; prices rise sharply in the Gokyo valley, where lodges are smaller and further apart.", "meals": "B, L, D"},
+    {"day": 4, "title": "Namche to Dole via Mong La", "place": "", "overnight": "Dole", "altitude_m": 4040, "max_m": 4040, "walk": "≈ 5–6 h · 10 km", "drive": "", "flight": "", "text": "Follow the Everest trail to Kyangjuma, then branch left and climb to the Mong La ridge (3,975 m), crowned by a chorten and a few lodges, with Ama Dablam, Thamserku and Kangtega in view. The trail drops steeply to the river at Phortse Thanga, then climbs through rhododendron and birch forest, good for spotting musk deer and Himalayan monal, to the small lodge settlement of Dole at about 4,040 m.", "meals": "B, L, D"},
+    {"day": 5, "title": "Dole to Machhermo", "place": "", "overnight": "Machhermo", "altitude_m": 4470, "max_m": 4470, "walk": "≈ 4–5 h · 7 km", "drive": "", "flight": "", "text": "A short day to aid acclimatisation. Above Dole the forest ends and the trail climbs through juniper scrub and yak pastures past the summer settlements of Lhabarma and Luza, with Cho Oyu appearing at the head of the valley and Kangtega behind you. Machhermo sits in a side valley at 4,470 m. In season, an aid post here gives afternoon talks on altitude sickness. Take a short walk up the ridge above the village before dinner.", "meals": "B, L, D"},
+    {"day": 6, "title": "Machhermo to Gokyo", "place": "gokyo-lakes", "overnight": "Gokyo", "altitude_m": 4790, "max_m": 4790, "walk": "≈ 4–5 h · 7 km", "drive": "", "flight": "", "text": "Climb a ridge for views back to Kangtega and Thamserku, then walk past Pangka and up a rocky slope beside the Ngozumpa Glacier's moraine. The first lake, Longponga, appears small and green; the second, Taboche Tsho, is larger. Soon after, Gokyo village comes into view on the shore of Dudh Pokhari, the third and largest lake, with Gokyo Ri rising behind. Settle into your lodge and watch the afternoon light change the colour of the water.", "meals": "B, L, D"},
+    {"day": 7, "title": "Gokyo Ri sunrise", "place": "gokyo-lakes", "overnight": "Gokyo", "altitude_m": 4790, "max_m": 5357, "walk": "≈ 3–4 h · 4 km", "drive": "", "flight": "", "text": "Start at about 4:30 am and climb Gokyo Ri, about 570 m of steep zigzags, to the prayer flags at 5,357 m. As the sun rises behind Everest, Lhotse and Makalu, the light runs down Cho Oyu to the north and across the turquoise lakes and the grey Ngozumpa Glacier below. Descend for breakfast and rest. In the afternoon, walk onto the moraine behind the lodges for a closer look at the glacier.", "meals": "B, L, D"},
+    {"day": 8, "title": "Fifth lake and Scoundrel's Viewpoint", "place": "gokyo-lakes", "overnight": "Gokyo", "altitude_m": 4790, "max_m": 5000, "walk": "≈ 5–6 h · 12 km return", "drive": "", "flight": "", "text": "Walk north along the ablation valley beside the glacier to the fourth lake, Thonak Tsho, and on to the fifth lake at about 4,990 m. Climb onto the moraine at Scoundrel's Viewpoint for a close view of Cho Oyu's south face, Gyachung Kang and the Ngozumpa icefall, with Everest across the glacier. Few trekkers come this far, so it is quiet. If the Gokyo Ri sunrise was cloudy yesterday, use this morning for a second attempt instead.", "meals": "B, L, D"},
+    {"day": 9, "title": "Gokyo down to Dole", "place": "", "overnight": "Dole", "altitude_m": 4040, "max_m": 4790, "walk": "≈ 5–6 h · 14 km", "drive": "", "flight": "", "text": "Retrace the trail past the first and second lakes, down to Machhermo for lunch and on to Dole. Losing 750 m in a day makes the walking feel easy and helps you sleep. Look back up the valley for last views of Cho Oyu. The forest above Dole is a good place for wildlife in the late afternoon.", "meals": "B, L, D"},
+    {"day": 10, "title": "Dole to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 4040, "walk": "≈ 5–6 h · 10 km", "drive": "", "flight": "", "text": "Descend through the forest to Phortse Thanga on the river, then climb back up to the Mong La ridge, the last real climb of the trek. From the chorten, the trail contours down to Kyangjuma and along the balcony path into Namche. Hot showers, bakeries and a good night's sleep await.", "meals": "B, L, D"},
+    {"day": 11, "title": "Namche Bazaar to Lukla", "place": "lukla", "overnight": "Lukla", "altitude_m": 2860, "max_m": 3440, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Descend the Namche hill, cross the Hillary Bridge and follow the Dudh Koshi back through Jorsale, Monjo and Phakding, with a final climb of about 250 m to Lukla. Celebrate the end of the trek with your guide and porters over dinner, settle tips and pack for the morning flight.", "meals": "B, L, D"},
+    {"day": 12, "title": "Fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2860, "walk": "", "drive": "Ramechhap–Kathmandu in peak months · ≈ 130 km · 4–5 h", "flight": "Lukla–Kathmandu · 35 min (or Lukla–Ramechhap · 20 min)", "text": "Check in at Lukla airport at about 6 am and fly back to Kathmandu, or to Ramechhap with a road transfer. We drop you at your hotel. Because Lukla flights are often delayed by weather, keep at least one spare day before your international flight.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Lukla–Kathmandu flights, or Ramechhap–Lukla with private road transfers",
+    "Airport transfers in Kathmandu",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "11 nights in teahouse lodges, twin sharing",
+    "All meals on the trek with tea or coffee",
+    "Licensed English-speaking trekking guide",
+    "One porter for every two trekkers (up to 20 kg per porter)",
+    "Staff wages, food, lodging and insurance",
+    "Pulse oximeter checks and first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Kathmandu hotel nights",
+    "Travel insurance with helicopter evacuation to 6,000 m",
+    "Hot showers, charging, Wi-Fi and drinks",
+    "Sleeping bag and down jacket (hire available)",
+    "Tips for guide and porters",
+    "Costs from weather delays"
+  ],
+  "good_to_know": [
+    "Price is per person, twin sharing, for two or more trekkers; solo trekkers pay a supplement for a private guide and porter.",
+    "Lodges in the Gokyo valley are fewer and simpler than on the EBC trail, especially at Dole and Machhermo; Gokyo itself has some comfortable lodges with attached bathrooms.",
+    "Walking days are 4–6 hours, with the Gokyo Ri climb gaining about 570 m before breakfast. Fitness for long hill walks is essential.",
+    "In recent peak seasons Lukla flights have operated from Ramechhap; check current status before you travel. Keep a spare day for weather delays.",
+    "The Gokyo Lakes are a protected Ramsar wetland and sacred; do not wash in them or leave any waste nearby."
+  ],
+  "add_ons": [
+    {"name": "Cho La crossing to Everest Base Camp (extends to 16 days)", "price": "≈ US$ 400 extra per person"},
+    {"name": "Helicopter return from Gokyo to Kathmandu", "price": "≈ US$ 600–850 per seat shared"},
+    {"name": "Kathmandu 3-star hotel, 2 nights", "price": "≈ US$ 90–120 per room"}
+  ],
+  "faqs": [
+    {"q": "How hard is the Gokyo Lakes trek?", "a": "It is graded Challenging, similar to Everest Base Camp. Days are 4–6 hours on rocky trails, and you sleep at 4,790 m and climb to 5,357 m on Gokyo Ri. No technical skills are needed, but you must be fit for long uphill walks at altitude."},
+    {"q": "How much does the Gokyo Lakes trek cost?", "a": "Our 12-day Gokyo Lakes trek starts from about US$ 1,290 or ₹1,14,000 per person, including Lukla flights, permits, lodges, all trail meals, a licensed guide and porters. Kathmandu hotels, insurance, tips and drinks are extra."},
+    {"q": "Gokyo Lakes or Everest Base Camp for first-timers?", "a": "Both suit fit first-timers. Gokyo is quieter, with turquoise lakes and a summit view of four 8,000 m peaks. EBC has the famous goal and more lodges. If crowds bother you, choose Gokyo; if base camp itself matters, choose EBC."},
+    {"q": "Why spend three nights at Gokyo?", "a": "It gives two chances at a clear Gokyo Ri sunrise and a full day for the fourth and fifth lakes and Scoundrel's Viewpoint. It also helps acclimatisation, and if anyone feels unwell on arrival, they can rest before climbing."},
+    {"q": "Can I see Everest on the Gokyo trek?", "a": "Yes, from the Namche hill, Hotel Everest View, the Mong La ridge, Gokyo Ri and Scoundrel's Viewpoint. From Gokyo Ri you see Everest's full summit pyramid across the Ngozumpa Glacier, which you cannot see from base camp itself."},
+    {"q": "What permits do I need for Gokyo Lakes?", "a": "The Sagarmatha National Park permit and the Khumbu Pasang Lhamu Rural Municipality permit, the same as for EBC. Both are included. Fees for foreigners have been about NPR 3,000 each, lower for SAARC nationals; check current status before you travel."},
+    {"q": "When is the best time for the Gokyo Lakes trek?", "a": "October and November for clear skies and open lakes, and April to May for warmer weather. December to February is clear but very cold, with frozen lakes and some lodges closed. June to August brings monsoon cloud."},
+    {"q": "Can I combine Gokyo Lakes with Everest Base Camp?", "a": "Yes, by crossing the Cho La (5,420 m) from Gokyo to Lobuche. Our EBC via Gokyo and Cho La trek takes 16 days. It needs good fitness, settled weather and sometimes microspikes for the glacier on the pass."},
+    {"q": "Is there altitude sickness risk on the Gokyo trek?", "a": "Yes. The trek climbs from 3,440 m to 4,790 m in three days after the Namche rest day, which is a standard rate. Watch for headache, nausea and breathlessness, drink plenty of water and descend if symptoms worsen."}
+  ]
+}

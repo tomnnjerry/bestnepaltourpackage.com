@@ -1,0 +1,110 @@
+{% load tours %}<nav class="nav" aria-label="Main">
+  <ul class="nav__list">
+    <li class="nav__drop">
+      <button type="button" aria-expanded="false" aria-controls="mega-heli">Heli tours{% icon "chevron-down" %}</button>
+      <div class="mega" id="mega-heli">
+        <div class="mega__in mega__in--heli">
+          <div class="mega__col mega__col--wide">
+            <p class="mega__h">{% icon "heli" %}Boarding now</p>
+            <div class="mtix">
+              {% for k in nav_heli %}<a class="mtix__item" href="{{ k.url }}" data-land="{{ k.region }}">
+                <span class="mtix__route"><b>KTM</b>{% icon "plane" %}<b>{{ k.max_altitude_m|thousands }} m</b></span>
+                <span class="mtix__name">{{ k.title }}</span>
+                <span class="mtix__price" data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</span>
+              </a>{% endfor %}
+            </div>
+          </div>
+          <div class="mega__col">
+            <p class="mega__h">Before you fly</p>
+            <ul class="mlinks">
+              <li><a href="{% url 'theme' 'heli-tours' %}">Every helicopter tour</a></li>
+              <li><a href="{% url 'policy' 'helicopter-and-altitude' %}">Weather, payload and altitude rules</a></li>
+              <li><a href="{% url 'packages' %}?type=heli&amp;sort=price">Heli tours by price</a></li>
+              <li><a href="{% url 'theme' 'kailash-yatra' %}">Kailash by helicopter via Simikot</a></li>
+              <li><a href="{% url 'tool_altitude' %}">Altitude checker</a></li>
+            </ul>
+            <a class="mpromise" href="{% url 'plan' %}?type=heli" data-cta="mega-heli-quote"><b>Private charter or a shared seat?</b><span>Tell us your date and group size and we quote both.</span>{% icon "arrow" %}</a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="nav__drop">
+      <button type="button" aria-expanded="false" aria-controls="mega-trek">Treks{% icon "chevron-down" %}</button>
+      <div class="mega" id="mega-trek">
+        <div class="mega__in">
+          <div class="mega__col mega__col--wide">
+            <p class="mega__h">{% icon "altitude" %}Highest first</p>
+            <ul class="mlad">
+              {% for k in nav_treks %}<li><a href="{{ k.url }}" data-land="{{ k.region }}"><span class="mlad__alt">{{ k.max_altitude_m|thousands }}<small>m</small></span><span class="mlad__name">{{ k.title }}<small>{{ k.days_count }} days · {{ k.grade }}</small></span><span class="grade" data-g="{{ k.grade|grade_level }}" aria-label="Grade {{ k.grade }}"><i></i><i></i><i></i><i></i></span></a></li>{% endfor %}
+            </ul>
+          </div>
+          <div class="mega__col">
+            <p class="mega__h">By grade</p>
+            <ul class="mlinks">
+              <li><a href="{% url 'packages' %}?type=trek&amp;grade=Easy">Easy treks</a></li>
+              <li><a href="{% url 'packages' %}?type=trek&amp;grade=Moderate">Moderate treks</a></li>
+              <li><a href="{% url 'packages' %}?type=trek&amp;grade=Challenging">Challenging treks</a></li>
+              <li><a href="{% url 'packages' %}?type=trek&amp;grade=Strenuous">Strenuous treks</a></li>
+              <li><a href="{% url 'theme' 'peak-climbing' %}">Peak climbing</a></li>
+              <li><a href="{% url 'theme' 'trekking' %}">Trek finder by days and height</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="nav__drop">
+      <button type="button" aria-expanded="false" aria-controls="mega-tours">Tours{% icon "chevron-down" %}</button>
+      <div class="mega" id="mega-tours">
+        <div class="mega__in">
+          <div class="mega__col">
+            <p class="mega__h">{% icon "ticket" %}By type</p>
+            <ul class="mtiles">{% for t in nav_types %}<li><a href="{{ t.url }}"><span class="tbadge">{% icon t.icon %}</span><b>{{ t.plural }}</b>{% if t.from_inr %}<small data-inr="from {{ t.from_inr|inr }}" data-usd="">from {{ t.from_inr|inr }}</small>{% endif %}</a></li>{% endfor %}</ul>
+          </div>
+          <div class="mega__col">
+            <p class="mega__h">{% icon "compass" %}By style</p>
+            <ul class="mlinks mlinks--2">{% for t in nav_themes %}<li><a href="{{ t.url }}">{% icon t.icon %}{{ t.short|default:t.name }}</a></li>{% endfor %}</ul>
+          </div>
+          <div class="mega__col">
+            <p class="mega__h">{% icon "road" %}From India</p>
+            <ul class="mlinks mlinks--2">{% for o in nav_origins %}<li><a href="{{ o.url }}">{{ o.city }}</a></li>{% endfor %}</ul>
+            <a class="mlinks__more" href="{% url 'packages' %}">Every package{% icon "arrow" %}</a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="nav__drop">
+      <button type="button" aria-expanded="false" aria-controls="mega-dest">Destinations{% icon "chevron-down" %}</button>
+      <div class="mega" id="mega-dest">
+        <div class="mega__in mega__in--dest">
+          <ul class="mdest">
+            {% for r in nav_regions %}<li><a class="mdest__card" href="{{ r.url }}" data-land="{{ r.slug }}">
+              <span class="mdest__icon">{% icon r.icon %}</span>
+              <span class="mdest__txt"><b>{{ r.name }}</b><small>{{ r.palette }}</small></span>
+              <span class="mdest__places">{% for p in r.top_places|slice:":3" %}{{ p.name }}{% if not forloop.last %} · {% endif %}{% endfor %}</span>
+            </a></li>{% endfor %}
+          </ul>
+          <div class="mega__foot"><a href="{% url 'regions' %}">Map of Nepal's regions{% icon "arrow" %}</a><a href="{% url 'seasons' %}">Best time to visit, month by month{% icon "arrow" %}</a><a href="{% url 'stays' %}">Hotels and lodges{% icon "arrow" %}</a></div>
+        </div>
+      </div>
+    </li>
+    <li class="nav__drop">
+      <button type="button" aria-expanded="false" aria-controls="mega-plan">Plan{% icon "chevron-down" %}</button>
+      <div class="mega mega--right" id="mega-plan">
+        <div class="mega__in">
+          <div class="mega__col">
+            <p class="mega__h">{% icon "book" %}Read</p>
+            <ul class="mlinks"><li><a href="{% url 'guides' %}">Travel guides</a></li><li><a href="{% url 'journal' %}">Blog</a></li><li><a href="{% url 'seasons' %}">Best time to visit Nepal</a></li><li><a href="{% url 'festivals' %}">Festival calendar</a></li><li><a href="{% url 'routes' %}">Getting around Nepal</a></li><li><a href="{% url 'experiences' %}">Things to do</a></li></ul>
+          </div>
+          <div class="mega__col">
+            <p class="mega__h">{% icon "compass" %}Tools</p>
+            <ul class="mlinks"><li><a href="{% url 'tool_budget' %}">Budget calculator</a></li><li><a href="{% url 'tool_altitude' %}">Altitude checker</a></li><li><a href="{% url 'tool_season' %}">Season finder</a></li><li><a href="{% url 'tool_permits' %}">Permit finder</a></li></ul>
+          </div>
+          <div class="mega__col">
+            <p class="mega__h">{% icon "shield" %}Book with confidence</p>
+            <ul class="mlinks"><li><a href="{% url 'how_we_work' %}">How booking works</a></li><li><a href="{% url 'policy' 'refund-and-cancellation' %}">Refunds and cancellations</a></li><li><a href="{% url 'policy' 'payments' %}">Payments</a></li><li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'contact' %}">Contact</a></li></ul>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</nav>

@@ -1,0 +1,17 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Destinations: Twelve Regions, Map and Best Time{% endblock %}
+{% block meta_description %}Nepal's twelve travel regions on one map: Kathmandu, Pokhara, Everest, Annapurna, Mustang, Langtang, Manaslu, Chitwan, Lumbini, the east, the far west and Kailash.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "map" %}Destinations</p><h1>Nepal by region</h1><p class="phead__lede">From the Terai's jungle at 150 m to the Khumbu at 5,644 m, plus Kailash across the border. Each region has its own season, permits and packages.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "summit" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight"><div class="wrap">
+  <div class="panel" style="padding:16px">{% nepal_map regions %}</div>
+</div></section>
+<section class="sec"><div class="wrap"><div class="rtiles" data-stagger>{% for r in regions %}{% include "tours/partials/region_tile.html" %}{% endfor %}</div></div></section>
+<section class="sec sec--tint"><div class="wrap">
+  <div class="sec__head"><h2 class="h2">Best months, region by region</h2><a class="textlink" href="{% url 'seasons' %}">Month by month{% icon "arrow" %}</a></div>
+  <div class="tbl-wrap"><table class="almanac"><thead><tr><th></th>{% for m in months_short %}<th>{{ m }}</th>{% endfor %}</tr></thead><tbody>
+  {% for r in regions %}<tr data-land="{{ r.slug }}"><th><a href="{{ r.url }}">{{ r.name }}</a></th>{% for b in r.bar %}<td data-v="{{ b.v }}" title="{{ b.full }}"><span class="sr">{{ b.full }} {{ b.v }}</span></td>{% endfor %}</tr>{% endfor %}
+  </tbody></table></div>
+</div></section>
+{% endblock %}

@@ -1,0 +1,132 @@
+{
+  "slug": "nagarkot",
+  "name": "Nagarkot",
+  "region": "kathmandu-valley",
+  "kind": "hill station",
+  "wiki": "Nagarkot",
+  "image_query": "Nagarkot sunrise Himalaya view",
+  "lat": 27.7154,
+  "lng": 85.5207,
+  "altitude_m": 2175,
+  "tagline": "Ridge-top sunrise over the Himalaya, 32 km from Kathmandu",
+  "meta_description": "Nagarkot (2,175 m) guide: Himalayan sunrise from the view tower, hikes to Changunarayan, cycling, Club Himalaya, how to reach from Kathmandu and best months.",
+  "summary": "Nagarkot is a hill station on the eastern rim of the Kathmandu Valley at 2,175 m, 32 km and about 1.5 hours by road from Kathmandu. People come above all for sunrise over the Himalaya, from Ganesh Himal to Gauri Shankar, best from October to February. One night is the usual stay.",
+  "intro": [
+    "Nagarkot began as a lookout. The ridge rises to about 2,175 m on the north-east rim of the Kathmandu Valley, and from its high points the view runs north and east over the Indrawati hills to the Himalaya. On a clear morning you can trace Ganesh Himal, Langtang Lirung at 7,227 m, Dorje Lakpa, the Jugal range and Gauri Shankar at 7,134 m, with Everest a small grey point far to the east from the view tower. The light changes fast in the half hour after sunrise, which is why most visitors spend the night.",
+    "The settlement is strung along a ridge road rather than gathered into a town. Hotels and resorts sit on separate knolls, each angled towards the mountains, with a small bazaar and bus stop in the middle and the view tower on the highest knoll to the south. Around them are pine forest, terraced millet and potato fields, and Tamang, Newar and Brahmin-Chhetri villages linked by footpaths. Those paths make Nagarkot a good base for short walks and rides: down to Changunarayan, along the rim to Dhulikhel or into the valley to Bhaktapur.",
+    "Nagarkot is a weather place, so timing matters more here than almost anywhere else in the valley. October to February bring the clearest skies, though winter dawns can touch 0 °C and not every room is heated, so carry warm layers. March and April are mild, with rhododendron in the forest and haze that often hides the peaks after the first hour of daylight. From June to September cloud usually wipes out the view, but the forest is green, the drive up is quiet, and a clear morning after night rain does happen."
+  ],
+  "facts": [
+    ["Altitude", "2,175 m"],
+    ["Best months", "Oct – Feb"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Tribhuvan International Airport, ≈ 28 km"],
+    ["From Kathmandu", "≈ 32 km · 1.5 h by road via Bhaktapur"],
+    ["Known for", "Himalayan sunrise, view tower, rim hikes to Changunarayan and Dhulikhel"]
+  ],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunrise from the view tower", "text": "The tower on the highest knoll south of the bazaar, at about 2,195 m, gives an almost all-round view at dawn: the Himalaya from Ganesh Himal to Gauri Shankar to the north and east, and the Kathmandu Valley under morning mist to the west. Leave your hotel about 45 minutes before sunrise."},
+    {"title": "Sunset over the valley rim", "text": "Evenings get less attention than dawn but can be clearer in spring, when haze builds by mid-morning and thins again late in the day. From west-facing hotel terraces, the sun drops behind the hills beyond Kathmandu and the snow peaks turn pink for a few minutes. Temperatures fall quickly after dark."},
+    {"title": "Walk down to Changunarayan", "text": "A 4–5 hour trail drops about 630 m from Nagarkot along a ridge of pine forest and terraced villages to Changunarayan, the oldest temple site in the valley, with a Licchavi inscription dated 464 CE. Our car meets you at the temple for the short drive on to Bhaktapur."},
+    {"title": "Valley rim walk to Dhulikhel", "text": "The rim trail south-east via Rohini Bhanjyang and Nala takes 5–6 hours to Dhulikhel at 1,550 m, through farming villages with very little traffic. It is a full day of our Kathmandu Valley rim trek and also works as a stand-alone day hike, with bags sent ahead by car."},
+    {"title": "Cycling the ridge roads", "text": "Dirt roads and village tracks around Nagarkot make good mountain-bike country, from easy loops along the ridge to a long descent of nearly 800 m to Bhaktapur. We bring bikes and helmets up from Kathmandu and run a support vehicle on the longer rides."},
+    {"title": "A quiet night out of the city", "text": "After a few days of Kathmandu traffic and dust, Nagarkot is a reset: cool air, pine trees and, on moonless nights, skies dark enough for stars. Couples on our Nepal honeymoon package spend a night here between Kathmandu and Pokhara, and families use it as a calm first night after arrival."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Nagarkot is about 32 km from central Kathmandu, roughly 1.5 hours by car via Bhaktapur and a winding hill road that climbs about 800 m in its last 18 km. A private car is the easiest way up. Local buses leave Bhaktapur's Kamal Binayak bus park for Nagarkot several times a day and take about an hour, with the last services in late afternoon; check current status before you travel."},
+    {"mode": "Air", "text": "The nearest airport is Tribhuvan International Airport in Kathmandu, about 28 km away. Guests landing on a morning flight can drive straight up and be on a Nagarkot terrace by sunset, which makes it an easy first night for a honeymoon or a short break."},
+    {"mode": "On foot", "text": "Nagarkot is a stop on the Kathmandu Valley rim trek: from Chisapani (2,215 m) it is a 6–7 hour walk via Chauki Bhanjyang and Jhule. Fit walkers can also climb up from Changunarayan in about 4–5 hours. Trails are clear but unsigned in places, so we send a guide with every walking group."}
+  ],
+  "where_to_stay": "Hotels in Nagarkot are spread along the ridge rather than in a centre, so the view from your room matters more than the address. Club Himalaya, a resort on the ridge near the main bazaar with rooms facing the mountains, is our usual choice for families and couples. Smaller lodges along the road towards the view tower cost less and put you closer to the sunrise point. Whichever you choose, ask for a north- or east-facing room, check whether rooms are heated before booking in December or January, and expect most guests to eat dinner at their hotel, as there are few restaurants outside them.",
+  "stays": ["club-himalaya-nagarkot"],
+  "tips": [
+    "Let us check the forecast the day before, since a cloudy night usually means no sunrise view and we can often move your night to a clearer date.",
+    "Pack a down or fleece jacket, hat and gloves from November to February, because dawn on the view tower is often close to 0 °C.",
+    "Set an alarm 45 minutes before sunrise and ask your hotel the night before about early tea, as staff are used to dark-morning starts.",
+    "Carry enough Nepali rupees from Kathmandu or Bhaktapur, since ATMs on the ridge are few and card machines fail during power cuts.",
+    "Arrive by mid-afternoon so you catch sunset and drive the narrow, winding last stretch of road in daylight."
+  ],
+  "themes": ["honeymoon", "short-breaks", "photography", "trekking", "family-holidays"],
+  "nearby": ["bhaktapur", "changunarayan", "dhulikhel", "kathmandu"],
+  "experiences": [
+    {
+      "slug": "nagarkot-sunrise-view-tower",
+      "title": "Himalayan sunrise from the Nagarkot view tower",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "price_hint": "Included in our Nagarkot packages",
+      "image_query": "Nagarkot view tower sunrise",
+      "wiki": "",
+      "summary": "An early-morning drive or walk to the view tower on Nagarkot's highest knoll to watch dawn break over the Himalaya, from Ganesh Himal and Langtang to Gauri Shankar, with Everest a speck in the east on clear days and the Kathmandu Valley still under mist below.",
+      "body": [
+        "We leave the hotel about 45 minutes before sunrise, which comes at around 5:10 am in June and close to 7 am in late December. The drive to the tower takes about 15 minutes, while walking up from the bazaar area takes roughly an hour in the dark, so bring a torch. The tower stands on a hilltop at about 2,195 m, a little above the ridge, and gives an open view all round. Arrive early enough to find space on the top platform, which fills with Nepali families and photographers on October weekends.",
+        "First light shows the peaks as dark shapes against a pale sky. Then the summits turn pink and gold one after another: Gauri Shankar (7,134 m) and the Rolwaling peaks, the Jugal range, Dorje Lakpa and Langtang Lirung (7,227 m), and Ganesh Himal to the north-west. Everest appears as a small grey point well to the east on very clear mornings, and your guide will point it out. Below, the Kathmandu Valley often lies under a lake of cloud for the first hour after dawn.",
+        "The show lasts about 30 minutes from first light to full sun, so we stay for a flask of tea we bring along, then walk back through the pine forest or drive down for breakfast. From October to February the odds of clear peaks are high, in March and April haze often limits the view to the first hour, and in the monsoon months the tower is frequently in cloud. Dress warmly, because dawn temperatures in December and January are often around 0 °C and the wind on the platform bites."
+      ],
+      "good_for": ["couples", "photographers", "families", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "Can you see Everest from Nagarkot?", "a": "On very clear mornings, yes, but only as a small grey point far to the east, best picked out from the view tower with a guide or through a zoom lens. The main view is closer: Langtang Lirung, Dorje Lakpa, the Jugal range and Gauri Shankar fill the skyline. October to January gives the best chances."},
+        {"q": "What time is sunrise in Nagarkot?", "a": "Sunrise ranges from about 5:10 am in June to just before 7 am in late December. In October and November, the best viewing months, it falls between about 5:55 and 6:40 am. Leave your hotel 45 minutes before sunrise to reach the view tower in time, and ask hotel staff for the exact time the night before."},
+        {"q": "Is the Nagarkot view tower suitable for older travellers?", "a": "Mostly yes. The car drops you close to the tower, and the views from the ground beside it are nearly as good as from the top. The tower steps themselves are steep and narrow, so older travellers and small children should take them slowly or stay below. A small local entry fee may apply; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "nagarkot-to-changunarayan-hike",
+      "title": "Nagarkot to Changunarayan downhill hike",
+      "kind": "hiking",
+      "duration": "4–5 hours",
+      "best_time": "Morning after sunrise, Oct–Apr",
+      "price_hint": "≈ ₹2,500 per person with guide and transfer",
+      "image_query": "Changu Narayan temple pagoda",
+      "wiki": "",
+      "summary": "A 4–5 hour walk of about 12 km from Nagarkot down the ridge through pine forest, farming villages and terraced fields to Changunarayan, the oldest temple in the valley, losing about 630 m on the way, with our car waiting at the temple to take you on to Bhaktapur.",
+      "body": [
+        "After sunrise and breakfast we leave Nagarkot at around 8:30 am and follow the ridge west on dirt roads and footpaths. The first hour runs through pine forest and past small settlements on the shoulder of the hill, with the Himalaya still visible behind you on clear mornings. The route then drops gently towards Telkot, a ridge-top village where the road up from Bhaktapur meets the trail, and where we usually stop for tea at a local shop and one last look back at the peaks.",
+        "From Telkot the path follows the crest of the ridge through terraced fields of rice, millet, mustard or wheat, depending on the season. Farmhouses here are red brick or mud-plastered, with maize hanging from the eaves to dry in autumn. There is little traffic, and children walking to school often fall into step for a while. The final hour drops through a patch of forest and village lanes into Changunarayan, which sits at 1,541 m at the end of the ridge. Walking time is 4–5 hours, almost all downhill, with a few short climbs.",
+        "At Changunarayan we visit the two-roof temple to Vishnu, rebuilt in 1702 on a site in use since at least 464 CE, the date of King Manadeva's stone inscription beside the temple. Foreigners pay around NPR 300 to enter the temple area; check current status before you travel. After lunch in the village, our car drives you about 30 minutes to Bhaktapur or an hour to Kathmandu. Good walking shoes and knees in reasonable shape are all you need, and we grade it easy to moderate."
+      ],
+      "good_for": ["couples", "families", "solo", "photographers", "groups"],
+      "faqs": [
+        {"q": "How difficult is the Nagarkot to Changunarayan hike?", "a": "Easy to moderate. The route covers about 12 km in 4–5 hours and is mostly downhill, losing around 630 m from Nagarkot at 2,175 m to Changunarayan at 1,541 m. The long descent can be hard on knees, so trekking poles help. Anyone who can walk comfortably for half a day on uneven paths will manage it."},
+        {"q": "Do I need a guide for the Nagarkot to Changunarayan trail?", "a": "We recommend one. The trail mixes dirt roads, field paths and village lanes with few signs, and several junctions look alike. A guide keeps you on the ridge route, explains the villages and the temple, and coordinates with the driver who meets you at Changunarayan. Independent walkers should carry a phone with offline maps downloaded."},
+        {"q": "Can children do the hike from Nagarkot?", "a": "Children from about eight who walk regularly usually manage it well, since the route is mostly downhill with tea stops and a road never far away. Younger children can walk the first section to Telkot and then ride in our support car to Changunarayan. Bring snacks, water and sun hats, as there is little shade on the lower ridge."}
+      ]
+    },
+    {
+      "slug": "nagarkot-village-cycle-ride",
+      "title": "Mountain bike ride from the Nagarkot ridge",
+      "kind": "adventure",
+      "duration": "3–5 hours",
+      "best_time": "Morning, Oct–Apr",
+      "price_hint": "≈ ₹4,500 per person with bike, guide and support car",
+      "image_query": "Nagarkot hills terraced fields",
+      "wiki": "",
+      "summary": "A guided mountain-bike ride on the dirt roads and trails around Nagarkot: an easy ridge loop through villages and forest, or a longer descent of nearly 800 m to Bhaktapur, on good bikes with helmets brought up from Kathmandu and a support car following for tired legs.",
+      "body": [
+        "The Nagarkot ridge is laced with dirt roads linking farming villages, and most of them see more buffalo than vehicles. That makes it good riding country for mixed-ability groups. We bring hardtail mountain bikes with front suspension, helmets and gloves from a Kathmandu bike outfitter, fit them at your hotel after breakfast and run through gears, brakes and the plan for the day. A guide rides with you, and a support car follows on the road sections with water, snacks, a spare bike and room for anyone who wants to stop.",
+        "The shorter option is a 3-hour loop of about 20 km along the ridge and through villages south of the bazaar, with gentle climbs, Himalayan views when the sky is clear and tea in a village shop. Fitter riders take the long descent to Bhaktapur: about 25 km and nearly 800 m of height loss via Telkot and Changunarayan, on dirt tracks and short sections of trail, finishing with a roll into Bhaktapur's old town for lunch. Some climbs remain, but gravity does most of the work.",
+        "You need to be comfortable on a bike and on loose surfaces, though you do not need to be an expert. We accept riders from 12 for the loop and 14 for the descent, and children must already be confident cyclists. October to April is the season, since monsoon rain turns the tracks to mud and makes descents slippery. Wear long trousers or padded shorts, closed shoes and sunglasses against the dust, and carry a light jacket, because winter mornings on the ridge start near freezing."
+      ],
+      "good_for": ["couples", "groups", "solo", "families"],
+      "faqs": [
+        {"q": "Do I need cycling experience for the Nagarkot bike ride?", "a": "You need to ride confidently and handle loose gravel, but you do not need technical mountain-bike skills. The ridge loop suits most regular cyclists, while the descent to Bhaktapur has steep, rough sections better suited to riders with some off-road experience. The guide sets the pace, and the support car is always close by."},
+        {"q": "What bikes and safety gear are provided?", "a": "We bring well-maintained hardtail mountain bikes with front suspension and disc brakes, plus helmets and gloves, from an established Kathmandu outfitter. Bikes are adjusted to your height before you start, and you are welcome to bring your own pedals or saddle. A first-aid kit and basic repair tools travel in the support car."},
+        {"q": "When is the best season to cycle around Nagarkot?", "a": "October to April. Autumn brings the clearest mountain views and dry tracks, winter mornings are cold but bright, and March and April are warm with flowering rhododendrons and some haze. From June to September monsoon rain turns the dirt roads to mud, and we usually suggest a walk instead of a ride."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Nagarkot worth visiting for one night?", "a": "Yes, when the weather is likely to be clear. A night lets you see sunset and sunrise over the Himalaya, which a day trip from Kathmandu cannot. From October to February the odds of a clear morning are high. In the monsoon, June to September, cloud usually hides the peaks, so Nagarkot is better skipped unless you simply want a quiet green break."},
+    {"q": "How far is Nagarkot from Kathmandu?", "a": "Nagarkot is about 32 km from central Kathmandu, roughly 1.5 hours by car via Bhaktapur, depending on traffic leaving the city. The last 18 km climb a winding hill road. From the airport the drive is about 28 km. Local buses from Bhaktapur take about an hour, and taxis from Thamel cost roughly NPR 3,000–4,000 one way; check current rates."},
+    {"q": "What is the best time to visit Nagarkot?", "a": "October to February. October and November give the clearest mild mornings, with dawn temperatures of about 8–12 °C, while December to February are just as clear but colder, close to 0 °C at sunrise. March and April are pleasant but hazy after early morning. June to September is the monsoon, when the peaks are rarely visible."},
+    {"q": "Which mountains can you see from Nagarkot?", "a": "On a clear day the view runs from Ganesh Himal in the north-west through Langtang Lirung (7,227 m), Dorje Lakpa (6,966 m), the Jugal range and Gauri Shankar (7,134 m) in the east, with Everest a tiny point further east from the view tower. A guide, or a peak-finder app on your phone, helps you put names to them."},
+    {"q": "Is Nagarkot good for a honeymoon?", "a": "Yes, as one night within a longer trip. Couples like the quiet, the cool air and the mountain views after the noise of Kathmandu, and resorts angle their rooms and terraces towards the Himalaya. Our Nepal honeymoon package places one night in Nagarkot between Kathmandu and Pokhara. Book a mountain-facing room and check it is heated in winter."},
+    {"q": "Is it cold in Nagarkot?", "a": "Colder than Kathmandu, by about 4–5 °C. From December to February, sunrise temperatures often fall to around 0 °C and daytime highs reach about 12–15 °C. October, November, March and April are mild, with cool nights. Bring a down or fleece jacket, hat and gloves for the sunrise, since the view tower is exposed to the wind."},
+    {"q": "Can I do Nagarkot as a day trip from Kathmandu?", "a": "You can, but you will likely miss the best of it. Mountain views are clearest at sunrise and fade as haze builds by late morning, so a daytime visit often means a hazy view. If a day trip is all you have time for, leave Kathmandu around 4 am for sunrise, then visit Changunarayan and Bhaktapur on the way back."},
+    {"q": "How do I get from Nagarkot to Pokhara?", "a": "By road it is a long day: about 230 km and 7–9 hours, back past Kathmandu and along the Prithvi Highway. Our tours often break the journey in Bandipur, about 170 km and 5–6 hours from Nagarkot, then continue 75 km to Pokhara the next morning. The faster option is to drive back to Kathmandu and take the 25-minute flight."},
+    {"q": "Are there ATMs and shops in Nagarkot?", "a": "Only a few. The small bazaar has shops for snacks, water and basics, and a limited number of ATMs that can run out of cash or fail in power cuts. Withdraw enough Nepali rupees in Kathmandu or Bhaktapur for your stay. Larger resorts generally take cards, and many small shops accept Fonepay QR payments, which work with some Indian UPI apps."}
+  ]
+}

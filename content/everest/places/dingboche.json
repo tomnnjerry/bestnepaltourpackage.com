@@ -1,0 +1,132 @@
+{
+  "slug": "dingboche",
+  "name": "Dingboche",
+  "region": "everest",
+  "kind": "trekking village",
+  "wiki": "Dingboche",
+  "image_query": "Dingboche village stone walls Ama Dablam",
+  "lat": 27.8925,
+  "lng": 86.8306,
+  "altitude_m": 4410,
+  "tagline": "Stone-walled Imja valley village and second acclimatisation stop",
+  "meta_description": "Dingboche (4,410 m): second acclimatisation stop on the Everest Base Camp trek, with the Nangkartshang hike to 5,083 m, Pheriche HRA talks and Island Peak views.",
+  "summary": "Dingboche is a Sherpa summer village at 4,410 m in the Imja valley, surrounded by stone-walled fields, below Ama Dablam and the Lhotse wall. Every sensible Everest Base Camp trek spends two nights here, with an acclimatisation hike up Nangkartshang Peak towards 5,083 m on the rest day.",
+  "intro": [
+    "Dingboche lies on a broad terrace where the Imja Khola flows down from Island Peak and the Lhotse glaciers. For centuries it was a summer settlement where Khumbu families grazed yaks and grew barley and potatoes, protected from the wind by a maze of dry-stone walls that still divide the fields. Today it is one of the busiest overnight stops on the trail, with more than two dozen lodges, several bakeries and a helipad, but the walls, fields and herders' huts keep its old character.",
+    "The setting is big. Ama Dablam's north face stands to the south, Taboche and Cholatse to the west, and the huge south face of Lhotse and Nuptse closes the valley to the north. Island Peak (Imja Tse, 6,189 m) appears up the valley to the east, and Makalu's summit can be seen from the ridge above the village. In the afternoon, a cold wind often blows up the valley, so lodges have sunrooms where trekkers sit out of the breeze.",
+    "Dingboche is the second acclimatisation stop on the Everest Base Camp trek after Namche. At 4,410 m you are now well above the treeline, and many people feel the altitude. The rest day is not for lying in bed: we climb the ridge of Nangkartshang behind the village, gaining 400 to 600 m, and come back to sleep. From Dingboche, the trail continues to Lobuche, or east up the valley to Chhukung and Island Peak base camp for climbers and Three Passes trekkers."
+  ],
+  "facts": [
+    ["Altitude", "4,410 m"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Lukla, 4–5 days' walk; helipad in the village"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 4–5 days' walk"],
+    ["Known for", "Acclimatisation day, Nangkartshang hike, stone-walled fields"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Nangkartshang acclimatisation hike", "text": "The ridge above Dingboche climbs to Nangkartshang Peak at about 5,083 m. Most groups go as high as feels right, often 4,800–5,000 m, and enjoy views of Makalu, Lhotse, Island Peak and Ama Dablam before descending to sleep."},
+    {"title": "Stone-walled fields of the Imja valley", "text": "Hundreds of dry-stone walls criss-cross the terrace, sheltering barley and potato plots from wind and yaks. Seen from the ridge above, they form a patchwork that makes Dingboche one of the most distinctive villages on the trek."},
+    {"title": "Ama Dablam from the north", "text": "From Dingboche, Ama Dablam shows its steep north and north-east faces, very different from the classic view at Tengboche. Lodges along the trail have windows facing it, and evening light turns its ridges pink."},
+    {"title": "Altitude talks at Pheriche", "text": "Over the ridge in Pheriche, the Himalayan Rescue Association clinic gives free daily talks on altitude sickness during the main seasons. On your rest day you can walk over, attend the talk and return, about 3–4 hours in total."},
+    {"title": "Island Peak and Lhotse up the valley", "text": "Looking east, Island Peak sits like an island of rock and snow in the upper Imja valley, dwarfed by the 3,000 m south face of Lhotse behind it. It is a good preview for anyone planning to climb it."},
+    {"title": "Bakeries with Everest films", "text": "Several Dingboche bakeries serve coffee and cakes and screen Everest documentaries and films in the afternoon. It is a pleasant way to rest after the morning hike while staying awake and hydrated."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Tengboche, walk via Deboche and Pangboche to Somare, then fork right across the Khumbu Khola to Dingboche: about 12 km and 5–6 hours, gaining roughly 550 m. From Dingboche to Lobuche is about 5 hours via Dughla and Thukla Pass."},
+    {"mode": "Helicopter", "text": "Dingboche has a helipad used for supply flights and rescues. Most altitude-related evacuations in the upper Khumbu pick up from Dingboche or Pheriche, weather permitting, about 1 hour's flight to Kathmandu."},
+    {"mode": "Air", "text": "Fly to Lukla, 35 minutes from Kathmandu or 20 minutes from Ramechhap in peak months. From Lukla, Dingboche is the fifth overnight stop on a standard itinerary including the Namche rest day."}
+  ],
+  "where_to_stay": "Dingboche has more than two dozen lodges strung along the main trail through the village, many rebuilt or extended in recent years. Several offer rooms with attached bathrooms, solar showers, sunrooms and heated dining rooms, at prices higher than lower down. Lodges at the upper, eastern end catch the morning sun earlier and face Ama Dablam. Rooms are unheated and nights fall well below freezing from October to April, so a four-season sleeping bag is needed. In peak weeks we book ahead, because the village fills with groups on both the EBC and Island Peak routes.",
+  "stays": [],
+  "tips": [
+    "Use your Dingboche rest day for the Nangkartshang hike, climbing at least 400 m before returning to sleep.",
+    "Drink 3–4 litres of water a day here; dehydration makes altitude symptoms worse.",
+    "Ask your lodge for a room on the sunny side and a hot water bottle for your sleeping bag.",
+    "Tell your guide about any headache that does not ease with rest, water and paracetamol.",
+    "If you have extra time, walk to Pheriche for the Himalayan Rescue Association altitude talk."
+  ],
+  "themes": ["trekking", "peak-climbing", "photography"],
+  "nearby": ["chhukung", "pangboche", "lobuche", "tengboche"],
+  "experiences": [
+    {
+      "slug": "nangkartshang-acclimatisation-hike",
+      "title": "Nangkartshang acclimatisation hike",
+      "kind": "hiking",
+      "duration": "3–5 hours return",
+      "best_time": "Early morning, Oct–Nov and Mar–May",
+      "price_hint": "Included in our EBC treks",
+      "image_query": "Nangkartshang peak Dingboche view Makalu",
+      "wiki": "",
+      "summary": "Climb the steep ridge behind Dingboche towards Nangkartshang Peak (≈ 5,083 m) on your rest day, turning around wherever you feel right, then sleep back at 4,410 m. It is the most important acclimatisation hike of the Everest Base Camp trek.",
+      "body": [
+        "Leave after breakfast, while the air is calm and clear. The trail starts behind the lodges at the northern edge of Dingboche, climbs past a chorten with prayer flags and then zigzags steeply up the grassy and rocky ridge that divides the Imja and Khumbu valleys. Within an hour you look down on the stone-walled fields of Dingboche and across to Ama Dablam, Kangtega and Thamserku. The higher you go, the more the Lhotse wall and Island Peak open up to the east.",
+        "There are several natural stopping points. A prayer-flag cairn at about 4,700–4,800 m is a common turnaround for those who feel the altitude. Stronger walkers continue on rockier ground towards the summit cairn at about 5,083 m, from where Makalu (8,485 m), the world's fifth-highest peak, shows its granite summit to the east beyond the Imja valley, and Cho Oyu sometimes appears to the north-west. The last section is rocky and slow.",
+        "Allow two to three hours up and one to one and a half down. The aim is to raise your body's exposure to altitude for a few hours and then return to sleep lower, which helps acclimatisation for Lobuche and Gorak Shep. Go slowly, drink water and turn around if you develop a headache, dizziness or nausea. After lunch, rest, read and drink; do not sleep all afternoon, as that can worsen breathing at night."
+      ],
+      "good_for": ["first-timers", "photographers", "groups", "solo"],
+      "faqs": [
+        {"q": "How high is Nangkartshang Peak?", "a": "Nangkartshang Peak, above Dingboche, is usually given as about 5,083 m, though sources vary slightly. Most trekkers climb to a viewpoint between 4,700 and 5,000 m on their rest day and turn back. Reaching the top is not necessary for acclimatisation."},
+        {"q": "Is the Nangkartshang hike hard?", "a": "It is steep and slow because of the altitude, gaining 400–670 m from Dingboche. The trail is not technical. Fit trekkers manage it in 3–5 hours return. Go at your own pace and turn back if you feel unwell."},
+        {"q": "Can I see Makalu from Nangkartshang?", "a": "Yes, on clear days. From the upper ridge and summit you see Makalu (8,485 m) to the east, along with Lhotse, Island Peak, Ama Dablam and sometimes Cho Oyu. Morning gives the best chance before clouds build."}
+      ]
+    },
+    {
+      "slug": "pheriche-hra-altitude-talk",
+      "title": "Altitude talk at the Pheriche HRA clinic",
+      "kind": "wellness",
+      "duration": "3–4 hours including the walk",
+      "best_time": "Afternoon, Oct–Nov and Mar–May (clinic seasons)",
+      "price_hint": "Free talk; consultations charged",
+      "image_query": "Pheriche Himalayan Rescue Association clinic",
+      "wiki": "Himalayan Rescue Association Nepal",
+      "summary": "In the trekking seasons, volunteer doctors at the Himalayan Rescue Association aid post in Pheriche give a free daily talk on altitude sickness. From Dingboche it is a 45-minute walk over the ridge, making a useful rest-day outing.",
+      "body": [
+        "Pheriche lies at about 4,371 m in the windswept Khumbu valley, separated from Dingboche by a low ridge. Its aid post was set up in 1975 by the Himalayan Rescue Association, a Nepali non-profit, in response to deaths from altitude sickness among trekkers. During the main seasons it is staffed by volunteer doctors, often from abroad, who treat trekkers, porters and local people, and run a small hyperbaric chamber for serious cases.",
+        "Most afternoons in season, the doctors give a talk of 30–45 minutes on acute mountain sickness, high-altitude cerebral oedema (HACE) and high-altitude pulmonary oedema (HAPE): how they develop, the warning signs, and why descent is the main treatment. It is practical, clear and aimed at trekkers, with time for questions. Talk times can change, so check at your lodge. Outside the main seasons, the clinic may be closed.",
+        "The walk from Dingboche climbs gently over the ridge and drops into Pheriche in about 45 minutes, and the return takes a little longer. Combined with a morning on the Nangkartshang ridge it makes a full rest day, so many groups do one or the other. In Pheriche, a stainless steel Everest memorial stands near the clinic. Consultations at the aid post are charged to foreign trekkers and help fund free care for porters."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "groups"],
+      "faqs": [
+        {"q": "What time is the altitude talk in Pheriche?", "a": "In the trekking seasons the Himalayan Rescue Association usually gives its talk in the afternoon, often around 3 pm. Times vary by year and staff, and the clinic may close outside the peak months. Ask at your lodge in Dingboche or Pheriche."},
+        {"q": "How far is Pheriche from Dingboche?", "a": "About 45 minutes to an hour on foot over a low ridge. Pheriche is slightly lower at about 4,371 m. Walking over and back makes an easy rest-day outing, or you can pass through it on the way down from Kala Patthar."},
+        {"q": "Can I get treated for altitude sickness at Pheriche?", "a": "Yes. The HRA aid post treats altitude illness and other problems during the main seasons, with oxygen, medicine and a portable hyperbaric chamber. Foreign trekkers pay for consultations. Descent and evacuation are arranged when needed."}
+      ]
+    },
+    {
+      "slug": "dingboche-bakery-rest-afternoon",
+      "title": "Rest-day bakery afternoon in Dingboche",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Afternoon of the rest day, Oct–Nov and Mar–May",
+      "price_hint": "≈ NPR 500–1,000 for coffee and cake",
+      "image_query": "Dingboche bakery trekkers",
+      "wiki": "",
+      "summary": "After the morning acclimatisation hike, spend the afternoon in one of Dingboche's bakeries with espresso, apple pie or cinnamon rolls, and often an Everest documentary on screen. Staying warm, awake and hydrated is part of acclimatising.",
+      "body": [
+        "Dingboche has some of the highest bakeries in the world, small cafés with sunny windows, padded benches and espresso machines powered by solar or hydro electricity. Coffee beans, flour and butter arrive by porter and yak, so prices are several times those in Kathmandu, but a fresh cinnamon roll at 4,410 m feels worth it. Lemon ginger honey tea, hot chocolate and garlic soup are popular choices for staying hydrated.",
+        "Many of the bakeries screen Everest films and documentaries in the afternoon, which helps pass the time between the morning hike and dinner. The point of a rest day at this height is to stay active enough to breathe deeply: doctors advise against sleeping during the day, because breathing slows during sleep and altitude symptoms can worsen. A warm room, a hot drink and a film keep you awake without exertion.",
+        "Use the afternoon to sort your kit for the next stages, charge batteries if the lodge offers charging, and check your feet and blisters. Write postcards, read or play cards with your group. If you feel well, a short walk around the stone-walled fields at sunset gives fine views of Ama Dablam. Eat a good dinner with carbohydrates such as dal bhat, which the lodges serve with free refills."
+      ],
+      "good_for": ["couples", "families", "solo", "groups"],
+      "faqs": [
+        {"q": "Are there bakeries in Dingboche?", "a": "Yes, Dingboche has several bakeries and cafés serving espresso, cakes, apple pie and cinnamon rolls. Prices are high because everything is carried in. Many screen Everest films in the afternoon, making them popular on rest days."},
+        {"q": "Should I sleep on my rest day at altitude?", "a": "Doctors generally advise against long daytime naps at high altitude, because breathing slows during sleep and can worsen symptoms. Do a morning hike, stay up and active in the afternoon, and sleep normally at night."},
+        {"q": "What should I drink at high altitude?", "a": "Water, tea, soups and electrolyte drinks, aiming for about 3–4 litres a day. Garlic soup and ginger lemon honey tea are trekkers' favourites. Avoid alcohol until you are descending, and limit strong coffee in the evening if you sleep badly."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Dingboche?", "a": "Dingboche lies at about 4,410 m in the Imja valley. It is nearly 1,000 m higher than Namche Bazaar and about 550 m below Lobuche. Most trekkers spend two nights here to acclimatise before heading on to Lobuche and Gorak Shep."},
+    {"q": "Why do you spend two nights in Dingboche?", "a": "Because the next stages go above 4,900 m, and your body needs time to adapt. On the rest day you hike to around 4,800–5,000 m on Nangkartshang and return to sleep at 4,410 m. This climb-high, sleep-low pattern reduces the risk of altitude sickness."},
+    {"q": "Dingboche or Pheriche: which is better?", "a": "Both are at similar altitudes. Dingboche is sunnier and more sheltered, with more lodges and the Nangkartshang hike. Pheriche is windier but has the Himalayan Rescue Association clinic. Many itineraries sleep in Dingboche going up and Pheriche coming down."},
+    {"q": "How long from Tengboche to Dingboche?", "a": "About 5–6 hours and roughly 12 km, gaining around 550 m. You walk through Deboche, Pangboche and Somare, then cross the Khumbu Khola and climb gently into the Imja valley. Lunch is usually at Somare or Pangboche."},
+    {"q": "Is there Wi-Fi in Dingboche?", "a": "Most lodges sell Wi-Fi access, often via Everest Link cards, and some have mobile data coverage. Connections can be slow and drop in bad weather. Charging phones and batteries costs extra here, often several hundred rupees per device."},
+    {"q": "How cold is Dingboche?", "a": "In October and November, days are around 5–10 °C in sun and nights −8 to −12 °C. December to February nights can fall below −15 °C. In April and May nights are about −5 °C. The afternoon valley wind makes it feel colder."},
+    {"q": "Can I see Everest from Dingboche?", "a": "Not from the village itself, as the Nuptse–Lhotse wall blocks it. You see Lhotse, Ama Dablam, Island Peak and, from the Nangkartshang ridge above, Makalu. Everest appears again from Kala Patthar and parts of the trail above Lobuche."},
+    {"q": "What is the trek from Dingboche to Chhukung like?", "a": "It is a gentle 2.5–3 hour walk up the Imja valley, gaining about 320 m to Chhukung (4,730 m). Many trekkers do it as an alternative acclimatisation day trip, and Island Peak climbers and Three Passes trekkers sleep there."},
+    {"q": "Is there a helicopter rescue from Dingboche?", "a": "Yes. Dingboche and nearby Pheriche are common pickup points for helicopter evacuations in the upper Khumbu, weather permitting. Make sure your travel insurance covers helicopter rescue up to at least 6,000 m and carry the policy details."}
+  ]
+}

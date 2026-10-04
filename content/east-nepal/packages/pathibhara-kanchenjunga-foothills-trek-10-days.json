@@ -1,0 +1,95 @@
+{
+  "slug": "pathibhara-kanchenjunga-foothills-trek-10-days",
+  "title": "Pathibhara & Kanchenjunga Foothills Trek 10 Days",
+  "region": "east-nepal",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 9,
+  "themes": ["trekking", "pilgrimage", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "ilam", "nights": 1},
+    {"place": "taplejung", "nights": 3},
+    {"place": "pathibhara", "nights": 0},
+    {"place": "kanyam", "nights": 2},
+    {"place": "antu-danda", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 78000,
+  "price_from_usd": 890,
+  "best_months": [0, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3794,
+  "accommodation": "3-star hotel in Kathmandu, simple hotels in Ilam, Phungling and Fikkal, a pilgrim lodge below Pathibhara",
+  "transport": "Kathmandu–Bhadrapur flights, private jeep throughout",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Pathibhara and Kanchenjunga foothills trek 10 days: forest trail from Suketar, sunrise at Pathibhara 3,794 m, Ilam tea gardens, Antu Danda. From US$890.",
+  "summary": "A 10-day introduction to the Kanchenjunga foothills: walk the old forest trail from Suketar to a lodge below Pathibhara Devi, climb before dawn to the 3,794 m shrine for sunrise over Kanchenjunga, and return through Limbu villages. The trip begins and ends in Ilam's tea country with Antu Danda sunrise. No restricted area permit needed.",
+  "intro": [
+    "Not everyone has three weeks for Kanchenjunga Base Camp. This shorter trek gives you the mountain, the forests and the culture of Taplejung in under a fortnight, with only two nights above 2,500 m. We fly to Bhadrapur, drive through the tea gardens of Kanyam and Ilam, and continue to Phungling, the Taplejung bazaar. From Suketar airstrip above town, an old pilgrim trail leads through rhododendron, oak and fir forest towards Pathibhara.",
+    "After a night in a simple lodge near Kafle Pati, we climb by headtorch to reach the shrine at 3,794 m for sunrise, when Kanchenjunga and its satellites glow across the Tamor valley. The descent follows village paths back towards Suketar. A spare day in Phungling covers weather, and the trip ends with the sunrise from Antu Danda before flying back from Bhadrapur. Walking days are 4–6 hours; the summit day is longer."
+  ],
+  "highlights": [
+    "Sunrise at Pathibhara Devi (3,794 m) facing Kanchenjunga",
+    "Old forest pilgrim trail from Suketar through rhododendron",
+    "Limbu villages and culture around Phungling",
+    "Ilam and Kanyam tea gardens",
+    "Antu Danda sunrise on the Nepal–India border ridge",
+    "No restricted area permit or minimum group size"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · 30 min", "flight": "", "text": "Arrival transfer to your hotel and a short briefing from your guide on the route, the altitude at Pathibhara and what to pack. A warm jacket, gloves, a headtorch and good walking boots are essential. If you arrive early, walk to Swayambhunath or Durbar Square in the afternoon.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Bhadrapur, drive to Ilam", "place": "ilam", "overnight": "Ilam", "altitude_m": 1200, "max_m": 1650, "walk": "", "drive": "≈ 95 km · 3 h", "flight": "Kathmandu–Bhadrapur · 50 min", "text": "Fly east to Bhadrapur, then drive through Birtamod and up the Mechi Highway into the hills. We stop at Kanyam for tea on the open slopes before continuing via Fikkal to Ilam Bazaar, at about 1,200 m. In the late afternoon, walk the town tea estate with your guide as the pluckers finish for the day.", "meals": "B, L, D"},
+    {"day": 3, "title": "Drive Ilam to Phungling", "place": "taplejung", "overnight": "Phungling", "altitude_m": 1820, "max_m": 1820, "walk": "", "drive": "≈ 160 km · 7–8 h", "flight": "", "text": "A full day's drive north on the Mechi Highway through Phidim and the Limbu heartland of Panchthar and Taplejung, with terraced hills, cardamom gullies and river crossings. We arrive in Phungling, the Taplejung bazaar at about 1,820 m, in the late afternoon. Stretch your legs with a short walk through the bazaar before dinner.", "meals": "B, L, D"},
+    {"day": 4, "title": "Suketar and the forest trail upward", "place": "", "overnight": "Kafle Pati", "altitude_m": 2750, "max_m": 2750, "walk": "≈ 5–6 h · 10 km", "drive": "Phungling–Suketar · 20 min", "flight": "", "text": "A short drive brings you to Suketar, the airstrip on the ridge at about 2,400 m. From here we leave the road and follow the old pilgrim trail through Limbu farms and then rhododendron and oak forest, climbing gradually with tea stops, to the road head at Kafle Pati. Expect around 350 m of net gain and some ups and downs. Overnight in a simple pilgrim lodge; rooms are basic and toilets shared.", "meals": "B, L, D"},
+    {"day": 5, "title": "Sunrise climb to Pathibhara Devi", "place": "pathibhara", "overnight": "Phungling", "altitude_m": 1820, "max_m": 3794, "walk": "≈ 8–9 h · 12 km", "drive": "Kafle Pati–Phungling · 1.5–2 h", "flight": "", "text": "We start by headtorch around 2 a.m. and climb the stone stairway through fir and rhododendron, gaining roughly 1,000 m to the shrine at 3,794 m in time for sunrise. Kanchenjunga, at 8,586 m, glows across the Tamor valley to the north. After darshan we walk down to Kafle Pati for a late breakfast and drive back to Phungling for a well-earned rest. Anyone struggling with altitude turns back early with a staff member.", "meals": "B, L, D"},
+    {"day": 6, "title": "Spare day: Limbu culture in Phungling", "place": "taplejung", "overnight": "Phungling", "altitude_m": 1820, "max_m": 2000, "walk": "≈ 2–3 h", "drive": "", "flight": "", "text": "This day is held in reserve for weather: if cloud or rain stopped the summit attempt, we try again today. If not, enjoy a slow morning and a guided afternoon walk through Phungling and the ridge above town, learning about Limbu culture, the Sirijanga script and the Kirat faith, ending with tongba or milk tea in a local eatery.", "meals": "B, L, D"},
+    {"day": 7, "title": "Drive back south to Kanyam", "place": "kanyam", "overnight": "Fikkal / Kanyam", "altitude_m": 1650, "max_m": 1820, "walk": "", "drive": "≈ 190 km · 8–9 h", "flight": "", "text": "A long drive back down the Mechi Highway through Phidim and Ilam to Fikkal and the Kanyam tea gardens, at about 1,650 m. We stop for lunch on the way and, if time allows, take a walk on the Kanyam slopes in the evening light. Tonight's hotel is chosen for an easy start to tomorrow's sunrise.", "meals": "B, L, D"},
+    {"day": 8, "title": "Antu Danda sunrise and tea villages", "place": "antu-danda", "overnight": "Fikkal / Kanyam", "altitude_m": 1650, "max_m": 2328, "walk": "≈ 3–4 h", "drive": "≈ 1 h each way", "flight": "", "text": "Drive in the dark to Antu Danda, the 2,328 m viewpoint on the Nepal–India border ridge, for sunrise over the plains and the Kanchenjunga range to the north. Afterwards, walk down through Shree Antu's tea gardens and villages before the car collects you. The afternoon is free to rest, buy tea in Fikkal or visit a tea-garden homestay.", "meals": "B, L, D"},
+    {"day": 9, "title": "Drive to Bhadrapur, fly to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1650, "walk": "", "drive": "≈ 65 km · 2 h", "flight": "Bhadrapur–Kathmandu · 50 min", "text": "A two-hour drive down to Bhadrapur and the flight back to Kathmandu, with Himalayan views on the right side of the plane in clear weather. Afternoon free in Kathmandu, with a farewell dinner in the evening.", "meals": "Breakfast, Dinner"},
+    {"day": 10, "title": "Depart Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel–airport · 30 min", "flight": "", "text": "Transfer to the airport for your onward flight. With a later flight, spend the morning at Boudhanath or Patan, or extend your trip to Pokhara or Chitwan.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Bhadrapur–Kathmandu flights",
+    "Private jeep for all road transfers in the east",
+    "Licensed English- or Hindi-speaking guide",
+    "Porter for the trekking days (one per two trekkers)",
+    "2 nights at a 3-star hotel in Kathmandu with breakfast",
+    "Hotels in Ilam, Phungling and Fikkal, and a pilgrim lodge at Kafle Pati",
+    "All meals from day 2 lunch to day 9 breakfast",
+    "Airport transfers in Kathmandu",
+    "First-aid kit and pulse oximeter"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance",
+    "Puja items, temple donations and pony hire",
+    "Lunch on days 9 and 10 and meals in Kathmandu except listed",
+    "Drinks, snacks and bottled water",
+    "Extra nights caused by weather or road closures",
+    "Tips for guide, driver and porter"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing a private trip; groups of four or more pay less.",
+    "Pilgrim lodges near Kafle Pati are basic, with shared toilets and thin walls; bring a sleeping bag liner.",
+    "Pathibhara at 3,794 m can cause altitude sickness; the night at about 2,750 m helps, but walk slowly and drink well.",
+    "No restricted area permit is needed for this route; check current status before you travel.",
+    "Drives on the Mechi Highway are long and winding, 7–9 hours between Ilam and Phungling."
+  ],
+  "add_ons": [
+    {"name": "Pony for the Pathibhara climb", "price": "Set locally, ≈ ₹3,000–5,000 one way"},
+    {"name": "Helicopter descent from Pathibhara to Phungling", "price": "≈ ₹7,000 per seat, weather permitting"}
+  ],
+  "faqs": [
+    {"q": "Is this trek suitable for first-time trekkers?", "a": "Yes, for reasonably fit people. Walking days are 4–6 hours on clear trails, and only the summit day is long and steep. The main challenge is the altitude at 3,794 m, which we handle with a night at about 2,750 m and a slow pace."},
+    {"q": "Do I need a permit for the Pathibhara trek?", "a": "No restricted area permit is needed for Pathibhara and the trails described here. Foreign nationals still need a Nepal visa and should trek with a licensed guide. Indian citizens need a passport or voter ID. Check current status before you travel."},
+    {"q": "How much does the Pathibhara trek cost?", "a": "This 10-day trip starts from about US$890 (₹78,000) per person, twin sharing, with flights to Bhadrapur, private jeep, guide, porter, hotels and most meals. Pony hire, puja items and tips are extra."},
+    {"q": "What will I see from Pathibhara?", "a": "On clear mornings, the Kanchenjunga massif across the Tamor valley to the north, with the ridges of Sikkim to the east and rolling hills of Taplejung below. The best visibility is October to December."},
+    {"q": "Can I combine this with the Kanchenjunga Base Camp trek?", "a": "Yes. Pathibhara makes a good acclimatisation day before the Kanchenjunga trek, since both start from Phungling. We add one day to the Kanchenjunga itinerary for it."},
+    {"q": "What is the best season for this trek?", "a": "October and November for clear views and dry trails, and March to May for rhododendrons. December to February is clear but cold, with possible snow at the top. Avoid June to September."},
+    {"q": "Is the lodge near Kafle Pati comfortable?", "a": "It is basic: twin rooms or dormitories, blankets, shared toilets and simple dal bhat. It exists for pilgrims rather than tourists. A sleeping bag liner and earplugs make the night more comfortable."},
+    {"q": "Can children join this trek?", "a": "Active children from about 10 years old usually manage well. The summit day is long and starts at 2 a.m., and altitude is a real factor, so watch them closely and turn back if they show headache or vomiting."},
+    {"q": "Can I do this trek from India without flying?", "a": "Yes. Start at the Kakarbhitta border instead of Kathmandu and drive to Ilam on the first day. That removes the flights and the Kathmandu nights and lowers the price."}
+  ]
+}

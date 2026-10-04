@@ -1,0 +1,90 @@
+{
+  "slug": "tansen-lumbini-heritage-tour-4-nights",
+  "title": "Tansen and Lumbini Heritage Tour 4 Nights",
+  "region": "lumbini",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["cultural-tours", "photography", "buddhist-circuit", "short-breaks"],
+  "stops": [
+    {"place": "lumbini", "nights": 2},
+    {"place": "tilaurakot", "nights": 0},
+    {"place": "devdaha", "nights": 0},
+    {"place": "butwal", "nights": 0},
+    {"place": "tansen", "nights": 2},
+    {"place": "ranighat-durbar", "nights": 0}
+  ],
+  "start": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "end": "Gautam Buddha International Airport (Bhairahawa), or onward to Pokhara",
+  "price_from_inr": 28000,
+  "price_from_usd": 360,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels in Lumbini and Tansen",
+  "transport": "Private car with driver throughout; jeep for the Rani Mahal return",
+  "group": "Private, 2–10",
+  "meta_description": "Tansen and Lumbini heritage tour, 5 days: Maya Devi Temple, Tilaurakot, Devdaha, Tansen old town, Dhaka weaving, Srinagar sunrise and Rani Mahal. 3-star stays.",
+  "summary": "Five days pairing the Buddha's birthplace on the Terai plain with the Newar hill town of Tansen: Lumbini's Sacred Garden and monasteries, Tilaurakot's Shakya ruins, Devdaha and Butwal's Jit Gadhi fort on the way up, then Tansen's old town, Dhaka weavers, Srinagar sunrise and a hike down to Rani Mahal on the Kali Gandaki.",
+  "intro": [
+    "Lumbini and Tansen are only 90 km apart, but they feel like different countries. Lumbini lies on hot, flat farmland at 150 m, its temples built by Buddhist nations from across Asia. Tansen sits on a cool ridge at 1,350 m, a Newar trading town of brick houses, pagoda temples and handlooms. This short tour gives each two nights and links them with a slow drive through Devdaha, the home of the Buddha's mother, and Butwal, where Nepal beat back British troops in 1815.",
+    "It suits travellers who have seen Kathmandu and Pokhara and want a quieter, less visited corner of Nepal, and photographers looking for both temple architecture and street life. You can start and end at Bhairahawa airport with flights to Kathmandu, or continue from Tansen to Pokhara in about five hours on the last day."
+  ],
+  "highlights": [
+    "Maya Devi Temple and Ashoka pillar at Lumbini at dawn",
+    "Tilaurakot's walls and the eastern gate of Kapilavastu",
+    "Devdaha and Jit Gadhi fort on the drive into the hills",
+    "Tansen old town, Amar Narayan Temple and Baggi Dhoka",
+    "Sunrise over Dhaulagiri and the Annapurnas from Srinagar hill",
+    "Hike down to Rani Mahal, the 1893 palace on the Kali Gandaki"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Lumbini, monastic zone", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "", "drive": "≈ 20–26 km · 35–45 min", "flight": "", "text": "We meet you at Bhairahawa airport or the Sonauli border and drive to your hotel near the Sacred Garden. After lunch and rest, your guide takes you by bicycle or battery rickshaw through the monastic zone: the Royal Thai Monastery's white marble, the Myanmar Golden Temple's Shwedagon-style spire, the Chinese temple courtyard and the painted interior of the German-funded Lotus Stupa. Finish at the World Peace Pagoda as the light turns gold.", "meals": "Dinner"},
+    {"day": 2, "title": "Sacred Garden at dawn and Tilaurakot", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 4 km", "drive": "≈ 70 km · 2.5 h round trip", "flight": "", "text": "Enter the Sacred Garden at opening time for the Maya Devi Temple and its marker stone, Ashoka's inscribed pillar and the Puskarini pond, with monks chanting under the bodhi tree. After breakfast, drive 45 minutes west to Tilaurakot, the walled Shakya city identified with Kapilavastu, to walk its brick walls and eastern gate and see the Kapilvastu Museum. Return via the Ashoka pillar at Niglihawa. Evening free in Lumbini.", "meals": "B, D"},
+    {"day": 3, "title": "Devdaha, Butwal and up to Tansen", "place": "tansen", "overnight": "Tansen", "altitude_m": 1350, "max_m": 1350, "walk": "≈ 2.5 h in short sections", "drive": "≈ 100 km · 3.5 h", "flight": "", "text": "Drive to Devdaha, the Koliya capital where Maya Devi grew up, and visit her shrine and pond. Continue to Butwal for Jit Gadhi fort, scene of the 1815 Nepali victory over East India Company troops, and lunch. The Siddhartha Highway then climbs through the Tinau gorge, past the Siddhababa temple, to Tansen at about 1,350 m. Late afternoon walk through the old town: Tansen Durbar's Baggi Dhoka, the Bhagwati Temple built after the 1815 victory, and Shitalpati square.", "meals": "B, D"},
+    {"day": 4, "title": "Srinagar sunrise, Rani Mahal, Dhaka", "place": "ranighat-durbar", "overnight": "Tansen", "altitude_m": 1350, "max_m": 1600, "walk": "≈ 4 h · 10 km including the descent", "drive": "≈ 13 km · 1 h by jeep", "flight": "", "text": "Climb Srinagar hill before dawn, about 1,600 m, for sunrise over Dhaulagiri and the Annapurnas. After breakfast, walk down village trails through terraced fields for 2.5–3 hours to Rani Mahal, the white palace built in 1893 by Khadga Shumsher Rana beside the Kali Gandaki, at about 480 m. Visit the palace museum and picnic on the riverbank. A jeep brings you back up to Tansen by mid-afternoon, in time to visit a Dhaka weaving workshop and the Amar Narayan Temple.", "meals": "B, L, D"},
+    {"day": 5, "title": "Tansen to Bhairahawa or Pokhara", "place": "tansen", "overnight": "", "altitude_m": 105, "max_m": 1350, "walk": "", "drive": "≈ 65 km · 2 h to Bhairahawa, or ≈ 120 km · 5 h to Pokhara", "flight": "", "text": "A slow breakfast with valley views, then a last look at the morning market. Drive down the Siddhartha Highway to Bhairahawa airport for your flight to Kathmandu, about two hours, or to the Sonauli border to return to India. Alternatively, continue north to Pokhara through Syangja and Waling, about five hours, to join a Pokhara stay; we price the onward drive separately.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini", "hotel-srinagar-tansen"],
+  "includes": [
+    "2 nights in Lumbini and 2 nights in Tansen at 3-star hotels, twin sharing",
+    "Daily breakfast and dinner; picnic lunch at Rani Mahal",
+    "Private car with driver for all transfers and sightseeing",
+    "Jeep from Rani Mahal back to Tansen",
+    "Local guides in Lumbini and Tansen",
+    "Entry fees at Lumbini, Tilaurakot, Jit Gadhi and Rani Mahal",
+    "Bicycle or battery rickshaw for the monastic zone",
+    "Airport or border pick-up and drop-off"
+  ],
+  "excludes": [
+    "Flights to and from Bhairahawa",
+    "Nepal visa fee for non-Indian nationals",
+    "Lunches except on day 4",
+    "Onward drive from Tansen to Pokhara (priced on request)",
+    "Dhaka fabric and handicraft purchases",
+    "Tips for guides and driver",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing at 3-star hotels in October–March; single rooms cost extra.",
+    "Tansen's old town is steep with stone steps; the Rani Mahal walk descends about 870 m, and the jeep can drive both ways for anyone who prefers not to walk.",
+    "Hotel Srinagar is an older property; expect a dependable hill hotel rather than modern luxury.",
+    "Mountain views from Srinagar hill are most reliable from October to February.",
+    "Between June and September, landslides can affect the Siddhartha Highway and the Rani Mahal road. Check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Onward private drive from Tansen to Pokhara", "price": "≈ ₹7,000 per car"},
+    {"name": "Ramagrama stupa visit on day 3", "price": "≈ ₹3,000 per car"}
+  ],
+  "faqs": [
+    {"q": "Why combine Tansen with Lumbini?", "a": "They are only 90 km apart but very different: Lumbini is a hot Terai pilgrimage site of international monasteries, while Tansen is a cool Newar hill town with old lanes, weaving and Himalayan views. Together they give a fuller picture of western Nepal in just four nights, with short drives."},
+    {"q": "Is the Rani Mahal hike difficult?", "a": "It is mostly downhill, about 9 km and 2.5–3 hours from Tansen to the Kali Gandaki, dropping roughly 870 m on village trails. Knees take the strain, so walking poles help. A jeep brings you back up. Those who prefer not to walk can go both ways by jeep in about an hour each way."},
+    {"q": "What does this Tansen and Lumbini tour cost?", "a": "It starts at about ₹28,000 per person for Indian nationals or US$ 360 for foreign nationals, twin sharing, with 3-star hotels, breakfast and dinner, a private car, local guides, the Rani Mahal jeep and entry fees. Flights to Bhairahawa and the optional Pokhara drive are extra."},
+    {"q": "Can we end this tour in Pokhara?", "a": "Yes. On day 5, instead of driving down to Bhairahawa, continue north on the Siddhartha Highway to Pokhara, about 120 km and five hours. The onward drive costs about ₹7,000 per car. Many travellers then spend two nights in Pokhara and fly to Kathmandu."},
+    {"q": "Is Tansen safe for tourists?", "a": "Yes. Tansen is a calm district town with few tourists and friendly residents. Take normal care with valuables and on steep stone lanes, especially after rain. Our local guide accompanies you on walks, and the hotel is on the quiet Srinagar hill road above town."},
+    {"q": "What is Dhaka cloth and where can we buy it?", "a": "Dhaka is a hand-woven cotton cloth with geometric patterns, used for Nepal's national topi cap and shawls. Tansen is its traditional home. We visit a working weaving shop where you can buy by the metre, roughly ₹600–1,500 depending on quality, or ready-made topis and shawls."},
+    {"q": "Can seniors do this tour?", "a": "Yes, with adjustments. Lumbini is flat and can be seen by battery rickshaw. In Tansen, the old town is steep, so we use the car for climbs, drive most of the way up Srinagar hill and take the jeep both ways to Rani Mahal. Let us know any mobility needs when booking."},
+    {"q": "Which is the best season for this tour?", "a": "October to April is best. October to February gives the clearest Himalayan views from Srinagar hill and pleasant days in Lumbini, with cold, foggy mornings in December and January. March and April are warm and green. May is hot in Lumbini, and the monsoon brings rain and landslides."},
+    {"q": "Can we start from the Sonauli border?", "a": "Yes. Our driver meets you at Belahiya on the Nepal side, 45 minutes from Lumbini. Indian citizens need a passport or voter ID; other nationals need a passport and a Nepal visa, available on arrival at Belahiya. On day 5 we can drop you back at the border."}
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "slug": "mardi-himal-trek-7-days",
+  "title": "Mardi Himal Trek 7 Days from Pokhara",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 6,
+  "themes": ["trekking", "photography", "budget-nepal", "short-breaks"],
+  "stops": [
+    {"place": "pokhara", "nights": 2},
+    {"place": "mardi-himal-base-camp", "nights": 0}
+  ],
+  "start": "Pokhara (hotel pick-up)",
+  "end": "Pokhara",
+  "price_from_inr": 45000,
+  "price_from_usd": 530,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 4500,
+  "accommodation": "3-star hotel in Pokhara, teahouse lodges on the trail",
+  "transport": "Private car Pokhara–Kande, jeep Siding–Pokhara",
+  "group": "Private or small group, 2–10",
+  "meta_description": "Mardi Himal trek in 7 days from Pokhara: Forest Camp, Badal Danda, High Camp and a dawn climb to Mardi Himal Base Camp at about 4,500 m under Machhapuchhre.",
+  "summary": "A 7-day ridge trek from Pokhara through rhododendron forest to Mardi Himal High Camp at 3,580 m, then a pre-dawn climb to the base camp at about 4,500 m facing Machhapuchhre's south face. Quieter than ABC, shorter than the circuit and finished with a descent through Siding village.",
+  "intro": [
+    "The Mardi Himal trail climbs a single forested spur that runs straight towards Machhapuchhre, the fishtail peak seen from every hotel in Pokhara. In four walking days you go from the farmhouses of Kande to an open grass ridge where the mountain fills the sky, with Annapurna South, Hiunchuli and Mardi Himal close by. Teahouses are small and spaced along the ridge, so the trail never feels busy, even in October.",
+    "We keep the first two days moderate, through oak and rhododendron to Forest Camp and Badal Danda, then take a short third day to High Camp to rest before the big one. Summit day starts at 4 am and runs to 9 hours, reaching the upper viewpoint at about 4,250 m and, conditions permitting, the base camp at about 4,500 m before dropping to Low Camp. The final morning descends to Siding and a jeep back to Pokhara."
+  ],
+  "highlights": [
+    "Sunrise on Machhapuchhre's south face from the upper ridge",
+    "Mardi Himal Base Camp at about 4,500 m",
+    "Rhododendron and oak forest between Pothana and Low Camp",
+    "Cloud seas filling the Modi and Mardi valleys below Badal Danda",
+    "Small ridge-top teahouses away from the main ABC crowds",
+    "Return via the Gurung farming village of Siding"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara, briefing",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "Airport or bus park transfer",
+      "flight": "",
+      "text": "We pick you up from Pokhara airport or the tourist bus park and check you into a lakeside hotel. In the afternoon your guide visits to explain the route, check boots and warm layers, and hand over the ACAP permit we have arranged. Look up from the lakeside: the twin summit of Machhapuchhre, 6,993 m, is the peak you will stand beneath on day five. Use the evening for a walk along Phewa Lake and a good dinner.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Kande to Forest Camp",
+      "place": "",
+      "overnight": "Forest Camp",
+      "altitude_m": 2550,
+      "max_m": 2550,
+      "walk": "≈ 6 h · 12 km",
+      "drive": "≈ 25 km · 45 min",
+      "flight": "",
+      "text": "A 45-minute drive takes us to Kande at 1,770 m. The trail climbs through farmland to Australian Camp at 2,060 m, where the Annapurna range appears across the meadow, then follows the ridge to Pothana and Deurali, where the ACAP checkpoint records permits. Here we leave the main trail and enter a deep forest of rhododendron, oak and maple, climbing steadily for 2–3 hours to Forest Camp, also called Kokar, at 2,550 m. Expect about 780 m of gain and the sound of langur monkeys in the canopy.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Forest Camp to Badal Danda",
+      "place": "",
+      "overnight": "Badal Danda",
+      "altitude_m": 3210,
+      "max_m": 3210,
+      "walk": "≈ 4–5 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "The forest continues, thick with moss, to Low Camp at 2,990 m, where the first full view of Machhapuchhre opens through the trees. Above Low Camp the vegetation shortens to rhododendron scrub, and the trail climbs onto the crest. Badal Danda, the cloud ridge, at 3,210 m, has a few lodges on an open shoulder with views down both sides. In the afternoon, mist often rises from the valleys and parts around the ridge. Gain is about 660 m.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Badal Danda to High Camp",
+      "place": "",
+      "overnight": "High Camp",
+      "altitude_m": 3580,
+      "max_m": 3580,
+      "walk": "≈ 2–3 h · 4 km",
+      "drive": "",
+      "flight": "",
+      "text": "A short day on purpose. The open grass ridge climbs about 370 m to High Camp at 3,580 m, with Machhapuchhre, Mardi Himal and Annapurna South growing larger with every step. Danphe, the Himalayan monal, are sometimes seen in the scrub. Arriving by late morning gives time to rest, drink plenty of water and adapt to the altitude. The sunset over Machhapuchhre from High Camp is often the best of the trek. Dinner by 6:30 pm and early to bed.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Mardi Himal Base Camp, down to Low Camp",
+      "place": "mardi-himal-base-camp",
+      "overnight": "Low Camp",
+      "altitude_m": 2990,
+      "max_m": 4500,
+      "walk": "≈ 8–9 h · 14 km",
+      "drive": "",
+      "flight": "",
+      "text": "We set off at 4 am with headtorches, climbing a steep grassy path along the ridge. After 2.5–3 hours the upper viewpoint at about 4,250 m catches the first light on Machhapuchhre, close enough to see the fluting of ice on its face. If weather and energy allow, we continue 1–1.5 hours across rougher ground to the base camp at about 4,500 m below Mardi Himal. The descent returns to High Camp for a late breakfast, then on down to Low Camp at 2,990 m to sleep.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Low Camp to Siding, drive to Pokhara",
+      "place": "",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 2990,
+      "walk": "≈ 4 h · 8 km",
+      "drive": "≈ 2.5 h",
+      "flight": "",
+      "text": "From Low Camp a steep trail leaves the main ridge and descends about 1,250 m through forest and bamboo into the Mardi Khola valley. Poles help on the loose sections. Siding, at about 1,750 m, is a Gurung farming village of millet terraces and stone houses, where lunch is usually dal bhat from the family kitchen. A jeep takes us down the rough valley road, about 2.5 hours, to Pokhara and a hot shower by mid-afternoon.",
+      "meals": "B, L"
+    },
+    {
+      "day": 7,
+      "title": "Departure from Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "Airport or bus park transfer",
+      "flight": "",
+      "text": "After breakfast we take you to the airport for a flight to Kathmandu or to the tourist bus park for the 6–8 hour road journey. If you have a spare morning, paddle on Phewa Lake, visit the Gupteshwor cave or drive up to Sarangkot for one last view of the ridge you walked. Travellers continuing in Nepal can head on to Chitwan, about 5 hours by road, or join another trek.",
+      "meals": "B"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Airport or bus park transfers in Pokhara",
+    "2 nights 3-star lakeside hotel in Pokhara with breakfast",
+    "Private car Pokhara–Kande and jeep Siding–Pokhara",
+    "Licensed trekking guide for 5 trail days",
+    "One porter for every two trekkers",
+    "ACAP entry permit and any trekking registration currently required",
+    "Teahouse rooms and all meals on the trail",
+    "Purified water refills and first-aid kit"
+  ],
+  "excludes": [
+    "Kathmandu–Pokhara flights or bus",
+    "Lunch and dinner in Pokhara",
+    "Travel insurance with helicopter evacuation cover",
+    "Hot showers, charging and Wi-Fi at lodges",
+    "Drinks, snacks and desserts",
+    "Tips for guide and porter",
+    "Extra nights caused by weather or road closures"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more trekkers; teahouses on the upper ridge are small, so private rooms in October are limited.",
+    "ACAP permit fees are NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians; included. A licensed guide is part of the package as Nepal's rules have required since 2023; check current status before you travel.",
+    "There are no lodges at the base camp. Everyone sleeps at High Camp, 3,580 m, and visits the base camp on a long day trip.",
+    "The upper ridge is narrow and exposed. After fresh snow or in strong wind, the guide may stop at the upper viewpoint instead of the base camp.",
+    "Spring brings rhododendrons in bloom; autumn brings the clearest views of Machhapuchhre."
+  ],
+  "add_ons": [
+    {"name": "Extra night at High Camp for a second summit morning", "price": "≈ ₹3,500 / US$ 40 per person"},
+    {"name": "Kathmandu–Pokhara flights", "price": "≈ US$ 100–130 one way"},
+    {"name": "Homestay night in Siding", "price": "≈ ₹2,500 / US$ 30 per person"}
+  ],
+  "faqs": [
+    {
+      "q": "Can I do the Mardi Himal trek in 5 days?",
+      "a": "Yes, a short version from Pokhara can be done in 5 days by sleeping at Low Camp, then High Camp, visiting the base camp on day four and descending on day five. It is more tiring and leaves no room for bad weather. Our 7-day version includes arrival and departure days in Pokhara and a short day to High Camp."
+    },
+    {
+      "q": "How much does the Mardi Himal trek cost?",
+      "a": "Our 7-day package starts from about ₹45,000 or US$530 per person on twin sharing, with Pokhara hotel, guide, porter, permits, transport and all trail meals. Solo trekkers pay a supplement for a private guide and room. Independent costs on the trail run roughly US$30–40 a day for lodging and food."
+    },
+    {
+      "q": "Is Mardi Himal trek suitable for first-time trekkers?",
+      "a": "Fit first-timers can do it. The first four days are steady walks of 2–6 hours. Summit day is long and reaches about 4,500 m, which tests both legs and lungs. You can turn around at the upper viewpoint, about 4,250 m, and still get the main views. Train with uphill walks for 6–8 weeks beforehand."
+    },
+    {
+      "q": "What is the highest point on the Mardi Himal trek?",
+      "a": "The base camp at about 4,500 m is the highest point. The upper viewpoint, where many people stop, is at about 4,250 m. The highest sleeping altitude is High Camp at 3,580 m. Mardi Himal summit itself, 5,587 m, is a climbing peak and is not part of the trek."
+    },
+    {
+      "q": "Can I see Annapurna from Mardi Himal?",
+      "a": "Yes. From High Camp and the upper ridge you see Annapurna South at 7,219 m and Hiunchuli to the west, with Machhapuchhre and Mardi Himal directly ahead. Annapurna I, the 8,091 m main summit, is hidden behind the Sanctuary's walls; for that view you need to go to Annapurna Base Camp."
+    },
+    {
+      "q": "Are there teahouses all along the Mardi Himal trail?",
+      "a": "Yes, up to High Camp. You will find small lodges at Australian Camp, Pothana, Deurali, Forest Camp, Low Camp, Badal Danda and High Camp. There is nothing above High Camp, so carry water and snacks on summit day. Lodges are simpler than on the main ABC route, with shared toilets and basic rooms."
+    },
+    {
+      "q": "How cold is it at Mardi Himal High Camp?",
+      "a": "In October and November nights at High Camp, 3,580 m, fall to around −2 to −5 °C, and the upper ridge before dawn is −5 to −10 °C. December to February is colder, with snow possible. Days are usually sunny and mild. Bring a sleeping bag rated to −10 °C, a down jacket, gloves and a warm hat."
+    },
+    {
+      "q": "Is there mobile signal on the Mardi Himal trek?",
+      "a": "Signal is available at Australian Camp, Pothana and parts of the ridge, and some lodges at Low Camp and High Camp have Wi-Fi or patchy mobile data. The forest sections often lose signal. Treat connectivity as occasional, and let family know you may be offline for a day or two."
+    },
+    {
+      "q": "Mardi Himal or Poon Hill, which is better for a short trek?",
+      "a": "Poon Hill is easier, lower at 3,210 m and has more comfortable teahouses, ideal for families and beginners in 4–5 days. Mardi Himal is higher, quieter and more dramatic, with close views of Machhapuchhre, but needs better fitness and an early, long summit day. Choose Mardi if you want more of a challenge in a week."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "pokhara-family-holiday-4-nights",
+  "title": "Pokhara Family Holiday 4 Nights 5 Days",
+  "region": "pokhara",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["family-holidays", "short-breaks", "adventure-sports"],
+  "stops": [{"place": "pokhara", "nights": 4}, {"place": "sarangkot", "nights": 0}, {"place": "begnas-lake", "nights": 0}, {"place": "world-peace-pagoda", "nights": 0}],
+  "start": "Pokhara International Airport or Pokhara tourist bus park",
+  "end": "Pokhara",
+  "price_from_inr": 21000,
+  "price_from_usd": 250,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star Lakeside hotel with pool (Hotel Barahi or similar), family or connecting rooms, breakfast daily",
+  "transport": "Private van for all transfers and sightseeing",
+  "group": "Private, 2–15 (families)",
+  "meta_description": "Pokhara family holiday, 5 days 4 nights: hotel with pool, Sarangkot sunrise, boating, caves, Mountain Museum, Begnas Lake and kid-friendly pacing. From ₹21,000.",
+  "summary": "A five-day Pokhara holiday paced for families with children: a Lakeside hotel with a pool, short drives, boating on two lakes, caves and waterfalls, the Mountain Museum's climbing wall and one early sunrise. A free afternoon for zipline or paragliding for older kids. From ₹21,000 per adult.",
+  "intro": [
+    "Children enjoy Pokhara because it is compact and full of things to do that are not just looking at temples: rowing boats, a waterfall that disappears into the ground, caves with bats, a museum with a climbing wall, monkeys in the forest and a ridge where you can watch paragliders launch. We base you at a 3-star Lakeside hotel with a pool and garden, so there is always somewhere to cool off after sightseeing, and no day has more than about two hours in the car.",
+    "We build in rest. Mornings carry the main activity while children are fresh, and most afternoons end by 3 pm. There is one early start, for Sarangkot sunrise, which most children find exciting, and we keep it optional for families with toddlers. Teenagers can add the ZipFlyer, a tandem paragliding flight or the 70 m bungee on the free afternoon. Indian vegetarian and Jain food is easy to arrange throughout."
+  ],
+  "highlights": [
+    "Lakeside hotel with pool and garden, a short walk from the boats",
+    "Sarangkot sunrise and paragliders launching from the ridge",
+    "Rowing boat to Tal Barahi island temple on Phewa Lake",
+    "Bat Cave, Mahendra Cave, Davis Falls and Gupteshwor Cave",
+    "International Mountain Museum with its outdoor climbing wall",
+    "Half-day at Begnas Lake with an easy ridge walk"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Pokhara, pool and lakeside walk", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 822, "walk": "≈ 1 h stroll", "drive": "≈ 5 km · 15 min", "flight": "", "text": "We meet your family at the airport or bus park and drive 15 minutes to your Lakeside hotel, where family or connecting rooms are ready. After lunch on your own and time in the pool, take an easy evening walk along the lakeshore promenade, where children can watch the boats, feed the ducks at the edge and pick out the paragliders landing at the north end of Lakeside. Your guide briefs parents on the plan, food options and which activities suit which ages, and books any optional activities for older children.", "meals": "—"},
+    {"day": 2, "title": "Sarangkot sunrise, museum and Seti gorge", "place": "sarangkot", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 1 h in short sections", "drive": "≈ 35 km · 2.5 h in total", "flight": "", "text": "An early 5 am start for the 40-minute drive to Sarangkot; bring blankets and snacks for sleepy children. From the terraces at about 1,600 m, watch the sun light Machhapuchhre and Annapurna South. Back to the hotel for breakfast and a rest. Late morning, visit the International Mountain Museum, with its life-size models, climbing gear and outdoor climbing wall, then stop at the Seti Gandaki gorge, where the river runs far below a narrow slot in the city. Afternoon free at the pool.", "meals": "Breakfast"},
+    {"day": 3, "title": "Boating, waterfall and caves", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 900, "walk": "≈ 1.5 h in short sections", "drive": "≈ 30 km · 2 h in total", "flight": "", "text": "Start with a rowing boat on Phewa Lake to Tal Barahi temple on its island, life jackets for everyone. Then drive to Davis Falls, where the lake's outflow plunges into a narrow chasm, and across the road to Gupteshwor Mahadev Cave with its Shiva shrine. After lunch, head north to Batulechaur for Mahendra Cave, a limestone cave with lit passages, and the Bat Cave next door, where hundreds of bats hang from the ceiling; older children can squeeze out through the narrow exit. Back by 4 pm.", "meals": "Breakfast"},
+    {"day": 4, "title": "Begnas Lake and Peace Pagoda by road", "place": "begnas-lake", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1100, "walk": "≈ 1.5 h", "drive": "≈ 50 km · 2 h in total", "flight": "", "text": "Drive 40 minutes east to Begnas Lake for a quieter boat ride along a forested shore, then an easy 30-minute walk up the ridge between Begnas and Rupa lakes for a view of both with the mountains behind. Children enjoy choosing a fish for lunch at a lakeside restaurant, and vegetarian dal bhat is always available. In the afternoon, drive up to the car park below the World Peace Pagoda for a 15-minute walk to the stupa and a view over Phewa. Teenagers can instead book the ZipFlyer or paragliding.", "meals": "Breakfast"},
+    {"day": 5, "title": "Morning at leisure and departure", "place": "pokhara", "overnight": "", "altitude_m": 822, "max_m": 822, "walk": "", "drive": "≈ 5 km · 15 min", "flight": "", "text": "Enjoy a relaxed breakfast and a last swim or a walk through Lakeside's shops for souvenirs, such as Tibetan singing bowls, felt toys and pashmina shawls. After check-out, your driver transfers you to Pokhara International Airport or the tourist bus park for Kathmandu or Chitwan. If you are continuing by road towards the Indian border or to Chitwan, we can arrange a private van with child seats on request. For afternoon departures, the hotel can usually offer a late check-out room at extra cost.", "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-barahi"],
+  "includes": [
+    "4 nights in family or connecting rooms at a 3-star Lakeside hotel with pool, breakfast daily",
+    "Private van with driver for all transfers and sightseeing",
+    "Local guide experienced with families for three sightseeing days",
+    "Sarangkot sunrise drive",
+    "Rowing boats on Phewa Lake and Begnas Lake with life jackets",
+    "Entry tickets to Davis Falls, Gupteshwor Cave, Mahendra Cave, Bat Cave and the Mountain Museum",
+    "Child seats in the vehicle on request",
+    "Taxes and service charges"
+  ],
+  "excludes": [
+    "Flights or bus tickets to and from Pokhara",
+    "Lunches, dinners and drinks",
+    "Zipline, paragliding, bungee and other optional activities",
+    "Travel insurance",
+    "Tips for guide and driver",
+    "Personal expenses and shopping",
+    "Extra costs caused by flight delays or road closures"
+  ],
+  "good_to_know": [
+    "The price is per adult for two adults sharing in October–December; a child aged 5–11 sharing with parents costs about 50–60% of the adult price, and children under 5 sharing without an extra bed usually stay free.",
+    "Activity limits: paragliding usually from about 6 years and 25 kg, the ZipFlyer from about 35 kg, the bungee from about 18 years or as set by the operator.",
+    "Carry original ID for every family member: passports, or for Indian citizens voter ID for adults and birth certificate or school ID for children.",
+    "The Bat Cave's exit passage is tight and dark; it is optional and best for confident children over 8.",
+    "We keep vehicle times short, but bring motion-sickness tablets for winding hill roads to Sarangkot."
+  ],
+  "add_ons": [
+    {"name": "ZipFlyer from Sarangkot (per rider)", "price": "≈ ₹6,000 / US$ 70"},
+    {"name": "Tandem paragliding, 20–30 min (per person)", "price": "≈ ₹7,000 / US$ 85"},
+    {"name": "Extra night at the same hotel (per room)", "price": "≈ ₹5,000–6,500"}
+  ],
+  "faqs": [
+    {"q": "Is Pokhara good for a family holiday with kids?", "a": "Yes. It is compact, safe and full of child-friendly activities: boating, caves, a waterfall, the Mountain Museum's climbing wall, monkeys at the Peace Pagoda and paragliders at Sarangkot. Drives are short and hotels with pools are available. Three to four nights is ideal for families."},
+    {"q": "What is the Pokhara family package cost for 2 adults and 2 kids?", "a": "For two adults and two children aged 5–11 sharing family or connecting rooms at a 3-star hotel with pool, expect roughly ₹62,000–70,000 in total for four nights with breakfast, private van and sightseeing in peak season. Children's prices depend on age and bedding. We confirm the exact quote with your dates."},
+    {"q": "Can my child do paragliding in Pokhara?", "a": "Most operators fly children from about 6 years old with a parent's written consent, provided they weigh at least about 25 kg and can sit calmly in the harness. The flight is in tandem with a licensed pilot. Smaller children may need very calm conditions. We check the operator's current rules for your child's age and weight."},
+    {"q": "Is Sarangkot sunrise suitable for young children?", "a": "Yes, for most children over three or four. The drive is 40 minutes and the walk from the car park about 15 minutes of steps. It is cold before dawn, so bring warm clothes and a blanket. Families with babies can skip it and visit Sarangkot by day instead."},
+    {"q": "Which hotel in Pokhara is best for families?", "a": "Hotels with a pool and garden are best. In our standard package we use Hotel Barahi in Lakeside. Families wanting more space and facilities can upgrade to Pokhara Grande, which has a large pool and several restaurants, or Fish Tail Lodge, whose lawns and car-free peninsula are ideal for children."},
+    {"q": "Is food in Pokhara suitable for Indian children?", "a": "Yes. Lakeside restaurants serve Indian vegetarian food, dal, rice, roti, paneer dishes and pizzas and pasta, and most hotels can prepare Jain meals with notice. Bottled water is everywhere. Avoid raw salads and street food for young children, and carry familiar snacks for the drives."},
+    {"q": "How safe is boating on Phewa Lake with children?", "a": "Boats are broad, stable wooden doongas with an experienced boatman, and life jackets are provided for children and adults. The lake is calm in the morning. Keep children seated and make sure their jackets fit snugly. Avoid going out in strong afternoon wind or storms."},
+    {"q": "Do children need ID to travel to Nepal from India?", "a": "Indian children under 15 can travel with a birth certificate or school ID card with photo, accompanied by parents; those 15–18 can use a school ID, and adults need a passport or voter ID. Carry originals and photocopies. Rules can change, so check current status before you travel."},
+    {"q": "What should we pack for a family trip to Pokhara?", "a": "Light clothes for warm days, a fleece or jacket for early mornings and evenings, comfortable shoes with grip for caves and steps, swimwear, sun hats and sunscreen, a small torch for the caves, motion-sickness tablets and basic medicines. A light rain jacket is useful in any season."}
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "tsarang",
+  "name": "Tsarang",
+  "region": "mustang",
+  "kind": "monastery",
+  "wiki": "Tsarang",
+  "image_query": "Tsarang monastery palace Upper Mustang",
+  "lat": 29.103,
+  "lng": 83.946,
+  "altitude_m": 3560,
+  "tagline": "Red monastery and ruined palace on the last stage to Lo Manthang",
+  "meta_description": "Tsarang (Charang) guide: 3,560 m Upper Mustang village with a 15th-century Sakya monastery and five-storey dzong, the last stop before Lo Manthang.",
+  "summary": "Tsarang (also Charang, 3,560 m) is a large Upper Mustang village on the edge of a deep canyon, the last overnight before Lo Manthang on most treks and jeep tours. Its 15th-century Sakya monastery and the crumbling five-storey dzong of the old kings stand side by side above barley fields.",
+  "intro": [
+    "Tsarang spreads along a terrace above the Charang Khola canyon, its whitewashed houses separated by walled fields of barley, buckwheat and mustard. At the eastern end, two buildings dominate: a large red monastery of the Sakya school and the ruined dzong, a five-storey fortress-palace that served the kings of Lo before the court settled in Lo Manthang. Together they make Tsarang the most interesting overnight stop on the way north.",
+    "The monastery, Tsarang Gompa, dates to the 15th century. Its main hall holds statues of the Buddhas and a collection of old thangkas, and monks may show visitors a library of texts and ritual objects. The dzong is in poor repair, with sagging walls and dark rooms, and access depends on the caretaker; when it is open, the chapel on its upper floor has old images and the roof gives a long view over the village and canyon.",
+    "Trekkers usually arrive from Ghami after crossing the Tsarang La (about 3,870 m) and passing one of the longest mani walls in Nepal. Jeep tours from Jomsom often stop here for the night to break the climb to Lo Manthang. From Tsarang, Lo Manthang is about 3–4 hours on foot over the Lo La, or 45 minutes to an hour by jeep."
+  ],
+  "facts": [
+    ["Altitude", "3,560 m"],
+    ["Best months", "Apr – Jun · Sep – Oct"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Jomsom, ≈ 65 km · 5–6 h by jeep"],
+    ["From Kathmandu", "Flights to Jomsom + 5–6 h jeep, or day 5 of the Upper Mustang trek"],
+    ["Known for", "Sakya monastery, five-storey dzong, canyon views"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Tsarang Gompa", "text": "A large red Sakya monastery from the 15th century with an assembly hall of Buddhas, old thangkas and wall paintings. Young monks study here. Ask the caretaker to open the hall and leave a donation for upkeep."},
+    {"title": "The five-storey dzong", "text": "The old palace-fort of the kings of Lo stands next to the monastery, its walls leaning and weathered. When the caretaker allows, you can climb to an upper chapel with old statues and see the village spread below."},
+    {"title": "Charang canyon", "text": "The village ends at the lip of a deep, eroded canyon cut by the Charang Khola, with fluted cliffs and caves. Late afternoon light turns the rock gold and red. Keep well back from the crumbling edge."},
+    {"title": "Long mani wall towards Ghami", "text": "On the trail south towards Ghami, a mani wall of carved prayer stones runs for roughly 300 m, among the longest in Nepal. Walk on its left side, as is the custom, so the wall is on your right."},
+    {"title": "Gateway to Lo Manthang", "text": "From Tsarang, the trail climbs to the Lo La pass at about 3,950 m, where you first see the walls of Lo Manthang on the plain below. It is a moment trekkers remember."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Jomsom, jeeps reach Tsarang in about 5–6 hours (≈ 65 km) via Kagbeni, Chhusang, Samar and Ghami. Lo Manthang is a further 15 km, about 45–60 minutes. Many jeep tours stop overnight here on the way up or down."},
+    {"mode": "On foot", "text": "On the Upper Mustang trek, Tsarang is usually reached on day four or five from Kagbeni. From Ghami it is 4–5 hours over the Tsarang La; on to Lo Manthang is another 3–4 hours via the Lo La."},
+    {"mode": "Helicopter", "text": "Some Lo Manthang heli tours fly over Tsarang and Ghami; landing here is rare and needs special arrangement and the restricted area permit."}
+  ],
+  "where_to_stay": "Tsarang has a handful of family-run lodges, mostly in traditional houses with small rooms around a courtyard, shared or basic attached bathrooms, and dining rooms heated by stoves that burn wood or dung. Food is simple: dal bhat, noodles, Tibetan bread and potatoes. Our guides choose the lodge on the day based on availability and cleanliness. Electricity is from solar or grid power and can fail. Bring a good sleeping bag rated to around −10 °C, as rooms are unheated and nights are cold even in May and September.",
+  "stays": [],
+  "tips": [
+    "Visit the monastery in the late afternoon when monks are present and the light on the dzong is best.",
+    "Carry enough cash for gompa donations and lodge bills; there are no banks between Jomsom and Lo Manthang.",
+    "Keep back from the edge of the canyon; the soil is loose and erodes easily.",
+    "Bring a head torch for the dark rooms of the dzong and the unlit lanes at night.",
+    "Fill water bottles at the lodge with boiled or filtered water; plastic bottles are scarce and hard to dispose of."
+  ],
+  "themes": ["trekking", "cultural-tours", "photography"],
+  "nearby": ["lo-manthang", "ghami", "chhusang"],
+  "experiences": [
+    {
+      "slug": "tsarang-gompa-and-dzong-visit",
+      "title": "Tsarang Gompa and the old royal dzong",
+      "kind": "culture",
+      "duration": "1.5–2 hours",
+      "best_time": "Late afternoon, Apr–Oct",
+      "price_hint": "Gompa fee ≈ NPR 300–500",
+      "image_query": "Tsarang gompa Mustang",
+      "wiki": "",
+      "summary": "A guided visit to the 15th-century Sakya monastery and the adjoining five-storey dzong of Tsarang, two of the most important buildings in Upper Mustang after those of Lo Manthang, with the caretaker opening halls not always on show.",
+      "body": [
+        "Tsarang Gompa belongs to the Sakya school, the tradition that dominated Mustang's monasteries for centuries. The red-painted assembly hall has rows of low seats for monks, statues of the Buddhas of the three times, and painted protectors on the walls. Ask the caretaker to show the library, where texts are wrapped in cloth and stacked in pigeonholes, and the small museum room with masks and ritual objects.",
+        "Next door, the dzong rises in five storeys of mud and stone. Built in the 15th century, it was a royal residence and fortress before Lo Manthang became the main seat. Today it is fragile: floors creak, walls have cracks from earthquakes and some rooms are closed. When the caretaker allows, a narrow stair leads to an upper chapel with old statues, and from a window you can see the whole village and the canyon beyond.",
+        "Your guide explains the history of the kingdom, the alliances with Tibet and the role of the monasteries in village life. Respect the closed areas and watch your step on the stairs. The whole visit takes up to two hours and is best in late afternoon, after a short rest following the day's walk or drive."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "Is the Tsarang dzong open to visitors?", "a": "Sometimes. The dzong is fragile and privately cared for, and access depends on the caretaker and the state of repairs. When open, visitors can enter some rooms and an upper chapel. A small fee or donation is expected. Ask your guide to check on arrival. The exterior can always be viewed and photographed."},
+        {"q": "How old is Tsarang monastery?", "a": "Tsarang Gompa is generally dated to the 15th century, built around the same period as the main temples of Lo Manthang. It belongs to the Sakya school of Tibetan Buddhism and remains an active monastery with resident monks and a school. Parts have been repaired and repainted over the centuries."},
+        {"q": "Can I take photos inside Tsarang Gompa?", "a": "Rules vary. Some caretakers allow photos without flash in the assembly hall for a fee; others do not allow any. Always ask first. Photography of the exterior, the dzong and the village is fine. Do not photograph monks during prayers without permission, and never use flash on the old paintings."}
+      ]
+    },
+    {
+      "slug": "tsarang-to-lo-manthang-lo-la-walk",
+      "title": "Walk over the Lo La to Lo Manthang",
+      "kind": "hiking",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Apr–Oct",
+      "price_hint": "Part of our Upper Mustang trek",
+      "image_query": "Lo La pass view Lo Manthang",
+      "wiki": "",
+      "summary": "The final stage of the Upper Mustang trek: from Tsarang across the canyon, up to the Lo La at about 3,950 m and the first view of Lo Manthang's walls, then down across the plain to the main gate.",
+      "body": [
+        "We leave Tsarang after breakfast and drop into the Charang Khola canyon, crossing the stream before climbing the far side on a clear path. The landscape is bare and wide, with eroded hills in shades of grey, ochre and purple. Chortens and cairns mark the way, and you may pass horse caravans or herders moving goats.",
+        "After about two hours of steady climbing, gaining around 400 m, you reach the Lo La, a broad pass at about 3,950 m strung with prayer flags. Below lies the plateau of Lo, and in its middle the rectangular walls of Lo Manthang with the palace rising inside. On a clear day the snow peaks of the Tibetan border and the Annapurna range stand behind.",
+        "From the pass it is about an hour down across fields to the main gate. Tradition asks visitors to enter on foot. The walk is moderate: total time 3–4 hours, about 400 m up and 100 m down, at an altitude where every step uphill counts. Jeep travellers can do the same route on foot by having the jeep wait below the pass."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "How high is the Lo La?", "a": "The Lo La pass between Tsarang and Lo Manthang is about 3,950 m. From Tsarang at 3,560 m that is a climb of roughly 400 m over 2–2.5 hours. It is a broad, gentle pass with prayer flags and a view of Lo Manthang's walls below. Altitude is the main difficulty."},
+        {"q": "Can jeep travellers walk the last stage to Lo Manthang?", "a": "Yes, and we recommend it if you are fit. The jeep can drop you near the pass or wait in Tsarang while you walk the 3–4 hours to Lo Manthang, carrying only a daypack. Seeing the walls appear from the Lo La on foot is the classic way to arrive."},
+        {"q": "Is the Tsarang to Lo Manthang stage hard?", "a": "It is moderate. Expect 3–4 hours of walking with about 400 m of climbing to the Lo La at around 3,950 m. The trail is clear and not steep for long, but the altitude makes you breathless. Walk slowly, drink water and keep warm layers handy for the wind on the pass."}
+      ]
+    },
+    {
+      "slug": "tsarang-canyon-sunset-walk",
+      "title": "Canyon rim walk and village life in Tsarang",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, May–Oct",
+      "price_hint": "Included with an overnight stay",
+      "image_query": "Charang Khola canyon Mustang cliffs",
+      "wiki": "",
+      "summary": "An easy evening stroll along the rim of the Charang canyon and through Tsarang's fields and lanes, watching the cliffs change colour and families bringing animals home at dusk.",
+      "body": [
+        "Once the wind drops in late afternoon, Tsarang becomes very quiet. We walk east from the lodge, past irrigated fields bordered by stone walls and willow trees, to a viewpoint on the canyon rim. The Charang Khola has carved a deep gorge into soft sediments, leaving fluted columns and caves along its walls. In the low sun the rock glows orange and red.",
+        "On the way back we pass through the village lanes. Women return from the fields with baskets, children chase goats into courtyards and men stack brushwood on the rooftops for winter fuel. Prayer flags hang over every door. Your guide translates if anyone wants to stop and chat, and may arrange tea in a home where you can see a traditional Loba kitchen.",
+        "The walk is flat and short, around 4 km with very little climbing, and suits everyone. Bring a warm jacket, because the temperature drops quickly once the sun goes behind the ridge, even in summer, and a head torch if you linger to watch the stars come out over the canyon."
+      ],
+      "good_for": ["families", "photographers", "seniors", "couples"],
+      "faqs": [
+        {"q": "What is there to do in Tsarang in the evening?", "a": "Walk to the canyon rim for sunset, explore the village lanes, visit the monastery during evening prayers if monks are present, and enjoy a warm meal around the lodge stove. There are no shops or cafés beyond a few small stores. Skies are very clear, so stargazing is excellent on moonless nights."},
+        {"q": "How cold does Tsarang get at night?", "a": "In May and September nights fall to about 0 to −5 °C; in October to −5 to −10 °C. Days are warmer, often 15–20 °C in the sun. Rooms are unheated, so bring a warm sleeping bag, thermal layers and a hat. Lodges often heat the dining room in the evening."},
+        {"q": "Who are the Loba people?", "a": "The Loba are the people of Lo, the historic kingdom of Upper Mustang. They speak a Tibetan dialect, practise Tibetan Buddhism, mostly of the Sakya school, and live by farming barley and buckwheat, herding and trade. Many now spend winters in Pokhara or Kathmandu and return in spring."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Tsarang the same as Charang?", "a": "Yes. Tsarang and Charang are two spellings of the same village in Upper Mustang, from the Tibetan name. You will also see Tsharang. Maps, permits and lodge signs use different spellings. It lies about 15 km south of Lo Manthang at around 3,560 m."},
+    {"q": "What is the altitude of Tsarang?", "a": "Tsarang is at about 3,560 m, some sources giving up to 3,575 m. It is roughly 280 m lower than Lo Manthang. Most trekkers sleep here after Ghami (3,520 m), which keeps the height gain gentle before the final climb over the Lo La to Lo Manthang."},
+    {"q": "How do I get to Tsarang?", "a": "By jeep from Jomsom in about 5–6 hours on the Upper Mustang road, or on foot as day four or five of the Upper Mustang trek from Kagbeni via Chele, Syangboche and Ghami. You need the Upper Mustang restricted area permit and a licensed guide. Check current status before you travel."},
+    {"q": "Is it worth staying a night in Tsarang?", "a": "Yes. Tsarang breaks the climb from Jomsom to Lo Manthang, and its monastery and dzong are among the finest buildings in Upper Mustang. The canyon at sunset is a highlight. Jeep tours that drive straight to Lo Manthang miss it, and the faster ascent increases the risk of altitude sickness."},
+    {"q": "Are there lodges in Tsarang?", "a": "Yes, a handful of simple family lodges in traditional houses. Rooms are small and basic, often with shared bathrooms, and dining rooms are heated in the evening. Food is limited but filling. Book through your agency in peak season, especially around Tiji in May, when lodges fill quickly."},
+    {"q": "What permits do I need for Tsarang?", "a": "Tsarang is inside the Upper Mustang restricted area, so you need the Upper Mustang restricted area permit (US$ 50 per person per day since late 2025) and the ACAP permit, arranged through a registered agency with a licensed guide and at least two trekkers. Check current status before you travel."},
+    {"q": "Can I get altitude sickness in Tsarang?", "a": "Yes, at 3,560 m mild symptoms such as headache, poor sleep and loss of appetite are common, especially if you came up quickly by jeep. Drink plenty of water, avoid alcohol, rest and tell your guide about symptoms. If they get worse, descend. Severe symptoms need immediate descent and medical help."},
+    {"q": "Is there mobile coverage in Tsarang?", "a": "Coverage is limited. Nepal Telecom and Ncell signals reach parts of the village intermittently, and some lodges have Wi-Fi, but it is slow and unreliable. Tell your family you may be offline for a day or two. Your guide carries a phone and can usually find a signal for emergencies."},
+    {"q": "How far is Tsarang from Lo Manthang?", "a": "About 15 km. On foot it takes 3–4 hours via the Lo La (about 3,950 m). By jeep it takes 45 minutes to an hour on a rough road. Many trekkers visit Tsarang again on the way back south, or return via Ghar Gompa and Dhakmar instead."}
+  ]
+}

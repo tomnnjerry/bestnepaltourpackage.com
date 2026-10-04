@@ -1,0 +1,146 @@
+{
+  "slug": "kathmandu-temple-tour-4-nights",
+  "title": "Kathmandu Temple Tour, 4 Nights",
+  "region": "kathmandu-valley",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["pilgrimage", "cultural-tours", "short-breaks"],
+  "stops": [
+    {"place": "kathmandu", "nights": 4}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 22000,
+  "price_from_usd": 310,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1541,
+  "accommodation": "3-star hotel in Kathmandu, close to Pashupatinath or in Thamel",
+  "transport": "Private air-conditioned car or van with driver for all temple visits",
+  "group": "Private family or group, 2–20 pilgrims",
+  "meta_description": "Kathmandu temple tour, 5 days: Pashupatinath, Guhyeshwari, Budhanilkantha, Dakshinkali, Doleshwor Mahadev, Changunarayan. From ₹22,000 per person.",
+  "summary": "A 5-day darshan circuit of the Kathmandu Valley's great shrines without long drives: Pashupatinath and Guhyeshwari, the sleeping Vishnu of Budhanilkantha, Dakshinkali in its forest gorge, Doleshwor Mahadev, Changunarayan, Swayambhunath and Boudhanath. Every temple is within 25 km of your hotel, so mornings start early and afternoons stay unhurried.",
+  "intro": [
+    "Most pilgrims arrive in Kathmandu with Pashupatinath at the top of their list and leave having seen little else. The valley holds far more: Guhyeshwari, counted among the Shakti Peethas; Budhanilkantha, where a 5 m Vishnu carved from one block of stone lies on a bed of serpents; Dakshinkali, the fierce form of Kali worshipped in a gorge south of Pharping; and Doleshwor Mahadev, which many devotees believe is the head of the Shiva whose body is worshipped at Kedarnath in Uttarakhand.",
+    "We group the temples by direction so no day has more than about two hours in the car. North and the Bagmati on day 2, south to Dakshinkali on day 3, east to Changunarayan, Doleshwor and Bhaktapur on day 4. A Hindi-speaking guide who knows the temple customs stays with you throughout, books a priest if you want a puja, and plans around crowd days such as Mondays at Pashupatinath and Saturdays at Dakshinkali. The pace suits parents and grandparents as well as young families."
+  ],
+  "highlights": [
+    "Early darshan at Pashupatinath and evening aarti on the Bagmati",
+    "Guhyeshwari Shakti Peeth across the river from Pashupatinath",
+    "The reclining Vishnu of Budhanilkantha in its sacred pond",
+    "Dakshinkali in its forest gorge and Shesh Narayan at Pharping",
+    "Doleshwor Mahadev, linked by legend with Kedarnath",
+    "Changunarayan, the valley's oldest temple site, with a 464 CE inscription"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, sunset at Swayambhu",
+      "place": "swayambhunath",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 1 h with steps",
+      "drive": "≈ 15 km · 1 h in total",
+      "flight": "",
+      "text": "After pick-up at Tribhuvan International Airport and a rest at the hotel, we drive to Swayambhunath on its hill west of the city. The car can reach the upper parking area, so older pilgrims avoid most of the 365-step eastern stairway. On the top platform, Buddhist prayer wheels turn beside the Harati Mata temple, where Hindu mothers pray for their children's health, and the Shantipur shrine. Stay for sunset, when lamps are lit around the stupa and the whole valley spreads below. Back at the hotel, your guide briefs you on dress and temple customs.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Budhanilkantha, Pashupatinath, Guhyeshwari",
+      "place": "pashupatinath",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 2.5 h at the temples",
+      "drive": "≈ 30 km · 2 h in total",
+      "flight": "",
+      "text": "We leave at 6:30 am for Budhanilkantha, 9 km north at the foot of the Shivapuri hills, where Vishnu as Narayan reclines on the coiled serpent Shesha in a walled pond; pilgrims offer flowers from the edge while priests tend the image. From there we drive to Pashupatinath for darshan of the Shiva linga in the main courtyard, then cross the footbridge to Guhyeshwari, one of the Shakti Peethas, for Devi darshan. After a rest at the hotel, return to the Bagmati ghats for the evening aarti at about 6 pm, earlier in winter.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dakshinkali, Pharping and Boudhanath",
+      "place": "",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1500,
+      "walk": "≈ 2 h at the temples",
+      "drive": "≈ 50 km · 3 h in total",
+      "flight": "",
+      "text": "The road south passes the Chobhar gorge, where the Bagmati drains the old lake of the valley, and climbs to Pharping, about 1 hour from the city. Dakshinkali lies 1 km beyond, at the bottom of a forested ravine where two streams meet. Tuesdays and Saturdays bring large queues and animal sacrifices; on other days the temple is calm, so tell us which you prefer. On the way back we stop at the Shesh Narayan temple below Pharping's cliffs and at Jal Binayak, a Ganesh shrine at Chobhar. Evening: the butter-lamp kora around Boudhanath.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Changunarayan, Doleshwor, Bhaktapur",
+      "place": "changunarayan",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1541,
+      "walk": "≈ 2.5 h at the temples",
+      "drive": "≈ 60 km · 3 h in total",
+      "flight": "",
+      "text": "We drive east to Changunarayan on its ridge at 1,541 m, the oldest temple site in the valley. A stone pillar in the courtyard carries King Manadeva's inscription of 464 CE, and the two-storey pagoda, rebuilt in 1702, is covered in carved Garuda and Vishnu figures. Next is Doleshwor Mahadev at Sipadol, about 40 minutes away, where a stone Shiva head is worshipped and linked by legend with Kedarnath. We finish in Bhaktapur at the five-tiered Nyatapola temple and Dattatreya Square before driving back for dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Kal Bhairav darshan and departure",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 1.5 h",
+      "drive": "≈ 12 km · 45 min",
+      "flight": "",
+      "text": "On your last morning we visit Kathmandu Durbar Square, where the huge stone Kal Bhairav stands painted and garlanded near the old palace, and the giant mask of Seto Bhairav is hidden behind a lattice screen except during Indra Jatra. Your guide points out the Taleju temple, the tallest in the square, and the rebuilt Kasthamandap rest house that gave Kathmandu its name. There is time to buy rudraksha malas, puja thalis or a small brass Ganesh in Indra Chowk before the transfer to the airport.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "4 nights in a 3-star Kathmandu hotel, twin sharing",
+    "Breakfast daily and vegetarian dinner days 1–4",
+    "Airport pick-up and drop-off",
+    "Private air-conditioned car or van with driver for all four sightseeing days",
+    "Hindi- and English-speaking guide familiar with temple customs",
+    "Help arranging a priest for puja at Pashupatinath or Dakshinkali",
+    "Bottled water in the vehicle",
+    "All government taxes on included services"
+  ],
+  "excludes": [
+    "International flights or road and rail travel to the border",
+    "Nepal visa fee for non-Indian passport holders",
+    "Puja, abhishek and donation costs",
+    "Monument entry fees where charged (foreigners pay much more than SAARC nationals)",
+    "Lunches and drinks",
+    "Travel insurance",
+    "Tips for guide and driver",
+    "Personal shopping, laundry and phone calls"
+  ],
+  "good_to_know": [
+    "The price assumes 2 people sharing a twin room in a 3-star hotel, a private car for two (larger groups get a van and a lower per-person price) and vegetarian dinners.",
+    "Hindu pilgrims of any nationality may enter the inner courtyard at Pashupatinath; foreigners who are not Hindu view it from outside and pay an entry fee.",
+    "Leather belts, wallets and bags are not allowed inside several temples; carry a cloth bag and slip-on shoes.",
+    "Mondays, Shivaratri, Teej and Ekadashi bring very long queues at Pashupatinath; Saturdays and Tuesdays are busiest at Dakshinkali. Festival dates move each year, so check current status before you travel.",
+    "Bhaktapur charges foreigners NPR 1,800 and SAARC nationals NPR 500 to enter the old city; fees change, so check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Rudrabhishek puja at Pashupatinath", "price": "≈ ₹3,500–6,000 per family"},
+    {"name": "Chandragiri cable car and Bhaleshwor Mahadev darshan (half day)", "price": "≈ ₹2,500 per person including car (SAARC ticket)"},
+    {"name": "Upgrade to Hotel Shanker or a 5-star hotel", "price": "from ≈ ₹3,000 per person per night"}
+  ],
+  "faqs": [
+    {"q": "Which temples are covered in the Kathmandu temple tour?", "a": "Pashupatinath with its evening aarti, Guhyeshwari, Budhanilkantha, Dakshinkali, Shesh Narayan and Jal Binayak, Doleshwor Mahadev, Changunarayan, Swayambhunath, Boudhanath, Bhaktapur's Nyatapola, and Kal Bhairav at Kathmandu Durbar Square. We can add Chandragiri's Bhaleshwor Mahadev or the Shobha Bhagwati temple if you have an extra half day."},
+    {"q": "Can non-Hindus enter Pashupatinath temple?", "a": "No, only Hindus may enter the main courtyard with the Shiva linga. Foreign visitors who are not Hindu buy a ticket and walk the ghats, the Shiva shrines along the eastern bank and the outer complex, and can watch the aarti. Indian and Nepali Hindus enter free for darshan. Guards occasionally ask non-Indian visitors to confirm their faith."},
+    {"q": "What is the link between Doleshwor Mahadev and Kedarnath?", "a": "Local tradition holds that when Shiva fled the Pandavas in the form of a bull and dived into the earth, his body stayed at Kedarnath and his head emerged at Doleshwor in Bhaktapur district. Many pilgrims therefore believe the Kedarnath yatra feels complete after a visit here. It is a matter of faith rather than history."},
+    {"q": "On which days are animal sacrifices held at Dakshinkali?", "a": "Tuesdays and Saturdays are the main sacrifice days, and during Dashain the numbers rise sharply. Goats and roosters are offered at the shrine at the bottom of the gorge. If you would rather not see this, we visit on another weekday, when the temple is quiet and darshan takes a few minutes instead of an hour."},
+    {"q": "Is this temple tour suitable for elderly parents?", "a": "Yes, it is one of our gentlest trips. Drives are short, the car reaches close to most temples, and there are no overnight moves. The hardest parts are the long flight of steps down to Dakshinkali and the walk up Changunarayan's lane. We plan rest after lunch every day, and wheelchair users can manage most courtyards with help."},
+    {"q": "What is the dress code for temples in Kathmandu?", "a": "Wear clothes that cover shoulders and knees. Men can wear trousers or a kurta, women a salwar, saree or long skirt. Shoes come off before the inner shrines, so slip-ons help. Leather items are not allowed inside Pashupatinath and some other Shiva temples. A shawl is useful for cool mornings from November to February."},
+    {"q": "Can we perform puja at Pashupatinath?", "a": "Yes. Rudrabhishek, Laghu Rudri and simpler pujas can be arranged with a temple priest, usually in the morning, and take 1–2 hours. Costs depend on the puja and the materials, from about ₹3,500 to ₹6,000 per family for a Rudrabhishek. Tell us when you book so we can reserve a priest and timing."},
+    {"q": "When is the best time for a Kathmandu temple tour?", "a": "October to April is most comfortable, with dry roads and mild days. Maha Shivaratri in February or March brings hundreds of thousands of pilgrims to Pashupatinath, which is a powerful sight but means long queues and road closures. In the June–September monsoon temples stay open, though afternoon rain is common."},
+    {"q": "Can we combine this tour with Muktinath or Manakamana?", "a": "Yes. Our 7-night Pashupatinath, Manakamana and Muktinath yatra already includes the main Kathmandu shrines, Manakamana by cable car and a day at Muktinath. Alternatively, add Manakamana as a long day trip from Kathmandu, about 3–4 hours each way to the cable car at Kurintar, or extend by three nights for Muktinath."}
+  ]
+}

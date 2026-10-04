@@ -1,0 +1,132 @@
+{
+  "slug": "gokyo-lakes",
+  "name": "Gokyo Lakes",
+  "region": "everest",
+  "kind": "lake",
+  "wiki": "Gokyo Lakes",
+  "image_query": "Gokyo Lake village Gokyo Ri",
+  "lat": 27.9533,
+  "lng": 86.6944,
+  "altitude_m": 4790,
+  "tagline": "Turquoise glacial lakes and the Gokyo Ri view of four 8,000ers",
+  "meta_description": "Gokyo Lakes (4,790 m): six turquoise glacial lakes beside the Ngozumpa Glacier, Gokyo Ri sunrise at 5,357 m with four 8,000 m peaks, by trek or 1-day heli tour.",
+  "summary": "The Gokyo Lakes are a chain of turquoise glacial lakes at 4,700–5,000 m in the upper Dudh Koshi valley, beside the Ngozumpa Glacier. Gokyo village sits on the third lake below Gokyo Ri (5,357 m), whose summit shows Everest, Lhotse, Makalu and Cho Oyu. Reach it in 5–6 days from Lukla or by helicopter.",
+  "intro": [
+    "West of the main Everest trail, the Dudh Koshi rises from the snout of the Ngozumpa Glacier, about 36 km long and the longest glacier in Nepal. Along its western edge, trapped behind the lateral moraine, lie the Gokyo Lakes: six main lakes and many smaller ponds, fed by streams and seepage, their colour ranging from emerald to vivid turquoise. The lake system has been a Ramsar wetland of international importance since 2007 and is sacred to Hindus and Buddhists.",
+    "Gokyo village, a cluster of stone lodges at about 4,790 m, stands on the eastern shore of the third lake, Dudh Pokhari. Behind it rises Gokyo Ri (5,357 m), a brown ridge whose summit gives what many trekkers consider the best mountain panorama in the Khumbu: Cho Oyu (8,188 m) to the north, Everest, Lhotse and Makalu to the east beyond the Ngozumpa ice, plus Cholatse, Taboche and dozens of lesser peaks. Unlike base camp, you see the full summit of Everest from here.",
+    "The Gokyo trek leaves the Everest trail at Mong La above Namche and climbs through Dole and Machhermo, a quieter route with fewer lodges and more yak pastures. It reaches a similar height to EBC in a similar time, and many trekkers prefer it. Strong walkers link Gokyo with Everest Base Camp over the Cho La (5,420 m), or with Thame over the Renjo La (5,360 m). For those short of time, a one-day helicopter tour lands at Gokyo for a brief stop."
+  ],
+  "facts": [
+    ["Altitude", "4,790 m (Gokyo village)"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Lukla, 4–5 days' walk; helicopters land at Gokyo"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 5 days' walk, or ≈ 1.5 h by helicopter"],
+    ["Known for", "Turquoise lakes, Gokyo Ri, Ngozumpa Glacier, Cho Oyu views"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Gokyo Ri sunrise panorama", "text": "From the 5,357 m summit of Gokyo Ri, four of the world's fourteen 8,000 m peaks are visible: Everest, Lhotse, Makalu and Cho Oyu. At dawn the sun rises behind Everest and lights the lakes below one by one."},
+    {"title": "Turquoise Dudh Pokhari", "text": "The third lake, beside Gokyo village, is the largest and most photographed, its colour shifting from green to deep turquoise with the light. In winter it freezes over; in October and November its surface reflects the peaks on still mornings."},
+    {"title": "Ngozumpa Glacier", "text": "At about 36 km, the Ngozumpa is the longest glacier in Nepal. From the moraine above Gokyo you look down on a broad river of grey rubble, ice cliffs and melt lakes stretching from Cho Oyu towards Machhermo."},
+    {"title": "Fifth lake and Scoundrel's Viewpoint", "text": "A day hike north beyond the fourth lake reaches the fifth lake and the moraine viewpoint known as Scoundrel's Viewpoint, looking straight at Cho Oyu, the Ngozumpa icefall and across to Everest. Few trekkers make it this far."},
+    {"title": "Quieter trail via Dole and Machhermo", "text": "The Gokyo route has fewer trekkers than the main EBC trail, with yak pastures, herders' huts and wildlife such as Himalayan tahr and monal. Machhermo has a small aid post with altitude talks in season."},
+    {"title": "Link to the Cho La and Renjo La", "text": "Gokyo is the hub of the high passes: the Cho La leads east to Lobuche and Everest Base Camp, the Renjo La west to Lungden and Thame. Both are long, high days for experienced trekkers with good weather."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Namche, walk via Mong La to Dole (≈ 4,040 m), then Machhermo (≈ 4,470 m), then Gokyo: three days from Namche, five from Lukla including the Namche rest day. From Lobuche, cross the Cho La via Dzongla and Thangnak in two long days."},
+    {"mode": "Helicopter", "text": "Helicopter tours from Kathmandu land at Gokyo for 10–20 minutes, weather permitting, usually combined with a breakfast stop at Hotel Everest View. At this height payload is limited, so groups may be split into two lifts. Not advised for anyone with heart or lung problems."},
+    {"mode": "Air", "text": "The nearest airport is Lukla, 35 minutes from Kathmandu or 20 minutes from Ramechhap in peak months. Check current status of the Ramechhap rule before you travel."}
+  ],
+  "where_to_stay": "Gokyo village has about eight to ten lodges along the lakeshore, several rebuilt in recent years with rooms that have attached bathrooms, sunrooms facing the lake and heated dining rooms. They are generally more comfortable than lodges at the same height on the EBC trail, and quieter. Lakeside rooms look across Dudh Pokhari to the Renjo La ridge. Nights are cold, often −10 °C or below from October to March. Below Gokyo, Machhermo and Dole have smaller family lodges with simple rooms.",
+  "stays": [],
+  "tips": [
+    "Spend two nights in Gokyo so you have a spare morning for Gokyo Ri if the first sunrise is cloudy.",
+    "Start the Gokyo Ri climb by 4:30–5 am to reach the top at sunrise; allow 2–3 hours.",
+    "Do not swim in or wash at the lakes; they are sacred and a protected Ramsar wetland.",
+    "Walk to the fourth or fifth lake on your extra day for a quieter view of Cho Oyu.",
+    "Cross the Cho La only in good weather, with a guide and microspikes, leaving Dzongla or Thangnak before dawn."
+  ],
+  "themes": ["trekking", "heli-tours", "photography"],
+  "nearby": ["khumjung", "namche-bazaar", "lobuche"],
+  "experiences": [
+    {
+      "slug": "gokyo-ri-sunrise-climb",
+      "title": "Gokyo Ri sunrise over four 8,000 m peaks",
+      "kind": "hiking",
+      "duration": "3–4 hours return",
+      "best_time": "Dawn, Oct–Nov and Mar–May",
+      "price_hint": "Included in our Gokyo and Three Passes treks",
+      "image_query": "Gokyo Ri sunrise Everest view",
+      "wiki": "Gokyo Ri",
+      "summary": "Climb about 570 m from Gokyo village before dawn to the prayer flags on Gokyo Ri (5,357 m), and watch the sun rise behind Everest while Cho Oyu, Lhotse and Makalu catch the light above the turquoise lakes.",
+      "body": [
+        "Leave Gokyo at about 4:30 to 5 am with a headlamp. The trail crosses the inflow stream at the north end of Dudh Pokhari on stepping stones, then climbs steeply and steadily up the eastern face of Gokyo Ri in tight zigzags. There is no technical difficulty, but the gradient barely eases for two hours or more, and the air is thin. Most trekkers take 2 to 3 hours to reach the summit, decorated with prayer flags and a few cairns.",
+        "The view is the reward. To the north, Cho Oyu (8,188 m) rises above the head of the Ngozumpa Glacier. To the east, beyond the glacier, Everest's summit pyramid stands clear above Nuptse and Lhotse, with Makalu further right on the horizon. Cholatse, Taboche and Kangtega fill the south-east, and below you the third lake and Gokyo's lodges look tiny against the vast grey glacier. On the clearest days you see the second and fourth lakes too.",
+        "Stay 20–40 minutes and take photographs, then descend in about an hour for breakfast. It is very cold on top before the sun arrives, often −15 °C with wind, so wear your down jacket, hat and mitts. If you have time, do the climb a second morning or in the late afternoon, when the light on Everest and Cho Oyu comes from the west. With two nights in Gokyo, a cloudy first morning is not a disaster."
+      ],
+      "good_for": ["photographers", "first-timers", "solo", "groups"],
+      "faqs": [
+        {"q": "Is Gokyo Ri better than Kala Patthar?", "a": "Many trekkers think so. Gokyo Ri shows four 8,000 m peaks, Everest, Lhotse, Makalu and Cho Oyu, plus the turquoise lakes and the Ngozumpa Glacier. Kala Patthar is closer to Everest and shows more of its face. Both are superb; the Three Passes trek includes both."},
+        {"q": "How long does it take to climb Gokyo Ri?", "a": "Most trekkers take 2–3 hours to climb about 570 m from Gokyo village to the summit at 5,357 m, and about 1 hour to descend. Fit, well-acclimatised walkers may do it in 1.5–2 hours."},
+        {"q": "Can I climb Gokyo Ri in the afternoon?", "a": "Yes. Afternoon light falls on the faces of Everest and Cho Oyu, but cloud often builds after midday in the trekking seasons. Sunrise is more reliable. With two nights in Gokyo, you can try both."}
+      ]
+    },
+    {
+      "slug": "gokyo-fifth-lake-scoundrels-viewpoint",
+      "title": "Fifth lake and Scoundrel's Viewpoint hike",
+      "kind": "hiking",
+      "duration": "5–6 hours return",
+      "best_time": "Morning, Oct–Nov and Apr–May",
+      "price_hint": "Included in our Gokyo Lakes trek on the spare day",
+      "image_query": "Gokyo fifth lake Cho Oyu",
+      "wiki": "",
+      "summary": "On a spare day at Gokyo, walk north past the fourth lake to the fifth lake, Ngozumpa Tsho, and climb onto the moraine at Scoundrel's Viewpoint for a close view of Cho Oyu's south face and the Ngozumpa Glacier.",
+      "body": [
+        "Most trekkers see only the first three Gokyo lakes. Heading north from Gokyo village, the trail follows the western edge of the Ngozumpa moraine over grassy ablation valleys, gently gaining height. After about 1.5 hours you reach the fourth lake, Thonak Tsho, at around 4,870 m, a quiet, deep-blue lake with views of Cho Oyu growing larger ahead. Yaks graze here in autumn, and you may see Himalayan tahr on the slopes.",
+        "Another hour brings you to the fifth lake, Ngozumpa Tsho, at about 4,990 m, beneath the cliffs of the moraine. Climb onto the ridge to the east, known as Scoundrel's Viewpoint, for a sweeping view: the south face of Cho Oyu (8,188 m), Gyachung Kang (7,952 m), the Ngozumpa icefall, and across the glacier to Everest and Lhotse. It is often windless and silent, with no lodges or other groups.",
+        "Return to Gokyo the same way. With stops, the round trip takes 5 to 6 hours and climbs about 300 m, which is excellent acclimatisation before the Cho La or Renjo La. Carry lunch, water and warm layers, as there are no lodges past Gokyo. Beyond the fifth lake, a sixth lake lies further north towards Cho Oyu base camp, but reaching it makes a very long day and is rarely included."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "How many lakes are there at Gokyo?", "a": "There are six main Gokyo Lakes, plus many smaller ponds, spread along the western side of the Ngozumpa Glacier at about 4,700–5,000 m. Gokyo village sits on the third and largest, Dudh Pokhari. The fourth and fifth lakes make a good day hike."},
+        {"q": "What is Scoundrel's Viewpoint?", "a": "A moraine ridge above the fifth Gokyo lake at about 5,000 m, with a close view of Cho Oyu, Gyachung Kang and the Ngozumpa Glacier, and Everest across the ice. It is quiet and rarely visited compared with Gokyo Ri."},
+        {"q": "How long is the hike to the fifth Gokyo lake?", "a": "About 2.5–3 hours each way from Gokyo village, so 5–6 hours return including time at the viewpoint. The trail is gentle but at altitude, gaining around 300 m. Carry lunch and water."}
+      ]
+    },
+    {
+      "slug": "ngozumpa-glacier-crossing",
+      "title": "Crossing the Ngozumpa Glacier",
+      "kind": "adventure",
+      "duration": "2–3 hours (Gokyo–Thangnak)",
+      "best_time": "Morning, Oct–Nov and Apr–May",
+      "price_hint": "Included in our Cho La and Three Passes treks",
+      "image_query": "Ngozumpa Glacier Gokyo",
+      "wiki": "Ngozumpa Glacier",
+      "summary": "On the way to the Cho La, trekkers cross the Ngozumpa Glacier from Gokyo to Thangnak on a marked path over rubble-covered ice, past ice cliffs and grey melt ponds, the longest glacier in Nepal underfoot.",
+      "body": [
+        "The Ngozumpa Glacier flows about 36 km south from the slopes of Cho Oyu and Gyachung Kang. Its lower part is covered in rock debris, so from above it looks like a vast grey quarry, but beneath the rubble the ice is tens to hundreds of metres thick. Melt ponds dot its surface, turquoise or grey depending on sediment, and some are merging into larger lakes, a sign of the glacier thinning as the climate warms.",
+        "Trekkers heading for the Cho La cross the glacier from Gokyo to Thangnak (also called Dragnag), at about 4,700 m on the east side. The path climbs over the moraine wall behind Gokyo, drops onto the ice and winds between mounds of rubble, ice cliffs and ponds, marked with cairns. The route shifts slightly every season as the ice moves, so a guide who has crossed recently is valuable. Expect 2 to 3 hours.",
+        "Walk carefully: stones on ice can slide, and the edges of melt ponds are unstable. Stay on the marked route, keep away from ice cliffs and listen for falling rocks. The crossing is not technical and needs no special equipment in normal conditions. At Thangnak, a few simple lodges serve as the base for crossing the Cho La early the next morning."
+      ],
+      "good_for": ["solo", "groups", "photographers"],
+      "faqs": [
+        {"q": "Is crossing the Ngozumpa Glacier dangerous?", "a": "It is not technical, but the rubble-covered ice is uneven and stones can slide. Stay on the cairned route with a guide, keep away from ice cliffs and pond edges, and avoid crossing in poor visibility. It takes about 2–3 hours."},
+        {"q": "How long is the Ngozumpa Glacier?", "a": "About 36 km, making it the longest glacier in Nepal. It flows from Cho Oyu and Gyachung Kang south past Gokyo, with its lower section covered in rock debris and melt ponds."},
+        {"q": "Where do I sleep after crossing the Ngozumpa?", "a": "At Thangnak (Dragnag), around 4,700 m, on the east side of the glacier. It has a few basic lodges and is the usual base for crossing the Cho La to Dzongla the next morning."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high are the Gokyo Lakes?", "a": "The six main Gokyo Lakes lie between about 4,700 and 5,000 m. Gokyo village, on the third lake, is at about 4,790 m. Gokyo Ri, above the village, reaches 5,357 m."},
+    {"q": "Gokyo Lakes or Everest Base Camp: which is better?", "a": "Gokyo is quieter, with turquoise lakes and a summit view of four 8,000 m peaks from Gokyo Ri. EBC has the famous goal, the Khumbu Icefall and Kala Patthar. Both take about 12 days from Kathmandu. The Cho La route links them for 16 days."},
+    {"q": "How many days is the Gokyo Lakes trek?", "a": "Usually 11–13 days from Kathmandu, including flights to Lukla, an acclimatisation day at Namche and two nights at Gokyo. Combining Gokyo with Everest Base Camp via the Cho La takes about 15–17 days."},
+    {"q": "Can I visit Gokyo Lakes by helicopter?", "a": "Yes. One-day helicopter tours from Kathmandu land at Gokyo for 10–20 minutes, weather permitting, and usually stop at Hotel Everest View for breakfast. Shared seats start from around US$ 1,200–1,400. People with heart or lung conditions should not land."},
+    {"q": "Do the Gokyo Lakes freeze in winter?", "a": "Yes. From about December to March the lakes are partly or fully frozen. Views are often very clear in winter, but nights are extremely cold and some lodges close. October and November give open water and stable weather."},
+    {"q": "Is the Gokyo Lakes trek harder than EBC?", "a": "It is similar in altitude and daily walking hours, and some days are shorter. The steep climb up Gokyo Ri is comparable to Kala Patthar. Adding the Cho La or Renjo La makes it significantly harder, with long days over 5,300 m."},
+    {"q": "What permits do I need for the Gokyo trek?", "a": "The same as for EBC: the Sagarmatha National Park permit and the Khumbu Pasang Lhamu Rural Municipality permit. Rules on licensed guides and fees change, so check current status before you travel."},
+    {"q": "Are the Gokyo Lakes sacred?", "a": "Yes. The lakes are revered by Hindus and Buddhists, and a Hindu festival is held at Gokyo during Janai Purnima in August, when pilgrims bathe in the lakes. Trekkers should not wash, swim or leave waste near them."},
+    {"q": "Can I see Everest from Gokyo?", "a": "Not from the village itself, but from Gokyo Ri, the moraine viewpoints and Scoundrel's Viewpoint above the fifth lake. From Gokyo Ri, Everest's full summit pyramid is visible above the Ngozumpa Glacier, along with Lhotse, Makalu and Cho Oyu."}
+  ]
+}

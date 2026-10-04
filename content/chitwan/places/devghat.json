@@ -1,0 +1,131 @@
+{
+  "slug": "devghat",
+  "name": "Devghat",
+  "region": "chitwan",
+  "kind": "pilgrimage site",
+  "wiki": "Devghat",
+  "image_query": "Devghat confluence Trishuli Kali Gandaki",
+  "lat": 27.75,
+  "lng": 84.43,
+  "altitude_m": 210,
+  "tagline": "Sacred confluence of the Trishuli and Kali Gandaki rivers",
+  "meta_description": "Devghat Dham near Chitwan: sacred confluence of Trishuli and Kali Gandaki, Makar Sankranti mela, ashrams, suspension bridge, how to reach from Narayangarh.",
+  "summary": "Devghat is a Hindu pilgrimage town at the confluence of the Trishuli and Kali Gandaki, where the Narayani begins, 7 km north of Narayangarh. Ashrams, temples and cremation ghats line both banks, joined by a suspension bridge. Many elderly Hindus retire here, and the Makar Sankranti mela in January draws huge crowds.",
+  "intro": [
+    "Devghat, also called Devghat Dham, sits where two great Himalayan rivers meet. The Kali Gandaki comes down from Mustang, carrying the black shaligram fossils that Hindus worship as Vishnu, and the Trishuli flows from Gosaikunda and the Langtang region. Their confluence, or beni, forms the Narayani, which flows on past Narayangarh and Chitwan to India, where it joins the Ganges. A confluence is especially holy in Hindu belief, and Devghat ranks among the most important in Nepal.",
+    "The town spreads across both banks, in Chitwan and Tanahun districts, linked by a long suspension bridge. Paths lead past ashrams, temples, sadhu huts and simple homes where elderly Hindus come to spend their last years, hoping to die and be cremated at the sacred confluence. That gives Devghat a calm, reflective mood very different from the bustle of Narayangarh just downstream.",
+    "For most visitors, Devghat is a half-day trip from Sauraha or Bharatpur: a ritual dip or prayers at the confluence, a walk across the bridge, visits to a few temples and ashrams, and tea at a riverside stall. Pilgrims on our Devghat and Janakpur yatra spend a morning here, timed for the cooler hours. On Makar Sankranti in mid-January, hundreds of thousands come to bathe, and the town becomes a huge fair."
+  ],
+  "facts": [
+    ["Altitude", "≈ 210 m"],
+    ["Best months", "Oct – Mar; Makar Sankranti in mid-January"],
+    ["Nights we suggest", "0 (half-day visit)"],
+    ["Nearest airport", "Bharatpur (≈ 12 km · 30 min)"],
+    ["From Kathmandu", "≈ 155 km · 5–6 h by road"],
+    ["Known for", "Sacred confluence, ashrams, Makar Sankranti mela"]
+  ],
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The sacred confluence", "text": "The Trishuli and Kali Gandaki meet below the town, their waters often different colours, to form the Narayani. Pilgrims bathe at the ghats, make offerings of flowers and lamps, and perform rites for ancestors at the water's edge."},
+    {"title": "Suspension bridge over the Trishuli", "text": "A long pedestrian suspension bridge links the Chitwan and Tanahun sides of Devghat. Crossing it gives the best view of the confluence and the forested hills above, with prayer flags and marigold garlands tied to the cables."},
+    {"title": "Ashrams and retirement homes", "text": "Devghat is a traditional place for elderly Hindus to retire, meditate and await death by the sacred rivers. Ashrams offer simple rooms, daily prayers and teachings, and some welcome respectful visitors for a short talk or bhajan."},
+    {"title": "Makar Sankranti mela", "text": "Around 14–15 January each year, Devghat hosts one of Nepal's biggest Makar Sankranti fairs. Pilgrims bathe at the confluence at dawn, eat sesame sweets and yam, and stalls, music and crowds fill both banks."},
+    {"title": "Shaligram stones of the Kali Gandaki", "text": "The Kali Gandaki carries black ammonite fossils, shaligrams, worshipped as forms of Vishnu. Pilgrims sometimes find small ones in the river gravel at Devghat, though the best come from far upstream near Muktinath."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Devghat is ≈ 7 km north of Narayangarh, about 20 minutes by car on a paved road off the Mugling highway. From Sauraha it is ≈ 22 km · 45 min, and from Kathmandu ≈ 155 km · 5–6 h. Local buses and taxis run from Narayangarh."},
+    {"mode": "Air", "text": "Fly Kathmandu–Bharatpur in about 25 minutes, then drive ≈ 12 km · 30 min to Devghat. This works well for seniors on a pilgrimage circuit."},
+    {"mode": "On foot", "text": "Within Devghat, everything is reached on foot. The car park is a short walk from the main ghats and the suspension bridge; allow 2–3 hours to walk both banks at a relaxed pace."}
+  ],
+  "where_to_stay": "Most visitors see Devghat on a half-day trip and stay in Sauraha, Patihani or Bharatpur, all within 45 minutes. Some ashrams offer simple rooms to pilgrims for retreats, usually by arrangement and with an expectation of joining daily prayers; these are basic, with shared facilities and vegetarian food. For pilgrims on our yatra, we stay at comfortable hotels in Bharatpur or Patihani and visit Devghat early in the morning.",
+  "stays": [],
+  "tips": [
+    "Go early in the morning, when bathers are at the ghats and the light on the rivers is soft.",
+    "Bring a change of clothes and a towel if you plan to bathe at the confluence.",
+    "The suspension bridge sways; hold the cables and avoid crossing in large groups.",
+    "Be discreet near the cremation ghats and do not photograph funerals.",
+    "On Makar Sankranti expect very heavy crowds and traffic; arrive before dawn or visit on another day."
+  ],
+  "themes": ["pilgrimage", "festivals", "cultural-tours"],
+  "nearby": ["bharatpur", "sauraha", "chitwan-national-park"],
+  "experiences": [
+    {
+      "slug": "devghat-confluence-holy-dip",
+      "title": "Holy dip and puja at the Devghat confluence",
+      "kind": "spiritual",
+      "duration": "1.5–2 hours",
+      "best_time": "Dawn, Oct–Mar",
+      "price_hint": "≈ NPR 500–2,000 for a priest-led puja",
+      "image_query": "Devghat ghat pilgrims bathing",
+      "wiki": "Devghat",
+      "summary": "Bathe at the meeting of the Trishuli and Kali Gandaki at dawn, then perform a short puja or rites for ancestors with a local priest, as pilgrims have done here for centuries.",
+      "body": [
+        "Pilgrims arrive at Devghat soon after sunrise, when the river mist lifts off the confluence. The ghats have stone steps down to the water, and most people bathe close to the edge, holding a chain or a family member's hand, as the current is strong. Women often bathe in their saris; men in a dhoti or shorts. Afterwards, flowers, rice and lamps are floated on the water.",
+        "Many families come for shraddha, rites for deceased parents and ancestors, believed to be especially effective at a confluence. Local priests at the ghats can perform a short puja for you, reciting mantras and guiding offerings of sesame, rice balls and water. Costs vary with the length of the ritual; agree a fee before starting, or let our guide arrange it.",
+        "We plan the visit for cooler months and early hours. In winter the water is cold, around 12–15 °C, and older pilgrims may prefer to sprinkle water rather than bathe. During the monsoon, from June to September, the rivers rise fast and bathing is unsafe; we visit the temples only."
+      ],
+      "good_for": ["pilgrims", "seniors", "families", "groups"],
+      "faqs": [
+        {"q": "Is it safe to bathe at Devghat?", "a": "In the dry season, at the ghats and close to the steps, yes. The current is strong further out, so hold the chain or a companion and do not swim. During the monsoon, from June to September, the rivers flood and bathing is unsafe. Children and seniors should stay at the edge."},
+        {"q": "Can I perform shraddha at Devghat?", "a": "Yes. Devghat is a traditional place for shraddha and other rites for ancestors. Local priests at the ghats perform them in Nepali and Sanskrit. Bring details of the deceased such as names and gotra. Our guide can arrange a priest and agree the fee in advance."},
+        {"q": "What should I bring for a holy dip at Devghat?", "a": "A change of clothes, a towel, a plastic bag for wet clothes, flowers and incense if you wish (they are also sold at the ghats), and small notes for offerings. In winter bring a warm layer for afterwards. Leave valuables in the car or with a companion."}
+      ]
+    },
+    {
+      "slug": "devghat-bridge-and-ashram-walk",
+      "title": "Devghat suspension bridge and ashram walk",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Included in our Devghat visits",
+      "image_query": "Devghat suspension bridge Trishuli",
+      "wiki": "",
+      "summary": "Cross the long suspension bridge between the Chitwan and Tanahun banks, visit temples and ashrams where elderly Hindus spend their last years, and see daily life in a town built around the sacred confluence.",
+      "body": [
+        "The walk starts at the car park on the Chitwan side and follows paths to the ghats and the suspension bridge. From the middle of the bridge the confluence is laid out below you: the greyish Kali Gandaki and the greener Trishuli merging into the Narayani. Prayer flags and garlands hang from the cables, and the bridge sways gently as people cross.",
+        "On the Tanahun side, paths lead through small temples, shrines to Shiva, Vishnu and the goddess, and a scatter of ashrams. Many elderly men and women live here in simple rooms, following a routine of bathing, prayers and scripture readings. Some ashrams welcome visitors for a short conversation or to sit in on an evening bhajan; our guide knows which are open to guests.",
+        "Expect 3 to 4 km of walking with some steps and uneven paths, at an easy pace with stops. Dress modestly, remove shoes before entering temples, and keep voices low. Small donations to ashrams are welcome but not expected. The walk ends at a riverside tea stall before the drive back to Sauraha or Bharatpur."
+      ],
+      "good_for": ["pilgrims", "photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "Why do elderly Hindus retire to Devghat?", "a": "Hindus believe that dying at a sacred confluence and being cremated on its banks helps the soul towards liberation. Devghat's meeting of the Trishuli and Kali Gandaki is one of the holiest in Nepal, so many elderly people move here to spend their last years in prayer and simple living."},
+        {"q": "Is the Devghat suspension bridge safe?", "a": "Yes. It is a sturdy steel-cable pedestrian bridge used every day by residents and pilgrims. It does sway, which some people find unnerving. Hold the side cables, cross in small groups and avoid stopping in large numbers in the middle."},
+        {"q": "Can I visit an ashram at Devghat?", "a": "Some ashrams welcome respectful visitors for a short visit, conversation or evening bhajan. Others are private. Go with a guide who knows the community, dress modestly, remove shoes and ask before taking photographs. A small donation is a polite gesture."}
+      ]
+    },
+    {
+      "slug": "devghat-makar-sankranti-mela",
+      "title": "Makar Sankranti mela at Devghat",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Makar Sankranti, around 14–15 January",
+      "price_hint": "Free; transport extra",
+      "image_query": "Makar Sankranti Devghat mela crowd",
+      "wiki": "Maghe Sankranti",
+      "summary": "On the first day of the month of Magh, around 14–15 January, Devghat hosts one of Nepal's largest Makar Sankranti fairs, with dawn bathing at the confluence, sesame sweets, music and stalls across both banks.",
+      "body": [
+        "Makar Sankranti, known in Nepal as Maghe Sankranti, marks the sun's move into Capricorn and the end of the coldest month. Bathing at a holy confluence on this day is considered especially meritorious, and Devghat draws pilgrims from across Nepal and northern India. Families arrive in the dark to bathe at first light, then offer prayers at the temples and share festive food.",
+        "The fair spreads along both banks with stalls selling sweets made from sesame and molasses, boiled yam and sweet potato, ghee, religious items, toys and clothes. Sadhus set up camps, bhajan groups sing, and local authorities run first-aid posts and crowd control. The atmosphere is joyful but intensely crowded, especially between dawn and midday.",
+        "If you want to experience it, go with a guide, arrive before dawn, agree a meeting point, and keep valuables to a minimum. Roads from Narayangarh are jammed, and parking is far from the ghats. The same day is also the Tharu new year, Maghi, celebrated with dances and feasts in villages around Chitwan, which you can see in the afternoon."
+      ],
+      "good_for": ["pilgrims", "photographers", "groups"],
+      "faqs": [
+        {"q": "When is Makar Sankranti at Devghat?", "a": "On the first day of the Nepali month of Magh, usually 14 or 15 January. Bathing begins before dawn and the fair continues through the day, with smaller crowds on the following days. Check the exact date in the Nepali calendar each year."},
+        {"q": "How crowded is Devghat on Makar Sankranti?", "a": "Very crowded. Hundreds of thousands of pilgrims are reported in big years, with jammed roads and long queues at the ghats. Arrive before dawn, keep children and seniors close, and agree a meeting point. Visiting a day later gives a calmer experience of the same rituals."},
+        {"q": "What else happens in Chitwan on Makar Sankranti?", "a": "The same day is Maghi, the Tharu new year, celebrated in villages around Chitwan with dances, feasts and visits to relatives. After a morning at Devghat, an afternoon in a Tharu village near Sauraha shows a very different side of the festival."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Devghat?", "a": "Devghat is at the confluence of the Trishuli and Kali Gandaki rivers, about 7 km north of Narayangarh in central Nepal, on the border of Chitwan and Tanahun districts. It is about 22 km from Sauraha and 155 km from Kathmandu by road."},
+    {"q": "Why is Devghat sacred?", "a": "Devghat lies at the meeting of two holy rivers, the Trishuli and the Kali Gandaki, where the Narayani begins. Confluences are especially sacred in Hinduism. Devghat is linked to legends of gods and sages, and is a traditional place for ritual bathing, ancestor rites, retirement and cremation."},
+    {"q": "How long should I spend at Devghat?", "a": "A half day is enough for most visitors: a dip or puja at the confluence, the suspension bridge, a few temples and ashrams, and tea by the river. Pilgrims doing shraddha may need longer. Most people visit from Sauraha or Bharatpur and return for lunch."},
+    {"q": "Can I visit Devghat from Chitwan?", "a": "Yes, easily. Devghat is about 45 minutes by car from Sauraha and 20 minutes from Narayangarh. Many Chitwan visitors add it on the morning of their departure, since it lies close to the road back to Kathmandu or Pokhara."},
+    {"q": "What is the best time to visit Devghat?", "a": "October to March, early in the morning. Makar Sankranti in mid-January is the biggest festival. April to June is hot, and from June to September the rivers are in flood and bathing is unsafe, though the temples stay open."},
+    {"q": "Is Devghat suitable for elderly pilgrims?", "a": "Yes. Paths are mostly flat, with some steps at the ghats, and the car park is close to the confluence. Seniors can bathe at the edge or simply sprinkle water. The suspension bridge sways, so anyone with balance problems can view the confluence from the bank."},
+    {"q": "Can I stay overnight in Devghat?", "a": "Some ashrams offer simple rooms to pilgrims by arrangement, with shared bathrooms and vegetarian meals. Most visitors stay in Bharatpur, Patihani or Sauraha instead and visit Devghat early in the morning. On our yatra we stay at comfortable hotels nearby."},
+    {"q": "Is photography allowed at Devghat?", "a": "General photography of the rivers, bridge, temples and fair is fine. Ask before photographing people, especially sadhus and elderly residents, and never photograph cremations or funeral rites. Some temples do not allow photos of the inner shrine."},
+    {"q": "How is Devghat connected to Muktinath?", "a": "The Kali Gandaki flows from near Muktinath and Mustang down to Devghat, carrying shaligram fossils. Some pilgrims see the two places as linked stops on a journey along the sacred river, visiting Muktinath in the mountains and Devghat in the lowlands."}
+  ]
+}

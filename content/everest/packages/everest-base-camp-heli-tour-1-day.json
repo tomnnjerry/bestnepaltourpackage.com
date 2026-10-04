@@ -1,0 +1,96 @@
+{
+  "slug": "everest-base-camp-heli-tour-1-day",
+  "title": "Everest Base Camp Heli Tour 1 Day",
+  "region": "everest",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "luxury-nepal", "short-breaks", "photography", "family-holidays"],
+  "stops": [
+    {"place": "kathmandu", "nights": 0},
+    {"place": "lukla", "nights": 0},
+    {"place": "kala-patthar", "nights": 0},
+    {"place": "everest-base-camp", "nights": 0},
+    {"place": "namche-bazaar", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, domestic terminal)",
+  "end": "Kathmandu",
+  "price_from_inr": 105000,
+  "price_from_usd": 1190,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 5550,
+  "accommodation": "None (day tour); breakfast at Hotel Everest View",
+  "transport": "Shared or private AS350 B3 helicopter from Kathmandu, hotel transfers in Kathmandu",
+  "group": "Shared seat (up to 5 per helicopter) or private charter",
+  "meta_description": "Everest Base Camp heli tour in 1 day from Kathmandu: Kala Patthar landing, flight past EBC and breakfast at Hotel Everest View. Shared seat from US$ 1,190.",
+  "summary": "A 4–5 hour helicopter tour from Kathmandu up the Khumbu valley, past Namche and Tengboche to Everest Base Camp, with a 10–15 minute landing on the Kala Patthar ridge facing Everest and a breakfast stop at Hotel Everest View. Weather and current landing rules decide the exact landing points.",
+  "intro": [
+    "This is the fastest way to stand in front of Everest. We collect you from your Kathmandu hotel before 6 am, fly east along the Himalaya past Gauri Shankar and Numbur, refuel at Lukla, then follow the Dudh Koshi and Imja valleys over Namche Bazaar, Tengboche, Pangboche and Dingboche. The helicopter circles over Everest Base Camp and the Khumbu Icefall, then lands on the Kala Patthar ridge at about 5,550 m, where you step out for 10–15 minutes facing the summit of Everest, Nuptse and Lhotse.",
+    "From Kala Patthar the pilot drops down to Hotel Everest View at 3,880 m, where you sit on the terrace with breakfast and coffee, looking at the same mountains from lower and warmer ground. After about 45 minutes you fly back via Lukla to Kathmandu, landing between 10 am and noon. It suits travellers short of time, families with older members who cannot trek, couples and photographers. The price assumes a shared seat with up to four other guests; a private charter is available for groups who want flexibility."
+  ],
+  "highlights": [
+    "Landing on the Kala Patthar ridge at about 5,550 m facing Everest, when weather and rules allow",
+    "Low pass over Everest Base Camp and the Khumbu Icefall",
+    "Breakfast on the Hotel Everest View terrace at 3,880 m",
+    "Aerial views of Namche Bazaar, Tengboche Monastery and Ama Dablam",
+    "Back in Kathmandu by noon, with the afternoon free"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu–Kala Patthar–Everest View heli tour",
+      "place": "kala-patthar",
+      "overnight": "Kathmandu (own arrangement)",
+      "altitude_m": 1400,
+      "max_m": 5550,
+      "walk": "",
+      "drive": "Hotel–airport transfers · ≈ 30 min each way",
+      "flight": "Kathmandu–Lukla · 45–50 min; Lukla–Kala Patthar · 20–25 min; Kala Patthar–Hotel Everest View · 10 min; Everest View–Lukla–Kathmandu · 60 min",
+      "text": "Pickup at about 5:45 am for the domestic terminal. After a safety briefing and weigh-in, the helicopter leaves at around 6:30 am, flying 45–50 minutes east to Lukla with Langtang, Gauri Shankar and Numbur to the north. At Lukla the crew refuels and may drop luggage or passengers to reduce weight for the high landing. You then fly up the Khumbu, circle base camp and land on Kala Patthar for 10–15 minutes. Next comes breakfast at Hotel Everest View, about 45 minutes, before the flight back via Lukla, landing in Kathmandu around 10:30 am to noon, depending on weather.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-everest-view"],
+  "includes": [
+    "Shared helicopter seat Kathmandu–Lukla–Kala Patthar–Hotel Everest View–Lukla–Kathmandu",
+    "Kala Patthar landing (≈ 10–15 min) when weather and current rules allow",
+    "Breakfast at Hotel Everest View",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu municipality fees for the landing",
+    "Private car pickup and drop between your Kathmandu hotel and the airport",
+    "Experienced mountain pilot and ground handling",
+    "Domestic airport tax",
+    "Bottled water and emergency oxygen on board"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Kathmandu hotel nights before or after the tour",
+    "Travel insurance covering helicopter flights",
+    "Private charter supplement (whole helicopter)",
+    "Extra drinks and food beyond the set breakfast",
+    "Tips for pilot and ground staff",
+    "Costs from weather delays, such as extra Kathmandu nights"
+  ],
+  "good_to_know": [
+    "The price is per person for a shared seat with up to five passengers; a private charter for the whole helicopter costs roughly US$ 5,000–6,500.",
+    "Flights run only in visual weather. Mornings are clearest; clouds often build by 10–11 am. If the tour cannot fly, we move it to the next clear morning or refund as per our terms.",
+    "At Kala Patthar the helicopter can carry fewer passengers, so groups may land in two shuttles while others wait at Pheriche or Lukla. Time on the ground above 5,000 m is limited to about 10–15 minutes.",
+    "Landing points depend on weather and the rules in force. If a Kala Patthar landing is not possible, the pilot lands at another point such as Gorak Shep or flies over without landing. Check current status before you travel.",
+    "People with heart or lung disease, uncontrolled blood pressure, recent surgery or pregnancy, and infants should not land above 5,000 m; they can stay in the helicopter or wait at Hotel Everest View.",
+    "Weight limit is usually about 10 kg of hand luggage per person; leave large bags at your hotel."
+  ],
+  "add_ons": [
+    {"name": "Private helicopter charter (up to 5 passengers)", "price": "≈ US$ 5,000–6,500 per helicopter"},
+    {"name": "Kathmandu 3-star hotel night before the tour", "price": "≈ ₹4,000 per room"}
+  ],
+  "faqs": [
+    {"q": "How much does an Everest helicopter tour cost from Kathmandu?", "a": "A shared seat on our Everest Base Camp heli tour starts from about US$ 1,190 or ₹1,05,000 per person, including breakfast at Hotel Everest View. A private charter for up to five people costs roughly US$ 5,000–6,500 per helicopter, depending on season and fuel prices."},
+    {"q": "Does the helicopter land at Everest Base Camp?", "a": "Not usually. Base camp sits on moving glacier ice crowded with expedition tents, so tours fly over it and land on the Kala Patthar ridge, which has a better view of Everest's summit. If Kala Patthar is not possible, pilots use another landing point."},
+    {"q": "Can I do the Everest heli tour with kids?", "a": "Yes, children over about five usually fly without problems, but we advise families with young children to skip the Kala Patthar landing and land only at Hotel Everest View (3,880 m). Children may not report altitude symptoms clearly, so keep their time high very short."},
+    {"q": "Is the Everest helicopter tour safe for seniors?", "a": "Healthy seniors join regularly. The short landing above 5,000 m can cause breathlessness or dizziness, so move slowly and return to the helicopter if unwell. Anyone with heart or lung conditions should consult a doctor and may land only at Hotel Everest View."},
+    {"q": "What happens if the weather is bad on my tour day?", "a": "The pilot will not fly in cloud. We postpone to the next clear morning, which is why we suggest keeping a spare day in Kathmandu. If no flight is possible during your stay, we refund as per our terms. Partial flights are possible if weather closes in mid-route."},
+    {"q": "How long do we stay at Kala Patthar?", "a": "Usually 10–15 minutes. Without acclimatisation, a longer stay at about 5,550 m increases the risk of altitude sickness. The crew watches passengers closely and carries oxygen. You get more relaxed time at Hotel Everest View for breakfast."},
+    {"q": "What is the best month for an Everest heli tour?", "a": "October, November and December have the most stable, clear mornings, followed by March to May. January and February are clear but cold. June to August is monsoon season, when many days are cancelled for cloud; flights still operate on clear mornings."},
+    {"q": "What should I wear on the Everest heli tour?", "a": "Layers: thermal top, fleece and a down jacket, plus hat, gloves, sunglasses and comfortable shoes with grip. Kathmandu may be 15 °C at take-off while Kala Patthar can be −10 °C or colder with wind. Sun cream helps too."},
+    {"q": "Can I take my own photographs from the helicopter?", "a": "Yes. Window seats are allocated by weight balance, not choice, but everyone gets views. Use a fast shutter speed, avoid pressing the lens on the glass and keep your strap round your wrist. Drone use is not allowed in Sagarmatha National Park without a permit."}
+  ]
+}

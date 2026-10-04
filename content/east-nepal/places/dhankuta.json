@@ -1,0 +1,132 @@
+{
+  "slug": "dhankuta",
+  "name": "Dhankuta and Hile",
+  "region": "east-nepal",
+  "kind": "old town",
+  "wiki": "Dhankuta",
+  "image_query": "Dhankuta bazaar street Nepal",
+  "lat": 26.983,
+  "lng": 87.344,
+  "altitude_m": 1190,
+  "tagline": "Stone-paved ridge town and the tongba bazaar of Hile above it",
+  "meta_description": "Dhankuta and Hile guide: old hill capital of eastern Nepal, stone-paved bazaar, oranges, tongba in Hile, rhododendron hills, how to reach from Dharan.",
+  "summary": "Dhankuta is a ridge-top bazaar at about 1,190 m on the Koshi Highway, 2 hours above Dharan, once the administrative capital of eastern Nepal. Hile, 13 km further at 1,948 m, is a cool market town known for tongba and views. Spend a night for the walkable old bazaar, oranges in winter and Kirat and Tibetan culture.",
+  "intro": [
+    "Until the 1960s Dhankuta was the administrative headquarters for all of north-eastern Nepal, and the town still carries itself like a small capital. Its old bazaar runs along the ridge in stone-paved lanes closed to most traffic, lined with tall brick and timber houses, shops and tea stalls. It is unusually clean and calm for a Nepali town, and the climate at about 1,190 m is mild most of the year.",
+    "The district is a mix of Rai, Limbu, Magar, Newar, Brahmin-Chhetri and Tibetan communities, and that variety shows in the food and festivals. Citrus orchards cover the slopes, and Dhankuta's oranges and achar (pickles) are sold all over the east in winter. Rani Ban, the Queen's Forest, a protected stand of pine and rhododendron on the hill above town, is a pleasant walk, and Rajarani lake lies in the forest towards Bhedetar.",
+    "Hile, 13 km north at 1,948 m, is a ridge bazaar strung along the highway with a strong Tibetan and Sherpa presence. It is famous for tongba, warm millet beer sipped through a bamboo straw, and on clear winter mornings for views of Makalu and the Kumbhakarna range. From Hile roads lead on to Basantapur and the rhododendron ridges of Tinjure and Milke, and down towards Tumlingtar and the Arun valley."
+  ],
+  "facts": [
+    ["Altitude", "about 1,190 m (Dhankuta); 1,948 m (Hile)"],
+    ["Best months", "Oct – Apr; oranges Nov – Jan"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Biratnagar (BIR), ≈ 100 km · 3 h"],
+    ["From Kathmandu", "40 min flight to Biratnagar + 3 h drive"],
+    ["Known for", "Old stone-paved bazaar, oranges and achar, Hile tongba, rhododendron hills"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Walk the old bazaar", "text": "Dhankuta's main bazaar is a long, stone-paved lane along the ridge, mostly free of traffic, with old houses, carved windows, tea shops and small temples. An hour's stroll in the late afternoon gives a feel for a hill town that has changed slowly."},
+    {"title": "Oranges and achar", "text": "Citrus orchards cover the slopes around Dhankuta. From November to January the roadside stalls are piled with oranges, and shops sell jars of local pickles made from lapsi, radish, chilli and bamboo shoot."},
+    {"title": "Tongba in Hile", "text": "Hile is the best-known place in eastern Nepal to try tongba, fermented millet in a wooden pot topped with hot water. Pair it with Tibetan-style momos or Rai and Limbu pork dishes in one of the bazaar's eateries."},
+    {"title": "Rani Ban forest walk", "text": "The Queen's Forest above Dhankuta is a protected woodland of pine and rhododendron with easy paths, popular for morning walks and picnics. Rhododendron flowers in March and April."},
+    {"title": "Makalu view from Hile", "text": "On clear mornings from October to February, the ridge above Hile looks north to Makalu and the snow peaks of the Kumbhakarna range. Cloud usually builds by late morning."},
+    {"title": "Gateway to the Tinjure–Milke hills", "text": "Beyond Hile, Basantapur at about 2,200 m is the starting point for walks into the Tinjure–Milke–Jaljale ridges, among Nepal's largest rhododendron forests, at their best in April."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Dharan it is ≈ 50 km and about 2 hours up the Koshi Highway via Bhedetar. From Biratnagar airport ≈ 100 km and about 3 hours. Hile is 13 km and 30 minutes beyond Dhankuta."},
+    {"mode": "Air", "text": "Fly Kathmandu–Biratnagar (about 40 min, several daily flights) and drive about 3 hours. Tumlingtar airport, on the far side of the Arun, is about 4–5 hours by road from Hile."},
+    {"mode": "Road", "text": "Buses run daily from Kathmandu to Dhankuta and Hile, about 12–14 hours, and frequently from Dharan and Itahari through the day."}
+  ],
+  "where_to_stay": "Dhankuta has a few simple hotels in and around the bazaar, clean and modest, with Nepali and Indian food. Hile has more guesthouses and small hotels along the highway, used by travellers heading to Basantapur, Tumlingtar and the Arun valley, with good local food and tongba on the menu. Neither town has upmarket hotels. Many travellers stay in Bhedetar or Dharan instead and visit Dhankuta and Hile as a day trip. We confirm a recently checked property with your quote.",
+  "stays": [],
+  "tips": [
+    "Walk the bazaar in the late afternoon, when shops are open and the light is soft.",
+    "Buy oranges from roadside stalls between November and January; they are cheap and very fresh.",
+    "Tongba is mildly alcoholic but strong over time; ask for a small pot if you just want a taste.",
+    "Go up to Hile early for the best chance of a Makalu view before cloud builds.",
+    "In April, add a day for the rhododendron forests near Basantapur."
+  ],
+  "themes": ["cultural-tours", "short-breaks", "family-holidays", "photography"],
+  "nearby": ["bhedetar", "koshi-tappu", "makalu-base-camp", "halesi-mahadev"],
+  "experiences": [
+    {
+      "slug": "dhankuta-old-bazaar-heritage-walk",
+      "title": "Dhankuta old bazaar heritage walk",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Oct–Apr",
+      "price_hint": "≈ ₹1,500 per person with guide",
+      "image_query": "Dhankuta bazaar stone street",
+      "wiki": "",
+      "summary": "A guided stroll along Dhankuta's stone-paved ridge bazaar, past old houses, temples and shops, learning how the town served as eastern Nepal's administrative capital and how its mixed communities live today.",
+      "body": [
+        "We start at the northern end of the bazaar and walk south along the ridge, where the main lane is paved with stone and closed to most vehicles. Tall houses of brick and timber line both sides, some with carved windows and balconies, others rebuilt in concrete. Your guide points out the old government buildings and explains how, until about 1963, officials here ran the whole of north-eastern Nepal.",
+        "Along the way we stop at small temples and shrines, a sweet shop and a pickle seller, and talk with shopkeepers whose families have traded here for generations. Dhankuta's mix of Newar traders, Rai and Limbu farmers, Brahmin-Chhetri officials and Tibetan merchants shows in the faces, the languages and the goods on sale.",
+        "The walk ends at a viewpoint over the valley for sunset, with tea or local snacks. It is flat and easy, about 2 km, and suits all ages."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "Why is Dhankuta historically important?", "a": "Until about 1963, Dhankuta Bazaar was the administrative headquarters for the whole of north-eastern Nepal, which is why the town has older government buildings and a long-established trading bazaar."},
+        {"q": "Is Dhankuta bazaar walkable?", "a": "Yes. The main ridge lane is stone-paved and largely closed to traffic, which makes it one of the most pleasant town walks in eastern Nepal."},
+        {"q": "Is there a museum in Dhankuta?", "a": "Dhankuta has had a small regional museum on the ethnic cultures of eastern Nepal. Opening hours vary, so check current status before you travel; we add it to the walk when it is open."}
+      ]
+    },
+    {
+      "slug": "hile-tongba-and-tibetan-momo-evening",
+      "title": "Hile tongba and momo evening",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, Oct–Mar",
+      "price_hint": "≈ ₹1,200 per person",
+      "image_query": "tongba millet beer Nepal",
+      "wiki": "Tongba",
+      "summary": "Spend an evening in Hile's bazaar tasting tongba, the warm millet beer of the eastern hills, with Tibetan momos, Rai and Limbu pork dishes and vegetarian alternatives, in a cosy local eatery.",
+      "body": [
+        "Hile sits at 1,948 m, so evenings are cool, and nothing warms you faster than a pot of tongba. Fermented millet is packed into a wooden or metal vessel, hot water is poured in, and you sip through a bamboo straw with a filter at the end, topping up with more hot water as you go. The taste is mild, slightly sour and sweet; the effect builds slowly.",
+        "Our guide takes you to an eatery run by a local family, where tongba is served with Tibetan-style momos, sukuti (dried meat), sekuwa or Rai and Limbu specialities such as pork with bamboo shoot. Vegetarians are well catered for with potato, cheese or vegetable momos, aloo dum and local pickles. Non-drinkers can try butter tea or hot lemon instead.",
+        "The evening is also a chance to learn how tongba fits into Kirat hospitality and ritual, from weddings to festivals like Sakela. We keep the group small and the pace relaxed."
+      ],
+      "good_for": ["couples", "groups", "solo"],
+      "faqs": [
+        {"q": "How strong is tongba?", "a": "Tongba is mildly alcoholic, usually weaker than beer per sip, but repeated top-ups add up. One pot shared over an evening is plenty for most first-timers."},
+        {"q": "Is there a non-alcoholic option?", "a": "Yes. Hile eateries serve butter tea, milk tea, hot lemon and soft drinks, and the food menu works well without alcohol."},
+        {"q": "Is Hile food vegetarian-friendly?", "a": "Yes. Vegetable and cheese momos, aloo dum, chowmein, dal bhat and pickles are always available. Tell us about dietary rules in advance."}
+      ]
+    },
+    {
+      "slug": "hile-to-basantapur-rhododendron-drive",
+      "title": "Basantapur rhododendron day trip",
+      "kind": "nature",
+      "duration": "Full day",
+      "best_time": "Late Mar–Apr",
+      "price_hint": "≈ ₹7,000 per vehicle",
+      "image_query": "rhododendron forest Tinjure Milke",
+      "wiki": "",
+      "summary": "Drive from Hile to Basantapur at about 2,200 m and walk into the rhododendron forests of the Tinjure–Milke ridge, one of the largest rhododendron areas in Nepal, flowering red, pink and white in April.",
+      "body": [
+        "Basantapur, in Terhathum district, lies about 1.5 hours beyond Hile on the road towards the north-east. It is the gateway to the Tinjure–Milke–Jaljale ridges, a long band of high forest rich in rhododendron species. In late March and April the hillsides turn red and pink, with white blooms higher up.",
+        "From Basantapur we walk along the forested ridge for 2 to 3 hours on a clear trail, gaining a few hundred metres, with views on clear days north to Makalu and the Kanchenjunga range. Birds such as minivets, sunbirds and laughingthrushes are common, and the small settlements along the ridge serve tea and noodles.",
+        "We return to Hile or Dhankuta for the night. Outside the flowering season the walk is still pleasant but less dramatic. The road beyond Hile can be rough in places, so we use a 4WD."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "When do rhododendrons bloom near Basantapur?", "a": "Mainly from late March to late April, with lower forests flowering first. Weather in a given year can shift the peak by one to two weeks."},
+        {"q": "How far is Basantapur from Hile?", "a": "About 1.5 hours by road. The full day trip, including a 2–3 hour ridge walk, takes 7–8 hours."},
+        {"q": "Can we trek further into Tinjure–Milke?", "a": "Yes. Multi-day walks along the ridges with homestays and simple lodges are possible. Ask us for a 3–5 day itinerary in April."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Dhankuta from Dharan?", "a": "About 50 km up the Koshi Highway via Bhedetar, which takes around 2 hours by car. Hile is 13 km and 30 minutes further north."},
+    {"q": "What is Dhankuta famous for?", "a": "Its stone-paved old bazaar, its past as eastern Nepal's administrative capital, citrus orchards and pickles, and the nearby bazaar of Hile, known for tongba and Makalu views on clear mornings."},
+    {"q": "What is the altitude of Dhankuta and Hile?", "a": "Dhankuta is at about 1,190 m and Hile at about 1,948 m. Both are comfortable for all ages, with cool evenings and no altitude concerns."},
+    {"q": "Is Dhankuta worth a night?", "a": "Yes, if you enjoy small, walkable hill towns and local food. Many travellers combine one night in Dhankuta or Hile with Bhedetar and Dharan on a 3–4 day loop from Biratnagar."},
+    {"q": "When is orange season in Dhankuta?", "a": "Roughly November to January. Roadside stalls along the Koshi Highway sell fresh oranges by the dozen, and they make a good snack for the drive."},
+    {"q": "Can I see Makalu from Hile?", "a": "On clear mornings from October to February, yes, from viewpoints on the ridge above Hile. Cloud and haze usually hide the peaks by late morning and through most of the monsoon."},
+    {"q": "Dharan Dhankuta Bhedetar tour cost", "a": "Our 3-night Dharan, Bhedetar and Dhankuta hills tour from Biratnagar starts from about ₹18,000 per person, twin sharing, with private car, standard hotels and breakfast. Flights to Biratnagar are extra."},
+    {"q": "Is Dhankuta on the way to Makalu?", "a": "By road, yes. The Koshi Highway continues from Hile towards Tumlingtar and Khandbari, the road heads for the Makalu trek, though most trekkers fly to Tumlingtar instead."},
+    {"q": "What is the best time to visit Dhankuta?", "a": "October to April for clear weather; November to January adds orange season, and April brings rhododendrons in the nearby hills. The monsoon from June to September brings rain and landslide risk on the roads."}
+  ]
+}

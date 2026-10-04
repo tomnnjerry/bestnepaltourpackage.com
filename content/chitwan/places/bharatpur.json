@@ -1,0 +1,130 @@
+{
+  "slug": "bharatpur",
+  "name": "Bharatpur",
+  "region": "chitwan",
+  "kind": "city",
+  "wiki": "Bharatpur, Nepal",
+  "image_query": "Narayani river bridge Narayangarh Bharatpur",
+  "lat": 27.6833,
+  "lng": 84.4333,
+  "altitude_m": 208,
+  "tagline": "Chitwan's hub city on the Narayani, with airport and riverfront",
+  "meta_description": "Bharatpur and Narayangarh travel guide: Bharatpur Airport, Narayani riverfront, Maula Kalika temple, food stops and how Bharatpur links Chitwan, Pokhara and Lumbini.",
+  "summary": "Bharatpur is the main city of Chitwan District and one of Nepal's largest by area, with Narayangarh as its busy riverside centre. Most travellers pass through for the airport or the highway junction, but the Narayani riverfront, the Maula Kalika hill temple and the fish stalls make a half day worthwhile.",
+  "intro": [
+    "Bharatpur Metropolitan City stretches across most of western Chitwan, from Narayangarh on the Narayani river to Meghauli on the park's edge. Its core, Narayangarh, grew up at the point where the Mahendra Highway crosses the Narayani and where the road from Mugling and Kathmandu comes down out of the hills. That makes it the crossroads of central Nepal: traffic to Pokhara, Lumbini, Birgunj, Janakpur and Kathmandu all passes through here.",
+    "For travellers, Bharatpur matters most for its airport, with several daily 25-minute flights from Kathmandu that save five or six hours of road. It is also a medical centre, home to the B.P. Koirala Memorial Cancer Hospital and several teaching hospitals, which is useful to know if you are travelling with older relatives. Hotels range from business hotels near the highway to riverside resorts in the outskirts.",
+    "Give it a few hours and the city has more to offer than traffic. The Narayani riverfront is pleasant at sunset, especially near the bridge to Gaindakot. On the far bank, the Maula Kalika temple sits on a forested hilltop with views over the river and the Chitwan valley. Narayangarh is also known across Nepal for fried river fish and roadside food stops, a tradition on the long drives between Kathmandu and the Terai."
+  ],
+  "facts": [
+    ["Altitude", "≈ 208 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "0–1 (usually a transit stop)"],
+    ["Nearest airport", "Bharatpur (in the city)"],
+    ["From Kathmandu", "≈ 150 km · 4.5–6 h by road or 25 min by air"],
+    ["Known for", "Airport, highway junction, Narayani riverfront, fish"]
+  ],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Bharatpur Airport", "text": "Several daily flights from Kathmandu, about 25 minutes, make Bharatpur the fastest way into Chitwan. Sauraha is 30 minutes by road, Patihani 30 minutes and Meghauli about an hour."},
+    {"title": "Narayani riverfront at Narayangarh", "text": "The broad Narayani flows past the city's western edge. The riverbank near the bridge is a local evening spot, with food stalls, families out walking and the forested hills of Nawalpur across the water."},
+    {"title": "Maula Kalika hill temple", "text": "Across the bridge in Gaindakot, a long stairway and road climb to the Maula Kalika temple on a forested hill. Pilgrims come for the goddess Kalika; others come for views over the Narayani and Chitwan valley."},
+    {"title": "Fried fish and highway food", "text": "Narayangarh's fish stalls and restaurants are famous with Nepali travellers for river fish fried in mustard oil and spices. Sekuwa grills and Thakali dal-bhat restaurants line the highway too."},
+    {"title": "Gateway to Devghat", "text": "The pilgrimage town of Devghat, at the confluence of the Trishuli and Kali Gandaki, is about 7 km north of Narayangarh, an easy half day from Bharatpur or Sauraha."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Buddha Air and Yeti/Tara Air fly Kathmandu–Bharatpur several times a day, about 25 minutes. Winter fog can delay morning flights in December and January; afternoon flights are more reliable then."},
+    {"mode": "Road", "text": "Kathmandu to Narayangarh is ≈ 150 km · 4.5–6 h via Naubise and Mugling, following the Trishuli gorge. Pokhara to Narayangarh is ≈ 130 km · 4–5 h, Lumbini ≈ 145 km · 4 h via Butwal, and Birgunj ≈ 130 km · 3.5–4 h via Hetauda."}
+  ],
+  "where_to_stay": "Most visitors do not overnight in Bharatpur, preferring Sauraha, Patihani or Meghauli for the safari. If you need a night here for an early flight, a hospital visit or a long drive, choose a hotel in the Narayangarh or Bharatpur Chowk area, close to both the airport and the highway. Business-style hotels with air conditioning and restaurants are easy to find. For a more relaxed stay with the airport still close, Patihani's resorts near the park headquarters are only about 30 minutes away.",
+  "stays": [],
+  "tips": [
+    "Book afternoon flights in December and January, when morning fog often delays the first departures.",
+    "Allow extra time on the Mugling–Narayangarh road, where road widening has caused delays in recent years.",
+    "Try fried fish at a busy riverside stall; choose places where the oil is hot and the turnover high.",
+    "The climb to Maula Kalika is steep in the heat, so go early or late, or take a car up the road.",
+    "Bharatpur has the region's best hospitals, which is reassuring for travellers with medical conditions."
+  ],
+  "themes": ["short-breaks", "pilgrimage", "overland-from-india"],
+  "nearby": ["devghat", "sauraha", "meghauli", "chitwan-national-park"],
+  "experiences": [
+    {
+      "slug": "maula-kalika-temple-gaindakot",
+      "title": "Maula Kalika hill temple at Gaindakot",
+      "kind": "spiritual",
+      "duration": "2.5–3 hours",
+      "best_time": "Early morning or late afternoon, Oct–Mar",
+      "price_hint": "Free; transport ≈ NPR 2,500 by car",
+      "image_query": "Maula Kalika temple Gaindakot",
+      "wiki": "",
+      "summary": "A hilltop temple to the goddess Kalika above the Narayani in Gaindakot, reached by a long stone stairway or a road. Pilgrims come for darshan, and the summit gives wide views over the river, Narayangarh and the Chitwan plain.",
+      "body": [
+        "The Maula Kalika temple stands on a forested ridge on the Nawalpur side of the Narayani, just across the bridge from Narayangarh. It is one of the most visited Kalika shrines in central Nepal, especially on Saturdays, during Dashain and on other festival days, when families come to make offerings and ask for the goddess's protection.",
+        "There are two ways up. Pilgrims climb a long stairway through sal and mixed forest, which takes 45 minutes to over an hour depending on fitness and stops. A paved road also reaches near the top, and most of our guests drive up and walk down. From the summit you look over the braided Narayani, the bridge, the spread of Narayangarh and, on clear days in autumn and winter, the line of Himalayan peaks far to the north.",
+        "Dress modestly and remove shoes at the shrine. Animal sacrifice takes place on some festival days, which some visitors may find upsetting; our guide can advise. Combine the temple with Devghat or with an evening on the Narayani riverfront for a full half day from Sauraha or Bharatpur."
+      ],
+      "good_for": ["pilgrims", "families", "photographers", "groups"],
+      "faqs": [
+        {"q": "How do I get to Maula Kalika temple?", "a": "Drive from Narayangarh across the Narayani bridge to Gaindakot, about 15 minutes, then either climb the long stairway through the forest or take the road that winds most of the way to the top. Climbing takes 45 minutes to over an hour. A car and driver for the trip costs around NPR 2,500 from Narayangarh."},
+        {"q": "Is the Maula Kalika climb hard?", "a": "The stairway is steep and long, so take it slowly and carry water, especially from March onwards. Seniors and anyone with heart or knee problems should use the road instead and walk only the last short stretch. Early morning is coolest."},
+        {"q": "When is Maula Kalika busiest?", "a": "Saturdays, Dashain (usually October) and other festival days draw large crowds, with long queues for darshan. Weekday mornings are quietest. If you visit at Dashain, expect animal sacrifices and heavy traffic on the road."}
+      ]
+    },
+    {
+      "slug": "narayani-riverfront-evening",
+      "title": "Evening on the Narayani riverfront",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Sunset, Oct–Apr",
+      "price_hint": "Free",
+      "image_query": "Narayani river Narayangarh sunset",
+      "wiki": "Gandaki River",
+      "summary": "Join local families on the riverbank at Narayangarh as the sun sets over the Narayani, with snack stalls, the bridge to Gaindakot lit up and the hills of Nawalpur across the water.",
+      "body": [
+        "The Narayani is one of Nepal's largest rivers, formed by the Kali Gandaki and Trishuli at Devghat just upstream. At Narayangarh it is wide and slow in winter, with gravel bars and fishermen at work. In the evenings the riverbank near the bridge becomes a gathering place for families and students, with tea and snack stalls, roasted corn in season and people walking the embankment.",
+        "Sunset over the river and the Nawalpur hills is the main attraction, and on clear evenings in autumn and winter the colours are strong. You will also see the ghats used for rituals and, on certain days, cremations, a reminder that rivers in Nepal are both sacred and practical places.",
+        "This is a relaxed add-on for anyone staying overnight in Bharatpur or driving through from Pokhara or Lumbini in the late afternoon. Combine it with a fish dinner in Narayangarh. Please be respectful near cremation ghats and do not photograph funerals."
+      ],
+      "good_for": ["families", "couples", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Is the Narayani riverfront worth visiting?", "a": "If you are already in Bharatpur in the evening, yes. It is a pleasant local scene with sunset views and food stalls. It is not a reason to make a special trip, but it pairs well with a fish dinner, a visit to Maula Kalika or an overnight before an early flight."},
+        {"q": "Can I take a boat on the Narayani at Narayangarh?", "a": "Local boat rides are occasionally offered near the riverbank, but we do not book them because life jackets and safety checks are not standard. For a safe river experience, take a guided canoe on the Rapti in Chitwan National Park instead."},
+        {"q": "Are there cremation ghats on the Narayani in Bharatpur?", "a": "Yes. Like many Nepali rivers, the Narayani has ghats used for Hindu cremations and rituals. Visitors may watch from a respectful distance, but should not photograph funerals or walk through the ceremony area. Our guide explains the rites if you are interested."}
+      ]
+    },
+    {
+      "slug": "narayangarh-fish-and-food-stop",
+      "title": "Narayangarh fried fish and food stop",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Lunch or dinner, all year",
+      "price_hint": "≈ NPR 500–1,200 per person",
+      "image_query": "fried fish Nepal roadside Narayangarh",
+      "wiki": "Narayangarh",
+      "summary": "A meal of river fish fried in mustard oil and spices, the dish Nepali travellers stop for in Narayangarh, with sekuwa, Thakali dal-bhat or vegetarian thalis for those who do not eat fish.",
+      "body": [
+        "On the long road between Kathmandu and the Terai, Narayangarh is the lunch stop many Nepali families plan their journey around. Restaurants and stalls near the river and along the highway fry river fish, often marinated in turmeric, chilli and garlic, in hot mustard oil until crisp. It is eaten with beaten rice, onion and chilli, or as part of a full dal-bhat.",
+        "If fish is not for you, Narayangarh also has sekuwa grills serving charcoal-roasted goat and chicken, Thakali restaurants with set meals of rice, lentils, greens and pickles, and many pure-vegetarian restaurants catering to Indian travellers, with North Indian thalis, paneer and dosa.",
+        "Our drivers know the busy, reliable places where oil is fresh and turnover high, which matters with fried food on the road. A fish meal costs around NPR 500–1,200 per person depending on the size and type of fish. Meals on transfer days are usually not included in our packages, so this is a pay-as-you-go stop."
+      ],
+      "good_for": ["families", "groups", "couples", "solo"],
+      "faqs": [
+        {"q": "What food is Narayangarh famous for?", "a": "Narayangarh is best known for river fish fried in mustard oil with spices, eaten as a snack with beaten rice or as part of a meal. Sekuwa grilled meat and Thakali dal-bhat are also popular. Vegetarian restaurants serving Indian thalis are easy to find along the highway."},
+        {"q": "Is roadside fish in Narayangarh safe to eat?", "a": "Generally, if you choose busy places with hot oil and fish fried to order. Avoid fish that has been sitting cooked for hours, and drink bottled or filtered water. Our drivers stop at restaurants they use regularly. If you have a sensitive stomach, choose a sit-down restaurant over a stall."},
+        {"q": "Are there pure vegetarian restaurants in Narayangarh?", "a": "Yes, several. Many cater to Indian travellers with North Indian thalis, paneer dishes, South Indian dosa and Jain options on request. Our drivers can recommend a vegetarian stop on the way to Chitwan, Lumbini or Pokhara."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Bharatpur the same as Chitwan?", "a": "Bharatpur is the largest city in Chitwan District and includes Narayangarh and Meghauli. Chitwan National Park lies to the south and west. When people say they are going to Chitwan they usually mean the park, staying in Sauraha, Patihani or Meghauli, but they often fly into Bharatpur Airport."},
+    {"q": "How far is Bharatpur Airport from Sauraha?", "a": "About 15 km, a 30-minute drive via Tandi. Most hotels and all our packages include the airport transfer. From the airport it is also about 30 minutes to Patihani and an hour to Meghauli."},
+    {"q": "Are there flights from Kathmandu to Bharatpur?", "a": "Yes. Buddha Air and Yeti/Tara Air fly several times a day, with a flight time of about 25 minutes. Schedules change by season, and fog in December and January can delay morning departures, so check current status before you travel."},
+    {"q": "Is Bharatpur Nepal different from Bharatpur in India?", "a": "Yes. Bharatpur in Nepal is a city in Chitwan District, central Nepal, near Chitwan National Park. Bharatpur in India is a city in Rajasthan, known for Keoladeo National Park. Make sure flight and hotel bookings show Nepal and the airport code BHR."},
+    {"q": "Should I stay overnight in Bharatpur?", "a": "Usually not. For a safari, stay in Sauraha, Patihani or Meghauli, all within an hour of the airport. Bharatpur makes sense for an early flight, a medical appointment, or as a break on a long drive between Kathmandu, Janakpur and Lumbini."},
+    {"q": "How far is Devghat from Bharatpur?", "a": "Devghat is about 7 km north of Narayangarh, 20 minutes by car. It is an easy half-day trip from Bharatpur or Sauraha and is included in our Devghat and Janakpur yatra."},
+    {"q": "What is the road like from Kathmandu to Bharatpur?", "a": "The Prithvi Highway to Mugling and the road down the Trishuli valley to Narayangarh are paved but busy with trucks and buses, and the Mugling–Narayangarh stretch has had long road works. Expect 4.5–6 hours for about 150 km. Landslides can cause delays in the monsoon."},
+    {"q": "Is Bharatpur good for medical facilities?", "a": "Yes. Bharatpur has the B.P. Koirala Memorial Cancer Hospital and several teaching and private hospitals, the best medical care between Kathmandu and the Terai. That is reassuring for families with elderly travellers visiting Chitwan, Devghat or Lumbini."},
+    {"q": "How do I get from Bharatpur to Lumbini?", "a": "By road, about 145 km and 4 hours via the Mahendra Highway west to Butwal, then south to Bhairahawa and Lumbini. There are no regular flights between Bharatpur and Bhairahawa. Our Chitwan and Lumbini tour includes this drive with stops."}
+  ]
+}

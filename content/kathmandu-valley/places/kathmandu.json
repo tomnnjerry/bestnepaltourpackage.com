@@ -1,0 +1,132 @@
+{
+  "slug": "kathmandu",
+  "name": "Kathmandu",
+  "region": "kathmandu-valley",
+  "kind": "city",
+  "wiki": "Kathmandu",
+  "image_query": "Kathmandu Durbar Square temples",
+  "lat": 27.7172,
+  "lng": 85.324,
+  "altitude_m": 1400,
+  "tagline": "Nepal's capital of temple squares, spice lanes and Everest flights",
+  "meta_description": "Kathmandu (1,400 m) guide: Durbar Square, Asan bazaar, Newari food, the Everest mountain flight, hotels, how to reach from India and the best months to go.",
+  "summary": "Kathmandu is Nepal's capital and the start of almost every Nepal tour, set at 1,400 m in a valley of roughly 3 million people ringed by green hills. Four of the valley's seven UNESCO monument zones lie inside the city or at its edge, and two to three nights cover the main sights well.",
+  "intro": [
+    "Kathmandu is where a Nepal trip gets sorted. International flights land at Tribhuvan International Airport, about 6 km east of the old centre, and the city is where we collect permits, brief trekkers, change money and buy the down jacket you forgot. It is also a destination in its own right. The old core around Durbar Square and Asan was the seat of the Malla kings until 1768, when Prithvi Narayan Shah of Gorkha took the city and made it the capital of a unified Nepal. Temples, courtyards and shrines still turn up on almost every lane, often squeezed between a phone shop and a tea stall.",
+    "The city is easiest to read as a set of neighbourhoods. Thamel, a grid of lanes about 1 km north of Durbar Square, has most budget and mid-range hotels, trekking shops and restaurants. Durbar Marg and Lazimpat hold the older top-end hotels, embassies and airline offices. Boudhanath, 6 km east, is the Tibetan Buddhist quarter around its great white stupa, while Pashupatinath sits on the Bagmati close to the airport. Swayambhunath watches over everything from its hill to the west. Traffic is slow, so we group sights by side of town rather than criss-crossing the valley in a single day.",
+    "Expect a city still repairing itself. The 25 April 2015 earthquake brought down several Durbar Square temples; Kasthamandap, the wooden rest house that may have given Kathmandu its name, reopened after rebuilding in 2021, and the nine-storey Basantapur tower is still being restored. The September 2025 protests left burned buildings around the government district, so we check current advisories before every departure. Day to day, the weather is kind for most of the year: January runs from about 2 °C at dawn to 19 °C in the afternoon, and the monsoon months of June to September bring days of 20–29 °C with rain mostly in the afternoon and at night."
+  ],
+  "facts": [
+    ["Altitude", "1,400 m"],
+    ["Best months", "Oct – Dec · Mar – Apr"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Tribhuvan International Airport (KTM), ≈ 6 km from Thamel"],
+    ["From Delhi", "≈ 1 h 40 min flight; ≈ 280 km · 8–10 h by road from the Sunauli border"],
+    ["Known for", "Durbar Square, Asan bazaar, Newari food, Everest mountain flights"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Kathmandu Durbar Square", "text": "The old royal square, also called Hanuman Dhoka after the monkey-god statue at the palace gate, holds dozens of temples and shrines. See the Kumari Ghar, home of the Living Goddess, the rebuilt Kasthamandap and the huge black Kal Bhairav. Foreigners pay NPR 1,000 and SAARC nationals NPR 150; check current status before you travel."},
+    {"title": "Asan and Indra Chowk bazaars", "text": "Six lanes meet at Asan Tole, where the small gilded Annapurna temple sits among sacks of spices, dried fish, beaten rice and brass pots. Walk south through the bead and shawl sellers of Indra Chowk to Durbar Square, or north to Thamel. Mornings from 7 to 10 am are busiest with local shoppers."},
+    {"title": "Swayambhunath above the city", "text": "The stupa locals call the Monkey Temple sits on a hill about 3 km west of Thamel at roughly 1,420 m. Climb the long east stairway or drive to the western car park, then stay for the late light over the valley. Entry is about NPR 200 for foreigners; check current status before you travel."},
+    {"title": "Pashupatinath and Boudhanath in one afternoon", "text": "The two great shrines of the east side are about 3 km apart. We see the ghats of Pashupatinath on the Bagmati first, then move to Boudhanath for the evening kora, when Tibetan families circle the 36 m white stupa clockwise, spinning prayer wheels and murmuring mantras. Allow about four hours for both."},
+    {"title": "Everest mountain flight at dawn", "text": "A one-hour sightseeing flight in a fixed-wing plane, not a helicopter, leaves the domestic terminal around 6:30 am and flies past Langtang, Gauri Shankar, Cho Oyu and Everest at about 7,600 m. Every passenger has a window seat and a turn at the cockpit door. There is no landing."},
+    {"title": "Garden of Dreams and Thamel evenings", "text": "The Garden of Dreams, a restored Rana-era garden from the 1920s at the edge of Thamel, is the quietest place in central Kathmandu for an hour with a book, for a small entry fee. After dark, the lanes of Thamel fill with live-music bars, momo shops and rooftop restaurants."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tribhuvan International Airport (KTM) is Nepal's main international gateway. IndiGo, Air India and Nepal Airlines fly from Delhi in about 1 h 40 min, and there are direct flights from Mumbai, Bengaluru, Kolkata and Varanasi on some days; routes change, so check current schedules. Qatar Airways, flydubai, Turkish Airlines, Thai and Malaysia Airlines connect the rest of the world. The airport is about 6 km from Thamel, 20–40 minutes by car."},
+    {"mode": "Road", "text": "Most Indian travellers who come overland cross at Sunauli–Bhairahawa (≈ 280 km · 8–10 h to Kathmandu) or Raxaul–Birgunj (≈ 7–9 h). Both routes finish on the Prithvi Highway through Mugling, where road works can add hours. Indian-registered vehicles need a Bhansar customs permit at the border, and we can meet you there with a Nepali car and driver instead."},
+    {"mode": "Rail", "text": "No railway reaches Kathmandu. The nearest Indian railheads are Gorakhpur, about 100 km from the Sunauli border, and Raxaul, at the Birgunj crossing. We can meet your train with a car and driver, which turns a long rail-and-road journey into one manageable day with lunch stops on the way."}
+  ],
+  "where_to_stay": "For a first visit we put most guests in Thamel or within a short walk of it, because the old town, restaurants and gear shops are on the doorstep and 3-star hotels are plentiful. Couples and families wanting calm book Dwarika's Hotel in Battisputali, built around a collection of salvaged Newar woodcarving, or Hotel Shanker, a former Rana palace in Lazimpat. Hotel Yak & Yeti on Durbar Marg and the Kathmandu Marriott in Naxal suit travellers who want a large full-service hotel close to the centre. Gokarna Forest Resort sits in a forest reserve about 10 km north-east of the centre: quiet and green, but a longer drive to the sights.",
+  "stays": ["dwarikas-hotel-kathmandu", "hotel-yak-and-yeti", "kathmandu-marriott-hotel", "gokarna-forest-resort", "hotel-shanker-kathmandu"],
+  "tips": [
+    "Carry small notes, since taxis, temple tickets and street stalls rarely break NPR 1,000 notes, and Indian ₹200 and ₹500 notes are accepted only within the ₹25,000 limit.",
+    "Agree a taxi fare before you get in, or use a ride-hailing app such as Pathao or inDrive, which most locals now use for short trips across town.",
+    "Walk clockwise around stupas and temples, take off your shoes where others do, and ask before photographing people at prayer.",
+    "Dust and traffic fumes are heavy from November to April, so pack a washable face mask for walks through the old town and Asan.",
+    "Leave a spare day before an international flight home if you are flying to Lukla, Pokhara or Jomsom, because morning cloud often delays domestic flights."
+  ],
+  "themes": ["cultural-tours", "pilgrimage", "short-breaks", "family-holidays", "luxury-nepal", "budget-nepal", "festivals", "photography"],
+  "nearby": ["swayambhunath", "boudhanath", "pashupatinath", "patan"],
+  "experiences": [
+    {
+      "slug": "kathmandu-newari-food-walk",
+      "title": "Newari food walk through old Kathmandu",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Late afternoon, all year",
+      "price_hint": "≈ ₹3,000 per person",
+      "image_query": "Newari samay baji food plate",
+      "wiki": "",
+      "summary": "A three-hour evening walk through Asan, Indra Chowk and the lanes behind Durbar Square, eating the snacks Kathmandu's Newar families actually buy: bara, chatamari, choila, momo and juju dhau, with a local guide who knows which small kitchens are worth the stop.",
+      "body": [
+        "Newar cooking is the original food of the Kathmandu Valley, built on rice, lentils, buffalo meat and plenty of spice. Our walk starts at about 4 pm at Asan Tole, when the evening snack trade picks up. First comes bara, a savoury black-lentil patty fried on a flat iron pan and topped with egg or minced buffalo if you like. Next is chatamari, a thin rice-flour crêpe that guides like to call Newari pizza, cooked with egg and keema. Between stops the guide explains which family shops have been frying the same dish on the same corner for generations.",
+        "Further south, in the courtyards around Indra Chowk and Jhochhen, we stop for choila, buffalo meat grilled over straw and tossed with mustard oil, chilli and fenugreek, and for a small samay baji plate of beaten rice, black soybeans, ginger and boiled egg, the set Newars eat at festivals. Vegetarians get aloo tama, a sour stew of potato and bamboo shoots, and spiced potato sadeko instead of the meat. In winter we look for yomari, a pointed steamed rice dumpling filled with molasses and sesame, eaten for the Yomari Punhi festival in December.",
+        "The walk ends with a clay bowl of juju dhau, the sweet set curd from Bhaktapur, and a small taste of aila, the Newar rice spirit, for those who want it. Expect six to eight stops and enough food to replace dinner. We use small, busy local kitchens where turnover is high and food is cooked in front of you, and we avoid raw salads and unfiltered water. Tell us about allergies, Jain or no-onion-garlic diets and halal preferences when you book, since several stops can adapt and we can swap others."
+      ],
+      "good_for": ["couples", "solo", "groups", "first-timers"],
+      "faqs": [
+        {"q": "Is the Kathmandu food walk suitable for vegetarians?", "a": "Yes. We swap the meat dishes for bara without egg, aloo tama, potato sadeko, vegetable chatamari, paneer momo and juju dhau, so vegetarians never go hungry. Jain and no-onion-garlic diets are harder in local kitchens, but with a day's notice we plan a route around stops that can cook to order."},
+        {"q": "Is street food in Kathmandu safe to eat?", "a": "Mostly yes, if you choose busy places where food is cooked hot in front of you, which is how we plan the walk. Avoid raw salads, cut fruit left uncovered and tap water. Carry oral rehydration salts anyway, because many visitors get a mild stomach upset in their first days wherever they eat."},
+        {"q": "How much food is included and what does the walk cost?", "a": "Expect six to eight tasting stops, enough to replace dinner, for about ₹3,000 (US$ 35) per person including all food, a soft drink and the guide. Local spirits are optional and paid on the spot. Prices are indicative and depend on group size, so check current rates when you book."}
+      ]
+    },
+    {
+      "slug": "everest-mountain-flight-from-kathmandu",
+      "title": "Everest mountain flight from Kathmandu",
+      "kind": "aerial",
+      "duration": "1 hour flight, 3–4 hours with transfers",
+      "best_time": "Dawn, Oct–Dec and Mar–Apr",
+      "price_hint": "≈ US$ 220 (foreigners) · ≈ ₹15,000 (Indian nationals)",
+      "image_query": "Mount Everest from airplane window",
+      "wiki": "",
+      "summary": "A one-hour sightseeing flight on a fixed-wing turboprop plane, not a helicopter, that leaves Kathmandu at dawn, flies east along the Himalaya at about 7,600 m and turns back near Everest. There is no landing, and every passenger gets a window seat and a look from the cockpit.",
+      "body": [
+        "This is the easiest way to see Everest without trekking or a helicopter landing. Domestic airlines such as Buddha Air and Yeti Airlines run the flights in pressurised turboprops, typically ATR 72s, from the domestic terminal of Tribhuvan International Airport; operators and aircraft change, so check current status before you travel. Check-in opens at about 5:30 am, and the first departures leave around 6:30 am, when the air is clearest. Cabin crew hand out a card naming each peak, and the seating plan gives every passenger a window, so nobody spends the hour leaning over a stranger.",
+        "The plane climbs to about 7,600 m (25,000 ft) and flies east with the Himalaya off one side. In sequence you see Langtang Lirung, Dorje Lakpa, Gauri Shankar and Melungtse, then Cho Oyu, Everest, Lhotse, Nuptse and Makalu as the plane turns near the Khumbu. Along the way each passenger is invited to the cockpit door for a minute with the pilots and a clear view forward. The return leg puts the mountains on the other side, so everyone gets a turn. You are back on the ground about an hour after take-off, in time for breakfast.",
+        "Cloud is the only real obstacle. If the airline judges visibility too poor, the flight is delayed or cancelled and you are offered another morning or a refund, which is why we never schedule it on your last day in Nepal. Fares run at about US$ 200–250 for foreign passport holders, while Indian nationals pay a lower rupee fare of roughly ₹13,000–17,000; check current status before you travel. The cabin is pressurised like any airliner and there is no landing, so children, seniors and people who should not fly to 5,000 m in a helicopter can usually join."
+      ],
+      "good_for": ["families", "seniors", "couples", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Is the Everest mountain flight a helicopter or a plane?", "a": "It is a plane. Airlines use fixed-wing turboprop aircraft, usually ATR 72s or similar, with a pressurised cabin. The plane flies past Everest at about 7,600 m and returns to Kathmandu without landing. If you want to stand at Kala Patthar or land near Everest Base Camp, that is a separate helicopter tour costing several times more."},
+        {"q": "Can I see Everest clearly on the mountain flight?", "a": "On a clear morning, yes, though the plane keeps a safe distance from the range, so Everest appears as one big peak in a long line rather than a close fly-past. October to December give the best odds, while March and April are often hazy. Airlines delay or cancel when cloud covers the range, so keep a spare morning."},
+        {"q": "Is the mountain flight safe for children and older travellers?", "a": "Generally yes. The cabin is pressurised like a normal airliner, the flight lasts about an hour and there is no landing at altitude, so the altitude concerns of a helicopter landing do not apply. Children fly at fares set by the airline. Anyone with a condition that rules out ordinary air travel should ask their doctor first."}
+      ]
+    },
+    {
+      "slug": "kathmandu-durbar-square-asan-walk",
+      "title": "Durbar Square to Asan heritage walk",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "Morning, all year",
+      "price_hint": "≈ ₹2,000 per person plus entry fee",
+      "image_query": "Kathmandu Durbar Square Kasthamandap",
+      "wiki": "Kathmandu Durbar Square",
+      "summary": "A guided three-hour walk from the temples and palace courtyards of Kathmandu Durbar Square north through Indra Chowk, Kel Tole and Asan, along the old trade road to Tibet, past shrines, spice stalls and courtyard stupas that most visitors walk straight past.",
+      "body": [
+        "We start at about 8:30 am at Basantapur, the open square in front of the old royal palace, before the tour groups arrive. Durbar Square, or Hanuman Dhoka, was the seat of the Malla kings and then the Shah kings until the royal family moved to Narayanhiti Palace in the late 19th century. Your guide walks you past the rebuilt Kasthamandap, the three-roofed Maju Dega on its nine-step plinth, the Kumari Ghar where the Living Goddess sometimes appears at her window, and the black stone Kal Bhairav. Foreigners pay NPR 1,000 and SAARC nationals NPR 150; check current status before you travel.",
+        "From the square we leave by the north-east corner onto the old diagonal road that once carried trade between India and Tibet. At Indra Chowk, women sell glass beads and shawls below the Akash Bhairav temple. Kel Tole has the Seto Machhindranath temple, a courtyard of brass lamps, pigeons and prayer guarded by bronze lions. Smaller courtyards called bahals open off the lane through low doorways, each with a stupa or shrine and families going about their day, and the guide knows which ones welcome quiet visitors.",
+        "The walk finishes at Asan Tole, the six-way junction where the small gilded Annapurna temple is surrounded by grain, spice and dried-fish traders. From here Thamel is a 10-minute walk north. The pace is slow with plenty of stops, the ground is flat but uneven, and the lanes are narrow and busy with scooters, so we keep groups small. Dress for temples, with shoulders and knees covered, and bring small notes for offerings, a glass of tea and a bag of spices from the Asan stalls."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "seniors", "groups"],
+      "faqs": [
+        {"q": "How long do you need for Kathmandu Durbar Square?", "a": "Allow at least 90 minutes for Durbar Square itself, including the palace courtyards where they are open, and three hours if you continue the walk to Asan. Mornings before 10 am are cooler and quieter. Keep your ticket with you, because staff check it at several entry points around the square."},
+        {"q": "Can we see the Kumari, the Living Goddess?", "a": "Often, but not on a schedule. The Kumari sometimes appears briefly at a carved window of the Kumari Ghar courtyard when her guardians allow it, usually late morning or afternoon. Photographing her is forbidden, though the courtyard itself is open to look at. During Indra Jatra, in late August or September, she rides through the old town in a chariot."},
+        {"q": "Was Kathmandu Durbar Square destroyed in the earthquake?", "a": "Parts of it were. The 25 April 2015 earthquake brought down Kasthamandap, several temples and part of the palace, but much of the square survived. Kasthamandap reopened after rebuilding in 2021 and other temples have been restored, while the nine-storey Basantapur tower is still being repaired; check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Kathmandu?", "a": "Two full days cover the essentials: Durbar Square, Swayambhunath, Pashupatinath and Boudhanath on one day, and Patan or Bhaktapur on the other. Add a third day for the Everest mountain flight, a food walk or a slower look at the bazaars. Most of our guests arrive one evening, tour for two days and leave on the fourth morning."},
+    {"q": "What is the Kathmandu tour package cost from India?", "a": "Our 3-night Kathmandu city break starts at about ₹16,000 (US$ 240) per person, twin sharing, with a 3-star hotel, breakfast, airport transfers and a guided car for sightseeing. Return flights from Delhi typically add ₹8,000–18,000 depending on season. Entry fees, lunches and the Everest flight are extra, and 5-star versions cost considerably more."},
+    {"q": "Do Indians need a visa or passport for Kathmandu?", "a": "Indian citizens need no visa. Adults must carry a valid Indian passport or Election Commission voter ID card; airlines often refuse Aadhaar, so do not rely on it. Children under 15 and adults over 65 can use photo ID such as a PAN card or driving licence, and 15 to 18 year olds a school identity certificate. Check with your airline before you travel."},
+    {"q": "What is the best time to visit Kathmandu?", "a": "October to December is best: dry, clear skies, mountain views from the valley rim and daytime highs of about 18–25 °C. March and April are warm and green but hazy. January and February are clear with frosty mornings near 2 °C. June to September is the monsoon, with warm days, afternoon rain and few mountain views, though city sightseeing still works."},
+    {"q": "Is Kathmandu safe for tourists now?", "a": "Kathmandu is generally safe for visitors, with petty theft in crowds the main everyday risk. The September 2025 protests brought curfews and arson in the government district, so we follow advisories closely and change routes when needed. Check current advisories before you travel, keep valuables zipped away in Thamel and Asan, and use registered taxis or ride-hailing apps at night."},
+    {"q": "Can I use Indian rupees and UPI in Kathmandu?", "a": "Yes, within limits. Indian ₹100 and smaller notes are widely accepted at 1 INR = 1.6 NPR, and since 2025 Indian nationals may carry ₹200 and ₹500 notes up to ₹25,000 in total. Many shops with Fonepay QR codes accept UPI from Indian apps; check with your bank. ATMs dispense Nepali rupees, often with a fee of around NPR 500 per withdrawal."},
+    {"q": "How far is Kathmandu airport from Thamel?", "a": "Tribhuvan International Airport is about 6 km from Thamel, a 20–40 minute drive depending on traffic, longer at the evening rush. Pre-paid taxis at arrivals cost roughly NPR 800–1,200; check current rates. All our packages include a private pickup with a name board. Domestic flights leave from a separate terminal a short walk from international arrivals."},
+    {"q": "What should I wear when visiting temples in Kathmandu?", "a": "Cover shoulders and knees at temples and stupas, and wear shoes you can slip off, since many shrines ask you to remove them. Leather is not allowed inside some Hindu temple courtyards, including Pashupatinath. Layers help: mornings from November to February can be near 2 °C before warming to the high teens by noon."},
+    {"q": "Is the Everest flight from Kathmandu worth it?", "a": "For anyone not trekking to Everest, yes. For about US$ 200–250, or a lower rupee fare for Indian nationals, you see Everest and a long line of 7,000 m and 8,000 m peaks in an hour from a pressurised fixed-wing plane, with no landing and no altitude risk. Book it early in your stay so a cloud-cancelled flight can move to another morning."}
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "annapurna-base-camp-trek-11-days",
+  "title": "Annapurna Base Camp Trek 11 Days",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 10,
+  "themes": ["trekking", "photography", "adventure-sports"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "pokhara", "nights": 2},
+    {"place": "chhomrong", "nights": 0},
+    {"place": "annapurna-base-camp", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 78000,
+  "price_from_usd": 910,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 4130,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, teahouse lodges on the trail",
+  "transport": "Kathmandu–Pokhara flights, private jeep Pokhara–Siwai return, airport transfers",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Annapurna Base Camp trek in 11 days from Kathmandu: Jhinu hot springs, Chhomrong, the Modi Khola gorge and sunrise at ABC, 4,130 m. Guide, permits and meals.",
+  "summary": "The classic walk into the Annapurna Sanctuary: 11 days from Kathmandu, 7 of them on the trail, climbing the Modi Khola gorge from Jhinu Danda through Chhomrong and Deurali to Annapurna Base Camp at 4,130 m, ringed by Annapurna I, Annapurna South and Machhapuchhre.",
+  "intro": [
+    "Annapurna Base Camp sits in a natural amphitheatre at the head of the Modi Khola, enclosed on almost every side by peaks above 6,500 m. The only way in is a narrow gorge between Hiunchuli and Machhapuchhre, and the walk up it is one of the most varied short treks in Nepal: terraced Gurung villages, bamboo and rhododendron forest, avalanche-scoured meadows and finally the glacier moraine below the south face of Annapurna I, 8,091 m.",
+    "Our itinerary drives from Pokhara to Siwai to skip the road-walking, sleeps at Jhinu Danda for the hot springs, and reaches base camp on the fourth trail day. Daily walks run 4–7 hours with plenty of stone steps, particularly around Chhomrong. Sleeping heights climb from 1,780 m to 4,130 m, and the jump from Deurali at 3,230 m to base camp is steep, so we build in a slow pace, keep the group small and watch everyone for altitude symptoms."
+  ],
+  "highlights": [
+    "Sunrise from Annapurna Base Camp on Annapurna I, 8,091 m",
+    "Machhapuchhre's fishtail summit from Machhapuchhre Base Camp, 3,700 m",
+    "Natural hot springs by the Modi Khola below Jhinu Danda",
+    "Chhomrong, the last Gurung village, and its famous chocolate cake",
+    "Bamboo, rhododendron and oak forest through the Modi Khola gorge",
+    "Domestic flights both ways, so no long bus days"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, trek briefing",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "Our representative meets you at the airport and drives you to your hotel. In the late afternoon your trekking guide visits to go through the route, check boots, layers and sleeping bag, and make sure your travel insurance covers helicopter evacuation to at least 4,500 m. We arrange the ACAP permit in advance using your passport details. If you need a down jacket or poles, Thamel shops rent them by the day. Eat a good dinner, drink water and sleep early: the flight to Pokhara is in the morning.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Fly to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Kathmandu–Pokhara · 25 min",
+      "text": "The 25-minute flight runs parallel to the Himalaya, and from the right-hand side you may pick out Manaslu and the Annapurnas. Pokhara sits at 822 m beside Phewa Lake, and the afternoon is free: row to the Tal Barahi temple on its island, wander Lakeside or simply rest before the walk. Machhapuchhre, the peak you will stand beneath in five days, rises directly above the town when the sky is clear. If cloud cancels the flight, we drive the 200 km by private car instead.",
+      "meals": "B"
+    },
+    {
+      "day": 3,
+      "title": "Drive to Siwai, walk to Jhinu Danda",
+      "place": "",
+      "overnight": "Jhinu Danda",
+      "altitude_m": 1780,
+      "max_m": 1780,
+      "walk": "≈ 3–4 h · 7 km",
+      "drive": "≈ 65 km · 3 h",
+      "flight": "",
+      "text": "A jeep takes us from Pokhara past Nayapul and up the Modi Khola valley to Siwai, about 3 hours. From the road head we walk upstream on the east bank of the river to New Bridge, cross on a long suspension bridge and climb through terraces and forest to Jhinu Danda at 1,780 m. In the late afternoon walk 20 minutes down to the natural hot springs beside the river, a set of stone pools fed by warm water. It is the best possible start to the trek.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Jhinu to Bamboo via Chhomrong",
+      "place": "chhomrong",
+      "overnight": "Bamboo",
+      "altitude_m": 2310,
+      "max_m": 2340,
+      "walk": "≈ 6 h · 11 km",
+      "drive": "",
+      "flight": "",
+      "text": "A steep hour of steps takes us from Jhinu up to Chhomrong at 2,170 m, the last permanent village in the valley, with Annapurna South and Machhapuchhre suddenly close. After tea, and perhaps a slice of chocolate cake at Chhomrong Cottage, the trail drops a long stone staircase to the Chhomrong Khola and climbs the far side to Sinuwa at 2,340 m. The ACAP checkpoint above Chhomrong records your permit. Beyond Sinuwa we enter thick bamboo and rhododendron forest and reach the lodges of Bamboo at 2,310 m.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Bamboo to Deurali",
+      "place": "",
+      "overnight": "Deurali",
+      "altitude_m": 3230,
+      "max_m": 3230,
+      "walk": "≈ 5–6 h · 9 km",
+      "drive": "",
+      "flight": "",
+      "text": "The gorge narrows as we climb through bamboo and oak to Dovan at 2,600 m, then past the Hinku cave and the lodge at Himalaya, 2,920 m. Waterfalls pour off the cliffs, and the forest thins into grass and scrub as we pass 3,000 m. Height gain today is about 920 m. Deurali at 3,230 m is a small cluster of lodges in a narrow part of the valley. We arrive early to rest; a short walk above the lodges in the afternoon helps acclimatisation before tomorrow's bigger climb.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Deurali to Annapurna Base Camp",
+      "place": "annapurna-base-camp",
+      "overnight": "Annapurna Base Camp",
+      "altitude_m": 4130,
+      "max_m": 4130,
+      "walk": "≈ 4–5 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "We leave early to cross the avalanche-prone section above Deurali in the cool of the morning; in late winter and spring the trail is sometimes rerouted, so check current status before you travel. The valley opens into the Sanctuary at Machhapuchhre Base Camp, 3,700 m, about 2–3 hours in, where the fishtail summit stands right above. A gentler 1.5–2 hour climb across moraine meadows brings us to Annapurna Base Camp at 4,130 m, with Annapurna I, Annapurna South, Hiunchuli and Gangapurna all around. Sunset on the south face is the reward.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "ABC sunrise, descend to Bamboo",
+      "place": "annapurna-base-camp",
+      "overnight": "Bamboo",
+      "altitude_m": 2310,
+      "max_m": 4130,
+      "walk": "≈ 6–7 h · 16 km",
+      "drive": "",
+      "flight": "",
+      "text": "Wake at 5:30 am, wrap up warmly and walk a few minutes to the memorial chortens and the moraine edge as the first sun touches Annapurna I, then spreads to the whole ring of peaks. Temperatures are well below freezing at dawn in autumn. After breakfast we start the long descent, back through Machhapuchhre Base Camp, Deurali, Himalaya and Dovan to Bamboo at 2,310 m. Losing 1,800 m in a day is hard on knees but quickly restores energy and appetite.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 8,
+      "title": "Bamboo to Jhinu hot springs",
+      "place": "chhomrong",
+      "overnight": "Jhinu Danda",
+      "altitude_m": 1780,
+      "max_m": 2340,
+      "walk": "≈ 5 h · 9 km",
+      "drive": "",
+      "flight": "",
+      "text": "We climb back to Sinuwa, descend to the Chhomrong Khola and face the climb up Chhomrong's stone staircase, a tough 1 hour that most trekkers remember. Lunch in Chhomrong with Annapurna South above, then the steep descent to Jhinu Danda at 1,780 m. With the high country behind you, the afternoon soak in the riverside hot springs is well earned. Tonight is often the trek celebration, with the guide and porters joining the group for dinner.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 9,
+      "title": "Walk to Siwai, drive to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 1780,
+      "walk": "≈ 2 h · 5 km",
+      "drive": "≈ 65 km · 3 h",
+      "flight": "",
+      "text": "A short morning walk retraces our route down to New Bridge and along the Modi Khola to Siwai, where the jeep is waiting. We are back in Pokhara by early afternoon. The rest of the day is free for a hot shower, laundry and a lakeside dinner. If you have energy, hire a boat on Phewa Lake at sunset or browse the bookshops and cafés of Lakeside. This day also acts as a buffer if weather or landslides slow us earlier in the trek.",
+      "meals": "B, L"
+    },
+    {
+      "day": 10,
+      "title": "Fly back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Pokhara–Kathmandu · 25 min",
+      "text": "A morning flight returns you to Kathmandu. After check-in, the afternoon is free for the valley's heritage sites: Boudhanath stupa, Pashupatinath on the Bagmati, or Patan Durbar Square, each 20–40 minutes from Thamel by taxi. We can arrange a guided half-day tour on request. In the evening, a farewell dinner with Nepali food and cultural music is a good way to look back on the trek; your guide will hand over your trek certificate.",
+      "meals": "B"
+    },
+    {
+      "day": 11,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "After breakfast we drive you to Tribhuvan International Airport about three hours before your international flight. If you are staying on in Nepal, this is the day to start a Chitwan safari, a Kathmandu Valley tour or another trek; tell us when booking and we will plan transfers. Any spare luggage left at the hotel is returned to you at check-out. We recommend not booking international flights on day 10 in case domestic flights are delayed.",
+      "meals": "B"
+    }
+  ],
+  "stays": ["chhomrong-cottage"],
+  "includes": [
+    "Airport transfers in Kathmandu and Pokhara",
+    "2 nights 3-star hotel in Kathmandu and 2 nights in Pokhara with breakfast",
+    "Kathmandu–Pokhara–Kathmandu flights",
+    "Private jeep Pokhara–Siwai–Pokhara",
+    "Licensed trekking guide for 7 trail days, with first-aid training",
+    "One porter for every two trekkers (up to 10 kg each)",
+    "ACAP entry permit and any trekking registration currently required",
+    "Teahouse rooms and all meals on the trail (B, L, D)",
+    "Pulse oximeter checks and a first-aid kit carried by the guide"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Lunch and dinner in Kathmandu and Pokhara",
+    "Travel insurance with helicopter rescue to at least 4,500 m",
+    "Hot showers, charging, Wi-Fi and hot-spring entry at Jhinu",
+    "Drinks, snacks and desserts on the trail",
+    "Tips for guide and porters",
+    "Helicopter evacuation costs if needed"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more trekkers, with 3-star city hotels and standard teahouse rooms; solo trekkers pay a supplement.",
+    "ACAP fees are NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians, included in the price. Nepal has required licensed guides for foreign trekkers in conservation areas since 2023; check current status before you travel.",
+    "The climb from Deurali at 3,230 m to base camp at 4,130 m gains about 900 m in a day. Anyone with symptoms of altitude sickness stays at Machhapuchhre Base Camp or descends.",
+    "Between roughly January and April, avalanche risk above Deurali can close or reroute the trail for short periods; our guides follow ACAP advice on the day.",
+    "Meat is not sold above Chhomrong out of respect for the local deity, so meals on the upper trail are vegetarian."
+  ],
+  "add_ons": [
+    {"name": "Helicopter return from ABC to Pokhara", "price": "≈ US$ 500–650 per seat on a shared flight"},
+    {"name": "Extra night at Machhapuchhre Base Camp for acclimatisation", "price": "≈ ₹4,000 / US$ 45 per person"},
+    {"name": "Poon Hill extension via Ghorepani (3 days)", "price": "≈ ₹16,000 / US$ 190 per person"}
+  ],
+  "faqs": [
+    {
+      "q": "How difficult is the Annapurna Base Camp trek?",
+      "a": "We grade it Challenging for most trekkers. Daily walks are 4–7 hours with thousands of stone steps, especially around Chhomrong, and the final day climbs 900 m to 4,130 m. There are no technical sections. If you can hike 6 hours on hilly ground for several days and have trained with stair climbs or long walks, you will manage."
+    },
+    {
+      "q": "How much does the Annapurna Base Camp trek cost?",
+      "a": "Our 11-day package from Kathmandu starts from about ₹78,000 or US$910 per person on twin sharing, including flights to Pokhara, hotels, guide, porter, permits and all trail meals. A version that flies back from ABC by helicopter starts from about US$1,310. Independent trekkers typically spend US$30–40 a day on the trail plus permits and transport."
+    },
+    {
+      "q": "Is ABC trek safe for Indians and first-time trekkers?",
+      "a": "Yes, with sensible pacing. Thousands of Indian trekkers walk to ABC every year, and the teahouse trail is well developed. First-timers should train for 6–8 weeks, follow the guide's pace and report any headache or nausea early. The main risks are altitude above 3,500 m and avalanche-prone sections above Deurali in late winter and spring."
+    },
+    {
+      "q": "When is the best time to trek to Annapurna Base Camp?",
+      "a": "October and November offer the clearest skies and stable weather. March to May is the second season, with rhododendrons and warmer days but more afternoon cloud. December to February is cold and quiet, with snow possible above Deurali. June to September brings monsoon rain, leeches, landslides and cloud that hides the peaks; we do not recommend it."
+    },
+    {
+      "q": "Will I get altitude sickness on the ABC trek?",
+      "a": "Some trekkers feel mild symptoms above 3,500 m, such as headache, poor sleep or loss of appetite. Serious altitude sickness is uncommon on ABC because you spend only one night at 4,130 m and descend the next morning. Walk slowly, drink 3–4 litres a day, avoid alcohol and tell your guide about symptoms immediately."
+    },
+    {
+      "q": "Can I see Machhapuchhre from Annapurna Base Camp?",
+      "a": "Yes. Machhapuchhre, 6,993 m, dominates the view from Machhapuchhre Base Camp and is clearly visible from ABC, looking east down the Sanctuary. Its twin-tipped summit gives it the name Fishtail. The peak is sacred to local Gurung communities and is closed to climbing, so no one has legally stood on top."
+    },
+    {
+      "q": "What are the lodges like on the ABC trail?",
+      "a": "Teahouses are simple: twin rooms with beds, mattresses and blankets, shared toilets and a heated dining room. Lower villages like Chhomrong and Jhinu have attached bathrooms in some lodges. At Deurali, MBC and ABC rooms are basic and can be crowded in October. Bring a sleeping bag rated to −10 °C for the base camp night."
+    },
+    {
+      "q": "Do I need a guide for Annapurna Base Camp?",
+      "a": "Nepal's rules since 2023 say foreign trekkers in conservation areas must hire a licensed guide through a registered agency, though enforcement on the ABC trail has varied. Beyond the rules, a guide helps with avalanche-season route decisions, lodge bookings in busy months and altitude monitoring. Check current status before you travel; our package includes a licensed guide."
+    },
+    {
+      "q": "Can I charge my phone and use Wi-Fi on the ABC trek?",
+      "a": "Yes, at most lodges, usually for a fee of NPR 200–500 per device as you go higher. Many lodges sell Wi-Fi by the hour or day; mobile data works in Chhomrong and some lower villages but is patchy in the gorge. Carry a 10,000–20,000 mAh power bank, as solar charging can be slow on cloudy days."
+    }
+  ]
+}

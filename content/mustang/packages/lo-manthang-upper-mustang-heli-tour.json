@@ -1,0 +1,89 @@
+{
+  "slug": "lo-manthang-upper-mustang-heli-tour",
+  "title": "Lo Manthang Heli Tour from Pokhara, 1 Day",
+  "region": "mustang",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "cultural-tours", "photography", "luxury-nepal"],
+  "stops": [{"place": "pokhara", "nights": 0}, {"place": "jomsom", "nights": 0}, {"place": "lo-manthang", "nights": 0}, {"place": "muktinath", "nights": 0}],
+  "start": "Pokhara (Pokhara airport heliport)",
+  "end": "Pokhara",
+  "price_from_inr": 96000,
+  "price_from_usd": 1150,
+  "best_months": [0, 0, 1, 2, 2, 2, 1, 1, 2, 2, 2, 0],
+  "max_altitude_m": 3840,
+  "accommodation": "None (day trip); Pokhara hotel nights can be added",
+  "transport": "Helicopter (AS350 B3 or similar), transfers in Pokhara",
+  "group": "Shared seat (up to 5) or private charter",
+  "meta_description": "Lo Manthang heli tour from Pokhara in 1 day: walled city of Upper Mustang with 1.5–2 hours on the ground, Muktinath darshan, permits and prices explained.",
+  "summary": "See the walled city of Lo Manthang in Upper Mustang and Muktinath temple in a single day from Pokhara. About 1.5–2 hours on the ground in Lo Manthang for the gompas and palace square, then darshan at Muktinath, flying over the canyons and cave cliffs of the old Kingdom of Lo. Restricted area permit included.",
+  "intro": [
+    "Upper Mustang normally takes 8–14 days to reach by jeep or on foot. This helicopter day tour compresses the essentials into one long morning: the flight up the Kali Gandaki gorge, the red and ochre canyons of Chhusang and Ghami from the air, a guided walk through Lo Manthang's walls and gompas, and a stop at Muktinath on the way back. It suits travellers short of time, photographers who want the aerial view and older guests who could not manage the road.",
+    "Because Lo Manthang lies inside the Upper Mustang restricted area, even a day landing needs the restricted area permit, which we arrange in advance with your passport details. The helicopter refuels in Jomsom on the way up. At 3,840 m, Lo Manthang is about 130 m higher than Muktinath, so walk slowly, drink water and keep your visit gentle. Seats can be bought individually on shared departures or as a private charter."
+  ],
+  "highlights": [
+    "Aerial views of Upper Mustang's canyons, caves and red cliffs",
+    "About 1.5–2 hours guided time inside Lo Manthang's walls",
+    "Jampa Lhakhang, Thubchen Gompa and the palace square on foot",
+    "Muktinath darshan on the return flight",
+    "Upper Mustang restricted area permit included"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara–Lo Manthang–Muktinath–Pokhara",
+      "place": "lo-manthang",
+      "overnight": "Pokhara (own arrangement)",
+      "altitude_m": 822,
+      "max_m": 3840,
+      "walk": "≈ 1.5 h in Lo Manthang, 40 min at Muktinath",
+      "drive": "Hotel–airport transfers in Pokhara",
+      "flight": "Pokhara–Jomsom · 25 min; Jomsom–Lo Manthang · 25–30 min; Lo Manthang–Muktinath · 25 min; Muktinath–Pokhara · 40 min",
+      "text": "Pick-up at about 5:45 am. Fly to Jomsom (2,720 m) for fuel and permit checks, then north over Kagbeni, the cave-riddled cliffs of Chhusang and the green fields of Ghami and Tsarang. Land outside Lo Manthang's walls (3,840 m) around 7:30 am. Your guide leads you through the main gate to Jampa Lhakhang and Thubchen Gompa, the palace square and the lanes, with tea in a local lodge. After 1.5–2 hours, fly south to Muktinath (3,710 m) for darshan and the 108 spouts, about 45 minutes on the ground, then return direct to Pokhara by around 11:30 am–12:30 pm.",
+      "meals": "Tea and snacks in Lo Manthang"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Helicopter seat on a shared flight (or full charter if booked as private)",
+    "Upper Mustang restricted area permit for one day",
+    "ACAP permit",
+    "Landing and airport fees at Jomsom, Lo Manthang and Muktinath",
+    "Local guide in Lo Manthang and ground support at Muktinath",
+    "Tea and snacks in Lo Manthang",
+    "Pokhara hotel–airport transfers",
+    "Emergency oxygen on board and all taxes"
+  ],
+  "excludes": [
+    "Pokhara hotel nights",
+    "Gompa entry fees in Lo Manthang (about NPR 1,000–1,500 in total)",
+    "Puja and temple donations at Muktinath",
+    "Lunch",
+    "Travel and medical insurance",
+    "Extra ground time beyond the plan",
+    "Tips for pilot and guides"
+  ],
+  "good_to_know": [
+    "Price assumes one seat on a shared helicopter with five passengers; a private charter for up to five costs from about US$ 5,200–6,200 per helicopter, including the extra ground time.",
+    "The Upper Mustang permit is charged per person per day (US$ 50 since late 2025). We need passport or voter ID copies at least 5 working days ahead. Check current status before you travel.",
+    "Flights run only on clear mornings; afternoon wind and cloud close Lo Manthang quickly, so we leave early. Postponed flights move to the next clear morning.",
+    "Lo Manthang is at 3,840 m. People with heart or lung conditions, uncontrolled blood pressure, pregnant women and infants should seek medical advice or not fly.",
+    "Photography is not allowed inside Lo Manthang's main gompas; you can photograph exteriors and lanes freely."
+  ],
+  "add_ons": [
+    {"name": "Overnight at Royal Mustang Resort with second heli pickup", "price": "On request (second rotation charged)"},
+    {"name": "Kagbeni landing for Shaligram or shraddha", "price": "≈ US$ 350 per helicopter"}
+  ],
+  "faqs": [
+    {"q": "How much is the Lo Manthang helicopter tour?", "a": "A shared seat starts at about ₹96,000 (US$ 1,150) per person with five passengers. A private charter costs about US$ 5,200–6,200 per helicopter, depending on season, fuel and ground time. The price includes the Upper Mustang permit for one day. Check current status before you travel."},
+    {"q": "Do I need the Upper Mustang permit for a helicopter visit?", "a": "Yes. Lo Manthang is inside the restricted area, so every visitor, including Indian nationals, needs the restricted area permit for the day of landing, plus the ACAP permit. We obtain both through our registered agency using your passport or voter ID copies. Check current status before you travel."},
+    {"q": "How long do we get in Lo Manthang?", "a": "Usually 1.5–2 hours, enough for a guided walk through the main gate, Jampa Lhakhang and Thubchen Gompa, the palace square and tea. Longer stays are possible on a charter for an extra fee. Ground time is limited by weather, as wind and cloud increase towards midday."},
+    {"q": "Can we see the Mustang caves on the heli tour?", "a": "You see many cave-riddled cliffs from the air around Chhusang, Ghami and Tsarang. Visiting Jhong Cave at Chhoser, north of Lo Manthang, needs extra ground time and a jeep or a short helicopter hop, which can be arranged on a private charter at extra cost."},
+    {"q": "Is the Lo Manthang heli tour suitable for elderly people?", "a": "Yes, for those in reasonable health. There is no long walk, though Lo Manthang's lanes are uneven and at 3,840 m. Walk slowly, rest often and skip stairs inside gompas if tired. Anyone with heart or lung disease should take medical advice before flying to this altitude."},
+    {"q": "Can I stay overnight in Lo Manthang on a heli tour?", "a": "Yes, but the helicopter cannot usually wait, so it flies you in one day and returns for you on another, which means paying two rotations. Royal Mustang Resort is the best place to stay. A night allows you to see the town at dawn and visit Chhoser by jeep."},
+    {"q": "When is the best time for an Upper Mustang heli tour?", "a": "April to June and September to November offer the best flying weather, with clear mornings. June to August is drier in Upper Mustang than elsewhere but monsoon cloud often blocks the Kali Gandaki gorge. Winter is possible on clear days but very cold, and many lodges are closed."},
+    {"q": "How many passengers fit on the Lo Manthang helicopter?", "a": "Up to five passengers in an AS350 B3, subject to a total weight limit of around 400–450 kg, which can drop on warm days. Each passenger may carry a small bag of about 5 kg. We ask for weights at booking so the pilot can plan the load."},
+    {"q": "Can we do Lo Manthang and Damodar Kunda together?", "a": "On a private charter it is possible to combine Lo Manthang, Damodar Kunda and Muktinath, but it means a long, costly day with refuelling and high-altitude landings. We usually recommend Lo Manthang with Muktinath, or Damodar Kunda with Muktinath, as separate tours."}
+  ]
+}

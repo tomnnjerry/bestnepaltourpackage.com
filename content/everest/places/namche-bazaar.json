@@ -1,0 +1,132 @@
+{
+  "slug": "namche-bazaar",
+  "name": "Namche Bazaar",
+  "region": "everest",
+  "kind": "trekking village",
+  "wiki": "Namche Bazaar",
+  "image_query": "Namche Bazaar Sherpa village Kongde",
+  "lat": 27.805,
+  "lng": 86.713,
+  "altitude_m": 3440,
+  "tagline": "Sherpa trading town and the acclimatisation stop on every Everest trek",
+  "meta_description": "Namche Bazaar (3,440 m): Sherpa capital of the Khumbu, 2 nights to acclimatise, Hotel Everest View hike, Saturday market, Sherpa museum and first Everest views.",
+  "summary": "Namche Bazaar is the largest Sherpa town in the Khumbu, built in a horseshoe-shaped bowl at 3,440 m. Every Everest Base Camp, Gokyo and Three Passes trek spends two nights here to acclimatise, with a day hike up to Syangboche and Hotel Everest View for the first close views of Everest and Ama Dablam.",
+  "intro": [
+    "Namche sits in a natural amphitheatre facing west across the Bhote Koshi valley to Kongde Ri (6,187 m), with Thamserku (6,623 m) rising across the gorge to the east. Its stone houses, lodges and shops step up the slope in terraces around a central spring and a small stupa. For centuries it was a trading post where Sherpas exchanged grain, butter and yak goods with Tibetan traders who came over the Nangpa La from Tingri. Today the trade is trekking, and Namche has bakeries, gear shops, banks, a pharmacy, a clinic and reliable Wi-Fi.",
+    "Reaching Namche from Phakding is the first real test of an Everest trek. The trail follows the Dudh Koshi past Monjo and the Sagarmatha National Park gate, crosses the high Hillary suspension bridge at the confluence with the Bhote Koshi, then climbs about 600 m in two to three hours up the Namche hill. Halfway up, if the sky is clear, you get your first glimpse of the summit of Everest behind the Nuptse–Lhotse wall. Take it slowly, drink water and do not race.",
+    "We always schedule two nights in Namche. The second day is an active rest: climb 300–450 m to Syangboche, the Everest View Hotel or Khumjung, then sleep back at 3,440 m. This climb-high, sleep-low pattern is the core of safe acclimatisation. Use the afternoon to visit the Sherpa Culture Museum and the national park visitor centre above town, stock up on snacks and batteries, and on Saturday mornings browse the weekly market where porters and traders buy rice, vegetables and goods carried up from the lower valleys."
+  ],
+  "facts": [
+    ["Altitude", "3,440 m"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Lukla (2,860 m), 2 days' walk; Syangboche airstrip above town is mainly for helicopters"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 2 days' walk"],
+    ["Known for", "Sherpa trading town, acclimatisation, Hotel Everest View, Saturday market"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "First Everest view on the Namche hill", "text": "About halfway up the 600 m climb from the Hillary Bridge, a gap in the pines reveals the top of Everest behind Lhotse and Nuptse. It is small and distant, but it is the first time most trekkers see the mountain they came for."},
+    {"title": "Hotel Everest View hike", "text": "The standard acclimatisation walk climbs from Namche past the Syangboche airstrip to Hotel Everest View at 3,880 m. From its terrace you see Everest, Lhotse, Ama Dablam and Thamserku in one line, with Tengboche monastery on its ridge in the middle distance."},
+    {"title": "Sherpa Culture Museum", "text": "A small private museum above town shows a traditional Sherpa house with kitchen, altar room and farming tools, plus a photo gallery of Everest climbers. Next to it the Sagarmatha National Park visitor centre explains the geology, wildlife and history of the park."},
+    {"title": "Saturday market", "text": "Every Saturday morning traders set up stalls on the terraces at the lower end of town. Porters and lodge owners buy rice, vegetables, eggs, cooking oil and household goods, some carried for days from the lower Solu and beyond. It is busiest from 7 to 11 am."},
+    {"title": "Thamserku and Kongde across the valley", "text": "Lodges on the upper terraces look across to Kongde Ri (6,187 m) to the west and straight up at Thamserku (6,623 m) to the east. Alpenglow on Thamserku at sunset, seen from your lodge window, is a reason to choose a room facing east."},
+    {"title": "Bakeries, gear and a clinic", "text": "Namche is the last place with real choice: espresso, apple crumble, pizza, gear shops selling down jackets and spikes, ATMs, a pharmacy and a clinic. Prices rise steeply above here, so buy chocolate, batteries and toilet paper now."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly to Lukla (2,860 m), about 35 minutes from Kathmandu or 20 minutes from Ramechhap in peak months, then walk two days via Phakding. Scheduled flights do not use the Syangboche airstrip above Namche. Check current status of the Ramechhap rule before you travel."},
+    {"mode": "Helicopter", "text": "Helicopters land at Syangboche (≈ 3,750 m), a 30-minute walk above Namche, and at Hotel Everest View. Flying straight in from Kathmandu means a jump of more than 2,300 m in an hour, so we only recommend it for short visits with a quick return, not for starting a trek."},
+    {"mode": "On foot", "text": "From Lukla it is about 19 km over two days: Lukla to Phakding (3–4 h), then Phakding to Namche via Monjo, Jorsale and the Hillary Bridge (5–6 h), including the 600 m climb up the Namche hill. Coming down, Namche to Lukla is one long day of 6–7 hours."}
+  ],
+  "where_to_stay": "Namche has lodges for every budget, and the higher you go up the bowl, the better the views and the quieter the nights. Yeti Mountain Home Namche, on the eastern side of town, has ensuite rooms with electric blankets and views to Thamserku. Panorama Lodge, on the upper terraces near the museum path, is a comfortable family-run lodge with ensuite rooms and mountain views. Above town at Syangboche, Hotel Everest View (3,880 m) offers rooms facing Everest, though at that height it suits a short stay or a breakfast visit better than a first night. Mid-range lodges on the main lanes offer attached bathrooms, hot showers and Wi-Fi.",
+  "stays": ["yeti-mountain-home-namche", "panorama-lodge-namche", "hotel-everest-view"],
+  "tips": [
+    "Walk up the Namche hill at a pace where you can still talk, and stop for water every 30–40 minutes.",
+    "Use your rest day for a real hike to 3,800 m or higher, then sleep back in Namche.",
+    "Buy snacks, batteries, toilet paper and any forgotten gear here, as prices roughly double above Tengboche.",
+    "Withdraw cash from Namche ATMs only as a backup, and carry most of your trekking money from Kathmandu.",
+    "Ask for an east-facing room if you want sunrise light on Thamserku from your window."
+  ],
+  "themes": ["trekking", "cultural-tours", "photography", "heli-tours", "luxury-nepal"],
+  "nearby": ["khumjung", "phakding", "tengboche", "lukla"],
+  "experiences": [
+    {
+      "slug": "namche-sherpa-culture-museum-walk",
+      "title": "Sherpa museum and park visitor centre walk",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Afternoon of your rest day, Mar–May and Oct–Nov",
+      "price_hint": "Museum entry ≈ NPR 300–500",
+      "image_query": "Sherpa Culture Museum Namche",
+      "wiki": "",
+      "summary": "A short climb above Namche brings you to the Sherpa Culture Museum, set in a traditional house, and the Sagarmatha National Park visitor centre, with a viewpoint where you can see Everest, Lhotse and Ama Dablam on a clear afternoon.",
+      "body": [
+        "From the upper edge of Namche, a stepped path climbs about 15 minutes to the army post and the ridge above town. Here the Sherpa Culture Museum, run by a local family, recreates a Sherpa home with a ground floor for livestock and storage and an upper floor with the kitchen hearth, copper pots, a chang (barley beer) jar, woven rugs and an altar room with butter lamps. Displays explain clothing, weddings, funerals and the move from yak herding and trading to tourism.",
+        "A second room holds photographs and stories of Sherpa climbers, from Tenzing Norgay's 1953 ascent with Edmund Hillary to the record holders of recent decades. A few steps away, the Sagarmatha National Park visitor centre has panels on the formation of the Himalaya, the park's glaciers and lakes, and animals such as Himalayan tahr, musk deer and the Impeyan pheasant (danphe), Nepal's national bird. A bust of Tenzing Norgay stands on the ridge facing Everest.",
+        "The ridge viewpoint is the reason to go even if museums are not your thing. In clear weather you see Everest, Lhotse, Nuptse, Ama Dablam, Thamserku and Kangtega, and you get a feel for the route ahead up the valley to Tengboche. Afternoons often cloud over, so if you go after lunch, check the sky first. The walk adds about 100 m of height gain, which is a gentle bonus for acclimatisation."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Is the Sherpa museum in Namche worth visiting?", "a": "Yes, for an hour. It is small, but the recreated Sherpa house and climbing photo gallery give useful context for the trek, and the ridge outside has one of the best Everest views near Namche. Combine it with the national park visitor centre on the same walk."},
+        {"q": "Can I see Everest from Namche Bazaar itself?", "a": "Not from most of the village, which faces west. Climb 15 minutes to the ridge by the museum and park visitor centre, or an hour to Syangboche, and Everest appears behind the Nuptse–Lhotse wall on clear days. Mornings give the best chance."},
+        {"q": "How long does the museum walk take?", "a": "Allow about two hours including the climb, the museum, the visitor centre and time at the viewpoint. It gains roughly 100 m, so it suits the afternoon of an acclimatisation day after a morning hike to Hotel Everest View or Khumjung."}
+      ]
+    },
+    {
+      "slug": "namche-hotel-everest-view-breakfast-hike",
+      "title": "Breakfast hike to Hotel Everest View",
+      "kind": "hiking",
+      "duration": "4–5 hours return",
+      "best_time": "Early morning on your rest day, Oct–Nov and Mar–May",
+      "price_hint": "Included in our treks; drinks and food at the hotel extra",
+      "image_query": "Hotel Everest View terrace Everest",
+      "wiki": "Hotel Everest View",
+      "summary": "Climb about 450 m from Namche past the Syangboche airstrip to Hotel Everest View at 3,880 m, have tea or breakfast on the terrace facing Everest and Ama Dablam, then loop back down via Khumjung. It is the classic acclimatisation day.",
+      "body": [
+        "Leave Namche at about 7 am, while the sky is clear, and climb the steep stone steps behind the village to the ridge at Syangboche (≈ 3,750 m). The grass airstrip here is used mostly by helicopters and cargo. The trail then contours through juniper and dwarf rhododendron to Hotel Everest View, a Japanese-built hotel opened in 1971 and listed in Guinness World Records as the highest-placed hotel at the time. The walk takes about 1.5 to 2 hours at an acclimatisation pace.",
+        "The terrace looks straight up the Imja valley. Everest (8,849 m) shows its summit pyramid above the Nuptse–Lhotse ridge, Ama Dablam (6,812 m) stands to the right, and Tengboche monastery sits on its forested ridge below. Order tea, coffee or a set breakfast: prices are high by trail standards because everything is flown or carried in. Sit for 30–45 minutes, which is the useful part for your body, and watch helicopters arrive with day visitors.",
+        "From the hotel, many groups walk down to Khumjung to see the Hillary School and the monastery with its yeti scalp, then return to Namche over the ridge, making a loop of four to five hours. Others go straight back via Syangboche. Either way you sleep at 3,440 m having climbed to 3,880 m, which helps you adapt. If you feel a headache, tell your guide and go down early."
+      ],
+      "good_for": ["couples", "families", "photographers", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "How long does it take to walk from Namche to Hotel Everest View?", "a": "About 1.5–2 hours up and 1–1.5 hours down, climbing roughly 450 m. The first half hour of steps above Namche is the steepest part. With a loop through Khumjung, plan four to five hours in total, which makes a good acclimatisation day."},
+        {"q": "Can I stay overnight at Hotel Everest View?", "a": "Yes, the hotel has rooms facing Everest, and some luxury and heli itineraries include a night. Sleeping at 3,880 m soon after arriving from Kathmandu raises the risk of headaches, so it suits travellers who have already spent nights in Namche or who are on a short, slow itinerary."},
+        {"q": "Do I need to book breakfast at Hotel Everest View?", "a": "Trekkers can usually walk in and order tea or a meal without booking. Helicopter tours book breakfast in advance. In peak weeks the terrace gets busy from 8 to 10 am, so earlier is quieter. Expect to pay several times trail-lodge prices."}
+      ]
+    },
+    {
+      "slug": "namche-saturday-market-morning",
+      "title": "Saturday market morning in Namche",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Saturday 7–11 am, all year",
+      "price_hint": "",
+      "image_query": "Namche Bazaar Saturday market",
+      "wiki": "",
+      "summary": "On Saturday mornings the lower terraces of Namche fill with stalls selling rice, vegetables, meat, cloth and household goods. It is the weekly supply run for the upper Khumbu and a lively place to watch porters, traders and lodge owners do business.",
+      "body": [
+        "Namche's name in many guidebooks still carries the word bazaar because of this weekly market. Traders and porters walk up from Lukla, the lower Solu and further south with loads of rice, lentils, flour, eggs, fresh vegetables, fruit, cooking oil, kerosene and plastic goods. They lay them out on tarpaulins on the open terraces at the lower end of town, near the police post, from early morning. Lodge owners from Tengboche, Dingboche and beyond send staff down to buy a week's supplies.",
+        "Historically, Tibetan traders also came over the Nangpa La (5,716 m) from Tingri with salt, wool and Chinese goods, and in some seasons you may still see Tibetan-made items on sale. Today the market is mostly practical, but it is one of the few places on the trail where you see the economics of the Khumbu up close: what a sack of rice costs here compared to Kathmandu, and how much a porter carries to get it here.",
+        "If your rest day falls on a Saturday, go down before your acclimatisation hike or straight after it, as most trading is done by about 11 am. Ask before photographing people, and keep out of the way of porters loading baskets. There is little for tourists to buy beyond fruit and snacks, but it is a good chance to try local apples or oranges in season and to see a side of Namche that the lodges and bakeries do not show."
+      ],
+      "good_for": ["photographers", "solo", "families", "groups"],
+      "faqs": [
+        {"q": "What day is the Namche Bazaar market?", "a": "The weekly market is held on Saturday mornings, roughly from 7 to 11 am, on the terraces at the lower end of town. Some stalls also trade on Friday afternoon as porters arrive. If your rest day is a Saturday, it is easy to include."},
+        {"q": "Can tourists buy things at the Namche market?", "a": "Yes, though most goods are household supplies for lodges and families. Trekkers usually buy fruit, biscuits or small snacks. For gear, the shops along Namche's main lanes are better, selling jackets, gloves, poles and spikes at prices a little above Kathmandu."},
+        {"q": "Is the Namche market a tourist show?", "a": "No. It is a real supply market for the upper Khumbu, where lodge staff and families buy a week's food. That is what makes it interesting. Be respectful, ask before taking close-up photographs, and do not block the paths porters use."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Namche Bazaar?", "a": "Namche Bazaar sits at about 3,440 m above sea level, roughly 2,000 m higher than Kathmandu. It is the first place on the Everest trail where most people feel the altitude, which is why every sensible itinerary spends two nights here before going higher."},
+    {"q": "Why do Everest treks spend two nights in Namche?", "a": "Because you gain about 800 m in two days from Lukla, and the next stop, Tengboche, is higher again. A rest day with a hike to around 3,800–3,900 m, then sleeping back at 3,440 m, helps your body adapt and cuts the risk of altitude sickness further up."},
+    {"q": "Can I see Mount Everest from Namche Bazaar?", "a": "Not from the village itself, which faces west. You see Everest from the ridge above town by the Sherpa museum, from Syangboche and from Hotel Everest View, all within an hour's walk. You also get a distant glimpse halfway up the Namche hill on arrival day."},
+    {"q": "How hard is the climb to Namche Bazaar?", "a": "It is the hardest part of the first two days: from the Hillary Bridge (≈ 2,850 m) you climb about 600 m in two to three hours on a dusty switchback trail. Fit walkers manage it fine at a slow, steady pace with water and snack breaks."},
+    {"q": "Is there an ATM in Namche Bazaar?", "a": "Yes, Namche has ATMs, but they can be out of cash or offline and charge fees. Treat them as backup only. Carry most of your trekking money in Nepali rupees from Kathmandu, as lodges higher up accept only cash."},
+    {"q": "Can I visit Namche Bazaar by helicopter?", "a": "Yes. Helicopters land at Syangboche or Hotel Everest View above Namche, and many Everest heli tours stop for breakfast there. Because you arrive from 1,400 m to nearly 3,900 m quickly, stays are usually short, around 30–60 minutes."},
+    {"q": "What is the weather like in Namche in October?", "a": "October is usually dry and clear in Namche, with daytime temperatures of about 10–15 °C and nights near 0 °C or a little below. Mornings are the clearest; cloud often builds in the afternoon. Bring a warm jacket for evenings."},
+    {"q": "Is Namche Bazaar suitable for kids and seniors?", "a": "Fit children and seniors can reach Namche on a slow itinerary, and the Everest View trek is designed for this. The climb up the Namche hill is steep, so allow extra time and consider a pony for part of it. Anyone with heart or lung conditions should consult a doctor first."},
+    {"q": "What is there to do in Namche on the rest day?", "a": "Hike to Hotel Everest View and Khumjung, visit the Sherpa Culture Museum and park visitor centre, browse the Saturday market, and rest in a bakery. The key is to climb a few hundred metres in the morning and sleep back at 3,440 m."}
+  ]
+}

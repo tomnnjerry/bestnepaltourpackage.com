@@ -1,0 +1,260 @@
+{
+  "slug": "begnas-lake",
+  "name": "Begnas Lake",
+  "region": "pokhara",
+  "kind": "lake",
+  "wiki": "Begnas Lake",
+  "image_query": "Begnas Lake boats Pokhara valley",
+  "lat": 28.1667,
+  "lng": 84.0986,
+  "altitude_m": 650,
+  "tagline": "Pokhara's quiet second lake, 15 km east of Lakeside",
+  "meta_description": "Begnas Lake guide: rowing, the ridge walk to Rupa Lake, fresh fish lunches, how to get there from Pokhara Lakeside and why it is calmer than Phewa.",
+  "summary": "Begnas Lake lies about 15 km east of Pokhara Lakeside at roughly 650 m, a 30–40 minute drive. It is the second-largest of the valley's seven lakes, ringed by terraced hills and fish farms, with far fewer people than Phewa. Come for half a day of rowing, a ridge walk to Rupa Lake and a fish lunch.",
+  "intro": [
+    "Begnas is what Phewa was before Lakeside filled with hotels. The lake stretches in a long, irregular shape among low green hills in the south-east of the Pokhara valley, with rice terraces running down to the water and forest on the far shore. Its water level is regulated by a small dam built in 1988 on the outlet stream, and much of the shoreline is used for cage fish farming and irrigation, so it feels like working countryside rather than a resort.",
+    "The approach is through Begnas Bazaar, a small market at the lake's southern end where buses from Pokhara terminate. From the dam, wooden boats wait to take visitors out on the water, and a few lakeside restaurants grill fresh tilapia and carp. On clear mornings Machhapuchhre and the Annapurnas rise behind the northern hills, reflected in the still water. Weekends bring Pokhara families for picnics and boating, but on weekdays the shore is quiet and you may share the water with only a handful of boats.",
+    "Just over the ridge to the east lies Rupa Lake, smaller and even quieter, and the narrow ridge between them, Panchabhaiya Danda, makes one of the best short walks in the valley. Begnas works as a half-day trip from Pokhara for families who have already done Phewa, as an easy escape from Lakeside's traffic, or as the setting for a slow lakeside afternoon on a honeymoon or yoga retreat. A morning here pairs well with a flight arrival or departure, as the airport is on the same side of the city."
+  ],
+  "facts": [
+    [
+      "Altitude",
+      "≈ 650 m"
+    ],
+    [
+      "Best months",
+      "Oct – Mar"
+    ],
+    [
+      "Nights we suggest",
+      "0 (half-day trip from Pokhara)"
+    ],
+    [
+      "Nearest airport",
+      "Pokhara International Airport, ≈ 12 km"
+    ],
+    [
+      "From Pokhara Lakeside",
+      "≈ 15 km · 30–40 min by car"
+    ],
+    [
+      "Known for",
+      "Calm rowing, Rupa Lake ridge walk, fresh lake fish"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "Rowing on still water",
+      "text": "Begnas is calmer and less crowded than Phewa, and boats from the dam area are cheaper. Row out for an hour towards the northern shore, where forest comes down to the water and kingfishers and egrets hunt along the edge."
+    },
+    {
+      "title": "Panchabhaiya Danda ridge",
+      "text": "A narrow ridge separates Begnas from Rupa Lake. A road and footpath climb onto it in about 30 minutes from the bazaar, giving views of both lakes at once with the Annapurna range behind. It is one of the best easy viewpoints near Pokhara."
+    },
+    {
+      "title": "Rupa Lake",
+      "text": "The smaller sister lake lies in a quiet basin east of the ridge, partly fringed with reeds and wetland. It has very few visitors, a community-run fishery and good birdwatching in winter, when migrant ducks arrive."
+    },
+    {
+      "title": "Fresh fish lunches",
+      "text": "Restaurants by the dam and in Begnas Bazaar serve fish caught or farmed in the lake, fried whole or cooked in a spicy Nepali curry. Order at the start of your boat ride and lunch is ready when you return."
+    },
+    {
+      "title": "Village life on the shore",
+      "text": "Paths along the western shore pass farmhouses, buffalo sheds and terraces where families plant rice in June and harvest in October. It is an easy way to see rural Kaski without driving far from the city."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Begnas Bazaar is about 15 km from Lakeside along the Prithvi Highway east and the Begnas road, 30–40 minutes by taxi or private car. A taxi round trip with waiting time costs roughly NPR 2,500–3,500. Local buses run from Pokhara's Prithvi Chowk and take about an hour. From the airport the drive is about 25 minutes."
+    },
+    {
+      "mode": "On foot",
+      "text": "From Begnas Bazaar, the walk onto Panchabhaiya Danda between Begnas and Rupa lakes takes about 30 minutes uphill. You can continue along the ridge and down to Rupa's shore, a loop of 2–3 hours at an easy pace."
+    }
+  ],
+  "where_to_stay": "Most visitors stay in Pokhara and visit Begnas as a half-day trip, so our packages base you at Lakeside or Damside in hotels such as Hotel Barahi or Temple Tree Resort & Spa. Around the lake there are a few small resorts, eco-lodges and community homestays on the hillsides and along the shore, suited to travellers who want silence, birdsong and a lake view without Lakeside's traffic. Standards vary from simple to comfortable, so we confirm the current properties when you book. Couples looking for a luxury hillside retreat east of the city can choose Tiger Mountain Pokhara Lodge instead.",
+  "stays": [],
+  "tips": [
+    "Combine Begnas with the drive to or from Pokhara airport, which lies on the same side of the city.",
+    "Order your fish lunch before going out on the water, as frying a whole fish takes 30–40 minutes.",
+    "Visit in the morning for clear mountain views and calm water; afternoon wind can make rowing harder.",
+    "Bring binoculars from November to February, when migrant ducks and waders gather on Rupa Lake.",
+    "Carry cash, as small restaurants and boat operators at Begnas rarely accept cards."
+  ],
+  "themes": [
+    "family-holidays",
+    "short-breaks",
+    "honeymoon",
+    "photography",
+    "wellness-yoga"
+  ],
+  "nearby": [
+    "pokhara",
+    "world-peace-pagoda",
+    "sarangkot"
+  ],
+  "experiences": [
+    {
+      "slug": "begnas-lake-rowing",
+      "title": "Rowing on Begnas Lake",
+      "kind": "water",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "price_hint": "≈ NPR 700–1,200 per boat per hour",
+      "image_query": "Begnas Lake wooden boat",
+      "wiki": "Begnas Lake",
+      "summary": "An hour or two on Begnas in a wooden boat, with or without an oarsman, along a forested shoreline far from Lakeside's crowds. Calm water, birdlife and mountain reflections on clear mornings. Ideal for families and couples who have already done Phewa.",
+      "body": [
+        "Boats leave from the shore near the dam at the southern end of the lake, a short walk from Begnas Bazaar. They are similar to Phewa's wooden doongas, broad and stable, with life jackets provided. Rates are usually lower than on Phewa and are fixed by the local boat committee. You can hire a boatman or take the oars yourself; the water is generally calm in the morning. Pay at the counter or to the boatman before setting off.",
+        "Head north along the lake towards the forested eastern shore, where the hillside drops steeply into the water. Look out for little and intermediate egrets, pond herons, common kingfishers and, in winter, cormorants. Fish farmers tend floating cages near the shore, and you may see them netting the morning's catch. On clear days Machhapuchhre and the Annapurnas appear above the northern hills. In winter, migrant ducks rest in the quieter arms of the lake, and early mornings bring mist drifting over the water.",
+        "An hour is enough for a relaxed loop; two hours lets you reach the quieter northern arms of the lake. Afternoon wind can make the return harder, so set out by 10 am. Combine the row with a walk up Panchabhaiya Danda and a fish lunch at the dam to make a satisfying half-day away from the city. If you would rather not row, a boatman will take you round while you watch the shore; most boats seat four to six people."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "seniors",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is Begnas Lake better than Phewa Lake?",
+          "a": "It is quieter and more rural, with cheaper boats and no hotels lining the shore, so it feels more peaceful. Phewa has the island temple of Tal Barahi, the World Peace Pagoda and Lakeside's restaurants. Most visitors do Phewa first and add Begnas for a calmer half-day if they have three or more nights."
+        },
+        {
+          "q": "Can I row a boat myself on Begnas?",
+          "a": "Yes. Boat operators rent boats with or without an oarsman, and the lake is usually calm in the morning. Life jackets are provided and should be worn, especially by children. If you are not confident, take a boatman, as afternoon wind can make it hard to row back to the dam."
+        },
+        {
+          "q": "Is swimming allowed in Begnas Lake?",
+          "a": "Swimming is not encouraged. Parts of the lake are used for cage fish farming, there are no lifeguards and the water is deep in places. Some visitors swim near the shore in the dry season, but we do not recommend it. Enjoy the lake by boat instead."
+        }
+      ]
+    },
+    {
+      "slug": "begnas-rupa-ridge-walk",
+      "title": "Ridge walk between Begnas and Rupa lakes",
+      "kind": "hiking",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Free (guide optional)",
+      "image_query": "Rupa Lake Begnas Lake ridge view",
+      "wiki": "Rupa Lake",
+      "summary": "An easy walk from Begnas Bazaar up onto Panchabhaiya Danda, the narrow ridge that divides Begnas and Rupa lakes, with both lakes below and the Annapurna range ahead. Then down to Rupa's quiet shore. About 2–3 hours, suitable for families with children.",
+      "body": [
+        "From Begnas Bazaar, a road and footpath climb north-east through houses and terraces onto Panchabhaiya Danda. The climb takes about 30 minutes and gains roughly 100–150 m. Once on top, the ridge is narrow enough that Begnas lies on one side and Rupa on the other, with a few tea shops and benches placed at the best viewpoints. The road onto the ridge is quiet, but stay on the footpath where possible and give way to the occasional bus or tractor.",
+        "Walk north along the ridge for 30–45 minutes. On clear mornings the full line of the Annapurnas and Machhapuchhre stands over the northern hills, and the two lakes reflect the sky on either side. The ridge is farmed, with mustard flowering yellow in winter and rice planted below in summer, so you pass farmers and buffalo along the way. In late October and November, golden rice fields on the lower slopes make one of the most photogenic scenes in the valley.",
+        "From the ridge, paths drop east to Rupa Lake in 20–30 minutes. Rupa is fringed with reeds and wetlands and managed partly by a local cooperative for fish farming and conservation. In winter it attracts migrant ducks. Return the same way to Begnas, or arrange for your car to meet you on the road near Rupa to save the climb back. The full loop takes 2–3 hours at an easy pace, with tea shops on the ridge for a rest."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "photographers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "How hard is the Begnas–Rupa ridge walk?",
+          "a": "It is easy. The climb onto the ridge takes about 30 minutes and gains around 100–150 m on a road and path, and the rest is gently undulating. Children from about five and fit seniors manage it. Wear walking shoes and carry water, as shade is limited around midday."
+        },
+        {
+          "q": "Can I see the mountains from Begnas?",
+          "a": "Yes, on clear days. The best viewpoint is the Panchabhaiya Danda ridge between Begnas and Rupa, where Machhapuchhre and the Annapurna range line the northern horizon. Views are most reliable from October to February in the morning and are often lost to haze or cloud by afternoon."
+        },
+        {
+          "q": "Is Rupa Lake worth visiting?",
+          "a": "Yes, if you enjoy quiet places and birds. Rupa is smaller than Begnas and sees very few tourists, with reedy shores and a community fishery. Winter brings migrant waterfowl. There are few facilities, so treat it as a walk and viewpoint rather than a boating destination."
+        }
+      ]
+    },
+    {
+      "slug": "begnas-lakeside-fish-lunch",
+      "title": "Fresh fish lunch at Begnas Lake",
+      "kind": "food",
+      "duration": "1–1.5 hours",
+      "best_time": "Lunchtime, all year",
+      "price_hint": "≈ NPR 800–1,500 per person",
+      "image_query": "fried fish Nepal lake restaurant",
+      "wiki": "",
+      "summary": "Simple restaurants near the Begnas dam fry or curry fish from the lake, served with rice, dal, greens and pickle. It is a local favourite for Pokhara families on weekends and a relaxed end to a morning of rowing and walking.",
+      "body": [
+        "Fish farming is one of Begnas's main livelihoods, with tilapia, carp and other species raised in floating cages and ponds around the lake. Small restaurants by the dam and in Begnas Bazaar buy straight from the farmers. You choose the fish by weight, often from a basin of live fish, and decide how it should be cooked: fried whole with turmeric, chilli and salt, or simmered in a spicy tomato and onion curry.",
+        "The fish comes as part of a set meal with rice, lentil soup, seasonal greens, achar pickle and sometimes a small salad of radish and cucumber. A medium fish is enough for two people. Frying takes 30–40 minutes, so many visitors place their order before taking a boat out and return to a ready lunch. Vegetarians can order dal bhat or vegetable curry at the same places. Expect to pay by the weight of the fish plus a fixed price for the set meal.",
+        "Restaurants are informal, with plastic chairs on terraces overlooking the water. Saturdays are busy with Nepali families from Pokhara, so weekdays are quieter. Ask for the fish to be cooked well, and if you are sensitive to spice say 'kam piro' (less spicy). Bottled water and soft drinks are available everywhere. Lunch here costs far less than in Lakeside, and the setting by the water, with farmers rowing out to their cages, is half the pleasure. Combine it with a morning row and the ridge walk for a full half-day."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "groups"
+      ],
+      "faqs": [
+        {
+          "q": "What fish is served at Begnas Lake?",
+          "a": "Mostly farmed tilapia and various carp species raised in cages and ponds around the lake, plus occasional local catch. Restaurants usually let you pick a fish by weight and choose fried or curried. A medium fish of about 500–700 g feeds two people with rice and side dishes."
+        },
+        {
+          "q": "Is the fish at Begnas safe to eat?",
+          "a": "Freshly cooked fish from busy restaurants is generally safe. Choose places that cook to order and serve it hot, ask for it well fried, and avoid raw salads if you have a sensitive stomach. Drink bottled or filtered water. Busy weekend restaurants have a high turnover, which helps freshness."
+        },
+        {
+          "q": "Are there vegetarian options at Begnas?",
+          "a": "Yes. Every restaurant serves vegetarian dal bhat with rice, lentils, seasonal vegetables and pickle, and most can make vegetable curry, chowmein or pakoras. Jain meals without onion and garlic are possible if you ask clearly in advance. Pure vegetarian kitchens are rare, as fish is the speciality."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is Begnas Lake from Pokhara?",
+      "a": "About 15 km east of Lakeside, a drive of 30–40 minutes by taxi or private car via the Prithvi Highway and the Begnas road. From the airport it is about 25 minutes. Local buses from Prithvi Chowk take about an hour and stop at Begnas Bazaar near the lake."
+    },
+    {
+      "q": "Is Begnas Lake worth visiting?",
+      "a": "Yes, if you have three or more nights in Pokhara. It is quieter than Phewa, with cheaper boats, a ridge walk overlooking two lakes and fresh fish lunches. It suits families and couples who want a slower half-day. On a two-night trip, prioritise Phewa and Sarangkot."
+    },
+    {
+      "q": "What is the best time to visit Begnas Lake?",
+      "a": "October to March, when skies are clear and the Annapurnas show above the northern hills. Mornings are best for calm water and views. From April haze builds, and June to September brings heavy rain and cloud, though the hills are green and the rice terraces planted."
+    },
+    {
+      "q": "How big is Begnas Lake?",
+      "a": "Begnas is the second-largest of the seven lakes in the Pokhara valley after Phewa and among the largest lakes in Nepal. Its water level is regulated by a dam built in 1988 on the outlet stream and changes with the seasons and irrigation use."
+    },
+    {
+      "q": "Can I stay at Begnas Lake?",
+      "a": "Yes. There are a few small resorts, eco-lodges and homestays around the lake, some with lake views, offering a quiet alternative to Lakeside. Facilities are simpler than in Pokhara. Most travellers still stay in Pokhara and visit Begnas for half a day."
+    },
+    {
+      "q": "Is Begnas Lake good for kids?",
+      "a": "Yes. Boats are stable, life jackets are provided, the ridge walk to Rupa Lake is short and children enjoy choosing a fish for lunch. Keep children away from the edge of the fish cages and the dam. A half-day trip is the right length for young children."
+    },
+    {
+      "q": "What is the difference between Begnas and Rupa lakes?",
+      "a": "Begnas is larger and has boats, restaurants and a small bazaar. Rupa, just east over the Panchabhaiya Danda ridge, is smaller, reedier and almost undeveloped, with a community fishery and good winter birdwatching. Most visitors row on Begnas and walk to a viewpoint over Rupa."
+    },
+    {
+      "q": "Are there toilets and facilities at Begnas Lake?",
+      "a": "Begnas Bazaar and the restaurants near the dam have basic toilets, shops and tea stalls. There is no visitor centre. Carry tissues and hand sanitiser, and use restaurant toilets when you stop for lunch. Facilities around Rupa Lake are very limited."
+    },
+    {
+      "q": "Can I see the Annapurnas from Begnas Lake?",
+      "a": "Yes, on clear mornings from October to March. Machhapuchhre and the Annapurna range appear above the northern hills, and the best view is from the ridge between Begnas and Rupa lakes. From the boat landing near the dam the view is partly blocked by the surrounding hills."
+    }
+  ]
+}

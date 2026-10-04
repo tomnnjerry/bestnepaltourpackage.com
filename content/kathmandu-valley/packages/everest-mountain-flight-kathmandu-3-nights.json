@@ -1,0 +1,133 @@
+{
+  "slug": "everest-mountain-flight-kathmandu-3-nights",
+  "title": "Everest Mountain Flight and Kathmandu, 3 Nights",
+  "region": "kathmandu-valley",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["heli-tours", "short-breaks", "photography", "cultural-tours"],
+  "stops": [
+    {"place": "kathmandu", "nights": 3}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 30000,
+  "price_from_usd": 430,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1420,
+  "accommodation": "3-star hotel in Kathmandu (Thamel or Boudha)",
+  "transport": "Fixed-wing pressurised mountain flight from Kathmandu domestic terminal, private car with driver",
+  "group": "Private, 1–12; you share the aircraft with other passengers",
+  "meta_description": "Everest mountain flight package, 4 days: a 1-hour dawn flight by pressurised plane past Everest, plus Kathmandu heritage sites. From ₹30,000.",
+  "summary": "See Everest in one hour without trekking or altitude risk. The Everest mountain flight is a fixed-wing, pressurised airliner, not a helicopter: it leaves Kathmandu at dawn, cruises at about 7,600 m along the Himalaya and returns without landing. Around it we fit three days of Kathmandu's temples and old squares, with a spare morning for weather.",
+  "intro": [
+    "Let us be clear about the aircraft first, because many travellers expect a helicopter. The Everest mountain flight uses twin-engine turboprop planes, such as the ATR 72 or Beechcraft 1900D flown by Buddha Air and other domestic airlines (check current operators before you travel). The cabin is pressurised, so you breathe normally while the plane cruises at about 7,600 m (25,000 ft). It does not land anywhere. Each passenger is seated at a window, and the crew invite everyone forward in turn for a few seconds of the view from the cockpit.",
+    "The flight lasts about an hour. Heading east, you pass Langtang Lirung, Dorje Lakpa, Gauri Shankar and Cho Oyu before the plane turns near Everest (8,849 m), with Lhotse, Nuptse, Makalu and Ama Dablam close by. Flights leave between about 6:30 and 7:30 am, when the air is clearest, and are cancelled if cloud covers the range. That is why this package keeps one morning free and fills the rest of the time with Pashupatinath, Boudhanath, Bhaktapur, Patan and Swayambhunath."
+  ],
+  "highlights": [
+    "One-hour dawn flight past Everest in a pressurised fixed-wing plane, not a helicopter",
+    "Window seat for every passenger and a turn in the cockpit",
+    "Cho Oyu, Everest, Lhotse, Makalu and Gauri Shankar from about 7,600 m",
+    "No trekking, no landing and no altitude sickness risk",
+    "Spare morning built in for cloud cancellations",
+    "Pashupatinath, Boudhanath, Bhaktapur, Patan and Swayambhunath"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, flight briefing",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 20–30 min",
+      "flight": "",
+      "text": "Our driver meets you at Tribhuvan International Airport and takes you to your hotel. In the evening our travel desk walks you through tomorrow: wake-up around 5 am, pick-up at 5:30 am, the domestic terminal check-in, and the airline's ticket and seat. We also explain what happens if the flight is postponed, so there are no surprises at the counter. Eat light, go to bed early, and keep your passport or voter ID ready; airlines will not board you without the same photo ID used for booking.",
+      "meals": "—"
+    },
+    {
+      "day": 2,
+      "title": "Dawn Everest flight, Pashupati and Boudha",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 2 h at the sites",
+      "drive": "≈ 25 km · 1.5 h in total",
+      "flight": "Kathmandu–Everest range–Kathmandu · ≈ 60 min, no landing",
+      "text": "Check-in opens about an hour before take-off at the domestic terminal. Once airborne, the plane climbs to about 7,600 m and flies east with the Himalaya on the left, then turns so the right side gets the same view home. A flight attendant names each peak from Gosainthan to Everest, Lhotse and Makalu. Back on the ground by about 8:30 am, you rest, then visit Pashupatinath on the Bagmati in the afternoon and walk the kora around Boudhanath as the butter lamps are lit at dusk.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Spare morning, Bhaktapur and Patan",
+      "place": "bhaktapur",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1401,
+      "walk": "≈ 3.5 h at the sites",
+      "drive": "≈ 40 km · 2 h in total",
+      "flight": "",
+      "text": "If yesterday's flight was cancelled for cloud, the airline usually rebooks you on this morning's departure, and our driver takes you back to the domestic terminal at 5:30 am. Otherwise, sleep in. Late morning we drive 13 km east to Bhaktapur: Taumadhi Square and the five-tiered Nyatapola temple, the potters spinning clay wheels in Pottery Square, and a cup of juju dhau, the local sweet yoghurt. In the afternoon cross to Patan for the stone Krishna Mandir, the Golden Temple and the bronze workshops around Durbar Square.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Swayambhunath and departure",
+      "place": "swayambhunath",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 1 h with steps",
+      "drive": "≈ 15 km · 1 h",
+      "flight": "",
+      "text": "Before your flight home, climb the eastern stairway to Swayambhunath, the stupa on a wooded hill at about 1,420 m with the painted eyes of the Buddha looking out over all four directions. Monkeys patrol the railings, and the view from the top takes in the old city and, on clear winter mornings, the snow peaks of Langtang and Ganesh Himal to the north. If yesterday's flight had to move to this morning, we drop Swayambhu and go straight from the domestic terminal to the international departures hall.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Everest mountain flight ticket with a guaranteed window seat, airport tax and fuel surcharge",
+    "3 nights in a 3-star Kathmandu hotel with breakfast, twin sharing",
+    "Early-morning hotel–domestic terminal transfers for the flight (and the spare morning if needed)",
+    "Airport pick-up and drop-off for your international flights",
+    "Guided sightseeing at Pashupatinath, Boudhanath, Bhaktapur, Patan and Swayambhunath with a licensed guide",
+    "Private car with driver for all sightseeing",
+    "Help with airline rebooking if the flight is postponed",
+    "All government taxes on included services"
+  ],
+  "excludes": [
+    "International flights or travel to the Nepal border",
+    "Nepal visa fee for non-Indian passport holders",
+    "Monument entry fees (about NPR 4,500 in total for foreigners, much less for SAARC nationals)",
+    "Lunches, dinners and drinks",
+    "Extra nights if both flight mornings are cancelled",
+    "Travel insurance",
+    "Tips for guide and driver",
+    "Personal shopping and laundry"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing a 3-star room, the Indian-national airfare for the mountain flight (about ₹13,000–17,000) and shared seats on a scheduled flight; the USD price includes the foreigner fare of about US$ 200–250. Fares change, so check current status before you travel.",
+    "Flights depend on clear skies over the range. If the airline cancels, you are rebooked on the next morning or refunded the fare in full; mountain flights rarely operate on cloudy monsoon days.",
+    "Because the cabin is pressurised and the plane never lands, there is no altitude sickness risk. Babies with blocked ears and anyone with a recent ear or sinus infection may feel pressure pain on descent.",
+    "Women in late pregnancy, people within a few weeks of surgery and anyone told by a doctor not to fly should not book; the airline may ask for a fitness-to-fly letter.",
+    "Window seats are on both sides of the cabin: the plane flies out with the peaks on the left and comes back with them on the right, so every passenger gets a clear look from their own window."
+  ],
+  "add_ons": [
+    {"name": "Everest base camp helicopter tour with landing instead (shared seat)", "price": "≈ US$ 1,100–1,400 per seat"},
+    {"name": "Upgrade to a 5-star Kathmandu hotel", "price": "from ≈ ₹5,000 per person per night"},
+    {"name": "Nagarkot overnight for Himalayan sunrise", "price": "≈ ₹4,500 per person"}
+  ],
+  "faqs": [
+    {"q": "Is the Everest mountain flight a helicopter or a plane?", "a": "It is a plane. Airlines fly twin-engine, pressurised turboprops such as the ATR 72 or Beechcraft 1900D on a fixed route along the Himalaya and back to Kathmandu, selling window seats only. If you want to land near Everest, you need a helicopter tour to Kala Patthar or Everest View Hotel, which costs four to five times more."},
+    {"q": "Does the Everest mountain flight land anywhere?", "a": "No. The flight takes off from Kathmandu, cruises east at about 7,600 m to the Everest region, turns and returns to Kathmandu after roughly an hour without landing. You never leave the cabin, so there is no walking, no cold and no exposure to thin air. Landings near Everest are possible only by helicopter."},
+    {"q": "What is the Everest flight cost for Indian nationals?", "a": "Indian nationals pay a lower fare in rupees, roughly ₹13,000–17,000 per person depending on the airline and season, while other foreign passport holders pay about US$ 200–250. Our package price already includes the ticket, airport tax, hotels and sightseeing. Fares change with fuel prices, so check current status before you travel."},
+    {"q": "What happens if the mountain flight is cancelled due to weather?", "a": "The airline either rebooks you on the next available morning or refunds the full fare. That is why we keep day 3 morning free. If both mornings are cancelled, you can take the refund, stay an extra night at extra cost, or try again on a later trip. Cancellations are most frequent from June to September."},
+    {"q": "Can children and senior citizens take the Everest flight?", "a": "Yes. The pressurised cabin makes it one of the easiest ways for children, grandparents and travellers with limited mobility to see Everest. Children need their own seat and ticket, often at a reduced fare. The only effort is getting up at 5 am and walking through the domestic terminal and onto the aircraft by steps."},
+    {"q": "Who should not take the Everest mountain flight?", "a": "Women in late pregnancy, anyone recovering from recent surgery or a heart attack, and people with an active ear or sinus infection should not fly. Airlines follow the same rules as any short domestic flight, so if your doctor says you can fly, you can take this one. Altitude sickness is not a concern because the cabin is pressurised."},
+    {"q": "Will I really see Everest from my seat?", "a": "On a clear morning, yes. Every passenger has a window seat, and the plane turns near the Everest range so both sides get a good view on one leg. The crew also invite each passenger to the cockpit for a few seconds of the forward view. In haze, which is common in late April and May, peaks can look faint."},
+    {"q": "What is the best month for the Everest mountain flight?", "a": "October, November and December give the clearest skies and the most reliable departures. February to April is also good, though spring haze can soften photos by mid-April. From June to September monsoon cloud covers the range on most mornings, so many flights are cancelled and views are partial even when they go."},
+    {"q": "What should I wear and bring on the flight?", "a": "Normal clothes and a light jacket for the 5:30 am pick-up are enough; the cabin is heated. Bring your passport or voter ID, a phone or camera with a charged battery, and a lens cloth because the windows can mist. Sit close to the window and avoid flash. Large bags stay at the hotel."}
+  ]
+}

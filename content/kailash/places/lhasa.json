@@ -1,0 +1,132 @@
+{
+  "slug": "lhasa",
+  "name": "Lhasa",
+  "region": "kailash",
+  "kind": "city",
+  "wiki": "Lhasa",
+  "image_query": "Potala Palace Lhasa morning",
+  "lat": 29.652,
+  "lng": 91.117,
+  "altitude_m": 3656,
+  "tagline": "Potala, Jokhang and Barkhor at 3,656 m, a short flight from Kathmandu",
+  "meta_description": "Lhasa travel from Kathmandu: Potala Palace, Jokhang, Barkhor, Sera debates, permits and Chinese group visa, best months, hotels and altitude tips.",
+  "summary": "Lhasa, at 3,656 m, is the capital of Tibet and home to the Potala Palace, the Jokhang temple and the Barkhor pilgrim circuit. From Kathmandu it is about a 75–90 minute flight. Foreigners need a Chinese group visa and Tibet Travel Permit arranged through a licensed agency; plan 3–4 nights.",
+  "intro": [
+    "Lhasa sits in the Kyi Chu valley at 3,656 m, ringed by bare brown hills. The Potala Palace, thirteen storeys of white and red walls on Marpo Ri hill, was the winter seat of the Dalai Lamas and dominates the city. A few kilometres east, the Jokhang temple, founded in the 7th century, is the holiest shrine in Tibet, and pilgrims circle it clockwise on the Barkhor with prayer wheels and prostrations from dawn until late evening.",
+    "For travellers from Nepal, Lhasa is the easiest way into Tibet: a flight of about 75–90 minutes from Kathmandu to Lhasa Gonggar airport, then about an hour by road to the city. Most tours spend three or four nights here to adapt to the altitude while visiting the Potala, Jokhang, Sera and Drepung monasteries and the Norbulingka summer palace. Lhasa is also the start of overland journeys west to Shigatse, Everest's north side and Kailash.",
+    "Independent travel is not allowed for foreigners. You travel with a licensed Tibetan guide on a set itinerary, with a Chinese group visa issued in Kathmandu for most nationalities and a Tibet Travel Permit arranged by the agency. Tibet usually closes to foreign tourists for several weeks around February and March, and rules for Indian passport holders differ. Check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "3,656 m"],
+    ["Best months", "Apr – Jun · Sep – Oct"],
+    ["Nights we suggest", "3–4"],
+    ["Nearest airport", "Lhasa Gonggar (≈ 60 km, 1 h)"],
+    ["From Kathmandu", "≈ 75–90 min flight"],
+    ["Known for", "Potala Palace, Jokhang, Barkhor, Sera debates"]
+  ],
+  "best_months": [1, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 1],
+  "nights": "4",
+  "highlights": [
+    {"title": "Potala Palace", "text": "The 17th-century palace holds the tombs of eight Dalai Lamas, assembly halls and private apartments. Entry is by timed ticket with about an hour inside, after a climb of several hundred steps that is hard work at 3,700 m. Photography is not allowed in the interior chapels."},
+    {"title": "Jokhang and the Barkhor", "text": "The Jokhang houses the Jowo Shakyamuni statue said to have come with Princess Wencheng in the 7th century. Outside, the Barkhor circuit of about 1 km fills with pilgrims, juniper smoke and stalls selling butter, incense and prayer flags."},
+    {"title": "Monks debating at Sera", "text": "On most weekday afternoons, monks at Sera Monastery gather in a walled courtyard to debate Buddhist philosophy, clapping and stamping to make each point. Visitors watch from the edge; it is one of the liveliest sights in the city."},
+    {"title": "Drepung, once the largest monastery", "text": "Founded in 1416 on the hillside west of town, Drepung once housed thousands of monks. Its white buildings climb the slope, and the kitchens with giant pots and the Ganden Palace give a sense of its old scale."},
+    {"title": "Norbulingka summer palace", "text": "The walled park of the Dalai Lamas' summer residence has gardens, pavilions and the palace built for the 14th Dalai Lama in the 1950s. During the Shoton festival in August or September it hosts Tibetan opera."},
+    {"title": "Day trips out of the city", "text": "Yamdrok Lake (≈ 110 km) and Ganden Monastery (≈ 50 km) are full-day trips. Namtso lake, at about 4,718 m, is a long day or an overnight and needs good acclimatisation first."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Direct flights connect Kathmandu with Lhasa Gonggar in about 75–90 minutes, operated in recent seasons by Chinese carriers such as Air China, Sichuan Airlines and Tibet Airlines. Schedules thin out in winter; check current status before you travel. Sit on the left from Kathmandu for Himalayan views."},
+    {"mode": "Road", "text": "Overland from Kathmandu via Kyirong, Saga or Old Tingri and Shigatse takes 4–6 days, rising over passes above 5,000 m. The Rasuwagadhi–Kyirong crossing was damaged by floods in 2025 and again in August 2026; check current status before you travel."},
+    {"mode": "Rail", "text": "The Qinghai–Tibet railway reaches Lhasa from Xining and other Chinese cities. It is useful only if you enter China elsewhere; travellers from Nepal fly or drive."}
+  ],
+  "where_to_stay": "The old town around the Jokhang and Barkhor is the most atmospheric base, with Tibetan-style hotels within walking distance of the temple. Beijing East Road has long-running mid-range hotels such as the Yak Hotel. For more space and calm, the upscale properties lie a short drive away: the St. Regis Lhasa Resort on Jiangsu Road, about 1.5 km from the Jokhang, and the Shangri-La Hotel Lhasa on Norbulingka Road, close to the Norbulingka and the Potala. Our Lhasa tours use 3-star, 4-star or 5-star rooms depending on the package, all with heating and many with room oxygen on request.",
+  "stays": ["st-regis-lhasa-resort", "shangri-la-hotel-lhasa", "yak-hotel-lhasa"],
+  "tips": [
+    "Keep the first afternoon free of sightseeing and climbing stairs; most visitors feel the altitude in the first 24 hours.",
+    "Carry your passport every day; police checkpoints around the Barkhor and Potala check documents.",
+    "Walk the Barkhor clockwise and do not photograph pilgrims prostrating without asking.",
+    "Book Potala tickets early in May to October; your guide must reserve a time slot, often days ahead.",
+    "Drink no alcohol for the first two days and plenty of water and sweet tea."
+  ],
+  "themes": ["cultural-tours", "buddhist-circuit", "photography", "luxury-nepal"],
+  "nearby": ["shigatse", "gyantse"],
+  "experiences": [
+    {
+      "slug": "lhasa-potala-palace-visit",
+      "title": "Inside the Potala Palace",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning slot, Apr–Oct",
+      "price_hint": "Ticket ≈ CNY 200 in season, included in our tours",
+      "image_query": "Potala Palace Lhasa white palace",
+      "wiki": "Potala Palace",
+      "summary": "A guided visit to the White and Red Palaces of the Potala, the 17th-century seat of the Dalai Lamas, with timed entry and about an hour inside. The climb up the steps at around 3,700 m is the main effort.",
+      "body": [
+        "Visits run on timed tickets that your guide books in advance, often several days ahead in summer. You enter at the base and climb a long ramp of stone steps up the south face, which can take 20–30 minutes at a gentle pace. Rest at each landing; the altitude is about 3,700 m and the steps are steep. Water bottles and lighters are not allowed past security.",
+        "Inside, the route passes through the White Palace, with the former living quarters of the Dalai Lamas, and into the Red Palace with its chapels and the gilded tomb stupas of eight Dalai Lamas, the largest that of the 5th. Butter lamps, murals and thousands of statues line the dim rooms. Visitors are given about an hour inside, and photography is forbidden in the chapels.",
+        "You leave by the back of the hill and walk down to the Potala's kora path, where pilgrims spin prayer wheels around the base. For the classic photograph of the palace, go to Chakpori hill opposite, the viewpoint shown on the 50-yuan note. Late afternoon light on the white walls is the best."
+      ],
+      "good_for": ["first-timers", "couples", "families", "photographers"],
+      "faqs": [
+        {"q": "How much time is allowed inside the Potala Palace?", "a": "Visitors are usually allowed about an hour inside the palace once past the entry gate, and the route is one-way. Allow 2–3 hours overall including the climb and descent. Guides must book a time slot in advance, so the visit is fixed in your itinerary, often on the second or third day in Lhasa."},
+        {"q": "Is the Potala Palace climb difficult?", "a": "It is a steady climb of several hundred steps to about 3,700 m, which feels hard if you arrived in Lhasa the previous day. Most people manage at a slow pace with rests. That is why we schedule the Potala on day two or three, after a gentle first day."},
+        {"q": "Can I take photos inside the Potala?", "a": "No. Photography is not allowed in the interior chapels and halls, and staff enforce it. You can photograph the exterior, the courtyards and the views over Lhasa from the terraces. Chakpori hill opposite gives the classic full view of the palace."}
+      ]
+    },
+    {
+      "slug": "lhasa-jokhang-barkhor-kora",
+      "title": "Jokhang temple and the Barkhor kora",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Early morning or evening",
+      "price_hint": "Jokhang ticket ≈ CNY 85, included in our tours",
+      "image_query": "Jokhang temple pilgrims prostrating",
+      "wiki": "Jokhang",
+      "summary": "Visit Tibet's holiest temple, home of the Jowo Shakyamuni, then walk the 1 km Barkhor circuit clockwise among pilgrims, prayer wheels and juniper smoke. The roof terrace looks over the square to the Potala.",
+      "body": [
+        "The Jokhang was founded in the 7th century in the reign of King Songtsen Gampo, and pilgrims arrive from all over Tibet, many after weeks on the road. In front of the main door they prostrate on flagstones worn smooth by centuries of bodies. Inside, a line of pilgrims carrying butter and khata scarves moves slowly through the chapels to the Jowo Shakyamuni, the most venerated statue in the Tibetan world.",
+        "Climb to the roof for gilded deer and dharma wheels against the sky and a view across Barkhor Square to the Potala. Then step outside and join the Barkhor, the circuit of about 1 km around the temple. Walk clockwise, keep pace with the elderly pilgrims spinning prayer wheels, and watch the stalls selling butter, incense, beads and rugs.",
+        "Mornings are busiest with pilgrims; evenings are softer, with lamps lit and families walking together. Security checks at the entrances to the old town are routine; carry your passport. Photography inside the chapels is not allowed, and you should ask before photographing anyone outside."
+      ],
+      "good_for": ["pilgrims", "couples", "solo", "photographers"],
+      "faqs": [
+        {"q": "What is the Barkhor kora in Lhasa?", "a": "The Barkhor is the pilgrim circuit of about 1 km around the Jokhang temple, walked clockwise. Tibetans walk it daily, often several times, spinning prayer wheels and reciting mantras. It takes 20–30 minutes at pilgrim pace and is lined with shops and old houses. Visitors are welcome to join, keeping to the clockwise direction."},
+        {"q": "Why is the Jokhang important?", "a": "The Jokhang is considered the most sacred temple in Tibet. It houses the Jowo Shakyamuni, a statue of the Buddha at age twelve said to have been brought by the Chinese princess Wencheng in the 7th century. For Tibetan Buddhists, a pilgrimage to Lhasa centres on seeing this statue."},
+        {"q": "What should I wear to the Jokhang?", "a": "Wear modest clothing that covers shoulders and knees, and remove hats inside chapels. Comfortable walking shoes help on the uneven floors and roof steps. Mornings are cold even in summer, so carry a warm layer. Avoid pointing your feet at altars when sitting."}
+      ]
+    },
+    {
+      "slug": "lhasa-sera-monastery-debate",
+      "title": "Monk debate at Sera Monastery",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Afternoons, Mon–Sat, about 3–5 pm",
+      "price_hint": "Ticket ≈ CNY 50, included in our tours",
+      "image_query": "Sera Monastery monks debating courtyard",
+      "wiki": "Sera Monastery",
+      "summary": "Watch monks debate Buddhist philosophy in the walled courtyard of Sera, a Gelug monastery founded in 1419 on Lhasa's northern edge, with clapping, gestures and laughter that make the arguments easy to follow without words.",
+      "body": [
+        "Sera lies about 5 km north of the Potala at the foot of the hills. Founded in 1419 by a disciple of Tsongkhapa, it was one of the three great Gelug monasteries of Lhasa. Visits usually start in the late morning or early afternoon with the main assembly hall and colleges, where chapels hold statues, murals and the horse-headed deity Hayagriva, to whom parents bring children for blessings.",
+        "From around 3 pm on most days except Sundays and holidays, monks gather in the debate courtyard under old trees. A standing monk poses a question, then claps and stamps forward to challenge his seated partner. Pairs argue in rapid Tibetan, laughing and teasing, and the scene runs for an hour or more. Visitors watch from the edges; camera use is generally allowed in the courtyard, though some areas charge a separate fee.",
+        "After the debate, walk part of the Sera kora, a path of about an hour around the monastery walls past painted rock carvings. It is gentle enough for a second-day activity and a good way to adapt to Lhasa's altitude."
+      ],
+      "good_for": ["photographers", "families", "first-timers", "groups"],
+      "faqs": [
+        {"q": "What time is the monk debate at Sera Monastery?", "a": "Debates usually run from around 3 pm to 5 pm on weekdays and Saturdays, but the schedule depends on the monastery's calendar and festivals, and debates are sometimes cancelled. Your guide checks on the day. Sundays and some holy days generally have no debate."},
+        {"q": "Can I take photographs of the Sera debate?", "a": "Photography is normally allowed in the debate courtyard, but rules for chapels are stricter and some rooms charge a camera fee or forbid photos. Keep a respectful distance, do not use flash and never walk between debating monks. Your guide will tell you the current rules."},
+        {"q": "How far is Sera Monastery from the Jokhang?", "a": "Sera is about 5–6 km north of the Jokhang and Barkhor, around 15–20 minutes by vehicle depending on traffic. Our tours combine it with Drepung Monastery on the same day, visiting Drepung in the morning and Sera for the afternoon debate."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get from Kathmandu to Lhasa?", "a": "The quickest way is a direct flight of about 75–90 minutes from Kathmandu to Lhasa Gonggar, followed by an hour's drive to the city. Overland via Kyirong and Shigatse takes 4–6 days when the Rasuwagadhi border is open. Either way you need a Chinese group visa and Tibet Travel Permit arranged by a licensed agency."},
+    {"q": "Do I need a visa and permit for Lhasa?", "a": "Yes. Foreigners entering Tibet from Nepal normally need a Chinese group visa issued by the Chinese embassy in Kathmandu and a Tibet Travel Permit obtained by a licensed Tibetan agency. China's visa-free schemes do not remove the need for the Tibet permit. Rules change, so check current status before you travel."},
+    {"q": "Can Indian passport holders visit Lhasa?", "a": "Indian nationals need the same Tibet Travel Permit, and in recent seasons permits for Indians have been issued mainly for the Kailash yatra; Lhasa sightseeing tours have been possible in some years and not others. Visa processing for resident Indians has run through New Delhi. Check current status before you travel."},
+    {"q": "How many days do I need in Lhasa?", "a": "Three to four nights is right for most visitors: a rest day on arrival, a day for the Potala and Jokhang, a day for Drepung and Sera, and an optional day trip to Yamdrok Lake or Ganden. Five nights lets you add Namtso or slow down for altitude."},
+    {"q": "Will I get altitude sickness in Lhasa?", "a": "Many visitors feel headache, breathlessness or poor sleep in the first 24–48 hours at 3,656 m, especially after flying straight from Kathmandu at 1,400 m. Rest on day one, drink 3 litres of water, avoid alcohol and ask your doctor about acetazolamide. Severe symptoms need medical attention."},
+    {"q": "What is the best time to visit Lhasa?", "a": "April to June and September to October bring clear skies and comfortable days of 15–22 °C. July and August are warm with afternoon rain. Winter is cold but sunny and quiet. Tibet often closes to foreign tourists for weeks around February and March, so check current status before you travel."},
+    {"q": "Can I explore Lhasa on my own?", "a": "Foreign visitors must travel with a licensed guide and driver on a set itinerary, but within the old town you can usually walk the Barkhor and nearby lanes freely in the evenings. Leaving the city requires the guide to accompany you through checkpoints."},
+    {"q": "How much does a Lhasa tour from Kathmandu cost?", "a": "Our 5-night fly-in Lhasa tour starts from about ₹1,15,000 (US$1,340) per person, twin sharing, including return flights from Kathmandu, group visa, Tibet permit, 3-star hotels, guide and entrance fees. 5-star stays at the St. Regis or Shangri-La add significantly. Flight fares drive most of the cost."},
+    {"q": "Is Lhasa safe for tourists?", "a": "Lhasa has low street crime and a visible security presence, with checkpoints around the old town. The bigger risks are altitude, strong sun and dry air. Follow your guide's instructions at religious sites, avoid political discussion, and do not carry images or books that authorities may consider sensitive."}
+  ]
+}

@@ -1,0 +1,17 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ f.name }}: Dates, Where and How to See It{% endblock %}
+{% block meta_description %}{{ f.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %}data-land="{{ f.region }}"{% endblock %}
+{% block main %}
+<header class="phead"><div class="phead__bg">{% photo f|first_img f.name "" "100vw" True True %}</div><div class="wrap"><div class="phead__in">
+  <p class="kicker">{% icon "lamp" %}{% if f.place_obj %}<a href="{{ f.place_obj.url }}">{{ f.place_obj.name }}</a> · {% endif %}{{ f.region_obj.name }}</p><h1>{{ f.name }}</h1><p class="phead__lede">{{ f.summary }}</p>
+  <ul class="phead__facts"><li>{% icon "calendar" %}{{ f.when }}</li></ul>
+</div></div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight"><div class="split"><article class="prose">
+  {% for para in f.body %}<p>{{ para }}</p>{% endfor %}
+  {% if f.tips %}<h2 class="h2">Tips</h2><ul class="ticks">{% for t in f.tips %}<li>{% icon "check" %}<span>{{ t }}</span></li>{% endfor %}</ul>{% endif %}
+  {% include "tours/partials/faqs.html" with faqs=f.faqs %}
+</article><aside class="aside"><div class="panel"><h2 class="h3">Usual months</h2>{% include "tours/partials/months.html" %}<p class="muted" style="margin-top:10px;font-size:.88rem">Dates follow the lunar calendar. Check current status before you travel.</p></div>
+{% include "tours/partials/quick_form.html" with heading="Plan around "|add:f.name region=f.region where="festival-aside" %}</aside></div></div>
+{% if packages %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Trips for this season</h2></div><div class="passes">{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

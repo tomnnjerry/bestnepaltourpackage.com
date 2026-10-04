@@ -1,0 +1,105 @@
+{
+  "slug": "lobuche-east-peak-climbing-17-days",
+  "title": "Lobuche East Peak Climbing 17 Days",
+  "region": "everest",
+  "type": "climb",
+  "grade": "Strenuous",
+  "nights": 16,
+  "themes": ["peak-climbing", "trekking", "adventure-sports", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "namche-bazaar", "nights": 3},
+    {"place": "dingboche", "nights": 2},
+    {"place": "lobuche", "nights": 4},
+    {"place": "gorak-shep", "nights": 1},
+    {"place": "everest-base-camp", "nights": 0},
+    {"place": "kala-patthar", "nights": 0},
+    {"place": "pangboche", "nights": 1},
+    {"place": "lukla", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 210000,
+  "price_from_usd": 2390,
+  "best_months": [0, 0, 0, 2, 2, 0, 0, 0, 0, 2, 2, 0],
+  "max_altitude_m": 6119,
+  "accommodation": "3-star hotel in Kathmandu (1 night), teahouse lodges, tented high camp",
+  "transport": "Kathmandu–Lukla return flights (or Ramechhap–Lukla with private road transfer), private transfers",
+  "group": "Private or small group, 2–6; climbing guide ratio 1:2 on summit day",
+  "meta_description": "Lobuche East peak climbing 17 days with Everest Base Camp and Kala Patthar: summit 6,119 m, PD+ to AD- grade, fixed ropes on 45–50° snow, permit included.",
+  "summary": "A 17-day climb of Lobuche East (6,119 m) combined with the Everest Base Camp trek. After acclimatising at Gorak Shep and Kala Patthar, you climb from a high camp at about 5,400 m over rock slabs and steep snow on fixed ropes to a summit ridge with one of the closest views of Everest from any climbing peak.",
+  "intro": [
+    "Lobuche East rises directly above the lodges at Lobuche, on the main Everest Base Camp trail. Its south ridge, the standard route, starts on rocky slabs above a high camp at around 5,400 m, then climbs a glacier and a steep snow and ice face of 45–50° on fixed ropes to the summit ridge. The true summit at 6,119 m lies beyond a dip along a narrow, corniced crest; many commercial teams stop at a slightly lower false summit when conditions on that crest are poor. From the top, Everest, Lhotse, Nuptse, Ama Dablam and Pumori surround you.",
+    "Lobuche East is steeper and more sustained than Island Peak and is graded PD+ to AD- on the Alpine scale. Everest climbers often use it for acclimatisation and rope practice. Our itinerary puts it after Everest Base Camp and Kala Patthar, so you arrive at high camp with nights at 5,164 m behind you. You should be fit, comfortable with exposure and ideally have used crampons and a jumar before; we run a skills session on the way. The price includes the NMA permit, a licensed climbing guide, high camp and group gear."
+  ],
+  "highlights": [
+    "Summit ridge of Lobuche East at 6,119 m facing Everest",
+    "Steep 45–50° snow face on fixed ropes",
+    "Everest Base Camp and Kala Patthar as acclimatisation",
+    "High camp at about 5,400 m above the Khumbu Glacier",
+    "A step up from Island Peak for aspiring mountaineers"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, gear check", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "", "text": "Transfer to a 3-star hotel in Thamel. In the afternoon your climbing guide checks boots, crampons, harness, helmet, ascender and descender, and arranges any hire. The climbing permit is processed in advance, so you fly to Lukla tomorrow. Briefing over dinner on the route, the turnaround time and how we decide between the false and true summit.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lukla, walk to Phakding", "place": "phakding", "overnight": "Phakding", "altitude_m": 2610, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "Fly into Lukla and walk the easy trail down the Dudh Koshi to Phakding. Climbing gear travels separately by porter or yak to Lobuche, so you carry only a light daypack.", "meals": "B, L, D"},
+    {"day": 3, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3440, "walk": "≈ 5–6 h · 10–11 km", "drive": "", "flight": "", "text": "Follow the river past Monjo and the park gate, cross the Hillary Bridge and climb the 600 m hill to Namche. Namche's gear shops are useful for spare gloves, liner socks or a warmer hat.", "meals": "B, L, D"},
+    {"day": 4, "title": "Namche acclimatisation", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3880, "walk": "≈ 4–5 h · 7 km loop", "drive": "", "flight": "", "text": "Hike to Hotel Everest View and Khumjung and back, gaining about 450 m. Afternoon rest. From here your guide records oxygen saturation and pulse each evening.", "meals": "B, L, D"},
+    {"day": 5, "title": "Namche to Tengboche", "place": "tengboche", "overnight": "Tengboche or Deboche", "altitude_m": 3867, "max_m": 3867, "walk": "≈ 5–6 h · 10 km", "drive": "", "flight": "", "text": "Walk the balcony trail to Kyangjuma and climb through forest to Tengboche Monastery. Attend the afternoon puja; many climbers ask for a blessing before heading to the mountains.", "meals": "B, L, D"},
+    {"day": 6, "title": "Tengboche to Dingboche", "place": "dingboche", "overnight": "Dingboche", "altitude_m": 4410, "max_m": 4410, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Through Pangboche and into the Imja valley to Dingboche at 4,410 m. The afternoon is for rest and fluids.", "meals": "B, L, D"},
+    {"day": 7, "title": "Dingboche acclimatisation", "place": "dingboche", "overnight": "Dingboche", "altitude_m": 4410, "max_m": 5083, "walk": "≈ 3–5 h · 5 km", "drive": "", "flight": "", "text": "Climb the Nangkartshang ridge towards 5,083 m, then return. In the afternoon, a first rope session: harness fitting, knots, clipping and moving past anchors on a fixed line set up near the village.", "meals": "B, L, D"},
+    {"day": 8, "title": "Dingboche to Lobuche", "place": "lobuche", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 4940, "walk": "≈ 5 h · 8 km", "drive": "", "flight": "", "text": "Cross to Dughla and climb to the Thukla memorials, then on to Lobuche. Lobuche East rises directly above the lodges: study its south ridge with your guide in the evening light.", "meals": "B, L, D"},
+    {"day": 9, "title": "Gorak Shep and Everest Base Camp", "place": "everest-base-camp", "overnight": "Gorak Shep", "altitude_m": 5164, "max_m": 5364, "walk": "≈ 7–8 h · 12 km", "drive": "", "flight": "", "text": "Walk the moraine to Gorak Shep and on to Everest Base Camp beneath the Khumbu Icefall. Sleep at 5,164 m, the key acclimatisation night before the climb.", "meals": "B, L, D"},
+    {"day": 10, "title": "Kala Patthar, return to Lobuche", "place": "kala-patthar", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 5644, "walk": "≈ 5–6 h · 9 km", "drive": "", "flight": "", "text": "Climb Kala Patthar at dawn to 5,644 m for sunrise on Everest, then descend via Gorak Shep to Lobuche. Rest the afternoon and pack climbing loads for tomorrow.", "meals": "B, L, D"},
+    {"day": 11, "title": "Lobuche to High Camp, skills training", "place": "lobuche", "overnight": "Lobuche High Camp (tents)", "altitude_m": 5400, "max_m": 5400, "walk": "≈ 3–4 h · 4 km", "drive": "", "flight": "", "text": "Walk past Lobuche East base camp and climb a rocky trail to high camp at about 5,400 m, perched on rock slabs with views of Ama Dablam, Cholatse and the Khumbu Glacier. In the afternoon, practise ascending with a jumar, abseiling with a figure-eight and moving between fixed-rope sections in crampons. Early dinner; wake-up is around midnight.", "meals": "B, L, D"},
+    {"day": 12, "title": "Summit Lobuche East, back to Lobuche", "place": "lobuche", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 6119, "walk": "≈ 10–12 h · 8 km", "drive": "", "flight": "", "text": "Leave camp at about 1 am. Scramble up rock slabs to the glacier, rope up and climb steepening snow, then the 45–50° face on fixed ropes to the summit ridge. Depending on conditions, your guide decides whether to continue along the narrow, corniced crest to the true summit at 6,119 m or stop at the false summit just below. Everest, Lhotse, Nuptse and Ama Dablam fill the view. Descend by abseil and down-climbing to high camp, then on to Lobuche.", "meals": "B, L, D"},
+    {"day": 13, "title": "Reserve day", "place": "lobuche", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 4940, "walk": "", "drive": "", "flight": "", "text": "Held in reserve for bad weather, high winds or a second summit attempt. If the summit went to plan, you rest at Lobuche or start the descent early and spend the spare day in Namche.", "meals": "B, L, D"},
+    {"day": 14, "title": "Lobuche to Pangboche", "place": "pangboche", "overnight": "Pangboche", "altitude_m": 3985, "max_m": 4940, "walk": "≈ 5–6 h · 13 km", "drive": "", "flight": "", "text": "Walk down past Dughla and Pheriche to Pangboche, losing nearly 1,000 m. Celebrate the climb with a big dinner below Ama Dablam, and visit Upper Pangboche's old monastery if you have the energy.", "meals": "B, L, D"},
+    {"day": 15, "title": "Pangboche to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3985, "walk": "≈ 5–6 h · 13 km", "drive": "", "flight": "", "text": "Walk via Tengboche and down through the forest to Phunki Thenga, then up to Kyangjuma and along the balcony trail into Namche for hot showers and bakery treats.", "meals": "B, L, D"},
+    {"day": 16, "title": "Namche Bazaar to Lukla", "place": "lukla", "overnight": "Lukla", "altitude_m": 2860, "max_m": 3440, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Descend to the Hillary Bridge and follow the Dudh Koshi back to Lukla. Farewell dinner with your climbing guide and crew, and summit bonuses and tips handed over.", "meals": "B, L, D"},
+    {"day": 17, "title": "Fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2860, "walk": "", "drive": "Ramechhap–Kathmandu in peak months · ≈ 130 km · 4–5 h", "flight": "Lukla–Kathmandu · 35 min (or Lukla–Ramechhap · 20 min)", "text": "Morning flight to Kathmandu, or to Ramechhap with a road transfer, and back to your hotel. Your summit certificate is arranged in Kathmandu. Keep a spare day before your international flight.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and 1 night in a 3-star Kathmandu hotel with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights, or Ramechhap–Lukla with private road transfers",
+    "Lobuche East climbing permit (NMA royalty) and garbage deposit handling",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "Teahouse lodges on the trek and tented high camp with cook",
+    "All meals on the trek and climb",
+    "Licensed climbing guide (1 per 2 climbers on summit day) and trekking guide",
+    "Group climbing gear: fixed ropes, ice screws, snow bars",
+    "Porters with wages, food and insurance",
+    "Emergency oxygen, first-aid kit and satellite phone"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Personal climbing gear (hire available in Kathmandu)",
+    "Travel insurance covering climbing to 6,500 m and helicopter rescue",
+    "Summit bonus for climbing guide",
+    "Hot showers, charging, Wi-Fi and drinks",
+    "Tips for trekking staff",
+    "Extra nights from weather delays"
+  ],
+  "good_to_know": [
+    "Price is per person for two or more climbers. The NMA royalty for peaks below 6,500 m was revised in September 2025 to about US$ 350 per climber in spring and US$ 175 in autumn; check current status before you travel.",
+    "Grade PD+ to AD- (Alpine): rock slabs, a glacier and a sustained 45–50° snow and ice face on fixed ropes, with an exposed summit ridge. Prior crampon and jumar experience is strongly recommended.",
+    "Many commercial teams turn at the false summit, roughly 30 minutes short of the true summit, when the connecting ridge is corniced or icy. Your guide decides on the day.",
+    "Personal gear: insulated mountaineering boots, crampons, harness, helmet, ice axe, ascender, descender, carabiners, slings, expedition down jacket and mitts.",
+    "Your insurance must cover mountaineering to 6,500 m and helicopter rescue. Spring and autumn are the only seasons we run this climb."
+  ],
+  "add_ons": [
+    {"name": "Climbing gear hire package in Kathmandu", "price": "≈ US$ 120–180 per person"},
+    {"name": "Helicopter return from Lobuche or Pheriche", "price": "≈ US$ 600–900 per seat shared"}
+  ],
+  "faqs": [
+    {"q": "Is Lobuche East harder than Island Peak?", "a": "Yes, generally. Lobuche East has a longer steep section of 45–50° on fixed ropes, rock slabs at the start and an exposed, sometimes corniced summit ridge. Island Peak has one shorter headwall. Lobuche East suits climbers with some crampon and rope experience."},
+    {"q": "How high is Lobuche East?", "a": "The true summit of Lobuche East is 6,119 m. Many commercial climbs stop at a false summit a little lower when conditions on the connecting ridge are poor. High camp sits at about 5,400 m and base camp near Lobuche at about 4,950 m."},
+    {"q": "Can a beginner climb Lobuche East?", "a": "Fit beginners have climbed it with good guides, but we recommend some prior crampon and jumar experience or a basic mountaineering course first. Island Peak or Mera Peak are better choices for a first Himalayan summit."},
+    {"q": "How much does Lobuche East climbing cost?", "a": "Our 17-day Lobuche East climb with Everest Base Camp starts from about US$ 2,390 or ₹2,10,000 per person, including a Kathmandu night, flights, permits, lodges, high camp, meals, guides and group gear. Personal gear, insurance and summit bonuses are extra."},
+    {"q": "What permits do I need for Lobuche East?", "a": "An NMA climbing permit, plus the Sagarmatha National Park permit, the Khumbu Pasang Lhamu Rural Municipality fee and a refundable garbage deposit. Royalty rates were revised in September 2025. We include all of them; check current status before you travel."},
+    {"q": "Why do Everest climbers use Lobuche East?", "a": "Its height, steep snow and fixed-rope sections make it good practice and acclimatisation for Everest, and it is close to Everest Base Camp. Many expeditions climb it or sleep on it before their first rotation through the Khumbu Icefall."},
+    {"q": "Do I need oxygen for Lobuche East?", "a": "No. It is climbed without supplemental oxygen. We carry emergency oxygen for altitude illness. The EBC and Kala Patthar approach gives the acclimatisation needed for a safe summit day."},
+    {"q": "What is the view from Lobuche East?", "a": "From the summit ridge you look across the Khumbu Glacier to Everest, Lhotse and Nuptse, with Pumori, Cholatse, Taboche, Ama Dablam and Makalu in the distance. It is one of the closest views of Everest from any climbing peak."},
+    {"q": "When is the best time to climb Lobuche East?", "a": "April to May and October to November. Spring is warmer with more snow on the face; autumn has clearer skies but colder, windier summit mornings. We do not run the climb in winter or the monsoon."}
+  ]
+}

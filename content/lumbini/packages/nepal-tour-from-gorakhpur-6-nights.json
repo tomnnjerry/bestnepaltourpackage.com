@@ -1,0 +1,92 @@
+{
+  "slug": "nepal-tour-from-gorakhpur-6-nights",
+  "title": "Nepal Tour from Gorakhpur via Sonauli 6 Nights",
+  "region": "lumbini",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["overland-from-india", "family-holidays", "cultural-tours", "budget-nepal"],
+  "stops": [
+    {"place": "lumbini", "nights": 1},
+    {"place": "pokhara", "nights": 2},
+    {"place": "kathmandu", "nights": 2},
+    {"place": "chitwan-national-park", "nights": 1}
+  ],
+  "start": "Gorakhpur (railway station or airport)",
+  "end": "Gorakhpur (railway station or airport)",
+  "price_from_inr": 27000,
+  "price_from_usd": 340,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels in Lumbini, Pokhara and Kathmandu; 3-star jungle resort in Chitwan",
+  "transport": "Indian vehicle Gorakhpur–Sonauli; private Nepal-registered car or Tempo Traveller in Nepal",
+  "group": "Private, 2–12 (families and friends' groups)",
+  "meta_description": "Nepal tour from Gorakhpur, 7 days: Sonauli border, Lumbini, Pokhara, Kathmandu and Chitwan by private car with 3-star hotels. Prices in INR, border help included.",
+  "summary": "A seven-day road loop from Gorakhpur covering Nepal's four most-requested stops: Lumbini, Pokhara, Kathmandu and Chitwan. You cross at Sonauli with our help, travel by private Nepal car with an experienced driver, stay in 3-star hotels and return to Gorakhpur for your train or flight home.",
+  "intro": [
+    "Gorakhpur is the natural starting point for Nepal by road from most of north and east India, with direct trains from Delhi, Mumbai, Kolkata, Lucknow and Varanasi and a growing number of flights. From the station it is about three hours to the Sonauli border and 45 minutes more to Lumbini. This loop then climbs north to Pokhara for the lakes and the Annapurna views from Sarangkot, crosses to Kathmandu for its great temples and stupas, and finishes in Chitwan before you drop back to the border.",
+    "Indian citizens need only a passport or voter ID; no visa. Many families ask about bringing their own car or a Gorakhpur taxi into Nepal. It is allowed with a customs pass from the Bhairahawa customs office, charged per day and capped at 30 days a year, but we usually switch to a Nepal car at the border because hill driving and local rules are best left to Nepali drivers. Check current status before you travel."
+  ],
+  "highlights": [
+    "Assisted crossing at Sonauli–Belahiya and a private Nepal car from the border",
+    "Maya Devi Temple and the Ashoka pillar at Lumbini",
+    "Sunrise over the Annapurnas and Machhapuchhre from Sarangkot",
+    "Boating on Phewa Lake to the Tal Barahi temple",
+    "Pashupatinath, Boudhanath, Swayambhunath and Kathmandu Durbar Square",
+    "Jeep safari and canoe ride in Chitwan National Park"
+  ],
+  "days": [
+    {"day": 1, "title": "Gorakhpur to Lumbini via Sonauli", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 1.5 h", "drive": "≈ 125 km · 4 h", "flight": "", "text": "Our Indian car meets you at Gorakhpur station or airport in the morning and drives about three hours north to Sonauli. Walk across the border with our representative to Belahiya, where your Nepal car and driver wait. Continue 45 minutes to Lumbini and check in. In the late afternoon, visit the Sacred Garden: the Maya Devi Temple with its marker stone, Ashoka's pillar and the sacred pond. Finish with a short drive past the monasteries to the World Peace Pagoda at sunset.", "meals": "Dinner"},
+    {"day": 2, "title": "Lumbini to Pokhara via Tansen", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1350, "walk": "", "drive": "≈ 210 km · 7–8 h", "flight": "", "text": "Leave after an early breakfast, drive through Bhairahawa to Butwal and climb the Siddhartha Highway through the Tinau gorge, stopping briefly at the Siddhababa temple. The road winds up to about 1,350 m near Tansen, where we stop for lunch, then follows river valleys north through Syangja and Waling. Arrive in Pokhara in the late afternoon and walk along the Phewa Lake shore at Lakeside, with cafés, shops and the first views of the hills over the water.", "meals": "B, D"},
+    {"day": 3, "title": "Sarangkot sunrise and Pokhara sights", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 2 h in short sections", "drive": "≈ 40 km in town", "flight": "", "text": "Drive up to Sarangkot at 5 am for sunrise over Dhaulagiri, the Annapurna range and the fishtail summit of Machhapuchhre, from about 1,600 m. After breakfast, visit Davis Falls, where the Pardi Khola disappears underground, and the Gupteshwor Mahadev cave across the road. In the afternoon, row across Phewa Lake to the Tal Barahi temple on its island. Optional extras include paragliding from Sarangkot or a visit to the World Peace Pagoda on the ridge above the lake.", "meals": "B, D"},
+    {"day": 4, "title": "Pokhara to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 200 km · 6–7 h", "flight": "", "text": "Drive east on the Prithvi Highway, following the Seti and then the Trishuli river past Damauli and Mugling. Families often break the journey at Kurintar for the Manakamana cable car, a 10-minute ride up to the hilltop temple of the wish-fulfilling goddess (optional, ticket extra). The road then climbs to the rim of the Kathmandu Valley and drops into the city. Check in at your hotel and spend the evening in Thamel or near Durbar Marg.", "meals": "B, D"},
+    {"day": 5, "title": "Kathmandu temples and stupas", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 3 h in short sections", "drive": "≈ 30 km in the city", "flight": "", "text": "A full day with a licensed city guide. Start at Pashupatinath, the great Shiva temple on the Bagmati, where non-Hindus view the main shrine from across the river. Continue to Boudhanath, one of the largest stupas in the world, ringed by Tibetan monasteries. After lunch, climb to Swayambhunath, the hilltop stupa overlooking the city, then end at Kathmandu Durbar Square with its palace courtyards and the house of the Kumari, the living goddess.", "meals": "B, D"},
+    {"day": 6, "title": "Kathmandu to Chitwan, afternoon safari", "place": "chitwan-national-park", "overnight": "Sauraha, Chitwan", "altitude_m": 150, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 160 km · 5–6 h", "flight": "", "text": "Leave Kathmandu early and drive down through Mugling and Narayanghat to Sauraha, on the edge of Chitwan National Park. After lunch at your resort, set off on an afternoon jeep safari into the park, looking for one-horned rhinoceros, spotted deer, wild boar, gharial crocodiles and, with luck, a sloth bear; tigers are present but rarely seen. Return at dusk for a Tharu cultural dance programme in Sauraha village.", "meals": "L, D"},
+    {"day": 7, "title": "Chitwan to Gorakhpur via Sonauli", "place": "", "overnight": "", "altitude_m": 84, "max_m": 150, "walk": "≈ 30 min across the border", "drive": "≈ 280 km · 8–9 h", "flight": "", "text": "Early morning canoe ride on the Rapti river for birds and mugger crocodiles, then breakfast and departure at about 8.30 am. Drive west on the East-West Highway to Butwal and south to the Sonauli border, about five hours. Cross back into India with our help and continue by Indian car to Gorakhpur, about three hours, arriving in the evening for overnight trains or the next day's flight. We time drop-offs to your train schedule.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini"],
+  "includes": [
+    "6 nights at 3-star hotels and a jungle resort, twin sharing",
+    "Breakfast and dinner daily; lunch on day 6 in Chitwan",
+    "Indian vehicle Gorakhpur–Sonauli and back",
+    "Private Nepal-registered car or Tempo Traveller with driver from Belahiya",
+    "Border crossing assistance in both directions",
+    "Licensed guide for Kathmandu sightseeing and local guide in Lumbini",
+    "Chitwan jeep safari, canoe ride, Tharu dance and park entry fees",
+    "Lumbini Sacred Garden entry fee",
+    "Sarangkot sunrise drive and Phewa Lake boat"
+  ],
+  "excludes": [
+    "Train or air fare to and from Gorakhpur",
+    "Kathmandu heritage site entry fees (Pashupatinath, Swayambhunath, Boudhanath, Durbar Square)",
+    "Manakamana cable car tickets",
+    "Lunches except in Chitwan",
+    "Paragliding and other optional activities",
+    "Tips for drivers and guides",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing at 3-star hotels in October–March; family rooms and child rates are available on request.",
+    "Indian citizens need a passport or voter ID; children under 15 and adults over 65 can usually use another photo ID with age proof. Check current status before you travel.",
+    "Bringing your own Indian car requires a customs pass at Bhairahawa, charged per day and limited to 30 days a year; we recommend a Nepal car for hill roads.",
+    "Days 2, 4, 6 and 7 involve 5–9 hours of driving; Nepal's highways are being widened in places, so timings can vary.",
+    "Nepal accepts Indian rupees widely at a fixed rate of about NPR 1.6 per INR; ₹200 and ₹500 notes are now allowed up to a limit, but check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Pokhara–Kathmandu flight instead of the drive", "price": "≈ ₹4,500 per person"},
+    {"name": "Manakamana cable car return", "price": "≈ ₹1,000 per person for Indian nationals"},
+    {"name": "Upgrade to 4-star hotels in Pokhara and Kathmandu", "price": "≈ ₹7,000 per person"}
+  ],
+  "faqs": [
+    {"q": "What is the Nepal tour package cost from Gorakhpur?", "a": "This 6-night tour starts at about ₹27,000 per person, twin sharing, with 3-star hotels, breakfast and dinner, private Nepal car from the border, Indian car from Gorakhpur, Chitwan safari and border assistance. Kathmandu monument fees and lunches are extra. Prices rise in October and during Indian school holidays."},
+    {"q": "How far is Gorakhpur from the Nepal border?", "a": "Gorakhpur is about 95–100 km from Sonauli, roughly 2.5–3 hours by car on NH-24 via Pharenda and Nautanwa. Buses and shared taxis also run frequently from Gorakhpur to Sonauli. From the border, Lumbini is 26 km and Pokhara about 190 km."},
+    {"q": "Can we take our own car from Gorakhpur into Nepal?", "a": "Yes. Indian private vehicles can enter Nepal with a customs pass from the Bhairahawa customs office, paying a per-day charge, for up to 30 days in a calendar year. You need the RC, driving licence, insurance and pollution certificate. Check current status before you travel, as charges and rules are revised."},
+    {"q": "Do Indians need a passport for this Nepal tour?", "a": "No. A valid Indian passport or Election Commission voter ID is enough for adults. Children under 15 and adults over 65 can usually show another photo ID with age proof. Aadhaar alone is not accepted for adults aged 15 to 65. Check current status before you travel."},
+    {"q": "Is this tour suitable for families with children?", "a": "Yes. Children enjoy boating on Phewa Lake, the Chitwan jeep safari and the canoe ride, and the Manakamana cable car is a favourite add-on. The long drives are the main challenge; we stop every two hours and can split the Pokhara–Kathmandu day with a flight for younger children."},
+    {"q": "Which trains go to Gorakhpur for Nepal?", "a": "Gorakhpur Junction has direct trains from Delhi, Mumbai, Kolkata, Lucknow, Varanasi and many other cities. Book well ahead for October, Diwali and summer holidays. We pick you up at the station whatever time your train arrives and plan day 1 around it."},
+    {"q": "Can we fly back from Kathmandu instead of returning to Gorakhpur?", "a": "Yes. Many families prefer to end in Kathmandu and fly home to Delhi, Mumbai, Kolkata or Bengaluru. We can rearrange the loop as Gorakhpur–Lumbini–Chitwan–Pokhara–Kathmandu and drop you at Tribhuvan International Airport, saving the long final drive."},
+    {"q": "Is Indian SIM roaming available in Nepal?", "a": "Indian SIMs can roam in Nepal, but rates are high and coverage is patchy in the hills. A Nepal Telecom or Ncell SIM, bought in Bhairahawa with your ID and a photo, is cheaper for data. Most hotels on this tour have Wi-Fi."},
+    {"q": "What is the best time for a Nepal tour from Gorakhpur?", "a": "October to April is best, with clear mountain views from October to February and spring blossoms in March and April. May is hot in the Terai. June to September is monsoon, with landslide risk on hill roads and limited mountain views, though prices are lower."}
+  ]
+}

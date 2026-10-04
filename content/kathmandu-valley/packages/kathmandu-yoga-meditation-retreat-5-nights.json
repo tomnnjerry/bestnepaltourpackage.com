@@ -1,0 +1,162 @@
+{
+  "slug": "kathmandu-yoga-meditation-retreat-5-nights",
+  "title": "Yoga and Meditation Retreat, 5 Nights",
+  "region": "kathmandu-valley",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["wellness-yoga", "buddhist-circuit", "cultural-tours"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "namobuddha", "nights": 2},
+    {"place": "dhulikhel", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 38000,
+  "price_from_usd": 530,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1750,
+  "accommodation": "Forest resort in Kathmandu, guesthouse or small resort beside Namobuddha monastery, hillside resort in Dhulikhel",
+  "transport": "Private car or van with driver; one half-day walk from Namobuddha to Dhulikhel",
+  "group": "Private or small group, 1–10, with a yoga teacher travelling with you",
+  "meta_description": "Nepal yoga and meditation retreat, 6 days: daily classes with a teacher, Namobuddha monastery, Dhulikhel sunrise, near Kathmandu. From ₹38,000.",
+  "summary": "Six days of yoga and meditation in the quiet hills east of Kathmandu. A qualified teacher leads two sessions a day, at a forest resort near Boudhanath, beside the Thrangu monastery at Namobuddha and on a lawn facing the Himalaya at Dhulikhel. Gentle walks, vegetarian food and early nights make up the rest.",
+  "intro": [
+    "This retreat suits people who want a reset more than a sightseeing list: beginners curious about yoga, regular practitioners who want a week of daily classes in a new setting, and couples or friends travelling together. A yoga teacher joins you from day 1 to day 6 and leads a morning practice of about 75–90 minutes and an evening session of about 60 minutes, mixing hatha, slower yin and restorative work, breathing practice and guided meditation. Classes adapt to the group, and no previous experience is needed.",
+    "The setting does much of the work. At Namobuddha, an hour and a half from Kathmandu, you sleep on a ridge at about 1,750 m beside Thrangu Tashi Yangtse Monastery, where monks chant at dawn and dusk, and you can sit quietly at the stupa linked with the Buddha's compassion for a starving tigress. Dhulikhel, a short walk away, gives sunrise over the Jugal and Langtang ranges. If you want a longer, structured Buddhist course afterwards, Kopan Monastery near Boudhanath runs meditation courses; check current dates with Kopan directly."
+  ],
+  "highlights": [
+    "Two daily yoga and meditation sessions with a teacher who travels with you",
+    "Dawn chanting at Thrangu Tashi Yangtse Monastery, Namobuddha",
+    "Walking meditation to the tigress stupa on the Namobuddha ridge",
+    "Sunrise yoga facing the Himalaya at Dhulikhel",
+    "Half-day mindful walk through farm villages from Namobuddha to Dhulikhel",
+    "Vegetarian meals, early nights and no long drives"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive, evening practice at Gokarna",
+      "place": "kathmandu",
+      "overnight": "Gokarna Forest Resort, Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 30 min forest walk",
+      "drive": "≈ 10 km · 30–40 min",
+      "flight": "",
+      "text": "We meet you at Tribhuvan International Airport and drive 30–40 minutes north-east to Gokarna Forest Resort, set in the old Gokarna forest on the valley's edge, away from city traffic. After lunch and a rest, your teacher meets the group to talk about experience, injuries and what each of you hopes to take home. The first session at about 5 pm is slow: gentle stretches to undo the flight, simple breathing and a 15-minute body-scan meditation. Dinner is vegetarian and early, and phones go away at the table.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Morning yoga, Boudhanath, to Namobuddha",
+      "place": "namobuddha",
+      "overnight": "Namobuddha",
+      "altitude_m": 1750,
+      "max_m": 1750,
+      "walk": "≈ 1 h kora and monastery walk",
+      "drive": "≈ 50 km · 2–2.5 h in total",
+      "flight": "",
+      "text": "At 6:30 am the teacher leads 75 minutes of hatha yoga under the trees. After breakfast we drive to Boudhanath, 15 minutes away, and walk three slow, silent circuits of the stupa with pilgrims turning prayer wheels. Then the car takes the Araniko Highway past Bhaktapur and Dhulikhel and climbs a ridge road to Namobuddha, about 1,750 m, arriving for lunch. In the late afternoon, sit at the back of the Thrangu monastery assembly hall as young monks chant evening prayers, then finish with a 30-minute sitting meditation.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "A full day of practice at Namobuddha",
+      "place": "namobuddha",
+      "overnight": "Namobuddha",
+      "altitude_m": 1750,
+      "max_m": 1750,
+      "walk": "≈ 1.5 h · 3 km",
+      "drive": "",
+      "flight": "",
+      "text": "Rise before 6 am to hear the monks' dawn chanting, then hold 90 minutes of yoga as the light reaches the ridge. After breakfast, walk slowly down the steps to the small stupa where, in the Jataka story, Prince Mahasattva offered his body to a starving tigress and her cubs, and up to the prayer-flag hill and cave above. Our teacher guides a walking meditation on the way. Afternoon is for rest, reading or journalling, followed by a yin and breathing session and an evening of silence until breakfast.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Mindful walk from Namobuddha to Dhulikhel",
+      "place": "dhulikhel",
+      "overnight": "Dhulikhel Mountain Resort",
+      "altitude_m": 1550,
+      "max_m": 1750,
+      "walk": "≈ 3–4 h · 10 km · −400 m / +200 m",
+      "drive": "",
+      "flight": "",
+      "text": "After morning practice we walk to Dhulikhel along the old ridge trail, about 3–4 hours through pine forest, mustard and rice terraces and Tamang and Brahmin villages. The first hour is in silence, with attention on breath and footsteps; after that, talk freely. A support vehicle carries luggage, and anyone who prefers can ride. We reach Dhulikhel Mountain Resort, a few kilometres beyond the old town, in time for a late lunch. The evening session is restorative yoga with bolsters and blankets, followed by yoga nidra, a guided relaxation lying down.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Dhulikhel sunrise, Panauti visit",
+      "place": "dhulikhel",
+      "overnight": "Dhulikhel Mountain Resort",
+      "altitude_m": 1550,
+      "max_m": 1600,
+      "walk": "≈ 1.5 h",
+      "drive": "≈ 20 km · 1 h return",
+      "flight": "",
+      "text": "On a clear morning the Himalaya from Langtang to the Jugal range and Gauri Shankar fills the northern horizon at sunrise, so practice starts on the lawn at first light with sun salutations facing the peaks. After breakfast we drive 7 km south to Panauti, a Newar town at the meeting of the Roshi and Punyamati rivers, to see the Indreshwar Mahadev temple and its carved roof struts. Afternoon is free for a massage or a nap. The final evening session closes with a longer meditation and time to talk about keeping a home practice.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Closing practice, back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1550,
+      "walk": "",
+      "drive": "≈ 30 km · 1–1.5 h",
+      "flight": "",
+      "text": "A last 60-minute morning class, then breakfast and the drive back down the Araniko Highway to Kathmandu, about 1–1.5 hours. Your teacher gives each person a short written sequence to practise at home. With an evening flight, ask the driver to stop at Kopan Monastery on its hill north of Boudhanath, where visitors can walk the grounds and ask about upcoming meditation courses; course dates and visitor hours change, so check current status before you travel. We reach the airport three hours before an international departure.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["gokarna-forest-resort", "dhulikhel-mountain-resort"],
+  "includes": [
+    "1 night at Gokarna Forest Resort, 2 nights near Namobuddha monastery, 2 nights at Dhulikhel Mountain Resort, twin sharing",
+    "Vegetarian meals as listed: all meals days 2–5, dinner day 1, breakfast day 6",
+    "Qualified yoga teacher for the whole retreat, two sessions a day (about 10 sessions)",
+    "Yoga mats, blocks, straps and blankets",
+    "Guided Boudhanath kora and visit to Thrangu monastery prayers",
+    "Private car or van with driver for all transfers and the Panauti visit",
+    "Support vehicle for luggage on the walking day",
+    "Airport pick-up and drop-off",
+    "All government taxes on included services"
+  ],
+  "excludes": [
+    "International flights or travel to the Nepal border",
+    "Nepal visa fee for non-Indian passport holders",
+    "Monument entry fees at Boudhanath and Panauti",
+    "Massages and spa treatments",
+    "Drinks other than tea, water and herbal infusions at meals",
+    "Donations to monasteries",
+    "Travel insurance",
+    "Tips for teacher, driver and hotel staff"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing a room, a small group of 4–10 sharing one teacher, and standard rooms at each property; private one-to-one retreats cost more.",
+    "Classes suit beginners and regular practitioners. Tell us about injuries, pregnancy or medical conditions when you book so the teacher can plan modifications.",
+    "Thrangu monastery is a working monastery: dress modestly, stay quiet in the halls, never point your feet at the shrine and ask before photographing monks. Visitor access to prayers can change, so check current status before you travel.",
+    "Namobuddha nights drop to 2–5 °C from December to February, and rooms are simply heated; bring warm layers and a shawl for meditation.",
+    "We do not run a fixed retreat centre. Kopan Monastery offers its own residential meditation courses; book those directly with Kopan and check current dates before you travel."
+  ],
+  "add_ons": [
+    {"name": "Hour-long massage at Dhulikhel", "price": "≈ ₹3,000 / US$ 40"},
+    {"name": "Private one-to-one yoga session", "price": "≈ ₹2,500 / US$ 35 per session"},
+    {"name": "Extra night at Namobuddha with all meals", "price": "≈ ₹5,000 / US$ 70 per person"}
+  ],
+  "faqs": [
+    {"q": "Is this yoga retreat suitable for beginners?", "a": "Yes. Most guests have done little or no yoga before. The teacher starts with basic postures and breathing and offers harder variations to experienced students in the same class. There are no headstands you must attempt and no chanting you must join. Tell us about stiff backs, knees or other limits when you book."},
+    {"q": "What style of yoga is taught on the retreat?", "a": "Mornings are a steady hatha practice with sun salutations, standing poses and balance work, about 75–90 minutes. Evenings are slower: yin, restorative poses, pranayama breathing and guided meditation or yoga nidra, about 60 minutes. The mix shifts with the group, and the teacher builds a short sequence for each person to take home."},
+    {"q": "Can we meditate with the monks at Namobuddha?", "a": "Visitors may usually sit quietly at the back of the assembly hall during morning and evening prayers at Thrangu Tashi Yangtse Monastery. These are chanting rituals rather than meditation classes, so our teacher leads separate meditation sessions in the grounds. Monastery routines and visitor access can change, so check current status before you travel."},
+    {"q": "Is Kopan Monastery part of this retreat?", "a": "No, but we can stop there on the way to the airport. Kopan, on a hill north of Boudhanath, runs its own residential courses on Buddhism and meditation, including a well-known month-long course in November. Book those directly with Kopan and check current dates before you travel. Many guests use our retreat as a first taste."},
+    {"q": "What is the food like on a yoga retreat in Nepal?", "a": "All meals are vegetarian: dal bhat with seasonal vegetables, porridge and fruit at breakfast, soups, salads and simple Indian and Continental dishes. We can arrange vegan, gluten-free or no onion and garlic meals with notice. Alcohol is not included, and we suggest skipping it during the retreat, though it is your choice."},
+    {"q": "What is the best time for a yoga retreat near Kathmandu?", "a": "October to April gives dry weather, clear mountain views from Dhulikhel and comfortable days for outdoor practice. December and January mornings are cold, close to freezing at Namobuddha, so classes move indoors. In the June–September monsoon it rains most afternoons, and clouds hide the peaks, but the hills are green and quiet."},
+    {"q": "What should I pack for a meditation retreat in Nepal?", "a": "Loose, comfortable clothes for practice, a warm fleece and shawl for early sessions, walking shoes for the Namobuddha to Dhulikhel walk, a water bottle, a notebook and a head torch. Modest clothing covering shoulders and knees is needed at the monastery. Mats and props are provided, though you can bring your own travel mat."},
+    {"q": "Can I join the retreat as a solo traveller?", "a": "Yes. Solo guests either join a small group on a fixed date or book a private retreat. A single room adds about ₹9,000 / US$ 120 for five nights, as hotel prices are per room. Many solo travellers come for exactly this trip, and small group sizes of up to 10 keep classes personal."},
+    {"q": "How is this different from staying at an ashram in India?", "a": "The routine is lighter than most ashram schedules: two sessions a day, no compulsory work duties and comfortable resort rooms for four of five nights. The Buddhist setting at Namobuddha gives a different flavour from Hindu ashram life, and you move between three quiet places. It suits people who want structure without strict discipline."}
+  ]
+}

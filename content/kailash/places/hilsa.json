@@ -1,0 +1,132 @@
+{
+  "slug": "hilsa",
+  "name": "Hilsa",
+  "region": "kailash",
+  "kind": "border town",
+  "wiki": "Hilsa, Nepal",
+  "image_query": "Hilsa Humla Karnali border bridge",
+  "lat": 30.15,
+  "lng": 81.33,
+  "altitude_m": 3640,
+  "tagline": "Nepal's Humla border post where the heli route crosses into Tibet",
+  "meta_description": "Hilsa, Humla (≈ 3,640 m): Simikot–Hilsa helicopter, crossing the bridge into Tibet, waiting days, lodges and what heli-route Kailash pilgrims should know.",
+  "summary": "Hilsa is a small village and border post at about 3,640 m in Nepal's Humla district, where the Humla Karnali leaves Tibet. On the Kailash heli route, pilgrims fly here from Simikot in 20–30 minutes, then walk across the bridge into Tibet and drive to Purang. There are only basic lodges.",
+  "intro": [
+    "Hilsa sits at the very north-western corner of Nepal, on the Humla Karnali river where it crosses from the Tibetan plateau into Nepal. Across a suspension bridge lies Sher, the Tibetan side of the crossing, and beyond it the road to Purang. The village is little more than a handful of stone lodges, a police post, an immigration office and a helipad on a gravel terrace above the river, surrounded by bare brown slopes.",
+    "For pilgrims, Hilsa is a transit point rather than a destination. Helicopters shuttle groups from Simikot in the morning, four or five passengers per sortie, and once the whole group has landed it clears Nepali immigration, crosses the bridge and meets the Tibetan guide on the other side. On the return, the order reverses. If wind or cloud stops flights, groups may wait in Hilsa for hours or occasionally overnight.",
+    "Hilsa is reached by air or by a long trek or rough road from Simikot, and it has no medical facilities beyond basic first aid. Border opening hours, the motor road from Simikot and rules for Indian passport holders on this route have changed over recent seasons. Check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 3,640 m"],
+    ["Best months", "May – Jun · Sep"],
+    ["Nights we suggest", "0 (transit), 1 if weather delays"],
+    ["Nearest airport", "Simikot (≈ 20–30 min by helicopter)"],
+    ["From Kathmandu", "Flights to Nepalgunj and Simikot + heli"],
+    ["Known for", "Heli-route border crossing into Tibet"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "nights": "0",
+  "highlights": [
+    {"title": "Helicopter over the Humla gorges", "text": "The 20–30 minute flight from Simikot follows the Humla Karnali north through deep gorges and past high villages, landing on the gravel helipad at Hilsa. It is a short but dramatic introduction to the trans-Himalaya."},
+    {"title": "Walking into Tibet", "text": "After Nepali exit formalities, pilgrims walk across the bridge over the Karnali to the Tibetan side, where Chinese immigration checks passports against the group visa and scans every bag."},
+    {"title": "Edge of two worlds", "text": "On the Nepal side are Hindu and Buddhist Humli villages, stone houses and terraced barley; across the river lies the wide, treeless plateau of Ngari. Standing on the bridge, the change is clear."},
+    {"title": "Humla Karnali riverbank", "text": "The river, grey with glacial silt, roars past the village. While waiting for the rest of the group to arrive by helicopter, pilgrims can sit by the bank, take tea at a lodge and watch the shuttles come in."},
+    {"title": "Gateway for Lucknow and Nepalgunj pilgrims", "text": "For pilgrims from Uttar Pradesh, Hilsa is reached via the Rupaidiha–Nepalgunj land border, flights to Simikot and a helicopter hop, avoiding Kathmandu altogether."}
+  ],
+  "how_to_reach": [
+    {"mode": "Helicopter", "text": "Simikot–Hilsa takes about 20–30 minutes. Helicopters carry four or five passengers per sortie, depending on weight and conditions, and fly mainly in the morning. Groups land in several shuttles, so the first arrivals wait for the last."},
+    {"mode": "Air", "text": "Flights reach Simikot from Nepalgunj in about 45 minutes by small aircraft, and Nepalgunj from Kathmandu in about 1 hour. Mountain weather often delays Simikot flights; itineraries need spare days."},
+    {"mode": "Road", "text": "A motor road from Simikot towards Hilsa has been under construction for years. Sections are passable by jeep in dry weather, taking a long day, but it is rough, landslide-prone and not reliable for tourist groups. Check current status before you travel."},
+    {"mode": "On foot", "text": "The classic trek from Simikot to Hilsa takes 4–5 days via the Humla Karnali valley and the Nara La (≈ 4,560 m). It needs a restricted area permit and a licensed guide."}
+  ],
+  "where_to_stay": "Hilsa has only a few basic stone lodges with dorm or twin rooms, quilts, pit or simple toilets and dal bhat meals; there are no hotels. Most pilgrims never sleep here, landing in the morning and crossing into Tibet the same day. If weather strands a group, we use the best available lodge and carry sleeping bags. We do not list a specific property because standards vary year to year.",
+  "stays": [],
+  "tips": [
+    "Keep your passport, visa copy and warm jacket in your hand luggage on the helicopter; bags may arrive on a later shuttle.",
+    "Pack light: helicopter payload limits are strict and excess baggage may be left in Simikot or Nepalgunj.",
+    "Expect waiting time; the group crosses the border only once everyone has arrived.",
+    "Carry snacks and water for the day, as lodges in Hilsa have limited supplies.",
+    "Do not photograph border installations, police or soldiers on either side."
+  ],
+  "themes": ["kailash-yatra", "heli-tours", "pilgrimage"],
+  "nearby": ["purang", "lake-manasarovar", "mount-kailash"],
+  "experiences": [
+    {
+      "slug": "hilsa-simikot-helicopter-shuttle",
+      "title": "Simikot to Hilsa helicopter shuttle",
+      "kind": "aerial",
+      "duration": "20–30 minutes flight",
+      "best_time": "Early morning, May–Jun and Sep",
+      "price_hint": "Included in heli-route yatras",
+      "image_query": "helicopter Simikot Hilsa Humla",
+      "wiki": "",
+      "summary": "A morning helicopter hop of about 20–30 minutes from Simikot (≈ 2,910 m) up the Humla Karnali to Hilsa (≈ 3,640 m). Groups fly in shuttles of four or five passengers, and weather decides the schedule.",
+      "body": [
+        "Helicopters on this sector start at first light, when winds are calm and cloud lies low in the valleys. Pilgrims are weighed with their bags at Simikot and assigned to sorties of four or five, depending on the aircraft, temperature and altitude. Thinner air at Hilsa reduces lifting power, so loads are kept light, and a large group may need several rotations over a couple of hours.",
+        "The flight follows the Humla Karnali north through gorges, past terraced villages and pine slopes that give way to bare rock. Landing at Hilsa takes a few minutes, and the helicopter turns around quickly for the next load. Arrivals wait at the helipad or a nearby lodge until the whole group is through.",
+        "By late morning, wind and cloud often build and flights stop. A missed slot can mean waiting until the next day in Simikot, which is why itineraries carry a buffer. Anyone with heart or lung conditions, or who is pregnant, should not take part in high-altitude helicopter travel; get medical advice before booking."
+      ],
+      "good_for": ["pilgrims", "groups", "seniors"],
+      "faqs": [
+        {"q": "How long is the helicopter flight from Simikot to Hilsa?", "a": "About 20–30 minutes each way. Helicopters carry four or five passengers per sortie, so a group of fifteen or twenty needs several rotations, spread over a morning. Flights run mainly early in the day before wind and cloud build up in the gorges."},
+        {"q": "What is the baggage limit on the Simikot–Hilsa helicopter?", "a": "Operators usually allow about 10–15 kg per person including hand luggage, weighed with the passenger. Limits are set by the operator on the day according to weather and altitude. Extra luggage stays in Nepalgunj or Simikot. Pack a soft duffel with only what you need for Tibet."},
+        {"q": "What happens if the Hilsa helicopter cannot fly?", "a": "The group waits in Simikot or Hilsa until conditions improve, often the next morning. Our heli-route itineraries include a spare day for this. If delays run longer, the Tibet section is shortened or extra nights are added, and we explain any additional costs at the time."}
+      ]
+    },
+    {
+      "slug": "hilsa-crossing-the-bridge-into-tibet",
+      "title": "Crossing the Hilsa bridge into Tibet",
+      "kind": "culture",
+      "duration": "1–3 hours",
+      "best_time": "Late morning once the group has landed",
+      "price_hint": "Included in heli-route yatras",
+      "image_query": "Hilsa bridge Nepal Tibet border",
+      "wiki": "",
+      "summary": "Nepali exit formalities at Hilsa, a walk across the bridge over the Humla Karnali, then Chinese immigration, baggage scans and the short drive to Purang with your Tibetan guide.",
+      "body": [
+        "Once the last helicopter shuttle has landed, the group's Nepali leader completes exit formalities with immigration at Hilsa. Porters or a small vehicle carry bags to the bridge. The group then walks across together, in the order of the Chinese visa list, with passports ready. On the far side, the Tibetan guide waits with vehicles.",
+        "Chinese officers check each passenger against the group visa, take biometric data where required and scan all luggage. Prohibited items include images or literature of the Dalai Lama, maps showing borders China disputes and drones. Puja items, rudraksha and personal medicines in original packs are normally fine. The process can take one to three hours.",
+        "After clearing immigration, clocks move forward 2 hours 15 minutes to Beijing time, which surprises many pilgrims. The drive to Purang takes about an hour. Border opening hours and procedures change; check current status before you travel."
+      ],
+      "good_for": ["pilgrims", "groups", "first-timers"],
+      "faqs": [
+        {"q": "Is the Hilsa border open for Indian pilgrims?", "a": "In recent seasons, Indian passport holders with a valid Chinese group visa and Tibet permit arranged through an approved agency have crossed at Hilsa. Rules for Indian nationals on the Nepal routes, including fees, age limits and where visas are processed, have changed several times since 2023. Check current status before you travel."},
+        {"q": "What time does the Hilsa border open?", "a": "Opening hours are set by the Nepali and Chinese authorities and usually cover the late morning and afternoon on the Tibetan side, in Beijing time. Our operations team times helicopter shuttles to match. Hours can change during the season, so check current status before you travel."},
+        {"q": "Do I need to walk at the Hilsa border?", "a": "Yes, a short walk across the bridge, usually a few hundred metres on level ground, with porters or a vehicle carrying bags. Seniors and anyone with mobility problems can be helped by staff. After immigration, vehicles drive the group to Purang."}
+      ]
+    },
+    {
+      "slug": "hilsa-humla-karnali-riverside",
+      "title": "Humla Karnali riverside wait",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Morning while shuttles land",
+      "price_hint": "",
+      "image_query": "Humla Karnali river Hilsa",
+      "wiki": "",
+      "summary": "While helicopter shuttles bring in the rest of the group, early arrivals can sit by the Humla Karnali, drink tea at a lodge and take in the stark trans-Himalayan valley at the north-west tip of Nepal.",
+      "body": [
+        "The Humla Karnali, one of the main sources of the Karnali river that flows south through Nepal to the Ganga, runs fast and grey past Hilsa. The valley here is dry and treeless, with slopes of scree and terraces of barley in summer. Small lodges offer milk tea and biscuits, and children from the village sometimes watch the helicopters land.",
+        "It is a good moment to sit quietly, drink water and let your body adjust to about 3,640 m after the jump from Simikot. Avoid hurrying around or climbing the slopes. Photographs of the river, village and mountains are fine, but keep cameras away from the border post and police.",
+        "When the group is complete, your leader calls everyone for immigration. On the return journey, the riverside is often where pilgrims share a last tea before the helicopter back to Simikot and the start of the journey home."
+      ],
+      "good_for": ["pilgrims", "photographers", "groups"],
+      "faqs": [
+        {"q": "What is there to do in Hilsa?", "a": "Very little beyond waiting for the group and crossing the border. Pilgrims sit by the Humla Karnali, take tea at a lodge and rest to adjust to the altitude. Hilsa is a transit point; the real sightseeing begins in Purang and at Manasarovar."},
+        {"q": "Is Hilsa in Nepal or Tibet?", "a": "Hilsa is in Nepal, in Namkha rural municipality of Humla district. The Tibetan side across the bridge is called Sher, in Purang county. Pilgrims exit Nepal at Hilsa and enter China at Sher before driving to Purang."},
+        {"q": "Can I stay overnight in Hilsa?", "a": "Only if weather or border timing forces it. Hilsa has a few basic stone lodges with simple rooms and dal bhat. We carry sleeping bags and choose the best available lodge. Most groups cross into Tibet and sleep in Purang the same day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Hilsa?", "a": "Hilsa is in Humla district, in the far north-west corner of Nepal, on the Humla Karnali river where it crosses the border with Tibet. It faces Purang county in Tibet's Ngari prefecture. Pilgrims reach it by helicopter from Simikot, about 20–30 minutes away."},
+    {"q": "What is the altitude of Hilsa?", "a": "Hilsa is at approximately 3,640 m; published figures vary between about 3,600 and 3,720 m. That is roughly 700 m above Simikot and 250 m below Purang, so the heli route gains height in comfortable steps."},
+    {"q": "How do I get from Simikot to Hilsa?", "a": "By helicopter in about 20–30 minutes, in morning shuttles of four or five passengers. A motor road exists in parts but is rough and unreliable, and the old trekking route takes 4–5 days. Almost all yatra groups fly."},
+    {"q": "Why is the Hilsa route popular for Kailash yatra?", "a": "It avoids long drives across the plateau and reaches Manasarovar in about four days from Kathmandu, or from Lucknow via Nepalgunj. The trade-off is weather risk on the Simikot flights and helicopter sector, and a higher price than the overland route via Kyirong."},
+    {"q": "Is Hilsa route safe for senior citizens?", "a": "Many seniors take it, because walking is minimal and altitude gain is gradual via Simikot (≈ 2,910 m), Hilsa (≈ 3,640 m) and Purang (≈ 3,900 m). The risks are weather delays and limited medical facilities. Anyone with heart or lung conditions should consult a doctor first."},
+    {"q": "Are there medical facilities in Hilsa?", "a": "No, only basic first aid. Simikot has a district hospital with limited services, and Purang has a clinic. Our groups carry oxygen, a pulse oximeter and a full first-aid kit. Insurance covering helicopter evacuation from high altitude is essential."},
+    {"q": "How much luggage can I take on the Hilsa route?", "a": "Small aircraft and helicopters on this route limit baggage to about 10–15 kg per person including hand luggage. Pack a soft duffel with warm clothing and essentials. Extra bags can be stored in Nepalgunj or Simikot and collected on the way back."},
+    {"q": "Can I trek from Simikot to Hilsa?", "a": "Yes, the trek takes 4–5 days along the Humla Karnali and over the Nara La at about 4,560 m. It needs a restricted area permit for Humla and a licensed guide, and is usually combined with the Kailash yatra by trekking groups rather than pilgrims."},
+    {"q": "Does Hilsa have mobile network?", "a": "Nepali mobile coverage around Hilsa is weak and unreliable. On the Tibetan side, Chinese networks work, but foreign SIMs rarely roam and many apps are blocked. Your guide carries a satellite or local phone for emergencies."}
+  ]
+}

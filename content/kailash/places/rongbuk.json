@@ -1,0 +1,130 @@
+{
+  "slug": "rongbuk",
+  "name": "Rongbuk and Everest North Base Camp",
+  "region": "kailash",
+  "kind": "base camp",
+  "wiki": "Rongbuk Monastery",
+  "image_query": "Rongbuk Monastery Everest north face",
+  "lat": 28.197,
+  "lng": 86.828,
+  "altitude_m": 4980,
+  "tagline": "Everest's north face from ≈ 4,980 m, reached by road from Shigatse",
+  "meta_description": "Rongbuk and Everest north base camp: altitude, current visitor rules, Pang La views, where to stay and how to reach from Lhasa, Shigatse or Kathmandu.",
+  "summary": "Rongbuk, at about 4,980 m, is the Tibetan side's road-end below the north face of Everest, home to Rongbuk Monastery and the viewpoint area for Everest north base camp at about 5,150–5,200 m. Visitors arrive by road from Shigatse in a long day and usually stay one night. Access rules change; check current status before you travel.",
+  "intro": [
+    "The Rongbuk valley runs south from the Tibetan plateau straight at Everest (8,849 m), whose north face fills its head about 20 km away. Rongbuk Monastery, a Nyingma monastery at about 4,980 m, has stood here in various forms since the early 20th century and is often called the highest monastery in the world. From its courtyard and stupa the view of Everest is uninterrupted on a clear day, and the peak turns orange at sunset.",
+    "Above the monastery lies the area known as Everest north base camp. Since 2019 ordinary tourists have not been allowed to the climbers' base camp itself; instead they are taken by official eco-bus from a visitor centre below the monastery to a viewing area around 5,150–5,200 m, with a marker stone and views of the north face and the Rongbuk glacier. Expedition climbers continue beyond with separate permits.",
+    "Reaching Rongbuk takes a full day from Shigatse via Lhatse, the Gyatso La at about 5,250 m and the Pang La viewpoint, where four 8,000 m peaks line the horizon on clear mornings. Visitors need the Tibet Travel Permit and border area permits arranged by their agency. The area has closed to tourists at short notice in some seasons; check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 4,980 m (viewpoint ≈ 5,150–5,200 m)"],
+    ["Best months", "Apr – May · Sep – Oct"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Shigatse Peace or Lhasa Gonggar"],
+    ["From Kathmandu", "Fly to Lhasa + 3–4 days by road"],
+    ["Known for", "Everest north face, Rongbuk Monastery, Pang La"]
+  ],
+  "best_months": [0, 0, 0, 2, 2, 1, 0, 0, 1, 2, 1, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "North face of Everest", "text": "From Rongbuk the whole north face rises at the head of the valley, about 20 km away, with the Rongbuk glacier below. Unlike the Nepal side, where Everest hides behind Nuptse, here it stands alone and complete."},
+    {"title": "Rongbuk Monastery", "text": "A Nyingma monastery at about 4,980 m, rebuilt after destruction in the 1970s, with a stupa framed against Everest. A few monks and nuns live here, and the chapels are small and plain."},
+    {"title": "Sunset and sunrise light", "text": "On clear evenings the summit glows orange long after the valley falls into shadow, and at dawn the first light hits the top. Temperatures drop well below freezing, so wear everything you have."},
+    {"title": "Pang La viewpoint", "text": "On the drive in, the Pang La at about 5,200 m shows Makalu, Lhotse, Everest, Cho Oyu and, on very clear days, Shishapangma in one sweep. It is the best panorama of the Himalaya on any Tibetan road."},
+    {"title": "Gyatso La pass", "text": "The highest point on the road from Shigatse is the Gyatso La, at about 5,250 m, hung with prayer flags. It is often the highest place travellers on a Lhasa–Everest tour ever stand."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Shigatse to Rongbuk is about 330–350 km (7–8 h) via Lhatse, the Gyatso La, the turn-off near Shegar and the Pang La road. From the visitor centre, official eco-buses carry tourists to the monastery and the viewpoint. Rongbuk to Kyirong is about 400 km (7–8 h) via Old Tingri, when the border is open."},
+    {"mode": "Air", "text": "There is no airport near Rongbuk. Travellers from Nepal fly Kathmandu–Lhasa (≈ 75–90 min) and drive west over 3–4 days via Gyantse and Shigatse."}
+  ],
+  "where_to_stay": "Accommodation near Rongbuk is basic. In recent years tourists have stayed at the guesthouse beside Rongbuk Monastery or in simple lodgings at the Everest service area below it, with dorm or twin rooms, thick quilts, shared toilets and little or no running water. Some tours sleep lower at Old Tingri or Shegar, about 2–3 hours away, in simple hotels, and visit Rongbuk as a day trip. The arrangement each season depends on local rules, so our partner confirms it when permits are issued.",
+  "stays": [],
+  "tips": [
+    "Only attempt Rongbuk after at least four nights above 3,600 m; it is far higher than Lhasa.",
+    "Bring a sleeping bag rated to −15 °C; nights at Rongbuk are bitterly cold even in May and October.",
+    "Charge camera batteries in the vehicle and keep them warm in an inside pocket.",
+    "Expect strict rules on where you may walk and fly drones; drones are generally prohibited.",
+    "If you feel severe headache or confusion, descend to Old Tingri or Shegar immediately."
+  ],
+  "themes": ["photography", "cultural-tours", "adventure-sports"],
+  "nearby": ["shigatse", "saga", "kyirong"],
+  "experiences": [
+    {
+      "slug": "rongbuk-everest-north-face-sunset",
+      "title": "Everest north face at sunset",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Evening, Apr–May and Sep–Oct",
+      "price_hint": "Included in our Lhasa–Everest tour",
+      "image_query": "Everest north face sunset Rongbuk",
+      "wiki": "",
+      "summary": "Watch the light fade on the north face of Everest from Rongbuk, with the summit glowing orange long after the valley falls dark. Clear evenings in spring and autumn give the best chance.",
+      "body": [
+        "Most tours arrive at Rongbuk in mid to late afternoon after the long drive from Shigatse. Once rooms are sorted, the group walks to the monastery's stupa or the open ground nearby, where Everest stands framed at the head of the valley. The north face shows its great couloirs and the long north-east ridge followed by early British expeditions.",
+        "As the sun sets behind the western ridges, the valley turns blue and cold, while the summit pyramid keeps the light for another 15–30 minutes, shifting from gold to orange to pink. Photographers use a tripod and a long lens; everyone else simply watches. Cloud often gathers on the summit in the afternoon, so sunrise the next day is a second chance.",
+        "Temperatures fall quickly to around −10 °C in May and lower in October. Wear down, hat and gloves, and move slowly: you are at about 4,980 m. Return to the guesthouse for hot tea and noodles and an early night."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can I see Everest clearly from Rongbuk?", "a": "On clear days, yes: the whole north face is visible about 20 km away at the head of the valley. April, May, October and November give the best chances. Summer monsoon cloud often hides the peak in July and August, so we avoid those months for Everest tours."},
+        {"q": "Is sunset or sunrise better at Rongbuk?", "a": "Both can be excellent. Sunset lights the summit orange from the west; sunrise brings first light to the top while the valley is dark. Afternoon cloud is common, so having both chances on a one-night stay improves your odds."},
+        {"q": "How cold is Rongbuk at night?", "a": "In May and October nights at Rongbuk fall to around −10 to −15 °C, and wind makes it feel colder. Rooms are often unheated or barely heated. Bring a warm sleeping bag, down jacket, hat, gloves and thermal layers."}
+      ]
+    },
+    {
+      "slug": "rongbuk-everest-base-camp-viewpoint",
+      "title": "Eco-bus to the base camp viewpoint",
+      "kind": "adventure",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–May and Sep–Oct",
+      "price_hint": "Eco-bus and fees included in our tours",
+      "image_query": "Everest Base Camp Tibet marker stone",
+      "wiki": "Everest base camps",
+      "summary": "Ride the official eco-bus beyond Rongbuk to the tourist viewing area for Everest north base camp, around 5,150–5,200 m, for close views of the north face and the Rongbuk glacier. Access rules change; check current status before you travel.",
+      "body": [
+        "Private vehicles stop at the visitor centre below Rongbuk, and tourists continue by the official green eco-bus. The bus climbs the valley past the monastery to the viewing area set aside for tourists, at around 5,150–5,200 m, where a marker stone and prayer-flag hill face the north face. Since 2019 tourists have not been permitted at the climbers' base camp beyond.",
+        "Even from the viewpoint, Everest seems close and immense. Moraine ridges of the Rongbuk glacier lead the eye up to the face. You can usually spend 30–60 minutes walking around the area, though a short climb up the prayer-flag mound feels like hard work at this height.",
+        "Rules on opening times, routes and how far tourists may go have changed several times, and the area has closed for periods. Your guide confirms arrangements when permits are issued. Anyone with heart or lung conditions should not go this high; consult a doctor before booking."
+      ],
+      "good_for": ["photographers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "Can tourists go to Everest Base Camp in Tibet?", "a": "Since 2019, tourists have been restricted to a viewing area near Rongbuk, around 5,150–5,200 m, reached by eco-bus, rather than the climbers' base camp. Only expedition members with climbing permits go further. Rules and closures change, so check current status before you travel."},
+        {"q": "Which is easier: Everest Base Camp Tibet or Nepal?", "a": "Tibet's north side is reached by road, so no trekking is needed, but altitude rises quickly and permits are complex. Nepal's base camp requires a trek of 12–14 days, which acclimatises gradually. The Tibet side gives a fuller view of Everest; Nepal gives the Khumbu experience."},
+        {"q": "Do I need a special permit for Everest north base camp?", "a": "Yes. Besides the Chinese visa and Tibet Travel Permit, you need an Alien's Travel Permit and a border area permit, plus entry to the Qomolangma nature reserve. Your agency arranges them all. They must list the Everest area before you set off."}
+      ]
+    },
+    {
+      "slug": "rongbuk-monastery-visit",
+      "title": "Rongbuk Monastery and stupa",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Early morning",
+      "price_hint": "Small donation welcome",
+      "image_query": "Rongbuk Monastery stupa Everest",
+      "wiki": "Rongbuk Monastery",
+      "summary": "Visit the small Nyingma monastery at about 4,980 m, often called the highest in the world, whose white stupa with Everest behind is one of the most photographed scenes in Tibet.",
+      "body": [
+        "Rongbuk Monastery was founded in 1902 by a Nyingma lama, though hermits had meditated in the valley's caves for centuries. Early British Everest expeditions in the 1920s passed through and received blessings here. Much of it was destroyed during the Cultural Revolution and later rebuilt on a smaller scale.",
+        "Today a handful of monks and nuns live here. The chapels are simple, with statues of Padmasambhava and other Nyingma figures, and butter lamps burning in the cold. Outside, the stupa hung with prayer flags stands in the foreground of the classic photograph, with Everest framed behind it.",
+        "Visit early in the morning, when monks may be at prayers and the light is on the mountain. Walk clockwise around the stupa, keep voices low and leave a small donation if you wish. Photography inside the chapels may not be allowed."
+      ],
+      "good_for": ["photographers", "pilgrims", "solo"],
+      "faqs": [
+        {"q": "Is Rongbuk the highest monastery in the world?", "a": "Rongbuk, at about 4,980 m, is often described as the highest monastery in the world, though a few small religious sites claim greater heights. It is certainly among the highest permanently occupied monasteries, and its view of Everest is unmatched."},
+        {"q": "Can I stay at Rongbuk Monastery?", "a": "In recent years, a guesthouse beside the monastery has offered basic rooms to tourists, with quilts and shared toilets. Availability depends on local rules each season. Some tours stay at the Everest service area or lower at Old Tingri instead."},
+        {"q": "What sect is Rongbuk Monastery?", "a": "Rongbuk belongs to the Nyingma school, the oldest of the four main schools of Tibetan Buddhism. It was founded in 1902, though meditation caves in the valley are much older. Statues inside include Padmasambhava, whom the Nyingma regard as their founder."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Everest Base Camp in Tibet?", "a": "Everest north base camp lies at about 5,150–5,200 m. Tourists now visit a viewing area around that height near Rongbuk Monastery, which itself is at about 4,980 m. Nepal's base camp is higher at 5,364 m, but here you arrive by road in days, not on foot over a week, so acclimatise in Lhasa and Shigatse first."},
+    {"q": "How do I get to Everest Base Camp from Lhasa?", "a": "By road over 3–4 days: Lhasa to Gyantse, Gyantse to Shigatse, Shigatse to Rongbuk (about 330–350 km, 7–8 h). From the visitor centre an eco-bus goes to the viewpoint. All travel is with a licensed guide and permits."},
+    {"q": "Can I combine Everest north base camp with a Kailash yatra?", "a": "Yes, on itineraries that start in Lhasa or return via Saga and Old Tingri, but it adds 2–3 days and more time above 4,500 m. Most pilgrims keep the two trips separate. We can plan a combined itinerary on request."},
+    {"q": "When is the best time to visit Rongbuk?", "a": "April, May, October and early November give the clearest views of Everest. September can be good after the monsoon ends. Winter is extremely cold, and July–August are cloudy. The area sometimes closes to tourists; check current status before you travel."},
+    {"q": "Where do tourists stay at Everest north base camp?", "a": "In basic guesthouses beside Rongbuk Monastery or at the Everest service area below it, with quilts and shared toilets. Tent camps that once stood at base camp have been removed. Some tours sleep at Old Tingri or Shegar and visit Rongbuk by day."},
+    {"q": "Is there a risk of altitude sickness at Rongbuk?", "a": "Yes, significant. At about 4,980 m, many visitors have headaches and poor sleep. Spend several nights at 3,600–4,000 m first, drink plenty of water, avoid alcohol and descend if symptoms become severe. Our tours carry oxygen and a pulse oximeter."},
+    {"q": "Can I see Everest from the Pang La?", "a": "Yes. On clear mornings the Pang La viewpoint, at about 5,200 m on the road to Rongbuk, shows Makalu, Lhotse, Everest and Cho Oyu, and sometimes Shishapangma. Afternoon cloud often hides them, so drivers try to cross early."},
+    {"q": "Can I fly a drone at Everest Base Camp Tibet?", "a": "Drones are generally prohibited in the Everest area and across much of Tibet without special permission, and may be confiscated at the border. Leave them at home. Ordinary cameras and phones are fine, though not at military or police installations."},
+    {"q": "Can I return to Kathmandu overland from Rongbuk?", "a": "When the Rasuwagadhi–Kyirong border is open, yes: about 400 km (7–8 h) to Kyirong, then Kathmandu the next day. The crossing was destroyed by floods in August 2026, so tours have instead returned to Lhasa and flown. Check current status before you travel."}
+  ]
+}

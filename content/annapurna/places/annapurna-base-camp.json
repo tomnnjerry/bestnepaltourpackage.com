@@ -1,0 +1,132 @@
+{
+  "slug": "annapurna-base-camp",
+  "name": "Annapurna Base Camp",
+  "region": "annapurna",
+  "kind": "base camp",
+  "wiki": "Annapurna Sanctuary",
+  "image_query": "Annapurna Base Camp sanctuary Annapurna I",
+  "lat": 28.5306,
+  "lng": 83.8780,
+  "altitude_m": 4130,
+  "tagline": "A glacier amphitheatre under Annapurna I at 4,130 m",
+  "meta_description": "Annapurna Base Camp guide: 4,130 m in the Annapurna Sanctuary, ringed by Annapurna I, Hiunchuli and Machhapuchhre. Trek routes, heli landings, seasons.",
+  "summary": "Annapurna Base Camp (4,130 m) sits inside the Annapurna Sanctuary, a glacial basin enclosed by Annapurna I (8,091 m), Annapurna South, Hiunchuli, Gangapurna and Machhapuchhre. Trekkers reach it in 5–7 days from Pokhara via Chhomrong, or in 25–30 minutes by helicopter, and most spend one night among its handful of lodges.",
+  "intro": [
+    "The Annapurna Sanctuary is a high, oval basin about 15 km across, sealed on almost every side by a ring of peaks. Its only entrance is the narrow gorge of the Modi Khola, squeezed between Hiunchuli and Machhapuchhre. Annapurna Base Camp lies at 4,130 m on the western side of the basin, on a grassy shelf above the moraine of the South Annapurna Glacier. Standing at the lodges you turn a full circle and see ice and rock on every side.",
+    "The south face of Annapurna I (8,091 m) rises about 4,000 m straight above the camp. A British expedition led by Chris Bonington climbed that face in 1970, one of the landmark ascents of the era. Clockwise from it stand Annapurna South (7,219 m), Hiunchuli (6,441 m), Machhapuchhre (6,993 m), Gangapurna (7,455 m) and Annapurna III. Machhapuchhre is sacred to local Gurung communities and has been closed to climbing since a 1957 attempt stopped short of the summit.",
+    "Most trekkers arrive on the Annapurna Base Camp trek, walking up the Modi Khola gorge from Chhomrong through Sinuwa, Bamboo, Dovan, Deurali and Machhapuchhre Base Camp. Our standard 11-day trek starts at ₹78,000 or US$910 per person, and an 8-day version that walks up and flies back starts at ₹1,12,000 or US$1,310. For those short of time or unable to trek, a morning helicopter from Pokhara lands here in about 25–30 minutes."
+  ],
+  "facts": [
+    ["Altitude", "4,130 m"],
+    ["Best months", "Mar – Apr · Oct – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Pokhara International Airport, 25–30 min by helicopter"],
+    ["From Kathmandu", "≈ 25 min flight to Pokhara + 5–7 days' trek, or + 25–30 min helicopter"],
+    ["Known for", "Annapurna Sanctuary, Annapurna I south face, sunrise ring of peaks, heli landings"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunrise inside the ring", "text": "At dawn the summit of Annapurna I turns gold first, then light spreads round the ring to Annapurna South, Hiunchuli and Gangapurna while the camp itself sits in deep blue shadow. Machhapuchhre's summit stands black against the brightening sky to the east. Be outside by 5:45 am in October."},
+    {"title": "Annapurna I south face", "text": "The 8,091 m summit of Annapurna I, the first 8,000 m peak ever climbed, in 1950, towers about 4,000 m above the lodges. Its south face, climbed by Bonington's team in 1970, is one of the biggest walls in the Himalaya. Avalanches thunder down it on warm afternoons."},
+    {"title": "Memorial chortens and prayer flags", "text": "Just above the lodges, small stone chortens and plaques draped in prayer flags remember climbers who died on Annapurna, including the Kazakhstani mountaineer Anatoli Boukreev, killed in an avalanche on the mountain on Christmas Day 1997. It is a quiet, sobering place to stand at sunset."},
+    {"title": "Machhapuchhre from the other side", "text": "From Pokhara Machhapuchhre looks like a lone pyramid. From inside the sanctuary you see its western flank and twin summits, the 'fish tail' that gives the mountain its name. It remains unclimbed by local agreement, and the view from Machhapuchhre Base Camp is closer still."},
+    {"title": "The moraine viewpoint", "text": "A short walk north-west from the lodges brings you to the crest of the lateral moraine. Below lies the debris-covered South Annapurna Glacier, grey and cracked, with ice cliffs and meltwater pools. The edge is loose, so stay well back from the drop."},
+    {"title": "Helicopter landings from Pokhara", "text": "Morning helicopters from Pokhara reach the sanctuary in 25–30 minutes, flying up the Modi Khola gorge between Hiunchuli and Machhapuchhre. Flights land on the flat ground near the lodges and usually allow 15–20 minutes on the ground before cloud or altitude limits make it time to leave."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Pokhara drive about 3 hours to Siwai or Ghandruk, then walk 4–5 days via Chhomrong (2,170 m), Sinuwa, Bamboo (2,310 m), Dovan, Himalaya (2,920 m), Deurali (3,230 m) and Machhapuchhre Base Camp (3,700 m). Walking days are 5–7 hours. The return to the road takes 2–3 days."},
+    {"mode": "Helicopter", "text": "Charter or shared helicopters fly Pokhara–ABC in 25–30 minutes each way, usually leaving between 6:30 and 9 am before cloud builds. At 4,130 m helicopters carry fewer passengers than at sea level, so larger groups may be shuttled. Flights are cancelled in poor visibility. Check current status before you travel."},
+    {"mode": "Road", "text": "No road enters the sanctuary. The nearest jeep access is Siwai or Ghandruk, ≈ 3 h from Pokhara, with jeep tracks pushing slightly further up the Modi Khola each year. From any road head it is still at least four days' walk to Annapurna Base Camp."}
+  ],
+  "where_to_stay": "Annapurna Base Camp has a small cluster of teahouse lodges built of stone with tin roofs, sitting together on the shelf above the glacier. Rooms are basic twins and multi-bed dormitories with thick blankets; toilets are shared and water can freeze overnight. In October and early April lodges fill quickly and late arrivals may sleep in the dining hall. Dal bhat costs about NPR 900–1,200. Machhapuchhre Base Camp, two hours below, has a second cluster of lodges and is a sensible place to sleep if anyone feels unwell.",
+  "stays": [],
+  "tips": [
+    "Sleep at Machhapuchhre Base Camp first if you climbed from Deurali feeling tired, and walk up to ABC for sunrise.",
+    "Bring a four-season sleeping bag, as nights at 4,130 m fall to −10 °C in late autumn and colder in winter.",
+    "Ask at the Chhomrong checkpoint about avalanche risk between Deurali and MBC before you start the final climb.",
+    "Carry water purification tablets or a filter, since boiled water costs NPR 200–300 a litre at the base camp.",
+    "On a heli tour, walk slowly and avoid exertion on the ground, because you arrive from 822 m without acclimatising."
+  ],
+  "themes": ["trekking", "heli-tours", "photography", "adventure-sports"],
+  "nearby": ["chhomrong", "ghandruk", "mardi-himal-base-camp"],
+  "experiences": [
+    {
+      "slug": "annapurna-base-camp-sanctuary-sunrise",
+      "title": "Sunrise in the Annapurna Sanctuary",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Dawn, Oct–Nov and Mar–Apr",
+      "price_hint": "Included in ABC treks",
+      "image_query": "Annapurna I sunrise base camp",
+      "wiki": "",
+      "summary": "The morning after reaching Annapurna Base Camp, you step out of the lodge before 6 am into a ring of peaks catching first light. Annapurna I glows gold, then the colour spreads around the sanctuary while the glacier below stays in shadow.",
+      "body": [
+        "Sunrise at Annapurna Base Camp is quieter and more enclosing than the open panoramas of Poon Hill. You are standing inside the ring, not looking at it from outside. In October the sky starts to pale at about 5:30 am behind Machhapuchhre, and at roughly 6:05 am the summit of Annapurna I turns gold. Within minutes the light moves to Annapurna South, Hiunchuli and Gangapurna, each lighting in turn, and the whole basin falls silent as people stop talking.",
+        "The temperature at dawn is usually −5 to −10 °C in late October and November, and colder in December. Wear every layer you have, with a hat, gloves and a warm drink from the lodge. The best spots are the memorial chortens above the lodges and the edge of the moraine, both within five minutes' walk. Stay well back from the moraine lip, as it is loose gravel above a long drop to the glacier.",
+        "Once the sun reaches the camp, around 7:30 am, the frost melts quickly and the basin becomes comfortably warm in still weather. Most groups eat breakfast and begin the descent by 8:30 am, reaching Bamboo or Sinuwa by afternoon. If the morning is cloudy, waiting an hour is often rewarded. In spring the light is softer and cloud builds sooner, often by 10 am, so sunrise matters even more then and we keep the descent unhurried."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "What time is sunrise at Annapurna Base Camp?", "a": "In late October sunrise reaches the summit of Annapurna I at about 6:05 am, and the camp itself gets direct sun around 7:30 am because it sits deep in the basin. In April first light is roughly 5:40 am. Be outside 20–30 minutes earlier to watch the sky brighten."},
+        {"q": "How cold is it at Annapurna Base Camp at sunrise?", "a": "Expect −5 to −10 °C at dawn in October and November, −10 to −15 °C or lower from December to February, and around −5 to 0 °C in April and May. Wind makes it feel colder. A down jacket, thermal layers, gloves and a warm hat are essential."},
+        {"q": "Which peaks can I see from Annapurna Base Camp?", "a": "From ABC you see Annapurna I (8,091 m), Annapurna South (7,219 m), Hiunchuli (6,441 m), Machhapuchhre (6,993 m), Gangapurna (7,455 m), Annapurna III and smaller peaks such as Tharpu Chuli, also called Tent Peak. The ring surrounds the basin on almost every side."}
+      ]
+    },
+    {
+      "slug": "annapurna-base-camp-heli-landing-from-pokhara",
+      "title": "Helicopter landing at Annapurna Base Camp",
+      "kind": "aerial",
+      "duration": "2–3 hours from Pokhara",
+      "best_time": "Early morning, Oct–May",
+      "price_hint": "From ₹56,000 or US$650 per person",
+      "image_query": "helicopter Annapurna Base Camp landing",
+      "wiki": "",
+      "summary": "A morning helicopter from Pokhara flies up the Modi Khola gorge and lands inside the Annapurna Sanctuary in 25–30 minutes, giving you 15–20 minutes among the peaks at 4,130 m. It suits travellers short on time and those who cannot trek.",
+      "body": [
+        "Flights leave Pokhara airport between about 6:30 and 9 am, when skies are usually clearest. The route passes over Phewa Lake and the foothills, then enters the gorge of the Modi Khola between Hiunchuli and Machhapuchhre. The walls rise close on both sides before the sanctuary opens out ahead. The landing is on flat ground near the lodges, 25–30 minutes after take-off. Many operators stop briefly at Machhapuchhre Base Camp on the way down.",
+        "Weather decides everything. Cloud often fills the gorge by late morning, so flights go early and can be delayed, rerouted or cancelled at short notice. At 4,130 m helicopter engines and rotors produce less lift, so pilots take fewer passengers than they would at Pokhara; on larger bookings the group may be shuttled in two loads. Time on the ground is usually 15–20 minutes. Our one-day heli tour starts at ₹56,000 or US$650 per person on a shared seat. Check current status before you travel.",
+        "Arriving from 822 m to 4,130 m in half an hour gives the body no time to adjust. Most healthy people feel only mild breathlessness during a short stop, but walk slowly and avoid running or carrying heavy bags. People with heart or lung conditions, uncontrolled high blood pressure or pregnancy should not fly to this altitude without medical advice, and we may decline such bookings. Children should be old enough to say how they feel."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How much does the Annapurna Base Camp heli tour cost?", "a": "Our one-day Annapurna Base Camp heli tour from Pokhara starts at ₹56,000 or US$650 per person on a shared seat. A private charter for the whole helicopter costs considerably more and is quoted per flight. Prices depend on fuel and passenger numbers; check current status before you travel."},
+        {"q": "How long do you stay at Annapurna Base Camp on a heli tour?", "a": "Usually 15–20 minutes on the ground. The limit comes from weather, which can close in quickly, and from altitude, since staying long at 4,130 m without acclimatisation increases the risk of headaches and breathlessness. Some flights also stop briefly at Machhapuchhre Base Camp."},
+        {"q": "Who should not take the ABC helicopter tour?", "a": "People with heart or lung disease, severe high blood pressure, recent surgery or pregnancy should not fly to 4,130 m without a doctor's approval. Infants and very young children who cannot describe symptoms are also better left out. Everyone else should walk slowly and drink water on landing."}
+      ]
+    },
+    {
+      "slug": "annapurna-base-camp-walk-from-machhapuchhre-base-camp",
+      "title": "From Machhapuchhre Base Camp to ABC",
+      "kind": "hiking",
+      "duration": "1.5–2 hours",
+      "best_time": "Morning, Mar–May and Oct–Nov",
+      "price_hint": "Included in ABC treks",
+      "image_query": "Machhapuchhre Base Camp trail Annapurna",
+      "wiki": "",
+      "summary": "The last stretch of the Annapurna Base Camp trek climbs about 430 m in two hours across open meadow and moraine from Machhapuchhre Base Camp (3,700 m) into the heart of the sanctuary, with the ring of peaks closing around you at every step.",
+      "body": [
+        "Machhapuchhre Base Camp, known on trail signs as MBC, sits at 3,700 m where the Modi Khola gorge opens into the sanctuary. The approach from Deurali follows the river through a section exposed to avalanches from the slopes above, particularly in late winter and spring; a January 2020 avalanche near Deurali killed several trekkers and guides. When risk is high, the trail is sometimes rerouted to the other side of the valley. Check current status before you travel.",
+        "From MBC the path to Annapurna Base Camp climbs gently but steadily over grassy slopes and old moraine, gaining about 430 m in roughly 1.5–2 hours. The air is thin, so walk slowly and breathe deeply. Machhapuchhre looms behind you and the south face of Annapurna I grows ahead. In spring there may be deep snow; in autumn the trail is dry and clear. Look out for Himalayan monal pheasants on the slopes below the trail.",
+        "Altitude matters here. Many trekkers climb from Deurali (3,230 m) to ABC in one day, a gain of 900 m. If anyone has a headache, nausea, dizziness or unusual tiredness, we stop at MBC for the night and continue next morning. Symptoms that worsen at rest are a signal to descend, not to push on. Our guides carry a pulse oximeter and a first aid kit, and helicopter evacuation can be arranged from either base camp in clear weather."
+      ],
+      "good_for": ["groups", "solo", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How far is Machhapuchhre Base Camp from Annapurna Base Camp?", "a": "About 1.5–2 hours on foot, climbing roughly 430 m from 3,700 m to 4,130 m over meadow and moraine. The trail is well marked and not technical, but the altitude slows everyone down. In snow it can take longer, and the path is harder to follow without a guide."},
+        {"q": "Is there avalanche risk on the way to Annapurna Base Camp?", "a": "Yes, mainly on the section between Deurali and Machhapuchhre Base Camp in late winter and spring, when snow builds on the slopes above the trail. A January 2020 avalanche there killed several people. Lodges and ACAP post warnings and sometimes reroute the trail. Check current status before you travel."},
+        {"q": "Will I get altitude sickness at Annapurna Base Camp?", "a": "Some trekkers feel mild symptoms such as headache, poor sleep or loss of appetite at 4,130 m. Serious altitude sickness is less common but possible, especially after a fast climb. Ascend gradually, drink 3–4 litres of water a day, avoid alcohol and descend if symptoms worsen at rest."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Annapurna Base Camp?", "a": "Annapurna Base Camp is at 4,130 m above sea level, inside the Annapurna Sanctuary. Machhapuchhre Base Camp, two hours below, is at 3,700 m. The summit of Annapurna I rises to 8,091 m directly above the camp, making it one of the deepest mountain views you can reach on a trek."},
+    {"q": "How many days does the Annapurna Base Camp trek take?", "a": "Most itineraries take 7–9 days of walking from the road near Pokhara, or 10–12 days including Kathmandu. Our 11-day ABC trek starts at ₹78,000 or US$910 per person. A shorter 8-day version walks up and returns by helicopter, from ₹1,12,000 or US$1,310."},
+    {"q": "How difficult is the Annapurna Base Camp trek?", "a": "It is graded challenging. Walking days are 5–7 hours with long stone staircases, especially around Chhomrong, and the route climbs to 4,130 m. No technical climbing is needed. Regular hikers with good fitness and a few weeks of preparation usually complete it. Altitude is the main risk."},
+    {"q": "What permits do I need for Annapurna Base Camp?", "a": "You need the ACAP permit: NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians. Since April 2023 Nepal requires foreign trekkers to walk with a licensed guide, though enforcement has varied. Our packages include the permit and a guide. Check current status before you travel."},
+    {"q": "What is the best time to trek to Annapurna Base Camp?", "a": "October and November give the most reliable clear skies, with cold nights. March and April bring warmer days, rhododendrons lower down and more afternoon cloud, plus avalanche risk on the Deurali section. December to February is quieter and very cold, with heavy snow at times. June to August is monsoon."},
+    {"q": "Can I visit Annapurna Base Camp by helicopter?", "a": "Yes. Helicopters fly from Pokhara to ABC in 25–30 minutes, usually early in the morning, with 15–20 minutes on the ground. Flights depend on clear weather and carry fewer passengers at altitude. Our one-day heli tour starts at ₹56,000 or US$650 per person. Check current status before you travel."},
+    {"q": "Is there accommodation at Annapurna Base Camp?", "a": "Yes. A small cluster of teahouse lodges offers basic twin rooms and dormitories with blankets, shared toilets and a heated dining hall. Rooms fill in peak months, when some trekkers sleep in dining halls. Bring a warm sleeping bag, as rooms are unheated and nights fall well below freezing."},
+    {"q": "Can Indian families do the Annapurna Base Camp trek?", "a": "Yes, if all members are fit and children are at least 10–12 and used to multi-day hikes. Indian nationals need no visa and pay the SAARC ACAP rate. Families who want the view without the walk often choose the helicopter tour or the shorter trek with a heli return."},
+    {"q": "Is there mobile network and wifi at Annapurna Base Camp?", "a": "Mobile signal is patchy and unreliable inside the sanctuary, though some networks work at times. Most lodges offer paid wifi for about NPR 500 or more, but it is slow and fails in bad weather. Tell family you may be out of contact for two or three days."}
+  ]
+}

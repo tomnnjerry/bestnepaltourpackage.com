@@ -1,0 +1,130 @@
+{
+  "slug": "barauli",
+  "name": "Barauli",
+  "region": "chitwan",
+  "kind": "border town",
+  "wiki": "",
+  "image_query": "Tharu village homestay Nawalpur Nepal",
+  "lat": 27.64,
+  "lng": 84.15,
+  "altitude_m": 150,
+  "tagline": "A women-run Tharu homestay village across the Narayani",
+  "meta_description": "Barauli Tharu homestay near Chitwan: women-run community stay, Tharu cooking, village walks, Narayani river sunsets and how to reach Barauli from Kathmandu.",
+  "summary": "Barauli is a Tharu farming village in Kawasoti, Nawalpur, just across the Narayani from Chitwan National Park's western edge. Since 2015 its women have run a community homestay of small cottages, offering home-cooked Tharu meals, village walks and river sunsets. One or two nights pair well with a Chitwan safari.",
+  "intro": [
+    "Barauli lies on the west bank of the Narayani in Kawasoti Municipality, Nawalpur district, about 45 km by road from Bharatpur. The village is Tharu, with mud-walled houses, buffalo sheds and fields of rice, wheat and mustard running down to the river. Across the water lies the western buffer zone of Chitwan National Park, and wild elephants and rhinos occasionally cross into the fields at night.",
+    "In 2015 local women, supported by the Community Homestay Network, opened the Barauli Community Homestay. Instead of staying in family bedrooms, guests sleep in a cluster of small cottages built in the village, each with an attached bathroom, and eat in the homes of the host families. The project is run by Tharu women, and income goes to the households and a community fund. It is one of the better-known examples of community tourism around Chitwan.",
+    "A stay here is slow and personal. You might help grind spices, catch small fish in a bamboo trap, learn a few words of the Tharu language, or watch the village dance group perform in the evening. Barauli is not a safari base in itself, but lodges and guides can arrange jeep drives into the western sector or a day across in Meghauli. We include it in our Tharu culture homestay package."
+  ],
+  "facts": [
+    ["Altitude", "≈ 150 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bharatpur (≈ 45 km · 1.5 h)"],
+    ["From Kathmandu", "≈ 200 km · 6–7 h by road"],
+    ["Known for", "Women-run Tharu homestay, home cooking, village life"]
+  ],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Women-run community homestay", "text": "Barauli's homestay is managed by Tharu women from the village. You sleep in simple cottages with attached bathrooms and share meals with host families, and your money goes straight to the households and their community fund."},
+    {"title": "Home-cooked Tharu food", "text": "Meals are cooked over wood or gas fires in family kitchens: rice, lentils, seasonal greens, fish or snail curry, and dhikri, steamed rice-flour dumplings. Guests are welcome to help in the kitchen."},
+    {"title": "Narayani riverbank sunset", "text": "A short walk from the village brings you to the wide Narayani, with the forest of the Chitwan buffer zone on the far bank. Evenings are quiet, with fishermen in dugouts and egrets flying to roost."},
+    {"title": "Village walks and farm work", "text": "Walk the fields with a host, visit the school and the community forest, and join in whatever the season brings, from planting rice in July to harvesting in November and mustard flowers in January."},
+    {"title": "Evening Tharu dances", "text": "The village cultural group performs stick and harvest dances for guests on some evenings, in the courtyard rather than a theatre, which gives a very different feel from the Sauraha shows."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Kathmandu, Barauli is ≈ 200 km · 6–7 h via Mugling and Narayangarh, crossing the Narayani at Gaindakot and following the Mahendra Highway west to Kawasoti before turning south. From Sauraha it is ≈ 60 km · 1.5–2 h, and from Lumbini ≈ 120 km · 3.5 h."},
+    {"mode": "Air", "text": "Fly Kathmandu–Bharatpur in about 25 minutes, then drive ≈ 45 km · 1.5 h west via Gaindakot and Kawasoti. We arrange the transfer with the airport pick-up."}
+  ],
+  "where_to_stay": "The Barauli Community Homestay is the reason to come: about a dozen small cottages built within the village, each with comfortable beds and an attached bathroom with a Western toilet, and meals in the host families' homes. It is basic compared with a resort but clean and well run. There are no large hotels in Barauli itself; travellers who want more comfort can stay in Meghauli across the river or at the resorts near Kawasoti and combine that with a day visit to the village.",
+  "stays": [],
+  "tips": [
+    "Book ahead; the homestay has a limited number of cottages and groups fill it quickly in October and November.",
+    "Bring modest clothes; shorts are fine for men, but women should cover knees and shoulders in the village.",
+    "Carry a torch; village lanes are dark and wild elephants sometimes visit the fields at night.",
+    "Pack a small gift for the host family, such as fruit or school supplies, rather than giving money to children.",
+    "Mobile data works in the village, but the homestay is a good place to switch off for a day."
+  ],
+  "themes": ["cultural-tours", "budget-nepal", "family-holidays", "photography"],
+  "nearby": ["meghauli", "chitwan-national-park", "bharatpur"],
+  "experiences": [
+    {
+      "slug": "barauli-tharu-cooking-with-hosts",
+      "title": "Cook a Tharu meal with Barauli hosts",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "Evening, Oct–Mar",
+      "price_hint": "Included in the homestay stay",
+      "image_query": "Tharu food dhikri Nepal",
+      "wiki": "",
+      "summary": "Join a host family in their kitchen to prepare a Tharu dinner, grinding spices on a stone, steaming rice-flour dhikri and cooking fish or snail curry, then eat together on the veranda.",
+      "body": [
+        "Cooking starts in the late afternoon. Your host may take you to the vegetable patch to pick greens, then show you how to grind turmeric, garlic, chilli and coriander on a flat stone with a round grinder. Tharu cooking leans on mustard oil, fresh herbs and whatever the river and fields provide: fish caught in bamboo traps, freshwater snails called ghonghi, wild greens and seasonal vegetables.",
+        "The dish most guests remember is dhikri, steamed dumplings shaped from rice flour into long rolls or small figures and eaten with a spicy chutney or curry. Your host shows you how to knead and shape them, and children usually enjoy making animal shapes. Dinner is served on the veranda or in the courtyard, often with rice, lentils, a vegetable curry and pickles.",
+        "Meals are vegetarian on request, and hosts are used to cooking with less chilli for guests. If you eat fish or snails, tell your host in advance so they can prepare them. Alcohol is not part of the experience, though local rice beer may be offered at festivals; it is fine to say no."
+      ],
+      "good_for": ["families", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "What is dhikri?", "a": "Dhikri is a traditional Tharu food made from rice flour dough, shaped into rolls or small figures and steamed. It is eaten with chutney, curry or meat sauce and is made at festivals and for guests. In Barauli you can help knead and shape dhikri with your host family before dinner."},
+        {"q": "Is Tharu food spicy?", "a": "It can be, but hosts adjust the chilli for guests. Tharu cooking uses mustard oil, garlic, turmeric and fresh herbs, with fish, snails and greens. Ask your host to cook mild if you prefer. Rice, lentils and vegetable curries are always available."},
+        {"q": "Can vegetarians stay at the Barauli homestay?", "a": "Yes. Hosts cook vegetarian meals on request, including rice, lentils, seasonal vegetables, dhikri and pickles. Let us know at booking so the family can plan. Jain or no-onion, no-garlic meals are harder in a village kitchen but can be discussed in advance."}
+      ]
+    },
+    {
+      "slug": "barauli-village-and-fields-walk",
+      "title": "Barauli village and farm walk",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Included in the homestay stay",
+      "image_query": "Tharu woman rice field Terai Nepal",
+      "wiki": "Tharu people",
+      "summary": "A morning walk with your host through the village, school, fields and community forest, joining in seasonal farm work and learning how the Tharu live alongside wildlife from the park.",
+      "body": [
+        "After tea and breakfast, a host walks you through the village. You see traditional houses with thick mud walls and painted reliefs, grain stored in tall clay containers, fishing traps woven from bamboo, and the buffalo and goats that most families keep. The route continues through the fields, where depending on the season you might help plant rice seedlings in knee-deep mud, cut wheat, or pick mustard.",
+        "Your host also explains life beside the national park: electric fences to keep out elephants and rhinos, the community forest where families collect fodder under agreed rules, and how a share of the park's income supports local projects. The school is often on the route, and if you visit on a weekday you can meet teachers and see how classes run.",
+        "The walk is flat and 3 to 5 km, with stops to talk and rest. Bring a hat and water, and old shoes if you want to join farm work. Ask before photographing people, and expect children to follow you around for part of the way."
+      ],
+      "good_for": ["families", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Can I join farm work at the Barauli homestay?", "a": "Yes, if the season allows. You might plant rice in June and July, harvest in October and November, or help in vegetable gardens in winter. Your host decides what is safe and useful. Wear old clothes and shoes you do not mind getting muddy."},
+        {"q": "Is Barauli safe from wild animals?", "a": "Yes, for visitors who follow local advice. Wild elephants and rhinos sometimes enter fields at night, so the village uses electric fences and people stay indoors after dark. Daytime walks with your host are safe. Do not walk along the river or into the forest alone, especially at dusk."},
+        {"q": "How does the homestay help the community?", "a": "Income from cottages and meals goes to the host families, and part of it goes to a community fund managed by the women's group. The project gives local women an income and a role in decisions. Buying local crafts and food in the village adds to that benefit."}
+      ]
+    },
+    {
+      "slug": "barauli-narayani-sunset-walk",
+      "title": "Narayani riverbank sunset from Barauli",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Oct–Apr",
+      "price_hint": "Included in the homestay stay",
+      "image_query": "Narayani river sunset Nawalparasi",
+      "wiki": "Gandaki River",
+      "summary": "A short evening walk to the Narayani, one of Nepal's largest rivers, to watch fishermen pole dugouts home and the sun set over the water, with the forest of the Chitwan buffer zone on the far bank.",
+      "body": [
+        "The Narayani forms where the Kali Gandaki and the Trishuli meet at Devghat, and by the time it reaches Barauli it is a broad, braided river with gravel islands and channels. A 20-minute walk from the homestay brings you to the bank in time for the evening light. Fishermen in dugout canoes check nets, women wash pots at the water's edge, and flocks of egrets and cormorants head to roost.",
+        "Across the river lies the buffer zone of Chitwan National Park, with forest running to the Churia hills. On quiet evenings you may hear peacocks calling, and sometimes see deer or a rhino at the edge of the grass on the far bank. Mugger crocodiles and occasionally gharial use the river here, which is one reason locals do not swim at dusk.",
+        "This is an unhurried walk rather than a safari. Bring binoculars, a camera and a light jacket in winter. Your host leads you back to the village before dark, when wildlife becomes active and the fields are best left alone."
+      ],
+      "good_for": ["couples", "photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "Can I swim in the Narayani at Barauli?", "a": "We advise against it. The Narayani is wide and has strong currents, especially after the monsoon, and mugger crocodiles and occasionally gharial live in the river. Paddle at the edge with your host if you like, but do not swim, and stay away from the water after dark."},
+        {"q": "Can I see wildlife from the Barauli riverbank?", "a": "Sometimes. Across the river lies the Chitwan buffer zone, and deer, rhinos and crocodiles are occasionally seen. Birds are certain: egrets, cormorants, kingfishers and wintering ducks. For reliable wildlife, combine Barauli with a jeep safari in the park."},
+        {"q": "How far is the river from the Barauli homestay?", "a": "About a 15–20 minute walk on flat village tracks. Your host leads the way and brings you back before dark. The walk passes fields and houses, so it doubles as a short village tour."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Barauli in Nepal?", "a": "Barauli is a Tharu village in Kawasoti Municipality, Nawalpur district, on the west bank of the Narayani river opposite the western edge of Chitwan National Park. It is about 45 km by road from Bharatpur and around 200 km from Kathmandu."},
+    {"q": "What is the Barauli Community Homestay?", "a": "It is a community tourism project opened in 2015 and run by Tharu women of Barauli with support from the Community Homestay Network. Guests stay in small cottages with attached bathrooms built within the village and eat with host families. Income goes to the households and a community fund."},
+    {"q": "Is the Barauli homestay comfortable?", "a": "It is simple but comfortable: clean cottages with proper beds, attached bathrooms with Western toilets, hot water and electricity. You eat home-cooked meals with your host family. Do not expect air conditioning, a pool or room service. Most guests find it one of the highlights of their Nepal trip."},
+    {"q": "How many nights should I stay in Barauli?", "a": "One night gives a taste of village life, cooking and the river sunset. Two nights let you slow down, join farm work and see the village dance group. Most of our guests combine one or two nights here with two nights of safari in Chitwan."},
+    {"q": "Can I do a jungle safari from Barauli?", "a": "Barauli is not a safari base in itself, but jeep safaris into the western sector of Chitwan can be arranged from nearby, and Meghauli's lodges are about an hour away. Our Tharu culture homestay package adds a safari day from Sauraha or Meghauli."},
+    {"q": "Is Barauli suitable for families with children?", "a": "Yes. Children usually love the cooking, animals, farm work and freedom of the village. Cottages can take a family of three or four. The main cautions are wildlife after dark and the river, so keep children close in the evenings."},
+    {"q": "What is the best time to visit Barauli?", "a": "October to March is ideal, with dry weather and pleasant days of 20–28 °C. November is harvest time and January has mustard in flower. April and May are hot, and June to September is monsoon and rice-planting season, when fields are muddy but green."},
+    {"q": "How do I book the Barauli homestay?", "a": "You can book it as part of our Tharu culture homestay package, which includes transport, meals and a guide, or we can add one or two nights to any Chitwan trip. Rooms are limited, so book a few weeks ahead for October to December."},
+    {"q": "What should I bring for a Tharu homestay?", "a": "Modest clothes, a torch, insect repellent, a refillable water bottle, comfortable shoes you can get muddy, and a small gift for your host family such as fruit or school supplies. A phrasebook or a few words of Nepali go a long way."}
+  ]
+}

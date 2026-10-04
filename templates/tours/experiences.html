@@ -1,0 +1,10 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Things to Do in Nepal by Region and Interest{% endblock %}
+{% block meta_description %}Things to do in Nepal: temples, scenic flights, paragliding, rafting, jungle safaris, day hikes, food walks and monastery visits, region by region.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "compass" %}Things to do</p><h1>Things to do in Nepal</h1><p class="phead__lede">Short experiences you can add to any package: a sunrise flight, a pottery square, a canoe on the Rapti, an evening aarti at Pashupati.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "compass" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight"><div class="wrap"><ul class="styles">{% for k, name, tag in kind_links %}<li><a href="{% url 'experience_kind' k %}"><span class="tbadge">{% icon k %}</span><b>{{ name }}</b><small>{{ tag }}</small></a></li>{% endfor %}</ul></div></section>
+{% for r in regions %}<section class="sec--tight" data-land="{{ r.slug }}"><div class="wrap"><div class="sec__head"><h2 class="h2">{{ r.name }}</h2><a class="textlink" href="{{ r.url }}">{{ r.short|default:r.name }} guide{% icon "arrow" %}</a></div>
+<div class="rail">{% for p in r.places %}{% for e in p.experiences|slice:":1" %}{% include "tours/partials/exp_card.html" %}{% endfor %}{% endfor %}</div></div></section>{% endfor %}
+{% endblock %}

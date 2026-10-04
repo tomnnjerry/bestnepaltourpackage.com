@@ -1,0 +1,85 @@
+{
+  "slug": "chisapani-nagarkot-trek-3-days",
+  "title": "Chisapani Nagarkot Trek via Shivapuri 3 Days",
+  "region": "langtang",
+  "type": "trek",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["trekking", "short-breaks", "family-holidays", "budget-nepal"],
+  "stops": [
+    {"place": "shivapuri-nagarjun-national-park", "nights": 0},
+    {"place": "chisapani", "nights": 1},
+    {"place": "nagarkot", "nights": 1}
+  ],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_inr": 16000,
+  "price_from_usd": 190,
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 2438,
+  "accommodation": "Lodge in Chisapani, 3-star hotel in Nagarkot, twin sharing",
+  "transport": "Private car Kathmandu–Sundarijal and Changu Narayan–Kathmandu",
+  "group": "Private, 2–12",
+  "meta_description": "Chisapani Nagarkot trek 3 days from Kathmandu: hike through Shivapuri National Park, Himalayan sunrise at Chisapani and Nagarkot. Easy, from ₹16,000.",
+  "summary": "A short, easy trek straight from Kathmandu: hike from Sundarijal through Shivapuri Nagarjun National Park to Chisapani (2,165 m), walk the valley rim through Tamang villages to Nagarkot, and finish via the Changu Narayan temple. Two Himalayan sunrises, 4–7 hours of walking a day, and no altitude worries.",
+  "intro": [
+    "If you have only a few days in Kathmandu but want to walk in the hills and see the Himalaya, this is the trek. It begins at Sundarijal on the city's north-eastern edge and climbs through the oak and rhododendron forest of Shivapuri Nagarjun National Park to the ridge-top village of Chisapani, where lodges face a line of peaks from the Ganesh Himal and Langtang to Dorje Lakpa and the Jugal Himal. Day two follows the hills along the valley rim through farming villages to Nagarkot.",
+    "On day three you watch sunrise from Nagarkot, then walk down to Changu Narayan, one of the oldest Hindu temples in the valley and part of the Kathmandu Valley World Heritage Site, before driving back to the city by lunchtime. The highest point is Borlang Bhanjyang at about 2,438 m, so the trek suits families with children, older travellers in reasonable health and first-timers testing themselves before a longer trek."
+  ],
+  "highlights": [
+    "Forest hike through Shivapuri Nagarjun National Park",
+    "Sunrise over Langtang and Jugal ranges from Chisapani",
+    "Village ridge walk via Chauki Bhanjyang and Jhule",
+    "Second sunrise from Nagarkot on the valley rim",
+    "Changu Narayan temple on the final morning",
+    "Easy grade, maximum 2,438 m, good for families"
+  ],
+  "days": [
+    {"day": 1, "title": "Sundarijal to Chisapani through Shivapuri", "place": "chisapani", "overnight": "Chisapani", "altitude_m": 2165, "max_m": 2438, "walk": "≈ 4–5 h · 11 km", "drive": "≈ 15 km · 45 min", "flight": "", "text": "We collect you from your hotel at about 8 am and drive to Sundarijal. After paying the national park fee at the gate, climb stone steps past small waterfalls and the water pipeline to the Sundarijal reservoir. Continue through forest to the Tamang village of Mulkharka, then up through oak and rhododendron to the pass of Borlang Bhanjyang at about 2,438 m, with views back over the Kathmandu Valley. Descend gently to Chisapani for sunset on the peaks.", "meals": "L, D"},
+    {"day": 2, "title": "Ridge walk from Chisapani to Nagarkot", "place": "nagarkot", "overnight": "Nagarkot", "altitude_m": 2175, "max_m": 2175, "walk": "≈ 6–7 h · 18–20 km", "drive": "", "flight": "", "text": "Rise for sunrise on the Ganesh Himal, Langtang range and Jugal Himal. After breakfast, descend east to Chauki Bhanjyang and follow ridges and contour paths through terraced fields, small forests and Tamang and Brahmin villages towards Jhule. Lunch at a village tea house. The afternoon continues through Kattike, partly on rural dirt roads, to Nagarkot on the valley rim. Check in to a 3-star hotel with a hot shower and mountain-facing rooms where available.", "meals": "B, L, D"},
+    {"day": 3, "title": "Nagarkot sunrise and Changu Narayan", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2175, "walk": "≈ 2.5–3 h", "drive": "≈ 22 km · 1 h", "flight": "", "text": "Watch sunrise from your hotel or the viewpoint above Nagarkot, with peaks from Langtang to Gaurishankar on clear mornings. After breakfast, walk downhill through pine forest and the village of Telkot to Changu Narayan (about 1,541 m), a hilltop Vishnu temple with stone and wood carvings dating back many centuries. Explore the temple square, then drive back to Kathmandu, arriving around lunchtime.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private car Kathmandu–Sundarijal and Changu Narayan–Kathmandu",
+    "Licensed English- or Hindi-speaking guide",
+    "Porter for bags (one per two trekkers)",
+    "One night in a Chisapani lodge and one night in a 3-star Nagarkot hotel",
+    "Meals from lunch on day 1 to breakfast on day 3",
+    "Shivapuri Nagarjun National Park entry fee",
+    "Changu Narayan entry fee",
+    "Guide and porter wages, food, lodging and insurance"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "Drinks, snacks and bottled water",
+    "Tips for guide and porter",
+    "Travel insurance",
+    "Personal gear and daypack",
+    "Anything not listed as included",
+    "Extra costs from weather or road closures"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing, a private car and a standard 3-star hotel in Nagarkot; upgrades to higher-end Nagarkot hotels are available.",
+    "Day two is the longest at 6–7 hours; for families with young children we can shorten it with a vehicle for part of the route.",
+    "No TIMS card is needed for this route, but you pay the Shivapuri park fee; check current status before you travel.",
+    "October to March gives the clearest sunrises; spring haze often hides peaks by mid-morning.",
+    "Carry your passport for the park gate and hotel check-in."
+  ],
+  "add_ons": [
+    {"name": "Upgrade Nagarkot hotel to a premium resort", "price": "≈ ₹6,000–10,000 per room"},
+    {"name": "Start with a night at Park Village Resort, Budhanilkantha", "price": "≈ US$ 110 per room"},
+    {"name": "Bhaktapur sightseeing on the way back", "price": "≈ ₹2,500 per person incl. entry"}
+  ],
+  "faqs": [
+    {"q": "Is the Chisapani Nagarkot trek easy?", "a": "Yes, it is graded easy. Walking days are 4–7 hours on forest trails, village paths and some dirt roads, and the highest point is only about 2,438 m. There is no altitude risk. Anyone in reasonable health can do it, including children aged about 7 and above and active seniors."},
+    {"q": "How much does the Chisapani Nagarkot trek cost?", "a": "Our 3-day trek starts at about ₹16,000 or US$ 190 per person on twin sharing, including private car transfers, a licensed guide, a porter, one lodge night in Chisapani, one 3-star hotel night in Nagarkot, meals on the trek and park and temple fees. Tips and drinks are extra."},
+    {"q": "Can I do the Chisapani Nagarkot trek with kids?", "a": "Yes, it is one of the best family treks near Kathmandu. Children enjoy the forest, monkeys and village life, and the altitude is low. Day two is long, so for children under about 10 we can drive part of the route. Bring snacks, sun hats and good walking shoes."},
+    {"q": "What can I see on the Chisapani Nagarkot trek?", "a": "On clear mornings you see the Ganesh Himal, Langtang range, Dorje Lakpa, Jugal Himal and Gaurishankar from Chisapani and Nagarkot. Along the way are Shivapuri's forests, Tamang and Brahmin villages, terraced fields, and on the last morning the ancient Changu Narayan temple."},
+    {"q": "Do I need a permit for the Chisapani trek?", "a": "You need to pay the Shivapuri Nagarjun National Park entry fee at Sundarijal, which is included in our price. A TIMS card is generally not required for this short route outside the major trekking areas. A guide is strongly recommended for safety and route finding. Check current status before you travel."},
+    {"q": "When is the best time for the Chisapani Nagarkot trek?", "a": "October to March is best, with clear skies and the sharpest mountain views, especially December and January. February to April brings rhododendrons but more haze. The monsoon from June to September makes trails muddy and leech-ridden and usually hides the mountains."},
+    {"q": "Can I do Chisapani and Nagarkot in 2 days?", "a": "Yes. A 2-day version walks Sundarijal to Chisapani on day one and Chisapani to Nagarkot on day two, then drives back to Kathmandu in the evening. You miss the Nagarkot sunrise and Changu Narayan, but it fits a tight schedule. Ask us for the 2-day price."},
+    {"q": "What kind of accommodation is used?", "a": "In Chisapani you stay in a simple family-run lodge with clean twin rooms and, in most, attached bathrooms. In Nagarkot we use a 3-star hotel with mountain views where possible. Upgrades to premium resorts in Nagarkot are available for honeymooners and families wanting more comfort."},
+    {"q": "Is this trek good preparation for Everest or Langtang?", "a": "It is a useful test of your fitness, boots and pack, with long climbs on stone steps and a full day of walking. It will not acclimatise you to high altitude, but if you finish comfortably, a moderate trek like Langtang Valley or Annapurna Base Camp is a realistic next step."}
+  ]
+}

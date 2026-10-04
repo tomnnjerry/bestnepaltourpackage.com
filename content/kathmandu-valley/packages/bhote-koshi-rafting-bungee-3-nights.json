@@ -1,0 +1,133 @@
+{
+  "slug": "bhote-koshi-rafting-bungee-3-nights",
+  "title": "Bhote Koshi Rafting and Bungee, 3 Nights",
+  "region": "kathmandu-valley",
+  "type": "adventure",
+  "grade": "Moderate",
+  "nights": 3,
+  "themes": ["adventure-sports", "short-breaks"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 28000,
+  "price_from_usd": 390,
+  "best_months": [0, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 1550,
+  "accommodation": "3-star hotel in Kathmandu, 2 nights in a riverside tented camp or resort near the bungee bridge",
+  "transport": "Private vehicle Kathmandu–Bhote Koshi–Kathmandu on the Araniko Highway, rafting company bus to the put-in",
+  "group": "Small group, 2–12; rafting with other guests of the operator",
+  "meta_description": "Bhote Koshi adventure package, 4 days: class IV–V rafting and the 160 m bungee or canyon swing at The Last Resort, 3 h from Kathmandu. From ₹28,000.",
+  "summary": "Two days on one of Nepal's steepest, coldest rafting rivers and a 160 m bungee jump or canyon swing over the same gorge, three hours' drive from Kathmandu. The Bhote Koshi runs continuous class IV–V rapids in autumn and spring, and we pair it with riverside camp nights near the Tibet border.",
+  "intro": [
+    "The Bhote Koshi comes down from Tibet and drops fast through a narrow gorge on its way to join the Sun Koshi. In the rafting season it gives a day of continuous rapids, graded class IV–V when the water is high in September and October and a little friendlier by November and in spring. It is not a float trip: everyone paddles hard, follows the guide's calls and swims in cold snowmelt if the raft flips. Safety kayakers run the river ahead of and beside the rafts throughout.",
+    "The Last Resort, about 12 km short of the Tibet border, operates a 160 m bungee jump from a steel suspension bridge over the gorge, plus a canyon swing from the same platform. After the monsoon, floods and landslides on the Araniko Highway have closed the road and the operators for weeks at a time in several recent years, so we confirm both the road and the bungee site before every departure. Check current status before you travel; if either is shut, we switch to the Trishuli river and refund the bungee."
+  ],
+  "highlights": [
+    "Full day of class IV–V rafting on the Bhote Koshi with safety kayakers",
+    "160 m bungee jump or canyon swing over the Bhote Koshi gorge",
+    "Riverside camp nights in the gorge, 12 km from the Tibet border",
+    "Araniko Highway drive past Dhulikhel and the Sun Koshi valley",
+    "Qualified river guides and pre-trip swim and safety briefing",
+    "Only 3 hours from Kathmandu, ideal for a long weekend"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, adventure briefing",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 20–30 min",
+      "flight": "",
+      "text": "After pick-up from Tribhuvan International Airport, settle into your Kathmandu hotel. In the late afternoon we take you to the operator's Thamel office to confirm your weight for the bungee, sign the liability forms, check passport details and go over what to pack: quick-dry shorts, a swimsuit, sandals with a heel strap, a towel, a warm layer for the evenings and a change of clothes. The rafting company supplies helmets, life jackets, splash jackets and wetsuits when the water is cold. Have an early night; the bus leaves at 6:30 am.",
+      "meals": "—"
+    },
+    {
+      "day": 2,
+      "title": "Drive to the gorge, bungee or swing",
+      "place": "",
+      "overnight": "Riverside camp, Bhote Koshi",
+      "altitude_m": 1000,
+      "max_m": 1550,
+      "walk": "≈ 30 min",
+      "drive": "≈ 100 km · 3–3.5 h",
+      "flight": "",
+      "text": "The road crosses the Dhulikhel ridge, drops to the Sun Koshi at Dolalghat and follows the river north past Barhabise, where the Bhote Koshi valley narrows into a gorge. We reach camp by about 10 am. After a jump briefing, walk onto the bridge 160 m above the river. Bungee jumpers fall for a few seconds before the cord catches and you are lowered to the bank; the canyon swing drops you in free fall and then swings you in a wide arc across the gorge. Evening by the river, with dinner at camp.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Full day rafting the Bhote Koshi",
+      "place": "",
+      "overnight": "Riverside camp, Bhote Koshi",
+      "altitude_m": 1000,
+      "max_m": 1000,
+      "walk": "",
+      "drive": "≈ 30 km · 1 h to the put-in and back",
+      "flight": "",
+      "text": "After a 45-minute safety talk on the bank, covering paddle commands, how to swim a rapid feet first, and how to get back into the raft, we push off. The morning section is continuous whitewater with few calm pools, so the guide keeps everyone working; two safety kayakers and sometimes a second raft run with each group. We stop for a riverside lunch, then raft the lower section, which has bigger waves and more time between drops. The take-out is about 4 hours of paddling downstream, and the bus returns you to camp.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Back to Kathmandu via Dhulikhel",
+      "place": "dhulikhel",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1550,
+      "walk": "",
+      "drive": "≈ 100 km · 3.5–4 h",
+      "flight": "",
+      "text": "A slow breakfast at camp, with time for a second canyon swing if you book it the night before. We leave by 10 am, retracing the Araniko Highway down the gorge to Dolalghat, where the Indrawati joins the Sun Koshi, and up to Dhulikhel for lunch with views north to the Jugal Himal on a clear day. Back in Kathmandu by mid-afternoon, we drop you at the airport for an evening flight or at your hotel if you are staying on. Allow for delays from roadworks on the climb out of Dolalghat.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "1 night in a 3-star Kathmandu hotel with breakfast, twin sharing",
+    "2 nights in a riverside tented camp or resort near the bungee bridge with all meals",
+    "One 160 m bungee jump or one canyon swing (your choice)",
+    "Full-day Bhote Koshi rafting with licensed river guides and safety kayakers",
+    "Helmet, life jacket, paddle, splash jacket and wetsuit when needed",
+    "Private vehicle or operator bus Kathmandu–Bhote Koshi–Kathmandu",
+    "Airport pick-up and drop-off",
+    "All government taxes on included services"
+  ],
+  "excludes": [
+    "International flights or travel to the Nepal border",
+    "Nepal visa fee for non-Indian passport holders",
+    "Second jump, swing or rafting day",
+    "Photos and videos taken by the operator",
+    "Drinks and snacks",
+    "Lunch and dinner in Kathmandu",
+    "Travel insurance covering rafting and bungee (strongly advised)",
+    "Tips for river guides, kayakers and camp staff"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing, one bungee or swing per person, one rafting day and travel in the operator's vehicle with other guests; a private vehicle costs extra.",
+    "Minimum age is usually 16–18 for class IV–V rafting and 16 or over for the bungee and swing, with parental consent under 18. Operators also set weight limits for jumps, commonly about 35–100 kg. Confirm both when you book.",
+    "You must be able to swim and be in reasonable health. Heart conditions, epilepsy, high blood pressure, pregnancy, recent surgery and back or neck problems rule out the bungee and swing.",
+    "The Araniko Highway beyond Barhabise suffers landslides and floods after the monsoon, and the bungee site has closed in some years. Check current status before you travel; we confirm a week before departure.",
+    "Rafting runs roughly September to November and March to May; from June to August the river is too high, and in December–February the water is very cold."
+  ],
+  "add_ons": [
+    {"name": "Second jump or canyon swing", "price": "≈ US$ 60–70 extra (check current rates)"},
+    {"name": "Operator photo and video package", "price": "≈ ₹2,500 / US$ 30"},
+    {"name": "Extra night at the riverside camp with canyoning", "price": "≈ ₹9,000 / US$ 120 per person"}
+  ],
+  "faqs": [
+    {"q": "How hard is rafting on the Bhote Koshi?", "a": "It is one of the more demanding day trips in Nepal: continuous class IV–V rapids at high autumn flows, easing to class IV later in the season. You paddle hard for most of the run and must be able to swim. First-timers who are fit and follow instructions can do it, but the Trishuli is the gentler choice for families."},
+    {"q": "How high is the bungee jump at The Last Resort?", "a": "The jump is 160 m from a steel suspension bridge above the Bhote Koshi gorge, about 12 km from the Tibet border. Jumpers wear a full-body harness and ankle harness, fall several seconds before the cord catches, and are lowered to a recovery point on the riverbank. Operating status changes after monsoon floods, so check current status before you travel."},
+    {"q": "What is the difference between bungee and canyon swing?", "a": "Both start from the same 160 m platform. In a bungee jump you fall head-first on an elastic cord and bounce several times before being lowered. In the canyon swing you step off feet-first in a seat harness, free-fall on a static rope and then swing in a long arc across the gorge. Many people find the swing scarier."},
+    {"q": "What is the minimum age and weight for bungee and rafting?", "a": "Most operators accept bungee and swing jumpers from 16, with parental consent under 18, and set a weight range of roughly 35–100 kg. Class IV–V rafting usually needs participants of at least 16–18. Rules differ between operators and seasons, so we confirm limits when you book and check current status before you travel."},
+    {"q": "Is the Araniko Highway to the Bhote Koshi open?", "a": "Usually from October to May, but the road beyond Barhabise has been cut by floods and landslides in several monsoons, sometimes for weeks. We call the operator and our drivers a week before every departure and again the day before. If the road is closed, we move your rafting to the Trishuli and refund the bungee."},
+    {"q": "Are safety kayakers used on Bhote Koshi rafting?", "a": "Yes. On a river this continuous, reputable operators send at least one and usually two safety kayakers with each group to pick up swimmers and recover gear. Guides hold Nepal rafting guide licences and first aid training, and we only book with operators that follow these standards. Ask us for the safety plan of your departure."},
+    {"q": "What should I bring for a rafting and bungee trip?", "a": "Quick-dry shorts and a synthetic T-shirt, a swimsuit, sandals that strap on firmly, a towel, sunscreen, sunglasses with a strap, a fleece and long trousers for evenings, and a change of clothes in a dry bag. Leave rings, watches and valuables at the Kathmandu hotel. Contact lenses are fine; glasses need a strap."},
+    {"q": "Is this adventure package good for a group of friends from India?", "a": "Yes, it is one of our most popular long-weekend trips for groups of friends and college batches. The 3-hour drive means no internal flights, Indian nationals need only a passport or voter ID, and camp evenings suit groups. For six or more we arrange a private vehicle and can reserve the whole camp on quieter dates."},
+    {"q": "Can non-swimmers go rafting on the Bhote Koshi?", "a": "We do not take non-swimmers on the Bhote Koshi. Swims in cold, fast water are a real possibility on class IV–V rapids, and although the life jacket keeps you afloat, you need to stay calm and swim to the raft or bank. Non-swimmers can still do the bungee or swing, or raft the easier Trishuli."}
+  ]
+}

@@ -1,0 +1,19 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ s.name }}, {{ s.place_obj.name }}{% endblock %}
+{% block meta_description %}{{ s.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %}data-land="{{ s.region }}"{% endblock %}
+{% block main %}
+<header class="phead"><div class="phead__bg">{% photo s|first_img s.name "" "100vw" True True %}</div><div class="wrap"><div class="phead__in">
+  <p class="kicker"><a href="{{ s.place_obj.url }}">{% icon "pin" %}{{ s.place_obj.name }}</a> · {{ s.kind|capfirst }}</p><h1>{{ s.name }}</h1><p class="phead__lede">{{ s.summary }}</p>
+  <ul class="phead__facts">{% if s.class %}<li>{% icon "bed" %}{{ s.class }}</li>{% endif %}<li>{% icon "altitude" %}{{ s.place_obj.altitude_m|thousands }} m</li></ul>
+</div></div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight"><div class="split"><article class="prose">
+  {% for para in s.body %}<p>{{ para }}</p>{% endfor %}
+  {% if s.why %}<h2 class="h2">Why we book it</h2><ul class="ticks">{% for w in s.why %}<li>{% icon "check" %}<span>{{ w }}</span></li>{% endfor %}</ul>{% endif %}
+  {% if s.best_for %}<h2 class="h3">Best for</h2><ul class="chips">{% for b in s.best_for %}<li><span class="chip">{% icon "users" %}{{ b|capfirst }}</span></li>{% endfor %}</ul>{% endif %}
+  {% if s.website %}<p style="margin-top:20px"><a href="{{ s.website }}" rel="noopener nofollow" target="_blank">Hotel's own website</a></p>{% endif %}
+  {% include "tours/partials/faqs.html" with faqs=s.faqs %}
+</article><aside class="aside">{% include "tours/partials/quick_form.html" with heading="Quote me with this hotel" region=s.region where="stay-aside" %}
+{% if others %}<div class="panel"><h2 class="h3">Other stays nearby</h2><ul class="mlinks">{% for o in others %}<li><a href="{{ o.url }}">{% icon "bed" %}{{ o.name }}</a></li>{% endfor %}</ul></div>{% endif %}</aside></div></div>
+{% if s.package_objs %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Packages with {{ s.name }}</h2></div><div class="passes">{% for k in s.package_objs|slice:":3" %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

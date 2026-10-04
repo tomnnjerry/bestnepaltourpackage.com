@@ -1,0 +1,131 @@
+{
+  "slug": "kanyam",
+  "name": "Kanyam",
+  "region": "east-nepal",
+  "kind": "hill station",
+  "wiki": "Kanyam",
+  "image_query": "Kanyam tea garden Ilam",
+  "lat": 26.869,
+  "lng": 88.071,
+  "altitude_m": 1650,
+  "tagline": "Open tea slopes on the Mechi Highway, 2 hours from the border",
+  "meta_description": "Kanyam tea garden guide: rolling tea slopes in Ilam district, picnic spots, Fikkal market, heli to Pathibhara, distance from Kakarbhitta and Bhadrapur.",
+  "summary": "Kanyam is a large tea garden at about 1,650 m on the Mechi Highway in Ilam district, roughly 2 hours' drive from Kakarbhitta and Bhadrapur. Its open, rolling slopes make it the most visited tea garden in Nepal. Most travellers stop for a few hours; stay a night for sunrise and a quiet evening walk.",
+  "intro": [
+    "Drive north from the Terai plains on the Mechi Highway and after about 60 km of climbing bends the forest opens onto a wide saddle covered in tea. That is Kanyam, a government-founded estate in Suryodaya municipality whose low, rounded slopes are easier to walk than the steep gardens around Ilam Bazaar. On a clear day you can see the Darjeeling hills across the border ridge and, in winter, the snow of the Kanchenjunga range far to the north.",
+    "Kanyam is a stop more than a town. The roadside has tea stalls, momo and chatpate stands, horse rides for children and a picnic area that fills with families from Jhapa, Biratnagar and the Indian side at weekends and on public holidays. A few minutes north, Fikkal bazaar has the shops, banks and most of the hotels in the area, and is the starting point for the drive to the Antu Danda sunrise point.",
+    "Because it sits only about 2 hours from Kakarbhitta, Kanyam is many Indian visitors' first taste of Nepal's hills. It is a sensible base for a relaxed tea-garden stay, for Antu Danda sunrise, and for shuttle helicopters to Pathibhara Devi, which have operated from Kanyam in good weather. Weekday mornings are the quietest time to walk the slopes."
+  ],
+  "facts": [
+    ["Altitude", "about 1,650 m"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Bhadrapur (BDP), ≈ 65 km · 2 h"],
+    ["From Kathmandu", "50 min flight to Bhadrapur + 2 h drive"],
+    ["Known for", "Rolling tea slopes, picnic spots, Fikkal market, Pathibhara heli shuttles"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Walk the open tea slopes", "text": "The estate's gentle, rounded hills are crossed by footpaths that start at the roadside. A loop of 45 minutes to an hour takes you up to the high points for views over the garden, the Mechi valley and the Darjeeling ridge."},
+    {"title": "Weekend picnic culture", "text": "On Saturdays and holidays the slopes near the road fill with families from Jhapa and the Indian border towns, picnic baskets, music and pony rides. Come on a weekday for quiet paths, or on a Saturday to see how Nepalis spend a day out."},
+    {"title": "Fikkal bazaar", "text": "A few minutes north, Fikkal is a busy hill market where tea, cardamom, oranges and vegetables are traded. It has the area's banks, pharmacies and most hotels, and is where we usually stay for the Antu Danda sunrise."},
+    {"title": "Gateway to Antu Danda", "text": "From Fikkal the road climbs about 20 km east to Antu Danda at 2,328 m, roughly 45 minutes to an hour by car. Staying near Kanyam or Fikkal cuts the pre-dawn drive for sunrise compared with staying in Ilam Bazaar."},
+    {"title": "Helicopter to Pathibhara", "text": "In the pilgrim seasons shuttle helicopters have flown from Kanyam to the landing area near Pathibhara Devi, about half an hour away. It turns a 2-day road and walking trip into a morning, weather permitting."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Kakarbhitta it is ≈ 60 km and about 2 hours via Charali and the Mechi Highway. From Ilam Bazaar it is ≈ 30 km south, about 1 hour. Public buses and shared jeeps run between Birtamod, Fikkal and Ilam through the day."},
+    {"mode": "Air", "text": "Fly Kathmandu–Bhadrapur (50 min), then drive ≈ 65 km and about 2 hours via Birtamod and Charali. Biratnagar airport is a longer 4-hour drive."},
+    {"mode": "Helicopter", "text": "In season, shared helicopter shuttles have connected Kanyam with Pathibhara Devi, taking about 30 minutes each way in clear morning weather. Check current status before you travel."}
+  ],
+  "where_to_stay": "Most visitors either day-trip Kanyam on the way to Ilam or sleep in Fikkal bazaar, a few minutes away, which has several simple hotels with restaurants. Small resorts and homestays on the tea slopes around Kanyam and Shree Antu offer rooms with garden views and home-cooked food, and new places open every year. Facilities are standard rather than luxury, with hot water and Nepali and Indian meals. We confirm the exact property, recently checked, with your quote.",
+  "stays": [],
+  "tips": [
+    "Visit on a weekday morning if you want empty paths and clear light for photographs.",
+    "Stay one night in Fikkal or Kanyam rather than Ilam if your main aim is the Antu Danda sunrise.",
+    "Stick to footpaths: walking between the tea rows damages the bushes and annoys estate staff.",
+    "Carry a light jacket; at 1,650 m evenings are cool even when the plains below are hot.",
+    "Buy Kanyam tea at the estate outlet or established shops and ask for the harvest month."
+  ],
+  "themes": ["family-holidays", "short-breaks", "overland-from-india", "honeymoon", "photography"],
+  "nearby": ["ilam", "antu-danda", "pathibhara"],
+  "experiences": [
+    {
+      "slug": "kanyam-tea-slopes-morning-walk",
+      "title": "Morning walk across Kanyam tea slopes",
+      "kind": "hiking",
+      "duration": "1.5 hours",
+      "best_time": "Early morning, Oct–Apr",
+      "price_hint": "",
+      "image_query": "Kanyam tea garden morning",
+      "wiki": "",
+      "summary": "An easy guided loop over the high points of the Kanyam estate before the weekend crowds arrive, with views across the Mechi valley to the Darjeeling hills and, on winter mornings, the Kanchenjunga range.",
+      "body": [
+        "We start at the roadside around 7 a.m., when mist often still lies in the hollows of the estate and the tea stalls are just opening. The path climbs gently to the rounded crests that give Kanyam its shape, then follows them along the top of the garden. The whole loop is about 3 km with a little over 100 m of climbing, so anyone used to walking will manage it.",
+        "From the high points the estate falls away in curves towards the Mechi valley, with the Darjeeling hills on the far ridge. On clear mornings in November to February you may see the white wall of the Kanchenjunga range on the northern horizon. Pluckers usually start in the gardens between March and November, and the light at this hour is the best of the day for photographs.",
+        "We finish back at the road for milk tea and fresh pakoras at a stall before driving on to Fikkal, Ilam or Antu Danda. On weekends and public holidays the slopes near the road get busy from about 10 a.m., so this is a walk worth getting up for."
+      ],
+      "good_for": ["couples", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Is there an entry fee for Kanyam tea garden?", "a": "There has been no general entry fee to walk the public paths at Kanyam, though parking and some activities such as pony rides are paid. Rules can change, so check current status before you travel."},
+        {"q": "Can we see Kanchenjunga from Kanyam?", "a": "Sometimes, on very clear mornings from November to February, as a distant line of snow on the northern horizon. For a much better view go to Antu Danda at 2,328 m for sunrise."},
+        {"q": "How long should we spend at Kanyam?", "a": "Two to three hours covers a walk, tea and photographs. If you want quiet paths and a sunrise trip to Antu Danda, stay one night nearby in Fikkal or a tea-garden homestay."}
+      ]
+    },
+    {
+      "slug": "kanyam-fikkal-market-and-tea-tasting",
+      "title": "Fikkal market and tea tasting stop",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Late morning, any season",
+      "price_hint": "≈ ₹800 per person for tasting",
+      "image_query": "Fikkal bazaar Ilam",
+      "wiki": "Phikkal",
+      "summary": "Wander Fikkal's hill market among cardamom, oranges and tea sacks, then taste orthodox and green teas from Kanyam and nearby gardens at a tea house, with tips on what to buy and carry home.",
+      "body": [
+        "Fikkal is the commercial centre of this part of Ilam, a strip of shops and stalls on the Mechi Highway a short drive north of Kanyam. Farmers bring in vegetables, oranges in winter, cardamom after the autumn harvest and broom grass, and traders load them onto lorries bound for Birtamod and the Indian border. A slow walk through the market gives a good picture of the hill economy that tea is only one part of.",
+        "We then sit down at a tea house that sells teas from Kanyam and the smaller gardens around Fikkal and Shree Antu. The tasting usually covers an orthodox black tea, a green tea and, when available, a white or hand-rolled speciality, brewed properly with timing and temperature explained. You learn how to tell a spring tea from a monsoon one and why Ilam teas often sell across the border.",
+        "Fikkal is also the place to stock up on snacks for the drive: fresh fruit, roasted corn, sel roti in the mornings and local biscuits. Many shopkeepers accept Indian rupees in small notes, but Nepali rupees make life easier."
+      ],
+      "good_for": ["couples", "families", "groups", "solo"],
+      "faqs": [
+        {"q": "Is Fikkal the same as Kanyam?", "a": "No. Fikkal is the market town a few minutes north of Kanyam on the Mechi Highway. Kanyam is the tea estate itself. Most hotels, banks and shops are in Fikkal."},
+        {"q": "Can I carry tea back to India?", "a": "Yes, reasonable quantities for personal use are routinely carried across at Kakarbhitta. Keep shop receipts. If you are buying for resale, ask about current customs rules first; check current status before you travel."},
+        {"q": "Which Ilam tea is best to buy?", "a": "For gifts, a spring (first flush) orthodox black tea or a good green tea from a named garden. Monsoon teas are cheaper and stronger, good for milk tea. Ask for the harvest month and garden on the pack."}
+      ]
+    },
+    {
+      "slug": "kanyam-tea-garden-homestay-evening",
+      "title": "Tea-garden homestay evening",
+      "kind": "culture",
+      "duration": "Overnight",
+      "best_time": "Oct–May",
+      "price_hint": "≈ ₹3,500 per person with dinner and breakfast",
+      "image_query": "tea garden homestay Ilam Nepal",
+      "wiki": "",
+      "summary": "Spend a night with a family on the tea slopes near Kanyam or Shree Antu, help cook a hill-style dinner, learn about tea and cardamom farming from your hosts and wake up to the garden at sunrise.",
+      "body": [
+        "Homestays have spread fast around Kanyam, Fikkal and Shree Antu, and the better ones offer clean private rooms, an attached or shared bathroom with hot water and home-cooked food. You arrive in the afternoon, walk the family's tea or cardamom plot and help in the kitchen if you wish. Dinner is usually dal bhat with seasonal greens, a pickle, maybe a chicken or paneer curry, followed by milk tea.",
+        "The value is in the conversation. Many host families in the area are Rai, Limbu, Lepcha or Brahmin-Chhetri farmers, and they can explain how a smallholding sells green leaf to the factories, why young people leave for the Gulf and how festivals like Sakela or Tihar are celebrated in the village. Evenings are quiet: the stars are clear in winter and the only sound is dogs and crickets.",
+        "Comfort varies, so we only use homestays we have checked recently and tell you honestly what the bathroom is like. It is a good add-on for couples and families who want something different from a bazaar hotel."
+      ],
+      "good_for": ["couples", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Are homestays in Ilam safe for families?", "a": "Yes. Registered homestays near Kanyam and Shree Antu host many Nepali and Indian families. We use places we have checked for clean rooms, safe water and hot showers, and tell you in advance if a bathroom is shared."},
+        {"q": "Is food in the homestay vegetarian?", "a": "Vegetarian meals are easy to arrange and are often the default. Tell us in advance if you need Jain food, no onion and garlic, or other dietary rules so the host can prepare."},
+        {"q": "Is there Wi-Fi and electricity?", "a": "Most homestays have mains power, occasional cuts and mobile data. Some have Wi-Fi. Bring a power bank and a torch just in case."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Kanyam from Kakarbhitta?", "a": "About 60 km, which takes around 2 hours by car via Charali and the winding Mechi Highway. From Siliguri, add about an hour to reach the border and time for Nepali entry formalities."},
+    {"q": "Is Kanyam worth visiting?", "a": "Yes, for its open, rolling tea slopes that are easier to walk and photograph than most Himalayan tea gardens. It is busy on weekends, so visit early or on a weekday, and combine it with Antu Danda sunrise and Ilam."},
+    {"q": "What is the altitude of Kanyam?", "a": "Kanyam sits at roughly 1,650 m. Days are mild, about 15–25 °C in spring and autumn, and nights in December and January can drop close to freezing. Altitude sickness is not a concern here."},
+    {"q": "Kanyam vs Ilam: where should I stay?", "a": "Stay near Kanyam or in Fikkal if your priority is the Antu Danda sunrise and a quiet tea-garden stay. Stay in Ilam Bazaar if you want the Ilam estate walk and Mai Pokhari, or are continuing north to Taplejung and Pathibhara."},
+    {"q": "Can I do Kanyam as a day trip from Siliguri?", "a": "It is possible but long: about 3 hours each way including the border. Indian cars need a customs pass at Kakarbhitta. An overnight in Fikkal or Kanyam makes for a much more relaxed trip with a sunrise at Antu Danda."},
+    {"q": "Does Kanyam have hotels?", "a": "There are small resorts and homestays around the estate and more hotels a few minutes north in Fikkal. Standards are simple to mid-range. There are no large chain hotels."},
+    {"q": "Is there a helicopter from Kanyam to Pathibhara?", "a": "In the main pilgrim seasons, shared helicopter shuttles have flown from Kanyam to the landing area near Pathibhara Devi in about 30 minutes, with local fares quoted around NPR 35,000 per seat return. Check current status before you travel."},
+    {"q": "What is the best time to visit Kanyam?", "a": "October to April for clear skies and comfortable temperatures. March and April add fresh green leaf and spring flowers. The monsoon from June to September brings fog, heavy rain and occasional landslides on the Mechi Highway."},
+    {"q": "Is Kanyam good for honeymooners?", "a": "Yes, as part of a slow east Nepal trip: a tea-garden homestay or small resort, sunrise at Antu Danda and a day in Ilam make a calm, low-cost honeymoon. Do not expect spa resorts; comfort is simple and personal."}
+  ]
+}

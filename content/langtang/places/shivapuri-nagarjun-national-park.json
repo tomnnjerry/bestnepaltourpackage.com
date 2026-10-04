@@ -1,0 +1,131 @@
+{
+  "slug": "shivapuri-nagarjun-national-park",
+  "name": "Shivapuri Nagarjun National Park",
+  "region": "langtang",
+  "kind": "national park",
+  "wiki": "Shivapuri Nagarjun National Park",
+  "image_query": "Shivapuri Nagarjun National Park forest Kathmandu",
+  "lat": 27.8083,
+  "lng": 85.3869,
+  "altitude_m": 2732,
+  "tagline": "Forested hills on Kathmandu's northern rim, up to 2,732 m",
+  "meta_description": "Shivapuri Nagarjun National Park on Kathmandu's rim: Shivapuri peak (2,732 m), Nagi Gompa, Bagmati source, 300+ bird species and day hikes. Plan here.",
+  "summary": "Shivapuri Nagarjun National Park protects 159 km² of forest on the northern rim of the Kathmandu Valley, rising to Shivapuri peak at 2,732 m. It is the city's water source and green lung, with day hikes to Nagi Gompa, the Bagmati's source at Baghdwar and Nagarjun's hilltop stupa, all within an hour of Thamel.",
+  "intro": [
+    "The hills you see north of Kathmandu, dark with forest even in the dry season, are Shivapuri Nagarjun National Park. Declared a national park in 2002 to protect the valley's main water catchment, it was enlarged in 2009 with the Nagarjun forest to the west, giving a total of about 159 km². It is the closest national park to any capital in the Himalaya: from Budhanilkantha or Sundarijal, you walk out of suburbs and straight into oak, rhododendron and pine forest within minutes.",
+    "The park climbs from about 1,350 m to the summit of Shivapuri at 2,732 m. Streams from its slopes feed the Bagmati and Bishnumati rivers, and the Bagmati itself begins at Baghdwar, a spring below the summit where water pours from a stone tiger's mouth. Religious sites dot the hills: Nagi Gompa, a Buddhist nunnery above Budhanilkantha; the Shivapuri Baba shrine; and the Jamacho stupa on Nagarjun hill, where the Buddhist sage Nagarjuna is said to have meditated.",
+    "For wildlife, Shivapuri is one of the best birding sites near Kathmandu, with more than 300 species recorded, from laughingthrushes and minivets to Himalayan griffons. Barking deer, rhesus macaques and wild boar are common, and leopards live in the forest, though they are rarely seen. The park makes a good acclimatisation day before a trek, a short break for families, or the first stage of the Chisapani and Helambu routes."
+  ],
+  "facts": [
+    ["Altitude", "1,350 – 2,732 m (Shivapuri peak)"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1, or day trips from Kathmandu"],
+    ["Nearest airport", "Kathmandu (≈ 30–40 min)"],
+    ["From Kathmandu", "≈ 12 km · 30–45 min to Budhanilkantha gate"],
+    ["Known for", "Shivapuri peak, Nagi Gompa, Bagmati source, birdwatching"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Shivapuri peak", "text": "The highest point on the valley rim at 2,732 m. On clear winter mornings the summit gives views north to the Langtang range, Ganesh Himal and Dorje Lakpa and south across the whole Kathmandu Valley. Allow 6–7 hours return from Budhanilkantha."},
+    {"title": "Nagi Gompa nunnery", "text": "A Buddhist nunnery on the slopes above Budhanilkantha, about 2 hours' climb from the park gate. Nuns live and study here, and visitors can see the prayer hall and enjoy wide views of Kathmandu. Dress modestly and keep noise low."},
+    {"title": "Baghdwar, source of the Bagmati", "text": "Below the summit, the sacred Bagmati River starts at Baghdwar, where a spring flows from a carved stone tiger's mouth. Hindu pilgrims come here on special days. It lies on the trail between Shivapuri peak and Borlang Bhanjyang."},
+    {"title": "Nagarjun and Jamacho stupa", "text": "In the park's western section, a road and trail climb Nagarjun hill to Jamacho at about 2,100 m, crowned with a white stupa and prayer flags. Buddhists associate the hill with the sage Nagarjuna. The view covers the valley and, on clear days, the Himalaya."},
+    {"title": "Over 300 bird species", "text": "Shivapuri is a top birding area close to Kathmandu, with more than 300 species recorded. Early mornings from November to April are best for laughingthrushes, sunbirds, minivets, woodpeckers and raptors such as the Himalayan griffon."},
+    {"title": "Budhanilkantha temple at the gate", "text": "At the foot of the park, Budhanilkantha temple holds a large stone statue of Vishnu reclining on a bed of serpents in a water tank, one of the most revered Hindu shrines in the valley. Most hikes start just above it."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Budhanilkantha, at the main park gate, is about 12 km and 30–45 minutes by taxi from Thamel. Sundarijal gate is about 15 km and 45 minutes to 1 hour from central Kathmandu. Nagarjun's Phulbari gate is about 5 km west of Thamel, near Balaju."},
+    {"mode": "On foot", "text": "Trails climb from Budhanilkantha to Nagi Gompa (about 2 hours) and on to Shivapuri peak (2–3 hours more). From Sundarijal the trail leads to Chisapani in 4–5 hours, and from Phulbari a trail climbs to Jamacho in about 3 hours."}
+  ],
+  "where_to_stay": "Most visitors stay in Kathmandu and come for the day, but two properties at Budhanilkantha on the park's southern edge make good bases. Shivapuri Heights Cottage is a small group of traditional-style cottages higher up the hillside with seven rooms, home-cooked meals and terraces looking over the valley, reached by a short walk from the road. Park Village Resort by KGH Group is a larger 4-star resort on wooded grounds about 8 minutes' walk from the park, with a pool, spa and restaurants. Inside the park there are no hotels; Chisapani's lodges sit on its northern edge.",
+  "stays": ["shivapuri-heights-cottage", "park-village-resort"],
+  "tips": [
+    "Start early, by 7 am, for the best birdwatching and the clearest Himalayan views before haze builds.",
+    "Carry your passport for the entry fee; foreigners pay around NPR 1,000 and SAARC nationals less, so check current status before you travel.",
+    "Hike in a group or with a guide; avoid walking alone in the forest late in the day.",
+    "Carry 2 litres of water and snacks for Shivapuri peak, as there are no shops above Nagi Gompa.",
+    "Dress modestly and keep quiet at Nagi Gompa, which is a working nunnery."
+  ],
+  "themes": ["short-breaks", "family-holidays", "trekking", "wellness-yoga"],
+  "nearby": ["chisapani", "helambu"],
+  "experiences": [
+    {
+      "slug": "shivapuri-peak-nagi-gompa-hike",
+      "title": "Shivapuri peak hike via Nagi Gompa",
+      "kind": "hiking",
+      "duration": "6–7 hours return",
+      "best_time": "Early start, Oct–Apr",
+      "price_hint": "≈ ₹3,500–5,000 with guide and transfer, check",
+      "image_query": "Shivapuri peak summit trail Kathmandu",
+      "wiki": "",
+      "summary": "A full-day hike from Budhanilkantha up through forest to the Nagi Gompa nunnery and on to the summit of Shivapuri at 2,732 m, gaining about 1,250 m, for valley and Himalayan views on clear mornings.",
+      "body": [
+        "The hike begins at the park gate above Budhanilkantha temple, at about 1,480 m. A forest track and then stone steps climb for about 2 hours to Nagi Gompa, a Buddhist nunnery perched on the hillside with a terrace overlooking the whole Kathmandu Valley. Take a break here, visit the prayer hall if it is open, and refill water before the steeper upper section.",
+        "Above Nagi Gompa, the trail climbs through denser oak and rhododendron forest for another 2–3 hours to the summit at 2,732 m. There is a small shrine and a clearing. On clear mornings, especially from November to February, the Langtang range, Ganesh Himal and Dorje Lakpa appear to the north. From the top you can descend the way you came or continue east to Baghdwar, the source of the Bagmati.",
+        "The full return takes 6–7 hours. It is a good acclimatisation hike before a Himalayan trek, since it gains about 1,250 m. There are no shops above Nagi Gompa, so carry lunch and 2 litres of water. Hike with a guide or in a group, and start by 7 am to avoid finishing in the dark in winter."
+      ],
+      "good_for": ["solo", "groups", "couples", "photographers"],
+      "faqs": [
+        {"q": "How long is the Shivapuri hike?", "a": "The hike from Budhanilkantha gate to Shivapuri peak (2,732 m) and back takes 6–7 hours, gaining about 1,250 m. Reaching Nagi Gompa alone takes about 2 hours up and 1.5 hours down. It is a steady, forested climb with no technical sections but steep stone steps."},
+        {"q": "Can I see the Himalaya from Shivapuri peak?", "a": "On clear mornings, yes. From November to February you can see the Langtang range, Ganesh Himal and Dorje Lakpa to the north. Trees partly block some angles, and from April onward haze usually hides the peaks. Arriving before 11 am gives the best chance."},
+        {"q": "Is Shivapuri hike good preparation for a trek?", "a": "Yes. Gaining around 1,250 m in a day on stone steps and forest trail is a good test of fitness and boots before Langtang, Everest or Annapurna. It will not acclimatise you to high altitude, but it shows how your legs and knees cope with long climbs and descents."}
+      ]
+    },
+    {
+      "slug": "nagarjun-jamacho-stupa-hike",
+      "title": "Nagarjun hill hike to the Jamacho stupa",
+      "kind": "hiking",
+      "duration": "5–6 hours return",
+      "best_time": "Morning, Oct–Apr",
+      "price_hint": "≈ ₹3,000–4,000 with guide and transfer, check",
+      "image_query": "Jamacho stupa Nagarjun hill prayer flags",
+      "wiki": "",
+      "summary": "A forest hike from the Phulbari gate near Balaju to the white stupa and prayer flags on Jamacho, the summit of Nagarjun hill at about 2,100 m, with views across Kathmandu and to the Himalaya on clear days.",
+      "body": [
+        "Nagarjun forest, the western section of the park, rises right behind Balaju on the edge of Kathmandu. The hike starts at the Phulbari gate, where you pay the entry fee, and follows a forest trail and parts of a winding park road up to Jamacho, the summit, at about 2,100 m. It takes around 3 hours to climb and 2 hours to return.",
+        "Buddhists associate the hill with Nagarjuna, the Indian philosopher-sage, who is said to have meditated in a cave here. At the top stands a white stupa surrounded by prayer flags and a viewing tower. On clear mornings from October to February you see the whole Kathmandu Valley spread below and a line of peaks from the Annapurnas and Manaslu to Langtang on the northern horizon.",
+        "The forest is quieter than Shivapuri, with pine, oak and chestnut, and good birdlife. Rhesus macaques gather near the gate and the stupa; keep food out of sight. Hike with a guide or in a group. The road means some vehicles reach the top, so this is also an option for those who prefer to drive up and walk down."
+      ],
+      "good_for": ["families", "photographers", "groups", "solo"],
+      "faqs": [
+        {"q": "How high is Nagarjun hill?", "a": "The summit, Jamacho, is at about 2,100 m, roughly 700 m above central Kathmandu. A stupa and viewing tower stand at the top. The hike from Phulbari gate takes about 3 hours up and 2 hours down, through pine and oak forest."},
+        {"q": "Can I drive to the top of Nagarjun?", "a": "A park road winds up to Jamacho, and private vehicles have been allowed with a fee, though access rules and opening times change. Many visitors drive up and walk down, which takes about 2 hours. Check current status before you travel, as the road can close for maintenance."},
+        {"q": "What can you see from the Jamacho stupa?", "a": "On clear days the whole Kathmandu Valley lies below, with Swayambhu and the city spread out. To the north, a line of Himalayan peaks from the Annapurnas and Manaslu to Ganesh Himal and Langtang can be visible, especially from October to February."}
+      ]
+    },
+    {
+      "slug": "budhanilkantha-vishnu-temple-visit",
+      "title": "Budhanilkantha, the sleeping Vishnu temple",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Early morning, all year",
+      "price_hint": "Free entry",
+      "image_query": "Budhanilkantha reclining Vishnu statue",
+      "wiki": "Budhanilkantha Temple",
+      "summary": "Visit the open-air Budhanilkantha temple at the foot of Shivapuri, where a 5 m stone statue of Vishnu reclines on the coils of a serpent in a water tank. A short, powerful stop for pilgrims before a hike into the park.",
+      "body": [
+        "Budhanilkantha is one of the most important Vishnu shrines in Nepal, set at the foot of the Shivapuri hills about 12 km north of Thamel. Its centrepiece is a huge black stone statue of Vishnu, around 5 m long, lying on the coils of the cosmic serpent Shesha in a rectangular pool of water. The statue is believed to date from the Licchavi period, more than a thousand years ago.",
+        "Devotees come from early morning to offer flowers, rice and prayers, and priests perform rituals on the platform beside the statue. Non-Hindus can watch from the edge of the tank but may not step onto the platform. The temple is especially busy during Haribodhini Ekadashi in October–November, when Vishnu is believed to wake from his four-month sleep.",
+        "The visit takes about an hour and pairs naturally with a hike to Nagi Gompa or Shivapuri peak, since the park gate is just above the temple. Go early, around 7 am, to see morning puja and avoid crowds. Remove shoes where indicated, dress modestly, and ask before photographing worshippers."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Can non-Hindus enter Budhanilkantha temple?", "a": "Non-Hindus can enter the temple compound and view the reclining Vishnu from the edge of the water tank, but only Hindus may step onto the platform beside the statue. Photography of the statue is generally allowed from the edge. Dress modestly and remove shoes where asked."},
+        {"q": "How old is the Budhanilkantha statue?", "a": "The statue of Vishnu reclining on the serpent Shesha is believed to date from the Licchavi period, around the 7th century CE, carved from a single block of black stone about 5 m long. Legends say it was found by a farmer ploughing his field."},
+        {"q": "When is the best time to visit Budhanilkantha?", "a": "Early morning, from about 6 to 8 am, is best for seeing daily puja with fewer crowds. The biggest gathering is on Haribodhini Ekadashi in October or November, when thousands come to mark Vishnu's awakening. Festival dates follow the lunar calendar; check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the entry fee for Shivapuri National Park?", "a": "Foreigners pay around NPR 1,000 per person, SAARC nationals including Indians around NPR 300, and Nepalis a small fee, with extra charges for vehicles and mountain bikes. Fees are collected at gates such as Budhanilkantha, Sundarijal and Phulbari. Rates are revised from time to time; check current status before you travel."},
+    {"q": "How high is Shivapuri peak?", "a": "Shivapuri peak rises to about 2,732 m, the highest point on the rim of the Kathmandu Valley. The hike from Budhanilkantha gate (about 1,480 m) gains roughly 1,250 m and takes 6–7 hours return via Nagi Gompa."},
+    {"q": "Is Shivapuri National Park good for a day trip?", "a": "Yes. It is 30–45 minutes from Thamel, and good day options include Nagi Gompa (3–4 hours return), Shivapuri peak (6–7 hours), Sundarijal waterfall and reservoir, and the Nagarjun Jamacho stupa. Combine any of them with the Budhanilkantha temple at the gate."},
+    {"q": "What animals live in Shivapuri Nagarjun National Park?", "a": "Common animals include rhesus macaques, barking deer, wild boar and porcupines, plus more than 300 recorded bird species. Leopards and Himalayan black bears live in the forest but are rarely seen. Early morning walks with a guide give the best wildlife watching."},
+    {"q": "Is it safe to hike in Shivapuri alone?", "a": "We advise against hiking alone. The forest is extensive, trails split often, and there have been occasional robberies of solo hikers over the years. Go with a guide or in a group, tell your hotel your route and return by mid-afternoon."},
+    {"q": "Where can I stay near Shivapuri National Park?", "a": "Budhanilkantha, at the park's southern gate, has Shivapuri Heights Cottage, a small cottage retreat on the hillside, and Park Village Resort by KGH Group, a 4-star resort a short walk from the park. Both suit a quiet night before an early hike. Chisapani's lodges sit on the northern edge."},
+    {"q": "Can I mountain bike in Shivapuri?", "a": "Yes, mountain biking is allowed on park roads and some trails with an extra bike fee, and routes around Shivapuri and Nagarjun are popular with Kathmandu riders. Some trails are closed to bikes. Go with a local bike operator who knows the permitted routes; check current status before you travel."},
+    {"q": "What is Nagi Gompa?", "a": "Nagi Gompa is a Buddhist nunnery on the slopes of Shivapuri above Budhanilkantha, at about 2 hours' walk from the park gate. Nuns live and study here, and the terrace gives wide views over the Kathmandu Valley. Visitors are welcome to see the prayer hall if they dress modestly and keep quiet."},
+    {"q": "When is the best time to visit Shivapuri?", "a": "October to April is best: clear skies, comfortable temperatures and good birdwatching, with the Himalaya visible on many mornings from November to February. Rhododendrons flower from March. The monsoon from June to September brings mud, leeches and cloud, though the forest is very green."}
+  ]
+}

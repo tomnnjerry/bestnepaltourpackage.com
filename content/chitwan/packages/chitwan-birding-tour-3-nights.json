@@ -1,0 +1,83 @@
+{
+  "slug": "chitwan-birding-tour-3-nights",
+  "title": "Chitwan Birding Tour 3 Nights 4 Days",
+  "region": "chitwan",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["wildlife-safari", "photography", "short-breaks"],
+  "stops": [{"place": "chitwan-national-park", "nights": 1}, {"place": "bishazari-tal", "nights": 0}, {"place": "meghauli", "nights": 2}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 52000,
+  "price_from_usd": 640,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Jungle Villa Resort at Patihani (1 night), Barahi Jungle Lodge at Meghauli (2 nights)",
+  "transport": "Kathmandu–Bharatpur return flights, private jeep and car in Chitwan",
+  "group": "Private or small group, 2–8",
+  "meta_description": "Chitwan birding tour 3 nights 4 days: Bishazari Tal wetland, Kasara riverine forest, Meghauli grasslands for Bengal florican, specialist bird guide. From US$ 640.",
+  "summary": "A birding itinerary covering Chitwan's three main habitats: riverine forest near Kasara, the Bishazari Tal wetland and the Meghauli grasslands, home of the Bengal florican. A specialist bird guide joins you throughout, with dawn starts, scopes and a daily checklist. Flights from Kathmandu keep travel short.",
+  "intro": [
+    "Chitwan's bird list runs past 500 species, more than half of Nepal's total, because the park mixes sal forest, riverine forest, tall grassland, oxbow lakes and big rivers in a small area. To see that range in three nights, you need to move between habitats. This trip starts with a night at Patihani near the park headquarters for riverine forest and the Rapti, uses a dawn at Bishazari Tal for wetland species, then moves west to Meghauli for two nights in the grasslands.",
+    "A specialist bird guide, not a general naturalist, leads every session. Targets depend on the season but often include Bengal florican, lesser adjutant, great hornbill, swamp francolin, grass owl, slender-billed babbler, bristled grassbird and many raptors, plus mammals along the way. Winter adds migrant ducks and waders; spring brings displaying floricans and calling cuckoos. Days start before sunrise, with midday rests, which suits photographers as well as listers."
+  ],
+  "highlights": [
+    "Specialist bird guide with scope throughout",
+    "Riverine forest and Rapti birding near Kasara",
+    "Dawn at the Bishazari Tal Ramsar wetland",
+    "Two days in the Meghauli grasslands for Bengal florican",
+    "Boat trip for river terns, lapwings and wintering ducks",
+    "Daily checklist and mammal sightings along the way"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bharatpur, Kasara riverine forest", "place": "chitwan-national-park", "overnight": "Patihani", "altitude_m": 150, "max_m": 1400, "walk": "≈ 3 h · 5 km", "drive": "≈ 15 km · 30 min", "flight": "Kathmandu–Bharatpur · 25 min", "text": "Take a morning flight to Bharatpur, about 25 minutes, and transfer 30 minutes to Jungle Villa Resort at Patihani, on the Rapti near the park headquarters. Your bird guide meets you for lunch and a briefing. In the afternoon, enter the park at Kasara and walk the riverine forest and riverbank with two guides, looking for hornbills, woodpeckers, kingfishers, the stork-billed kingfisher and river lapwing, and visit the gharial breeding centre. Evening checklist at the resort, listening for owls and nightjars after dark.", "meals": "L, D"},
+    {"day": 2, "title": "Bishazari Tal at dawn, move to Meghauli", "place": "bishazari-tal", "overnight": "Meghauli", "altitude_m": 150, "max_m": 286, "walk": "≈ 3.5 h · 6–8 km", "drive": "≈ 70 km · 2 h in total", "flight": "", "text": "Leave at 5:45 am for Bishazari Tal, about 40 minutes away, and walk the embankments and forest between the oxbow lakes as mist lifts. Wetland targets include lesser adjutant, woolly-necked and black storks, purple heron, darter, several kingfishers and, from November to February, ferruginous duck and other migrants; mugger crocodiles bask on the banks. After a late breakfast, drive west to Barahi Jungle Lodge at Meghauli, about 1.5 hours. In the late afternoon, a boat on the Rapti looks for black-bellied tern, great thick-knee and ruddy shelduck.", "meals": "B, L, D"},
+    {"day": 3, "title": "Meghauli grasslands, florican search", "place": "meghauli", "overnight": "Meghauli", "altitude_m": 150, "max_m": 150, "walk": "≈ 4 h · 6 km", "drive": "Jeep ≈ 4 h", "flight": "", "text": "The key day. Cross the Rapti at first light and work the Meghauli grassland on foot and by jeep. From March to May, male Bengal floricans make display flights over the short grass; your guide knows the regular areas. Other grassland specialists include swamp francolin, chestnut-capped babbler, striated grassbird and several prinias, with raptors such as crested serpent eagle and Pallas's fish eagle over the river. Rest through midday at the lodge, then a late-afternoon session along the forest edge for woodpeckers, minivets and hornbills, with rhino and deer often in view.", "meals": "B, L, D"},
+    {"day": 4, "title": "Dawn birding, fly back to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 2 h · 3 km", "drive": "≈ 35 km · 1 h", "flight": "Bharatpur–Kathmandu · 25 min", "text": "A final dawn walk near the lodge targets anything still missing from your list, often around the Rapti–Narayani confluence where gharial sometimes bask. After breakfast and the final checklist, drive an hour to Bharatpur Airport for the midday flight to Kathmandu. On arrival we transfer you to your hotel. Keen birders can add a morning at Phulchowki or Shivapuri on the edge of Kathmandu Valley for hill species the next day.", "meals": "B"}
+  ],
+  "stays": ["jungle-villa-resort", "barahi-jungle-lodge"],
+  "includes": [
+    "Kathmandu–Bharatpur return flights",
+    "Specialist bird guide for all four days",
+    "One night at Jungle Villa Resort and two nights at Barahi Jungle Lodge, twin sharing",
+    "All meals from lunch on day 1 to breakfast on day 4",
+    "Jeep, boat and walking sessions with licensed park guides",
+    "Bishazari Tal community forest entry and local guide",
+    "Chitwan National Park entry fees",
+    "All ground transfers in Chitwan",
+    "Spotting scope provided by the guide"
+  ],
+  "excludes": [
+    "Kathmandu hotels and airport transfers in Kathmandu",
+    "Binoculars and camera equipment (bring your own)",
+    "Drinks and bottled water",
+    "Tips for guides and lodge staff",
+    "Elephant activities (we do not book them)",
+    "Travel insurance",
+    "Extra nights or Kathmandu Valley birding (available as add-ons)"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, for two birders sharing a private guide; small groups of 4–8 pay less per person.",
+    "Bengal florican is most reliably seen from March to May; winter (November–February) is better for migrant waterfowl.",
+    "Expect early starts around 5:30 am and midday rests; the programme follows the birds, not a fixed timetable.",
+    "Bring 8x42 or 10x42 binoculars; the guide carries a scope and field guide.",
+    "Grassland is cut and burned in January and February, which can move birds around for a few weeks."
+  ],
+  "add_ons": [
+    {"name": "Extra night at Meghauli with full-day birding", "price": "≈ US$ 210 per person"},
+    {"name": "Phulchowki or Shivapuri birding day near Kathmandu", "price": "≈ US$ 90 per person"},
+    {"name": "Koshi Tappu wetland extension (2 nights)", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "How many bird species can I see in Chitwan in 3 nights?", "a": "A keen birder with a specialist guide typically records 150 to 200 species in three or four days in winter or spring, covering forest, wetland, grassland and river habitats. Totals depend on season, weather and your pace. The park's full list runs past 500 species."},
+    {"q": "When is the best time for birding in Chitwan?", "a": "November to May. November to February brings migrant ducks, waders and raptors on the rivers and lakes. March to May is the season for displaying Bengal floricans, breeding plumage and calling cuckoos, though it gets hot. The monsoon has good resident birding but many areas are flooded."},
+    {"q": "Can I see the Bengal florican on this tour?", "a": "There is a good chance from March to May, when males display in the Meghauli grasslands, and a lower chance in winter. Numbers are small and sightings are never certain. Our guide knows the display areas, and we focus a full day on the grasslands to maximise the odds."},
+    {"q": "Is a specialist bird guide really necessary?", "a": "For serious birding, yes. General naturalists are excellent on mammals but may not know calls or the finer points of warblers, babblers and grassland species. A specialist guide finds and identifies far more birds, carries a scope, and plans the day around your target list."},
+    {"q": "What camera equipment should I bring?", "a": "A lens of at least 400 mm is ideal for birds, with a body that handles low light at dawn. A beanbag helps on jeep safaris. Dust is a problem, so bring a rain cover or cloth. Tripods are awkward in jeeps and canoes; a monopod works better."},
+    {"q": "Why split the stay between Patihani and Meghauli?", "a": "Each area gives access to different habitats. Patihani is close to riverine forest near Kasara and to Bishazari Tal; Meghauli sits beside the large western grasslands where floricans and grassland specialists live. Splitting the stay covers more species without long daily drives."},
+    {"q": "Is this birding tour suitable for beginners?", "a": "Yes. Beginners enjoy it because the guide shows you birds you would never find alone, and Chitwan's large, colourful species such as hornbills, storks and kingfishers are easy to appreciate. Non-birding partners can join some sessions and enjoy the lodges in between."},
+    {"q": "Will I also see mammals on the birding tour?", "a": "Very likely. Rhinos, spotted and hog deer, wild boar, langurs and mugger crocodiles are seen regularly in the same habitats, and gaur, sloth bear and even tiger are possible. Jeep sessions in the grassland serve birders and mammal watchers alike."},
+    {"q": "How fit do I need to be for the Chitwan birding tour?", "a": "Moderately. Walks are on flat ground, usually 3 to 4 hours at a slow pace with long stops, plus jeep and boat sessions. Heat is the main challenge from March, so we rest at midday. Anyone who can walk 6–8 km slowly will manage."}
+  ]
+}

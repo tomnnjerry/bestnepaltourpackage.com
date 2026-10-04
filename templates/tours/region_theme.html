@@ -1,0 +1,15 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ t.short|default:t.name }} in {{ r.name }}{% endblock %}
+{% block meta_description %}{{ t.short|default:t.name }} in {{ r.name }}: packages, places and things to do, with prices in INR and USD.{% endblock %}
+{% block body_attrs %}data-land="{{ r.slug }}"{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in">
+  <p class="kicker"><a href="{{ r.url }}">{% icon r.icon %}{{ r.name }}</a> · <a href="{{ t.url }}">{{ t.short|default:t.name }}</a></p>
+  <h1>{{ t.short|default:t.name }} in {{ r.short|default:r.name }}</h1>
+  <p class="phead__lede">{{ t.tagline }}</p>
+</div></div><div class="phead__icon" aria-hidden="true">{% icon t.icon %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight">{% include "tours/partials/brief.html" with text=t.summary %}</div>
+{% if packages %}<section class="sec--tight"><div class="wrap"><div class="sec__head"><h2 class="h2">Packages</h2></div><div class="passes" data-stagger>{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if places %}<section class="sec"><div class="wrap"><div class="sec__head"><h2 class="h2">Places for {{ t.short|default:t.name|lower }}</h2></div><div class="grid grid--4">{% for p in places %}{% include "tours/partials/place_card.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if experiences %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Things to do</h2></div><div class="grid grid--3">{% for e in experiences|slice:":9" %}{% include "tours/partials/exp_card.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

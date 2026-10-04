@@ -1,0 +1,131 @@
+{
+  "slug": "damodar-kunda",
+  "name": "Damodar Kunda",
+  "region": "mustang",
+  "kind": "pilgrimage site",
+  "wiki": "Damodar Kunda",
+  "image_query": "Damodar Kunda lake Mustang",
+  "lat": 29.050,
+  "lng": 84.150,
+  "altitude_m": 4890,
+  "tagline": "High sacred lakes of Vishnu near the Tibetan border",
+  "meta_description": "Damodar Kunda guide: sacred high lakes in Upper Mustang, about 4,890 m, reached by helicopter from Jomsom or Pokhara or a long trek. Rituals, permits, safety.",
+  "summary": "Damodar Kunda is a group of sacred glacial lakes at about 4,890 m in eastern Upper Mustang, near the Tibetan border, revered by Hindus as linked to Vishnu as Damodar. Most pilgrims visit by helicopter, with 10–15 minutes on the ground; the trek takes 4–5 days each way from Lo Manthang.",
+  "intro": [
+    "Damodar Kunda lies in a bare, high basin below the peaks of the Damodar Himal, in the far north-east of Mustang district. Sources give its altitude anywhere from about 4,890 m to 5,400 m, depending on which of the lakes is measured; we use 4,890 m for the main lake visited by pilgrims. The water is clear and icy, ringed by moraine and snow for much of the year, and the Tibetan plateau begins just beyond the ridges to the north.",
+    "In Hindu tradition the lakes are associated with Vishnu in his Damodar form, and some texts describe the area as the source of the Kali Gandaki and of Shaligram stones. Pilgrims believe a dip or even a sprinkle of water here washes away sins of many lives, and the Varaha Purana and local traditions are often cited. Many Nepali and Indian devotees combine Damodar Kunda with Muktinath, especially around Janai Purnima in August, when Nepali pilgrims trek in groups.",
+    "Reaching Damodar Kunda is serious. On foot it is a remote trek of 4–5 days from Lo Manthang through uninhabited high country, with camping and passes above 5,000 m on some routes. By helicopter it is 25–30 minutes from Jomsom, but the landing is at an altitude where oxygen is roughly half that at sea level, so time on the ground is limited to around 10–15 minutes and only fit passengers without heart or lung problems should fly."
+  ],
+  "facts": [
+    ["Altitude", "≈ 4,890 m (sources vary up to 5,400 m)"],
+    ["Best months", "May – Jun · Sep – Oct (Aug for pilgrim treks)"],
+    ["Nights we suggest", "0 by helicopter, 1–2 camping on a trek"],
+    ["Nearest airport", "Jomsom, ≈ 25–30 min by helicopter"],
+    ["From Kathmandu", "Flights to Pokhara and Jomsom + heli; or ≈ 1.5 h heli from Kathmandu with a refuel"],
+    ["Known for", "Sacred lakes of Vishnu, snan at 4,890 m, Upper Mustang wilderness"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "0",
+  "highlights": [
+    {"title": "Snan or jal sprinkling at the lake", "text": "Pilgrims sprinkle or pour the lake water over their heads, and a few take a full dip. With only 10–15 minutes on a heli landing, most families collect water in a small bottle and perform puja quickly."},
+    {"title": "Flight over Upper Mustang", "text": "The helicopter crosses the eroded canyons and red cliffs of Upper Mustang, with Annapurna, Nilgiri and Dhaulagiri behind and the Tibetan plateau ahead. Window seats on the left going north look towards Lo Manthang."},
+    {"title": "Damodar Himal backdrop", "text": "Snow peaks of the Damodar Himal rise above the basin, and glaciers feed the lakes. In autumn the sky here is a deep, clear blue and the water reflects the peaks."},
+    {"title": "Combined with Muktinath", "text": "Most heli itineraries pair Damodar Kunda with Muktinath darshan the same morning, landing at Muktinath for about an hour after the high lake, which allows more time where the air is thicker."},
+    {"title": "Janai Purnima pilgrimage", "text": "Around the August full moon, groups of Nepali pilgrims trek to Damodar Kunda for Janai Purnima rites, camping on the way. It is a hard walk but the most traditional way to arrive."}
+  ],
+  "how_to_reach": [
+    {"mode": "Helicopter", "text": "Helicopters fly Jomsom–Damodar Kunda in about 25–30 minutes, Pokhara–Damodar Kunda in about 55–60 minutes with a Jomsom refuel, and Kathmandu–Damodar Kunda in about 1.5 hours with a refuel. At around 4,890 m, payload limits mean 4–5 passengers at most, and some tours shuttle. Ground time is usually 10–15 minutes. Check current landing rules before you travel."},
+    {"mode": "On foot", "text": "From Lo Manthang, treks take 4–5 days to reach the lakes via Dhi, Surkhang and the high pastures of Ghuma Thanti, camping on the way, and 3–4 days to return. Some routes cross passes near or above 5,000 m. A full Damodar Kunda trek from Kathmandu takes about 18–22 days."},
+    {"mode": "Road", "text": "Jeeps reach Lo Manthang and villages such as Dhi and Yara in Upper Mustang, shortening the trek by a day or two. There is no road to the lakes themselves."}
+  ],
+  "where_to_stay": "There is no accommodation at Damodar Kunda. Helicopter pilgrims do not stay overnight; they sleep in Jomsom, Pokhara or Kathmandu, and we use Hotel Om's Home or Shinta Mani Mustang in Jomsom when a Jomsom-based heli departure is planned. Trekkers camp near the lakes and on the approach, with full tents, kitchen and staff, and stay at Royal Mustang Resort or family lodges in Lo Manthang on the way in and out. Nights at the lakes fall to −10 °C or lower even in summer, so camping groups need four-season gear.",
+  "stays": [],
+  "tips": [
+    "Do not fly to Damodar Kunda if you have heart disease, uncontrolled blood pressure, severe asthma or are pregnant; the landing is near 5,000 m.",
+    "Keep the ground time short and walk slowly; do not run to the water or carry heavy items.",
+    "Take a small bottle for lake water and keep puja items ready before landing to make the most of 10–15 minutes.",
+    "Fly only on clear mornings; pilots will turn back if cloud covers the basin, and refunds or rescheduling depend on the operator.",
+    "Even a heli landing requires the Upper Mustang restricted area permit, arranged by your agency in advance."
+  ],
+  "themes": ["pilgrimage", "heli-tours", "trekking"],
+  "nearby": ["lo-manthang", "muktinath"],
+  "experiences": [
+    {
+      "slug": "damodar-kunda-heli-darshan-snan",
+      "title": "Heli darshan and snan at Damodar Kunda",
+      "kind": "aerial",
+      "duration": "2–2.5 hours from Jomsom, including ground time",
+      "best_time": "Early morning, May–Jun and Sep–Oct",
+      "price_hint": "≈ ₹75,000–95,000 per seat from Jomsom or Pokhara",
+      "image_query": "Damodar Kunda helicopter landing",
+      "wiki": "",
+      "summary": "A short, early-morning helicopter flight to the sacred lakes of Damodar Kunda, about 10–15 minutes on the ground for puja and jal sprinkling, then down to Muktinath for darshan. The fastest way to reach one of Nepal's hardest pilgrimages.",
+      "body": [
+        "We fly at first light, usually from Jomsom or Pokhara, because cloud tends to build over the high basin by mid-morning. The route crosses Kagbeni and the canyons of Upper Mustang, then turns east towards the Damodar Himal. After about 25–30 minutes from Jomsom, the helicopter lands on a flat area near the main lake at around 4,890 m. Pilots keep the rotor turning or shut down briefly depending on conditions.",
+        "Ground time is short, typically 10–15 minutes, because of the thin air and the need to keep the helicopter within safe limits. Families perform a quick puja at the shore, sprinkle the water on their heads and fill small bottles to take home. A full dip is possible but not advised for most people, given the cold and altitude. Walk slowly, do not run and stay close to the pilot and guide.",
+        "From the lakes we fly to Muktinath, landing near Ranipauwa for about an hour of darshan, then return to Jomsom or Pokhara. Payload rules limit passengers at this height, usually to 4–5, and heavier groups may be split into two shuttles. Anyone with heart or lung conditions, pregnant women and infants should not fly to Damodar Kunda."
+      ],
+      "good_for": ["pilgrims", "families", "groups", "seniors"],
+      "faqs": [
+        {"q": "How much is the Damodar Kunda helicopter tour?", "a": "A full charter from Pokhara for Damodar Kunda and Muktinath typically costs around US$ 4,000–5,500 per helicopter, or about ₹75,000–95,000 per seat when shared by five. From Jomsom it costs less; from Kathmandu more. Prices vary with fuel costs and season. Check current status before you travel."},
+        {"q": "How long can we stay at Damodar Kunda by helicopter?", "a": "Usually 10–15 minutes. At about 4,890 m, the air is thin and both passengers and the helicopter are at their limits, so pilots keep landings short. That is enough for a quick puja and to collect water. Longer stays raise the risk of altitude sickness and are not allowed by most operators."},
+        {"q": "Can seniors go to Damodar Kunda by helicopter?", "a": "Fit seniors with no heart or lung problems and normal blood pressure can usually manage the short landing, but they should get a medical check first and stay calm and still on the ground. Anyone with heart disease, breathing problems or a recent illness should skip Damodar Kunda and visit Muktinath only."}
+      ]
+    },
+    {
+      "slug": "damodar-kunda-trek-from-lo-manthang",
+      "title": "Damodar Kunda trek from Lo Manthang",
+      "kind": "adventure",
+      "duration": "8–10 days return from Lo Manthang",
+      "best_time": "Jun–Sep, especially Aug for Janai Purnima",
+      "price_hint": "≈ US$ 3,500+ per person for a full camping trek",
+      "image_query": "Damodar Kunda trek Upper Mustang camping",
+      "wiki": "",
+      "summary": "A remote camping trek from Lo Manthang east through Dhi, Surkhang and the high pastures of Ghuma Thanti to Damodar Kunda, then back. One of the hardest pilgrimages in Nepal, for fit trekkers with experience at altitude.",
+      "body": [
+        "From Lo Manthang, the route heads south-east to Dhi on the Kali Gandaki, then climbs east to the village of Surkhang, the last permanent settlement. Beyond, the trail crosses high grazing land, where herders bring yaks in summer, to Ghuma Thanti and on to the lakes. There are no lodges: you camp with a full crew carrying tents, food and fuel on horses or mules.",
+        "Days are 5–7 hours of walking with steep climbs and passes around or above 5,000 m on some routes. Acclimatisation is essential: plan at least two nights in Lo Manthang first and rest days on the way. Weather can change quickly, with snow possible even in August. The reward is a pilgrimage in near-total solitude, with the lakes reached on foot as tradition intended.",
+        "Most groups go in July and August, when snow has melted from the high pastures and Nepali pilgrims gather for Janai Purnima, or in early autumn. The trek needs the Upper Mustang restricted area permit for every day you are inside the area, which adds up on a long itinerary. Insurance covering helicopter evacuation from 5,500 m is mandatory."
+      ],
+      "good_for": ["pilgrims", "solo", "groups", "photographers"],
+      "faqs": [
+        {"q": "How many days is the Damodar Kunda trek?", "a": "From Lo Manthang, allow 8–10 days return, including rest days. A full itinerary from Kathmandu with flights to Jomsom, the Upper Mustang approach and the return usually takes 18–22 days. Some groups shorten it by driving to Dhi or Yara by jeep and flying back by helicopter."},
+        {"q": "Is the Damodar Kunda trek difficult?", "a": "Yes, it is strenuous. It involves remote camping, long days, passes near or above 5,000 m and no facilities or rescue nearby other than helicopter. You need excellent fitness, prior high-altitude trekking experience and a strong support team. It is not suitable for first-time trekkers or anyone with health concerns."},
+        {"q": "What does the Damodar Kunda trek cost?", "a": "A full camping trek of 18–22 days from Kathmandu costs from about US$ 3,500 per person in a small group, more for private trips, mainly because of the Upper Mustang permit fee per day, camping crew and pack animals. Check current permit fees before you travel."}
+      ]
+    },
+    {
+      "slug": "damodar-kunda-muktinath-same-day-heli",
+      "title": "Muktinath and Damodar Kunda same-day heli",
+      "kind": "spiritual",
+      "duration": "4–5 hours from Pokhara",
+      "best_time": "Early morning, Apr–Jun and Sep–Nov",
+      "price_hint": "≈ ₹85,000–1,00,000 per seat from Pokhara",
+      "image_query": "Muktinath helicopter Mustang pilgrimage",
+      "wiki": "",
+      "summary": "Two of Nepal's holiest Vishnu sites in one morning: a helicopter from Pokhara to Damodar Kunda for a short puja at the lakes, then down to Muktinath for an hour of darshan and the 108 spouts, back in Pokhara by lunch.",
+      "body": [
+        "Pilgrims who cannot spare two weeks for the trek often choose this combined flight. We take off from Pokhara around 6:30 am, refuel at Jomsom and fly on to Damodar Kunda. The order matters: going to the higher site first while the air is cold and still gives the helicopter its best performance, and it keeps the longest ground time for Muktinath.",
+        "At the lakes you have about 10–15 minutes. Then the helicopter descends to Muktinath, about 15–20 minutes away, landing near Ranipauwa. With roughly an hour on the ground, there is time to walk up to the temple, take darshan of Sri Muktinarayan, sprinkle water from the 108 spouts and visit the Jwala Mai flame. Our guide manages shoes, bags and queues.",
+        "Return is via Jomsom to Pokhara, landing around 11 am to noon. The flight depends entirely on weather: if Damodar Kunda is clouded in, pilots may skip it and fly Muktinath only, with partial refund according to the operator's terms. Payload limits mean groups heavier than about 400 kg may be split. Bring warm clothes, sunglasses and your permits."
+      ],
+      "good_for": ["pilgrims", "families", "groups", "couples"],
+      "faqs": [
+        {"q": "Can we do Muktinath and Damodar Kunda in one day?", "a": "Yes, by helicopter. Flights from Pokhara visit Damodar Kunda first for 10–15 minutes and then Muktinath for about an hour, returning by midday. From Kathmandu it is possible but longer and costlier. By road or on foot, Damodar Kunda alone takes many days."},
+        {"q": "What happens if weather is bad at Damodar Kunda?", "a": "If cloud covers the basin, the pilot will not land and may fly to Muktinath only, or postpone the whole flight. Policies on refunds and rescheduling vary by operator; we agree them in writing before booking. Keeping a spare morning in Pokhara or Jomsom greatly improves your chances."},
+        {"q": "Do I need a permit for a heli trip to Damodar Kunda?", "a": "Yes. Damodar Kunda lies in the Upper Mustang restricted area, so even a short helicopter landing needs the restricted area permit for that day, plus the ACAP permit. Your agency arranges both in advance with passport or voter ID copies. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Damodar Kunda?", "a": "Damodar Kunda is commonly given as about 4,890 m, though some sources quote up to 5,400 m for higher lakes in the group. Either way, it is far above Muktinath (3,710 m) and higher than Everest Base Camp's approach villages. Only fit visitors without heart or lung problems should go."},
+    {"q": "Where is Damodar Kunda?", "a": "Damodar Kunda lies in the north-east of Mustang district, in the Upper Mustang restricted area, below the Damodar Himal and close to the Tibetan border. It is about 25–30 minutes by helicopter from Jomsom or 4–5 days' walk from Lo Manthang via Dhi and Surkhang."},
+    {"q": "Why is Damodar Kunda sacred?", "a": "Hindus associate Damodar Kunda with Vishnu as Damodar and regard it as linked to the source of the Kali Gandaki and Shaligram stones. Bathing in or sprinkling its water is believed to free pilgrims from sins of many lives. It is often visited together with Muktinath."},
+    {"q": "How much does the Damodar Kunda yatra cost?", "a": "A helicopter visit costs about ₹75,000–1,00,000 per seat when shared by five, depending on the starting point. Our 6-night Muktinath and Damodar Kunda yatra from Kathmandu with flights and a heli from Jomsom starts around ₹1,15,000 per person. Trekking costs from about US$ 3,500."},
+    {"q": "Can I trek to Damodar Kunda?", "a": "Yes, but it is a remote camping trek of 8–10 days return from Lo Manthang, with passes near or above 5,000 m and no lodges. You need excellent fitness, high-altitude experience, a licensed guide and full crew, and the Upper Mustang permit for every day inside the area."},
+    {"q": "Is Damodar Kunda safe for seniors?", "a": "By helicopter, healthy seniors can manage the 10–15 minute landing if they move slowly. Anyone with heart disease, breathing problems, uncontrolled blood pressure or recent surgery should not fly to this height. Get a medical check before booking, and consider Muktinath alone if in doubt."},
+    {"q": "When is the best time for Damodar Kunda?", "a": "For helicopter visits, May–June and September–October offer the clearest mornings. Trekkers go from June to September, especially in August around Janai Purnima, when the high pastures are free of snow. Winter is too cold and snowy, and helicopter landings are often impossible."},
+    {"q": "Can Indians visit Damodar Kunda?", "a": "Yes. Indian nationals need the Upper Mustang restricted area permit and ACAP permit through a registered agency, with a passport or voter ID. For trekking, a licensed guide and group of at least two are required. Helicopter visits are arranged by agencies with permits included. Check current status before you travel."},
+    {"q": "How many passengers can fly to Damodar Kunda?", "a": "A standard AS350 B3 helicopter can usually take 4–5 passengers to this altitude, depending on temperature and total weight, often a limit of around 350–400 kg. Larger or heavier groups may be split into two shuttles, landing one after the other. Weigh in honestly; pilots decide on the day."}
+  ]
+}

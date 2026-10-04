@@ -1,0 +1,97 @@
+{
+  "slug": "kailash-saga-dawa-yatra-12-days",
+  "title": "Kailash Saga Dawa Festival Yatra, 12 Days",
+  "region": "kailash",
+  "type": "yatra",
+  "grade": "Challenging",
+  "nights": 11,
+  "themes": ["kailash-yatra", "festivals", "pilgrimage", "heli-tours", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "nepalgunj", "nights": 2},
+    {"place": "purang", "nights": 3},
+    {"place": "lake-manasarovar", "nights": 1},
+    {"place": "darchen", "nights": 2},
+    {"place": "mount-kailash", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 325000,
+  "price_from_usd": 3780,
+  "best_months": [0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0],
+  "max_altitude_m": 5630,
+  "accommodation": "3-star hotels in Kathmandu and Nepalgunj, hotel in Purang, guesthouses at Manasarovar, Darchen and on the parikrama",
+  "transport": "Kathmandu–Nepalgunj–Simikot flights, Simikot–Hilsa helicopter, Tibetan agency vehicles",
+  "group": "Single fixed departure each year, 10–20 pilgrims",
+  "meta_description": "Kailash Saga Dawa yatra, 12 days via Simikot and Hilsa: Tarboche flagpole raising on the full moon, Manasarovar, parikrama, price and booking advice.",
+  "summary": "One departure a year, timed for Saga Dawa, the full moon of the fourth Tibetan month (usually late May or June), when crowds gather at Tarboche to see the great flagpole raised. Fly via Simikot and Hilsa, bathe at Manasarovar, watch the ceremony and walk the parikrama in the days that follow. 12 days, from ₹3,25,000.",
+  "intro": [
+    "Saga Dawa is the most auspicious day of the Tibetan year and the busiest at Kailash. Pilgrims from across Tibet, nomads in festival dress and yatris from India and Nepal crowd the plain at Tarboche as monks lower the old flagpole, wrap it in new prayer flags and raise it again. A pole that stands straight is taken as a good omen. Walking the parikrama in Saga Dawa is believed to multiply its merit, and the trail fills with pilgrims of every faith.",
+    "This departure uses the Simikot–Hilsa heli route and adds a second night at Darchen so the group can attend the ceremony and still walk the kora at a sensible pace. Because the festival follows the lunar calendar, dates shift each year, and permits around Saga Dawa have sometimes been restricted or issued late. Book at least four months ahead. Check current status before you travel."
+  ],
+  "highlights": [
+    "Tarboche flagpole ceremony on the Saga Dawa full moon",
+    "Parikrama alongside thousands of Tibetan pilgrims",
+    "Simikot flight and Hilsa helicopter into Tibet",
+    "Holy dip and puja at Lake Manasarovar",
+    "Dolma La crossing (≈ 5,630 m) in the most auspicious month",
+    "Extra night in Darchen for the festival"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Arrival in Kathmandu and transfer to a 3-star hotel. The evening briefing covers the festival programme, crowd safety at Tarboche, baggage limits on the Simikot sector, altitude sickness and pony hire, which is in very high demand during Saga Dawa. We confirm documents and medical certificates and issue duffels.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Kathmandu–Nepalgunj · 1 h", "text": "A one-hour flight to the Terai town of Nepalgunj, hot and humid in late May and June. Afternoon rest, repacking into the 10–15 kg allowance and evening aarti at the Bageshwari temple. Extra luggage stays in hotel storage until the return.", "meals": "B, L, D"},
+    {"day": 3, "title": "Simikot, Hilsa heli and Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Hilsa–Purang · ≈ 28 km · 1 h", "flight": "Nepalgunj–Simikot · 45 min; Simikot–Hilsa heli · 20–30 min", "text": "Early flight to Simikot, then helicopter shuttles of four or five to Hilsa while the morning air is calm. Once everyone is across, we clear Nepali exit, walk over the bridge, complete Chinese immigration and drive to Purang. In the festival season the border can be busy, so patience helps. Weather delays shift the plan by a day; the festival date does not move, which is why this itinerary keeps a spare day at Darchen.", "meals": "B, L, D"},
+    {"day": 4, "title": "Acclimatisation in Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4000, "walk": "≈ 1.5–2 h gentle walk", "drive": "≈ 40 km return to Khorzhak", "flight": "", "text": "Rest and adapt at about 3,900 m. In the morning, Khorzhak monastery on the Karnali, revered by Hindu pilgrims as Khojarnath. Saga Dawa is a holy month for Tibetans too, so you may see local families making offerings and walking koras. Afternoon at leisure in Purang, with an early night.", "meals": "B, L, D"},
+    {"day": 5, "title": "Rakshastal, Manasarovar and holy dip", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 75 km + lake circuit ≈ 90–100 km · 6–7 h", "flight": "", "text": "Drive north past Rakshastal to Lake Manasarovar, and take the bus parikrama around the shore with stops at ghats and monasteries. At a permitted spot, the group takes the holy dip or bucket snan as local rules allow, followed by puja and havan. The lake is busier than usual in the festival week, with Tibetan pilgrims circling on foot. Overnight at Chiu.", "meals": "B, L, D"},
+    {"day": 6, "title": "To Darchen for the festival", "place": "darchen", "overnight": "Darchen", "altitude_m": 4575, "max_m": 4600, "walk": "Short walks", "drive": "≈ 35 km · 45 min", "flight": "", "text": "A short drive to Darchen, which fills with pilgrims, tents and stalls in the days before Saga Dawa. The guide confirms ponies and porters booked in advance through the cooperative, and everyone packs for the kora. Rest in the afternoon; tomorrow starts very early.", "meals": "B, L, D"},
+    {"day": 7, "title": "Saga Dawa at Tarboche", "place": "darchen", "overnight": "Darchen", "altitude_m": 4575, "max_m": 4675, "walk": "≈ 1–2 h on site", "drive": "Eco-bus or vehicle to Tarboche · 20 min", "flight": "", "text": "Before dawn we travel to Tarboche at about 4,675 m and find a place on the plain. Through the morning, monks lead prayers as the old flagpole is lowered, stripped and dressed in new flags, then hauled upright to cheers and showers of paper prayers. The ceremony can last several hours. Return to Darchen in the afternoon to rest before the parikrama. The date follows the lunar calendar; check current status before you travel.", "meals": "B, L, D"},
+    {"day": 8, "title": "Parikrama day 1 to Dirapuk", "place": "mount-kailash", "overnight": "Dirapuk", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 12 km · 5–7 h", "drive": "Eco-bus to Yam Dwar · 20 min", "flight": "", "text": "Through Yam Dwar beside the newly dressed flagpole and north up the Lha Chu valley, about 12 km with roughly 225 m of gain, to Dirapuk at about 4,900 m. The trail is crowded in festival week, with Tibetan families, monks and prostrating pilgrims. Dirapuk guesthouses are full, so expect busy dorms; we book well in advance.", "meals": "B, L, D"},
+    {"day": 9, "title": "Over Dolma La to Zuthulpuk", "place": "mount-kailash", "overnight": "Zuthulpuk", "altitude_m": 4790, "max_m": 5630, "walk": "≈ 20–22 km · 10–12 h", "drive": "", "flight": "", "text": "Pre-dawn start for the climb of about 730 m to the Dolma La at approximately 5,630 m. Crowds slow the narrow sections, so start early and keep the group together. After prayers at the top, descend past Gauri Kund and walk the long valley to Zuthulpuk at about 4,790 m. A demanding but moving day.", "meals": "B, L, D"},
+    {"day": 10, "title": "Finish the kora, drive to Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4790, "walk": "≈ 9–10 km · 3–4 h", "drive": "≈ 100 km · 2–3 h", "flight": "", "text": "Visit Milarepa's cave, then walk out to Zongdo and take the eco-bus to Darchen, where the group reunites. After lunch, drive back to Purang, losing about 700 m. Hot showers and a celebration dinner.", "meals": "B, L, D"},
+    {"day": 11, "title": "Hilsa heli and fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Purang–Hilsa · 1 h", "flight": "Hilsa–Simikot heli · 20–30 min; Simikot–Nepalgunj · 45 min", "text": "Early drive to the border, Chinese exit and the walk back to Hilsa. Helicopters shuttle the group to Simikot, and the afternoon flight continues to Nepalgunj when weather allows; otherwise we overnight in Simikot. Collect stored luggage in Nepalgunj.", "meals": "B, L, D"},
+    {"day": 12, "title": "Fly to Kathmandu, tour ends", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Nepalgunj–Kathmandu · 1 h", "text": "Morning flight to Kathmandu, where the yatra ends at the airport. Pilgrims from Uttar Pradesh can leave by road via Rupaidiha instead. Book international flights for the following day or with flexible tickets in case of weather delays on the return.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and hotel nights in Kathmandu and Nepalgunj, twin sharing",
+    "Kathmandu–Nepalgunj–Simikot return flights and Simikot–Hilsa return helicopter sector",
+    "Chinese group visa processing support and Tibet Travel Permit",
+    "Tibetan agency vehicles, eco-buses and border transfers",
+    "Accommodation in Purang, Manasarovar, Darchen (2 nights), Dirapuk and Zuthulpuk",
+    "All meals from day 1 dinner, Indian vegetarian in Tibet",
+    "Nepali tour leader and licensed Tibetan guide",
+    "Advance pony and porter booking assistance for the festival week",
+    "Oxygen cylinders, pulse oximeter and first-aid kit"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Chinese visa fees and nationality-specific surcharges",
+    "Pony, horseman and porter hire charges",
+    "Travel insurance with high-altitude and helicopter evacuation cover",
+    "Extra nights caused by weather delays",
+    "Excess baggage on aircraft and helicopter",
+    "Tips, drinks and personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing and a group of at least 10; it is higher than our standard heli yatra because festival-week accommodation and permits carry premiums.",
+    "Saga Dawa falls on the full moon of the fourth Tibetan month, usually late May or June, and the date changes every year. Permits around the festival have sometimes been restricted. Check current status before you travel.",
+    "Helicopter flights run in the morning in shuttles of four or five, limited by payload at altitude; cloud and wind can delay them. People with heart or lung conditions or pregnancy should not fly to high altitude.",
+    "Rules for Indian passport holders, including visa processing, biometrics, fees and age limits of around 70, have changed several times since 2023. Check current status before you travel.",
+    "The parikrama is crowded in festival week; walking times can be longer than in other weeks."
+  ],
+  "add_ons": [
+    {"name": "Pony and horseman for the 3-day parikrama", "price": "≈ US$ 500–650 in festival week, set locally"},
+    {"name": "Porter for the 3-day parikrama", "price": "≈ US$ 200–280 in festival week, set locally"}
+  ],
+  "faqs": [
+    {"q": "When is the Saga Dawa yatra departure?", "a": "Our Saga Dawa departure is timed so the group is in Darchen on the full moon of the fourth Tibetan month, usually late May or June. We publish the exact dates once the lunar calendar and permit plans are confirmed, typically by January. Check current status before you travel."},
+    {"q": "What happens on Saga Dawa at Kailash?", "a": "Monks and local men lower the great Tarboche flagpole near Yam Dwar, replace its prayer flags and raise it again before thousands of pilgrims. The pole's straightness is read as an omen for the year. Many pilgrims start the parikrama immediately after."},
+    {"q": "Is Kailash too crowded during Saga Dawa?", "a": "It is the busiest time of the year, with full guesthouses and a slower trail on Dolma La. Many pilgrims find the shared devotion worth it. If you prefer quiet, choose a June or September departure. Booking early secures beds and ponies."},
+    {"q": "How much does the Saga Dawa Kailash yatra cost?", "a": "From ₹3,25,000 (US$3,780) per person, twin sharing, in a group of 10 or more. Festival-week accommodation and services carry premiums. Visa fees, ponies, porters, insurance and delay costs are extra."},
+    {"q": "How early should I book the Saga Dawa yatra?", "a": "At least four months ahead, and earlier for Indian passport holders, whose visa processing has needed original passports weeks before departure in recent seasons. Accommodation at Darchen and on the kora sells out, and ponies are scarce."},
+    {"q": "Can I watch Saga Dawa without walking the parikrama?", "a": "Yes. The ceremony at Tarboche is reached by vehicle or eco-bus from Darchen. Pilgrims who do not walk the kora stay in Darchen with a staff member for the two parikrama nights and rejoin the group afterwards."},
+    {"q": "Is Saga Dawa a good time for photographers?", "a": "It offers powerful images: the flagpole raising, pilgrims in festival dress and prostrating Tibetans on the kora. Always ask before photographing people, never photograph police or soldiers, and do not fly drones. Light is best in the early morning."},
+    {"q": "What if weather delays us and we miss the festival?", "a": "The itinerary includes a spare night at Darchen to protect the festival date. A delay of more than a day on the Simikot sector could still affect it. We monitor weather closely and, if needed, rearrange the lake and Darchen days to prioritise the ceremony."},
+    {"q": "Is the festival date the same as Buddha Purnima in India?", "a": "Often close but not always the same. Saga Dawa follows the Tibetan lunar calendar, which can differ from the Indian calendar by a month in some years. We confirm the Tibetan date with our partner in Lhasa each year."}
+  ]
+}

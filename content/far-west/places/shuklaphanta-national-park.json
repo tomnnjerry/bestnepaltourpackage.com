@@ -1,0 +1,130 @@
+{
+  "slug": "shuklaphanta-national-park",
+  "name": "Shuklaphanta National Park",
+  "region": "far-west",
+  "kind": "national park",
+  "wiki": "Shuklaphanta National Park",
+  "image_query": "Shuklaphanta swamp deer grassland",
+  "lat": 28.85,
+  "lng": 80.23,
+  "altitude_m": 180,
+  "tagline": "Swamp deer herds on open grassland at Nepal's far-western edge",
+  "meta_description": "Shuklaphanta National Park guide: swamp deer herds, tigers, Rani Tal birding, Rana Tharu villages, best months, how to reach from Dhangadhi or India.",
+  "summary": "Shuklaphanta National Park covers 305 km² of grassland, sal forest and wetland in Kanchanpur, on the Mahakali river border with India. It holds Nepal's largest herd of swamp deer, 50 tigers by the 2026 census, wild elephants and rare grassland birds. Visit November to April from Mahendranagar or Dhangadhi.",
+  "intro": [
+    "Shuklaphanta lies in the south-western corner of Nepal, bounded by the Mahakali river and India to the west and south. It was gazetted as a wildlife reserve in 1976, enlarged in the 1980s and upgraded to a national park in 2017. Its 305 km² range from about 174 m on the floodplain to 1,386 m in the Siwalik hills, and a buffer zone of 243 km² surrounds it. The park takes its name from the Shukla Phanta, one of the largest continuous lowland grasslands in the Terai.",
+    "The grassland is the reason to come. Herds of swamp deer, or barasingha, graze in the open in numbers seen nowhere else in Nepal, often hundreds in one view at dawn. Hog deer, spotted deer and wild boar share the phanta, and tigers hunt along its edges; the 2026 census counted 50 tigers here, up from 36 in 2022. Wild elephants, including large bulls, move in from the Indian side. Birders come for Bengal florican, swamp francolin and grassland warblers.",
+    "Visitor numbers are tiny. There are no big lodges inside, and most travellers stay in Mahendranagar (Bhimdatta) or at simple lodges near the park office at Majhgaon, a few kilometres away. That makes Shuklaphanta ideal as the quieter second half of a Bardia trip or a short stop for Indian travellers crossing at Banbasa–Gaddachauki. The monsoon floods the grassland, so the season runs from about November to April."
+  ],
+  "facts": [
+    ["Altitude", "≈ 174 – 1,386 m"],
+    ["Best months", "Nov – Apr"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Dhangadhi (≈ 55 km · 1.5 h)"],
+    ["From Kathmandu", "≈ 1 h 15 min flight to Dhangadhi + 1.5 h drive"],
+    ["Known for", "Swamp deer herds, grassland tigers, Bengal florican, Rani Tal"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Swamp deer on the phanta", "text": "Shuklaphanta holds Nepal's largest population of swamp deer, counted in the low thousands in recent surveys. At dawn in winter and spring, herds graze across the open grassland, stags carrying many-tined antlers. It is one of the great wildlife sights of the Indian subcontinent."},
+    {"title": "Tigers of the grassland edge", "text": "Nepal's 2026 census counted 50 tigers in Shuklaphanta, the fastest rise in the far west. Sightings are uncommon but possible along forest edges and water channels, often at first or last light. The open terrain makes any sighting easier to watch than in dense forest."},
+    {"title": "Rani Tal", "text": "A forest-fringed lake in the park's interior, with a watchtower. Rani Tal is linked by legend to a queen of a medieval local king, and it attracts waterbirds, deer and the occasional tiger coming to drink. A good stop on a full-day drive."},
+    {"title": "Grassland birds", "text": "Shuklaphanta is one of the best places in Nepal for Bengal florican, swamp francolin and rare grassland passerines, and 456 bird species have been recorded. Winter adds ducks and waders on the wetlands. Bring a telescope if you have one."},
+    {"title": "Rana Tharu villages", "text": "The Rana Tharu of Kanchanpur have their own dress, embroidery and house styles, distinct from the Tharu of Bardia and Chitwan. Village visits near the buffer zone show mud-walled homes, painted granaries and colourful skirts and shawls."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Dhangadhi on Buddha Air or Nepal Airlines, about 1 h 15 min, then drive ≈ 55 km, about 1.5 h, to Mahendranagar and the park office at Majhgaon. Check current schedules before you travel."},
+    {"mode": "Road", "text": "From Bardia: ≈ 250 km · 5–6 h along the East–West Highway via Attariya. From India: cross at Banbasa–Gaddachauki on the Mahakali, about 5 km from Mahendranagar; Delhi is roughly 300 km · 7–8 h, Tanakpur 15 km. From Kathmandu: ≈ 700 km · 16–18 h by road."}
+  ],
+  "where_to_stay": "Most visitors base themselves in Mahendranagar (Bhimdatta), a small city 5–10 km from the park office, where there are several mid-range hotels with air-conditioning and restaurants. A few simple lodges and homestays near Majhgaon and the buffer zone put you closer to the park gate, though standards are basic and change from year to year. There is no luxury lodge in or near Shuklaphanta. We confirm the current best option for each trip rather than naming a fixed property, and for Bardia–Shuklaphanta tours we use the stronger lodge in Bardia for the longer stay.",
+  "stays": [],
+  "tips": [
+    "Go out at first light; swamp deer herds are most visible in the open phanta at dawn.",
+    "Bring binoculars and, if you have one, a spotting scope for florican and distant deer.",
+    "Carry your passport if staying in Mahendranagar; it is close to the Indian border and IDs are checked.",
+    "Visit between November and April; the grassland floods and roads close in the monsoon.",
+    "Combine with Bardia for a longer far-western safari, staying three nights in each park."
+  ],
+  "themes": ["wildlife-safari", "photography", "overland-from-india", "budget-nepal"],
+  "nearby": ["dhangadhi", "bardia-national-park", "khaptad-national-park"],
+  "experiences": [
+    {
+      "slug": "shuklaphanta-grassland-jeep-safari",
+      "title": "Shuklaphanta grassland jeep safari",
+      "kind": "wildlife",
+      "duration": "Full day or half day",
+      "best_time": "Dawn, Dec–Apr",
+      "price_hint": "≈ ₹10,000–14,000 per jeep plus park fees",
+      "image_query": "Shuklaphanta grassland jeep swamp deer",
+      "wiki": "Barasingha",
+      "summary": "A jeep drive across the Shukla Phanta grassland and surrounding forest at dawn, looking for swamp deer herds, tigers, elephants and grassland birds, with a stop at the Rani Tal watchtower.",
+      "body": [
+        "Drives leave the Majhgaon park office before sunrise and head into the phanta, an open sea of grass broken by small groves and water channels. In the low light, herds of swamp deer feed in the open, sometimes hundreds at once, with hog deer and spotted deer along the margins. Stags spar in the breeding season in winter.",
+        "From the grassland the track runs through sal forest to Rani Tal, where a watchtower overlooks the lake. Tigers and leopards use the forest edges and are seen occasionally, and wild elephants pass through, especially in the cooler months. Birders look for Bengal florican displaying in spring and swamp francolin calling from the reeds.",
+        "A half-day drive covers the phanta and returns by late morning; a full day adds Rani Tal and the more remote forest blocks with a packed lunch. A licensed guide and park registration are required. Dust is heavy from February, so bring a scarf and protect camera gear."
+      ],
+      "good_for": ["photographers", "families", "couples", "groups"],
+      "faqs": [
+        {"q": "How many swamp deer are in Shuklaphanta?", "a": "Recent counts have put the swamp deer population of Shuklaphanta in the low thousands, the largest in Nepal and one of the largest anywhere. Numbers vary between surveys with floods and grassland management. At dawn between December and April you can often see several hundred together on the open phanta."},
+        {"q": "Can I see tigers in Shuklaphanta?", "a": "Possibly. The 2026 census counted 50 tigers in the park, and sightings happen along grassland and forest edges, but they are less frequent than in Bardia because there are fewer safari days and guides tracking them. Shuklaphanta is best visited for swamp deer and birds, with a tiger as a bonus."},
+        {"q": "Half day or full day jeep safari in Shuklaphanta?", "a": "A half day covers the main phanta and swamp deer herds at dawn and suits most visitors. A full day adds Rani Tal and the more remote forest, raising the chances of tigers, elephants and grassland birds. Photographers and birders should take the full day; families with children often prefer two half days."}
+      ]
+    },
+    {
+      "slug": "shuklaphanta-rani-tal-birding",
+      "title": "Rani Tal and wetland birding walk",
+      "kind": "nature",
+      "duration": "4–5 hours",
+      "best_time": "Early morning, Nov–Mar",
+      "price_hint": "≈ ₹3,000–4,500 per person with guides",
+      "image_query": "Rani Tal Shuklaphanta lake",
+      "wiki": "",
+      "summary": "A guided morning around Rani Tal and nearby wetlands for waterbirds, raptors and grassland specialists. Combines a short drive with time at the watchtower and slow walks on the forest edge with licensed guides.",
+      "body": [
+        "Rani Tal is the largest open water inside Shuklaphanta, ringed by forest and reeds. In winter it draws ducks, cormorants, herons, storks and kingfishers, while raptors such as Pallas's fish eagle and grey-headed fish eagle patrol overhead. The watchtower gives a safe, raised view of animals coming to drink.",
+        "Around the lake and the grassland edges, guides look for swamp francolin, Bengal florican in the display season of March and April, and small grassland birds such as bristled grassbird and Finn's weaver, which are rare in Nepal. A telescope helps on the wide grassland.",
+        "Walking inside the park requires licensed guides, and routes are short because of elephants and other large animals. Start at dawn, when the birds are active and before the heat. Bring a field guide or app, binoculars and a notebook."
+      ],
+      "good_for": ["photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "Is Shuklaphanta good for birdwatching?", "a": "Yes, it is one of Nepal's most important sites for grassland birds, including Bengal florican, swamp francolin and several rare warblers and weavers. Over 450 bird species have been recorded. Winter brings waterbirds to Rani Tal and the wetlands, and March–April is the display season for florican."},
+        {"q": "What is the story of Rani Tal?", "a": "Local legend links the lake to a queen (rani) of a medieval king of the area, whose fort ruins are said to lie in the forest nearby. Stories vary from village to village. Today the lake is valued mainly for wildlife, and its watchtower is a fixed stop on Shuklaphanta drives."},
+        {"q": "Can I walk inside Shuklaphanta National Park?", "a": "Short guided walks are possible with licensed guides around specific areas such as Rani Tal and the grassland edges. Walking is restricted because of wild elephants, tigers and rhinos. Most of the park is explored by jeep, with walks used for birding and short wildlife-viewing stops."}
+      ]
+    },
+    {
+      "slug": "shuklaphanta-rana-tharu-village-visit",
+      "title": "Rana Tharu village visit in Kanchanpur",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Late afternoon, Oct–Apr",
+      "price_hint": "≈ ₹2,000 per person with local guide",
+      "image_query": "Rana Tharu women dress Kanchanpur",
+      "wiki": "",
+      "summary": "An afternoon in a Rana Tharu village near the Shuklaphanta buffer zone, seeing traditional houses, embroidered dress and daily life of a community distinct from the Tharu of central Nepal.",
+      "body": [
+        "The Rana Tharu live mainly in Kanchanpur and Kailali and across the border in Uttarakhand. Their women's dress, with embroidered skirts, mirror work and bright shawls, stands out even among Tharu groups, and their language and rituals differ from the Dangaura Tharu further east.",
+        "A local guide takes you to a village near the buffer zone, where you visit a home, see grain stores and kitchen gardens, and learn about fishing, farming and the forest. Villagers often show handicrafts, and in festival seasons, especially Holi in March, there may be dancing.",
+        "Visits are small and informal. Ask before photographing people and inside homes, and buy handicrafts directly if you wish to support families. This pairs naturally with a morning safari, filling the hot middle of the day or the late afternoon."
+      ],
+      "good_for": ["families", "couples", "photographers", "groups"],
+      "faqs": [
+        {"q": "Who are the Rana Tharu?", "a": "The Rana Tharu are a Tharu community of Nepal's far-western Terai, mostly in Kanchanpur and Kailali, and in neighbouring Uttarakhand. They have a distinct dialect, dress and customs from the Tharu of Bardia and Chitwan, with women's embroidered skirts and shawls being the most visible difference."},
+        {"q": "Is a Tharu village visit respectful?", "a": "It is when done with a local guide, in small groups, with permission and fair payment. Behave as a guest, ask before taking photos, avoid entering kitchens or shrines without invitation, and buy crafts directly. Our visits are arranged with families who welcome visitors and benefit from them."},
+        {"q": "When is the best time for a Tharu village visit?", "a": "Late afternoon from October to April, when field work slows and light is soft. Festivals such as Maghi in January and Holi in March bring dancing and gatherings. Avoid midday in April and May, when temperatures pass 38 °C, and the monsoon months, when village roads flood."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Shuklaphanta National Park?", "a": "In Kanchanpur district in the extreme south-west of Nepal, bounded by the Mahakali river and India. The park office at Majhgaon is a few kilometres from Mahendranagar (Bhimdatta). Dhangadhi airport is about 55 km away, and the Banbasa–Gaddachauki border crossing to India is about 5 km from Mahendranagar."},
+    {"q": "What is Shuklaphanta famous for?", "a": "Its swamp deer, the largest herd in Nepal, grazing on one of the biggest lowland grasslands in the Terai. It also has tigers (50 in the 2026 census), wild elephants, Bengal florican and other grassland birds, and Rani Tal lake. It is far quieter than Chitwan or Bardia."},
+    {"q": "Is Shuklaphanta worth visiting?", "a": "Yes, for travellers interested in wildlife beyond the main parks, particularly swamp deer and grassland birds. Facilities are simple and tiger sightings less likely than in Bardia. It works best as part of a far-western safari or as a first stop for Indian travellers crossing at Banbasa."},
+    {"q": "How do I get to Shuklaphanta from Delhi?", "a": "Drive about 300 km, 7–8 hours, via Bareilly or Rampur to Banbasa and cross into Nepal at Gaddachauki on the Mahakali barrage. Mahendranagar and the park office are a short drive beyond. Indian nationals need a passport or voter ID; private Indian vehicles need a Nepal customs permit."},
+    {"q": "Where to stay near Shuklaphanta?", "a": "Most visitors stay in Mahendranagar, which has several mid-range hotels with air-conditioning, 5–10 km from the park office. A few simple lodges and homestays near Majhgaon put you closer to the gate. There is no luxury lodge, so many travellers combine a shorter stay here with a lodge in Bardia."},
+    {"q": "What is the best time to visit Shuklaphanta?", "a": "November to April. December to February gives cool, foggy mornings and good swamp deer activity; March and April bring florican displays and better tiger chances, but heat builds. From June to September monsoon floods cover the grassland and safaris largely stop."},
+    {"q": "Can I combine Bardia and Shuklaphanta?", "a": "Yes, they are about 250 km apart, 5–6 hours along the East–West Highway. A 6–7 night trip with three nights in each park works well, flying into Nepalgunj and out of Dhangadhi or the reverse. It gives you Bardia's tigers and river safaris and Shuklaphanta's grassland herds."},
+    {"q": "Are there rhinos in Shuklaphanta?", "a": "A small number of greater one-horned rhinos were translocated to Shuklaphanta from Chitwan, and a few remain. Sightings are rare. If rhinos are a priority, Chitwan is far better, with Bardia second. Shuklaphanta's specialities are swamp deer, grassland birds and the open phanta landscape."},
+    {"q": "What is the entry fee for Shuklaphanta National Park?", "a": "The park charges a daily entry fee per person, with higher rates for foreign nationals than for SAARC nationals and Nepalis, plus separate charges for vehicles and guides. Fees are paid at the Majhgaon office and are usually included in our safari packages. Check current status before you travel."}
+  ]
+}

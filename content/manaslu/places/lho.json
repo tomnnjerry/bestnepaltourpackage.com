@@ -1,0 +1,130 @@
+{
+  "slug": "lho",
+  "name": "Lho",
+  "region": "manaslu",
+  "kind": "trekking village",
+  "wiki": "Lho",
+  "image_query": "Lho village Ribung Gompa Manaslu",
+  "lat": 28.566,
+  "lng": 84.707,
+  "altitude_m": 3180,
+  "tagline": "Ribung Gompa and the classic first full view of Manaslu",
+  "meta_description": "Lho (3,180 m) on the Manaslu Circuit: Ribung Gompa, sunrise on Manaslu, Shyala pastures, lodges, walking times from Namrung and to Samagaun.",
+  "summary": "Lho is a Nubri village at about 3,180 m with Ribung Gompa on the hill above it and the most photographed view of Manaslu on the circuit. Trekkers arrive from Namrung after 4 to 5 hours and walk on to Samagaun next day in 3 to 4 hours via the pastures of Shyala.",
+  "intro": [
+    "Lho is built along a ridge above the Budhi Gandaki, with stone houses, barley fields and a long line of chortens leading to the village gate. Above it, on a spur, stands Ribung Gompa, a Nyingma monastery with a school for young monks. The view from the gompa courtyard looks straight up the valley to Manaslu, its twin summits catching the first light while the village is still in shadow. Many trekkers say this is the moment the trek becomes Manaslu's.",
+    "At about 3,180 m Lho is high enough for cold nights and short days in autumn. Frost covers the fields at dawn in November, and the lodges light their stoves early. The village is a farming community first; its people are Nubri, related by language and custom to their neighbours in Samagaun and across the border in Kyirong. Look out for women weaving and men repairing walls in the lanes.",
+    "Lho is the night before Samagaun on most itineraries, and the short walk the next day lets you arrive in Samagaun fresh. Leave Lho early to see Manaslu from Shyala, a village in an amphitheatre of peaks: Himal Chuli, Ngadi Chuli, Manaslu and the glaciers between them. If you are on a slow itinerary, an extra morning in Lho for the gompa and sunrise is well spent."
+  ],
+  "facts": [
+    ["Altitude", "3,180 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu (heli rescue landing possible)"],
+    ["From Kathmandu", "Jeep to Machha Khola + 4 days' walk"],
+    ["Known for", "Ribung Gompa, sunrise view of Manaslu, Nubri culture"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Ribung Gompa", "text": "The monastery above Lho houses a community of monks and a school. Its courtyard, murals and prayer wheels are worth the 15 minute climb, and morning or evening prayers with horns and drums can sometimes be watched quietly from the doorway."},
+    {"title": "Manaslu at sunrise", "text": "From the gompa or the chortens at the top of the village, Manaslu's summit turns pink and gold in the first light. It is the classic photograph of the Manaslu Circuit, best between 6 and 7 am in autumn."},
+    {"title": "Shyala amphitheatre", "text": "An hour above Lho, the village of Shyala sits in a bowl surrounded by Himal Chuli, Ngadi Chuli, Manaslu and their glaciers. It is one of the finest mountain settings in Nepal and a natural tea stop on the way to Samagaun."},
+    {"title": "Nubri village life", "text": "Lho's lanes, chortens and mani walls are part of a working village. In autumn you see harvests drying on roofs, yaks and dzo being moved and children walking to the monastery school."},
+    {"title": "Short, easy days", "text": "Lho sits between two short stages, 4 to 5 hours from Namrung and 3 to 4 hours to Samagaun. That gentle pace helps your body adapt to the altitude above 3,000 m."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Namrung, walk via Banjam, Lihi and Sho to Lho in 4 to 5 hours, about 11 km with roughly 550 m gain. Onward to Samagaun is about 8 km and 3 to 4 hours via Shyala, gaining around 350 m."},
+    {"mode": "Helicopter", "text": "Lho has open fields that can serve as an emergency landing site. Rescue flights to Kathmandu take 50 to 60 minutes in good weather. Planned heli drops usually go to Samagaun instead, which is 3 to 4 hours further up."}
+  ],
+  "where_to_stay": "Lho has several teahouses near the village entrance and along the main lane, with views up the valley towards Manaslu from some dining rooms and terraces. Rooms are twin with shared bathrooms, and solar hot showers work on sunny days. Tashi Dalek Guest House and Majestic Manaslu appear on many trekking group itineraries; like all teahouses on the circuit, names and owners can change between seasons, so we reconfirm before each departure. Choose a room on the valley side for the dawn view of Manaslu from your window.",
+  "stays": [],
+  "tips": [
+    "Set an alarm for 5:45 am in October; the sunrise on Manaslu from above the village is the best on the lower trek.",
+    "Visit Ribung Gompa in the late afternoon and leave a small donation of 100 to 200 rupees.",
+    "From Lho upwards nights are below freezing in late autumn, so sleep in a warm hat and keep water bottles inside your sleeping bag.",
+    "Leave early for Samagaun so you are in Shyala before cloud covers the peaks around 10 am.",
+    "If you feel a headache at Lho, rest, drink and tell your guide; do not push on to Samagaun without improving."
+  ],
+  "themes": ["trekking", "cultural-tours", "photography"],
+  "nearby": ["namrung", "samagaun", "manaslu-base-camp"],
+  "experiences": [
+    {
+      "slug": "lho-ribung-gompa-visit",
+      "title": "Ribung Gompa monastery visit",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Late afternoon or early morning prayers",
+      "price_hint": "Donation ≈ ₹100–200",
+      "image_query": "Ribung Gompa Lho monastery",
+      "wiki": "",
+      "summary": "A short climb from the village to Ribung Gompa, the Nyingma monastery above Lho, to see its prayer hall, murals and monastery school, and the view up the valley to Manaslu. Visitors are welcome when they respect prayer times and local customs.",
+      "body": [
+        "The path to Ribung Gompa leaves the top of the village and climbs past chortens to the monastery in 15 to 20 minutes. The buildings include a prayer hall decorated with murals of Buddhist deities and teachers, monks' quarters and a school where boys from Nubri villages study. The courtyard looks directly up the Budhi Gandaki to the summit of Manaslu.",
+        "If you arrive during prayers, usually early morning or late afternoon, stand quietly at the back or outside the door. You may hear long horns, drums and chanting. A caretaker monk may open the main hall for visitors at other times; remove your shoes and hat, walk clockwise and avoid touching statues or offerings.",
+        "Photography inside the hall is often not allowed, so always ask. A donation of 100 to 200 rupees in the box is customary and helps the school. Bring a warm layer, because the courtyard is exposed to the wind once the sun drops behind the ridge."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can visitors enter Ribung Gompa in Lho?", "a": "Yes, visitors are usually welcome when a monk is present to open the prayer hall. Remove shoes and hats, walk clockwise and keep your voice low. A donation of 100 to 200 rupees is customary. During prayers, watch quietly from the back or the doorway unless invited further in."},
+        {"q": "How long does it take to walk to Ribung Gompa from Lho?", "a": "About 15 to 20 minutes up from the top of the village, climbing perhaps 60 to 80 m on a clear path. Allow an hour in total with time at the monastery. It is an easy outing on arrival afternoon or before breakfast."},
+        {"q": "Can I photograph monks at Ribung Gompa?", "a": "Ask first, every time. Many monks are happy to be photographed outside, but some are not, and prayers should not be interrupted. Photography inside the prayer hall is often not allowed. Photos of the monastery buildings with Manaslu behind are always fine from the courtyard."}
+      ]
+    },
+    {
+      "slug": "lho-manaslu-sunrise",
+      "title": "Sunrise on Manaslu from Lho",
+      "kind": "nature",
+      "duration": "45 minutes",
+      "best_time": "5:45–7 am, Oct–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Manaslu sunrise from Lho",
+      "wiki": "Manaslu",
+      "summary": "Lho gives the classic dawn view of Manaslu, 8,163 m, framed by chortens and prayer flags. A short walk to the upper village or the gompa before breakfast is all it takes, and autumn mornings are clear more often than not.",
+      "body": [
+        "Manaslu's name comes from the Sanskrit manasa, meaning intellect or soul, and from Lho its double summit stands at the head of the valley. At sunrise the snow turns from blue to pink to bright white in about 20 minutes, while the village below stays in cold shadow. Prayer flags and white chortens make a natural foreground.",
+        "Walk to the chortens at the top of the village or to the Ribung Gompa courtyard 15 minutes before sunrise. In October that means leaving your lodge around 5:45 am; in November about 6:10 am. Wear a down jacket, hat and gloves, because temperatures are close to freezing or below.",
+        "For photographs, a mid-range zoom lens of 70 to 200 mm isolates the summit, while a wide lens captures the gompa and peak together. Phone cameras do well if you expose for the bright snow. Back at the lodge, breakfast and the short walk to Samagaun follow."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "Is Lho the best place to see Manaslu?", "a": "Lho gives the classic framed view of Manaslu with chortens and Ribung Gompa in the foreground, and many photographers rate it the best. Samagaun is closer, with the glacier and Birendra Tal, and Manaslu Base Camp gives the closest view. Seeing all three is part of the circuit's appeal."},
+        {"q": "What time should I get up for sunrise at Lho?", "a": "In October get up at about 5:30 am and be at the viewpoint by 5:50; in November get up around 5:50 am. The light on the summit lasts about 20 to 30 minutes. Mornings are usually clear in autumn, with cloud building after about 10 am."},
+        {"q": "What camera gear is useful at Lho?", "a": "A wide lens for the gompa and village with the mountain, and a 70 to 200 mm zoom to fill the frame with the summit. Bring a spare battery kept warm in an inside pocket, because cold drains batteries fast. A small tripod helps in the low light before sunrise."}
+      ]
+    },
+    {
+      "slug": "lho-shyala-pastures-walk",
+      "title": "Shyala pastures and the Manaslu amphitheatre",
+      "kind": "hiking",
+      "duration": "3–4 hours to Samagaun",
+      "best_time": "7–10 am, Oct–Nov and Apr–May",
+      "price_hint": "Included in most treks",
+      "image_query": "Shyala village Manaslu Himal Chuli",
+      "wiki": "",
+      "summary": "The short walk from Lho to Samagaun passes Shyala, a village set in a bowl of peaks and glaciers: Himal Chuli, Ngadi Chuli and Manaslu all in view at once. Leave early, take your time and enjoy one of the finest mountain settings in Nepal.",
+      "body": [
+        "From Lho the trail drops to cross a stream, then climbs through pine forest to the open meadows of Shyala at around 3,500 m. As you emerge, peaks rise in a semicircle: Himal Chuli and Ngadi Chuli to the south, the Manaslu massif to the west and glaciers spilling down between them. Yaks graze the fields and the houses sit low against the wind.",
+        "Shyala is a good place for a long tea stop while the light is still clear. Look for the Pungyen ridge and the Manaslu Glacier ahead; tomorrow, on the acclimatisation day, you will climb onto that ridge from Samagaun. The gradient here is easy and the altitude gain small.",
+        "From Shyala it is about 1 to 1.5 hours across fields and streams to Samagaun. Arriving before lunch gives you the afternoon to settle in and walk to Birendra Tal. Total distance is about 8 km, with roughly 350 m gain over 3 to 4 hours."
+      ],
+      "good_for": ["photographers", "families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "How far is Lho from Samagaun?", "a": "About 8 km, taking 3 to 4 hours with roughly 350 m of height gain. The route passes Shyala village. It is one of the easiest days on the circuit, which helps acclimatisation. Leave early to enjoy the mountain views before cloud builds in late morning."},
+        {"q": "Can I stay in Shyala instead of Samagaun?", "a": "A few basic lodges operate in Shyala in season, but most itineraries continue to Samagaun, which has far more choice and is the usual place for the rest day. If you want a quiet night, ask us to check Shyala lodge availability when you book."},
+        {"q": "What mountains surround Shyala?", "a": "Himal Chuli (7,893 m) and Ngadi Chuli (7,871 m) rise to the south, with Manaslu (8,163 m) to the west and the Manaslu Glacier between them. On clear mornings the peaks form an almost complete circle around the village fields."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Lho on the Manaslu trek?", "a": "Lho is at about 3,180 m. It is the last overnight stop before Samagaun, at 3,530 m, on standard Manaslu Circuit itineraries. Nights in late autumn drop below freezing, and some trekkers notice the first mild altitude symptoms here."},
+    {"q": "What is Ribung Gompa?", "a": "Ribung Gompa is a Tibetan Buddhist monastery of the Nyingma tradition on the hill above Lho. It has a prayer hall with murals, monks' quarters and a school for boys from the Nubri valley. It is a 15 to 20 minute walk from the village and offers a famous view of Manaslu."},
+    {"q": "How long from Namrung to Lho?", "a": "About 4 to 5 hours for 11 km, with roughly 550 m of height gain, via Banjam, Lihi and Sho. It is a gentle day through farming villages with long mani walls, and Manaslu appears ahead near the end."},
+    {"q": "Can I see Manaslu from Lho?", "a": "Yes. Lho has one of the best views of Manaslu on the circuit, looking straight up the valley at its twin summits. Sunrise is the best time, from about 5:50 am in October, before cloud forms in late morning."},
+    {"q": "Should I rest in Lho or Samagaun?", "a": "Samagaun is the better place for a rest and acclimatisation day, because it is higher and has more hikes. Lho works for an extra night on slow itineraries or if someone in the group needs to recover. Never skip the Samagaun rest day to stay longer in Lho."},
+    {"q": "Are there lodges with heating in Lho?", "a": "Lodges heat their dining rooms with wood or dung stoves in the evening, but bedrooms are unheated. Bring a sleeping bag rated to about −10 °C for late autumn and spring. Hot water bottles filled from the kitchen help on cold nights."},
+    {"q": "Is there mobile signal in Lho?", "a": "Signal is patchy in Lho; some lodges offer paid Wi-Fi via satellite or local networks, often slow. Expect better coverage in Samagaun. Let family know before leaving Namrung that you may be offline for a day."},
+    {"q": "Is Lho worth an extra night?", "a": "For photographers and culture lovers, yes. An extra night allows two sunrises, more time at Ribung Gompa and a walk to Shyala without packs. It also helps acclimatisation. We can add it to any Manaslu itinerary for the cost of one more trekking day."},
+    {"q": "What is the weather like in Lho in April?", "a": "April days are around 10 to 15 °C in sun, nights about −2 to 2 °C. Mornings are usually clear, with cloud and occasional light snow or rain in the afternoon. Rhododendrons flower in the forest below the village."}
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "annapurna-base-camp-heli-tour-1-day",
+  "title": "Annapurna Base Camp Heli Tour 1 Day",
+  "region": "annapurna",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": [
+    "heli-tours",
+    "short-breaks",
+    "luxury-nepal",
+    "photography"
+  ],
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 0
+    },
+    {
+      "place": "annapurna-base-camp",
+      "nights": 0
+    }
+  ],
+  "start": "Pokhara (hotel pick-up, Pokhara airport)",
+  "end": "Pokhara",
+  "price_from_inr": 56000,
+  "price_from_usd": 650,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "max_altitude_m": 4130,
+  "accommodation": "None (morning tour, back in Pokhara by about 9 am)",
+  "transport": "Helicopter Pokhara–Annapurna Base Camp–Pokhara, hotel–airport car transfers",
+  "group": "Shared seat (up to 5 passengers) or private charter",
+  "meta_description": "Annapurna Base Camp heli tour in 1 day from Pokhara: 25–30 min flight, about 15–20 min landing at 4,130 m, back by breakfast. Shared seats or charter.",
+  "summary": "A 2-hour morning helicopter tour from Pokhara into the Annapurna Sanctuary, landing at Annapurna Base Camp, 4,130 m, for about 15–20 minutes among Annapurna I, Annapurna South and Machhapuchhre. For travellers short on time or unable to trek; weather and payload rules apply.",
+  "intro": [
+    "Trekkers take five or six days to walk from Pokhara to Annapurna Base Camp. In a helicopter it takes 25–30 minutes. You lift off from Pokhara airport soon after dawn, fly north over Phewa Lake and the terraced hills, follow the Modi Khola gorge past Ghandruk and Chhomrong, and enter the Sanctuary between Hiunchuli and Machhapuchhre. The pilot lands on a flat area at base camp, 4,130 m, where you step out into a ring of 7,000 m and 8,000 m peaks.",
+    "This is a sightseeing flight, not an expedition, and it depends entirely on morning weather. Flights operate early because cloud builds in the gorge from about 10–11 am. Helicopters carry fewer passengers at high altitude, so some flights take the group up in two shuttles. Time on the ground is kept to about 15–20 minutes to limit the effect of the sudden altitude gain. Anyone with heart or lung conditions, or who is pregnant, should not fly to this height."
+  ],
+  "highlights": [
+    "Landing at Annapurna Base Camp, 4,130 m, in about 25–30 minutes from Pokhara",
+    "Annapurna I, 8,091 m, and the Sanctuary's ring of peaks at close range",
+    "Machhapuchhre's fishtail summit seen from the side",
+    "Bird's-eye views of Ghandruk, Chhomrong and the Modi Khola gorge",
+    "Back in Pokhara by about 9 am for a late breakfast",
+    "Ideal for families, seniors and travellers who cannot trek"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara to Annapurna Base Camp by helicopter",
+      "place": "annapurna-base-camp",
+      "overnight": "",
+      "altitude_m": 822,
+      "max_m": 4130,
+      "walk": "",
+      "drive": "Hotel–airport transfers",
+      "flight": "Pokhara–ABC · 25–30 min · ABC–Pokhara · 25–30 min",
+      "text": "We pick you up from your Pokhara hotel at about 6 am for a safety briefing and weight check at the airport. Take-off is around 6:30 am. The helicopter flies north over the Modi Khola, past Ghandruk and Chhomrong, into the gorge below Machhapuchhre and lands at Annapurna Base Camp, 4,130 m, for about 15–20 minutes: time for photos with Annapurna I, Annapurna South and Hiunchuli. On the return, the pilot often circles Machhapuchhre Base Camp. You are back in Pokhara by about 9 am.",
+      "meals": ""
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Shared seat on a helicopter flight Pokhara–Annapurna Base Camp–Pokhara",
+    "About 15–20 minutes on the ground at ABC, weather permitting",
+    "Hotel–airport transfers in Pokhara",
+    "Annapurna Conservation Area fees and landing permits",
+    "Airport tax and fuel surcharge",
+    "Safety briefing and oxygen on board for emergencies",
+    "Our ground representative at Pokhara airport"
+  ],
+  "excludes": [
+    "Hotel accommodation in Pokhara",
+    "Breakfast or meals",
+    "Travel insurance",
+    "Extra landing time or additional landings beyond the standard plan",
+    "Private charter supplement if you want the helicopter to yourselves",
+    "Tips for pilot and crew",
+    "Costs of rebooking hotels or flights if the tour is postponed by weather"
+  ],
+  "good_to_know": [
+    "Price is per person for a seat on a full shared flight of up to 5 passengers. A private 5-seat charter costs roughly US$ 2,800–3,500 per helicopter; check current status before you travel.",
+    "Weather decides everything. Flights leave early, usually 6–7 am, before cloud closes the gorge. If the pilot cannot fly, the tour moves to the next clear morning or is refunded in full.",
+    "At 4,130 m helicopters carry less weight. Passengers are weighed, total payload is limited, and some groups fly up in two shuttles or land in two groups.",
+    "Time on the ground is about 15–20 minutes to limit altitude effects. Move slowly, avoid running and tell the crew if you feel dizzy or short of breath.",
+    "People with heart or lung conditions, high blood pressure that is not controlled, and pregnant women should not fly to this altitude. Consult a doctor if unsure."
+  ],
+  "add_ons": [
+    {
+      "name": "Private 5-seat charter",
+      "price": "≈ US$ 2,800–3,500 per helicopter"
+    },
+    {
+      "name": "Additional landing at Machhapuchhre Base Camp",
+      "price": "On request, subject to payload and weather"
+    },
+    {
+      "name": "Sarangkot sunrise drive on a non-flight morning",
+      "price": "≈ ₹2,500 / US$ 30 per vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the Annapurna Base Camp helicopter tour from Pokhara?",
+      "a": "Our shared-seat price starts from about ₹56,000 or US$650 per person, based on a full flight of up to 5 passengers. A private 5-seat charter costs roughly US$2,800–3,500 per helicopter, which works out cheaper per person for a full family. Prices vary with fuel costs and season, so check current status before you travel."
+    },
+    {
+      "q": "How long does the ABC helicopter tour take?",
+      "a": "About 2 hours from hotel pick-up to drop-off. The flight to Annapurna Base Camp takes 25–30 minutes, you spend about 15–20 minutes on the ground, and the return takes another 25–30 minutes. Most tours leave Pokhara around 6:30 am and are back by about 9 am, in time for a late breakfast."
+    },
+    {
+      "q": "Can children and seniors do the Annapurna heli tour?",
+      "a": "Yes, generally. Children and healthy seniors join these tours regularly. The short time at 4,130 m limits altitude effects, but anyone with heart or lung conditions should consult a doctor first, and pregnant women should not fly to this height. Infants may be more affected by pressure changes, so check with your doctor."
+    },
+    {
+      "q": "What happens if the weather is bad on the day?",
+      "a": "The pilot decides on the morning of the flight. If cloud, wind or rain makes it unsafe, the tour is postponed to the next clear morning or refunded in full. We recommend booking for the start of your Pokhara stay so you have spare mornings. Flights rarely run after about 10 am because cloud fills the gorge."
+    },
+    {
+      "q": "How long can we stay at Annapurna Base Camp?",
+      "a": "Usually about 15–20 minutes. This keeps altitude effects low after flying from 822 m to 4,130 m in under half an hour, and allows the helicopter to return before clouds build. Longer stays may be possible on private charters in good weather, but we do not recommend staying beyond 30 minutes without acclimatisation."
+    },
+    {
+      "q": "Is the Annapurna heli tour safe?",
+      "a": "Operators in Pokhara fly this route regularly with experienced mountain pilots. Safety depends on weather and payload, so flights go only in clear morning conditions and carry limited weight at altitude. Oxygen is on board for emergencies. Follow the crew's instructions, stay clear of the rotors and never approach the helicopter from behind."
+    },
+    {
+      "q": "Which side of the helicopter has the best view?",
+      "a": "Seats are assigned by weight for balance, so you may not choose. Both sides have good views: one side looks onto Machhapuchhre and the gorge walls, the other onto Hiunchuli and Annapurna South. On landing everyone gets the full panorama. Window seats rotate on some flights so each passenger gets a turn."
+    },
+    {
+      "q": "What should I wear for the ABC helicopter tour?",
+      "a": "Warm layers. Pokhara may be 15 °C at dawn, but ABC can be −5 °C or colder with wind in autumn and winter. Wear a down or insulated jacket, a hat, gloves and sunglasses, plus comfortable shoes with grip for snow or frost. Keep your camera or phone in an inside pocket to protect the battery."
+    },
+    {
+      "q": "Can Indian tourists book the ABC heli tour in INR?",
+      "a": "Yes. We quote and accept payment in INR for Indian guests, and Indian nationals can join on a passport or voter ID. The tour fits neatly into a Kathmandu–Pokhara holiday: arrive in Pokhara the day before, fly the next morning and continue with your plans after breakfast."
+    }
+  ]
+}

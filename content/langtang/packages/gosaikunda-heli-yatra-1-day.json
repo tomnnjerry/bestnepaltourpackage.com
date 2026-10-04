@@ -1,0 +1,80 @@
+{
+  "slug": "gosaikunda-heli-yatra-1-day",
+  "title": "Gosaikunda Heli Yatra from Kathmandu 1 Day",
+  "region": "langtang",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "pilgrimage", "short-breaks"],
+  "stops": [
+    {"place": "kathmandu", "nights": 0},
+    {"place": "gosaikunda", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan Airport domestic terminal)",
+  "end": "Kathmandu",
+  "price_from_inr": 58000,
+  "price_from_usd": 690,
+  "best_months": [0, 1, 1, 2, 2, 1, 0, 1, 1, 2, 2, 1],
+  "max_altitude_m": 4380,
+  "accommodation": "None (day tour)",
+  "transport": "Helicopter Kathmandu–Gosaikunda–Kathmandu, hotel transfers by car",
+  "group": "Shared seat (up to 5 per helicopter) or private charter",
+  "meta_description": "Gosaikunda helicopter yatra, 1 day from Kathmandu: 35 min flight, landing at the sacred lake (4,380 m) for darshan and puja. From ₹58,000 per seat.",
+  "summary": "A one-morning helicopter pilgrimage from Kathmandu to Gosaikunda, the sacred lake of Lord Shiva at 4,380 m. Fly about 35 minutes over the Trishuli valley, land beside the lake for darshan, a brief puja and holy water, and return to Kathmandu by late morning. It suits pilgrims who cannot walk the 2–3 day trail.",
+  "intro": [
+    "Gosaikunda is one of Nepal's holiest lakes, believed to have been created when Lord Shiva struck the mountain with his trishul to cool his throat after drinking the poison from the churning of the ocean. Walking there takes two or three days of steep climbing from Dhunche, which rules it out for many older pilgrims and families. The helicopter yatra makes darshan possible in a single morning, without the strain of the trek.",
+    "The flight crosses the Shivapuri hills and the Trishuli valley, climbing over the forested ridges of Langtang National Park to the cluster of lakes below Lauribina La. On landing near the shore, you have a short time to offer prayers at the Shiva shrine, collect holy water and take photographs before flying back. Because Gosaikunda is at 4,380 m, ground time is kept brief, usually 20–40 minutes, and fitness and health conditions matter."
+  ],
+  "highlights": [
+    "Darshan at Gosaikunda, sacred lake of Lord Shiva (4,380 m)",
+    "Simple puja and holy water collection at the lakeside shrine",
+    "35-minute flight over Langtang National Park",
+    "Views of Langtang Lirung, Ganesh Himal and Manaslu on clear days",
+    "Back in Kathmandu by late morning",
+    "Shared seat or private charter for families and groups"
+  ],
+  "days": [
+    {"day": 1, "title": "Helicopter yatra to Gosaikunda", "place": "gosaikunda", "overnight": "", "altitude_m": 1400, "max_m": 4380, "walk": "", "drive": "Hotel–airport transfers · 20–40 min", "flight": "Kathmandu–Gosaikunda · 35 min, return · 35 min", "text": "We collect you at about 6 am for the domestic terminal of Tribhuvan Airport, where you check in, weigh in and receive a safety briefing. Take off at about 7 am and fly north over Shivapuri and the Trishuli valley, then up over the forests of Langtang National Park to the Gosaikunda lakes. Land near the shore for 20–40 minutes: offer flowers and prayers at the Shiva shrine, sprinkle or collect holy water and take photographs. Fly back to Kathmandu and return to your hotel by about 10 am.", "meals": ""}
+  ],
+  "stays": [],
+  "includes": [
+    "Helicopter flight Kathmandu–Gosaikunda–Kathmandu, shared or private",
+    "Landing at Gosaikunda for 20–40 minutes",
+    "Hotel–airport–hotel transfers in Kathmandu",
+    "Langtang National Park entry fee",
+    "Airport, landing and fuel charges and taxes",
+    "Basic puja items (flowers, incense, sacred thread)",
+    "Ground coordinator for check-in and briefing"
+  ],
+  "excludes": [
+    "Kathmandu hotel accommodation",
+    "Priest dakshina and personal offerings",
+    "Travel insurance",
+    "Extra ground time or additional landings",
+    "Breakfast and personal expenses",
+    "Costs from weather delays or rescheduling"
+  ],
+  "good_to_know": [
+    "Price is per seat on a shared helicopter with 4–5 passengers; a private charter costs roughly US$ 2,800–3,500 per helicopter, depending on season and fuel. Check current rates.",
+    "Flights operate only in clear morning weather; clouds over the ridge by late morning, and monsoon cloud in July–August, often delay or cancel flights.",
+    "At 4,380 m a helicopter carries less weight, so operators may land the group in two shuttles or limit passenger numbers.",
+    "Ground time is short because of altitude; people with heart or lung disease, uncontrolled blood pressure, or pregnancy should not fly here without a doctor's clearance.",
+    "Bathing at the lake is usually not possible in the short stop; most pilgrims sprinkle holy water and collect it in a bottle."
+  ],
+  "add_ons": [
+    {"name": "Private charter for family or group (up to 5)", "price": "≈ US$ 2,800–3,500 per helicopter"},
+    {"name": "Extra landing at Kyanjin Gompa for breakfast", "price": "≈ US$ 150–200 per seat"},
+    {"name": "Pashupatinath darshan in Kathmandu the same afternoon", "price": "≈ ₹2,500 per person with guide and car"}
+  ],
+  "faqs": [
+    {"q": "What is the Gosaikunda helicopter yatra price?", "a": "A shared seat starts at about ₹58,000 or US$ 690 per person, including transfers, flight, landing charges and park fee. A private charter for up to five passengers costs roughly US$ 2,800–3,500 per helicopter, depending on season, fuel and demand. Prices rise during Janai Purnima week. Check current rates before booking."},
+    {"q": "How long can we stay at Gosaikunda?", "a": "Usually 20–40 minutes. At 4,380 m, operators keep ground time short for passenger safety and because of helicopter performance at altitude. That is enough for darshan, prayers, holy water and photographs. If you want more time at the lake, consider our pilgrimage trek, which spends a night there."},
+    {"q": "Can I take a holy dip during the heli yatra?", "a": "Usually not. The short stop and freezing water make a full dip impractical, and getting cold and wet at 4,380 m before flying is risky. Most pilgrims sprinkle holy water on themselves and collect some to take home. For a proper holy dip, join the walking pilgrimage and stay overnight."},
+    {"q": "Is the Gosaikunda heli yatra safe for elderly pilgrims?", "a": "It can be, for healthy seniors, but 4,380 m is high. Shortness of breath and light-headedness are common for a few minutes. Anyone with heart disease, lung problems, uncontrolled blood pressure or recent surgery should get medical advice first. Move slowly on landing and stay close to the helicopter."},
+    {"q": "Can we fly to Gosaikunda on Janai Purnima?", "a": "Flights do run around the festival, but monsoon cloud often causes delays or cancellations, and landing space is limited when thousands of pilgrims are at the lake. Flying a day or two before or after the full moon is more reliable. Book well in advance and keep spare days."},
+    {"q": "When is the best time for a Gosaikunda helicopter tour?", "a": "April, May, October and November usually give the clearest skies and most reliable flights. Winter flights are possible but the lake may be frozen and snow can affect landing. July and August, including Janai Purnima, are cloudy and flights are often delayed. Early mornings are always best."},
+    {"q": "How many passengers can fly to Gosaikunda?", "a": "Most tours use five-seat AS350 B3 helicopters. At 4,380 m the helicopter's lifting capacity is reduced, so the operator may carry four instead of five, or land the group in two shuttles. Passenger weights are checked at the airport. Families should share their approximate weights when booking."},
+    {"q": "Do Indians need a passport for the Gosaikunda heli yatra?", "a": "Indian citizens can use a passport or voter ID card for domestic flights in Nepal; airlines and heli operators check ID at the airport. The park fee for SAARC nationals is lower and included in our price. Carry the same ID you used to enter Nepal. Check current status before you travel."},
+    {"q": "Can we combine Gosaikunda and Kyanjin Gompa by helicopter?", "a": "Yes, some flights combine a Gosaikunda landing for darshan with a Kyanjin Gompa landing for breakfast in one morning, adding about 20–30 minutes of flight time. It costs roughly US$ 150–200 more per seat on a shared basis, or more on a private charter. Weather must be clear at both sites."}
+  ]
+}

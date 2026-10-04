@@ -1,0 +1,98 @@
+{
+  "slug": "mera-peak-climbing-17-days",
+  "title": "Mera Peak Climbing 17 Days",
+  "region": "everest",
+  "type": "climb",
+  "grade": "Strenuous",
+  "nights": 16,
+  "themes": ["peak-climbing", "trekking", "adventure-sports"],
+  "stops": [
+    {"place": "kathmandu", "nights": 3},
+    {"place": "lukla", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 228000,
+  "price_from_usd": 2590,
+  "best_months": [0, 0, 0, 2, 2, 0, 0, 0, 0, 2, 2, 0],
+  "max_altitude_m": 6476,
+  "accommodation": "3-star hotel in Kathmandu (3 nights), teahouse lodges, tented high camp",
+  "transport": "Kathmandu–Lukla return flights (or Ramechhap–Lukla with private road transfer), private transfers",
+  "group": "Private or small group, 2–8; climbing guide ratio 1:2 on summit day",
+  "meta_description": "Mera Peak climbing 17 days via Zatrwa La and the Hinku valley: summit 6,476 m, PD grade glacier climb with five 8,000 m peaks in view. Permit and guide included.",
+  "summary": "A 17-day expedition to Mera Peak (6,476 m), the highest commonly climbed trekking peak in Nepal, reached from Lukla over the Zatrwa La into the remote Hinku valley. The climb is a long, non-technical glacier ascent graded PD, with views of Everest, Lhotse, Makalu, Cho Oyu and Kanchenjunga from the top.",
+  "intro": [
+    "Mera Peak stands south of the Khumbu, between the Hinku and Hongu valleys, in country far quieter than the Everest trail. From Lukla the route crosses the Zatrwa La (4,610 m) into the Hinku, descends through forest to Kothe, then climbs past yak pastures and the old Lungsumgba gompa to Thangnak and Khare at the foot of the Mera Glacier. From Khare climbers cross the Mera La (5,415 m) to a high camp on rocks at about 5,780 m, then set out before dawn for the summit.",
+    "Technically, Mera is gentler than Island Peak: most of the ascent is a steady glacier walk on slopes of up to 30°, roped together for crevasse safety, with a short, steeper snow section of about 40–45° below the summit, often protected by a fixed rope. The challenge is altitude and endurance, with a summit day of 8–10 hours. Our itinerary includes an acclimatisation night at Chutanga before the Zatrwa La, a training day at Khare and a reserve day. The price covers permits, a licensed climbing guide, high camp and group gear."
+  ],
+  "highlights": [
+    "Summit of Mera Peak at 6,476 m, the highest of Nepal's popular trekking peaks",
+    "Summit view of Everest, Lhotse, Makalu, Cho Oyu and Kanchenjunga",
+    "Remote Hinku valley with few other trekkers",
+    "Crossing the Zatrwa La (4,610 m) and Mera La (5,415 m)",
+    "Non-technical glacier route, suitable for fit beginners"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "", "text": "Arrive and transfer to a 3-star hotel. In the evening your climbing guide gives an overview of the route through the Hinku valley, the summit-day plan and the reserve day. Rest well after the journey.", "meals": "Dinner"},
+    {"day": 2, "title": "Permits and gear preparation", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "", "flight": "", "text": "We finalise the Mera Peak climbing permit with the Nepal Mountaineering Association and check personal gear: insulated mountaineering boots, crampons, harness, helmet, ice axe and an expedition down jacket. Thamel shops hire everything you are missing. Summit morning at 6,000 m can be −20 °C or colder with wind, so warm mitts and boots matter most.", "meals": "Breakfast"},
+    {"day": 3, "title": "Fly to Lukla, walk to Chutanga", "place": "lukla", "overnight": "Chutanga", "altitude_m": 3430, "max_m": 3430, "walk": "≈ 3–4 h · 6 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "Fly to Lukla, but instead of heading north to Everest, turn east and climb through rhododendron and pine forest to Chutanga, a clearing with a few lodges at about 3,430 m. The ascent from Lukla is steady, gaining about 570 m. Rest in the afternoon; the night here begins your acclimatisation for the Zatrwa La.", "meals": "B, L, D"},
+    {"day": 4, "title": "Acclimatisation day at Chutanga", "place": "", "overnight": "Chutanga", "altitude_m": 3430, "max_m": 3900, "walk": "≈ 3–4 h · 5 km", "drive": "", "flight": "", "text": "Gaining 1,200 m from Chutanga to the Zatrwa La in one day is a big step, so we spend a second night here. Hike up the trail towards the pass to around 3,900 m, with views back to Lukla and across to Kongde Ri and Numbur, then descend to Chutanga for lunch and rest. Your guide checks everyone's oxygen saturation in the evening.", "meals": "B, L, D"},
+    {"day": 5, "title": "Over the Zatrwa La to Thuli Kharka", "place": "", "overnight": "Thuli Kharka", "altitude_m": 4300, "max_m": 4610, "walk": "≈ 6–7 h · 9 km", "drive": "", "flight": "", "text": "Climb steeply on rocky ground and stone steps, past cairns and prayer flags, to the Zatrwa La at 4,610 m. From the top, Mera Peak, Kangtega and Kusum Kanguru come into view, and the Hinku valley opens to the east. Descend gently to Thuli Kharka, a yak pasture with a few lodges at about 4,300 m. In snow, the descent can be slippery; microspikes help.", "meals": "B, L, D"},
+    {"day": 6, "title": "Thuli Kharka to Kothe", "place": "", "overnight": "Kothe", "altitude_m": 3600, "max_m": 4300, "walk": "≈ 5–6 h · 11 km", "drive": "", "flight": "", "text": "Contour around ridges with the first full views of Mera's three summits, then descend steeply through rhododendron, juniper and pine forest into the Hinku valley. The trail is rough in places. Kothe, on the Hinku Khola at about 3,600 m, has several lodges and is a pleasant, wooded stop. The lower altitude helps recovery after the pass.", "meals": "B, L, D"},
+    {"day": 7, "title": "Kothe to Thangnak", "place": "", "overnight": "Thangnak", "altitude_m": 4350, "max_m": 4350, "walk": "≈ 4–5 h · 9 km", "drive": "", "flight": "", "text": "Walk up the Hinku valley on the west bank of the river, with Mera Peak ahead. Stop at the small Lungsumgba gompa, a meditation site beneath a rock cliff. The valley widens into summer pastures with yak herders' huts before Thangnak (also spelled Tagnag) at about 4,350 m, a small settlement with lodges beneath Charpate Himal.", "meals": "B, L, D"},
+    {"day": 8, "title": "Thangnak to Khare", "place": "", "overnight": "Khare", "altitude_m": 5045, "max_m": 5045, "walk": "≈ 3–4 h · 6 km", "drive": "", "flight": "", "text": "Follow the lateral moraine of the Dig Glacier past the glacial lake of Sabai Tsho, then climb to Khare at about 5,045 m, the last lodges below Mera. The north face of Mera Peak and the Mera Glacier rise directly above. A short day in distance but a big gain in height; rest in the afternoon.", "meals": "B, L, D"},
+    {"day": 9, "title": "Khare acclimatisation and training", "place": "", "overnight": "Khare", "altitude_m": 5045, "max_m": 5300, "walk": "≈ 3–4 h · 4 km", "drive": "", "flight": "", "text": "Climb above Khare to around 5,300 m for acclimatisation, then return for lunch. In the afternoon your climbing guide runs a training session on fitting crampons, walking roped together on a glacier, self-arrest with an ice axe and using a jumar on a fixed rope. Gear is checked again and loads prepared for high camp.", "meals": "B, L, D"},
+    {"day": 10, "title": "Khare to Mera High Camp", "place": "", "overnight": "Mera High Camp (tents)", "altitude_m": 5780, "max_m": 5780, "walk": "≈ 6–7 h · 6 km", "drive": "", "flight": "", "text": "Climb a steep, rocky trail to the edge of the glacier, put on crampons and walk up the Mera Glacier to the broad Mera La at 5,415 m. Continue up the glacier to high camp, pitched on a rock outcrop at about 5,780 m. The view from camp, across to Everest, Lhotse, Makalu and Chamlang, is extraordinary at sunset. Early dinner and bed by 7 pm.", "meals": "B, L, D"},
+    {"day": 11, "title": "Summit Mera Peak, descend to Khare", "place": "", "overnight": "Khare", "altitude_m": 5045, "max_m": 6476, "walk": "≈ 9–11 h · 12 km", "drive": "", "flight": "", "text": "Wake at about 1 am and leave by 2 am, roped together, climbing steady glacier slopes by headlamp. As dawn breaks, the shadows of the Himalaya stretch across the clouds. Below the summit, a short, steeper snow section of about 40–45° is usually protected by a fixed rope. From the top at 6,476 m you see Everest, Lhotse, Makalu, Cho Oyu and Kanchenjunga. Descend to high camp for tea, then all the way down to Khare.", "meals": "B, L, D"},
+    {"day": 12, "title": "Reserve day", "place": "", "overnight": "Khare", "altitude_m": 5045, "max_m": 5045, "walk": "", "drive": "", "flight": "", "text": "A spare day for weather, slow acclimatisation or a second summit attempt. If the summit went to plan, we use it to start descending to Kothe a day early and add a rest day lower down, or keep it in hand for Lukla flight delays.", "meals": "B, L, D"},
+    {"day": 13, "title": "Khare to Kothe", "place": "", "overnight": "Kothe", "altitude_m": 3600, "max_m": 5045, "walk": "≈ 5–6 h · 15 km", "drive": "", "flight": "", "text": "Walk back down the Hinku valley via Thangnak and the Lungsumgba gompa to Kothe. Losing more than 1,400 m, the air feels rich, appetites return and sleep comes easily.", "meals": "B, L, D"},
+    {"day": 14, "title": "Kothe to Thuli Kharka", "place": "", "overnight": "Thuli Kharka", "altitude_m": 4300, "max_m": 4300, "walk": "≈ 5–6 h · 11 km", "drive": "", "flight": "", "text": "Climb back out of the Hinku valley through the forest to the pastures of Thuli Kharka, a long uphill day but well within reach now that you are acclimatised. Last evening views of Mera from the ridge.", "meals": "B, L, D"},
+    {"day": 15, "title": "Zatrwa La back to Lukla", "place": "lukla", "overnight": "Lukla", "altitude_m": 2860, "max_m": 4610, "walk": "≈ 6–7 h · 12 km", "drive": "", "flight": "", "text": "Climb to the Zatrwa La at 4,610 m for a final look at the Hinku peaks, then descend steeply through Chutanga's forest to Lukla. Farewell dinner with your climbing guide and crew.", "meals": "B, L, D"},
+    {"day": 16, "title": "Fly to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 2860, "walk": "", "drive": "Ramechhap–Kathmandu in peak months · ≈ 130 km · 4–5 h", "flight": "Lukla–Kathmandu · 35 min (or Lukla–Ramechhap · 20 min)", "text": "Morning flight to Kathmandu, or to Ramechhap with a road transfer, and back to your hotel. Your summit certificate is collected in Kathmandu. Afternoon free to rest or shop in Thamel.", "meals": "Breakfast"},
+    {"day": 17, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel–airport · ≈ 6 km · 30 min", "flight": "", "text": "Transfer to the airport about three hours before your international flight. If Lukla flights were delayed, this day acts as a buffer. For extra security, keep a second spare day or use it to visit Bhaktapur or Patan.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and 3 nights in a 3-star Kathmandu hotel with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights, or Ramechhap–Lukla with private road transfers",
+    "Mera Peak climbing permit (NMA royalty) and garbage deposit handling",
+    "Makalu-Barun National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "Teahouse lodges on the trek and tented high camp with cook",
+    "All meals on the trek and climb",
+    "Licensed climbing guide (1 per 2 climbers on summit day) and trekking guide",
+    "Group climbing gear: ropes, snow bars, ice screws",
+    "Porters with wages, food and insurance",
+    "Emergency oxygen, first-aid kit and satellite phone"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Personal climbing gear (hire available in Kathmandu)",
+    "Travel insurance covering climbing to 6,500 m and helicopter rescue",
+    "Summit bonus for climbing guide",
+    "Hot showers, charging, Wi-Fi and drinks",
+    "Tips for trekking staff",
+    "Extra nights from weather delays"
+  ],
+  "good_to_know": [
+    "Price is per person for two or more climbers. The NMA royalty for peaks below 6,500 m, including Mera, was revised in September 2025 to about US$ 350 per climber in spring and US$ 175 in autumn; check current status before you travel.",
+    "Grade PD (Alpine): a long glacier ascent at up to 30°, roped for crevasse safety, with a short 40–45° section near the summit. No prior climbing is needed, but strong endurance is essential.",
+    "The Zatrwa La route gains height quickly; the extra night at Chutanga and the training day at Khare are there for safety. A longer approach via Paiya and Pangkongma is available for better acclimatisation.",
+    "Permits for the Hinku side have included the Makalu-Barun National Park permit and the local municipality fee; rules change, so check current status before you travel.",
+    "Your insurance must cover climbing to 6,500 m and helicopter evacuation. Summit temperatures can drop to −20 °C or lower, so insulated boots and expedition mitts are essential."
+  ],
+  "add_ons": [
+    {"name": "Climbing gear hire package in Kathmandu", "price": "≈ US$ 120–180 per person"},
+    {"name": "Helicopter from Khare to Kathmandu after the summit", "price": "≈ US$ 700–1,000 per seat shared"}
+  ],
+  "faqs": [
+    {"q": "Is Mera Peak good for beginners?", "a": "Yes, it is one of the best first 6,000 m peaks. The route is a long glacier walk with a short steep section near the top, and no rock climbing. Fitness, endurance and good acclimatisation matter far more than technical skill. Training at Khare covers crampons, ropes and self-arrest."},
+    {"q": "How high is Mera Peak?", "a": "Mera Peak's main summit is usually given as 6,476 m. Mera Central at about 6,461 m is the summit most commercial teams reach, depending on conditions. Either way, it is the highest of Nepal's popular trekking peaks."},
+    {"q": "How much does it cost to climb Mera Peak?", "a": "Our 17-day Mera Peak climb starts from about US$ 2,590 or ₹2,28,000 per person, including Kathmandu nights, flights, permits, lodges, high camp, meals, guides and group gear. Personal climbing gear, insurance and the summit bonus are extra."},
+    {"q": "What can you see from the summit of Mera Peak?", "a": "On a clear morning, five 8,000 m peaks: Everest, Lhotse, Makalu, Cho Oyu and Kanchenjunga, plus Baruntse, Chamlang, Ama Dablam and the Hongu valley lakes. It is one of the widest views in the Himalaya."},
+    {"q": "Mera Peak or Island Peak: which should I choose?", "a": "Choose Mera if you want height and a gentle glacier route with fewer technical sections. Choose Island Peak if you want a steeper, more varied climb combined with Everest Base Camp. Mera is quieter; Island Peak is busier but closer to the main trail."},
+    {"q": "Do I need a permit for Mera Peak?", "a": "Yes. You need an NMA climbing permit, plus the Makalu-Barun National Park permit and the Khumbu Pasang Lhamu Rural Municipality fee, with a refundable garbage deposit. We arrange all of them. Fees changed in September 2025; check current status before you travel."},
+    {"q": "How cold is Mera Peak summit day?", "a": "Before dawn on the Mera Glacier, temperatures often fall to −15 to −25 °C with wind chill, especially in late autumn. Insulated mountaineering boots, expedition mitts and a heavy down jacket are essential. It warms quickly once the sun reaches the slope."},
+    {"q": "Is the Zatrwa La dangerous?", "a": "It is a steep pass at 4,610 m reached quickly from Lukla, so the main risk is altitude sickness. Our extra night at Chutanga reduces it. After snow, the descent can be icy; microspikes and a careful pace solve most problems."},
+    {"q": "When is the best time to climb Mera Peak?", "a": "Mid-April to May and October to mid-November. Autumn gives the clearest summit views; spring is a little warmer. Winter climbs face severe cold and wind, and the monsoon brings snow, cloud and leeches in the lower forests."}
+  ]
+}

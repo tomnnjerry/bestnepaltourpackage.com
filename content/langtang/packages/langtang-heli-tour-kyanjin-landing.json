@@ -1,0 +1,79 @@
+{
+  "slug": "langtang-heli-tour-kyanjin-landing",
+  "title": "Langtang Heli Tour with Kyanjin Landing 1 Day",
+  "region": "langtang",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "photography", "luxury-nepal", "short-breaks"],
+  "stops": [
+    {"place": "kathmandu", "nights": 0},
+    {"place": "kyanjin-gompa", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan Airport domestic terminal)",
+  "end": "Kathmandu",
+  "price_from_inr": 55000,
+  "price_from_usd": 650,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 3870,
+  "accommodation": "None (day tour)",
+  "transport": "Helicopter Kathmandu–Kyanjin Gompa–Kathmandu, hotel transfers by car",
+  "group": "Shared seat (up to 5 per helicopter) or private charter",
+  "meta_description": "Langtang helicopter tour, 1 day from Kathmandu: 40 min flight up the Langtang Valley, landing at Kyanjin Gompa (3,870 m) for breakfast. From US$ 650.",
+  "summary": "Fly from Kathmandu up the Langtang Valley in about 40 minutes and land at Kyanjin Gompa (3,870 m) for breakfast below Langtang Lirung (7,227 m), then fly back over the Langtang glaciers and Gosaikunda ridge. The whole tour takes about 3 hours, with most of it in the morning when skies are clearest.",
+  "intro": [
+    "The Langtang helicopter tour is the quickest way to see the high Himalaya from Kathmandu. Langtang is the closest major mountain valley to the capital, so flights are shorter and cheaper than Everest tours. After take-off, the helicopter crosses the Shivapuri hills and the Trishuli valley, then turns up the Langtang gorge, flying past the forest of Lama Hotel and the rebuilt village of Langtang before landing on the meadow at Kyanjin Gompa.",
+    "On the ground you have breakfast or tea at a lodge, walk to the monastery viewpoint and look straight up at Langtang Lirung and its icefalls. At 3,870 m the stop is usually 30–45 minutes, longer than on landings above 5,000 m, but still short enough that most healthy travellers feel fine. Return flights often pass over the Langtang glaciers or the Gosaikunda lakes if the weather allows. Flights depend entirely on morning weather."
+  ],
+  "highlights": [
+    "40-minute flight up the Langtang Valley from Kathmandu",
+    "Landing at Kyanjin Gompa (3,870 m) below Langtang Lirung",
+    "Breakfast with a view of glaciers and the upper valley",
+    "Aerial view of Langtang village and the 2015 avalanche zone",
+    "Return over the Langtang glaciers or Gosaikunda, weather permitting",
+    "About 3 hours door to door, back by late morning"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathmandu to Kyanjin Gompa by helicopter", "place": "kyanjin-gompa", "overnight": "", "altitude_m": 1400, "max_m": 3870, "walk": "", "drive": "Hotel–airport transfers · 20–40 min", "flight": "Kathmandu–Kyanjin Gompa · 40 min, return · 40 min", "text": "We pick you up at about 6 am and drive to Tribhuvan Airport's domestic terminal for check-in and a safety briefing. Take off around 7 am, cross the Shivapuri hills and fly up the Trishuli and Langtang valleys past Lama Hotel and Langtang village, landing on the meadow at Kyanjin Gompa (3,870 m). Spend 30–45 minutes on the ground for breakfast, photographs of Langtang Lirung and a short walk. Fly back to Kathmandu, often via the glaciers or Gosaikunda, and return to your hotel by about 10–11 am.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Helicopter flight Kathmandu–Kyanjin Gompa–Kathmandu on a shared or private basis",
+    "Landing at Kyanjin Gompa for 30–45 minutes",
+    "Breakfast at a Kyanjin lodge",
+    "Hotel–airport–hotel transfers in Kathmandu",
+    "Langtang National Park entry fee",
+    "Airport and landing charges, fuel and taxes",
+    "Experienced pilot and ground coordinator"
+  ],
+  "excludes": [
+    "Kathmandu hotel accommodation",
+    "Travel insurance",
+    "Extra ground time or additional landings",
+    "Personal expenses and tips",
+    "Excess baggage (limit about 5 kg per person)",
+    "Costs from weather delays or rescheduling"
+  ],
+  "good_to_know": [
+    "Price is per seat on a shared flight with 4–5 passengers; a private 5-seat charter costs roughly US$ 2,800–3,300 per helicopter, depending on season and fuel prices. Check current rates.",
+    "Flights run in the early morning only; clouds build in the valley by late morning, and delays or cancellations for weather are common in spring and autumn afternoons and through the monsoon.",
+    "Helicopter payload falls with altitude and temperature; on warm days the operator may carry fewer passengers or shuttle the group in two lifts.",
+    "Ground time at 3,870 m is limited to 30–45 minutes; people with heart or lung conditions, high blood pressure, or pregnancy should not fly to this altitude without medical clearance.",
+    "Keep a spare day in your Kathmandu schedule in case the flight is postponed."
+  ],
+  "add_ons": [
+    {"name": "Additional landing at Gosaikunda", "price": "≈ US$ 150–200 per seat"},
+    {"name": "Private charter for up to 5 people", "price": "≈ US$ 2,800–3,300 per helicopter"}
+  ],
+  "faqs": [
+    {"q": "How much does a Langtang helicopter tour cost?", "a": "A shared seat on our Langtang heli tour with a Kyanjin Gompa landing starts at about US$ 650 or ₹55,000 per person. A private charter for up to five passengers costs around US$ 2,800–3,300 per helicopter, varying with season and fuel prices. Prices include transfers, breakfast and park fees; check current rates before booking."},
+    {"q": "How long is the Langtang helicopter flight?", "a": "Each way takes about 40 minutes, with 30–45 minutes on the ground at Kyanjin Gompa. Including hotel transfers and airport check-in, the whole tour takes about 3–4 hours, usually finishing by mid-morning. Flights start early, around 7 am, to catch the clearest weather."},
+    {"q": "Langtang or Everest helicopter tour, which is better?", "a": "Everest heli tours show the world's highest peak and land at around 5,000 m or at Hotel Everest View, but cost about twice as much. The Langtang tour is shorter, cheaper, lands at a gentler 3,870 m and gives close views of Langtang Lirung and its glaciers. It suits families and seniors well."},
+    {"q": "Can children and seniors take the Langtang heli tour?", "a": "Usually yes. The landing at 3,870 m is lower than most Everest tours, and the ground time is short. Children over about 2 and healthy seniors normally cope well. Anyone with heart or lung disease, uncontrolled blood pressure or pregnancy should get medical advice first and may be advised not to fly."},
+    {"q": "What happens if the weather is bad?", "a": "Helicopter tours depend on clear morning weather. If the pilot decides conditions are unsafe, the flight is postponed, usually to the next morning, or refunded according to the operator's policy if you cannot rebook. We recommend keeping at least one spare day in Kathmandu. The pilot's decision is final."},
+    {"q": "How many people fit in the helicopter?", "a": "Most tours use AS350 B3 helicopters seating five passengers plus the pilot. At Kyanjin's altitude, all five can usually land, but on warm days payload limits may require fewer passengers or two shuttles. Total passenger weight and luggage are checked at the airport, so tell us your approximate weights."},
+    {"q": "What is the best time for a Langtang helicopter tour?", "a": "October to December and March to April offer the clearest skies. January and February are clear but cold, with possible snow at Kyanjin. May brings more haze, and June to September is the monsoon, when many flights are cancelled. Early morning departures give the best chance of good views."},
+    {"q": "Can I combine the heli tour with a Langtang trek?", "a": "Yes. Many trekkers walk up to Kyanjin Gompa on the Langtang Valley trek and fly back to Kathmandu by helicopter, saving two walking days and the long drive. A shared return seat from Kyanjin costs about US$ 600, subject to seat availability and weather."},
+    {"q": "What should I wear on the Langtang helicopter tour?", "a": "Dress in layers: a warm jacket, hat and gloves for Kyanjin, where morning temperatures are often near or below freezing from October to March, and comfortable shoes for walking on uneven ground. Bring sunglasses, sunscreen and a camera. Baggage is limited to about 5 kg per person."}
+  ]
+}

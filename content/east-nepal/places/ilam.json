@@ -1,0 +1,132 @@
+{
+  "slug": "ilam",
+  "name": "Ilam",
+  "region": "east-nepal",
+  "kind": "hill station",
+  "wiki": "Ilam Municipality",
+  "image_query": "Ilam tea garden Nepal hills",
+  "lat": 26.911,
+  "lng": 87.926,
+  "altitude_m": 1200,
+  "tagline": "Nepal's tea country, an easy drive from the Indian border",
+  "meta_description": "Ilam travel guide: tea gardens, Mai Pokhari, Antu Danda sunrise, where to stay, how to reach from Bhadrapur, Kakarbhitta and Kathmandu, best months.",
+  "summary": "Ilam is Nepal's main tea district, a hill town at about 1,200 m in the far east, 3 hours' drive from Bhadrapur airport or the Kakarbhitta border. Plan 2 nights to walk the tea estates, visit Mai Pokhari lake and catch sunrise from Antu Danda. October to April gives the clearest views.",
+  "intro": [
+    "Ilam sits on a ridge above the Puwa and Mai rivers in Nepal's south-eastern corner, close enough to Darjeeling that the two share the same climate, the same steep slopes of clipped tea bushes and much the same history. Nepal's first tea estate was planted here in the 1860s, and Ilam tea is still the name most Nepalis know. The bazaar is small and practical: a grid of shops, cardamom traders, simple hotels and the old estate office, with the tea garden starting at the edge of town.",
+    "Most visitors come for three things within an hour of the bazaar. The first is the town tea estate itself, where paths run between the bushes and pluckers work the slopes from March to November. The second is Mai Pokhari, a forested lake at 2,121 m about 13 km north, sacred to local Hindus and a Ramsar wetland. The third is the sunrise from Antu Danda, 2,328 m on the border ridge, where Kanchenjunga lights up to the north on clear mornings.",
+    "Ilam works well as a short break from India: Siliguri is about 4 hours away via the Kakarbhitta crossing, and Bhadrapur airport has daily flights from Kathmandu. It is also the natural overnight stop on the long road north to Taplejung, Pathibhara Devi and the Kanchenjunga treks. Days are mild most of the year, 10 to 25 °C, but the monsoon from June to September brings heavy rain, leeches on forest trails and cloud that hides the mountains."
+  ],
+  "facts": [
+    ["Altitude", "about 1,200 m (bazaar)"],
+    ["Best months", "Oct – Apr (clear views); Mar – May for first-flush plucking"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Bhadrapur (BDP), ≈ 95 km · 3 h"],
+    ["From Kathmandu", "50 min flight to Bhadrapur + 3 h drive, or ≈ 580 km · 13–15 h by road"],
+    ["Known for", "Tea estates, Mai Pokhari, Antu Danda sunrise, cardamom and dairy"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Walk the Ilam tea estate", "text": "The town estate starts a few minutes from the bazaar. Paths cut across the slopes between rows of bushes, with views down to the Puwa Khola. Come in the morning between March and November to see pluckers at work, then taste local orthodox tea at one of the small shops near the gate."},
+    {"title": "Mai Pokhari lake", "text": "A small lake at 2,121 m in mixed forest, about 13 km and 45 minutes' drive north of the bazaar. It has nine corners, a temple to Mai Bhagwati and a walking path around the shore. It was listed as a Ramsar wetland in 2008 and is good for birds and rhododendron in spring."},
+    {"title": "Sunrise at Antu Danda", "text": "Leave Ilam around 4 a.m. for the 2,328 m viewpoint on the Nepal–India border ridge. On clear mornings from October to April you see the sun come up over the plains while Kanchenjunga turns pink to the north. Bring a fleece: dawn can be close to freezing in winter."},
+    {"title": "Kanyam tea slopes", "text": "On the Mechi Highway about 30 km south of the bazaar, Kanyam is the most photographed tea garden in Nepal, with open rolling slopes, picnic spots and tea stalls. Most itineraries stop here on the way up from Bhadrapur or the border."},
+    {"title": "Gajurmukhi and local temples", "text": "Gajurmukhi Devi, a cave shrine east of the town, draws local pilgrims, especially during Dashain. In the bazaar itself, the Mai Beni confluence and the small Shiva shrines are a short walk away and make a calm evening outing."},
+    {"title": "Cardamom, churpi and dairy", "text": "Ilam grows large cardamom, ginger and broom grass, and its dairies make the hard yak and cow milk cheese called churpi sold all over India as a dog chew and eaten locally as a snack. Look for fresh paneer and local tea in the bazaar shops."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Bhadrapur (50 min, several daily flights). From Bhadrapur it is ≈ 95 km and about 3 hours by car via Birtamod, Charali and the Mechi Highway through Kanyam and Fikkal."},
+    {"mode": "Road", "text": "From the Indian border at Kakarbhitta (opposite Panitanki, 35 km from Siliguri) it is ≈ 95 km and 3–3.5 hours via Charali and the Mechi Highway. From Kathmandu by road it is ≈ 580 km and 13–15 hours via the East–West Highway; night buses run daily."},
+    {"mode": "Road", "text": "Heading north, Ilam to Phidim is ≈ 70 km and 3 hours, and on to Phungling (Taplejung) another 4 hours, so most trekkers and Pathibhara pilgrims sleep one night in Ilam."}
+  ],
+  "where_to_stay": "Most hotels are in Ilam Bazaar itself, a few minutes' walk from the tea estate gate, and are simple, clean and mid-range rather than luxury: think hot showers, Nepali and Indian food and rooms looking over the tea slopes. Several family homestays and small resorts sit on the estates around Ilam, Kanyam and Fikkal, and these are the better pick for a quiet tea-garden stay. There is no international chain hotel in the district. We book properties we have checked recently and confirm the exact hotel with your quote.",
+  "stays": [],
+  "tips": [
+    "Book the Antu Danda sunrise for your clearest morning and keep a second day free in case cloud rolls in.",
+    "Indian rupee notes of ₹100 and below are widely accepted near the border; carry Nepali rupees for Mai Pokhari and smaller villages.",
+    "Mechi Highway bends are tight, so take motion-sickness tablets if you need them and avoid driving the hills after dark.",
+    "Buy tea from the estate shops or bazaar dealers rather than roadside stalls if you want a known garden and harvest date.",
+    "From June to September carry an umbrella and salt or leech socks for forest walks around Mai Pokhari."
+  ],
+  "themes": ["cultural-tours", "family-holidays", "short-breaks", "overland-from-india", "honeymoon", "photography"],
+  "nearby": ["kanyam", "antu-danda", "pathibhara", "taplejung"],
+  "experiences": [
+    {
+      "slug": "ilam-tea-estate-walk-and-tasting",
+      "title": "Ilam tea estate walk and tasting",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Morning, Mar–Nov for plucking",
+      "price_hint": "≈ ₹1,500 per person with guide",
+      "image_query": "Ilam tea estate pluckers",
+      "wiki": "",
+      "summary": "A guided morning walk through the old Ilam tea estate beside the bazaar, watching pluckers and learning how orthodox tea is withered, rolled and dried, followed by a tasting of first, second and autumn flush teas.",
+      "body": [
+        "The walk starts at the estate gate on the edge of Ilam Bazaar and climbs gently along the contour paths between rows of tea. Your guide explains why the bushes are kept at waist height, how the two-leaves-and-a-bud rule works and why the steep, misty slopes here produce a tea close in style to Darjeeling. Between March and November you will usually find teams of pluckers at work, baskets on their backs.",
+        "After about an hour and a half on the slopes we walk down to a small processing unit or tea shop, depending on the season and who is working that day. Orthodox tea is withered, rolled, oxidised and dried in stages, and you can often see at least one step in action. The large factory belonging to the estate is not always open to visitors, so we do not promise a factory tour.",
+        "The tasting compares two or three grades side by side, usually a spring first flush, a fuller summer tea and a local green or white tea. Expect around 30 minutes of tasting and time to buy. Wear walking shoes with grip: the paths are clay and become slippery after rain."
+      ],
+      "good_for": ["couples", "families", "first-timers", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can we visit the Ilam tea factory?", "a": "Sometimes. The main estate factory is a working plant and opens to visitors only when the manager allows it, mostly in the plucking season. We always include the garden walk and a tasting at a smaller unit or shop, and add a factory visit when it is possible on the day."},
+        {"q": "When is first flush tea plucked in Ilam?", "a": "First flush plucking usually runs from mid-March to April, after the winter rest. The second flush follows in May and June, the monsoon tea through the rains, and an autumn flush in October and November. Spring and autumn teas are the most prized for flavour."},
+        {"q": "Is the tea garden walk suitable for older travellers?", "a": "Yes, at an easy pace. The paths are gentle but uneven and can be muddy, so we keep the route short for seniors and use a vehicle to reach the tasting point if needed. Allow about 2 hours for a relaxed version."}
+      ]
+    },
+    {
+      "slug": "mai-pokhari-lake-excursion",
+      "title": "Mai Pokhari lake half-day trip",
+      "kind": "nature",
+      "duration": "4 hours",
+      "best_time": "Morning, Oct–May",
+      "price_hint": "≈ ₹3,500 per vehicle",
+      "image_query": "Mai Pokhari lake Ilam",
+      "wiki": "Mai Pokhari",
+      "summary": "A half-day drive from Ilam Bazaar to Mai Pokhari, a sacred forest lake at 2,121 m listed as a Ramsar wetland, with time to walk the shore path, visit the Mai Bhagwati temple and look for forest birds.",
+      "body": [
+        "Mai Pokhari lies about 13 km north of Ilam Bazaar, a 45 to 60 minute drive up a winding road that passes cardamom plots, farms and patches of forest. The lake is small, but its setting is the attraction: an irregular shoreline with nine corners, surrounded by oak, rhododendron and other broadleaf forest, and a temple to the goddess Mai Bhagwati on the bank.",
+        "The lake and its forest were listed under the Ramsar Convention in 2008 because of the wetland and the birds it holds. A flat path circles the shore in around 40 minutes. Early mornings are best for birds, and in March and April the rhododendron flowers on the surrounding slopes. Local families come at weekends and on festival days to make offerings, so a weekday is quieter.",
+        "There are tea stalls and a few simple lodges near the lake if you want to stay overnight and walk at dawn. Most travellers return to Ilam for lunch. In the monsoon the road can be slippery and leeches appear on the forest trails, so we suggest this trip between October and May."
+      ],
+      "good_for": ["families", "couples", "photographers", "seniors", "pilgrims"],
+      "faqs": [
+        {"q": "How far is Mai Pokhari from Ilam?", "a": "About 13 km north of Ilam Bazaar, which takes 45 to 60 minutes by car on a paved but winding hill road. Most people visit as a half-day trip and are back in Ilam for lunch."},
+        {"q": "Is Mai Pokhari a religious site?", "a": "Yes. The lake is sacred to the goddess Mai Bhagwati and has a temple on the shore. Local pilgrims gather in large numbers on Bala Chaturdashi and during Dashain and Tihar. Visitors are welcome; walk clockwise around the lake and avoid swimming or littering."},
+        {"q": "Can you see the Himalaya from Mai Pokhari?", "a": "Not well from the lake itself, which sits in forest. For mountain views go to Antu Danda for sunrise or to viewpoints along the ridge above Ilam on a clear morning."}
+      ]
+    },
+    {
+      "slug": "ilam-cardamom-and-churpi-village-visit",
+      "title": "Cardamom farm and churpi dairy visit",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "Sep–Nov for cardamom harvest",
+      "price_hint": "≈ ₹2,000 per person",
+      "image_query": "large cardamom plant Nepal",
+      "wiki": "",
+      "summary": "Visit a farming village outside Ilam to see large cardamom grown under forest shade, learn how pods are dried in smoke kilns and watch hard churpi cheese being made, with tea and snacks in a family home.",
+      "body": [
+        "Ilam is one of Nepal's biggest growers of large cardamom, the black, smoky spice used in garam masala, and much of it ends up in Indian markets. The crop grows under tree shade along stream gullies below the tea zone. On this visit we drive 30 to 45 minutes from the bazaar to a farming family, walk through their cardamom plot and see the bhatti, the wood-fired kiln that dries the pods and gives them their smoky taste.",
+        "The second stop is a small dairy or household that makes churpi, the hard cheese made by boiling buttermilk, pressing the curd and drying it in blocks. It is chewed slowly as a snack in the hills and sold widely across the border. You can try soft churpi, fresh paneer and milk tea, and buy a few blocks to take home.",
+        "Harvest of cardamom runs from late August to November, the best time for this trip. Outside that window you still see the plants and the kilns but not the drying. The visit depends on the family's work that day, so timings are flexible; we pay hosts directly for their time."
+      ],
+      "good_for": ["families", "solo", "photographers", "groups"],
+      "faqs": [
+        {"q": "When is cardamom harvested in Ilam?", "a": "Large cardamom is harvested from late August to November, depending on altitude. During those weeks you can see pods being picked and smoke-dried in kilns. Outside harvest the plants are still worth seeing, but the kilns are usually cold."},
+        {"q": "What is churpi?", "a": "Churpi is a hard cheese made from buttermilk in the eastern hills of Nepal and neighbouring Sikkim and Darjeeling. The soft version is cooked into curries and pickles; the hard version is dried into blocks and chewed for hours as a snack."},
+        {"q": "Is this visit suitable for vegetarians?", "a": "Yes. The snacks offered are milk tea, soft cheese, roasted corn or local bread. Tell us in advance if you avoid dairy so we can arrange alternatives with the host family."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Ilam from Siliguri?", "a": "Drive from Siliguri to the Panitanki–Kakarbhitta border (35 km, about 1 hour), complete Nepali entry formalities, then continue ≈ 95 km and 3–3.5 hours via Charali and the Mechi Highway. Indian citizens need a passport or voter ID; Indian private cars need a customs pass at the Kakarbhitta office."},
+    {"q": "How many days are enough for Ilam?", "a": "Two nights is the sweet spot: one day for the tea estate and Mai Pokhari, one early morning for Antu Danda sunrise and Kanyam on the way out. Add a third night if you want a slow tea-garden stay or are continuing to Taplejung and Pathibhara."},
+    {"q": "What is the best time to visit Ilam?", "a": "October to April gives the clearest views of Kanchenjunga and dry roads. March to May is the first-flush plucking season, with green slopes and rhododendrons. June to September is the monsoon: the gardens are lush but cloud, rain and landslides on the Mechi Highway are common."},
+    {"q": "Is Ilam good for a family trip?", "a": "Yes. Distances are short, the altitude is low at about 1,200 m, and activities like the tea walk, Kanyam picnic slopes and Mai Pokhari are easy for children and grandparents. Hotels are simple, so set expectations at a clean mid-range level rather than resort comfort."},
+    {"q": "Ilam tour package cost from India", "a": "A 4-night Ilam and Kanyam tea-garden tour from the Kakarbhitta border or Bhadrapur starts from about ₹22,000 per person, twin sharing, with a private car, standard hotels and breakfast. Flights from Kathmandu or onward travel to Siliguri are extra."},
+    {"q": "Can you see Kanchenjunga from Ilam?", "a": "From the bazaar the view is limited, but on clear winter mornings Kanchenjunga is visible from ridges above town and best from Antu Danda at 2,328 m. October to February gives the highest chance; from May the haze and monsoon cloud usually hide it."},
+    {"q": "Is Ilam close to Darjeeling?", "a": "Yes, the two face each other across the border ridge. Antu Danda overlooks the Darjeeling hills, but there is no tourist border crossing on the ridge itself. To travel between them you go down to Kakarbhitta and up through Siliguri, about 5–6 hours in total."},
+    {"q": "What should I buy in Ilam?", "a": "Orthodox tea from the estate shops, large cardamom, hard churpi, local ginger and Ilam's cow-milk cheese. Ask for the garden name and harvest month when buying tea, and keep receipts if you are carrying several kilograms back across the border."},
+    {"q": "Do I need a permit to visit Ilam?", "a": "No permit is needed for Ilam, Kanyam, Mai Pokhari or Antu Danda. Indian citizens enter Nepal with a passport or voter ID; other nationalities need a Nepal visa, which is available on arrival at Kakarbhitta. Check current status before you travel."}
+  ]
+}

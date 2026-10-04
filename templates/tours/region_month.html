@@ -1,0 +1,25 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ r.name }} in {{ month }}: Weather, Where to Go and Packages{% endblock %}
+{% block meta_description %}{{ r.name }} in {{ month }}: {{ md.weather }}. Where to go, festivals and the packages that work this month.{% endblock %}
+{% block body_attrs %}data-land="{{ r.slug }}"{% endblock %}
+{% block fab_label %}Plan {{ r.short|default:r.name }} in {{ month }}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in">
+  <p class="kicker"><a href="{{ r.url }}">{% icon r.icon %}{{ r.name }}</a> · month by month</p>
+  <h1>{{ r.short|default:r.name }} in {{ month }}</h1>
+  <p class="phead__lede">{{ md.weather }}</p>
+  <ul class="phead__facts"><li>{% icon "calendar" %}{% if rating == 2 %}Best month{% elif rating == 1 %}Good month{% else %}Off season{% endif %}</li></ul>
+</div></div><div class="phead__icon" aria-hidden="true">{% if rating == 0 %}{% icon "rain" %}{% else %}{% icon "sun" %}{% endif %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight"><div class="split"><article class="prose">
+  {% include "tours/partials/brief.html" with text=md.summary %}
+  {% if md.tip %}<p class="notice">{% icon "info" %}<span>{{ md.tip }}</span></p>{% endif %}
+  {% if go %}<h2 class="h2">Where to go in {{ month }}</h2><div class="grid grid--3">{% for p in go %}{% include "tours/partials/place_card.html" %}{% endfor %}</div>{% endif %}
+  {% if events %}<h2 class="h2">Festivals in {{ month }}</h2><ul class="chips">{% for f in events %}<li><a class="chip chip--land" href="{{ f.url }}">{% icon "lamp" %}{{ f.name }}</a></li>{% endfor %}</ul>{% endif %}
+</article><aside class="aside">
+  <div class="panel"><h2 class="h3">{{ r.short|default:r.name }} through the year</h2>{% include "tours/partials/months.html" with bar=r.bar %}
+  <div class="pager"><a class="textlink" href="{% url 'region_month' r.slug prev %}">&larr; {{ prev_name }}</a><a class="textlink" href="{% url 'region_month' r.slug next %}">{{ next_name }} &rarr;</a></div></div>
+  <div class="panel"><h2 class="h3">Elsewhere in {{ month }}</h2><ul class="mlinks">{% for o in others %}<li><a href="{% url 'region_month' o.r.slug month|lower %}" data-land="{{ o.r.slug }}"><span class="sw"></span>{{ o.r.name }} · {% if o.rating == 2 %}best{% elif o.rating == 1 %}good{% else %}off season{% endif %}</a></li>{% endfor %}</ul></div>
+</aside></div></div>
+{% if packages %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Packages that work in {{ month }}</h2></div><div class="passes" data-stagger>{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+<div class="wrap">{% include "tours/partials/faqs.html" %}</div>
+{% endblock %}

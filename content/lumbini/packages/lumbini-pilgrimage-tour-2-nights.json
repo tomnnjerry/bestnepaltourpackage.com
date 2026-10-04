@@ -1,0 +1,80 @@
+{
+  "slug": "lumbini-pilgrimage-tour-2-nights",
+  "title": "Lumbini Pilgrimage Tour 2 Nights",
+  "region": "lumbini",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["pilgrimage", "buddhist-circuit", "short-breaks"],
+  "stops": [{"place": "lumbini", "nights": 2}, {"place": "tilaurakot", "nights": 0}],
+  "start": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "end": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "price_from_inr": 14000,
+  "price_from_usd": 190,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 150,
+  "accommodation": "3-star hotel near the Sacred Garden in Lumbini",
+  "transport": "Private air-conditioned car with driver from the airport or border, bicycles or battery rickshaw in the monastic zone",
+  "group": "Private, 1–12 (larger pilgrim groups on request)",
+  "meta_description": "Lumbini pilgrimage tour, 3 days: Maya Devi Temple at dawn, Ashoka pillar, monastic zone by bicycle and Tilaurakot. Pick-up from Bhairahawa airport or Sonauli.",
+  "summary": "Three days and two nights at the Buddha's birthplace, built around a dawn visit to the Maya Devi Temple and marker stone, the Ashoka pillar, an afternoon cycling between the monasteries of a dozen nations and a half-day to Tilaurakot, ancient Kapilavastu. Starts from Bhairahawa airport or the Sonauli border.",
+  "intro": [
+    "This short pilgrimage suits travellers who want to see Lumbini properly without committing to a full circuit. We keep the timing pilgrim-friendly: the Sacred Garden at opening hour, when monks chant under the bodhi tree and the light is soft, and the monastic zone in the late afternoon, when the heat eases and the temples glow. You stay near the Sacred Garden, so the walk to the Maya Devi Temple takes minutes.",
+    "The second afternoon goes to Tilaurakot, 27 km west, where the brick walls and eastern gate of ancient Kapilavastu complete the story of Siddhartha's early life, with a stop at the Ashoka pillar of Niglihawa on the way back. The package works for Indian families arriving by road through Sonauli and for travellers flying in from Kathmandu to Bhairahawa; we meet you at either point."
+  ],
+  "highlights": [
+    "Dawn chanting in the Sacred Garden and the marker stone inside the Maya Devi Temple",
+    "Ashoka's 249 BCE pillar inscription confirming the Buddha's birthplace",
+    "Monastic zone by bicycle: Thai, Myanmar, Chinese, German and Korean temples",
+    "Sunset at the World Peace Pagoda",
+    "Half-day to Tilaurakot (Kapilavastu) and the Niglihawa Ashoka pillar"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive and ride the monastic zone", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "", "drive": "≈ 26 km · 45 min from Sonauli, or ≈ 20 km · 35 min from the airport", "flight": "", "text": "Our driver meets you at Gautam Buddha International Airport or on the Nepal side of the Sonauli–Belahiya border and drives you to your hotel near the Sacred Garden. After lunch and a rest through the hottest hours, your guide arrives at 3 pm with bicycles or a battery rickshaw. You ride north along the canal past the Royal Thai Monastery and the Myanmar Golden Temple, cross to the Chinese Zhong Hua Temple and the German-funded Lotus Stupa, and finish at the World Peace Pagoda as the sun drops behind the golden Buddha statues.", "meals": "Dinner"},
+    {"day": 2, "title": "Maya Devi Temple at dawn, Kapilavastu", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 4 km on flat paths", "drive": "≈ 70 km · 2.5 h round trip", "flight": "", "text": "Walk to the Sacred Garden at about 6 am. Your guide leads you past the excavated stupa foundations to the Maya Devi Temple, where a boardwalk circles the ancient brickwork to the marker stone found in 1996. Outside, read Ashoka's Brahmi inscription on the pillar, circle the Puskarini pond and sit under the bodhi tree while monks chant. After breakfast and a rest, drive 45 minutes west to Tilaurakot, the walled Shakya city, its eastern gate and the small museum. Return via the Ashoka pillar at Niglihawa, arriving in Lumbini by late afternoon.", "meals": "B, D"},
+    {"day": 3, "title": "Crane wetlands and departure", "place": "lumbini", "overnight": "", "altitude_m": 150, "max_m": 150, "walk": "≈ 1.5 h · 3 km (optional)", "drive": "≈ 20–26 km · 35–45 min to the airport or border", "flight": "", "text": "Early risers can join an optional walk at the Lumbini Crane Sanctuary at the northern end of the site, looking for sarus cranes, storks and egrets in the wetlands and rice fields; November to March gives the best chances. Otherwise, return to the Sacred Garden for a quiet last visit or meditation. After breakfast and check-out, your driver takes you to Bhairahawa airport for the flight to Kathmandu or back to the Sonauli border to continue in India.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini"],
+  "includes": [
+    "2 nights at a 3-star hotel near the Sacred Garden, twin sharing",
+    "Daily breakfast and dinner",
+    "Private car for all transfers and the Tilaurakot excursion",
+    "English- or Hindi-speaking local guide for sightseeing",
+    "Bicycle or battery rickshaw for the monastic zone",
+    "Lumbini Sacred Garden and Tilaurakot entry fees",
+    "Airport or border pick-up and drop-off",
+    "Bottled water in the vehicle"
+  ],
+  "excludes": [
+    "Flights to and from Bhairahawa",
+    "Nepal visa fee for non-Indian nationals",
+    "Lunches and drinks",
+    "Crane sanctuary birding guide (≈ ₹2,500 per group)",
+    "Tips for guide and driver",
+    "Travel insurance",
+    "Any costs on the Indian side of the border",
+    "Personal expenses and donations at monasteries"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing a room at a 3-star hotel in October–March; solo travellers pay a single supplement.",
+    "The INR price applies to Indian nationals; the USD price covers higher entry fees charged to foreign nationals.",
+    "Photography is not allowed inside the Maya Devi Temple, and shoes must be removed.",
+    "From April to June temperatures reach 38–42 °C, so we shift sightseeing to early morning and late evening.",
+    "Around Buddha Jayanti (April or May), hotel prices rise and rooms sell out early."
+  ],
+  "add_ons": [
+    {"name": "Ramagrama and Devdaha day trip", "price": "≈ ₹7,500 per car"},
+    {"name": "Extra night in Lumbini", "price": "≈ ₹4,500 per person"}
+  ],
+  "faqs": [
+    {"q": "Is 2 nights enough for Lumbini?", "a": "Yes, for the main sights. Two nights give you a dawn visit to the Maya Devi Temple, an unhurried afternoon in the monastic zone and a half-day at Tilaurakot. If you also want Ramagrama and Devdaha or a meditation session each day, choose our 5-night Nepal Buddhist circuit or the meditation retreat."},
+    {"q": "What is the Lumbini tour package cost from India?", "a": "This 2-night package starts at about ₹14,000 per person, twin sharing, with a 3-star hotel, breakfast and dinner, private car from Sonauli or Bhairahawa, guide and entry fees. Train or flight costs to Gorakhpur or Bhairahawa are extra. Prices rise around Buddha Jayanti and for single rooms."},
+    {"q": "Can we start this tour from the Sonauli border?", "a": "Yes. Our driver meets you on the Nepal side at Belahiya, after you walk across from Sonauli, and the drive to Lumbini takes 45 minutes. Indian citizens need a passport or voter ID. Foreign nationals need a passport and Nepal visa, which is issued on arrival at Belahiya."},
+    {"q": "Which documents do Indian pilgrims need for Lumbini?", "a": "Indian citizens need a valid passport or Election Commission voter ID. Under current rules, children under 15 and adults over 65 can usually show another photo ID with age proof, such as Aadhaar or PAN. No visa is needed. Rules can change, so check current status before you travel."},
+    {"q": "Is this tour suitable for elderly parents?", "a": "Yes. The sites are flat, walks are short, and we can replace bicycles with a battery rickshaw. The Maya Devi Temple visit involves about an hour of gentle walking and standing. We plan sightseeing in cool hours and keep afternoons free for rest."},
+    {"q": "Can we add Tilaurakot on the first day instead?", "a": "Yes, if you arrive by 10 am. We can swap the order and visit Tilaurakot on day 1, leaving day 2 for the Sacred Garden at dawn and the monastic zone in the afternoon. Tell us your arrival time and we will plan the best sequence."},
+    {"q": "Are meals vegetarian?", "a": "Our Lumbini hotels serve both vegetarian and non-vegetarian food, and pure vegetarian meals are easy. Jain or no-onion-no-garlic food can be arranged with advance notice. Many pilgrims prefer vegetarian food in Lumbini out of respect for the site, though it is not required."},
+    {"q": "What is the best month for this Lumbini tour?", "a": "October, November, February and March are ideal, with clear, warm days. December and January are pleasant but foggy in the mornings. April to June is very hot, and the July to September monsoon is humid and wet, though the tour still runs with adjusted timings."},
+    {"q": "Can we fly from Kathmandu for this tour?", "a": "Yes. Buddha Air, Yeti Airlines and Shree Airlines fly Kathmandu to Bhairahawa in about 35 minutes. We can book the flights for you and adjust the package to start and end in Kathmandu, as in our Lumbini tour by flight from Kathmandu."}
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "gorak-shep",
+  "name": "Gorak Shep",
+  "region": "everest",
+  "kind": "trekking village",
+  "wiki": "Gorak Shep",
+  "image_query": "Gorak Shep lodges Pumori Kala Patthar",
+  "lat": 27.9806,
+  "lng": 86.8289,
+  "altitude_m": 5164,
+  "tagline": "Highest lodges on the trail, between base camp and Kala Patthar",
+  "meta_description": "Gorak Shep (5,164 m): the last lodges before Everest Base Camp and the start of the Kala Patthar climb. What to expect from a night at 5,164 m and heli returns.",
+  "summary": "Gorak Shep is a group of lodges on a frozen sandy lake bed at 5,164 m, below Kala Patthar and Pumori. It is the base for both Everest Base Camp (2 hours) and the Kala Patthar sunrise climb, and the highest place most trekkers ever sleep.",
+  "intro": [
+    "Gorak Shep means dead ravens in Sherpa, and the name hints at the harshness of the place. It sits on a dry, sandy lake bed hemmed in by the Khumbu Glacier's moraine, at the foot of the brown slopes of Kala Patthar and the ice pyramid of Pumori. There is no village, only a handful of lodges, a helipad and a small frozen pond. Early Everest expeditions camped on this flat before moving on to the glacier and the foot of the icefall.",
+    "Trekkers usually arrive from Lobuche by late morning after a 2.5–3 hour walk along the moraine. The standard plan is to take a room, eat lunch, walk to Everest Base Camp and back in the afternoon, sleep, then climb Kala Patthar before dawn and walk down to Pheriche or Dingboche the same day. Some itineraries swap the order, climbing Kala Patthar for sunset on arrival and visiting base camp the next morning.",
+    "A night at 5,164 m is hard for most people. Sleep is broken, breathing feels shallow, the toilet trip at 2 am is bitterly cold and appetite is low. Lodges are basic and expensive because everything arrives on the backs of porters and yaks. It is one night only, and the reward is being within reach of both of the trek's goals. Watch each other closely for signs of altitude sickness, and do not hesitate to descend in the night if anyone gets worse."
+  ],
+  "facts": [
+    ["Altitude", "5,164 m"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Lukla, 7–8 days' walk; helipad at Gorak Shep"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 7–8 days' walk, or ≈ 1 h by helicopter"],
+    ["Known for", "Base for EBC and Kala Patthar, highest lodges on the trail"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Two goals from one base", "text": "From Gorak Shep, Everest Base Camp is about 2 hours along the moraine and Kala Patthar is a 2–3 hour climb. Staying here lets you visit both within 24 hours, which is the core of every EBC itinerary."},
+    {"title": "Pumori above the lodges", "text": "Pumori (7,161 m) rises almost directly above Gorak Shep, its icy faces lit pink at dawn. With Kala Patthar's brown ridge in front, it makes the background of every photo taken outside the lodges."},
+    {"title": "Night sky at 5,164 m", "text": "With almost no light pollution and thin, dry air, Gorak Shep has some of the clearest night skies a trekker will ever see. On moonless nights in autumn, the Milky Way stretches over Pumori and Nuptse."},
+    {"title": "Helicopter returns", "text": "Gorak Shep's helipad is used for evacuations and for planned heli returns at the end of the trek. Flying back to Kathmandu in about an hour, with a refuel at Lukla, saves 3–4 days of walking."},
+    {"title": "The frozen lake bed", "text": "The sandy flat behind the lodges was once a glacial lake. A small pond remains, frozen for much of the trekking season. Crossing it at dawn by headlamp is the start of the Kala Patthar climb."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Lobuche, follow the Khumbu Glacier's lateral moraine north past the Pyramid side valley and over rocky ground to Gorak Shep: about 4.5 km, 2.5–3 hours, gaining roughly 220 m. On the return, most groups walk from Gorak Shep to Pheriche (≈ 5–6 h) after Kala Patthar."},
+    {"mode": "Helicopter", "text": "Gorak Shep has a helipad for rescues and planned heli returns. Weather is clearest in early morning. At this height helicopters carry fewer passengers, often two or three at a time, so groups may be shuttled to Pheriche or Lukla before flying on to Kathmandu."},
+    {"mode": "Air", "text": "The nearest airport is Lukla, 35 minutes from Kathmandu or 20 minutes from Ramechhap in peak months. From Lukla it is about seven to eight days' walk to Gorak Shep with acclimatisation days."}
+  ],
+  "where_to_stay": "Gorak Shep has only a few lodges, built of stone with plywood room partitions. Rooms are small twins with thin mattresses and blankets, toilets are shared and often outside, and water freezes at night. The dining room is the only heated space, warmed by a yak-dung stove in the evening. Food and drinks cost more here than anywhere else on the trail; a plate of dal bhat or a litre of boiled water can be two to three times the Namche price. In peak weeks lodges fill completely, so our guides book rooms in advance.",
+  "stays": [],
+  "tips": [
+    "Leave your main bag at the lodge and visit base camp with just a daypack, warm layers and water.",
+    "Sleep in your base layers inside a four-season sleeping bag, with a hot water bottle at your feet.",
+    "Keep your water bottle inside your sleeping bag so it does not freeze overnight.",
+    "Agree with your group on checking each other during the night; severe altitude illness can develop fast.",
+    "If you plan a heli return, keep the morning free and expect a weather-dependent departure time."
+  ],
+  "themes": ["trekking", "heli-tours", "photography"],
+  "nearby": ["everest-base-camp", "kala-patthar", "lobuche"],
+  "experiences": [
+    {
+      "slug": "gorak-shep-night-sky-stargazing",
+      "title": "Stargazing over Pumori from Gorak Shep",
+      "kind": "nature",
+      "duration": "30 minutes",
+      "best_time": "Moonless nights, Oct–Dec",
+      "price_hint": "",
+      "image_query": "Milky Way over Everest Gorak Shep",
+      "wiki": "",
+      "summary": "Step outside the lodge after dinner on a clear, moonless night and the sky above Gorak Shep fills with stars, the Milky Way arching over Pumori and Nuptse in air so dry and thin that the stars barely twinkle.",
+      "body": [
+        "At 5,164 m you are above roughly half of the Earth's atmosphere, and in October and November the air over the Khumbu is often very dry and still after dark. With no towns for days in any direction, Gorak Shep is one of the darkest places most people will ever stand. On a moonless night, the Milky Way is bright enough to cast faint shadows, and the black outlines of Pumori, Kala Patthar and Nuptse frame it.",
+        "You do not need to go far: a few metres from the lodge door is enough. Turn off your headlamp or switch it to red light and give your eyes 10 minutes to adjust. Planets, star clusters and satellites are easy to spot. Photographers with a tripod and a wide-angle lens can capture the Milky Way over Pumori with exposures of 15–20 seconds, but keep camera batteries warm in a pocket until the last moment.",
+        "It is extremely cold after dark, often −15 °C or lower with wind, so wear your full down layers, hat and gloves and do not stay out long. Never walk far from the lodges at night, and avoid the moraine edges. Because you will be up early for Kala Patthar, 20–30 minutes is plenty. The pre-dawn start for the climb also gives another chance to see the stars, as you cross the lake bed by headlamp."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Is Gorak Shep good for night photography?", "a": "Yes, on clear, moonless nights it is excellent. Dry thin air and no light pollution give very sharp stars. Bring a tripod, a wide lens and spare batteries kept warm. Expect −15 °C or colder, so limit time outside."},
+        {"q": "When is the best time for stargazing on the EBC trek?", "a": "Clear, moonless nights from October to December are best, when the air is dry and settled. Check the moon phase before you book if stars matter to you. Spring nights can be hazier, and monsoon nights are usually cloudy."},
+        {"q": "Is it safe to go outside at night in Gorak Shep?", "a": "Yes, close to the lodges, dressed warmly and with a headlamp. Do not wander onto the moraine or lake bed alone in the dark. If you feel dizzy or unusually breathless, go back inside and tell your guide."}
+      ]
+    },
+    {
+      "slug": "gorak-shep-helicopter-return-kathmandu",
+      "title": "Helicopter back to Kathmandu from Gorak Shep",
+      "kind": "aerial",
+      "duration": "≈ 1–1.5 hours flying",
+      "best_time": "Early morning, Oct–Nov and Mar–May",
+      "price_hint": "≈ US$ 600–900 per seat shared; check current rates",
+      "image_query": "helicopter Gorak Shep Everest region",
+      "wiki": "",
+      "summary": "Instead of walking 3–4 days back to Lukla after Kala Patthar, fly from Gorak Shep's helipad down the Khumbu valley, past Ama Dablam, Tengboche and Namche, refuel at Lukla and land in Kathmandu by mid-morning.",
+      "body": [
+        "A heli return makes sense for trekkers short of time, those who want to finish on a high, and anyone feeling the altitude after Kala Patthar. After the sunrise climb, you return to Gorak Shep for breakfast while your guide confirms the flight by radio or satellite phone. The helicopter usually arrives between 7 and 10 am, when the weather is clearest. Bags are weighed, because the payload at 5,164 m is limited.",
+        "At this altitude a typical AS350 B3 helicopter can safely lift only two or three passengers with luggage, depending on temperature and wind. Groups of four or five may be flown in two shuttles to Pheriche or Lukla, then combined for the leg to Kathmandu. The flight down the Khumbu passes the Thukla memorials, Pheriche, Ama Dablam, Pangboche and Tengboche, then the Dudh Koshi gorge and Namche Bazaar, with a refuelling stop at Lukla.",
+        "From Lukla to Kathmandu takes about 45–50 minutes, landing at the domestic terminal of Tribhuvan airport. If cloud or wind prevents flying, you wait at Gorak Shep or walk down to Pheriche and fly from there the next morning. Shared seats are cheaper but depend on filling the helicopter. Your guide and porters usually walk out to Lukla, so settle tips before the flight."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How much is a helicopter from Gorak Shep to Kathmandu?", "a": "A shared seat often costs around US$ 600–900 per person, depending on season, fuel prices and how many seats are filled. A private charter for the whole helicopter costs considerably more. Check current rates before you travel."},
+        {"q": "Can all my group fly together from Gorak Shep?", "a": "Often not in one go. At 5,164 m helicopters carry fewer people, usually two or three with bags. Groups are shuttled to Pheriche or Lukla first, then fly together to Kathmandu. Allow extra time on the morning of the flight."},
+        {"q": "What happens if the weather is bad for my heli return?", "a": "You wait until conditions improve, usually the next morning, or walk down to Pheriche or Dingboche and fly from there. We build a spare day into heli-return itineraries for this reason. Never fly in poor visibility to save a day."}
+      ]
+    },
+    {
+      "slug": "gorak-shep-high-night-survival",
+      "title": "One night at 5,164 m: what to expect",
+      "kind": "adventure",
+      "duration": "Overnight",
+      "best_time": "Oct–Nov and Mar–May",
+      "price_hint": "Included in our EBC treks",
+      "image_query": "Gorak Shep lodge dining room trekkers",
+      "wiki": "",
+      "summary": "Sleeping at Gorak Shep is the highest night of the Everest Base Camp trek. Knowing what to expect, and how to make it easier, turns a tough night into a manageable one and keeps you safe for the climb next morning.",
+      "body": [
+        "At 5,164 m the air holds about half the oxygen available at sea level. Even well-acclimatised trekkers usually sleep lightly, wake often and may notice a breathing pattern where they pause and then gasp, called periodic breathing. This is common at altitude and usually harmless. What matters is how you feel when awake: a mild headache that eases with water and paracetamol is normal; a headache that worsens, vomiting, confusion or breathlessness at rest are warning signs.",
+        "Make the evening count. Eat a full dinner even without appetite, as carbohydrates help. Drink a litre of hot water or tea during the evening, then fill your bottle with boiling water and put it in your sleeping bag. Sleep in clean, dry base layers, wear a hat and keep your next day's clothes and batteries inside the bag. Go to the toilet before bed. Earplugs help with thin walls and snoring neighbours.",
+        "Your guide will check on you in the evening and at the morning wake-up call. If someone gets worse during the night, the only real treatment is descent, even in the dark, to Lobuche or lower, and the helipad means evacuation is possible at first light. Most trekkers find the night uncomfortable but fine, and by mid-morning, walking down towards Pheriche, everyone feels stronger with each 100 m lost."
+      ],
+      "good_for": ["first-timers", "solo", "groups"],
+      "faqs": [
+        {"q": "Is it hard to sleep at Gorak Shep?", "a": "Yes, for most people. At 5,164 m sleep is light and broken, and some trekkers notice periodic breathing. This is normal. Staying warm, drinking enough, eating dinner and using earplugs helps. You only spend one night here on most itineraries."},
+        {"q": "What are warning signs of altitude sickness at Gorak Shep?", "a": "A headache that worsens despite rest and painkillers, vomiting, breathlessness at rest, a wet cough, confusion or loss of balance. Any of these mean descent at once, even at night. Tell your guide immediately; do not wait until morning."},
+        {"q": "Can I skip sleeping at Gorak Shep?", "a": "Yes. Some itineraries visit base camp from Lobuche and return the same day, or climb Kala Patthar from Lobuche early. These days are long. Our heli-return trek also limits time at Gorak Shep to one night."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Gorak Shep?", "a": "Gorak Shep lies at about 5,164 m, making it the highest overnight stop on the standard Everest Base Camp trek. Everest Base Camp is about 200 m higher and Kala Patthar about 480 m higher."},
+    {"q": "How far is Gorak Shep from Everest Base Camp?", "a": "About 3.5 km, taking 1.5–2.5 hours each way along the moraine and glacier. Most trekkers walk to base camp in the afternoon after arriving from Lobuche and return to Gorak Shep to sleep."},
+    {"q": "What are the lodges like at Gorak Shep?", "a": "Very basic: small twin rooms with thin partitions, shared toilets, no showers and only the dining room heated. Food and water cost the most on the trail. Lodges are warm and friendly in the evening, but it is a place to rest, not relax."},
+    {"q": "How cold is Gorak Shep at night?", "a": "In October and November, nights are typically −12 to −18 °C, colder with wind. April and May nights are around −8 to −12 °C. December to February can fall below −20 °C. Rooms are unheated, so bring a sleeping bag rated to −15 °C or lower."},
+    {"q": "Can I get a helicopter from Gorak Shep?", "a": "Yes. Gorak Shep has a helipad used for planned heli returns and evacuations. Flights leave in the morning weather window and may need to shuttle passengers in small groups because of the altitude."},
+    {"q": "What does Gorak Shep mean?", "a": "In Sherpa, Gorak Shep is usually translated as dead ravens. The name reflects the harsh, barren setting on a dry lake bed at over 5,000 m, where few animals or plants survive."},
+    {"q": "Is there Wi-Fi at Gorak Shep?", "a": "Usually yes, via Everest Link prepaid cards sold by lodges, though connections are slow and can fail in bad weather. Mobile data is unreliable. Charging devices is expensive, so bring a charged power bank."},
+    {"q": "How long from Lobuche to Gorak Shep?", "a": "About 2.5–3 hours over 4.5 km, gaining roughly 220 m. The trail follows the Khumbu Glacier's lateral moraine with rocky ups and downs. Most groups leave Lobuche around 7 or 8 am and arrive for an early lunch."},
+    {"q": "Should I climb Kala Patthar or visit EBC first?", "a": "Most itineraries visit base camp on arrival day and climb Kala Patthar at sunrise the next morning, because mornings are clearer. If the weather is better in the afternoon of arrival, your guide may swap the order."}
+  ]
+}

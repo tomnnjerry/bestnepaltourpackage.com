@@ -1,0 +1,85 @@
+{
+  "slug": "chitwan-safari-3-nights",
+  "title": "Chitwan Safari 3 Nights 4 Days",
+  "region": "chitwan",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["wildlife-safari", "photography", "short-breaks", "family-holidays"],
+  "stops": [{"place": "sauraha", "nights": 3}, {"place": "chitwan-national-park", "nights": 0}, {"place": "bishazari-tal", "nights": 0}],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_inr": 22000,
+  "price_from_usd": 290,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Green Park Chitwan or a similar resort in Sauraha, twin sharing",
+  "transport": "Private car Kathmandu–Sauraha–Kathmandu, park jeeps for safaris",
+  "group": "Private, 2–6 per car; join-in activities",
+  "meta_description": "Chitwan safari 3 nights 4 days by private car from Kathmandu: full-day jeep drive, canoe, jungle walk, Bishazari Tal birding, gharial centre. From ₹22,000.",
+  "summary": "Three nights in Sauraha give time for a full-day jeep drive into Chitwan's core, where tiger and sloth bear sightings are more likely, plus a canoe ride, walking safari, the gharial breeding centre and a dawn visit to the Bishazari Tal wetland. Private car transfers from Kathmandu are included.",
+  "intro": [
+    "This is the Chitwan trip we recommend most often. The extra night changes the experience: instead of rushing a half-day jeep drive, you spend a full day in the park with a packed lunch, heading west past Kasara toward the quieter forest and grassland where tigers are seen more often. A second morning goes to Bishazari Tal, the Ramsar-listed wetland, for birds and basking crocodiles, and there is time to sit by the pool or cycle through Tharu villages.",
+    "We travel by private car, which is quicker and far more comfortable than the tourist bus and lets you stop at Devghat or for fried fish in Narayangarh on the way. Rooms are at a resort in Sauraha with a pool, and all meals in Chitwan, park fees and a licensed naturalist are included. It suits couples, families with older children and photographers who want more than one chance at the big animals."
+  ],
+  "highlights": [
+    "Full-day jeep safari deep into the park with packed lunch",
+    "Gharial and crocodile breeding centre at Kasara",
+    "Dawn birding and crocodile watching at Bishazari Tal",
+    "Canoe on the Rapti and guided walking safari",
+    "Tharu village by bicycle and evening stick dance",
+    "Private car with a stop at Devghat on the way back"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive to Sauraha, sunset on the Rapti", "place": "sauraha", "overnight": "Sauraha", "altitude_m": 160, "max_m": 1400, "walk": "≈ 1 h · 2 km", "drive": "≈ 165 km · 5–6 h", "flight": "", "text": "Your driver collects you from your Kathmandu hotel at 8 am. The road leaves the valley at Naubise and follows the Trishuli gorge to Mugling, then the river south to Narayangarh, where we stop for lunch, fried river fish for those who eat it or a vegetarian thali. You reach Sauraha around 2 pm. After check-in and a briefing from your naturalist, walk to the Rapti sandbank for sunset, watching for rhinos crossing on the far side, then dinner at the resort.", "meals": "D"},
+    {"day": 2, "title": "Full-day jeep safari into the core", "place": "chitwan-national-park", "overnight": "Sauraha", "altitude_m": 160, "max_m": 200, "walk": "", "drive": "Jeep safari ≈ 8–9 h · 60–70 km", "flight": "", "text": "The longest and best wildlife day. You leave after an early breakfast, cross the Rapti and drive west through sal forest and grassland with a naturalist, stopping at Lami Tal and Tamor Tal and at watchtowers to scan for rhino, gaur, deer and sloth bear. At Kasara, visit the gharial breeding centre, where hatchlings of this critically endangered crocodile are raised for release. A packed lunch is eaten at a forest post before the drive continues into quieter areas where tiger pugmarks are common. Back in Sauraha by around 5 pm.", "meals": "B, L, D"},
+    {"day": 3, "title": "Bishazari Tal, canoe and jungle walk", "place": "bishazari-tal", "overnight": "Sauraha", "altitude_m": 160, "max_m": 286, "walk": "≈ 3 h · 6–8 km", "drive": "≈ 30 km round trip · 1 h", "flight": "", "text": "At dawn we drive 30 minutes to Bishazari Tal and walk the embankment and forest trails with a local guide, looking for storks, herons, kingfishers and mugger crocodiles basking in the early sun. Back at Sauraha for a late breakfast, then a 45-minute canoe ride on the Rapti and a guided walk back through riverine forest via the Elephant Breeding Centre. The late afternoon is free for the pool or a bicycle ride through Tharu villages, and the evening ends with the stick dance show.", "meals": "B, L, D"},
+    {"day": 4, "title": "Devghat and return to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 175 km · 6 h", "flight": "", "text": "After breakfast, drive 45 minutes to Devghat, the sacred confluence of the Trishuli and Kali Gandaki, where the Narayani begins. Walk across the suspension bridge and visit the ghats and ashrams for an hour. The road then climbs back up the Trishuli valley via Mugling to Kathmandu, arriving around 4–5 pm. Your driver drops you at your hotel or the airport. If you are flying out the same evening, book a departure after 8 pm.", "meals": "B"}
+  ],
+  "stays": ["green-park-chitwan"],
+  "includes": [
+    "Private car Kathmandu–Sauraha–Kathmandu with driver",
+    "Three nights at Green Park Chitwan or similar, twin sharing",
+    "All meals in Chitwan from dinner on day 1 to breakfast on day 4",
+    "Full-day jeep safari with packed lunch",
+    "Canoe ride and guided walking safari with two licensed guides",
+    "Bishazari Tal birding walk with local guide and entry fee",
+    "Gharial breeding centre visit at Kasara",
+    "Tharu village bicycle ride and cultural show",
+    "Chitwan National Park entry fees for all activities",
+    "Stop at Devghat on the return drive"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "Lunch on travel days 1 and 4",
+    "Drinks and bottled water",
+    "Private jeep for the full-day safari (shared jeep included)",
+    "Elephant rides or bathing (not offered)",
+    "Tips for naturalists and driver",
+    "Travel and medical insurance",
+    "Personal expenses such as laundry and spa"
+  ],
+  "good_to_know": [
+    "The INR price is per person, twin sharing, for 2 guests in one car with SAARC park fees; groups of 4 pay less per person.",
+    "The USD price includes park fees at the rate for other foreign nationals.",
+    "Full-day jeep safaris are long and bumpy; seniors may swap to a half-day drive and a second canoe ride.",
+    "The full-day drive can be replaced by a full-day walking safari for fit adults at no extra cost.",
+    "From mid-June to mid-September core tracks are closed; ask for a monsoon version."
+  ],
+  "add_ons": [
+    {"name": "Private jeep for the full-day safari", "price": "≈ ₹20,000 per jeep (up to 6)"},
+    {"name": "Upgrade to Kasara Resort villa", "price": "≈ ₹9,000 per person per night"},
+    {"name": "Fly back Bharatpur–Kathmandu", "price": "≈ US$ 120 per person"}
+  ],
+  "faqs": [
+    {"q": "Why choose 3 nights in Chitwan instead of 2?", "a": "The third night allows a full-day jeep safari into the core of the park, where tiger and sloth bear sightings are more likely, plus Bishazari Tal and a relaxed afternoon. With two nights you see rhinos and crocodiles but spend more time travelling than in the park. Most guests who try both prefer three."},
+    {"q": "How much does a 3-night Chitwan safari cost?", "a": "From about ₹22,000 per person twin sharing for two guests, including private car from Kathmandu, three nights' resort stay, all meals in Chitwan, activities and SAARC park fees. International guests pay from about US$ 290 including the higher park fee. Groups of four sharing a car pay less."},
+    {"q": "What are my chances of seeing a tiger on this trip?", "a": "Better than on a short trip, because the full-day jeep safari goes deep into the park. Sightings are still never guaranteed; most guests see pugmarks and hear alarm calls. February to May, when grass is short and tigers visit water, gives the best odds. Rhinos, gaur, deer and crocodiles are very likely."},
+    {"q": "Is the full-day jeep safari tiring?", "a": "Yes, it is 8 to 9 hours on rough forest tracks, with stops at watchtowers and a packed lunch. It suits most adults and children over about 10. Seniors or anyone with back problems can switch to a half-day drive and a second canoe ride; just tell us when booking."},
+    {"q": "Can we travel by flight instead of private car?", "a": "Yes. Kathmandu–Bharatpur flights take about 25 minutes, and we add airport transfers in Chitwan. It costs more but saves around five hours each way. Winter fog can delay morning flights in December and January, so we book midday flights then."},
+    {"q": "Is this Chitwan package suitable for families?", "a": "Yes, for families with children over about 8. Younger children may find the full-day jeep drive long, and we can swap it for two half-day drives. The walking safari is for 12 and over. The resort pool, canoe, bicycle ride and dance show are always popular with children."},
+    {"q": "What is Bishazari Tal and why is it included?", "a": "Bishazari Tal is a Ramsar-listed wetland of oxbow lakes in the park's buffer zone, about 30 minutes from Sauraha. It is one of the best birding spots in central Nepal and a reliable place to see mugger crocodiles. It adds a quieter, different landscape to the park safaris."},
+    {"q": "Do I need to carry my passport for the park?", "a": "Yes. Park permits are issued by nationality, and naturalists may need your passport details. Indian nationals can use a passport or voter ID card. Keep a photocopy with you on safaris and the original at the resort safe."},
+    {"q": "Can I extend this trip to Pokhara or Lumbini?", "a": "Yes. Instead of returning to Kathmandu on day 4, drive to Pokhara (about 150 km, 5–6 hours) or Lumbini (about 165 km, 4–5 hours). Our Chitwan and Lumbini tour shows a sample route, and we can quote any combination."}
+  ]
+}

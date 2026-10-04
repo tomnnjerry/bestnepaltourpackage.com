@@ -1,0 +1,85 @@
+{
+  "slug": "devghat-janakpur-yatra-5-nights",
+  "title": "Devghat and Janakpur Yatra 5 Nights 6 Days",
+  "region": "chitwan",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["pilgrimage", "cultural-tours", "overland-from-india"],
+  "stops": [{"place": "kathmandu", "nights": 1}, {"place": "manakamana", "nights": 0}, {"place": "bharatpur", "nights": 1}, {"place": "devghat", "nights": 0}, {"place": "janakpur", "nights": 3}, {"place": "dhanusadham", "nights": 0}],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (by flight from Janakpur)",
+  "price_from_inr": 34000,
+  "price_from_usd": 430,
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "3-star hotels in Kathmandu, Bharatpur and Janakpur, twin sharing",
+  "transport": "Private car Kathmandu–Bharatpur–Janakpur, Manakamana cable car, Janakpur–Kathmandu flight",
+  "group": "Private families and pilgrim groups, 2–25",
+  "meta_description": "Devghat and Janakpur yatra 5 nights 6 days: Pashupatinath, Manakamana cable car, Devghat confluence dip, Janaki Mandir, Dhanusadham. From ₹34,000 per person.",
+  "summary": "A six-day Hindu pilgrimage across central Nepal: Pashupatinath aarti in Kathmandu, Manakamana by cable car, a dawn dip at the Devghat confluence, then east to Janakpur for the Janaki Mandir, Vivah Mandap, Ram Mandir and Dhanusadham, with a flight back to Kathmandu. Vegetarian meals and a pilgrimage guide throughout.",
+  "intro": [
+    "This yatra links four of the most important Hindu shrines in central Nepal in a single loop. It starts at Pashupatinath, Nepal's holiest Shiva temple, then follows the Trishuli valley to the Manakamana cable car and the wish-fulfilling goddess on her ridge. At Devghat you bathe where the Trishuli and Kali Gandaki join to form the Narayani, before driving east along the Terai to Janakpur, Sita's city, for three nights of darshan, aarti and the shrine of Shiva's broken bow at Dhanusadham.",
+    "The longest day is the drive from Devghat to Janakpur, about 280 km along the Mahendra Highway through Hetauda and Bardibas, which we break with meal stops. Everything else is paced for families and senior pilgrims, with rest in the afternoons and a flight back to Kathmandu at the end instead of another long drive. A guide who knows the rituals accompanies you, and all meals are pure vegetarian. Indian groups driving in from Raxaul or Jaynagar can join the route partway."
+  ],
+  "highlights": [
+    "Evening aarti at Pashupatinath on the Bagmati",
+    "Manakamana temple by cable car from Kurintar",
+    "Dawn bath and puja at the Devghat confluence",
+    "Three nights in Janakpur with Janaki Mandir aartis",
+    "Dhanusadham, the shrine of Shiva's broken bow",
+    "Flight back to Kathmandu instead of an 8-hour drive"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive Kathmandu, Pashupatinath aarti", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 10 km · 30 min", "flight": "", "text": "We meet you at Tribhuvan International Airport and transfer you to your hotel. In the late afternoon, drive to Pashupatinath on the Bagmati, the most sacred Shiva temple in Nepal. Hindu pilgrims can enter the main courtyard for darshan of the four-faced lingam; all visitors can walk the ghats and terraces. At dusk, priests perform the Bagmati aarti with lamps, bells and chanting on the riverbank, a moving start to the yatra. Vegetarian dinner and an evening briefing from your guide on the days ahead.", "meals": "D"},
+    {"day": 2, "title": "Manakamana by cable car, on to Bharatpur", "place": "manakamana", "overnight": "Bharatpur", "altitude_m": 208, "max_m": 1400, "walk": "≈ 1.5 h", "drive": "≈ 150 km · 5–6 h", "flight": "", "text": "Leave Kathmandu at 7 am and follow the Prithvi Highway down the Trishuli valley to Kurintar, about 3 hours. The cable car rises from the river at around 260 m to the ridge at about 1,300 m in roughly 10 minutes, with views over the gorge. Queue for darshan at the pagoda temple of Manakamana, the goddess believed to grant wishes, and offer flowers and coconut. After lunch near the temple, ride down and continue via Mugling to Bharatpur, about 2 hours, arriving by late afternoon. Overnight at a hotel near Narayangarh.", "meals": "B, L, D"},
+    {"day": 3, "title": "Devghat dip, drive east to Janakpur", "place": "devghat", "overnight": "Janakpur", "altitude_m": 74, "max_m": 210, "walk": "≈ 1.5 h", "drive": "≈ 290 km · 8 h", "flight": "", "text": "Drive 20 minutes to Devghat at dawn. Bathe at the ghats where the Trishuli and Kali Gandaki meet to form the Narayani, or sprinkle water if you prefer, and perform a short puja or shraddha with a local priest. Walk onto the suspension bridge for a view of the confluence. After breakfast, the long drive east begins: Bharatpur to Hetauda, then along the Mahendra Highway through Pathlaiya and Bardibas, with lunch on the way and tea stops every two hours. You reach Janakpur by early evening, in time to rest before dinner.", "meals": "B, L, D"},
+    {"day": 4, "title": "Janaki Mandir, Vivah Mandap and aarti", "place": "janakpur", "overnight": "Janakpur", "altitude_m": 74, "max_m": 74, "walk": "≈ 2.5 h · 4 km", "drive": "", "flight": "", "text": "A day at the heart of Janakpur. At dawn, visit Ganga Sagar, where pilgrims bathe and offer water, then Dhanush Sagar and the older Ram Mandir. After breakfast, darshan at the white marble Janaki Mandir, built in 1910, and the Vivah Mandap next door, believed to mark the place of Sita and Rama's wedding. Your guide can arrange a special puja with temple priests. The afternoon is free to rest. In the evening, the sunset aarti at the Janaki Mandir fills the courtyard with lamps, bells and Sita–Ram bhajans.", "meals": "B, L, D"},
+    {"day": 5, "title": "Dhanusadham and Mithila art", "place": "dhanusadham", "overnight": "Janakpur", "altitude_m": 74, "max_m": 90, "walk": "≈ 1.5 h", "drive": "≈ 40 km · 1.5 h in total", "flight": "", "text": "Drive 40 minutes north-east through rice fields, ponds and Mithila villages to Dhanusadham, where a stone believed to be a fragment of Shiva's bow, broken by Rama at Sita's swayamvara, is worshipped. After darshan, stop at a village where women paint Mithila designs on house walls. Back in Janakpur, visit the Janakpur Women's Development Centre to watch artists at work and buy paintings directly from them. Late-afternoon free time in the bazaar for sweets and puja items, then a final evening aarti at the Janaki Mandir.", "meals": "B, L, D"},
+    {"day": 6, "title": "Morning darshan, fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 3 km · 10 min", "flight": "Janakpur–Kathmandu · 25 min", "text": "A last quiet morning darshan at the Janaki Mandir soon after opening, then breakfast and transfer to Janakpur Airport for the 25-minute flight to Kathmandu. On arrival, we transfer you to the international terminal or your hotel, ending the yatra. For international departures, book flights after 3 pm. Groups returning to India overland can instead drive 30 km to Jaynagar or about 4–5 hours to Raxaul.", "meals": "B"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers in Kathmandu",
+    "Five nights in 3-star hotels: Kathmandu 1, Bharatpur 1, Janakpur 3, twin sharing",
+    "Pure vegetarian meals from dinner on day 1 to breakfast on day 6",
+    "Private car Kathmandu–Bharatpur–Janakpur with driver",
+    "Manakamana cable car return tickets",
+    "Pilgrimage guide throughout",
+    "Pashupatinath entry fee for non-Hindu guests",
+    "Janakpur–Kathmandu flight",
+    "Private car to Dhanusadham and local transfers"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees (Indian nationals need no visa)",
+    "Puja, shraddha and priest fees",
+    "Temple donations and offerings",
+    "Drinks and bottled water",
+    "Tips for guide and driver",
+    "Travel insurance",
+    "Festival surcharges during Vivah Panchami and Makar Sankranti"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, for 2 guests sharing a car; groups of 6 or more in a van pay less per person.",
+    "Day 3 is a long drive of about 8 hours; we stop every two hours and the car is air-conditioned.",
+    "The Manakamana cable car closes for maintenance on some days and has long queues on Saturdays and festival days; check current status before you travel.",
+    "Bathing at Devghat is unsafe in the monsoon (June–September), when we visit the temples only.",
+    "Indian groups can join at Bharatpur from Sunauli or Raxaul, or finish at Jaynagar instead of flying."
+  ],
+  "add_ons": [
+    {"name": "Add a night in Chitwan with jeep safari after Devghat", "price": "≈ ₹9,000 per person"},
+    {"name": "Muktinath heli from Pokhara (extension)", "price": "On request"},
+    {"name": "Sitamarhi day trip for Indian citizens", "price": "≈ ₹6,000 per car"}
+  ],
+  "faqs": [
+    {"q": "What is the Devghat and Janakpur yatra cost?", "a": "From about ₹34,000 per person twin sharing for two pilgrims, including five nights in 3-star hotels, vegetarian meals, a private car, the Manakamana cable car, a pilgrimage guide and the flight from Janakpur to Kathmandu. International guests pay from about US$ 430. Puja fees and donations are extra."},
+    {"q": "Is this yatra suitable for senior citizens?", "a": "Yes. The cable car avoids the climb to Manakamana, the Devghat ghats are close to the car park, and Janakpur's temples are flat. Day 3 is a long drive, but we stop regularly. Flying back to Kathmandu saves another long road day. Tell us about any health needs at booking."},
+    {"q": "How long is the drive from Devghat to Janakpur?", "a": "About 290 km and 8 hours via Bharatpur, Hetauda, Pathlaiya and Bardibas on the Mahendra Highway. The road is paved and flat for most of the way. We leave after the Devghat visit and breakfast, stop for lunch and tea, and reach Janakpur by early evening."},
+    {"q": "Can Indian pilgrims join this yatra by road?", "a": "Yes. From Sunauli–Bhairahawa, drive about 4 hours to Bharatpur and join on day 2. From Raxaul–Birgunj, Bharatpur is about 3.5–4 hours. At the end, Jaynagar is 30 km from Janakpur. We adjust the route and price for overland groups."},
+    {"q": "Can I perform shraddha at Devghat on this yatra?", "a": "Yes. Devghat is a traditional place for shraddha and other ancestor rites. We arrange a local priest for the morning of day 3; bring the names and gotra of the deceased. Allow extra time if the ritual is long. Priest fees are paid directly and are not included."},
+    {"q": "Is Manakamana included, and how does the cable car work?", "a": "Yes. The cable car runs from Kurintar on the Prithvi Highway to the temple ridge in about 10 minutes, rising roughly 1,000 m. Return tickets are included. Queues are long on Saturdays and festival days, and the cable car can close for maintenance, so check current status before you travel."},
+    {"q": "Are meals vegetarian throughout?", "a": "Yes. All meals are pure vegetarian, and Jain food without onion and garlic can be arranged with notice. Hotels in Janakpur and Bharatpur serve North Indian and Nepali vegetarian food. On the long drive we stop at clean vegetarian restaurants."},
+    {"q": "Can we add a Chitwan jungle safari to this yatra?", "a": "Yes. Add a night in Sauraha after Devghat, with a jeep safari or canoe ride, before continuing to Janakpur. Many families like to combine pilgrimage with a wildlife experience for the children. It adds one day and about ₹9,000 per person."},
+    {"q": "When is the best time for the Devghat and Janakpur yatra?", "a": "October to March. Makar Sankranti in mid-January is special at Devghat, and Vivah Panchami in November or December is Janakpur's biggest festival, though both bring crowds and higher prices. April to June is very hot in the Terai, and the monsoon makes bathing at Devghat unsafe."}
+  ]
+}

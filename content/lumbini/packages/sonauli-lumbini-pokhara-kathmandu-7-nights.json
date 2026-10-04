@@ -1,0 +1,92 @@
+{
+  "slug": "sonauli-lumbini-pokhara-kathmandu-7-nights",
+  "title": "Sonauli–Lumbini–Pokhara–Kathmandu Tour 7 Nights",
+  "region": "lumbini",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 7,
+  "themes": ["overland-from-india", "cultural-tours", "photography", "honeymoon"],
+  "stops": [
+    {"place": "lumbini", "nights": 1},
+    {"place": "tansen", "nights": 1},
+    {"place": "pokhara", "nights": 2},
+    {"place": "bandipur", "nights": 1},
+    {"place": "kathmandu", "nights": 2}
+  ],
+  "start": "Sonauli–Belahiya border",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 33000,
+  "price_from_usd": 420,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels in Lumbini, Tansen, Pokhara and Kathmandu; heritage-style guesthouse in Bandipur",
+  "transport": "Private Nepal-registered car with driver from the border to Kathmandu",
+  "group": "Private, 2–8",
+  "meta_description": "Sonauli to Kathmandu tour, 8 days: Lumbini, Tansen old town, Pokhara lakes, Bandipur and Kathmandu by private car, ending at Kathmandu airport. 3-star stays.",
+  "summary": "Eight days crossing Nepal from the Indian border to the capital the slow way: Lumbini's Sacred Garden, a night in the hill town of Tansen, two nights by Phewa Lake in Pokhara, a night in car-free Bandipur and two nights in Kathmandu, finishing at the airport for your flight home.",
+  "intro": [
+    "This one-way route suits travellers who arrive in Nepal by road at Sonauli and want to fly home from Kathmandu, without ever doing more than five hours in the car on a single day. Instead of the long direct run from Lumbini to Pokhara, we stop overnight in Tansen, a Newar hill town known for Dhaka weaving, and instead of driving Pokhara to Kathmandu in one go, we break at Bandipur, a preserved ridge-top bazaar with Himalayan views.",
+    "The result is a trip that shows Nepal's change in height and culture step by step: from the 150 m Terai plain at Lumbini to Tansen at 1,350 m, the lakes of Pokhara under the Annapurnas, Bandipur's 18th-century trading street and the temple squares of Kathmandu. Indian travellers cross with a passport or voter ID; other nationals get a Nepal visa on arrival at Belahiya."
+  ],
+  "highlights": [
+    "Maya Devi Temple and Ashoka pillar in Lumbini",
+    "Tansen old town, Dhaka weavers and Srinagar hill sunrise",
+    "Sarangkot sunrise and a boat on Phewa Lake in Pokhara",
+    "Car-free Newar bazaar and mountain views in Bandipur",
+    "Swayambhunath, Patan Durbar Square and Boudhanath in Kathmandu",
+    "No drive longer than about five hours"
+  ],
+  "days": [
+    {"day": 1, "title": "Cross at Sonauli, afternoon in Lumbini", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 2.5 h", "drive": "≈ 26 km · 45 min", "flight": "", "text": "Meet our representative at Sonauli and walk across to Belahiya; foreign nationals complete Nepal visa formalities here. Your Nepal driver takes you to Lumbini in 45 minutes. After lunch and rest, your guide leads you through the Sacred Garden in the late afternoon: the Maya Devi Temple and marker stone, the Ashoka pillar and the Puskarini pond. Then ride a battery rickshaw past the Thai and Myanmar monasteries to the World Peace Pagoda for sunset.", "meals": "Dinner"},
+    {"day": 2, "title": "Lumbini monasteries, drive to Tansen", "place": "tansen", "overnight": "Tansen", "altitude_m": 1350, "max_m": 1350, "walk": "≈ 2 h", "drive": "≈ 90 km · 3 h", "flight": "", "text": "Early risers can return to the Sacred Garden for dawn chanting. After breakfast, visit the Chinese and German temples in the western monastic zone, then drive via Butwal and up the Siddhartha Highway through the Tinau gorge to Tansen. Check in at your hotel on the Srinagar hill road. In the late afternoon, walk the old town with a local guide: Tansen Durbar's huge Baggi Dhoka gate, the Bhagwati Temple and the evening bazaar around Asan Tole.", "meals": "B, D"},
+    {"day": 3, "title": "Srinagar sunrise, Dhaka, on to Pokhara", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 1.5 h", "drive": "≈ 120 km · 4.5–5 h", "flight": "", "text": "Walk 30–45 minutes up through pine forest to the Srinagar ridge, at about 1,600 m, for sunrise over Dhaulagiri and the Annapurnas on clear mornings. After breakfast, visit a Dhaka weaving workshop and the 1806 Amar Narayan Temple. Drive north on the Siddhartha Highway through Syangja and Waling, with river valleys and terraced hills, reaching Pokhara by mid-afternoon. Evening stroll along the Phewa Lake shore at Lakeside.", "meals": "B, D"},
+    {"day": 4, "title": "Sarangkot sunrise and Phewa Lake", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 2 h in short sections", "drive": "≈ 40 km in town", "flight": "", "text": "Drive to Sarangkot before dawn for the classic sunrise over Machhapuchhre and the Annapurna range from about 1,600 m. After breakfast, visit Davis Falls and the Gupteshwor Mahadev cave, then the International Mountain Museum if you enjoy mountaineering history. In the afternoon, take a wooden boat across Phewa Lake to the Tal Barahi temple and walk or drive up to the World Peace Pagoda for views back over the town.", "meals": "B, D"},
+    {"day": 5, "title": "Pokhara to Bandipur", "place": "bandipur", "overnight": "Bandipur", "altitude_m": 1030, "max_m": 1030, "walk": "≈ 2 h", "drive": "≈ 75 km · 2.5 h", "flight": "", "text": "A short drive east on the Prithvi Highway to Dumre, then up the winding road to Bandipur's ridge at about 1,030 m. The main bazaar is closed to cars and lined with tall Newar houses, many restored as cafés and guesthouses. Walk to the Tundikhel parade ground for views north to the Himalaya, visit the Bindebasini temple and wander side lanes of old brick houses and tiny shrines. Sunset from the ridge is a highlight on clear evenings.", "meals": "B, D"},
+    {"day": 6, "title": "Bandipur to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 145 km · 5 h", "flight": "", "text": "After an early walk to watch the mist lift from the valleys, descend to Dumre and drive east along the Trishuli river, then climb to the rim of the Kathmandu Valley. Arrive by mid-afternoon and check in. In the evening, visit Boudhanath, where Tibetan pilgrims circle the great white stupa at dusk under strings of prayer flags, and eat in one of the rooftop restaurants overlooking the dome.", "meals": "B, D"},
+    {"day": 7, "title": "Swayambhunath and Patan", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 3 h in short sections", "drive": "≈ 25 km in the city", "flight": "", "text": "With a licensed guide, climb to Swayambhunath, the hilltop stupa watched by the painted eyes of the Buddha, with monkeys and shrines all around. After lunch, cross the Bagmati to Patan Durbar Square, one of the finest groups of Newar temples and palaces in the valley; the Patan Museum is excellent for metal sculpture. End with a walk through Patan's courtyards and metalworking lanes. Farewell dinner with Nepali music and dance (optional).", "meals": "B, D"},
+    {"day": 8, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 6 km · 30 min to the airport", "flight": "", "text": "Breakfast at the hotel and free time for last-minute shopping in Thamel or Asan, depending on your flight time. Our driver transfers you to Tribhuvan International Airport, arriving about three hours before international departures. If you prefer to return to India by road, we can arrange a drive back to Sonauli or to the Raxaul–Birgunj border instead.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini", "hotel-srinagar-tansen"],
+  "includes": [
+    "7 nights at 3-star hotels and a Bandipur guesthouse, twin sharing",
+    "Daily breakfast and dinner",
+    "Private Nepal-registered car with driver from Belahiya to Kathmandu airport",
+    "Border meeting and assistance at Sonauli–Belahiya",
+    "Local guides in Lumbini and Tansen; licensed guide in Kathmandu",
+    "Lumbini Sacred Garden entry fee",
+    "Sarangkot sunrise drive and Phewa Lake boat",
+    "Kathmandu airport drop-off"
+  ],
+  "excludes": [
+    "International or domestic flights",
+    "Nepal visa fee for non-Indian nationals",
+    "Kathmandu, Patan and museum entry fees",
+    "Lunches and drinks",
+    "Paragliding, cable car and other optional activities",
+    "Tips for drivers and guides",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing at 3-star hotels in October–March; the USD price includes the higher entry fees for foreign nationals.",
+    "Indian citizens need a passport or voter ID at Sonauli; other nationals need a passport and a Nepal visa, available on arrival at Belahiya. Check current status before you travel.",
+    "Bandipur rooms are in restored Newar houses with character but simple facilities.",
+    "Mountain views are most reliable from October to February; spring brings haze by mid-morning.",
+    "Monsoon landslides can affect the Siddhartha and Prithvi highways between June and September."
+  ],
+  "add_ons": [
+    {"name": "Paragliding tandem flight at Sarangkot", "price": "≈ ₹8,000 per person"},
+    {"name": "Bhaktapur half-day in Kathmandu", "price": "≈ ₹2,500 per car plus entry fee"}
+  ],
+  "faqs": [
+    {"q": "How do I travel from Sonauli to Kathmandu?", "a": "The direct road from Sonauli to Kathmandu is about 280 km via Butwal, Narayanghat and Mugling, taking 8–9 hours by car or tourist bus. You can also fly from Bhairahawa, 4 km from the border, to Kathmandu in 35 minutes. This tour takes eight days and stops at Lumbini, Tansen, Pokhara and Bandipur on the way."},
+    {"q": "Why stop in Tansen and Bandipur?", "a": "Both break long drives into comfortable halves and add two of Nepal's best-preserved hill towns. Tansen offers Newar lanes, Dhaka weaving and Himalayan sunrise; Bandipur has a car-free bazaar and views from its ridge. Without them, you would face two days of 7–8 hours in the car."},
+    {"q": "What does this tour cost per person?", "a": "It starts at about ₹33,000 per person for Indian nationals or US$ 420 for foreign nationals, twin sharing, with 3-star hotels, breakfast and dinner, a private car and driver for the whole route, border assistance and local guides. Monument fees in Kathmandu and lunches are extra."},
+    {"q": "Can I start this tour from Gorakhpur?", "a": "Yes. We can add an Indian car from Gorakhpur station or airport to Sonauli, about three hours, for an extra charge, and meet you at the border with the Nepal car. If you prefer a loop that returns to Gorakhpur, see our Nepal tour from Gorakhpur via Sonauli."},
+    {"q": "Is this tour good for honeymooners?", "a": "Yes. Couples enjoy the quiet of Lumbini, the hill-town evenings in Tansen and Bandipur, sunrise at Sarangkot and boating on Phewa Lake. We can upgrade Pokhara and Kathmandu to 4- or 5-star hotels with lake or garden views and add a candlelit dinner on request."},
+    {"q": "Can foreigners enter Nepal at Sonauli?", "a": "Yes. Sonauli–Belahiya is an official crossing for third-country nationals, with Indian exit and Nepal entry immigration offices. Most nationalities can get a Nepal visa on arrival here, paid in US dollars. Cross in daytime and keep a passport photo handy. Check current status before you travel."},
+    {"q": "How long are the drives on this tour?", "a": "Drives are 45 minutes on day 1, about 3 hours on day 2, 4.5–5 hours on day 3, 2.5 hours on day 5 and about 5 hours on day 6. Pokhara and Kathmandu days involve short city drives only. Highway works can add time, so we start early on longer days."},
+    {"q": "Can we bring our Indian car on this route?", "a": "Yes, with a customs pass from the Bhairahawa customs office, charged per day and limited to 30 days a year, plus RC, licence and insurance. But this is a one-way route ending at Kathmandu airport, so a Nepal car makes more sense. Check current status before you travel."},
+    {"q": "What is the best time for this Sonauli to Kathmandu tour?", "a": "October to April is best. October to February gives the clearest mountain views at Tansen, Sarangkot and Bandipur; March and April bring rhododendrons but hazier skies. May is hot in Lumbini, and the June to September monsoon brings cloud, rain and landslides on the hill roads."}
+  ]
+}

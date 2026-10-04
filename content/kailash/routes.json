@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "kathmandu-to-kyirong",
+    "from": "kathmandu",
+    "to": "kyirong",
+    "distance_km": 165,
+    "summary": "Kathmandu to Kyirong is about 165 km by road via Trishuli, Dhunche, Syabrubesi and the Rasuwagadhi border, normally 7–9 hours plus 2–4 hours of formalities. The crossing was destroyed by a flood on 26 August 2026; check current status before you travel.",
+    "options": [
+      {"mode": "Private jeep or coach", "time": "7–9 h + border", "text": "The usual way for yatra groups. A private vehicle leaves Kathmandu before dawn, follows the Trishuli valley to Betrawati, climbs to Dhunche and drops to Syabrubesi, then runs about 16 km to Rasuwagadhi. Many groups overnight in Syabrubesi to reach the border when it opens. After Chinese immigration, the Tibetan agency's vehicle covers the 25 km to Kyirong town. Expect landslides from late June to early September."},
+      {"mode": "Road in two days", "time": "2 days", "text": "Our standard yatra plan: day one Kathmandu to Syabrubesi (≈ 122 km, 7–8 h), with tea stops and a night at about 1,460 m; day two to the border and Kyirong (≈ 41 km plus formalities). It spreads the long drive, absorbs delays on the narrow road and lets the group cross early in the day, when queues are shorter."},
+      {"mode": "Helicopter + road", "time": "≈ 40 min flight + 2 h + border", "text": "A charter helicopter can fly from Kathmandu to Syabrubesi or a nearby helipad on the Nepal side in about 30–40 minutes when permitted, avoiding the worst of the road. You still drive to Rasuwagadhi and cross on foot. It is rarely used and depends on weather and landing permissions; we quote it on request. Floods in 2026 also damaged helipads in the Timure area."}
+    ],
+    "stops_on_way": ["Trishuli Bazaar", "Betrawati", "Dhunche", "Syabrubesi", "Timure", "Rasuwagadhi border"],
+    "tip": "Leave anything relating to the Dalai Lama, disputed-border maps and drones in Kathmandu, as every bag is scanned at the Chinese border post.",
+    "faqs": [
+      {"q": "How far is Kyirong from Kathmandu?", "a": "About 165 km by road: some 122 km from Kathmandu to Syabrubesi, about 16 km to the Rasuwagadhi border and roughly 25 km on the Tibetan side to Kyirong town. It takes 7–9 hours of driving plus 2–4 hours at the border, so most groups break the trip in Syabrubesi."},
+      {"q": "Is the Kathmandu–Kyirong road open?", "a": "The Rasuwagadhi crossing reopened on 1 January 2026 after a July 2025 flood, then a larger flood on 26 August 2026 destroyed the border post, bridge and customs area. No reopening date had been announced by autumn 2026. Check current status before you travel; Kailash groups are rerouted via Simikot or Lhasa meanwhile."},
+      {"q": "Can I travel from Kathmandu to Kyirong independently?", "a": "You can reach the Nepal side by public bus to Syabrubesi, but foreigners and Indian pilgrims may only enter Tibet on a group visa and permit with a licensed Tibetan agency, whose guide meets you at the border. Independent travel beyond the bridge is not allowed."},
+      {"q": "What is the best time to drive from Kathmandu to Kyirong?", "a": "May, early June, September and October, when the road is dry. From late June to early September monsoon rain triggers landslides and floods on both sides of the border, as the 2025 and 2026 disasters showed, and delays of a day or more are common."}
+    ]
+  },
+  {
+    "slug": "kyirong-to-lake-manasarovar",
+    "from": "kyirong",
+    "to": "lake-manasarovar",
+    "distance_km": 730,
+    "summary": "Kyirong to Lake Manasarovar is about 730 km across the Tibetan plateau via Saga, climbing from about 2,700 m to passes near 5,200 m. Yatra groups drive it in two days with a night in Saga, or three days with nights in Saga and Paryang.",
+    "options": [
+      {"mode": "Road via Saga (2 days)", "time": "5–6 h + 8–9 h", "text": "The standard plan: Kyirong to Saga (≈ 250 km) past Gyirong county town and Pelku Tso, with Shishapangma to the south, then Saga to Manasarovar (≈ 480 km) via Zhongba, Paryang and the Mayum La at roughly 5,200 m. Roads are paved and vehicles comfortable, but the second day is long and the altitude jump to Saga is large."},
+      {"mode": "Road in 3 days via Paryang", "time": "5–6 h + 4–5 h + 4–5 h", "text": "Adding a night at Paryang, a small roadside settlement on the high grassland between Zhongba and the Mayum La, halves the longest day and gives an extra night of acclimatisation before the lake. Guesthouses at Paryang are basic. We use this pattern for slower groups when permits allow."},
+      {"mode": "Road with 2 nights in Saga", "time": "3 days", "text": "Our senior pilgrims' yatra spends two nights at Saga, at about 4,640 m, before the long drive west. The rest day reduces fatigue and the risk of altitude sickness at Manasarovar and on the parikrama. It adds a day but makes the journey kinder for older travellers."}
+    ],
+    "stops_on_way": ["Gyirong county town", "Pelku Tso", "Saga", "Zhongba", "Paryang", "Mayum La"],
+    "tip": "Drink 3–4 litres of water on each driving day and keep a warm layer in the vehicle; the road crosses passes above 5,000 m.",
+    "faqs": [
+      {"q": "How long is the drive from Kyirong to Manasarovar?", "a": "About 730 km, usually driven in two days: Kyirong to Saga in 5–6 hours, then Saga to Manasarovar in 8–9 hours. Slower itineraries add a night at Paryang or a rest day in Saga. All sections are paved, with checkpoints where the guide shows permits."},
+      {"q": "What is the highest point between Kyirong and Manasarovar?", "a": "The Mayum La, at roughly 5,200 m, between Paryang and the lake. Passes on the Kyirong–Saga section also exceed 5,000 m. You stay only briefly at these points, but headaches can begin on the drive; tell your guide if symptoms appear."},
+      {"q": "Why do Kailash groups stop in Saga?", "a": "Saga is the only sizeable town between Kyirong and the lake, with heated hotels and restaurants, and it splits the 730 km journey roughly in thirds. It is also the first high night at about 4,640 m, so guides check oxygen levels there before continuing."},
+      {"q": "Can I see Mount Kailash on the drive from Saga?", "a": "On clear days, Kailash appears on the north-western horizon in the last stretch before Manasarovar, after the Mayum La, with Gurla Mandhata closer on the left. Most pilgrims first see it properly from the lakeshore that afternoon."}
+    ]
+  },
+  {
+    "slug": "simikot-to-lake-manasarovar",
+    "from": "simikot",
+    "to": "lake-manasarovar",
+    "distance_km": 140,
+    "summary": "From Simikot in Humla, Kailash pilgrims fly 20–30 minutes by helicopter to Hilsa, cross the bridge into Tibet, drive about an hour to Purang and, after acclimatising, about 75 km to Lake Manasarovar. Total distance is roughly 140 km.",
+    "options": [
+      {"mode": "Helicopter + road", "time": "20–30 min flight + 1 h, then 1.5–2 h", "text": "The usual yatra route. Helicopters shuttle pilgrims from Simikot (≈ 2,910 m) to Hilsa (≈ 3,640 m) in sorties of four or five on calm mornings. After Nepali exit and Chinese immigration, vehicles reach Purang (≈ 3,900 m) in about an hour. Groups normally spend one or two nights there before the 75 km, 1.5–2 hour drive past Rakshastal to Manasarovar."},
+      {"mode": "Trek + road", "time": "4–5 days on foot + 1 day by road", "text": "Trekkers walk from Simikot to Hilsa in 4–5 days along the Humla Karnali, over the Nara La at about 4,560 m and through Thakuri and Tibetan-style villages. It needs a Humla restricted area permit and a licensed guide, and gives excellent acclimatisation before Tibet. Some groups take the longer Limi valley route instead."},
+      {"mode": "Jeep road", "time": "Long day, when passable", "text": "A motor road has been pushed north from Simikot towards Hilsa for years. Some sections take jeeps in dry weather, but landslides, river crossings and closures make it unreliable for pilgrim groups. We do not plan yatras around it. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Humla Karnali gorge", "Hilsa", "Sher (Tibetan border post)", "Purang", "Rakshastal"],
+    "tip": "Pack your warm jacket and passport in the bag you carry on the helicopter; checked bags may follow on a later shuttle.",
+    "faqs": [
+      {"q": "How do I get from Simikot to Lake Manasarovar?", "a": "By a 20–30 minute helicopter flight to Hilsa, a walk across the border bridge, a one-hour drive to Purang and, after acclimatising, a 1.5–2 hour drive to the lake. Most groups take two to three days for this section, including one or two nights in Purang."},
+      {"q": "Can I reach Manasarovar from Simikot in one day?", "a": "It is physically possible on a clear morning with early border clearance, but we do not recommend it. Jumping from about 2,910 m to 4,590 m in one day raises the risk of altitude sickness. A night or two in Purang at about 3,900 m is much safer."},
+      {"q": "Is there a road from Simikot to Hilsa?", "a": "A motor road has been under construction for years and some sections take jeeps in dry weather, but it is rough and often blocked, so yatra groups fly. Trekkers walk the 4–5 day trail. Check current status before you travel."},
+      {"q": "What altitude gain is involved from Simikot to Manasarovar?", "a": "About 1,700 m in total: Simikot is at about 2,910 m, Hilsa about 3,640 m, Purang about 3,900 m and Manasarovar about 4,590 m. Splitting it with nights in Purang keeps each step manageable."}
+    ]
+  }
+]

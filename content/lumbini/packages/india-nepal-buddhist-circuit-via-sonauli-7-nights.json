@@ -1,0 +1,92 @@
+{
+  "slug": "india-nepal-buddhist-circuit-via-sonauli-7-nights",
+  "title": "India–Nepal Buddhist Circuit via Sonauli 7 Nights",
+  "region": "lumbini",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 7,
+  "themes": ["buddhist-circuit", "pilgrimage", "overland-from-india"],
+  "stops": [
+    {"place": "lumbini", "nights": 4},
+    {"place": "tilaurakot", "nights": 0},
+    {"place": "ramagrama", "nights": 0},
+    {"place": "devdaha", "nights": 0}
+  ],
+  "start": "Varanasi (airport or railway station)",
+  "end": "Gorakhpur (airport or railway station)",
+  "price_from_inr": 46000,
+  "price_from_usd": 590,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 190,
+  "accommodation": "3-star hotels in Varanasi, Kushinagar and Gorakhpur; 3-star hotel near the Sacred Garden in Lumbini",
+  "transport": "Private air-conditioned car in India; Nepal-registered car or minibus from the Sonauli–Belahiya border",
+  "group": "Private, 2–15",
+  "meta_description": "India–Nepal Buddhist circuit, 8 days: Sarnath, Kushinagar, Lumbini, Kapilavastu, Ramagrama and Devdaha overland via the Sonauli border, with guide and 3-star hotels.",
+  "summary": "Eight days linking the Buddha's first sermon, his passing and his birth: Sarnath near Varanasi, Kushinagar's Mahaparinirvana Temple, then across the Sonauli border to Lumbini, Tilaurakot, Ramagrama and Devdaha. Four nights in Lumbini, ending in Gorakhpur for trains and flights across India.",
+  "intro": [
+    "The Buddha's life plays out on both sides of today's India–Nepal border. He was born at Lumbini and grew up at Kapilavastu in Nepal's Terai, gave his first sermon at Sarnath near Varanasi and passed away at Kushinagar, about 50 km east of Gorakhpur. This circuit joins those places overland, crossing at Sonauli–Belahiya, the main border point for pilgrims. Drives are long on two days, but the rest of the trip is unhurried, with four nights based in Lumbini.",
+    "Indian pilgrims cross the border with a passport or voter ID and need no visa. Foreign nationals need a Nepal visa, available on arrival at Belahiya, and an Indian visa that permits re-entry by land at Sonauli; an Indian e-Visa does not currently allow entry at Sonauli, so plan to finish in Nepal or hold a regular visa. Bodh Gaya, Rajgir and Shravasti can be added as extensions."
+  ],
+  "highlights": [
+    "Dhamek Stupa and the Deer Park at Sarnath, site of the first sermon",
+    "Reclining Buddha at Kushinagar's Mahaparinirvana Temple and the Ramabhar cremation stupa",
+    "Overland crossing at Sonauli–Belahiya with our assistance",
+    "Maya Devi Temple, marker stone and Ashoka pillar at Lumbini",
+    "Tilaurakot's eastern gate and Ramagrama's unopened relic stupa",
+    "Devdaha, the maternal home of Maya Devi"
+  ],
+  "days": [
+    {"day": 1, "title": "Varanasi arrival and Sarnath", "place": "", "overnight": "Varanasi", "altitude_m": 80, "max_m": 80, "walk": "≈ 2 h · 3 km", "drive": "≈ 15 km · 40 min to Sarnath", "flight": "", "text": "Arrive in Varanasi by air or train and transfer to your hotel. In the afternoon, drive to Sarnath, where the Buddha gave his first sermon to five companions in the Deer Park. Visit the 5th-century Dhamek Stupa, the ruins of ancient monasteries, the Mulagandha Kuti Vihar with its wall paintings and, if open, the Sarnath Archaeological Museum with the lion capital that became India's national emblem. Return to Varanasi for an optional evening boat ride to see the Ganga aarti at Dashashwamedh Ghat.", "meals": "Dinner"},
+    {"day": 2, "title": "Drive to Kushinagar", "place": "", "overnight": "Kushinagar", "altitude_m": 95, "max_m": 95, "walk": "≈ 1 h", "drive": "≈ 260 km · 7 h", "flight": "", "text": "Leave Varanasi after an early breakfast for the long drive north-east across the Gangetic plain towards Kushinagar, with lunch on the way. Arrive in the late afternoon and visit the Mahaparinirvana Temple, where a 6 m reclining Buddha from the 5th century marks the place of his passing. Pilgrims often offer a robe of saffron cloth over the statue. As the light fades, sit by the stupa behind the temple while monks from Myanmar, Thailand and Sri Lanka chant.", "meals": "B, D"},
+    {"day": 3, "title": "Kushinagar to Lumbini via Sonauli", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 30 min across the border", "drive": "≈ 175 km · 5–6 h", "flight": "", "text": "Visit the Ramabhar Stupa, the brick mound marking the Buddha's cremation, in the morning light. Then drive via Gorakhpur to Sonauli, about four hours. Our representative meets you at the border and walks you through formalities: Indian citizens show their passport or voter ID; foreign nationals take an Indian exit stamp and a Nepal visa at Belahiya. A Nepal vehicle takes you on to Lumbini, 45 minutes away. Evening rest at your hotel near the Sacred Garden.", "meals": "B, D"},
+    {"day": 4, "title": "Maya Devi Temple and monastic zone", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 4 km", "drive": "", "flight": "", "text": "Begin at dawn in the Sacred Garden, where your guide leads you into the Maya Devi Temple to the marker stone, then to Ashoka's pillar with its inscription stating that the Buddha was born here. Circle the Puskarini pond and sit under the bodhi tree. After breakfast and rest, spend the late afternoon in the monastic zone by bicycle or battery rickshaw, from the Royal Thai Monastery and Myanmar Golden Temple to the Chinese and Korean temples, ending at the World Peace Pagoda.", "meals": "B, D"},
+    {"day": 5, "title": "Kapilavastu sites", "place": "tilaurakot", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h in short sections", "drive": "≈ 80 km · 3 h in total", "flight": "", "text": "Drive west into Kapilvastu district. At Tilaurakot, walk the walls of the Shakya capital to the eastern gate where Siddhartha left his father's palace, and see the finds in the Kapilvastu Museum. Visit Kudan, where tradition says the Buddha met King Suddhodana after enlightenment and ordained his son Rahula, and Gotihawa's Ashoka pillar stump. Lunch in Taulihawa. Return via Niglihawa, where Ashoka's pillar records the enlargement of Kanakamuni Buddha's stupa. Back in Lumbini for evening chanting.", "meals": "B, D"},
+    {"day": 6, "title": "Ramagrama and Devdaha", "place": "ramagrama", "overnight": "Lumbini", "altitude_m": 150, "max_m": 190, "walk": "≈ 2 h in short sections", "drive": "≈ 150 km · 4.5–5 h in total", "flight": "", "text": "Drive east to Ramagrama near Parasi, the relic stupa of the Koliyas, believed to be the only one of the eight original relic stupas never opened. After quiet time under the peepal tree, continue north to Devdaha, home of Maya Devi and Prajapati Gautami, visiting the Maya Devi shrine and the Rohini river area where the Buddha is said to have settled a water dispute between the Shakyas and Koliyas. Lunch in Butwal and return to Lumbini by late afternoon.", "meals": "B, D"},
+    {"day": 7, "title": "Lumbini to Gorakhpur via Sonauli", "place": "lumbini", "overnight": "Gorakhpur", "altitude_m": 84, "max_m": 150, "walk": "≈ 30 min across the border", "drive": "≈ 125 km · 3.5–4 h", "flight": "", "text": "A final dawn visit to the Sacred Garden for those who wish, then check out and drive to the Belahiya border. Cross into India at Sonauli with our assistance; foreign nationals need a valid Indian visa that allows land entry. An Indian vehicle drives you to Gorakhpur, about three hours, arriving by mid-afternoon. If time allows, visit the Gorakhnath Temple, one of the region's most important Hindu shrines. Overnight in Gorakhpur.", "meals": "B, D"},
+    {"day": 8, "title": "Departure from Gorakhpur", "place": "", "overnight": "", "altitude_m": 84, "max_m": 84, "walk": "", "drive": "Hotel to station or airport", "flight": "", "text": "After breakfast, transfer to Gorakhpur Junction for trains to Delhi, Mumbai, Kolkata or Varanasi, or to Gorakhpur airport for domestic flights. Pilgrims extending to Shravasti or Bodh Gaya continue with our India partner from here. Gorakhpur Junction is a busy station, so we drop you with time to find your platform comfortably.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini"],
+  "includes": [
+    "7 nights at 3-star hotels (Varanasi 1, Kushinagar 1, Lumbini 4, Gorakhpur 1), twin sharing",
+    "Daily breakfast and dinner",
+    "Private air-conditioned car in India and a Nepal-registered car in Nepal",
+    "Border crossing assistance at Sonauli–Belahiya",
+    "Local guides at Sarnath, Kushinagar, Lumbini and the Nepal circuit sites",
+    "Entry fees at Sarnath, Lumbini, Tilaurakot and the Kapilvastu Museum",
+    "Bicycle or battery rickshaw in Lumbini's monastic zone",
+    "Arrival and departure transfers",
+    "Bottled water in the vehicle"
+  ],
+  "excludes": [
+    "Flights and trains to Varanasi and from Gorakhpur",
+    "Nepal visa fee and Indian visa for non-Indian nationals",
+    "Lunches and drinks",
+    "Ganga aarti boat ride in Varanasi",
+    "Offerings, robes and donations at temples",
+    "Tips for guides and drivers",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing at 3-star hotels in October–March; groups of 8 or more travel in a minibus at a lower rate.",
+    "Indian citizens need a passport or voter ID to enter Nepal; other nationals need a passport, Nepal visa and an Indian visa valid for land entry at Sonauli. Check current status before you travel.",
+    "Indian e-Visa holders can generally exit India at Sonauli but cannot re-enter there on an e-Visa under current rules; reverse the route or hold a regular visa.",
+    "Days 2, 3 and 7 involve 4–7 hours of driving; Indian highway conditions vary, and we build in rest stops.",
+    "Foreign nationals pay higher entry fees at Lumbini and Indian monuments; the USD price includes these."
+  ],
+  "add_ons": [
+    {"name": "Bodh Gaya and Rajgir extension (2 nights before Varanasi)", "price": "≈ ₹16,000 per person"},
+    {"name": "Shravasti extension (1 night after Lumbini)", "price": "≈ ₹9,000 per person"}
+  ],
+  "faqs": [
+    {"q": "Which Buddhist places are in India and which in Nepal?", "a": "In Nepal: Lumbini (birth), Tilaurakot or Kapilavastu (childhood), Kudan, Ramagrama and Devdaha. In India: Bodh Gaya (enlightenment), Sarnath (first sermon), Kushinagar (passing), plus Rajgir, Vaishali and Shravasti. This tour covers Sarnath and Kushinagar in India and all the main Nepal sites, crossing at Sonauli."},
+    {"q": "How far is Kushinagar from Lumbini?", "a": "About 175 km by road via Gorakhpur and the Sonauli border, typically 5–6 hours including the crossing. Kushinagar to Gorakhpur is about 53 km, Gorakhpur to Sonauli about 95 km, and Sonauli to Lumbini about 26 km. We include border assistance on this day."},
+    {"q": "Can foreigners do the India–Nepal Buddhist circuit overland?", "a": "Yes. Foreign nationals exit India at Sonauli and get a Nepal visa on arrival at Belahiya. To return to India by land, you need a regular Indian visa, as e-Visas do not currently permit entry at Sonauli. Check current status before you travel; we can reverse the route to end in Nepal if needed."},
+    {"q": "What is the cost of the India–Nepal Buddhist circuit?", "a": "This 7-night tour starts at about ₹46,000 per person for Indian nationals, or US$ 590 for foreign nationals, twin sharing, with 3-star hotels, breakfast and dinner, private vehicles in both countries, guides and main entry fees. Adding Bodh Gaya and Rajgir costs about ₹16,000 more per person."},
+    {"q": "Do Indian pilgrims need a passport for this tour?", "a": "No. Indian citizens can cross into Nepal with a valid passport or Election Commission voter ID. Under current rules, children under 15 and adults over 65 can usually use another photo ID with age proof. Carry the same document for the return crossing. Check current status before you travel."},
+    {"q": "Can we use the same car in India and Nepal?", "a": "Indian vehicles can enter Nepal with a customs pass from the Bhairahawa customs office, charged per day and limited to 30 days a year. We usually change to a Nepal-registered car at the border because local drivers know Nepal's roads and rules. Check current status before you travel."},
+    {"q": "Can we add Bodh Gaya to this tour?", "a": "Yes. Bodh Gaya, where the Buddha attained enlightenment, is about 250 km from Varanasi. Our 2-night Bodh Gaya and Rajgir extension starts in Gaya and drives to Varanasi to join day 1. Alternatively, fly into Gaya and add the extension at the start."},
+    {"q": "What is the best time for this circuit?", "a": "October to March is best on both sides of the border, with mild days and cool nights. December and January bring dense fog on north Indian highways in the mornings, so drives may start later. Avoid April to June for the heat and July to September for monsoon flooding."},
+    {"q": "Is this tour suitable for elderly pilgrims?", "a": "Yes, with some planning. Sites are flat with short walks, and hotels are comfortable 3-star properties. The long drives on days 2 and 3 are the hardest part; we stop every two hours and can split the Kushinagar drive with an extra night in Gorakhpur on request."}
+  ]
+}

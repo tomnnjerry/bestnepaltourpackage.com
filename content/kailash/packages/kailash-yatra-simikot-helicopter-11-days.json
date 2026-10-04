@@ -1,0 +1,99 @@
+{
+  "slug": "kailash-yatra-simikot-helicopter-11-days",
+  "title": "Kailash Yatra via Simikot by Helicopter, 11 Days",
+  "region": "kailash",
+  "type": "yatra",
+  "grade": "Challenging",
+  "nights": 10,
+  "themes": ["heli-tours", "kailash-yatra", "pilgrimage"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "nepalgunj", "nights": 2},
+    {"place": "purang", "nights": 3},
+    {"place": "lake-manasarovar", "nights": 1},
+    {"place": "darchen", "nights": 1},
+    {"place": "mount-kailash", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 295000,
+  "price_from_usd": 3430,
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "max_altitude_m": 5630,
+  "accommodation": "3-star hotels in Kathmandu and Nepalgunj, hotel in Purang, guesthouses at Manasarovar, Darchen and on the parikrama",
+  "transport": "Kathmandu–Nepalgunj and Nepalgunj–Simikot flights, Simikot–Hilsa helicopter, Tibetan agency vehicles",
+  "group": "Fixed-departure groups of 10–25, or private groups of 5+",
+  "meta_description": "Kailash yatra via Nepalgunj, Simikot and Hilsa by helicopter, 11 days from Kathmandu: itinerary, price, weather delays, baggage limits and visa rules.",
+  "summary": "The shortest practical route to Kailash from Nepal: fly Kathmandu–Nepalgunj–Simikot, hop by helicopter to Hilsa, cross into Tibet at Purang, then Manasarovar and the three-day parikrama over Dolma La. 11 days, minimal road travel, from ₹2,95,000. Weather can delay flights, so keep return plans flexible.",
+  "intro": [
+    "This route skips the long drives of the overland yatra. You fly from Kathmandu to Nepalgunj on the plains, then by small aircraft to Simikot (≈ 2,910 m) in Humla, and by helicopter up the Humla Karnali to Hilsa (≈ 3,640 m) on the border. After crossing on foot into Tibet, it is about an hour to Purang (≈ 3,900 m), where two nights let the body adapt before Lake Manasarovar and the parikrama. Altitude climbs in steady steps, which suits many pilgrims.",
+    "The catch is weather. Simikot flights and the helicopter sector need clear mornings, and cloud or wind can hold a group for a day or more, especially in July and August. Baggage limits on the small aircraft and helicopter are strict, around 10–15 kg per person. Rules for Indian passport holders, Hilsa border hours and helicopter landing permissions have changed over recent seasons; check current status before you travel."
+  ],
+  "highlights": [
+    "Helicopter hop up the Humla Karnali from Simikot to Hilsa",
+    "Walk across the Hilsa bridge into Tibet",
+    "Two acclimatisation nights in Purang with Khorzhak monastery",
+    "Rakshastal and Lake Manasarovar holy dip and bus parikrama",
+    "Three-day Kailash parikrama over Dolma La (≈ 5,630 m)",
+    "Only short drives in Tibet; no long plateau crossings"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, briefing", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Arrival in Kathmandu and transfer to a 3-star hotel. In the evening the tour leader runs the full briefing: route, baggage limits on the Simikot flight and helicopter (about 10–15 kg each), border rules, altitude sickness, and pony and porter hire at Darchen. We check passports, visa documents and medical certificates and issue duffel bags. Pilgrims arriving early can visit Pashupatinath for darshan in the afternoon.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Kathmandu–Nepalgunj · 1 h", "text": "A one-hour flight west takes the group to Nepalgunj in the Terai, a hot border town close to Uttar Pradesh. Afternoons here reach 35–40 °C in May and June, a sharp contrast with what lies ahead. After checking in, we visit the Bageshwari temple, one of the Shakti peeths, for evening aarti. Repack into the soft duffel for the small aircraft and leave extra luggage at the hotel store.", "meals": "B, L, D"},
+    {"day": 3, "title": "Simikot flight, heli to Hilsa, Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Hilsa–Purang · ≈ 28 km · 1 h", "flight": "Nepalgunj–Simikot · 45 min; Simikot–Hilsa heli · 20–30 min", "text": "Early flight by small aircraft to Simikot, about 45 minutes over the Mahabharat and Himalayan ranges. Helicopters then shuttle the group to Hilsa in sorties of four or five, about 20–30 minutes each, before wind builds. Once everyone has landed, we clear Nepali exit, walk across the bridge and complete Chinese immigration, then drive about an hour to Purang. If weather stops flights, we wait in Nepalgunj or Simikot and the plan shifts by a day.", "meals": "B, L, D"},
+    {"day": 4, "title": "Acclimatisation in Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4000, "walk": "≈ 1.5–2 h gentle walk", "drive": "≈ 40 km return to Khorzhak", "flight": "", "text": "A rest day at about 3,900 m to help the body adapt. In the morning we drive down the Karnali to Khorzhak monastery, known to Hindus as Khojarnath, whose silver images are revered as Ram, Sita and Lakshman. In the afternoon, a gentle walk above town or through the Taklakot market. Drink 3–4 litres of water, eat well and sleep early. The guide checks oxygen saturation morning and evening.", "meals": "B, L, D"},
+    {"day": 5, "title": "Rakshastal and Lake Manasarovar", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 75 km + lake circuit ≈ 90–100 km · 6–7 h", "flight": "", "text": "We drive north beneath Gurla Mandhata, stopping at Rakshastal, the lake of Ravana, then reach Manasarovar. The group takes the parikrama by bus around the lake with stops at ghats for the holy dip or bucket snan, as local rules allow that season, followed by puja and havan facing Kailash. Overnight at Chiu on the north-west shore. If you feel well, climb to Chiu Gompa for sunset over the lake.", "meals": "B, L, D"},
+    {"day": 6, "title": "Manasarovar to Darchen", "place": "darchen", "overnight": "Darchen", "altitude_m": 4575, "max_m": 4600, "walk": "Optional short walks", "drive": "≈ 35 km · 45 min", "flight": "", "text": "A quiet morning by the lake for sunrise prayers and filling bottles with Manasarovar jal, then a short drive to Darchen at the foot of Kailash's south face. Our guide books ponies and porters through the local cooperative and helps everyone pack a small bag for the parikrama. Pilgrims staying behind can take the optional Ashtapad darshan trip. Early dinner and sleep.", "meals": "B, L, D"},
+    {"day": 7, "title": "Parikrama day 1 to Dirapuk", "place": "mount-kailash", "overnight": "Dirapuk", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 12 km · 5–7 h", "drive": "Eco-bus to Yam Dwar · 20 min", "flight": "", "text": "The eco-bus drops us at Yam Dwar beside the Tarboche flagpole, where the parikrama begins. The trail follows the broad Lha Chu valley north between red cliffs, about 12 km with roughly 225 m of gain, to Dirapuk at about 4,900 m. In the afternoon the north face of Kailash stands across the river, the closest view on the circuit. Basic guesthouse dorm rooms tonight. Non-walkers remain in Darchen with a staff member.", "meals": "B, L, D"},
+    {"day": 8, "title": "Dolma La and down to Zuthulpuk", "place": "mount-kailash", "overnight": "Zuthulpuk", "altitude_m": 4790, "max_m": 5630, "walk": "≈ 20–22 km · 10–12 h", "drive": "", "flight": "", "text": "Pre-dawn start by headtorch for the 3–4 hour climb of about 730 m past Shiva-sthal to the Dolma La at approximately 5,630 m. Prayer flags, wind and a few minutes of prayer at the top, then a steep descent past Gauri Kund and a long walk along the Lham Chu Khir valley to Zuthulpuk at about 4,790 m. Ponies help on the climb but riders must walk the steepest stretch down.", "meals": "B, L, D"},
+    {"day": 9, "title": "Finish the kora, drive to Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4790, "walk": "≈ 9–10 km · 3–4 h", "drive": "≈ 100 km · 2–3 h", "flight": "", "text": "Morning visit to Milarepa's cave at Zuthulpuk, then an easy walk of 9–10 km down the gorge to Zongdo and the eco-bus to Darchen, where the group reunites. After lunch we drive back past Manasarovar and Rakshastal to Purang, losing about 700 m of altitude. A hot shower and a proper bed feel very welcome. Tips for horsemen and porters are settled at Zongdo.", "meals": "B, L, D"},
+    {"day": 10, "title": "Hilsa heli and fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Purang–Hilsa · 1 h", "flight": "Hilsa–Simikot heli · 20–30 min; Simikot–Nepalgunj · 45 min", "text": "Early drive to the border, Chinese exit formalities and the walk back across the bridge to Hilsa. Helicopters shuttle the group to Simikot, and if the schedule and weather allow, the afternoon flight continues to Nepalgunj. If not, we overnight in a simple lodge in Simikot and fly the next morning. Clocks move back 2 hours 15 minutes once in Nepal.", "meals": "B, L, D"},
+    {"day": 11, "title": "Fly to Kathmandu, tour ends", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Nepalgunj–Kathmandu · 1 h", "text": "Morning flight back to Kathmandu, where the yatra ends on arrival at the airport, or connecting flights home. Pilgrims returning to India by road can instead cross at Rupaidiha, 6 km from Nepalgunj. We recommend booking international flights for the next day, or flexible tickets, because weather delays on the Simikot sector are common.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and hotel nights in Kathmandu and Nepalgunj, twin sharing",
+    "Kathmandu–Nepalgunj–Simikot return flights and Simikot–Hilsa return helicopter sector",
+    "Chinese group visa processing support and Tibet Travel Permit with all area permits",
+    "Tibetan agency vehicles, eco-buses at the lake and kora, and Hilsa border transfers",
+    "Accommodation in Purang, Manasarovar, Darchen, Dirapuk and Zuthulpuk",
+    "All meals from day 1 dinner, with Indian vegetarian food in Tibet",
+    "Nepali tour leader and licensed Tibetan guide",
+    "Oxygen cylinders, pulse oximeter and first-aid kit",
+    "Down jacket and duffel bag on loan"
+  ],
+  "excludes": [
+    "International flights and travel to and from Kathmandu",
+    "Chinese visa fees and any nationality-specific surcharges",
+    "Pony, horseman and porter on the parikrama",
+    "Travel insurance with high-altitude and helicopter evacuation cover (mandatory)",
+    "Extra nights, meals and charter costs caused by weather delays",
+    "Excess baggage charges on small aircraft and helicopter",
+    "Tips, drinks, laundry and personal expenses",
+    "Ashtapad darshan (optional)"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing, a group of at least 10 and standard-season rates; it includes the shared helicopter sector at the normal load of four or five passengers per sortie.",
+    "Helicopters fly mainly in the morning and need clear weather; afternoon wind and cloud often stop flights. Payload falls at altitude, so groups shuttle in several sorties. People with heart or lung conditions, or who are pregnant, should not take part in high-altitude flights.",
+    "Baggage on the Simikot flight and helicopter is limited to about 10–15 kg per person including hand luggage; the rest is stored in Nepalgunj.",
+    "Rules for Indian passport holders on the Nepal routes, including where visas are issued, biometrics, fees and age limits, have changed several times since 2023. Check current status before you travel.",
+    "An age limit of around 70 has applied on the Nepal routes in recent seasons, with a medical fitness certificate required. Treat this as guidance only.",
+    "The Government of India's official yatra via Lipulekh and Nathu La is a separate scheme run by the Ministry of External Affairs."
+  ],
+  "add_ons": [
+    {"name": "Pony and horseman for the 3-day parikrama", "price": "≈ US$ 450–550, set locally each season"},
+    {"name": "Private helicopter charter Simikot–Hilsa for your family", "price": "On request, from ≈ US$ 2,500 per sortie each way"},
+    {"name": "Extra night in Nepalgunj or Simikot", "price": "≈ ₹4,000–6,000 per person"}
+  ],
+  "faqs": [
+    {"q": "How much does Kailash yatra by helicopter via Simikot cost?", "a": "Our 11-day Simikot heli yatra starts from ₹2,95,000 (US$3,430) per person, twin sharing, in a group of 10 or more. It covers flights from Kathmandu, the helicopter sector, permits, accommodation, meals and guides. Visa fees, ponies, insurance and delay costs are extra. Fees for Indian passport holders have changed often; check current status."},
+    {"q": "Is the whole journey to Kailash by helicopter?", "a": "No. Only the Simikot–Hilsa sector is by helicopter, about 20–30 minutes. You fly Kathmandu–Nepalgunj and Nepalgunj–Simikot on fixed-wing aircraft, then drive in Tibet. Helicopters are not permitted to land at Manasarovar or Kailash for tourists."},
+    {"q": "What happens if Simikot flights are cancelled?", "a": "The group waits in Nepalgunj or Simikot until the weather clears, usually a day. The Tibetan agency shifts permit dates where possible. Extra hotel nights and meals are charged at cost. That is why we recommend flexible onward flights and insurance with trip delay cover."},
+    {"q": "Is the Simikot route better for senior citizens?", "a": "It avoids long drives and gains altitude gradually via Simikot, Hilsa and Purang, which many seniors prefer. However, waiting for flights can be tiring and facilities at Simikot and Hilsa are basic. Seniors should get a full medical check first; an age limit of about 70 has applied recently."},
+    {"q": "How much luggage can I carry on the helicopter route?", "a": "Around 10–15 kg per person including hand luggage, weighed with you, on both the Simikot flight and the helicopter. Pack warm clothing, medicines and essentials in a soft duffel. Extra bags stay at the hotel in Nepalgunj and are returned on the way back."},
+    {"q": "When is the best time for the Simikot heli route?", "a": "Late May, June and September give the most reliable flying weather. July and August bring monsoon cloud that frequently delays flights, though the yatra runs. October is possible until early in the month. Tibet permits are generally issued from May to mid-October."},
+    {"q": "Do Indian pilgrims get their visa in Kathmandu for this route?", "a": "In recent seasons, resident Indian pilgrims have had their Chinese group visa processed through the Chinese embassy in New Delhi, with original passports submitted weeks ahead, while other nationals apply in Kathmandu. The process has changed several times since 2023. Check current status before you travel."},
+    {"q": "How many days of walking are there?", "a": "Three days of parikrama: about 12 km on day one, 20–22 km over Dolma La on day two and 9–10 km on day three. Short walks at Purang and Manasarovar add a little. Ponies are available for much of the parikrama."},
+    {"q": "Can I start this yatra from Lucknow instead of Kathmandu?", "a": "Yes. Our Kailash yatra from Lucknow drives you to Nepalgunj via the Rupaidiha border and joins the same Simikot–Hilsa route, avoiding Kathmandu altogether. It includes an extra night at Manasarovar."}
+  ]
+}

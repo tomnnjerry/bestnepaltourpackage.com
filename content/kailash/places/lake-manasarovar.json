@@ -1,0 +1,132 @@
+{
+  "slug": "lake-manasarovar",
+  "name": "Lake Manasarovar",
+  "region": "kailash",
+  "kind": "lake",
+  "wiki": "Lake Manasarovar",
+  "image_query": "Lake Manasarovar Chiu Gompa Kailash",
+  "lat": 30.67,
+  "lng": 81.46,
+  "altitude_m": 4590,
+  "tagline": "Sacred freshwater lake at ≈ 4,590 m, facing Kailash and Gurla Mandhata",
+  "meta_description": "Lake Manasarovar (≈ 4,590 m): Mansarovar parikrama by bus, holy dip rules, Chiu Gompa, Rakshastal, best months and how to reach via Nepal.",
+  "summary": "Lake Manasarovar, or Mapam Yumtso, is a freshwater lake at about 4,590 m, 35 km south of Mount Kailash. Hindus believe it was created in the mind of Brahma. Pilgrims drive around its shore (about 90–100 km), perform puja and take a holy dip or bucket snan, and spend one or two nights at Chiu.",
+  "intro": [
+    "Lake Manasarovar lies at roughly 4,590 m on the plain between Mount Kailash to the north and Gurla Mandhata (7,694 m) to the south. It covers about 410 sq km, and on a still morning the water turns from steel grey to deep blue as the sun clears the hills. In Hindu belief the lake was formed in the mind of Brahma, and a dip here washes away the sins of many lifetimes. Buddhists know it as Mapam Yumtso, the unconquerable lake, and several monasteries stand on its shore.",
+    "For a Kailash yatra the lake is the second great act after the parikrama, and on most itineraries it comes first, because the nights here at about 4,590 m help the body adapt before the walk. Pilgrims take the Mansarovar parikrama by bus on a road around the shore, stop at ghats for puja, havan and a holy dip, and collect water to take home. Chiu Gompa on the north-west shore looks across to Kailash on clear days.",
+    "Immediately west, separated by a low ridge, is Rakshastal, a saltwater lake associated with Ravana. The two lakes are linked by the Ganga Chhu channel. Groups reach Manasarovar from Saga in the east on the overland route, or from Purang in the south after crossing at Hilsa. Rules on bathing, eco-bus use and camping change from season to season; check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 4,590 m"],
+    ["Best months", "May – Jun · Sep"],
+    ["Nights we suggest", "1–2 (often at Chiu)"],
+    ["Nearest airport", "Ngari Gunsa (Tibet) or Simikot (Nepal)"],
+    ["From Kathmandu", "≈ 4–5 days overland or 3–4 days via Simikot"],
+    ["Known for", "Holy dip, puja and havan, lake parikrama, Kailash views"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "Parikrama of the lake by bus", "text": "The road around the shore is about 90–100 km and takes half a day with stops. Pilgrims usually travel clockwise, pausing at ghats, monasteries and viewpoints where both Kailash and Gurla Mandhata are visible across the water."},
+    {"title": "Holy dip and bucket snan", "text": "Taking a snan in Manasarovar is a central rite for Hindu pilgrims. In recent seasons authorities have restricted bathing directly in the lake at several points, so many groups pour lake water over themselves at designated spots instead. Water is around 5–10 °C even in summer."},
+    {"title": "Chiu Gompa at sunrise", "text": "The small monastery of Chiu stands on a rocky hill above the north-west shore, at the outflow towards Rakshastal. From its roof Kailash appears to the north and the lake fills the south; dawn here is the photograph most yatris carry home."},
+    {"title": "Puja and havan at the shore", "text": "Our pandit-led groups perform Rudrabhishek or a simple havan by the lake on the first full day, with offerings carried from India. Fire on the open shore depends on wind and local rules, so the priest may adapt the rites on the day."},
+    {"title": "Night sky and the lights", "text": "At 4,590 m, far from towns, the sky on a moonless night is thick with stars. Many pilgrims stay up to watch for the lights some believe are celestial beings bathing in the lake before dawn, a story told in nearly every group."},
+    {"title": "Rakshastal next door", "text": "The saltwater lake of Ravana lies just west, still and bare with red islands. It is a short drive from Chiu and a strong contrast with Manasarovar: no rituals are done here, but the view of Kailash across it is striking."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Saga it is about 480 km (8–9 h) west via Zhongba, Paryang and the Mayum La at roughly 5,200 m. From Purang it is about 75 km (1.5–2 h) north past Rakshastal. Darchen is about 35 km (≈ 45 min) from Chiu."},
+    {"mode": "Helicopter", "text": "On the Nepal heli route, a helicopter carries pilgrims from Simikot to Hilsa in about 20–30 minutes; the drive to the lake via Purang follows the same day if weather and border timing allow."},
+    {"mode": "Air", "text": "Kathmandu–Nepalgunj (≈ 1 h) and Nepalgunj–Simikot (≈ 45 min) are the flights on the Nepal side. Inside Tibet, Ngari Gunsa airport near Ali is about 330 km away and is used mainly on itineraries arranged from Lhasa."}
+  ],
+  "where_to_stay": "Accommodation by the lake is simple. Most groups sleep at Chiu village on the north-west shore in guesthouses with twin or triple rooms, quilts and shared or basic attached toilets; hot water comes by flask. Some itineraries stay at Hor Qu on the eastern side instead. Electricity is often limited to evenings. There are no branded or star-rated hotels at Manasarovar, and we do not list any. Bring a warm sleeping bag rated to about −10 °C, a headtorch and wet wipes; nights fall below freezing even in June.",
+  "stays": [],
+  "tips": [
+    "Spend at least one full day at the lake before the parikrama; it is the best acclimatisation the route offers.",
+    "Carry empty bottles or a sealed jerrycan for Manasarovar jal, but check airline rules on liquids for the flight home.",
+    "Keep the holy dip short and warm up straight after with dry clothes and hot tea; hypothermia is a real risk.",
+    "Wear sunglasses and sunscreen even on cloudy days; reflected light off the water burns quickly at this height.",
+    "Ask your guide which ghats allow bathing this season before you change; rules are set locally and enforced."
+  ],
+  "themes": ["kailash-yatra", "pilgrimage", "photography"],
+  "nearby": ["mount-kailash", "darchen", "purang"],
+  "experiences": [
+    {
+      "slug": "mansarovar-parikrama-by-bus",
+      "title": "Mansarovar parikrama by bus",
+      "kind": "spiritual",
+      "duration": "4–5 hours",
+      "best_time": "Morning, May–Sep",
+      "price_hint": "Included in our Kailash yatras",
+      "image_query": "Manasarovar lake shore Gurla Mandhata",
+      "wiki": "",
+      "summary": "A half-day drive of about 90–100 km around Lake Manasarovar, usually clockwise, stopping at ghats for puja, at shore monasteries and at viewpoints where Kailash and Gurla Mandhata both rise over the water.",
+      "body": [
+        "Groups usually start from Chiu or Hor Qu after breakfast. Private vehicles have been replaced on parts of the shore road by the official eco-bus in recent seasons; your Tibetan guide handles tickets and timing. The first stops on the southern shore look across the lake to Kailash, small and white on the horizon, with the long ridge of Gurla Mandhata at your back.",
+        "Along the way you pass Seralung, Trugo and other shore gompas, prayer-flag cairns and stretches where the water laps at pebble beaches. The pace is relaxed, with time at each ghat for prayers and for filling water bottles. At about 4,590 m even a short walk from bus to water can leave you breathless, so take the steps slowly and keep drinking warm water.",
+        "Most groups pause at a southern ghat for the main puja and holy dip, then complete the circuit to Chiu by early afternoon. The rest of the day is for rest and acclimatisation before Darchen. Bring a warm layer, sun hat and snacks; there are few shops on the far shore."
+      ],
+      "good_for": ["pilgrims", "seniors", "families", "groups"],
+      "faqs": [
+        {"q": "How long is the Mansarovar parikrama by bus?", "a": "The road around the lake covers about 90–100 km and takes 4–5 hours with stops for puja, a holy dip and photographs. Some groups do it in a morning and rest in the afternoon at Chiu. On foot the circuit takes three to four days, which few visitors attempt."},
+        {"q": "Can I do Mansarovar parikrama if I am not walking the Kailash kora?", "a": "Yes. The lake circuit is by vehicle and needs very little walking, so it suits seniors and anyone who stays at Darchen during the Kailash parikrama. Our Mansarovar-only yatra is built around it. You still need to be fit enough for nights at about 4,590 m."},
+        {"q": "Which direction do pilgrims go around Lake Manasarovar?", "a": "Hindus and Buddhists go clockwise, keeping the lake on their right; Bon followers go anticlockwise. Bus circuits generally follow the clockwise direction, though the driver may adjust the order of stops for road works or eco-bus timings set locally that season."}
+      ]
+    },
+    {
+      "slug": "mansarovar-holy-dip-and-puja",
+      "title": "Holy dip, puja and havan at Manasarovar",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Late morning when the sun is strongest",
+      "price_hint": "Puja materials ≈ ₹2,000–5,000 per family",
+      "image_query": "pilgrims puja Lake Manasarovar shore",
+      "wiki": "",
+      "summary": "The central rite of the yatra: a snan in the sacred water, followed by puja or havan led by the group's pandit, and collecting Manasarovar jal to take home. Rules on bathing directly in the lake vary by season and spot.",
+      "body": [
+        "We time the dip for late morning, when the sun has warmed the air to perhaps 10–15 °C in June. Where bathing in the lake is allowed, pilgrims wade in from a pebble beach, dip three times and come straight out. Where it is not, the guide fills buckets from the lake and pilgrims pour the water over themselves on the shore. Either way, have a towel, dry thermals and a windproof jacket laid out before you begin.",
+        "After the snan, the group's pandit leads puja facing Kailash. Some groups perform a short havan in a portable kund, others a Rudrabhishek with offerings brought from India. Open fire depends on wind and local regulations. Families often perform shraddha rites for ancestors here, so tell us in advance if you need a priest for a specific ceremony.",
+        "Before leaving, fill sealed bottles with lake water and pick a few smooth stones from the shore if you wish. Do not leave plastic, cloth or puja waste behind; we carry it out. Rest afterwards, warm up with tea and soup, and keep exertion low for the remaining hours."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "groups"],
+      "faqs": [
+        {"q": "Is it allowed to take a holy dip in Mansarovar?", "a": "In recent seasons Tibetan authorities have restricted bathing directly in the lake at many points, while allowing pilgrims to bathe with lake water at designated places. The rule has changed more than once, so check current status before you travel. Our guide confirms the arrangement on arrival and chooses a permitted ghat."},
+        {"q": "How cold is Lake Manasarovar water?", "a": "Even in June and July the water is about 5–10 °C and the air often below 15 °C with a strong wind. A dip should last seconds, not minutes. Anyone with heart conditions or high blood pressure should take a symbolic snan with a little water poured on the head instead of entering the lake."},
+        {"q": "Can I bring Mansarovar water back to India?", "a": "Yes, pilgrims commonly carry it home. Use sealed plastic bottles or a small jerrycan in checked luggage, since cabin limits apply to liquids on flights from Kathmandu or Nepalgunj. Customs at the Nepal–Tibet border rarely object to modest amounts, but very large quantities may be questioned."}
+      ]
+    },
+    {
+      "slug": "rakshastal-lake-viewpoint",
+      "title": "Rakshastal, the lake of Ravana",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Afternoon light, May–Sep",
+      "price_hint": "Included on the Purang–Manasarovar drive",
+      "image_query": "Lake Rakshastal Kailash view",
+      "wiki": "Lake Rakshastal",
+      "summary": "A short stop at the saltwater lake just west of Manasarovar, at about 4,575 m. It is linked to Ravana's penance in the Ramayana, has no rituals, and gives a clean, open view of Kailash across bare red islands.",
+      "body": [
+        "Rakshastal lies along the road between Purang and Manasarovar, so pilgrims on the Hilsa route see it on arrival. Overland groups reach it with a short drive from Chiu. The lake is about 4,575 m and covers roughly 250 sq km, with a few rust-coloured islands and almost no vegetation on its shores. On calm days the reflection of Kailash lies in the water.",
+        "In Hindu tradition this is where Ravana performed penance to please Shiva, and it is considered inauspicious for bathing or offerings. Tibetans call it Lhanag Tso, the dark lake of poison. Pilgrims stop to see it, take photographs and continue; the contrast with the life around Manasarovar is the point of the visit.",
+        "Wind picks up strongly in the afternoon, so carry a warm jacket even if the sun is out. The road verges are soft; stay where the driver parks and walk to the shore on firm ground. The stop takes an hour or so, and it fits neatly into the transfer day."
+      ],
+      "good_for": ["photographers", "pilgrims", "families", "groups"],
+      "faqs": [
+        {"q": "Why do pilgrims not bathe in Rakshastal?", "a": "Rakshastal is associated with Ravana's penance and is considered inauspicious for rituals in Hindu tradition. Its water is also saline. Pilgrims view it, photograph Kailash across it and move on to Manasarovar for the snan and puja. No offerings are made at Rakshastal by most groups."},
+        {"q": "How far is Rakshastal from Lake Manasarovar?", "a": "The two lakes are separated by a narrow ridge only a few kilometres wide and linked by the Ganga Chhu channel. From Chiu Gompa it is a drive of about 15–30 minutes to a Rakshastal viewpoint, and the Purang–Manasarovar road runs along its eastern shore."},
+        {"q": "Is Rakshastal higher or lower than Manasarovar?", "a": "Rakshastal is slightly lower, at about 4,575 m, compared with about 4,590 m for Manasarovar. When Manasarovar is full, water flows west through the Ganga Chhu into Rakshastal, which has no outflow of its own and is therefore salty."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Lake Manasarovar?", "a": "Lake Manasarovar is at approximately 4,590 m (about 15,060 ft); sources quote figures between 4,556 and 4,600 m. That is higher than the summit of most Alpine peaks, so plan at least one full night there before the Kailash parikrama, drink 3–4 litres of water a day and avoid exertion on arrival."},
+    {"q": "Can I see Mount Kailash from Lake Manasarovar?", "a": "Yes, on clear days Kailash is visible to the north from the western and southern shores, especially from Chiu Gompa and the southern ghats. It is about 35 km away and looks smaller than many expect. Mornings in late May, June and September usually give the best visibility."},
+    {"q": "Where do pilgrims stay at Manasarovar?", "a": "Most groups stay at Chiu on the north-west shore in simple guesthouses with twin or triple rooms and basic toilets. Some stay at Hor Qu on the eastern side. There are no star hotels; expect quilts, limited electricity and hot water by flask. A warm sleeping bag makes a big difference."},
+    {"q": "How many days do I need at Manasarovar?", "a": "One full day and two nights is ideal: the first afternoon to arrive and rest, a day for the bus parikrama, puja and holy dip, and then Darchen. The extra night also prepares you for Dolma La. Our Mansarovar-only yatra keeps two nights at the lake."},
+    {"q": "Is Manasarovar yatra possible without Kailash parikrama?", "a": "Yes. Many seniors and families do the lake parikrama, puja and darshan of Kailash from Darchen without walking the kora. You still need the same visa and Tibet permits and must be fit for nights at about 4,590 m. Our Mansarovar-only yatra via Simikot takes about 9 days from Kathmandu."},
+    {"q": "Is there oxygen available at Manasarovar?", "a": "Our groups carry oxygen cylinders in the support vehicle and a pulse oximeter, and guides check readings morning and evening. Portable oxygen cans are sold in Tibetan shops but give only brief relief. Oxygen is a first-aid measure, not a cure: anyone with serious altitude symptoms must descend."},
+    {"q": "How cold is Manasarovar in June?", "a": "In June daytime temperatures are usually 10–18 °C in sun, but wind makes it feel colder, and nights fall to around −2 to 3 °C. In September nights can reach −5 °C. Pack thermals, a down jacket, warm hat and gloves even for a summer yatra."},
+    {"q": "Can I swim in Lake Manasarovar?", "a": "Swimming is not permitted and is dangerous in water of 5–10 °C at this altitude. Pilgrims take a short ritual snan only where it is allowed, or pour lake water over themselves at designated points. Rules on bathing are set locally and change, so check current status before you travel."},
+    {"q": "Which monasteries are around Lake Manasarovar?", "a": "Chiu Gompa on the north-west shore is the one most visitors see. Others on or near the shore include Trugo, Seralung, Gossul and Langbona. Several were rebuilt after damage in the 1960s and are small, with a few resident monks. Your guide will point them out on the bus parikrama."}
+  ]
+}

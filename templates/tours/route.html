@@ -1,0 +1,19 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}: Flight, Road and Time{% endblock %}
+{% block meta_description %}{{ rt.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %}data-land="{{ rt.region }}"{% endblock %}
+{% block main %}
+<header class="phead"><div class="phead__bg">{% photo rt|first_img rt.to_obj.name "" "100vw" True True %}</div><div class="wrap"><div class="phead__in">
+  <p class="kicker">{% icon "route" %}Getting around · {{ rt.region_obj.name }}</p><h1>{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</h1><p class="phead__lede">{{ rt.summary }}</p>
+  <ul class="phead__facts">{% if rt.distance_km %}<li>{% icon "road" %}≈ {{ rt.distance_km }} km</li>{% endif %}<li>{% icon "altitude" %}{{ rt.from_obj.altitude_m|thousands }} m → {{ rt.to_obj.altitude_m|thousands }} m</li></ul>
+</div></div><div class="ridge--bottom" aria-hidden="true"></div></header>
+<div class="wrap sec--tight"><div class="split"><article>
+  <div class="grid" style="gap:14px">{% for o in rt.options %}<div class="panel"><h2 class="h3">{% if "light" in o.mode %}{% icon "plane" %}{% elif "eli" in o.mode %}{% icon "heli" %}{% elif "walk" in o.mode or "foot" in o.mode or "Trek" in o.mode %}{% icon "hiking" %}{% else %}{% icon "car" %}{% endif %} {{ o.mode }} <span class="alt-pill" style="margin-left:8px">{{ o.time }}</span></h2><p style="margin:0">{{ o.text }}</p></div>{% endfor %}</div>
+  {% if rt.stops_on_way %}<h2 class="h2" style="margin-top:32px">Stops on the way</h2><ul class="ticks">{% for s in rt.stops_on_way %}<li>{% icon "pin" %}<span>{{ s }}</span></li>{% endfor %}</ul>{% endif %}
+  {% if rt.tip %}<p class="notice" style="margin-top:22px">{% icon "info" %}<span>{{ rt.tip }}</span></p>{% endif %}
+  {% include "tours/partials/faqs.html" with faqs=rt.faqs %}
+</article><aside class="aside"><div class="panel" style="padding:12px">{% atlas map_points True False %}</div>
+<div class="panel"><ul class="mlinks"><li><a href="{{ rt.from_obj.url }}">{% icon "pin" %}{{ rt.from_obj.name }} guide</a></li><li><a href="{{ rt.to_obj.url }}">{% icon "pin" %}{{ rt.to_obj.name }} guide</a></li></ul></div>
+{% include "tours/partials/quick_form.html" with heading="Book the transfer" region=rt.region where="route-aside" %}</aside></div></div>
+{% if packages %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Packages on this route</h2></div><div class="passes">{% for k in packages %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

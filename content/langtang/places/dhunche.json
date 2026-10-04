@@ -1,0 +1,131 @@
+{
+  "slug": "dhunche",
+  "name": "Dhunche",
+  "region": "langtang",
+  "kind": "trekking village",
+  "wiki": "Dhunche",
+  "image_query": "Dhunche Rasuwa town Langtang",
+  "lat": 28.1111,
+  "lng": 85.2956,
+  "altitude_m": 1960,
+  "tagline": "Rasuwa's hill headquarters and the trailhead for Gosaikunda",
+  "meta_description": "Dhunche (1,960 m), Rasuwa's district HQ and Langtang park gateway, 117 km from Kathmandu. Gosaikunda trailhead, permits, lodges and what to see.",
+  "summary": "Dhunche is the headquarters of Rasuwa district and of Langtang National Park, a hillside town at about 1,960 m on the road from Kathmandu to Syabrubesi. Gosaikunda pilgrims start walking here, and every Langtang trekker passes its park checkpoint. It is 117 km and 6–7 hours by road from Kathmandu.",
+  "intro": [
+    "Dhunche spreads along a ridge above the Trishuli valley, a mix of government offices, schools, lodges and an older Tamang quarter of stone houses with carved windows. As the district headquarters of Rasuwa, it has a hospital, police and army posts, banks and the main office of Langtang National Park. For travellers it is two things: the checkpoint where permits are checked on the road to Syabrubesi, and the trailhead for the walk to Chandanbari and Gosaikunda.",
+    "The drive in from Kathmandu climbs past Trishuli Bazaar and Betrawati, then winds up switchbacks through terraced hills to the park gate at the edge of town. From the higher parts of Dhunche you can see the Ganesh Himal to the west and the Langtang range to the north-east on clear mornings. The old town below the main road is worth a short walk for its Tamang houses, a small gompa and terraced fields.",
+    "Most pilgrims heading to Gosaikunda spend a night here after the drive, especially during Janai Purnima, when the town fills with buses and the trail starts at first light. Trekkers on the Langtang–Gosaikunda route usually finish here and drive back to Kathmandu. At 1,960 m Dhunche is cool in the evenings, around 5–10 °C in spring and autumn and near freezing in winter, and it receives heavy rain from June to September."
+  ],
+  "facts": [
+    ["Altitude", "1,960 m"],
+    ["Best months", "Mar – May · Sep – Nov · Aug for Janai Purnima"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu (Tribhuvan International)"],
+    ["From Kathmandu", "≈ 117 km · 6–7 h by road"],
+    ["Known for", "Langtang National Park HQ, Gosaikunda trailhead, Tamang old town"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 1, 2, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Gosaikunda trailhead", "text": "The trail to Chandanbari (Sing Gompa) and Gosaikunda leaves from the upper part of town, climbing through Deurali and oak and rhododendron forest. It gains about 1,370 m to Chandanbari in 5–6 hours, the first and steepest day of the pilgrimage."},
+    {"title": "Langtang National Park headquarters", "text": "Nepal's first Himalayan national park, created in 1976, is run from Dhunche. Permits are checked at the park gate on the road into town. A small visitor area has had displays on the park's red pandas, Himalayan black bears and forest types."},
+    {"title": "Old Tamang quarter", "text": "Below the main road, narrow lanes run between stone houses with carved wooden windows, prayer flags and buffalo sheds. A short walk with your guide shows how Tamang families farm the steep slopes around the district capital."},
+    {"title": "Views of the Ganesh Himal", "text": "On clear mornings from October to April, the upper road and ridge above Dhunche look west to the Ganesh Himal group and north-east towards Langtang. Early morning before departure is the best time for photographs."},
+    {"title": "Janai Purnima pilgrim town", "text": "In August, buses and jeeps pour into Dhunche as pilgrims arrive for the Gosaikunda mela. The town becomes a staging post, with tea stalls, offerings on sale and groups setting off in the dark for the lake."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Dhunche is about 117 km from Kathmandu via Kakani, Trishuli Bazaar (Bidur) and Betrawati on the Pasang Lhamu Highway. Buses take 6–7 hours and jeeps about 5–6 hours. Syabrubesi is a further 15 km and about 1 hour downhill."},
+    {"mode": "On foot", "text": "Trekkers arrive on foot from Chandanbari (Sing Gompa) at the end of the Gosaikunda trek, a descent of 4–5 hours, or from Thulo Syabru on the Langtang side by trail."},
+    {"mode": "Helicopter", "text": "There is a helipad used for emergency and charter flights, about 30 minutes from Kathmandu. It is not part of regular tours but can be used for evacuations from the Gosaikunda trail."}
+  ],
+  "where_to_stay": "Dhunche has a dozen or so simple hotels and lodges along the main road and near the bus park, plus a few smaller guesthouses in the older town below. Rooms are basic, with attached bathrooms in most, hot water from gas geysers and restaurants serving dal bhat, chowmein and Tibetan bread. None are star-rated, and standards are similar to those in Syabrubesi. During Janai Purnima every bed is taken days in advance, so we book group rooms early or use family-run homes in the old town. Choose a room away from the bus park if you want a quiet night before an early start to Gosaikunda.",
+  "stays": [],
+  "tips": [
+    "Have your Langtang National Park permit and passport ready at the park gate; the bus or jeep will stop for checks.",
+    "Start the walk to Chandanbari early, by 7 am, because the forest above Deurali often clouds over after midday.",
+    "Buy puja offerings and dry snacks in Dhunche before the trek; supplies above Chandanbari are limited and expensive.",
+    "In August, book transport and rooms for Janai Purnima at least two weeks ahead.",
+    "If you feel sick from the winding drive, eat light and drink plenty of water before starting to climb next morning."
+  ],
+  "themes": ["trekking", "pilgrimage", "budget-nepal"],
+  "nearby": ["chandanbari", "syabrubesi", "gosaikunda", "gatlang"],
+  "experiences": [
+    {
+      "slug": "dhunche-old-town-tamang-walk",
+      "title": "Old Dhunche Tamang quarter walk",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Sep–May",
+      "price_hint": "Included in most treks",
+      "image_query": "Dhunche old village Tamang houses",
+      "wiki": "",
+      "summary": "A short guided walk below Dhunche's main road through the old Tamang quarter, with stone houses, carved windows, a small gompa and terraced fields. A good first look at Tamang village life before the Gosaikunda climb.",
+      "body": [
+        "Most travellers see Dhunche only from the bus window, a line of concrete buildings and offices. But below the main road the original village survives: two- and three-storey stone houses with wooden balconies and finely carved windows, courtyards where maize and millet dry on mats, and a small gompa strung with prayer flags. It takes 10 minutes to walk down from the hotels.",
+        "Your guide can explain the layout of a Tamang house, with animals on the ground floor, living space above and grain stored under the roof, and how the community organises its festivals and funerals. You may see women weaving or men repairing terrace walls. The old town suffered damage in 2015 and some houses have been rebuilt in concrete, but enough stone architecture survives to give a sense of the place.",
+        "Allow about 1.5 hours at a slow pace, including stops. Late afternoon after the drive from Kathmandu is ideal, because you need to loosen your legs before the next day's 1,370 m climb to Chandanbari. Ask before photographing people or entering courtyards, and greet people with a simple namaste or tashi delek."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "pilgrims"],
+      "faqs": [
+        {"q": "Is there anything to see in Dhunche?", "a": "Yes, if you step off the main road. The old Tamang quarter below town has stone houses with carved windows, a small gompa and terraced fields. You can also see the Ganesh Himal on clear mornings. It is not a sightseeing town, but a short walk makes a good evening after the drive."},
+        {"q": "What language do people speak in Dhunche?", "a": "Most residents speak Tamang at home and Nepali in public life. Many younger people and lodge staff speak some English and Hindi. Tashi delek is a common greeting in Tamang and Tibetan Buddhist communities, while namaste works everywhere. Your guide will translate on village walks."},
+        {"q": "Is the Dhunche walk suitable for seniors?", "a": "Mostly yes. The lanes are steep in places with stone steps, so go slowly and use a trekking pole. The walk is short, around 1.5 hours, and you can stop at the gompa or a tea shop. It also helps older pilgrims test their legs before the Gosaikunda climb."}
+      ]
+    },
+    {
+      "slug": "dhunche-to-chandanbari-forest-climb",
+      "title": "Forest climb from Dhunche to Sing Gompa",
+      "kind": "hiking",
+      "duration": "5–6 hours",
+      "best_time": "Morning, Mar–May and Sep–Nov",
+      "price_hint": "Included in Gosaikunda treks",
+      "image_query": "Langtang National Park rhododendron forest trail",
+      "wiki": "",
+      "summary": "The first day of the Gosaikunda trek: a steady 1,370 m climb from Dhunche through Deurali and oak, rhododendron and fir forest to the yak cheese factory and gompa at Chandanbari (Sing Gompa, 3,330 m).",
+      "body": [
+        "The trail leaves the top of Dhunche, crosses the road and climbs through farmland and then thick forest. The first stretch to Deurali, at about 2,690 m, is steep on stone steps and takes 3 hours or so; a few tea houses offer a rest. Above Deurali the gradient eases a little and the trees change from oak and rhododendron to hemlock and silver fir, hung with lichen.",
+        "This is red panda country, and while sightings are rare, langur monkeys, pheasants and Himalayan black bear signs are more common. In April the rhododendrons flower red and pink. The trail is busy with pilgrims in August, when it is also wet and leech-ridden, but quiet and fragrant in October and spring. Total walking time is 5–6 hours for most people.",
+        "You arrive at Chandanbari, also called Sing Gompa after its monastery, at about 3,330 m. There is a small cheese factory and lodges in a forest clearing. Gaining 1,370 m in a day is a lot, so walk slowly, drink plenty of water and tell your guide if you develop a headache. Some pilgrims break the climb with a night at Deurali."
+      ],
+      "good_for": ["pilgrims", "groups", "solo", "couples"],
+      "faqs": [
+        {"q": "How hard is the walk from Dhunche to Sing Gompa?", "a": "It is a demanding day: about 1,370 m of ascent over 5–6 hours on stone steps and forest trail, from 1,960 m to 3,330 m. There are no technical sections. Fit walkers manage it comfortably with breaks. Older pilgrims or those unused to hills can split it with a night at Deurali, around 2,690 m."},
+        {"q": "Are there leeches on the Gosaikunda trail?", "a": "Yes, from roughly June to September the forest between Dhunche and Chandanbari has many leeches, especially after rain. Wear long trousers tucked into socks, use leech socks or salt, and check your legs at rest stops. They are harmless but unpleasant. Outside the monsoon there are almost none."},
+        {"q": "Can I see red pandas near Dhunche?", "a": "Red pandas live in the bamboo and fir forest between Dhunche, Chandanbari and the Langtang Valley, but they are shy and seen only occasionally. Walking quietly in the early morning with a local guide gives the best chance. Spring and autumn, when bamboo shoots and leaves are fresh, are the likeliest seasons."}
+      ]
+    },
+    {
+      "slug": "dhunche-ganesh-himal-sunrise",
+      "title": "Ganesh Himal sunrise above Dhunche",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Dawn, Oct–Apr",
+      "price_hint": "",
+      "image_query": "Ganesh Himal sunrise Rasuwa",
+      "wiki": "",
+      "summary": "A short pre-breakfast walk to a viewpoint above town for sunrise on the Ganesh Himal and a glimpse of the Langtang peaks. Best on clear winter and autumn mornings before you set off for Gosaikunda or Syabrubesi.",
+      "body": [
+        "Dhunche sits high enough above the Trishuli valley to see across to the Ganesh Himal, a group of peaks rising above 7,000 m to the west, and north-east towards the Langtang range. From the main road the view is partly blocked by buildings, so walk 15–20 minutes uphill towards the start of the Gosaikunda trail, where open ground gives a clearer outlook.",
+        "From October to April, dawn is usually crisp and clear, and the first light hits the summits of the Ganesh Himal a few minutes before the valleys. Mist often fills the Trishuli gorge below, so the peaks seem to float. In spring, haze can soften the view by 8 am, so going early matters. In the monsoon you are unlikely to see the mountains at all.",
+        "This is a simple, free start to the day and does not tire you before the climb to Chandanbari. Take a warm jacket and gloves, as it is close to freezing at dawn in December and January. Your guide will show you the way; the path is part of the village network and not signposted."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Which mountains can you see from Dhunche?", "a": "On clear mornings you see the Ganesh Himal group to the west, with peaks above 7,000 m, and parts of the Langtang range to the north-east. The view is best from slightly above town near the Gosaikunda trail. October to April gives the clearest skies, and dawn is the best time."},
+        {"q": "What time is sunrise in Dhunche?", "a": "Sunrise ranges from about 5:15 am in June to about 7:00 am in January, and the summits light up a few minutes earlier than the valley. Leave your hotel 20–30 minutes before sunrise to reach a viewpoint. Your guide will confirm the time the evening before."},
+        {"q": "Is the sunrise walk worth it before trekking?", "a": "Yes, if the sky is clear. It is a short walk of 15–20 minutes each way with gentle climbing and gives a good view before you enter the forest, where mountains are hidden for most of the day. Skip it if you slept badly or feel unwell after the drive."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Dhunche from Kathmandu?", "a": "Dhunche is about 117 km from Kathmandu by road via Trishuli Bazaar and Betrawati. Buses take 6–7 hours and private jeeps 5–6 hours. The road climbs steep switchbacks after Betrawati and can be affected by landslides from June to September. Syabrubesi, the Langtang trek start, is a further hour down the road."},
+    {"q": "What is the altitude of Dhunche?", "a": "Dhunche lies at about 1,960 m. It is a comfortable height for a first night after the drive from Kathmandu (1,400 m). The next day's climb to Chandanbari (3,330 m) gains about 1,370 m, so arriving rested and well hydrated helps."},
+    {"q": "Where do I get a Langtang permit, Dhunche or Kathmandu?", "a": "You can pay the Langtang National Park entry fee at the Nepal Tourism Board office in Kathmandu or at the park counter in Dhunche. The TIMS card is arranged in Kathmandu through your trekking agency. Most agencies prepare both in advance. Check current status before you travel, as fees and procedures change."},
+    {"q": "Is Dhunche the start of the Gosaikunda trek?", "a": "Yes. The standard Gosaikunda trek starts in Dhunche, climbing to Chandanbari (Sing Gompa) on day one and reaching the lake via Lauribina on day two or three. Some trekkers start instead from Thulo Syabru, joining the trail above Chandanbari, especially if coming from the Langtang Valley."},
+    {"q": "Are there ATMs in Dhunche?", "a": "Yes, as the district headquarters Dhunche has bank branches and ATMs, but they can run out of cash or reject foreign cards, especially during Janai Purnima. Bring enough Nepali rupees from Kathmandu for the whole trip. Lodges on the trail to Gosaikunda accept cash only."},
+    {"q": "What is Dhunche like during Janai Purnima?", "a": "Very busy. Thousands of pilgrims arrive by bus and jeep in the days before the August full moon, lodges and homes fill up, and the trail to Gosaikunda becomes a moving line of people. Food stalls and shops stay open late. Book rooms and transport early, and expect traffic delays on the road."},
+    {"q": "Is there a hospital in Dhunche?", "a": "Yes, Rasuwa's district hospital is in Dhunche, with basic emergency care. Serious cases, including severe altitude sickness from the Gosaikunda trail, are referred to Kathmandu by road or helicopter. Travel insurance that covers helicopter evacuation up to at least 5,000 m is essential for Langtang and Gosaikunda treks."},
+    {"q": "What is the weather like in Dhunche?", "a": "Spring and autumn days are mild at 15–22 °C, with cool nights of 5–10 °C. Winter nights fall close to freezing and frost is common. From June to September, heavy monsoon rain brings cloud, leeches and landslides on the road. October and November are usually the clearest months."},
+    {"q": "Can I drive beyond Dhunche to start the Gosaikunda trek higher?", "a": "Rough tracks have been cut above Dhunche towards Deurali and beyond, and some jeeps use them in the dry season, which shortens the first day. Conditions vary by season and the tracks may be closed after rain. Ask your agency for the current situation; check current status before you travel."}
+  ]
+}

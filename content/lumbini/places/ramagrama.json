@@ -1,0 +1,130 @@
+{
+  "slug": "ramagrama",
+  "name": "Ramagrama",
+  "region": "lumbini",
+  "kind": "pilgrimage site",
+  "wiki": "Ramagrama stupa",
+  "image_query": "Ramagrama stupa Nawalparasi",
+  "lat": 27.4978,
+  "lng": 83.6811,
+  "altitude_m": 100,
+  "tagline": "The one relic stupa of the Buddha never opened, near Parasi",
+  "meta_description": "Ramagrama stupa guide: the only one of the eight original Buddha relic stupas believed never opened, near Parasi, 60 km from Lumbini. Timings, tips, how to reach.",
+  "summary": "Ramagrama, about 4 km south of Parasi in Nawalparasi West and roughly 60 km east of Lumbini, is a grass-covered brick stupa mound believed to hold a share of the Buddha's relics. Tradition says it is the only one of the eight original relic stupas that was never opened, even by Emperor Ashoka.",
+  "intro": [
+    "After the Buddha's death at Kushinagar, his cremated relics were divided into eight portions and enshrined in stupas built by the clans and kings who claimed them. The Koliyas, his mother's people, built their stupa at Ramagrama on the bank of the Jharahi river. When Ashoka later opened seven of the original stupas to redistribute the relics into thousands of new monuments, legend says he was stopped at Ramagrama by the naga serpents who guarded it, and left it intact.",
+    "Today the stupa is a low, grass-covered mound about 7 m high, in open fields a few kilometres south of the town of Parasi, close to the Indian border. Excavations by Nepali archaeologists have confirmed a brick stupa of early date with later additions, and a monastery area alongside, without disturbing the relic chamber. A large peepal tree, prayer flags and a small shrine mark the site, and pilgrims walk around the base or meditate in the shade.",
+    "Ramagrama is on UNESCO's tentative list together with Tilaurakot as a possible extension of the Lumbini World Heritage property. Few foreign visitors make the trip, so it remains calm. It takes about 1.5–2 hours to drive from Lumbini, and it pairs well with Devdaha, the Koliya capital and the home town of Maya Devi, on a full-day loop east of Lumbini."
+  ],
+  "facts": [
+    ["Altitude", "100 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "0 (day trip from Lumbini or Bhairahawa)"],
+    ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 40 km)"],
+    ["From Kathmandu", "Fly to Bhairahawa, then ≈ 40 km · 1.25 h by car"],
+    ["Known for", "Unopened Buddha relic stupa, Koliya kingdom, Jharahi river"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The unopened relic stupa", "text": "The grassy mound is believed to be the Koliya relic stupa, still holding its original share of the Buddha's remains. For many pilgrims this makes Ramagrama the only place where the Buddha's relics can be venerated in the spot where they were first enshrined."},
+    {"title": "Legend of Ashoka and the nagas", "text": "Buddhist texts and the Chinese pilgrim Xuanzang tell how Ashoka came to open the stupa but turned back when the naga guardians showed him their devotion. Guides tell the story on site, and it explains the reverence locals still show."},
+    {"title": "Peepal tree and prayer flags", "text": "A large peepal tree near the mound, strung with flags, is where most pilgrims sit. Monks from Lumbini and visiting groups often hold short chanting sessions here, especially around full moon days."},
+    {"title": "Jharahi river setting", "text": "The stupa stands near the Jharahi river, as described in early accounts. The surrounding plain of rice and sugarcane fields, with distant views of the Chure hills to the north on clear days, has changed little in character."},
+    {"title": "Koliya heritage loop", "text": "Ramagrama is the anchor of the Koliya side of the Buddha's story. Combined with Devdaha, about 40 km north, it shows the maternal homeland that is often skipped by tours focused only on Lumbini and Kapilavastu."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini drive via Bhairahawa and east towards Parasi, ≈ 60 km · 1.5–2 h; the stupa lies about 4 km south of Parasi. From Bhairahawa it is ≈ 40 km · 1.25 h, and from Butwal ≈ 45 km · 1.5 h via Sunwal. Local buses run to Parasi, with autos for the last stretch."},
+    {"mode": "Air", "text": "Fly from Kathmandu to Gautam Buddha International Airport in Bhairahawa in about 35 minutes. From there Ramagrama is around 40 km by road, so it can be visited on the day you land if your flight arrives in the morning."}
+  ],
+  "where_to_stay": "There are no tourist hotels at Ramagrama, and Parasi has only small local lodges. Most visitors come on a day trip from Lumbini, where Buddha Maya Gardens and Lumbini Hokke Hotel are the usual bases, or from Bhairahawa, where Hotel Nirvana is about 1.25 hours away by road. Staying in Bhairahawa saves about 30 minutes each way and suits groups combining Ramagrama with Devdaha and a drive on to Tansen or Chitwan the next day.",
+  "stays": [],
+  "tips": [
+    "Combine Ramagrama with Devdaha on a single day; the two Koliya sites are about 40 km apart.",
+    "Visit in the morning, when the light is soft and local pilgrims gather at the peepal tree.",
+    "Do not climb on the stupa mound; walk around its base clockwise as local devotees do.",
+    "Carry drinking water and snacks, as facilities near the stupa are very limited.",
+    "Full moon days, especially Buddha Jayanti in April or May, bring chanting and larger local crowds."
+  ],
+  "themes": ["pilgrimage", "buddhist-circuit", "cultural-tours"],
+  "nearby": ["devdaha", "bhairahawa", "lumbini", "butwal"],
+  "experiences": [
+    {
+      "slug": "ramagrama-relic-stupa-visit",
+      "title": "Ramagrama relic stupa visit and chanting",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Included in our Buddhist circuit packages",
+      "image_query": "Ramagrama stupa mound peepal tree",
+      "wiki": "Ramagrama stupa",
+      "summary": "A morning at the Ramagrama mound: the story of the eight relic shares, the Koliyas and the naga guardians who turned Ashoka away, a slow circumambulation of the stupa, and time to sit or chant under the peepal tree.",
+      "body": [
+        "We arrive from Parasi and walk the short path to the mound. Your guide begins with the division of the relics at Kushinagar, where a Brahmin named Dona settled the dispute between eight claimants by sharing the remains equally. The Koliyas carried their portion home and enshrined it here by the river.",
+        "Walking clockwise around the base, you can see the outline of excavated brickwork and the area where a monastery once stood. The guide recounts Xuanzang's 7th-century description of a lonely stupa in a forest, guarded by a naga who kept it clean, and how Ashoka is said to have abandoned his plan to open it.",
+        "Pilgrims then sit under the peepal tree for chanting, offerings or silent meditation. Allow about 1.5 hours on site. The ground is flat and grassy, suitable for seniors, and the visit fits easily into a loop with Devdaha before returning to Lumbini."
+      ],
+      "good_for": ["pilgrims", "seniors", "groups", "solo"],
+      "faqs": [
+        {"q": "Why is Ramagrama stupa important?", "a": "Ramagrama is believed to be one of the eight original stupas built over the Buddha's relics after his cremation, and the only one never opened. Tradition says Ashoka left it untouched because nagas guarded it. For pilgrims, this makes it a place to venerate the relics where they were first enshrined."},
+        {"q": "Can we see the relics at Ramagrama?", "a": "No. The relics are believed to remain sealed inside the mound, and excavations have deliberately left the relic chamber undisturbed. What you see is a grass-covered brick stupa with a peepal tree and small shrine beside it. The significance lies in what the mound holds, not in visible objects."},
+        {"q": "How far is Ramagrama from Lumbini?", "a": "About 60 km, which takes 1.5–2 hours by car via Bhairahawa and Parasi. Ramagrama is about 4 km south of Parasi town. We usually combine it with Devdaha in a full-day Koliya loop, returning to Lumbini by late afternoon."}
+      ]
+    },
+    {
+      "slug": "ramagrama-devdaha-koliya-heritage-loop",
+      "title": "Koliya loop: Ramagrama and Devdaha",
+      "kind": "culture",
+      "duration": "Full day",
+      "best_time": "Oct–Mar, departing 7.30 am",
+      "price_hint": "≈ ₹7,500 per car with guide from Lumbini",
+      "image_query": "Devdaha Nepal Maya Devi",
+      "wiki": "",
+      "summary": "A full-day private car loop from Lumbini to the two key Koliya sites: Ramagrama's relic stupa near Parasi and the Devdaha sites linked to Maya Devi's family, about 150 km of driving with lunch in Butwal or Bhairahawa.",
+      "body": [
+        "The Shakyas of Kapilavastu are well known; the Koliyas, the Buddha's mother's clan, much less so. This loop focuses on their side of the story. We leave Lumbini at 7.30 am and drive east past Bhairahawa to Parasi and the Ramagrama stupa, arriving while the morning is still cool.",
+        "From Ramagrama we head north through Sunwal towards the foothills and Devdaha, the Koliya capital where Maya Devi and her sister Prajapati Gautami grew up. Sites here include a shrine to Maya Devi with a pond, ancient mounds and the Rohini river area, where tradition says the Buddha settled a water dispute between the Shakyas and Koliyas.",
+        "Lunch is in Butwal, a busy city at the foot of the hills, and we return to Lumbini by about 5 pm. Total driving is around 150 km, mostly on the East-West Highway and good district roads. The day suits pilgrims who have already seen Lumbini and Kapilavastu and want a fuller picture of the Buddha's family."
+      ],
+      "good_for": ["pilgrims", "groups", "seniors", "families"],
+      "faqs": [
+        {"q": "Who were the Koliyas?", "a": "The Koliyas were a clan neighbouring the Shakyas, with their capital at Devdaha and territory east of Kapilavastu. Maya Devi and Prajapati Gautami, the Buddha's mother and foster mother, were Koliya princesses, and Yasodhara, his wife, is also often described as Koliya. They received one of the eight relic shares, enshrined at Ramagrama."},
+        {"q": "Is the Koliya loop worth it if we have seen Lumbini?", "a": "Yes, if you are a pilgrim or keen on history. It completes the family geography of the Buddha's story and visits sites few tourists see. If you have only one extra day and limited interest in archaeology, a Kapilavastu circuit or the drive to Tansen may suit you better."},
+        {"q": "How long is the drive on the Koliya loop?", "a": "Expect about 150 km and 4.5–5 hours of total driving across the day, with roughly 1.5 hours to Ramagrama, 1.5 hours to Devdaha, and about 1.5 hours back to Lumbini from Butwal. Traffic around Butwal and Bhairahawa can add time in the afternoon."}
+      ]
+    },
+    {
+      "slug": "parasi-terai-village-walk",
+      "title": "Terai village walk around Parasi",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Nov–Feb",
+      "price_hint": "Included when booked with the Ramagrama visit",
+      "image_query": "Terai village Nepal mud house fields",
+      "wiki": "",
+      "summary": "A gentle walk through the farming villages around Ramagrama, among mud-plastered houses, sugarcane and mustard fields, ponds and cattle yards, with a stop for sugarcane juice or tea and a look at how Terai families live today.",
+      "body": [
+        "The land around Parasi is classic western Terai: flat, fertile and densely farmed, with sugarcane, rice, wheat and mustard rotating through the year. Villages are a mix of Tharu, Madhesi and hill-origin families, and houses range from brick and concrete to older mud-plastered homes with thatched or tiled roofs.",
+        "After visiting the stupa we walk about 3 km along field roads with our guide, who translates conversations if families are willing to chat. In winter you may see sugarcane being cut and crushed, mustard in yellow flower, women making dung cakes for fuel and children walking home from school. Stopping for fresh sugarcane juice or sweet milky tea is part of the walk.",
+        "This is an informal outing, not a staged cultural show. Please ask before photographing people or homes, dress modestly and avoid handing sweets or money to children. The walk is flat and suits all ages."
+      ],
+      "good_for": ["families", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Is it respectful to visit villages near Ramagrama?", "a": "Yes, when done quietly and with a local guide. We walk on public field roads, greet people, and only enter homes if invited. Ask before taking photographs, dress modestly, and avoid giving sweets or money to children; a purchase at a local tea stall is a better way to contribute."},
+        {"q": "What will we see on a Terai village walk?", "a": "Depending on the season: sugarcane harvest and crushing, mustard and wheat fields, rice planting in the monsoon, ponds with buffalo, and traditional mud-plastered houses. You will also see daily routines like cooking on clay stoves and children coming home from school."},
+        {"q": "Is the village walk suitable for children?", "a": "Yes. The route is flat, about 3 km, and village children are often curious and friendly. Bring sun protection, closed shoes for the field paths and mosquito repellent if walking near dusk. Kids usually enjoy the fresh sugarcane juice stop."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Ramagrama stupa?", "a": "Ramagrama stupa is in Nawalparasi West district of Lumbini Province, about 4 km south of Parasi town and close to the Indian border. It is roughly 60 km east of Lumbini and 40 km from Bhairahawa. The mound stands in fields near the Jharahi river."},
+    {"q": "Is Ramagrama the only unopened relic stupa?", "a": "That is the tradition. Of the eight original stupas built over the Buddha's relics, Ashoka is said to have opened seven to redistribute the relics, but left Ramagrama untouched because nagas guarded it. Modern excavations have avoided the relic chamber, so it has not been opened in recent times either."},
+    {"q": "How do I reach Ramagrama from Bhairahawa?", "a": "Drive east from Bhairahawa towards Parasi, about 40 km and 1.25 hours, then 4 km south to the stupa. Local buses run from Bhairahawa to Parasi, and autos or rickshaws cover the final stretch. A private car is the easiest option if you want to add Devdaha."},
+    {"q": "What can I see at Ramagrama?", "a": "You will see a large grass-covered brick stupa mound about 7 m high, a peepal tree hung with prayer flags, a small shrine and the excavated outlines of brickwork nearby. It is a simple, contemplative place rather than a monument complex."},
+    {"q": "How much time do I need at Ramagrama?", "a": "Allow 1–1.5 hours at the stupa, plus around 3–4 hours of driving for the round trip from Lumbini. Most pilgrims combine it with Devdaha in a full day. If you only visit Ramagrama, a half-day from Bhairahawa or Lumbini is enough."},
+    {"q": "Is Ramagrama on the UNESCO list?", "a": "Ramagrama is on Nepal's tentative list for UNESCO World Heritage status, considered together with Tilaurakot as a possible extension of the Lumbini site. It is not yet inscribed. The status may change, so check current status before you travel."},
+    {"q": "Is there an entry fee for Ramagrama?", "a": "Ramagrama has generally been free or charged only a small local fee, with donations welcome at the shrine. Arrangements can change as the site is developed, so check current status before you travel. Our Buddhist circuit packages cover any fees."},
+    {"q": "When is the best time to visit Ramagrama?", "a": "October to March offers mild, dry weather. Mornings from December to January can be foggy, but afternoons are usually clear. April to June is hot, often above 38 °C, and the June to September monsoon brings heavy rain, though the site is still reachable on paved roads."},
+    {"q": "Can I visit Ramagrama on the way to Chitwan?", "a": "Yes. Ramagrama lies just off the route from Bhairahawa towards the East-West Highway and Narayanghat. Leaving Lumbini early, you can stop at Ramagrama for an hour and still reach Chitwan's Sauraha by mid-afternoon, about 5–6 hours in total."}
+  ]
+}

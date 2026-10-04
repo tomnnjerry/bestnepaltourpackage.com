@@ -1,0 +1,86 @@
+{
+  "slug": "khaptad-national-park-trek-9-days",
+  "title": "Khaptad National Park Trek 9 Days",
+  "region": "far-west",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 8,
+  "themes": ["trekking", "pilgrimage", "photography", "budget-nepal"],
+  "stops": [{"place": "dhangadhi", "nights": 2}, {"place": "khaptad-national-park", "nights": 4}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 82000,
+  "price_from_usd": 960,
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 3200,
+  "accommodation": "City hotel in Dhangadhi, basic hotel in Silgadhi, full camping on the plateau",
+  "transport": "Kathmandu–Dhangadhi return flights, private jeep Dhangadhi–Jhingrana",
+  "group": "Private or small group, 2–10",
+  "meta_description": "Khaptad National Park trek, 9 days: fly to Dhangadhi, drive to Silgadhi, walk to the Khaptad plateau for meadows, Khaptad Baba ashram, Tribeni and Api views.",
+  "summary": "A quiet camping trek to the Khaptad plateau in Nepal's far west: fly to Dhangadhi, drive into the hills to Silgadhi, then walk two days to rolling meadows at about 3,000 m. Three nights on the plateau take in Khaptad Baba's ashram, Tribeni, Sahashra Linga and views of Api and Saipal.",
+  "intro": [
+    "Khaptad is a high, undulating plateau of grassy patans and oak, fir and rhododendron forest where four far-western districts meet. It became a national park in 1984, partly at the urging of Khaptad Baba, a hermit who meditated here for about fifty years, and it remains a pilgrimage site as much as a nature reserve. Almost no foreign trekkers come, and outside the Ganga Dashahara fair you may have the meadows to yourself.",
+    "The trek is moderate. The hard work is the two-day climb from the Jhingrana roadhead, gaining well over 1,000 m through forest; once on the plateau, days are gentle walks between meadows, shrines and viewpoints at 3,000–3,200 m. There are no teahouses, so we run the trek as a fully supported camp with a cook and porters. Long drives from Dhangadhi bracket the walk, and we allow for them in the plan."
+  ],
+  "highlights": [
+    "Three nights camping on the Khaptad plateau at about 3,000 m",
+    "Khaptad Baba's ashram and its quiet oak forest",
+    "Tribeni shrine, Khaptad Daha lake and Sahashra Linga viewpoint",
+    "Views of Api and Saipal on clear autumn mornings",
+    "Meadows full of flowers from May to July",
+    "Road journey through Dadeldhura and Doti hill country"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly Kathmandu to Dhangadhi", "place": "dhangadhi", "overnight": "Dhangadhi", "altitude_m": 109, "max_m": 1400, "walk": "", "drive": "≈ 10 km · 20 min", "flight": "Kathmandu–Dhangadhi · ≈ 1 h 15 min", "text": "Fly west along the Himalaya to Dhangadhi on the far-western Terai. Transfer to a hotel in the city and meet your trek leader for a briefing and gear check. In the evening, try a Tharu thali of fish curry and dhikri rice dumplings. The crew buys final supplies for the plateau, where almost nothing is available.", "meals": "D"},
+    {"day": 2, "title": "Drive Dhangadhi to Silgadhi", "place": "", "overnight": "Silgadhi", "altitude_m": 1300, "max_m": 1800, "walk": "", "drive": "≈ 215 km · 7–8 h", "flight": "", "text": "A long but scenic drive north from Attariya, climbing out of the plains through Budar to the ridge town of Dadeldhura, then winding down to Dipayal on the Seti river and up to Silgadhi, the old bazaar town of Doti. Roads are paved for much of the way but narrow and slow on bends. Stops for tea and lunch break the journey. Overnight in a simple hotel in Silgadhi.", "meals": "B, L, D"},
+    {"day": 3, "title": "Jeep to Jhingrana, walk to Bichpani", "place": "khaptad-national-park", "overnight": "Bichpani (camp)", "altitude_m": 2750, "max_m": 2750, "walk": "≈ 5–6 h · 11 km", "drive": "≈ 1.5–2 h by jeep", "flight": "", "text": "Jeep on a rough road from Silgadhi to the trailhead at Jhingrana. From here the walk climbs steadily through pine, then oak and rhododendron forest, past the national park checkpoint where permits are checked. Gain is substantial, so take it slowly and drink often. Camp at the Bichpani area, a forest clearing with water, at about 2,750 m.", "meals": "B, L, D"},
+    {"day": 4, "title": "Bichpani to the Khaptad plateau", "place": "khaptad-national-park", "overnight": "Khaptad headquarters area (camp)", "altitude_m": 3000, "max_m": 3050, "walk": "≈ 4–5 h · 10 km", "drive": "", "flight": "", "text": "The trail continues up through forest before the land levels out and the first patans open: wide, rolling grassland with forest edges and, on clear days, distant snow ranges. Walk across the plateau to the park headquarters area at about 3,000 m and set up camp. In the late afternoon, visit Khaptad Baba's ashram among the oaks for a quiet hour.", "meals": "B, L, D"},
+    {"day": 5, "title": "Tribeni, Khaptad Daha, Sahashra Linga", "place": "khaptad-national-park", "overnight": "Khaptad headquarters area (camp)", "altitude_m": 3000, "max_m": 3200, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "A full day exploring the plateau. Walk to Tribeni, a confluence with a small Shiva temple where pilgrims bathe during Ganga Dashahara, then on to the small Khaptad Daha lake. Climb to the Sahashra Linga shrine on one of the higher points, at about 3,200 m, for wide views north to the Saipal and Api ranges and south over the hills of Doti and Achham. Return across the meadows.", "meals": "B, L, D"},
+    {"day": 6, "title": "Meadows, birds and a rest day", "place": "khaptad-national-park", "overnight": "Khaptad headquarters area (camp)", "altitude_m": 3000, "max_m": 3100, "walk": "≈ 3–4 h · 7 km", "drive": "", "flight": "", "text": "A slower day for the patans. Walk with the guide through meadows and forest edges looking for wildflowers, Himalayan monal, kalij pheasant and other birds, and signs of black bear in autumn. Meet herders who graze animals on the plateau in summer. Afternoon free in camp to read, photograph or sit at the ashram. This day also absorbs weather delays if needed.", "meals": "B, L, D"},
+    {"day": 7, "title": "Descend to Jhingrana, jeep to Silgadhi", "place": "", "overnight": "Silgadhi", "altitude_m": 1300, "max_m": 3000, "walk": "≈ 6–7 h · 18 km", "drive": "≈ 1.5–2 h by jeep", "flight": "", "text": "A long descent from the plateau through forest, past Bichpani and down to Jhingrana, losing well over 1,000 m. Knees appreciate trekking poles. Meet the jeep at the roadhead and drive back to Silgadhi for a hot shower and a hotel bed. Farewell to the porters and kitchen crew in the evening.", "meals": "B, L, D"},
+    {"day": 8, "title": "Drive Silgadhi to Dhangadhi", "place": "dhangadhi", "overnight": "Dhangadhi", "altitude_m": 109, "max_m": 1800, "walk": "", "drive": "≈ 215 km · 7–8 h", "flight": "", "text": "Return by road via Dipayal and Dadeldhura, dropping back to the plains at Attariya and Dhangadhi in the afternoon. If road conditions allow and the group is keen, we can stop at a viewpoint near Dadeldhura for a last look at the hills. Evening free in Dhangadhi.", "meals": "B, L"},
+    {"day": 9, "title": "Fly Dhangadhi to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 10 km · 20 min", "flight": "Dhangadhi–Kathmandu · ≈ 1 h 15 min", "text": "Morning flight back to Kathmandu, with views of the western Himalaya on clear days. Transfer to your hotel or onward connection. If you have time, extend with Shuklaphanta National Park, 1.5 hours from Dhangadhi, before flying, or combine with a Bardia safari.", "meals": "B"}
+  ],
+  "stays": [],
+  "includes": [
+    "Return flights Kathmandu–Dhangadhi",
+    "2 nights in a Dhangadhi city hotel and 2 nights in a simple Silgadhi hotel, twin sharing",
+    "4 nights full-service camping with sleeping, dining, kitchen and toilet tents",
+    "All meals from day 2 lunch to day 9 breakfast, except Dhangadhi dinner on day 8",
+    "Private jeep Dhangadhi–Silgadhi–Jhingrana and return",
+    "Licensed trek leader, cook, kitchen crew and porters",
+    "Khaptad National Park entry fee and TIMS card",
+    "Airport transfers in Kathmandu and Dhangadhi"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Hotels in Kathmandu",
+    "Sleeping bag and personal trekking gear",
+    "Dinner in Dhangadhi on day 8",
+    "Drinks, snacks and bottled water",
+    "Tips for leader, crew and porters",
+    "Travel and rescue insurance"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing on a private departure with full camping; groups of four or more pay less per person.",
+    "Drives from Dhangadhi are long and slow; landslides can close roads in June–September, so we avoid the monsoon.",
+    "Respect the no-alcohol, no-meat rule and silence around Khaptad Baba's ashram.",
+    "During the Ganga Dashahara fair (May or June) the plateau is crowded; we can schedule around it or for it.",
+    "Park fees, TIMS rules and road conditions change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Shuklaphanta National Park 2-night extension from Dhangadhi", "price": "≈ US$ 220 per person"},
+    {"name": "Sleeping bag hire", "price": "≈ US$ 25 per trip"}
+  ],
+  "faqs": [
+    {"q": "How difficult is the Khaptad trek?", "a": "Moderate. The climb from Jhingrana to the plateau gains well over 1,000 m over two days, and the descent is long. On the plateau the walking is gentle at 3,000–3,200 m. Anyone fit enough for 5–6 hours of hill walking can manage it. The long drives are as tiring as the trek."},
+    {"q": "How much does the Khaptad trek cost?", "a": "This 9-day trek starts from about US$960 or ₹82,000 per person, twin sharing, including flights to Dhangadhi, jeeps, hotels, full camping, meals on the trek, crew and permits. Costs fall for larger groups. Because there are no teahouses, camping crew is the main cost."},
+    {"q": "Are there teahouses on the Khaptad trek?", "a": "No. Apart from a few simple shelters and local eateries on the lower trail and near the headquarters, there are no trekking lodges. We run the trek with tents, a cook and porters. This keeps the plateau quiet and lets us camp in good spots near the ashram and meadows."},
+    {"q": "When is the best time for the Khaptad trek?", "a": "October and November for clear skies and Himalayan views; April to June for rhododendrons and wildflowers. The Ganga Dashahara fair in May or June is lively but crowded. July and August bring fog and rain; December to February can bring snow on the plateau."},
+    {"q": "What permits are needed for Khaptad?", "a": "A Khaptad National Park entry permit and a TIMS card, both arranged by us. No restricted area permit is required. Foreign nationals pay more than SAARC nationals for park entry. Trekking with a licensed guide is required for foreigners. Check current status before you travel."},
+    {"q": "Can I see the Himalaya from Khaptad?", "a": "Yes, on clear days, particularly October and November. From Sahashra Linga and other high points you see Saipal and Api in the far north-west. Spring haze often hides the peaks after mid-morning, and the monsoon brings fog, so autumn is the time for views."},
+    {"q": "Is Khaptad a pilgrimage site?", "a": "Yes. Khaptad Baba's ashram, the Tribeni shrine and Sahashra Linga draw Hindu pilgrims from across the far west, especially for Ganga Dashahara. Many Nepali visitors come for spiritual reasons as much as for nature. Visitors are asked to respect silence and avoid alcohol and meat near the ashram."},
+    {"q": "Can Indian travellers do the Khaptad trek?", "a": "Yes. Indian nationals can join from Dhangadhi, reached by road from Lucknow or Bareilly via the Gauriphanta border, or fly to Dhangadhi from Kathmandu. No visa is needed with a passport or voter ID. Park fees for SAARC nationals are lower than for other foreigners."},
+    {"q": "How cold is it at Khaptad?", "a": "In April–May and October–November, days are pleasant at 10–18 °C and nights around 0–5 °C, with frost in late autumn. Winter nights drop well below freezing and snow is possible. Bring a sleeping bag rated to about −5 °C, a down jacket and rain gear in every season."}
+  ]
+}

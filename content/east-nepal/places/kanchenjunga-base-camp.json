@@ -1,0 +1,133 @@
+{
+  "slug": "kanchenjunga-base-camp",
+  "name": "Kanchenjunga Base Camp (Pangpema)",
+  "region": "east-nepal",
+  "kind": "base camp",
+  "wiki": "Kangchenjunga",
+  "image_query": "Kangchenjunga north face Pangpema",
+  "lat": 27.758,
+  "lng": 88.075,
+  "altitude_m": 5143,
+  "tagline": "North face of the world's third-highest mountain, at 5,143 m",
+  "meta_description": "Kanchenjunga Base Camp guide: Pangpema 5,143 m and Oktang south base camp, trek routes, restricted area permits, licensed guide rule, best months and cost.",
+  "summary": "Pangpema, the Kanchenjunga north base camp at 5,143 m, faces the 8,586 m north face of the world's third-highest mountain. Reaching it takes about 10 days' walking from Taplejung; most treks also visit Oktang on the south side. You need a restricted area permit, a licensed guide and at least two trekkers. Go in April–May or October–November.",
+  "intro": [
+    "Kanchenjunga, 8,586 m, straddles the border of Nepal and Sikkim, and the Nepali side is protected within the Kanchenjunga Conservation Area, managed with local communities since 1997. Two base camps are visited by trekkers. Pangpema, the north base camp at 5,143 m, is a grassy shelf above the Kanchenjunga Glacier with the north face filling the sky, reached via the Sherpa village of Ghunsa and the summer pastures of Kambachen and Lhonak. Oktang, on the south side above the Yalung Glacier at about 4,730 m, looks straight up the south-west face.",
+    "These are true wilderness treks. Lodges are simple teahouses run by local families; the busiest days see perhaps a few dozen trekkers on the trail, compared with hundreds on the Everest route. Walking days are long, often 6–8 hours, and the trails cross landslide scars, glacial moraine and, on the combined route, three passes between Ghunsa and Tseram topping out at roughly 4,500 m. Wildlife includes blue sheep, Himalayan tahr and, rarely seen, snow leopard and red panda.",
+    "Because the region borders Tibet and Sikkim, it is a restricted area. Foreign trekkers need a restricted area permit issued through a licensed agency, a conservation area permit, a licensed guide and a minimum of two people in the group. Indian nationals also need permits for this route. With the jeep road now reaching higher up the Tamor valley, the full north and south circuit fits into about 20–22 days from Kathmandu, including the long journey east."
+  ],
+  "facts": [
+    ["Altitude", "5,143 m (Pangpema); about 4,730 m (Oktang, south)"],
+    ["Best months", "Apr – May · Oct – Nov"],
+    ["Nights we suggest", "Day visit from Lhonak (4,785 m)"],
+    ["Nearest airport", "Bhadrapur (BDP), then 2 days by road to the trailhead"],
+    ["From Kathmandu", "≈ 10 days' trekking from Taplejung; 20–22 days round trip"],
+    ["Known for", "Kanchenjunga north face, remote teahouse trek, restricted area permits"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "nights": "0",
+  "highlights": [
+    {"title": "The north face from Pangpema", "text": "From the grassy terraces of Pangpema at 5,143 m the north face of Kanchenjunga rises more than 3,000 m above the glacier, with Jannu's back and the Twins nearby. Climbers' expeditions camp here in spring; trekkers come up from Lhonak for a few hours."},
+    {"title": "Ghunsa Sherpa village", "text": "At 3,595 m, Ghunsa is the largest village on the north side, with stone houses, prayer flags, a gompa and a health post. Treks spend an acclimatisation day here, often hiking to viewpoints above the village."},
+    {"title": "Oktang and the Yalung Glacier", "text": "On the southern route, the walk from Ramche to Oktang follows the moraine of the Yalung Glacier to a chorten and viewpoint at about 4,730 m below the south-west face, with Kabru and Rathong lining the valley."},
+    {"title": "The passes between north and south", "text": "Linking the two base camps means crossing Sele La, Sinion La and Mirgin La in one long day from Sele Le to Tseram, topping out at roughly 4,500 m with views back to Makalu and Everest on clear days."},
+    {"title": "Few trekkers, real wilderness", "text": "Restricted access and distance keep numbers low. You walk through rhododendron forest, yak pastures and glacier valleys where wildlife like blue sheep is common and snow leopard tracks are sometimes found."},
+    {"title": "Kanchenjunga Conservation Area", "text": "The protected area covers about 2,035 sq km and is managed with local councils, who run lodges, collect fees and protect forests. Your permit fees go partly to village projects."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Bhadrapur (50 min). Occasional flights to Taplejung's Suketar airstrip exist but are unreliable."},
+    {"mode": "Road", "text": "Bhadrapur to Ilam is ≈ 95 km and 3 hours; Ilam to Phungling ≈ 160 km and 7–8 hours. From Phungling, jeeps run up the Tamor valley to Sekathum in about 5–6 hours when the road is open. Check current status before you travel."},
+    {"mode": "On foot", "text": "From Sekathum (about 1,660 m) it is 4–5 walking days via Amjilosa, Gyabla and Ghunsa, then 3 more via Kambachen and Lhonak to Pangpema, including one acclimatisation day."},
+    {"mode": "Helicopter", "text": "Charter helicopters can reach Ghunsa or fly scenic loops over the base camps in good weather, and are the usual means of rescue. Landings at high camps depend on weather and payload."}
+  ],
+  "where_to_stay": "There are no hotels at Pangpema; most trekkers sleep at Lhonak (4,785 m) and walk up and back in a day. Along the north route, family-run teahouses in Sekathum, Amjilosa, Gyabla, Ghunsa and Kambachen offer twin rooms with foam mattresses, shared toilets and a heated dining room; Ghunsa has the most choice. On the south side, lodges at Yamphudin, Torontan, Tseram and Ramche are more basic, and some close outside peak months. Expect dal bhat, noodles and potatoes, and bring a warm sleeping bag rated to −15 °C.",
+  "stays": [],
+  "tips": [
+    "Spend at least one full acclimatisation day at Ghunsa and sleep no more than 500 m higher each night above 3,000 m.",
+    "Carry enough cash for the whole trek: there are no ATMs beyond Phungling.",
+    "Buy a local SIM in Kathmandu but expect no signal for days at a time; our guides carry a satellite device.",
+    "Microspikes help on the passes between Sele Le and Tseram after fresh snow in November and April.",
+    "Leave buffer days at the end for flight delays out of Bhadrapur and landslides on the roads."
+  ],
+  "themes": ["trekking", "photography"],
+  "nearby": ["taplejung", "pathibhara"],
+  "experiences": [
+    {
+      "slug": "pangpema-north-base-camp-day-hike",
+      "title": "Pangpema day hike from Lhonak",
+      "kind": "hiking",
+      "duration": "6–7 hours return",
+      "best_time": "Early morning, Apr–May and Oct–Nov",
+      "price_hint": "Included in our Kanchenjunga trek",
+      "image_query": "Pangpema Kangchenjunga base camp",
+      "wiki": "",
+      "summary": "Walk from Lhonak at 4,785 m up the lateral moraine of the Kanchenjunga Glacier to Pangpema at 5,143 m, the north base camp, for close views of the north face, then return to Lhonak the same afternoon.",
+      "body": [
+        "We leave Lhonak at first light, when the air is still and the peaks are clearest. The trail follows the grassy ablation valley beside the Kanchenjunga Glacier, climbing gradually with a few short steep steps over loose moraine. The gain is only about 360 m, but at this altitude every step counts, so the pace is slow and steady with frequent water stops.",
+        "Pangpema is a series of grassy terraces where climbing expeditions pitch their base camp in spring. In front of you the north face of Kanchenjunga rises more than 3,000 m in walls of ice and rock, with Jannu's rear side, the Twins and the long ridges towards Sikkim around the head of the glacier. On a good day you can sit for an hour, eat a packed lunch and watch avalanches peel off the face.",
+        "Cloud usually builds by late morning, so we turn back around midday and descend to Lhonak for the night. Anyone showing signs of altitude sickness, such as a worsening headache, vomiting or unsteadiness, turns back with a staff member at once."
+      ],
+      "good_for": ["photographers", "solo", "groups"],
+      "faqs": [
+        {"q": "Can I sleep at Pangpema?", "a": "There are no lodges at Pangpema. Climbing expeditions camp there, and some camping treks do too, but teahouse trekkers sleep at Lhonak and walk up and back in a day."},
+        {"q": "How hard is the day to Pangpema?", "a": "The distance is about 8–10 km return with roughly 360 m of ascent, which is moderate on paper. At 5,000 m it feels hard, and loose moraine needs care. Most people take 3–4 hours up and 2–3 down."},
+        {"q": "What will I see from Pangpema?", "a": "The north face of Kanchenjunga at 8,586 m, the Kanchenjunga Glacier, the Twins, Tent Peak and the rear of Jannu. The best light is early morning, before cloud builds around midday."}
+      ]
+    },
+    {
+      "slug": "oktang-south-base-camp-viewpoint",
+      "title": "Oktang viewpoint above the Yalung Glacier",
+      "kind": "hiking",
+      "duration": "6–7 hours return from Ramche",
+      "best_time": "Morning, Apr–May and Oct–Nov",
+      "price_hint": "Included in our Kanchenjunga trek",
+      "image_query": "Yalung glacier Kanchenjunga south face",
+      "wiki": "",
+      "summary": "From Ramche at about 4,580 m, follow the moraine of the Yalung Glacier to the Oktang chorten and viewpoint at about 4,730 m, facing the vast south-west face of Kanchenjunga, before returning to Ramche or down to Tseram.",
+      "body": [
+        "The south side of Kanchenjunga feels quite different from the north. From Ramche, a yak pasture with a small lake and a couple of basic lodges, the trail climbs onto the lateral moraine of the Yalung Glacier and follows it east. Kabru, Rathong and Koktang line the right side of the valley, and blue sheep often graze on the slopes above.",
+        "After about two to three hours you reach the prayer flags and chorten at Oktang. The south-west face of Kanchenjunga, the side climbed by the British team who made the first ascent in 1955, rises at the head of the glacier. Some groups continue further along the moraine for a closer view, but the trail beyond becomes loose and unmarked, and our guides decide on the day.",
+        "We return the same way and, depending on the group's strength, sleep again at Ramche or continue down to Tseram at about 3,870 m, which helps with sleep after several nights high."
+      ],
+      "good_for": ["photographers", "groups", "solo"],
+      "faqs": [
+        {"q": "Is Oktang the Kanchenjunga south base camp?", "a": "Trekkers call the Oktang viewpoint the south base camp. Expedition base camps on the south side sit further up the Yalung Glacier. For trekkers, Oktang at about 4,730 m is the usual turnaround."},
+        {"q": "Can I do only the south base camp?", "a": "Yes. A southern-only trek via Yamphudin, Torontan, Tseram and Ramche takes about 12–14 days from Kathmandu. It is shorter but misses Ghunsa and Pangpema."},
+        {"q": "Which base camp has the better view?", "a": "Pangpema gives the more dramatic, closer view of a single face. Oktang offers a wider glacier panorama with Kabru and Rathong. Doing both, linked by the passes, is the classic circuit."}
+      ]
+    },
+    {
+      "slug": "ghunsa-acclimatisation-hike",
+      "title": "Ghunsa acclimatisation hike and gompa",
+      "kind": "culture",
+      "duration": "4–5 hours",
+      "best_time": "Morning, Apr–May and Oct–Nov",
+      "price_hint": "Included in our Kanchenjunga trek",
+      "image_query": "Ghunsa village Kanchenjunga",
+      "wiki": "Ghunsa",
+      "summary": "On the rest day in Ghunsa at 3,595 m, hike several hundred metres above the village for acclimatisation and views, then visit the gompa and walk through the stone-built Sherpa settlement in the afternoon.",
+      "body": [
+        "Ghunsa is a Sherpa village of stone houses with wooden shutters, set on flat ground beside the Ghunsa Khola among larch, juniper and rhododendron. It is the last permanent settlement before the high pastures, and its health post, police check point and handful of shops make it the main hub of the north route. Everyone spends two nights here.",
+        "In the morning we climb the hillside above the village, gaining about 400 to 500 m towards a viewpoint, depending on how the group feels. The principle is to climb high and sleep low: the short spell at around 4,000 m helps the body adjust before the move to Kambachen. On clear days the view stretches up the valley towards Jannu's flanks.",
+        "Back in the village for lunch, the afternoon is for rest, laundry and a visit to the small gompa, where a caretaker can usually open the prayer hall. Evenings in the lodge dining rooms are warm around the stove, a good time to dry boots and talk with other trekking groups."
+      ],
+      "good_for": ["groups", "solo", "photographers"],
+      "faqs": [
+        {"q": "Why do treks rest at Ghunsa?", "a": "Ghunsa is at 3,595 m, and the next stops, Kambachen at about 4,050 m and Lhonak at about 4,785 m, gain height quickly. A rest day with a short climb helps your body adjust and lowers the risk of altitude sickness."},
+        {"q": "Can I buy supplies in Ghunsa?", "a": "There are small shops with snacks, toilet paper, batteries and some trekking gear, at much higher prices than in Phungling. Do not count on finding specific items."},
+        {"q": "Is there phone signal at Ghunsa?", "a": "Coverage is patchy and changes year to year. Some lodges offer paid Wi-Fi when the connection works. Our guides carry a satellite communicator for emergencies."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How long is the Kanchenjunga Base Camp trek?", "a": "The north base camp alone takes about 18–20 days from Kathmandu. The full north and south circuit, linking Pangpema and Oktang over three passes, takes about 20–22 days. A south-only trek to Oktang is about 12–14 days."},
+    {"q": "Kanchenjunga Base Camp trek cost", "a": "Our 22-day north and south base camp trek starts from about US$2,490 (₹2,15,000) per person in a group of two or more, including permits, licensed guide, porters, teahouse meals, domestic flights and road transport. Single trekkers cannot get the permit alone."},
+    {"q": "What permits do I need for Kanchenjunga?", "a": "A restricted area permit (about US$20 per person per week for the first four weeks) and a Kanchenjunga Conservation Area permit (about NPR 2,000–3,000), issued through a licensed agency. You need a licensed guide and at least two trekkers. Check current status before you travel."},
+    {"q": "Can I trek Kanchenjunga solo?", "a": "No. Restricted area rules require at least two foreign trekkers travelling with a licensed guide through a registered agency. If you are alone, we can sometimes match you with another trekker on the same dates."},
+    {"q": "How difficult is the Kanchenjunga trek?", "a": "Strenuous. Expect 6–8 hours of walking most days, big ascents and descents, several nights above 4,000 m, a high point of 5,143 m and long stretches without road access. Previous multi-day trekking experience at altitude is strongly recommended."},
+    {"q": "Is Kanchenjunga harder than Everest Base Camp?", "a": "Yes, mainly because of length, remoteness and simpler lodges. The highest point is lower than Kala Patthar at 5,644 m, but the daily stages are longer, help is further away and there is no airport within easy reach."},
+    {"q": "When is the best time for Kanchenjunga Base Camp?", "a": "April to May for rhododendrons and warmer days, and October to November for the clearest views. Early March and December are possible but cold, with snow on the passes. June to September is the monsoon: leeches, landslides and cloud."},
+    {"q": "Are there teahouses on the Kanchenjunga trek?", "a": "Yes. The whole north and south circuit can now be done staying in simple family lodges, though a few on the south side close outside the main seasons. Rooms are basic twin rooms with shared toilets."},
+    {"q": "Can Indians trek to Kanchenjunga Base Camp?", "a": "Yes. Indian nationals also need the restricted area permit and conservation area permit and must trek with a licensed guide through a registered agency. Permit fees for Indian citizens may differ from those for other nationalities. Check current status before you travel."}
+  ]
+}

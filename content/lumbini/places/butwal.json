@@ -1,0 +1,130 @@
+{
+  "slug": "butwal",
+  "name": "Butwal",
+  "region": "lumbini",
+  "kind": "city",
+  "wiki": "Butwal",
+  "image_query": "Butwal city Tinau river hills",
+  "lat": 27.7,
+  "lng": 83.466,
+  "altitude_m": 205,
+  "tagline": "Gateway city where the Terai meets the hills, on the Tinau",
+  "meta_description": "Butwal travel guide: Jit Gadhi fort and war museum, Siddhababa temple, the Tinau gorge, food stops and road links to Lumbini, Tansen, Pokhara and Chitwan.",
+  "summary": "Butwal, at about 205 m where the Tinau river leaves the Chure hills, is the commercial hub of Lumbini Province and the junction of the East-West Highway and the Siddhartha Highway to Pokhara. Travellers pass through on almost every Lumbini–Tansen–Pokhara drive; Jit Gadhi fort and the Siddhababa temple reward a short stop.",
+  "intro": [
+    "Butwal sits exactly where the flat Terai ends and the first ridges of the Chure range rise steeply to the north. The Tinau river cuts a narrow gorge through those hills, and the Siddhartha Highway follows it up towards Tansen and Pokhara. At the foot of the gorge, the East-West Highway crosses the city, linking it with Chitwan and Kathmandu to the east and Nepalgunj to the west. That position has made Butwal a trading post for centuries and today one of the fastest-growing cities in Nepal.",
+    "History is close at hand. Jit Gadhi, a fort on the Tinau's bank, was the scene of a Nepali victory over East India Company troops under Colonel Ujir Singh Thapa during the Anglo-Nepal war of 1814–1816. A statue of Thapa was unveiled near the fort in 2019, and a small war museum opened in 2021. Just north of the city, the Siddhababa temple at the mouth of the gorge is where drivers stop to pray before the climb into the hills.",
+    "For most travellers Butwal is a junction and a lunch stop rather than an overnight destination. Its restaurants, sweet shops and fuel stations make it the natural break on drives between Lumbini and Tansen, Pokhara or Chitwan. If you have an hour, the fort, the riverside and the old bazaar give a sense of a busy, modern Nepali city that few tourists see."
+  ],
+  "facts": [
+    ["Altitude", "205 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "0 (lunch or junction stop)"],
+    ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 25 km)"],
+    ["From Kathmandu", "≈ 260 km · 7–8 h by road via Narayanghat"],
+    ["Known for", "Jit Gadhi fort, Siddhababa temple, Tinau gorge, highway junction"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Jit Gadhi fort and war museum", "text": "The fort by the Tinau commemorates the 1815 Nepali victory over British forces. Ramparts, cannon displays, Ujir Singh Thapa's statue and a small museum make a 45-minute stop, and the site hosts a local festival each spring."},
+    {"title": "Siddhababa temple", "text": "This Hindu shrine to Shiva sits on the Siddhartha Highway at the entrance to the Tinau gorge. Buses and cars pause here for offerings before the climb, and the bell-hung shrine is busy at all hours."},
+    {"title": "Tinau river gorge", "text": "Immediately north of the city, the river squeezes through steep, forested walls. The highway follows it closely, and the first ten minutes of the drive towards Tansen give the most dramatic change of scenery on the whole route."},
+    {"title": "Old bazaar", "text": "Around the older market streets near the river, small shops sell metalware, cloth, spices and sweets. It is a contrast to the modern concrete strips along the highways and gives a feel for the town before its rapid growth."},
+    {"title": "Junction for four routes", "text": "Butwal connects Lumbini and the border to the south, Tansen and Pokhara to the north, Chitwan and Kathmandu to the east and Nepalgunj to the west. Almost every road trip in the region passes through it."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini, drive via Bhairahawa, ≈ 45 km · 1–1.25 h. From Bhairahawa it is ≈ 23 km · 40 min. From Chitwan (Narayanghat) it is ≈ 115 km · 3–3.5 h on the East-West Highway, and from Pokhara ≈ 165 km · 6 h on the Siddhartha Highway. Buses run frequently in all directions."},
+    {"mode": "Air", "text": "The closest airport is Gautam Buddha International Airport in Bhairahawa, 25 km south, with 35-minute flights from Kathmandu. A taxi from the airport to Butwal takes about 40 minutes."}
+  ],
+  "where_to_stay": "Butwal has many business hotels in the 2- to 3-star range, mainly along the highways and around Traffic Chowk, aimed at traders and officials rather than tourists. They are adequate for one night but rarely memorable. We do not usually place leisure travellers here. For the Buddhist sites, stay in Lumbini at Buddha Maya Gardens or Lumbini Hokke Hotel; for the hills, continue 1.5–2 hours to Tansen and Hotel Srinagar; for border or airport logistics, Hotel Nirvana in Bhairahawa is 40 minutes away.",
+  "stays": [],
+  "tips": [
+    "Plan Butwal as a lunch stop; the drive from Lumbini to Tansen or Pokhara breaks naturally here.",
+    "Fill up with fuel and cash in Butwal before the climb, as ATMs and pumps are fewer on the Siddhartha Highway.",
+    "Take motion-sickness tablets before leaving Butwal if you are prone, since the road north is winding.",
+    "Avoid the Siddhartha Highway at night; buses and trucks dominate it after dark.",
+    "During the monsoon, ask about landslides on the Butwal–Tansen section before setting out."
+  ],
+  "themes": ["cultural-tours", "overland-from-india", "budget-nepal"],
+  "nearby": ["devdaha", "tansen", "bhairahawa", "lumbini"],
+  "experiences": [
+    {
+      "slug": "butwal-jit-gadhi-fort-visit",
+      "title": "Jit Gadhi fort and the 1815 battle",
+      "kind": "culture",
+      "duration": "45 minutes",
+      "best_time": "Morning or late afternoon, all year",
+      "price_hint": "Small entry fee",
+      "image_query": "Jit Gadhi fort Butwal",
+      "wiki": "Jit Gadhi",
+      "summary": "A short stop at the fort on the Tinau river where Colonel Ujir Singh Thapa's troops defeated East India Company forces during the Anglo-Nepal war, with ramparts, cannon, a life-size statue and a small war museum.",
+      "body": [
+        "Jit Gadhi, once called Butwal Gadhi, stands near the Tinau on the city's northern side. The fort dates to the Sen rulers of Palpa and was strengthened by Nepali forces when the East India Company attacked Nepal's southern frontier in 1814. In early 1815 the defenders under Ujir Singh Thapa beat back the British, and the fort took its present name, meaning victory fort.",
+        "The site has been restored with ramparts, gates and display cannons. A life-size statue of Ujir Singh Thapa was unveiled in 2019, and a modest war museum opened in 2021 with panels, weapons and maps explaining the campaign. Labels are mostly in Nepali, so our guide translates.",
+        "The visit takes about 45 minutes. It works well as a leg-stretch on the drive between Lumbini and Tansen, and it connects with the Bhagwati Temple in Tansen, which Thapa built in 1815 to give thanks for the victory."
+      ],
+      "good_for": ["families", "groups", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "What happened at Jit Gadhi?", "a": "During the Anglo-Nepal war of 1814–1816, East India Company troops attacked Nepali positions near Butwal. In 1815 Nepali forces led by Colonel Ujir Singh Thapa defended the fort on the Tinau and defeated them. The fort was then named Jit Gadhi, meaning victory fort."},
+        {"q": "Is Jit Gadhi worth a stop?", "a": "Yes, as a 45-minute break on the drive between Lumbini and Tansen or Pokhara. The restored ramparts, statue and small museum give context to Nepal's history and to Tansen's Bhagwati Temple. It is not a full-day attraction."},
+        {"q": "Are the museum labels in English?", "a": "Most labels are in Nepali, with limited English. A guide makes a big difference to understanding the battle and the wider war. Our Tansen and Lumbini packages include a guide who can explain the displays on the way."}
+      ]
+    },
+    {
+      "slug": "butwal-siddhababa-temple-tinau-gorge",
+      "title": "Siddhababa temple and the Tinau gorge",
+      "kind": "spiritual",
+      "duration": "30 minutes",
+      "best_time": "Any time, all year",
+      "price_hint": "",
+      "image_query": "Siddhababa temple Butwal",
+      "wiki": "",
+      "summary": "A quick stop at the busy Siddhababa temple at the mouth of the Tinau gorge just north of Butwal, where travellers offer prayers for a safe journey before the Siddhartha Highway climbs into the hills.",
+      "body": [
+        "Siddhababa is a roadside temple dedicated to Shiva, set against the steep wall of the gorge where the Tinau leaves the hills. Its bells, red-and-gold decorations and stalls selling flowers, coconuts and sweets make it a busy stop at most hours. Almost every bus and many private cars pause here, and drivers often tie a red thread or offer a coin before continuing.",
+        "Beyond the temple, the highway hugs the river through a narrow, forested gorge, with cliffs rising on both sides. This section has been widened and protected in recent years because of rockfall and landslides, especially in the monsoon.",
+        "We stop for 15–30 minutes, enough to see the temple and watch the flow of pilgrims and travellers. It is an easy way to understand the everyday faith that shapes road travel in Nepal. Parking can be tight on festival days."
+      ],
+      "good_for": ["pilgrims", "families", "first-timers"],
+      "faqs": [
+        {"q": "Why do drivers stop at Siddhababa temple?", "a": "Siddhababa sits at the start of the steep, winding climb into the hills on the Siddhartha Highway. Many drivers and passengers stop to offer prayers for a safe journey, as the road has a history of landslides and accidents. It is a strong local custom."},
+        {"q": "Is the Tinau gorge road dangerous?", "a": "It is narrow and prone to rockfall and landslides, mainly during the monsoon from June to September. In the dry season, with a careful driver in daylight, it is routine. Protection works have improved safety, but check current status before you travel in heavy rain."},
+        {"q": "Can non-Hindus visit Siddhababa temple?", "a": "Yes, visitors of any faith are welcome to look around and make offerings. Remove shoes near the shrine, walk clockwise, and ask before photographing worshippers. The temple area is small and busy, so keep your visit short."}
+      ]
+    },
+    {
+      "slug": "butwal-old-bazaar-lunch-walk",
+      "title": "Butwal old bazaar and lunch break",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "Midday, all year",
+      "price_hint": "≈ ₹400–700 per person",
+      "image_query": "Butwal market street Nepal",
+      "wiki": "",
+      "summary": "A lunch stop in Butwal with a short walk through the older market streets near the Tinau, followed by a Nepali dal-bhat or North Indian thali at a restaurant our drivers have used for years.",
+      "body": [
+        "Butwal's newer areas along the highways are mostly concrete shops and hotels, but the older bazaar near the river keeps narrower lanes, brass and steel shops, cloth merchants and small temples. A 30-minute walk with our guide shows the city's trading roots, from the days when goods were carried by porters from here up to Palpa and beyond.",
+        "Lunch follows at a clean, busy restaurant. Most travellers choose dal-bhat, the Nepali set meal of rice, lentil soup, vegetable curry, pickle and greens, refilled until you are full, or a North Indian thali with roti. Vegetarian options are always available.",
+        "The stop takes about 1.5 hours and gives a natural break in the 3-hour Lumbini–Tansen drive or the longer Lumbini–Pokhara day. There are clean toilets at the restaurant, and sweet shops nearby sell snacks for the road."
+      ],
+      "good_for": ["families", "groups", "couples", "seniors"],
+      "faqs": [
+        {"q": "Where should we stop for lunch between Lumbini and Pokhara?", "a": "Butwal is the usual lunch stop, about 1–1.25 hours from Lumbini. If you leave later, Tansen, about three hours from Lumbini, or the roadside towns of Syangja district are alternatives. Our drivers know clean restaurants with reliable toilets on each section."},
+        {"q": "What is dal-bhat?", "a": "Dal-bhat is Nepal's everyday set meal: steamed rice with lentil soup, a vegetable curry, pickle and often greens and yoghurt, with meat curry as an option. Refills are usually free. It is filling, inexpensive and freshly cooked, which makes it a safe choice on the road."},
+        {"q": "Are there clean toilets in Butwal?", "a": "Yes, at the better restaurants and hotels we use, which keep clean Western-style toilets. Roadside facilities on the Siddhartha Highway are more basic, so it is worth using the Butwal stop before the climb into the hills."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Butwal?", "a": "Butwal is in Rupandehi district of Lumbini Province, at the foot of the Chure hills where the Tinau river enters the Terai. It lies about 23 km north of Bhairahawa, 45 km from Lumbini and 90 km south of Tansen by road. It is the province's largest commercial centre."},
+    {"q": "How far is Butwal from Lumbini?", "a": "About 45 km by road via Bhairahawa, which takes 1–1.25 hours by car. Local buses connect the two through Bhairahawa throughout the day. Butwal is the usual lunch stop on drives from Lumbini to Tansen, Pokhara or Chitwan."},
+    {"q": "What is there to see in Butwal?", "a": "The main sights are Jit Gadhi fort with its war museum, the Siddhababa temple at the Tinau gorge, and the older bazaar near the river. Together they fill a couple of hours. Butwal is mainly a practical stop rather than a sightseeing destination."},
+    {"q": "Is Butwal on the way from Lumbini to Pokhara?", "a": "Yes. From Lumbini you drive to Butwal and then take the Siddhartha Highway north via Tansen, Syangja and Waling to Pokhara. The full journey is about 210 km and 7–8 hours, with Butwal and Tansen as natural break points."},
+    {"q": "How far is Butwal from Chitwan?", "a": "Butwal is about 115 km west of Narayanghat on the East-West Highway, roughly 3–3.5 hours by car, plus 20 minutes more to Sauraha. Highway widening has caused delays in recent years, so check current status before you travel."},
+    {"q": "Is Butwal a good place to stay overnight?", "a": "It is fine for a practical stop, with many business hotels, but most leisure travellers prefer Lumbini for the temples, Tansen for the hills, or Bhairahawa for the airport and border. We usually plan routes so that Butwal is a lunch stop rather than a night."},
+    {"q": "What is Butwal known for?", "a": "Butwal is known as a major trading city and transport junction, the site of Jit Gadhi fort and the 1815 victory over British forces, the Siddhababa temple and its position at the mouth of the Tinau gorge. It is also a fast-growing education and business centre."},
+    {"q": "What is the weather like in Butwal?", "a": "Butwal has a hot Terai climate. Summer temperatures from April to June often exceed 38 °C, the monsoon from June to September brings heavy rain, and winter days are pleasant at 20–25 °C with cool nights and occasional fog. October to March is the most comfortable period."},
+    {"q": "Can I take a bus from Butwal to Pokhara?", "a": "Yes. Buses and microbuses run from Butwal to Pokhara throughout the day on the Siddhartha Highway, taking about 6–7 hours. Tourist-standard buses are fewer than on the Kathmandu–Pokhara route, so many travellers prefer a private car for comfort and stops."}
+  ]
+}

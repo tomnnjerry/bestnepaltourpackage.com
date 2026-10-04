@@ -1,0 +1,23 @@
+{% load tours %}<article class="bpass" data-land="{{ k.region }}">
+  <a class="bpass__link" href="{{ k.url }}" aria-label="{{ k.title }}, from {{ k.price_from_inr|inr }}"></a>
+  <div class="bpass__main">
+    <p class="bpass__top"><span>{% icon "heli" %}Heli tour</span><span>{{ k.code }}</span></p>
+    <div class="bpass__route">
+      <div><small>From</small><b>{{ k.start|split_first:" " }}</b></div>
+      <div class="bpass__line" aria-hidden="true"><i></i>{% icon "heli" %}<i></i></div>
+      <div><small>Up to</small><b>{{ k.max_altitude_m|thousands }} m</b></div>
+    </div>
+    <h3 class="bpass__title">{{ k.title }}</h3>
+    <ul class="bpass__meta">
+      <li><small>Duration</small>{{ k|days_label }}</li>
+      <li><small>Season</small>{{ k.best_label|default:"Ask us" }}</li>
+      <li><small>Region</small>{{ k.region_obj.short|default:k.region_obj.name }}</li>
+    </ul>
+  </div>
+  <div class="bpass__stub">
+    <small>from</small>
+    <b data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</b>
+    <small>per person</small>
+    <span class="bpass__bars" aria-hidden="true"></span>
+  </div>
+</article>

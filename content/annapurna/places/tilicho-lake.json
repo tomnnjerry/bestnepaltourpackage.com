@@ -1,0 +1,264 @@
+{
+  "slug": "tilicho-lake",
+  "name": "Tilicho Lake",
+  "region": "annapurna",
+  "kind": "lake",
+  "wiki": "Tilicho Lake",
+  "image_query": "Tilicho Lake Annapurna Tilicho Peak",
+  "lat": 28.6833,
+  "lng": 83.85,
+  "altitude_m": 4919,
+  "tagline": "A glacial lake at 4,919 m under the ice of Tilicho Peak",
+  "meta_description": "Tilicho Lake (4,919 m) from Manang: Khangsar, Shree Kharka, base camp, the landslide trail, frozen months, difficulty, permits and adding it to the circuit.",
+  "summary": "Tilicho Lake lies at 4,919 m below the north face of Tilicho Peak, a 2–3 day side trip west of Manang on the Annapurna Circuit. The lake is frozen from about December to April, and the approach crosses a steep landslide slope, so it suits fit, acclimatised trekkers.",
+  "intro": [
+    "Tilicho Lake fills a basin roughly 4 km long at 4,919 m, fed by the glaciers that pour off the north side of Tilicho Peak at 7,134 m and the Grande Barrière ridge. Its water is a deep blue-grey in autumn, and for much of the winter and spring it is frozen solid and dusted with snow. It is often described as one of the highest lakes of its size in the world, and the setting, ringed by ice walls and scree, is wilder than anywhere on the main circuit.",
+    "The route leaves the Annapurna Circuit at Manang and heads west through Khangsar village at 3,734 m to the summer settlement of Shree Kharka at 4,060 m. From there a narrow trail crosses a long, steep slope of loose scree and landslide debris above the Khangsar Khola gorge to Tilicho Base Camp at 4,150 m. This is the most serious section, with rockfall risk and drops below the path. Next morning trekkers climb about 770 m on switchbacks to the lake and return the same day.",
+    "Tilicho also has a place in Hindu tradition. Some identify it with the Kak Bhusundi lake mentioned in the Ramayana, and Hindu pilgrims occasionally make the journey for that reason. For most visitors, though, the appeal is the scale and silence. Adding Tilicho to the circuit means 2–3 extra days, extra time above 4,000 m that helps acclimatisation for Thorong La, and one of the hardest single days of any classic Nepal trek."
+  ],
+  "facts": [
+    [
+      "Altitude",
+      "4,919 m"
+    ],
+    [
+      "Best months",
+      "Oct – Nov · late Apr – May"
+    ],
+    [
+      "Nights we suggest",
+      "0 at the lake; 1 at Tilicho Base Camp"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom or Pokhara"
+    ],
+    [
+      "From Manang",
+      "2 days to the lake via Khangsar and Shree Kharka"
+    ],
+    [
+      "Known for",
+      "High glacial lake, Tilicho Peak ice walls, landslide trail"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    0
+  ],
+  "nights": "0 (day climb from Tilicho Base Camp)",
+  "highlights": [
+    {
+      "title": "The lake under Tilicho Peak",
+      "text": "Tilicho Peak at 7,134 m and the ice cliffs of the Grande Barrière drop almost directly into the lake's southern shore. In October the water is open and dark blue, reflecting the snow; from about December to April it is a white plain of ice. The basin's size is hard to grasp until you see people on the shore."
+    },
+    {
+      "title": "Crossing the landslide slope",
+      "text": "Between Shree Kharka and Tilicho Base Camp the trail traverses a huge slope of loose scree and eroded cliffs for about an hour. It is narrow, with steep drops into the gorge and occasional rockfall. Walking early, keeping gaps between people and not stopping under overhangs keeps the risk low."
+    },
+    {
+      "title": "Khangsar, the last village",
+      "text": "Khangsar at 3,734 m is a small Tibetan-style village of stone houses, chortens and barley fields, about 2–3 hours west of Manang. Its old gompa and narrow lanes see far fewer trekkers than Manang. Beyond Khangsar there are no permanent villages, only lodges at Shree Kharka and base camp."
+    },
+    {
+      "title": "Blue sheep on the scree",
+      "text": "The slopes around Shree Kharka and Tilicho Base Camp are home to herds of bharal, the Himalayan blue sheep. They graze surprisingly steep ground and are often seen in the early morning and late afternoon. Snow leopards hunt them in this region, though sightings by trekkers are very rare."
+    },
+    {
+      "title": "Extra acclimatisation for Thorong La",
+      "text": "Sleeping at 4,060–4,150 m and climbing to 4,919 m gives your body a strong altitude workout before Thorong La. Trekkers who come back from Tilicho in good shape often find the pass easier. It only works, however, if you are already well adjusted after a proper rest at Manang."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "On foot",
+      "text": "From Manang: walk to Khangsar and Shree Kharka at 4,060 m in about 4–5 hours, then to Tilicho Base Camp at 4,150 m in 3–4 hours over the landslide section. Climb to the lake in 3–4 hours the next morning. Return to Shree Kharka or base camp, then rejoin the circuit at Yak Kharka via Old Khangsar."
+    },
+    {
+      "mode": "Road",
+      "text": "Jeeps reach Manang from Besisahar in about 9–10 hours, and a rough track has been pushed some way towards Khangsar in recent seasons. There is no road to the lake. If you drive to Manang, rest there for at least two nights before heading towards Tilicho."
+    },
+    {
+      "mode": "Helicopter",
+      "text": "Private helicopter flights to Tilicho are possible in clear weather, mainly for rescue or scenic charters from Pokhara or Kathmandu. Landing at 4,919 m involves strict payload limits and short ground time. Anyone arriving by air without acclimatisation is at high risk of altitude sickness and should stay only minutes."
+    }
+  ],
+  "where_to_stay": "There is no lodge at the lake itself. Trekkers sleep at Tilicho Base Camp, 4,150 m, where a few lodges offer dormitories, some twin rooms and a shared dining room, or at Shree Kharka, 4,060 m, with a handful of teahouses. Both are basic, with shared toilets, limited hot water and cold rooms; in October they can be very crowded, and overflow guests sleep on dining-room benches. Khangsar has a few small family lodges. We book ahead in peak season and bring a sleeping bag rated to −15 °C for these nights.",
+  "stays": [],
+  "tips": [
+    "Cross the landslide section between Shree Kharka and base camp early in the morning, before sun and wind loosen rocks.",
+    "Keep a few metres between walkers on the scree slope and never stop to rest beneath overhanging cliffs.",
+    "Start the climb from base camp to the lake by 5–6 am, since cloud and wind often build by late morning.",
+    "Bring microspikes in late autumn and spring, when the switchbacks to the lake can be icy.",
+    "Do not go to Tilicho on the day after arriving in Manang; spend at least one acclimatisation night first."
+  ],
+  "themes": [
+    "trekking",
+    "adventure-sports",
+    "photography",
+    "pilgrimage"
+  ],
+  "nearby": [
+    "manang",
+    "thorong-la",
+    "besisahar"
+  ],
+  "experiences": [
+    {
+      "slug": "tilicho-lake-summit-day",
+      "title": "Base camp to Tilicho Lake and back",
+      "kind": "hiking",
+      "duration": "7–9 hours",
+      "best_time": "5–6 am start, Oct–Nov and May",
+      "price_hint": "Included in our Tilicho treks",
+      "image_query": "trail to Tilicho Lake switchbacks",
+      "wiki": "",
+      "summary": "The climb from Tilicho Base Camp at 4,150 m to Tilicho Lake at 4,919 m gains about 770 m on steep switchbacks, followed by the descent to base camp or Shree Kharka. A hard, high day with a vast glacial lake as the reward.",
+      "body": [
+        "We leave Tilicho Base Camp at around 5:30 am after tea and porridge. The trail climbs immediately up a steep slope of switchbacks on loose ground, gaining height quickly. After about 2 hours it eases onto a broader ridge, then crosses a gentler stretch of moraine to a final rise. Total gain to the lakeshore is about 770 m, taking most people 3–4 hours at altitude. The first switchbacks can be icy in the shade, so microspikes are worth carrying in late autumn and spring.",
+        "The lake appears suddenly over the last crest: a long sheet of blue or white, depending on the season, with Tilicho Peak's ice walls rising from the far side. A small shelter, prayer flags and a sign marking 4,919 m stand near the viewpoint. The air is thin and cold, often with wind off the ice; 30–45 minutes is usually enough time on top for photos and a rest. Do not go onto the ice when the lake is frozen, as its thickness varies.",
+        "The descent back to base camp takes 2–3 hours, and many groups continue to Shree Kharka the same afternoon, making a 8–9 hour day in total, to shorten the next day's walk back towards Yak Kharka. Knees and energy are tested, so eat and drink steadily. Anyone feeling unwell at the lake should start down immediately. Walking poles reduce strain on the long downhill, and a late lunch at base camp breaks the day. Back at Shree Kharka, hot soup and an early night prepare you for the walk to Yak Kharka."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "groups",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "How long does it take to reach Tilicho Lake from base camp?",
+          "a": "Usually 3–4 hours up, gaining about 770 m from 4,150 m to 4,919 m, and 2–3 hours back down. If you continue to Shree Kharka the same day, add another 2–3 hours. Weather, snow on the trail and your acclimatisation make a big difference, so we start early and let the slowest walker set the pace."
+        },
+        {
+          "q": "Is Tilicho Lake frozen in October?",
+          "a": "Usually not. In October and early November the lake is mostly open water, deep blue and reflecting the peaks, though the edges can freeze overnight. From around December to April it is typically frozen and snow-covered. By May the ice begins to break up, and late spring trips often see a mix of ice and open water."
+        },
+        {
+          "q": "Can I sleep at Tilicho Lake?",
+          "a": "There is no lodge at the lake, and camping at 4,919 m without strong acclimatisation is risky. Trekkers sleep at Tilicho Base Camp at 4,150 m or Shree Kharka at 4,060 m and visit the lake on a day climb. Expedition groups attempting Tilicho Peak set up camps nearby, but that is mountaineering, not trekking."
+        }
+      ]
+    },
+    {
+      "slug": "tilicho-khangsar-village-walk",
+      "title": "Khangsar village and its old gompa",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Afternoon, Sep–Nov and Apr–May",
+      "price_hint": "Small donation at the gompa",
+      "image_query": "Khangsar village Manang",
+      "wiki": "",
+      "summary": "On the way to Tilicho, the small stone village of Khangsar at 3,734 m makes a quiet stop with chortens, prayer wheels, barley fields and a gompa that sees few visitors. An easy cultural break on a demanding route.",
+      "body": [
+        "Khangsar lies about 2–3 hours west of Manang on the trail to Tilicho, set on a terrace above the Khangsar Khola. Its houses are built of stone with flat roofs piled with firewood, and the lanes between them are lined with mani walls and prayer wheels. Barley and buckwheat fields surround the village, worked by families who keep yaks, horses and goats on the high pastures in summer. The light in the late afternoon is warm and good for photographs of the old houses.",
+        "The village gompa, on the upper edge of the settlement, is small and old, with painted walls and statues in the dim interior. It is not always open; ask your guide, who can usually find the person with the key. Remove shoes and hat inside, walk clockwise and leave a small donation. Many trekkers simply pass through Khangsar for lunch, but stopping an hour gives a feel for life in the upper Manang valley.",
+        "Some itineraries spend the night here rather than at Shree Kharka, which gives a gentler altitude gain from Manang. Lodges are simple family places with hearty food. Above Khangsar the trail splits; the lower route continues to Shree Kharka and Tilicho, while a higher path runs north-east towards Old Khangsar and Yak Kharka, which trekkers use on the way back to the main circuit. Your guide will choose based on conditions and how the group feels after Tilicho."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "photographers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "How far is Khangsar from Manang?",
+          "a": "About 2–3 hours' walk west of Manang, with a gain of roughly 200 m from 3,519 m to 3,734 m. The trail follows the valley past fields and a small river crossing. It is a gentle walk that makes Khangsar a good lunch stop or overnight on the way to Shree Kharka and Tilicho Base Camp."
+        },
+        {
+          "q": "Can I stay overnight in Khangsar?",
+          "a": "Yes. Khangsar has a few small lodges with basic rooms and good local food. Sleeping here instead of continuing to Shree Kharka keeps the day's altitude gain small, which suits slower walkers or anyone with mild symptoms after Manang. It does make the next day to Tilicho Base Camp longer, about 5–6 hours."
+        },
+        {
+          "q": "Is Khangsar a Buddhist village?",
+          "a": "Yes. Like Manang, Khangsar follows Tibetan Buddhist traditions, with a gompa, chortens, mani walls and prayer wheels. Local families observe Buddhist festivals and rituals through the year. Walk clockwise around religious structures, do not sit on mani walls and ask before photographing people or the inside of the gompa."
+        }
+      ]
+    },
+    {
+      "slug": "tilicho-shree-kharka-blue-sheep",
+      "title": "Spotting blue sheep around Shree Kharka",
+      "kind": "wildlife",
+      "duration": "1–2 hours",
+      "best_time": "Dawn or late afternoon, Sep–Nov",
+      "price_hint": "",
+      "image_query": "bharal blue sheep Annapurna",
+      "wiki": "Bharal",
+      "summary": "The slopes around Shree Kharka and Tilicho Base Camp are among the best places on the Annapurna Circuit to see bharal, the Himalayan blue sheep, grazing on steep scree. Early mornings and late afternoons give the best chances.",
+      "body": [
+        "Bharal, often called blue sheep though they are closer to goats, live on the high, open slopes of the trans-Himalaya. Around Shree Kharka at 4,060 m and along the trail to Tilicho Base Camp, herds of 10–40 animals are commonly seen on ledges and scree. Their grey-brown coats blend with the rock, so you often notice them only when they move or when a guide points them out. Scan the ridgelines against the sky first.",
+        "The best times to look are early morning and late afternoon, when the sheep come out to graze and the low light picks out their outlines. Binoculars or a telephoto lens help. Keep a respectful distance and avoid sudden movements; they are wary and will move off if approached. In autumn the males may be seen sparring, clashing their thick curved horns. Never throw food or try to lure animals closer for photographs.",
+        "Bharal are the main prey of the snow leopard, which lives in this region, but snow leopards are shy and mostly active at dawn, dusk and night, so trekker sightings are rare. Lammergeiers, Himalayan griffon vultures and golden eagles also patrol the cliffs. A short walk above the lodges at Shree Kharka in the afternoon is a gentle way to stretch your legs and look for wildlife. Return before dark, as the temperature falls quickly."
+      ],
+      "good_for": [
+        "photographers",
+        "families",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Where can I see blue sheep on the Tilicho trek?",
+          "a": "On the open slopes around Shree Kharka at 4,060 m and along the trail to Tilicho Base Camp, especially on scree and ledges above the path. They are also often seen near Yak Kharka on the main circuit. Look in early morning or late afternoon, and ask your guide, who will know where herds have been grazing recently."
+        },
+        {
+          "q": "Are there snow leopards near Tilicho Lake?",
+          "a": "Yes, snow leopards live in the upper Manang region and prey on blue sheep, but they are rarely seen by trekkers. They are elusive and mostly active at dawn, dusk and night. Some lodges report occasional tracks or sightings. Seeing one would be very lucky; seeing blue sheep, their main prey, is much more likely."
+        },
+        {
+          "q": "Do I need binoculars for wildlife on the Annapurna Circuit?",
+          "a": "They are not essential but help a lot. Blue sheep, raptors and pheasants often appear on distant slopes or cliffs, and binoculars of 8x or 10x magnification make them far easier to spot and enjoy. A compact pair adds little weight. Photographers will want a telephoto lens of at least 200–300 mm."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How high is Tilicho Lake?",
+      "a": "Tilicho Lake lies at 4,919 m, though some sources give 4,920 m. It is often described as one of the highest lakes of its size in the world. Tilicho Base Camp, where trekkers sleep, is at 4,150 m, and Tilicho Peak above the lake reaches 7,134 m. The climb from base camp to the lake gains about 770 m."
+    },
+    {
+      "q": "How many days does the Tilicho Lake trek take?",
+      "a": "As a side trip from Manang, Tilicho adds 2–3 days to the Annapurna Circuit. Combined with the full circuit over Thorong La, our package runs 17 days from Kathmandu. Short Tilicho-only trips that drive to Manang and back take 9–11 days, but they need careful acclimatisation because of the fast ascent."
+    },
+    {
+      "q": "Is the Tilicho Lake trek dangerous?",
+      "a": "The main hazard is the landslide section between Shree Kharka and Tilicho Base Camp, where the trail crosses loose scree with drops below and occasional rockfall. Altitude, cold and sudden snow add risk. With an early start, an experienced guide and good conditions it is manageable. In heavy snow or after storms we do not attempt it."
+    },
+    {
+      "q": "When is Tilicho Lake frozen?",
+      "a": "Roughly from December to April, though timing varies with the year. In October and November the lake is usually open and blue, with ice forming at the edges. By May the ice begins to break up. Winter visits are possible only in good conditions, with snow on the trail making the approach harder and riskier."
+    },
+    {
+      "q": "Can I do Tilicho Lake and Thorong La on the same trek?",
+      "a": "Yes, and many trekkers do. After Tilicho, you return east to Shree Kharka and take the trail via Old Khangsar to Yak Kharka on the main circuit, then continue to Thorong Phedi and the pass. The extra days above 4,000 m help acclimatisation. Our 17-day package follows this route."
+    },
+    {
+      "q": "Is there accommodation at Tilicho Lake?",
+      "a": "Not at the lake itself. Trekkers stay at Tilicho Base Camp at 4,150 m, which has a few basic lodges, or at Shree Kharka at 4,060 m. Rooms are simple, with shared toilets and very cold nights. In October lodges can be full, so booking through your guide and bringing a warm sleeping bag are wise."
+    },
+    {
+      "q": "What permit do I need for Tilicho Lake?",
+      "a": "Tilicho is inside the Annapurna Conservation Area, so you need the ACAP permit: NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians. No separate permit is needed for the lake. Licensed-guide rules for foreign trekkers have been in place since 2023 with patchy enforcement; check current status before you travel."
+    },
+    {
+      "q": "Is Tilicho Lake religious?",
+      "a": "For some Hindus, yes. Tilicho is sometimes identified with Kak Bhusundi lake, mentioned in the Ramayana, and a small number of pilgrims visit for that reason. Local Buddhist communities also hold the high lakes and peaks in respect. Do not wash with soap, throw items into the water or leave litter at the lakeshore."
+    },
+    {
+      "q": "Can beginners trek to Tilicho Lake?",
+      "a": "It is not a good first trek. The route involves long days above 4,000 m, a serious landslide section and a hard 770 m climb to nearly 4,920 m. Trekkers with previous experience at altitude, good fitness and steady footing on loose ground are best suited. Beginners should start with Poon Hill or Annapurna Base Camp."
+    }
+  ]
+}

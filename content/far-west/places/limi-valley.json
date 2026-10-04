@@ -1,0 +1,133 @@
+{
+  "slug": "limi-valley",
+  "name": "Limi Valley",
+  "region": "far-west",
+  "kind": "valley",
+  "wiki": "Limi",
+  "image_query": "Limi valley Halji village Humla",
+  "lat": 30.27,
+  "lng": 81.4,
+  "altitude_m": 3660,
+  "tagline": "Three Tibetan villages and an old gompa on the edge of the plateau",
+  "meta_description": "Limi Valley guide: Halji's Rinchenling Gompa, Til and Jang villages, Nyalu La, wildlife, Humla restricted area permits and the camping trek from Simikot.",
+  "summary": "Limi is a high, dry valley in Upper Humla near the Tibet border, home to the Tibetan Buddhist villages of Til, Halji and Jang between about 3,660 and 4,100 m. Halji's Rinchenling Gompa is centuries old. Reach it only on a 15–17 day camping trek from Simikot with a restricted area permit. Best May to October.",
+  "intro": [
+    "Limi lies in the far north-western corner of Nepal, a side valley of the Karnali basin enclosed by passes of 4,500–5,000 m and opening towards Tibet. Its three villages, Til, Halji and Jang, are built of stone and timber in Tibetan style, with flat roofs stacked with firewood and walls draped in prayer flags. The people speak a Tibetan dialect, follow the Drikung Kagyu tradition of Tibetan Buddhism, and for centuries traded salt, wool and grain across the border, which is still closer to them than any Nepali road.",
+    "Halji, the largest village at about 3,660 m, is built around Rinchenling Gompa, a monastery often said to be some 800 years old or more and associated with the era of the translator Rinchen Zangpo. Its assembly hall holds old statues, murals and texts, and it remains the spiritual centre of the valley. Til is the smallest village and closest to the border; Jang lies beyond Halji near the Chagzur hot springs. Wildlife is notable: blue sheep, Tibetan wild ass (kiang), wild yak in remote side valleys, and snow leopard are recorded.",
+    "Getting here is the adventure. The classic loop from Simikot follows the Humla Karnali north to Hilsa, crossing Nara La at about 4,620 m, then enters Limi through the Karnali gorge, visits all three villages and returns over Nyalu La, about 4,950 m, one of the highest points on the Great Himalaya Trail in the west. It is a fully supported camping trek with mules, and Humla's restricted area rules require a licensed guide and an agency permit."
+  ],
+  "facts": [
+    ["Altitude", "≈ 3,660 m (Halji) · Nyalu La ≈ 4,950 m"],
+    ["Best months", "May – Oct"],
+    ["Nights we suggest", "3–4 in the valley"],
+    ["Nearest airport", "Simikot (≈ 7–8 days' walk)"],
+    ["From Kathmandu", "Flights to Nepalgunj and Simikot + 7–8 days' trek"],
+    ["Known for", "Rinchenling Gompa, Tibetan village life, Nyalu La, kiang and blue sheep"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "3",
+  "highlights": [
+    {"title": "Rinchenling Gompa, Halji", "text": "The heart of Limi. The monastery is believed to date back around 800 years or more, with a dim assembly hall of statues, painted walls and old scriptures. Monks and villagers gather for ceremonies, and a respectful visit with a donation is welcomed."},
+    {"title": "Til, Halji and Jang", "text": "Three stone villages with flat roofs, prayer walls and barley fields, where families still move livestock to summer pastures and trade across the border. Limi has kept its Tibetan character more completely than almost anywhere else in Nepal."},
+    {"title": "Nyalu La crossing", "text": "The exit from Limi crosses Nyalu La at about 4,950 m, with views of Saipal and the snowy ranges of Humla and, to the north, the brown plateau towards Mount Kailash. It is a long, high day and the physical crux of the trek."},
+    {"title": "Karnali gorge entry", "text": "From Hilsa the trail into Limi follows ledges cut into cliffs above the Karnali, where the river enters Nepal from Tibet. The path is exposed in places and passes the camp at Manepeme before climbing into the valley."},
+    {"title": "Wildlife of the high valleys", "text": "Blue sheep graze the slopes above the villages, and Tibetan wild ass and wild yak are seen in remoter side valleys. Snow leopard tracks are reported in winter. Lammergeiers and Himalayan griffons ride the thermals over the passes."},
+    {"title": "Chagzur hot springs", "text": "Near Jang, natural hot springs offer the first proper wash in days. Most groups camp nearby and take a rest day before the climb towards Nyalu La."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Nepalgunj (≈ 1 h), then Nepalgunj–Simikot (≈ 40–50 min). Keep at least one spare day at each end for weather."},
+    {"mode": "On foot", "text": "From Simikot: 7–8 days via Dharapori, Kermi, Yalbang, Tumkot and Nara La (≈ 4,620 m) to Hilsa, then Manepeme and Til. Return over Nyalu La (≈ 4,950 m) and down the Salli Khola to Kermi and Simikot in 5–6 days."},
+    {"mode": "Helicopter", "text": "Charter helicopters can shorten the loop by flying Simikot–Hilsa (≈ 25–30 min), cutting about four walking days. Landing elsewhere in Limi requires special arrangements; check current status before you travel."},
+    {"mode": "Road", "text": "A road from Tibet reaches Hilsa, and tracks have been cut towards Limi, but there is no road link from southern Nepal and vehicle access is not a practical option for visitors."}
+  ],
+  "where_to_stay": "There are no lodges in the Limi Valley. Trekking groups camp with full support: sleeping tents, a dining and kitchen tent, cook, assistants and mules that carry food and fuel from Simikot. In Halji and Jang, families sometimes offer homestay rooms or space in a courtyard, and a few rooms near the gompa are used by visitors with permission. Before and after the trek you stay in simple lodges in Simikot and a hotel in Nepalgunj. Plan for nights well below freezing at Til, the Talung camp and the Nyalu La high camp, even in summer.",
+  "stays": [],
+  "tips": [
+    "Bring a sleeping bag rated to −15 °C and a good insulated jacket even in summer.",
+    "Carry small notes for gompa donations and to buy local items in Halji and Jang.",
+    "Ask before photographing inside Rinchenling Gompa and during ceremonies.",
+    "Follow the guide closely on the cliff path from Hilsa to Manepeme; it is narrow and exposed.",
+    "Keep two contingency days for flights and weather on the Nyalu La crossing."
+  ],
+  "themes": ["trekking", "cultural-tours", "photography", "buddhist-circuit"],
+  "nearby": ["simikot", "rara-lake"],
+  "experiences": [
+    {
+      "slug": "limi-halji-rinchenling-gompa-visit",
+      "title": "Rinchenling Gompa in Halji",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning, May–Oct",
+      "price_hint": "Donation customary",
+      "image_query": "Halji Rinchenling gompa Limi",
+      "wiki": "",
+      "summary": "A morning in Halji, Limi's largest village, visiting Rinchenling Gompa, the centuries-old monastery at the heart of valley life, with its statues, murals and ceremonies, guided by a local caretaker or monk.",
+      "body": [
+        "Halji clusters tightly around its gompa, with houses joined by narrow lanes and roofs stacked high with juniper and brushwood for winter. Rinchenling is generally said to be around 800 years old or more, and local accounts connect it with the period of Rinchen Zangpo, the great translator who founded temples across western Tibet. Whatever the exact date, it is among the oldest active monasteries in Nepal.",
+        "Inside the assembly hall, butter lamps light statues of the Buddha and protector deities, old thangkas and walls darkened by centuries of smoke. The monastery holds important texts, and a caretaker will usually open the inner rooms for respectful visitors. The community also maintains chortens and prayer walls around the village.",
+        "Walk clockwise around the gompa and chortens, remove hats inside, and do not touch statues or offerings. Ask before photographing; flash is not appropriate. A donation towards upkeep is expected. If you are lucky with timing, you may see a puja with drums and horns."
+      ],
+      "good_for": ["photographers", "solo", "groups"],
+      "faqs": [
+        {"q": "How old is Rinchenling Gompa in Halji?", "a": "It is commonly described as around 800 years old or more, and local tradition links it with the era of the translator Rinchen Zangpo in the 10th–11th centuries. Exact dating is uncertain, but it is among the oldest active Buddhist monasteries in Nepal and the religious centre of the Limi Valley."},
+        {"q": "Can visitors enter Rinchenling Gompa?", "a": "Yes, respectful visitors are usually welcomed when a caretaker or monk is present. Remove hats and shoes where indicated, walk clockwise, do not touch statues or offerings, and ask before taking photographs. A donation towards upkeep is customary. Your guide will arrange the visit with the village."},
+        {"q": "What Buddhist tradition is followed in Limi?", "a": "The villages of Limi mainly follow the Drikung Kagyu school of Tibetan Buddhism, with strong ties to monasteries in western Tibet around Mount Kailash. Village life follows the Tibetan calendar, and festivals at Halji draw people from Til and Jang. Visitors may see pujas, especially in summer."}
+      ]
+    },
+    {
+      "slug": "limi-nyalu-la-pass-crossing",
+      "title": "Crossing Nyalu La at about 4,950 m",
+      "kind": "adventure",
+      "duration": "8–9 hours",
+      "best_time": "Pre-dawn start, Jun–Oct",
+      "price_hint": "Included in Limi Valley treks",
+      "image_query": "Nyalu La pass Humla Limi",
+      "wiki": "",
+      "summary": "The longest and highest day of the Limi loop: a pre-dawn climb from the Talung high camp over Nyalu La, about 4,950 m, with views of Saipal and the Tibetan plateau, then a long descent towards the Salli Khola.",
+      "body": [
+        "After leaving Jang and the Chagzur hot springs, the trail climbs the Talung valley to a high camp at about 4,350 m. On crossing day you leave in the dark, climbing scree and moraine to Nyalu La, at roughly 4,950 m. Height gain is around 600 m, but at this altitude every step counts.",
+        "From the top, on a clear morning, you see the Saipal range to the south, the ridges of Humla, and north to the bare plateau of Tibet. A frozen lake below the pass, Selima Tso, often appears in trekkers' photos. Prayer flags mark the crest, and groups rarely linger long because wind rises by mid-morning.",
+        "The descent is long and steep at first, losing well over 1,000 m to the camp at Shinjungma at about 3,620 m. Total walking time is 8–9 hours. Early season snow can make the pass difficult in June or late October, and your leader will decide on the day whether conditions are safe."
+      ],
+      "good_for": ["solo", "photographers", "groups"],
+      "faqs": [
+        {"q": "How high is Nyalu La?", "a": "Nyalu La is usually given as about 4,950 m, with sources quoting from 4,940 to 4,990 m. It is the highest point of the Limi Valley loop. The crossing day takes 8–9 hours, starting from a high camp around 4,350 m and descending to about 3,620 m on the far side."},
+        {"q": "Is Nyalu La dangerous?", "a": "It is a serious high pass but not technical in normal conditions. The main risks are altitude, cold, wind and fresh snow, which can hide the trail. Good acclimatisation from the previous days, an early start and an experienced leader make it manageable. Groups wait if weather is poor."},
+        {"q": "Do I need crampons for Nyalu La?", "a": "Usually not in mid-summer and early autumn, but microspikes are a sensible precaution in June and from late October, when snow and ice may lie on the approach. Our crews carry them when needed. Good boots, trekking poles and warm gloves matter more on most crossings."}
+      ]
+    },
+    {
+      "slug": "limi-blue-sheep-kiang-wildlife-watch",
+      "title": "Blue sheep and kiang on the high slopes",
+      "kind": "wildlife",
+      "duration": "2–4 hours",
+      "best_time": "Early morning or dusk, Jun–Oct",
+      "price_hint": "Included in Limi Valley treks",
+      "image_query": "blue sheep bharal Humla",
+      "wiki": "Bharal",
+      "summary": "Early morning or evening wildlife watching around Til and the upper Limi valleys, scanning slopes for blue sheep, Tibetan wild ass and, in remote areas, wild yak, with lammergeiers overhead.",
+      "body": [
+        "Limi's isolation and low human population make it one of the best places in Nepal's far north-west for high-altitude wildlife. Blue sheep, or bharal, graze steep slopes above the villages and are seen most days. Tibetan wild ass, the kiang, frequent wider valleys towards the border, and wild yak survive in the remotest side valleys.",
+        "Snow leopards hunt blue sheep here, and villagers report them, especially in winter, but sightings by trekkers are very rare. More likely are red foxes, marmots and pika, and birds such as lammergeier, Himalayan griffon, golden eagle and Tibetan snowcock.",
+        "The best times are just after dawn and in the hour before dark, scanning slopes with binoculars from camp or a nearby ridge. Rest days in Halji or at the hot springs give the best opportunities. Keep distance from all wildlife and from herders' dogs."
+      ],
+      "good_for": ["photographers", "solo"],
+      "faqs": [
+        {"q": "What wildlife can I see in the Limi Valley?", "a": "Blue sheep are seen regularly. Tibetan wild ass and wild yak live in remote valleys towards the border, and snow leopards are present but very rarely seen. Marmots, pika, red fox, lammergeiers and griffons are common. Binoculars and patient scanning at dawn and dusk bring the best results."},
+        {"q": "Are there snow leopards in Limi?", "a": "Yes, snow leopards live in Upper Humla and Limi, preying on blue sheep, and villagers report them, mostly in winter. Trekkers in summer and autumn almost never see one. You might find tracks or scat on high trails. Treat any sighting as a rare bonus."},
+        {"q": "Do I need a long lens for wildlife in Limi?", "a": "A 300–400 mm lens or longer is useful, as blue sheep and kiang keep their distance on open slopes. A good pair of binoculars is even more important for spotting. Weight is limited on the trek, so choose one versatile zoom and pack extra batteries for the cold."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is the Limi Valley?", "a": "In Upper Humla, in the far north-west of Nepal, close to the Tibet border and north-west of Simikot. It contains the villages of Til, Halji and Jang between roughly 3,660 and 4,100 m. Access is on foot from Simikot via Hilsa, or with a helicopter shortcut to Hilsa."},
+    {"q": "Do I need a permit for the Limi Valley?", "a": "Yes. Limi is in the Humla restricted area, so you need a restricted area permit issued through a registered Nepali agency, a licensed guide and a group of at least two trekkers. The fee has been US$50 per person for the first seven days and US$10 per day after. Check current status before you travel."},
+    {"q": "How many days is the Limi Valley trek?", "a": "The loop from Simikot takes 15–17 walking days, and a full itinerary from Kathmandu runs 19–22 days including flights and spare days. A helicopter from Simikot to Hilsa can cut four days. Allow at least two contingency days for weather on the flights and passes."},
+    {"q": "How difficult is the Limi Valley trek?", "a": "Strenuous. It involves several long days of 6–9 hours, camping throughout, and passes at about 4,620 m (Nara La) and 4,950 m (Nyalu La). Trekkers need previous high-altitude experience, good fitness and comfort with basic camp life and exposed trails along the Karnali gorge."},
+    {"q": "When is the best time for the Limi Valley?", "a": "May to October. Humla lies in a rain shadow, so July and August bring less rain than central Nepal and are workable, though flights may be disrupted. September and October give clear skies and the best views. From November to April snow closes the high passes."},
+    {"q": "Are there teahouses in the Limi Valley?", "a": "No. Limi has no trekking lodges, so treks are fully supported camping trips with tents, cook and mules. Occasional homestay rooms in Halji or Jang add a cultural touch, but you cannot plan the trek around them. This is one reason the trek costs more than teahouse routes."},
+    {"q": "What is the Limi Valley trek cost?", "a": "A fully supported 19-day Limi trek from Kathmandu typically costs from about US$3,800–4,500 per person in a small group, including domestic flights, camping crew, mules, restricted area permit and guide. Smaller groups and helicopter shortcuts cost more. Kathmandu hotels and international flights are extra."},
+    {"q": "Can I combine Limi Valley with Kailash?", "a": "Some trekkers combine the two, crossing into Tibet at Hilsa for Kailash and then returning to trek Limi, but this needs separate Tibet permits and careful planning around Chinese border rules. Rules change from year to year, so check current status before you travel and expect a longer, costlier trip."},
+    {"q": "Is the Limi Valley on the Great Himalaya Trail?", "a": "Yes. The Great Himalaya Trail high route in the far west passes through Humla, and the Limi loop, including Nyalu La, is one of its best-known sections. Many GHT trekkers either start or finish in Simikot, combining Limi with routes south towards Rara and Dolpo."}
+  ]
+}

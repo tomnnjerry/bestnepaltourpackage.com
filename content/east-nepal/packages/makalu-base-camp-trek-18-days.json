@@ -1,0 +1,100 @@
+{
+  "slug": "makalu-base-camp-trek-18-days",
+  "title": "Makalu Base Camp Trek 18 Days",
+  "region": "east-nepal",
+  "type": "trek",
+  "grade": "Strenuous",
+  "nights": 17,
+  "themes": ["trekking", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "makalu-base-camp", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 165000,
+  "price_from_usd": 1890,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5000,
+  "accommodation": "3-star hotel in Kathmandu, basic teahouse lodges on the trek",
+  "transport": "Kathmandu–Tumlingtar flights, jeep Tumlingtar–Num and return",
+  "group": "Private or small group, 2–10",
+  "meta_description": "Makalu Base Camp trek 18 days: fly to Tumlingtar, Arun valley, Shipton La, Barun valley, base camp 4,870 m. Permits, licensed guide, teahouses. From US$1,890.",
+  "summary": "An 18-day teahouse trek from the Arun valley to Makalu Base Camp at 4,870 m, below the south face of the world's fifth-highest mountain. The route climbs from rice terraces at 500 m over the Shipton La into the glacial Barun valley. Lodges are basic and daily stages long. Best in April–May and October–November.",
+  "intro": [
+    "Few treks in Nepal climb through as many worlds as this one. You fly to Tumlingtar on a terrace above the Arun River, drive to Num and walk through Rai and Sherpa villages, cardamom fields and sal and rhododendron forest to Tashigaon, the last village. Then the trail climbs steeply to Khongma Danda and crosses the Shipton La and Keke La, around 4,200 m, before dropping into the Barun valley, with its sheer walls, waterfalls and yak pastures.",
+    "From Yangle Kharka the valley leads gently up past Langmale Kharka to base camp at 4,870 m, with Makalu's south face directly above. An exploration day lets you climb the moraine to around 5,000 m for views towards Everest and Lhotse. The trek is quieter and less developed than the Everest route: lodges are simple, days are 5–8 hours and the area is remote. We include acclimatisation at Khongma Danda and a spare day at base camp."
+  ],
+  "highlights": [
+    "Makalu's south face from base camp at 4,870 m",
+    "Moraine viewpoint at around 5,000 m with Everest and Lhotse",
+    "Shipton La and Keke La crossings with Kanchenjunga far to the east",
+    "The deep, waterfall-lined Barun valley",
+    "Rai and Sherpa villages of the Arun valley",
+    "Makalu Barun National Park forests, from sal to fir"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · 30 min", "flight": "", "text": "Arrival transfer to your hotel. In the afternoon your guide checks your gear, collects passport details for the national park permit and trekking registration, and briefs you on the route, the lodges and how we manage altitude. Shops in Thamel can supply anything missing, from microspikes to a −15 °C sleeping bag. Early night: tomorrow's flight leaves in the morning.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Tumlingtar, drive to Num", "place": "", "overnight": "Num", "altitude_m": 1560, "max_m": 1700, "walk": "", "drive": "≈ 5–6 h by jeep", "flight": "Kathmandu–Tumlingtar · 40–45 min", "text": "A short mountain flight lands you on Tumlingtar's flat terrace above the Arun River, at about 518 m. After tea we drive by jeep through Khandbari, the Sankhuwasabha district headquarters, and along a ridge road with views over the Arun valley to Num, at about 1,560 m, a village perched on a spur above the river. The road is rough in places; take motion-sickness tablets if you need them.", "meals": "B, L, D"},
+    {"day": 3, "title": "Trek Num to Seduwa", "place": "", "overnight": "Seduwa", "altitude_m": 1540, "max_m": 1560, "walk": "≈ 6 h · 10 km", "drive": "", "flight": "", "text": "A day of big descent and big climb. The trail drops steeply through farms and forest to a suspension bridge over the Arun at well under 1,000 m, then climbs the far side through terraces and small villages to Seduwa, at about 1,540 m. The national park check post at Seduwa records your permits. The low valley is hot and humid, so start early and carry at least 2 litres of water.", "meals": "B, L, D"},
+    {"day": 4, "title": "Trek Seduwa to Tashigaon", "place": "", "overnight": "Tashigaon", "altitude_m": 2100, "max_m": 2100, "walk": "≈ 5 h · 9 km", "drive": "", "flight": "", "text": "A gentler day climbing through Rai villages, cardamom groves and bamboo, with views up the Kasuwa Khola valley. The trail climbs steadily to Tashigaon, at about 2,100 m, a Sherpa village and the last permanent settlement on the route. Lodges here are simple family homes. In the afternoon, walk through the village and look for the first snow peaks to the north.", "meals": "B, L, D"},
+    {"day": 5, "title": "Trek Tashigaon to Khongma Danda", "place": "", "overnight": "Khongma Danda", "altitude_m": 3500, "max_m": 3500, "walk": "≈ 6–7 h · 8 km", "drive": "", "flight": "", "text": "The steepest climb of the trek: about 1,400 m up through rhododendron, oak and fir forest, on a rough trail with stone steps and roots, past forest clearings used by herders. In April the rhododendrons here are spectacular. Khongma Danda, at about 3,500 m, is a ridge-top clearing with a few lodges and big views. This gain is too fast to go further, so we stay two nights.", "meals": "B, L, D"},
+    {"day": 6, "title": "Acclimatisation day at Khongma Danda", "place": "", "overnight": "Khongma Danda", "altitude_m": 3500, "max_m": 3900, "walk": "≈ 3 h · climb about 400 m", "drive": "", "flight": "", "text": "A planned rest day to let your body adjust before the high crossing. In the morning we hike up the ridge above the lodges, gaining around 400 m, for views of Makalu, Chamlang and Peak 6 on clear mornings, then return to sleep at the same altitude. Your guide checks everyone's oxygen saturation and discusses the next day's long crossing.", "meals": "B, L, D"},
+    {"day": 7, "title": "Over Shipton La to Dobate", "place": "", "overnight": "Dobate", "altitude_m": 3650, "max_m": 4200, "walk": "≈ 7–8 h · 12 km", "drive": "", "flight": "", "text": "We leave before dawn and climb past Kauma to the Shipton La at about 4,200 m, then traverse past the lakes of Kalo Pokhari to the Keke La at about 4,170 m. Clear mornings bring views of Makalu, Chamlang and Kanchenjunga far to the east. From the Keke La a long, steep descent through forest reaches Dobate, at about 3,650 m. Snow can cover the trail in spring and late autumn, and microspikes help.", "meals": "B, L, D"},
+    {"day": 8, "title": "Trek Dobate to Yangle Kharka", "place": "", "overnight": "Yangle Kharka", "altitude_m": 3600, "max_m": 3650, "walk": "≈ 6 h · 11 km", "drive": "", "flight": "", "text": "The trail descends through forest into the Barun valley and follows the river upstream. Huge cliffs rise on both sides, waterfalls pour from the rims and the valley floor opens into pasture. You pass herders' stone shelters and reach Yangle Kharka, a yak grazing area at about 3,600 m, with a couple of lodges and a small gompa.", "meals": "B, L, D"},
+    {"day": 9, "title": "Trek Yangle Kharka to Langmale Kharka", "place": "", "overnight": "Langmale Kharka", "altitude_m": 4410, "max_m": 4410, "walk": "≈ 5 h · 9 km", "drive": "", "flight": "", "text": "A steady climb of about 800 m up the Barun valley past summer yak pastures. The trees thin out to juniper and dwarf rhododendron, and the peaks close in, with Peak 6 and Peak 7 above. Langmale Kharka, at about 4,410 m, is a wide pasture with simple lodges. Take the afternoon easy and drink plenty of fluids.", "meals": "B, L, D"},
+    {"day": 10, "title": "Trek Langmale Kharka to Makalu Base Camp", "place": "makalu-base-camp", "overnight": "Makalu Base Camp", "altitude_m": 4870, "max_m": 4870, "walk": "≈ 4 h · 8 km", "drive": "", "flight": "", "text": "The valley swings north and the south face of Makalu appears ahead, growing with every step. The trail crosses moraine and glacial streams beside the Barun Glacier to base camp, at 4,870 m, a flat area of stone lodges and tent platforms. In the afternoon, rest and watch the light change on the face above. Nights are bitterly cold, often −10 °C or lower.", "meals": "B, L, D"},
+    {"day": 11, "title": "Exploration day at base camp", "place": "makalu-base-camp", "overnight": "Makalu Base Camp", "altitude_m": 4870, "max_m": 5000, "walk": "≈ 4–5 h", "drive": "", "flight": "", "text": "If everyone is well, we climb the moraine ridge behind camp towards the old Swiss base camp, reaching around 5,000 m depending on conditions. On clear mornings Everest's summit and the eastern side of Lhotse appear to the west, with Baruntse closing the valley and the Barun Glacier below. Those who feel the altitude rest in camp. This day also acts as a weather buffer for the views.", "meals": "B, L, D"},
+    {"day": 12, "title": "Trek back to Yangle Kharka", "place": "", "overnight": "Yangle Kharka", "altitude_m": 3600, "max_m": 4870, "walk": "≈ 6–7 h · 17 km", "drive": "", "flight": "", "text": "A long but mostly downhill day back down the Barun valley, losing about 1,270 m. With thicker air you will walk faster than on the way up, and the waterfalls and cliffs look different in reverse. Yangle Kharka's lodge feels positively warm after base camp.", "meals": "B, L, D"},
+    {"day": 13, "title": "Trek Yangle Kharka to Dobate", "place": "", "overnight": "Dobate", "altitude_m": 3650, "max_m": 3650, "walk": "≈ 5–6 h · 11 km", "drive": "", "flight": "", "text": "We retrace our steps down the Barun and climb out of the valley through forest to Dobate. The climb at the end of the day, about 400 m, is a reminder that the passes still lie between you and the Arun valley. Rest well tonight.", "meals": "B, L, D"},
+    {"day": 14, "title": "Recross the passes to Khongma Danda", "place": "", "overnight": "Khongma Danda", "altitude_m": 3500, "max_m": 4200, "walk": "≈ 6–7 h · 12 km", "drive": "", "flight": "", "text": "Back over the Keke La and Shipton La, around 4,200 m, with a second chance at the view of Makalu, Chamlang and Kanchenjunga if the first crossing was cloudy. Then down to Khongma Danda for the night. As on the way in, an early start is the key to clear skies and firm snow.", "meals": "B, L, D"},
+    {"day": 15, "title": "Descend to Seduwa", "place": "", "overnight": "Seduwa", "altitude_m": 1540, "max_m": 3500, "walk": "≈ 7 h · 14 km", "drive": "", "flight": "", "text": "A knee-testing descent of almost 2,000 m, first down the steep forest trail to Tashigaon, then on through Rai villages and cardamom groves to Seduwa. Walking poles are a big help. Back in the warm, green middle hills, enjoy fresh vegetables and perhaps a glass of local tongba with your crew.", "meals": "B, L, D"},
+    {"day": 16, "title": "Trek Seduwa to Num", "place": "", "overnight": "Num", "altitude_m": 1560, "max_m": 1560, "walk": "≈ 5 h · 10 km", "drive": "", "flight": "", "text": "The final walking day drops to the Arun bridge and climbs the long, hot hill back up to Num. Take it slowly and start early to avoid the midday heat. In the evening, celebrate the end of the trek with your guide and porters; this is the usual moment to hand over tips.", "meals": "B, L, D"},
+    {"day": 17, "title": "Drive to Tumlingtar, fly to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1700, "walk": "", "drive": "Num–Tumlingtar ≈ 4–5 h", "flight": "Tumlingtar–Kathmandu · 40–45 min", "text": "An early jeep ride back along the ridge road via Khandbari to Tumlingtar, in time for the afternoon flight to Kathmandu. If flights that day leave only in the morning, we sleep in Tumlingtar and fly next morning, using the spare time at the end. Transfer to your hotel and enjoy a long, hot shower.", "meals": "Breakfast, Dinner"},
+    {"day": 18, "title": "Depart Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel–airport · 30 min", "flight": "", "text": "Transfer to the airport for your international flight. If you can, add a day or two in Kathmandu as a buffer against flight disruptions on the Tumlingtar sector and to see Boudhanath, Pashupatinath and Patan at leisure.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Tumlingtar–Kathmandu flights",
+    "Makalu Barun National Park permit, local fees and trekking registration",
+    "Licensed English-speaking trekking guide and porters (one porter per two trekkers)",
+    "2 nights at a 3-star hotel in Kathmandu with breakfast",
+    "Teahouse lodges and all meals on the trek",
+    "Jeep transfers Tumlingtar–Num–Tumlingtar",
+    "Guide and porter wages, insurance, food and lodging",
+    "First-aid kit and pulse oximeter",
+    "Airport transfers in Kathmandu"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter rescue cover",
+    "Meals in Kathmandu except welcome dinner",
+    "Hot showers, charging and Wi-Fi in lodges",
+    "Bottled water, soft drinks and alcohol",
+    "Extra nights caused by flight cancellations",
+    "Personal gear and sleeping bag hire",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "Price assumes two trekkers sharing in a group of 2–4; solo trekkers pay a supplement for guide and porter costs.",
+    "Upper lodges open mainly in spring and autumn; outside those months we may need camping support.",
+    "The Tumlingtar flight is weather-dependent; keep at least one free day before your international departure.",
+    "Since 2023, foreign trekkers in Nepal's national parks are expected to use a licensed guide; check current status before you travel.",
+    "You should be comfortable walking 6–8 hours a day with steep climbs and descents."
+  ],
+  "add_ons": [
+    {"name": "Helicopter from Makalu Base Camp to Kathmandu", "price": "From ≈ US$ 4,000 per helicopter"},
+    {"name": "Extra rest day at Langmale Kharka", "price": "≈ US$ 65 per person"}
+  ],
+  "faqs": [
+    {"q": "How hard is the Makalu Base Camp trek?", "a": "Strenuous. The climb from Tashigaon to Khongma Danda gains about 1,400 m in a day, the Shipton La crossing is 7–8 hours, and lodges are basic. Fit trekkers with previous multi-day experience manage well; it is not a good first Himalayan trek."},
+    {"q": "What is the cost of the Makalu Base Camp trek?", "a": "Our 18-day trek starts from about US$1,890 (₹1,65,000) per person for a group of two to four, including Tumlingtar flights, jeep transfers, permits, licensed guide, porters, teahouses and meals on the trek."},
+    {"q": "Do I need a restricted area permit for Makalu?", "a": "Not for the standard base camp route. You need the Makalu Barun National Park permit, about NPR 3,000 for foreigners, plus local fees and trekking registration. Routes into some border areas need extra permits. Check current status before you travel."},
+    {"q": "What is the highest point of the trek?", "a": "Makalu Base Camp is at 4,870 m, the highest overnight. On the exploration day you can climb the moraine above camp to around 5,000 m. Shipton La, at about 4,200 m, is the highest point on the approach."},
+    {"q": "Are there lodges all the way to Makalu Base Camp?", "a": "Yes, in the main seasons. They are simpler than on the Everest route, with basic rooms, shared toilets and limited menus. Some upper lodges close from December to February and during the monsoon."},
+    {"q": "When is the best time for Makalu Base Camp?", "a": "October and November offer the clearest views; April and May bring rhododendrons and milder days. Snow on Shipton La makes winter risky, and the monsoon brings leeches, landslides and cloud."},
+    {"q": "Can I see Everest on the Makalu trek?", "a": "Yes, on clear mornings from the moraine ridge above base camp you can see the top of Everest and the eastern side of Lhotse. From Shipton La the views are of Makalu, Chamlang and Kanchenjunga."},
+    {"q": "Is there a helicopter option for Makalu Base Camp?", "a": "Yes. Charter helicopters can fly out from base camp or Yangle Kharka to Kathmandu in good weather, from about US$4,000 per helicopter. It is mainly used for rescue or to cut the return walk."},
+    {"q": "How much walking per day on the Makalu trek?", "a": "Most days involve 5–7 hours of walking, with the Shipton La crossings and the descent from Khongma Danda reaching 7–8 hours. The rest day at Khongma Danda and the exploration day at base camp are shorter."}
+  ]
+}

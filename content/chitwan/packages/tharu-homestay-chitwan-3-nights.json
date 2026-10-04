@@ -1,0 +1,83 @@
+{
+  "slug": "tharu-homestay-chitwan-3-nights",
+  "title": "Tharu Culture Homestay Chitwan 3 Nights",
+  "region": "chitwan",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["cultural-tours", "budget-nepal", "wildlife-safari", "family-holidays"],
+  "stops": [{"place": "sauraha", "nights": 1}, {"place": "chitwan-national-park", "nights": 0}, {"place": "barauli", "nights": 2}],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu (or Lumbini or Pokhara)",
+  "price_from_inr": 18000,
+  "price_from_usd": 240,
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Resort in Sauraha (1 night), Barauli Community Homestay cottages (2 nights)",
+  "transport": "Private car Kathmandu–Sauraha–Barauli–Kathmandu",
+  "group": "Private, 2–10",
+  "meta_description": "Tharu culture homestay Chitwan 3 nights 4 days: Tharu museum and dance in Sauraha, canoe safari, then two nights at the women-run Barauli homestay. From ₹18,000.",
+  "summary": "A culture-first Chitwan trip: one night in Sauraha with the Tharu museum, stick dance and a canoe safari, then two nights at the Barauli Community Homestay, a Tharu village run by its women, cooking with host families, walking the fields and watching sunsets on the Narayani.",
+  "intro": [
+    "Most visitors meet the Tharu only through an hour-long dance show. This trip goes further. You begin in Sauraha, where the Tharu Cultural Museum and an evening of stick dancing give context, and a morning canoe safari shows the park that shaped Tharu life. Then you cross the Narayani to Barauli, a Tharu village in Nawalpur where, since 2015, local women have run a community homestay of small cottages and hosted guests in their kitchens.",
+    "At Barauli the days are slow and practical: grinding spices for dinner, shaping dhikri rice dumplings, walking to the fields, maybe helping with whatever the season brings, from planting rice to harvesting mustard. Evenings end on the riverbank or with a dance in the courtyard. It suits curious travellers, families with children who like animals and farms, and anyone who would rather sleep in a village than a resort. Income from your stay goes to the host households and the women's group."
+  ],
+  "highlights": [
+    "Two nights at the women-run Barauli Community Homestay",
+    "Cook dhikri and Tharu dishes with a host family",
+    "Village and farm walk, joining seasonal work",
+    "Tharu Cultural Museum and stick dance in Sauraha",
+    "Canoe safari on the Rapti in Chitwan National Park",
+    "Sunset on the Narayani opposite the park's buffer zone"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathmandu to Sauraha, museum and dance", "place": "sauraha", "overnight": "Sauraha", "altitude_m": 160, "max_m": 1400, "walk": "≈ 1.5 h", "drive": "≈ 165 km · 5–6 h", "flight": "", "text": "Leave Kathmandu at 8 am and follow the Trishuli river down to Mugling and Narayangarh, reaching Sauraha by early afternoon. After lunch, visit the Tharu Cultural Museum, where photographs, tools and painted mud-wall reliefs explain Tharu farming, fishing, festivals and house-building, a useful primer for the homestay. Walk through Bachhauli village to the Rapti for sunset. In the evening, watch the stick dance, peacock dance and harvest dances at the Tharu Culture House, and ask the dancers afterwards about the meaning of the steps.", "meals": "D"},
+    {"day": 2, "title": "Canoe safari, drive to Barauli", "place": "barauli", "overnight": "Barauli", "altitude_m": 150, "max_m": 160, "walk": "≈ 2 h · 5 km", "drive": "≈ 60 km · 1.5–2 h", "flight": "", "text": "At 7 am, a dugout canoe drifts down the Rapti past mugger crocodiles and kingfishers, with a chance of rhinos at the bank, followed by a guided walk back through riverine forest. After breakfast, drive west through Narayangarh, cross the Narayani at Gaindakot, and continue along the Mahendra Highway to Kawasoti and south to Barauli. Your hosts welcome you with tea and show you to your cottage. In the late afternoon, walk 20 minutes to the Narayani for sunset, then join your host family in the kitchen to cook dinner.", "meals": "B, L, D"},
+    {"day": 3, "title": "Village life, cooking and courtyard dance", "place": "barauli", "overnight": "Barauli", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 5 km in total", "drive": "", "flight": "", "text": "A full day in the village with no fixed timetable. After breakfast, a host walks you through Barauli's lanes, past houses with thick mud walls and grain jars, to the school, the community forest and the fields, where you can join seasonal work such as planting rice, cutting wheat or picking vegetables. After lunch, learn to make dhikri, steamed rice-flour dumplings, and Tharu fish or vegetable curry. In the evening, the village cultural group performs stick and harvest dances in the courtyard, and guests are pulled in to join.", "meals": "B, L, D"},
+    {"day": 4, "title": "Farewell breakfast, drive to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 200 km · 6–7 h", "flight": "", "text": "A last morning walk to the riverbank or around the fields, breakfast with your host family and farewells. The drive back to Kathmandu goes via Kawasoti, Gaindakot, Narayangarh and Mugling, about 6–7 hours with a lunch stop, arriving by late afternoon. Barauli also sits well for onward travel: Lumbini is about 120 km and 3.5 hours west, and Pokhara about 5–6 hours north via Mugling, and we can drop you at either instead.", "meals": "B"}
+  ],
+  "stays": ["green-park-chitwan"],
+  "includes": [
+    "Private car for the whole trip",
+    "One night at Green Park Chitwan or a similar Sauraha resort",
+    "Two nights at the Barauli Community Homestay in a private cottage with attached bathroom",
+    "All meals from dinner on day 1 to breakfast on day 4",
+    "Tharu Cultural Museum entry and cultural show in Sauraha",
+    "Canoe ride and guided walk with licensed guides",
+    "Chitwan National Park entry fee for the canoe and walk",
+    "Cooking session, village walk and courtyard dance in Barauli",
+    "Community contribution included in the homestay rate"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "Lunch on days 1 and 4",
+    "Drinks and bottled water",
+    "Jeep safari (available as an add-on)",
+    "Gifts for host families",
+    "Tips for guides and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, for 2 guests sharing a car, with SAARC park fees; foreign nationals pay the higher park fee, reflected in the USD price.",
+    "The homestay is simple: clean cottages, attached bathrooms with Western toilets and hot water, but no air conditioning or pool.",
+    "Meals are home cooked; vegetarian food is easy, and hosts cook mildly for guests on request.",
+    "Cottages are limited, so book at least three weeks ahead for October to December.",
+    "Modest dress is appreciated in the village, especially for women; carry a torch for the evenings."
+  ],
+  "add_ons": [
+    {"name": "Half-day jeep safari in Chitwan on day 2", "price": "≈ ₹4,500 per person"},
+    {"name": "Extra night at Barauli", "price": "≈ ₹3,500 per person"},
+    {"name": "End in Lumbini instead of Kathmandu", "price": "No extra cost"}
+  ],
+  "faqs": [
+    {"q": "What is a Tharu homestay?", "a": "A Tharu homestay lets you stay in a Tharu village and share daily life with local families. At Barauli you sleep in a private cottage with an attached bathroom built within the village and eat home-cooked meals with host families. It is run by the village women, and your payment goes to the households and a community fund."},
+    {"q": "Is the Barauli homestay comfortable enough?", "a": "For most travellers, yes. Cottages are clean, with proper beds, attached bathrooms, Western toilets, hot water and electricity. There is no air conditioning, pool or restaurant menu; meals are what your hosts cook. If you need resort comfort every night, add a second night in Sauraha instead."},
+    {"q": "Can I see wildlife on this Tharu culture tour?", "a": "Yes. The canoe ride and walk in Chitwan usually show crocodiles, birds and deer, and often rhinos. Across the Narayani from Barauli you may see deer and birds in the buffer zone. For more wildlife, add a half-day jeep safari on day 2."},
+    {"q": "Is the Tharu homestay suitable for children?", "a": "Yes. Children usually love the animals, farm work, cooking and freedom of the village. Cottages can take a family of three or four. Keep children close in the evenings, when wildlife can enter the fields, and away from the river."},
+    {"q": "What food do Tharu families cook?", "a": "Rice, lentils, seasonal vegetables and greens, fish or freshwater snails, and dhikri, steamed rice-flour dumplings, with spicy chutneys and pickles. Mustard oil and fresh herbs are common. Vegetarian meals are easy to arrange, and hosts reduce the chilli for guests."},
+    {"q": "How much does the Tharu homestay package cost?", "a": "From about ₹18,000 per person twin sharing for two guests, including private car, one night in Sauraha, two nights at Barauli, all meals from dinner on day 1, the museum, dance show, canoe safari and park fee. International guests pay from about US$ 240."},
+    {"q": "Should I bring gifts for my host family?", "a": "A small, practical gift is appreciated, such as fruit, tea, sweets for the family or school supplies for the community. Please do not give money or sweets directly to children in the village. If you want to support the community further, ask about the women's group fund."},
+    {"q": "Can I go on to Lumbini or Pokhara after Barauli?", "a": "Yes. Barauli is about 3.5 hours from Lumbini and 5–6 hours from Pokhara, so it is a natural stop between Chitwan and either. We can end the trip in Lumbini or Pokhara at no extra cost and continue with another package."},
+    {"q": "When is the best time for a Tharu homestay?", "a": "October to February is most comfortable, with harvest in October and November and mustard in flower in January. March is pleasant but warming. April and May are hot, and the monsoon months from June to September are wet and muddy, though rice planting is fascinating to see."}
+  ]
+}

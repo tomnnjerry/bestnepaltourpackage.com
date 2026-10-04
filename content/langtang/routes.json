@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "kathmandu-to-syabrubesi",
+    "from": "kathmandu",
+    "to": "syabrubesi",
+    "distance_km": 122,
+    "summary": "Syabrubesi, the Langtang trek road-head, is about 122 km north of Kathmandu via Trishuli Bazaar and Dhunche. Local buses take 7–8 hours, shared jeeps about 7 hours and private jeeps 6–7 hours. There is no airport, and the last 50 km is a narrow mountain road.",
+    "options": [
+      {"mode": "Private jeep", "time": "6–7 h", "text": "The most comfortable and flexible option. A private jeep or 4WD seats up to five or six passengers with luggage and leaves from your hotel at a time you choose, ideally 7 am. Drivers stop for tea, lunch and photos. Expect to pay roughly NPR 15,000–20,000 one way for the vehicle, more in festival season. This is what our packages use, as it avoids early bus-park starts and lets you stop when needed."},
+      {"mode": "Shared jeep", "time": "≈ 7 h", "text": "Shared jeeps run from the Machhapokhari and Gongabu area in the morning and fill seat by seat, usually with locals and trekkers. They are faster than buses and cheaper than a private vehicle, at roughly NPR 1,500–2,500 per seat, but space is tight and luggage goes on the roof. Departure times depend on when the jeep fills. Check current fares before you travel."},
+      {"mode": "Local bus", "time": "7–8 h", "text": "Public buses leave from the Machhapokhari and Gongabu area between about 6:30 and 8 am. They are cheap, around NPR 800–1,200, but slow and crowded, with frequent stops for passengers and goods. Bags go on the roof under a tarpaulin. Buy tickets the day before. It is a genuine local experience, though tiring, and some trekkers feel travel-sick on the winding road above Betrawati."},
+      {"mode": "Helicopter", "time": "≈ 30 min", "text": "Charter helicopters can fly from Kathmandu to the Syabrubesi area in about 30 minutes, but this is rarely used for the start of a trek because cost is high and acclimatisation is no benefit at 1,460 m. It is mainly an option for emergencies, tight schedules at the end of a trek, or combining with a Kyanjin Gompa landing."}
+    ],
+    "stops_on_way": ["Kakani viewpoint", "Trishuli Bazaar (Bidur)", "Betrawati", "Kalikasthan", "Dhunche park checkpoint"],
+    "tip": "Leave Kathmandu by 7 am so you reach Syabrubesi before dark, and keep your park permit and passport handy for the Dhunche checkpoint.",
+    "faqs": [
+      {"q": "How long is the drive from Kathmandu to Syabrubesi?", "a": "About 6–7 hours by private jeep and 7–8 hours by local bus for roughly 122 km. Traffic leaving Kathmandu, road works and landslides above Betrawati can add hours, especially in the monsoon from June to September. Start early so you are off the mountain road before dark."},
+      {"q": "Is the road to Syabrubesi safe?", "a": "The road is paved in parts and rough in others, with narrow sections, steep drops and landslide-prone stretches above Betrawati. Experienced drivers travel it daily. Safety improves with a private jeep, daytime travel and avoiding heavy monsoon rain. Ask your agency to check conditions the evening before."},
+      {"q": "Where does the bus to Syabrubesi leave from in Kathmandu?", "a": "Buses and shared jeeps to Syabrubesi leave from the Machhapokhari and Gongabu (New Bus Park) area on the Ring Road in north Kathmandu, mostly between 6:30 and 8 am. Taxis from Thamel take 15–20 minutes. Departure points and times change, so check current status before you travel."},
+      {"q": "Can I go from Syabrubesi to Kerung in Tibet?", "a": "The road continues about 15 km north from Syabrubesi to Rasuwagadhi, the border crossing to Kyirong county in Tibet. Only travellers with a Chinese visa and Tibet permits arranged by an authorised agency can cross, mainly on Kailash overland yatras via Kerung. Check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "syabrubesi-to-kyanjin-gompa",
+    "from": "syabrubesi",
+    "to": "kyanjin-gompa",
+    "distance_km": 33,
+    "summary": "From Syabrubesi (1,460 m) to Kyanjin Gompa (3,870 m) is about 33 km on foot up the Langtang Khola, usually walked in three days via Lama Hotel and Langtang village, gaining about 2,400 m. There is no road; helicopters can land at Kyanjin from Kathmandu.",
+    "options": [
+      {"mode": "Trek (standard)", "time": "3 days", "text": "The standard plan is Syabrubesi to Lama Hotel (about 6 hours), Lama Hotel to Langtang village (6–7 hours) and Langtang village to Kyanjin Gompa (3–4 hours). This keeps daily height gain under about 1,000 m and gives a good chance of avoiding altitude sickness. Lodges are found every one to two hours, so lunch and tea stops are easy."},
+      {"mode": "Trek (fast)", "time": "2 days", "text": "Fit, experienced trekkers sometimes walk Syabrubesi to Langtang village or Ghoda Tabela in one long day and reach Kyanjin the next. This gains height too fast for many people and raises the risk of altitude sickness at 3,870 m. We only recommend it for those recently acclimatised, for example coming from another high trek."},
+      {"mode": "Helicopter", "time": "≈ 15–20 min", "text": "There is no regular service from Syabrubesi, but a charter can fly up the valley in minutes. More commonly, trekkers fly between Kathmandu and Kyanjin Gompa (about 40 minutes), for example walking up and flying back. Flights depend on morning weather and payload at altitude; check current rates."}
+    ],
+    "stops_on_way": ["Domen", "Pairo hot springs", "Bamboo", "Rimche", "Lama Hotel", "Riverside", "Ghoda Tabela", "Thangshyap", "Langtang village", "Mundu"],
+    "tip": "Do not skip the night at Langtang village; sleeping at 3,430 m before Kyanjin is what keeps the climb safe for most trekkers.",
+    "faqs": [
+      {"q": "How far is Kyanjin Gompa from Syabrubesi?", "a": "About 33 km on foot along the Langtang Khola, climbing from 1,460 m to 3,870 m. Most trekkers take three days, with nights at Lama Hotel and Langtang village. The return to Syabrubesi takes two days, usually with a night at Lama Hotel."},
+      {"q": "Can I reach Kyanjin Gompa in two days?", "a": "It is possible for fit trekkers, but gaining about 2,400 m in two days is fast and raises the risk of altitude sickness. We recommend three days with a night at Langtang village. If you are short of time, consider walking up in three days and flying back to Kathmandu by helicopter."},
+      {"q": "Is there a road to Kyanjin Gompa?", "a": "No. The road ends at Syabrubesi, and the Langtang Valley above is reached only on foot or by helicopter. Supplies come up on mules, porters' backs and occasional helicopters. This is part of why the valley keeps its quiet character."},
+      {"q": "Where should I stop for lunch on the way to Kyanjin?", "a": "Common lunch stops are Bamboo on day one, Ghoda Tabela or Thangshyap on day two, and Mundu or Kyanjin itself on day three. Lodges serve dal bhat, noodles and soups. Your guide will plan stops to suit your pace and the weather."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-gosaikunda",
+    "from": "kathmandu",
+    "to": "gosaikunda",
+    "distance_km": 135,
+    "summary": "Gosaikunda (4,380 m) is reached by driving about 117 km to Dhunche and walking roughly 18 km over 2–3 days via Chandanbari and Lauribina, or by a 35-minute helicopter flight from Kathmandu that lands near the lake. The walking route also links from the Langtang Valley and Helambu.",
+    "options": [
+      {"mode": "Road + trek via Dhunche", "time": "3–4 days", "text": "Drive 6–7 hours to Dhunche (1,960 m), then walk 5–6 hours to Chandanbari (3,330 m) and 5–6 hours via Lauribina (3,910 m) to Gosaikunda. Pilgrims and older trekkers often add a night at Lauribina, making the ascent three walking days. The return takes one to two days. It is the main pilgrim route, busy at Janai Purnima."},
+      {"mode": "Helicopter", "time": "≈ 35 min", "text": "A helicopter flies from Kathmandu to Gosaikunda in about 35 minutes and lands near the lake for a short stop of 20–40 minutes for darshan and puja. Flights run only in clear morning weather, and payload limits at 4,380 m may mean fewer passengers or two shuttles. Shared seats start around ₹58,000; check current rates."},
+      {"mode": "Road + trek via Langtang Valley", "time": "9–10 days", "text": "Trekkers often reach Gosaikunda as part of a longer route: up the Langtang Valley to Kyanjin Gompa, then across via Thulo Syabru and Chandanbari to the lake. This gives much better acclimatisation. From Gosaikunda you can continue over Lauribina La (4,610 m) to Helambu."}
+    ],
+    "stops_on_way": ["Trishuli Bazaar (Bidur)", "Betrawati", "Dhunche", "Deurali", "Chandanbari (Sing Gompa)", "Cholang Pati", "Lauribina"],
+    "tip": "Sleep at Lauribina the night before the lake if you can; it makes the final climb easier and the sunrise there is one of the best on the route.",
+    "faqs": [
+      {"q": "How many days to reach Gosaikunda from Kathmandu?", "a": "By road and on foot, the minimum is two days (drive to Dhunche, then a very long walk) but three days is more realistic and safer: drive to Dhunche, walk to Chandanbari, then walk to the lake. Many pilgrims take four, adding a night at Lauribina. By helicopter it takes about 35 minutes."},
+      {"q": "Can I go to Gosaikunda by car?", "a": "Not all the way. Roads reach Dhunche, and rough tracks continue some way up towards Deurali in the dry season, but the final ascent to the lake at 4,380 m is on foot or by helicopter only. Check current road status before you travel."},
+      {"q": "What is the cheapest way to reach Gosaikunda?", "a": "The cheapest way is a local bus from Kathmandu to Dhunche, about NPR 700–1,000, then walking to the lake with basic lodge stays. Foreigners need a licensed guide and park permits, which add cost. A guided group pilgrimage keeps the per-person price down."},
+      {"q": "Is the helicopter to Gosaikunda safe?", "a": "Helicopter tours to Gosaikunda are run by licensed operators with experienced mountain pilots, and flights only proceed in suitable weather. The main health risk is the sudden arrival at 4,380 m. Healthy passengers usually cope with a short stop, but people with heart or lung conditions or pregnancy should not fly without medical advice."}
+    ]
+  }
+]

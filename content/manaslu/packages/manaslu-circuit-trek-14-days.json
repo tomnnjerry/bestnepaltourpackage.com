@@ -1,0 +1,102 @@
+{
+  "slug": "manaslu-circuit-trek-14-days",
+  "title": "Manaslu Circuit Trek 14 Days",
+  "region": "manaslu",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 13,
+  "themes": ["trekking", "photography", "cultural-tours"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "machha-khola", "nights": 1},
+    {"place": "jagat", "nights": 1},
+    {"place": "namrung", "nights": 1},
+    {"place": "lho", "nights": 1},
+    {"place": "samagaun", "nights": 2},
+    {"place": "samdo", "nights": 1},
+    {"place": "bimthang", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 104000,
+  "price_from_usd": 1190,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5106,
+  "accommodation": "3-star hotel in Kathmandu (2 nights), teahouse lodges on the trek (11 nights)",
+  "transport": "Private jeep Kathmandu–Machha Khola and Dharapani–Kathmandu, airport transfers",
+  "group": "Private or small group, 1–12, with a licensed guide",
+  "meta_description": "Manaslu Circuit Trek 14 days from Kathmandu: Machha Khola to Larkya La (5,106 m) and Dharapani, permits, licensed guide, teahouses. From US$1,190.",
+  "summary": "Our standard Manaslu Circuit takes 14 days from Kathmandu: a jeep to Machha Khola, eight walking days up the Budhi Gandaki to Samagaun and Samdo, the 5,106 m Larkya La crossing and a descent to Dharapani. It includes all restricted area and conservation permits, a licensed guide, porters and teahouse meals.",
+  "intro": [
+    "The Manaslu Circuit loops around the world's eighth-highest mountain, from the rice terraces of the lower Budhi Gandaki at 930 m to the glaciers of Larkya La at 5,106 m. It sees far fewer trekkers than the Annapurna Circuit, because it lies in a restricted area that you can enter only with a licensed guide and a permit arranged by a registered agency. In return you get quiet trails, Tibetan Buddhist villages, monasteries and close views of Manaslu, Himal Chuli and the Larkya peaks.",
+    "This 14-day plan is the balanced version we recommend to most trekkers. Walking days are 4 to 7 hours apart from the pass, which takes 8 to 10. Two nights in Samagaun and short stages to Samdo and Dharamsala give your body time to adjust before the crossing. A jeep brings you in on day 2 and out on day 13, so you spend eleven nights in the mountains. Prices assume two people sharing; solo trekkers are now accepted, subject to a single supplement."
+  ],
+  "highlights": [
+    "Cross Larkya La at 5,106 m, one of the longest pass crossings in Nepal",
+    "Sunrise on Manaslu (8,163 m) from Lho and Samagaun",
+    "Pungyen Gompa acclimatisation hike above the Manaslu Glacier",
+    "Nubri Buddhist villages, Ribung Gompa and miles of mani walls",
+    "Budhi Gandaki gorge, Tatopani hot spring and suspension bridges",
+    "All restricted area and conservation permits arranged for you"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, trek briefing", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "We meet you at Tribhuvan International Airport and drive to your hotel in Thamel. In the afternoon your guide comes to the hotel for a trek briefing, checks your gear and collects the passport copies and photos needed for the restricted area permit if we have not already received them. There is time to buy or rent any missing items such as a down jacket or a −15 °C sleeping bag in Thamel's trekking shops. Eat early and pack a daypack for tomorrow's long drive.", "meals": "Dinner"},
+    {"day": 2, "title": "Drive to Machha Khola", "place": "machha-khola", "overnight": "Machha Khola", "altitude_m": 930, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 8–9 h", "flight": "", "text": "We leave Kathmandu at 6:30 am by private jeep. The paved Prithvi Highway and a branch road take you to Dhading Besi in 3 to 4 hours, then a narrower road continues to Arughat on the Budhi Gandaki. After Arughat the road turns to dirt, climbing and dropping along the valley side through Soti Khola to Machha Khola at 930 m. It is a long, bumpy day, but the scenery of terraced hills and river gorges is good. Overnight in a simple teahouse by the river.", "meals": "B, L, D"},
+    {"day": 3, "title": "Trek through the gorge to Jagat", "place": "jagat", "overnight": "Jagat", "altitude_m": 1340, "max_m": 1340, "walk": "≈ 6–7 h · 22 km", "drive": "", "flight": "", "text": "The first walking day follows the Budhi Gandaki north on stone steps and narrow paths cut into the gorge. You pass Khorlabesi and stop at the Tatopani hot spring for a wash, then cross the river on a suspension bridge to Dobhan. The trail climbs and falls repeatedly past waterfalls before reaching Jagat, a flagstone-paved village at 1,340 m. Your permits are checked and stamped at the Manaslu Conservation Area office here. Net gain is about 400 m, but expect plenty of ups and downs.", "meals": "B, L, D"},
+    {"day": 4, "title": "Jagat to Deng via Philim", "place": "", "overnight": "Deng", "altitude_m": 1860, "max_m": 1860, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "From Jagat you climb to Salleri and Sirdibas, where the first carved mani stones appear, then cross a long bridge to the Gurung village of Philim at 1,570 m. An hour later you pass Ekle Bhatti, the fork for the Tsum Valley. The Manaslu trail enters a narrow, forested gorge, crosses the river several times and climbs to Deng at about 1,860 m. Deng is a small settlement with a few lodges, and the air is noticeably cooler than in Jagat.", "meals": "B, L, D"},
+    {"day": 5, "title": "Climb into Nubri at Namrung", "place": "namrung", "overnight": "Namrung", "altitude_m": 2630, "max_m": 2630, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Leaving Deng, the trail crosses to Rana and Bihi Phedi and passes long mani walls near Ghap, where the culture of the valley changes to Tibetan Buddhist. You climb steadily through pine, fir and rhododendron forest, gaining about 770 m, to Namrung at 2,630 m. This is the first village of Nubri, with a permit checkpoint and some of the better lodges on the lower trail. On a clear evening Siringi Himal and Himal Chuli appear above the valley.", "meals": "B, L, D"},
+    {"day": 6, "title": "Lihi and Sho villages to Lho", "place": "lho", "overnight": "Lho", "altitude_m": 3180, "max_m": 3180, "walk": "≈ 4–5 h · 11 km", "drive": "", "flight": "", "text": "A gentler day through farming villages. You pass Banjam, Lihi and Sho, with barley fields, carved kani gateways and some of the longest mani walls on the trek. Manaslu appears at the head of the valley around Sho. Lho, at about 3,180 m, is built on a ridge below Ribung Gompa. Arrive by early afternoon, rest, then walk up to the monastery for the view of Manaslu at sunset. Nights here drop below freezing in late autumn.", "meals": "B, L, D"},
+    {"day": 7, "title": "Shyala pastures to Samagaun", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 3530, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "Get up early for sunrise on Manaslu from Lho, then walk through forest to Shyala, a village in an amphitheatre of peaks: Himal Chuli, Ngadi Chuli and Manaslu with glaciers between them. The trail continues across fields to Samagaun at 3,530 m, the largest village on the upper circuit. After lunch take an easy walk to Birendra Tal, the glacier lake 30 minutes away, to keep your body moving at the new altitude.", "meals": "B, L, D"},
+    {"day": 8, "title": "Acclimatise at Pungyen Gompa", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 4000, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "Your acclimatisation day. After breakfast you climb to the site of Pungyen Gompa on a ridge facing the Manaslu Glacier, close to 4,000 m, in about 3 hours. The views of the icefall and summit are close and dramatic. Return to Samagaun for a late lunch and rest. Fit, symptom-free trekkers can ask for the longer hike towards Manaslu Base Camp instead, but we do not recommend the full base camp climb on this itinerary. Sleep low again at 3,530 m.", "meals": "B, L, D"},
+    {"day": 9, "title": "Short walk to Samdo", "place": "samdo", "overnight": "Samdo", "altitude_m": 3875, "max_m": 3875, "walk": "≈ 3 h · 8 km", "drive": "", "flight": "", "text": "A short day up the Budhi Gandaki past mani walls, juniper scrub and yak pastures. You cross a wooden bridge and climb to Samdo at about 3,875 m, the highest permanent village on the circuit, whose families trace their roots to Tibet. Arrive for lunch, then take an afternoon walk 200 to 300 m above the village with your guide to help acclimatisation. Check your gear for the pass this evening: headtorch, gloves, water bottles and microspikes if there is snow.", "meals": "B, L, D"},
+    {"day": 10, "title": "Up to Dharamsala high camp", "place": "larkya-la", "overnight": "Dharamsala (Larkya Phedi)", "altitude_m": 4460, "max_m": 4460, "walk": "≈ 3.5–4 h · 7 km", "drive": "", "flight": "", "text": "The trail climbs gradually above the Budhi Gandaki, passing the ruins of Larkya Bazaar, an old seasonal trading market, then crosses streams and moraine to Dharamsala at about 4,460 m. This is the high camp for Larkya La, with a few basic stone lodges and tents. Rest in the afternoon, take a short walk up the moraine and eat a full dinner. Your guide will brief you on tomorrow's 4 am start. Expect a cold night, often −10 °C in November.", "meals": "B, L, D"},
+    {"day": 11, "title": "Cross Larkya La, descend to Bimthang", "place": "bimthang", "overnight": "Bimthang", "altitude_m": 3590, "max_m": 5106, "walk": "≈ 8–10 h · 15–16 km", "drive": "", "flight": "", "text": "The big day. Leave around 4 am with headtorches and climb slowly over the Larkya Glacier moraine past frozen lakes. Dawn lights the peaks around you. Most trekkers reach the prayer flags on Larkya La, 5,106 m, in 3 to 5 hours, with views west to Himlung Himal, Cheo Himal, Kang Guru and Annapurna II. The descent is steep, on scree and often snow, then eases onto moraine and grass. Reach Bimthang at about 3,590 m in the afternoon, under Manaslu's west face.", "meals": "B, L, D"},
+    {"day": 12, "title": "Forest descent to Dharapani", "place": "", "overnight": "Dharapani", "altitude_m": 1860, "max_m": 3590, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "A long descent of about 1,700 m. From Bimthang the trail crosses the glacier stream, gives last views of Manaslu and drops through rhododendron, pine and oak forest past Hampuk and Karche to Gho and Tilije, Gurung villages with apple orchards. Crossing the Dudh Khola, you join the Marsyangdi at Thonje and walk to Dharapani at about 1,860 m on the Annapurna Circuit road. In the dry season we may use a jeep from Tilije to save road walking.", "meals": "B, L, D"},
+    {"day": 13, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1860, "walk": "", "drive": "≈ 215 km · 9–10 h", "flight": "", "text": "A private jeep takes you down the Marsyangdi valley from Dharapani to Besisahar in 3 to 4 hours on a rough mountain road, then on paved highway via Dumre and Mugling to Kathmandu, another 6 hours or so. You arrive in the evening, in time for a hot shower and a celebration dinner in Thamel. If you prefer to finish in Pokhara, we can arrange the drive there instead, about 5 to 6 hours from Besisahar.", "meals": "B, L"},
+    {"day": 14, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "Free time for last-minute shopping or a visit to Boudhanath or Swayambhunath, depending on your flight time. We drop you at the airport about three hours before an international departure. If you have extra days, consider adding a Chitwan safari, a Pokhara break or an Everest mountain flight. Your guide will hand back any documents and the official permit copies as a souvenir.", "meals": "Breakfast"}
+  ],
+  "stays": ["samagaun-hotel-norling", "samagaun-manaslu-guest-house"],
+  "includes": [
+    "Manaslu restricted area permit, Manaslu Conservation Area Permit, Annapurna Conservation Area Permit and Tsum Nubri municipality fee",
+    "Government-licensed English-speaking trekking guide for the whole trek",
+    "One porter for every two trekkers (up to 20 kg per porter)",
+    "Private jeep Kathmandu–Machha Khola and Dharapani–Kathmandu",
+    "2 nights in a 3-star Kathmandu hotel with breakfast, twin sharing",
+    "11 nights in teahouse lodges, twin sharing where available",
+    "Three meals a day on the trek with tea or coffee",
+    "Guide and porter wages, insurance, food and lodging",
+    "Airport transfers and a basic first-aid kit with pulse oximeter"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee (about US$50 for 30 days)",
+    "Travel insurance with helicopter evacuation up to 6,000 m",
+    "Lunch and dinner in Kathmandu, except the welcome dinner",
+    "Hot showers, Wi-Fi, device charging and bottled drinks on the trek",
+    "Personal trekking gear and sleeping bag rental",
+    "Tips for guide and porters",
+    "Extra nights caused by weather, illness or early return"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing a room, peak-season permit fees and teahouse accommodation; solo trekkers pay a supplement of about US$250.",
+    "As of 2026, Nepal's Department of Immigration says solo trekkers can obtain the Manaslu restricted area permit without a second person, but a licensed guide from a registered agency is still mandatory; check current status before you travel.",
+    "Restricted area permit fees, as we understand them, are US$100 for the first week from September to November and US$15 per extra day, or US$75 and US$10 from December to August.",
+    "Larkya La can be closed by snow from December to March and occasionally in other months; we keep a spare-day option and will reroute or fly out from Samagaun if needed.",
+    "Altitude sickness can affect anyone above 2,500 m; your guide carries a pulse oximeter and will descend with you if symptoms worsen."
+  ],
+  "add_ons": [
+    {"name": "Extra night in Samagaun for Manaslu Base Camp", "price": "≈ US$ 60 per person"},
+    {"name": "Helicopter from Samagaun to Kathmandu instead of crossing the pass", "price": "≈ US$ 900–1,200 per seat, shared"},
+    {"name": "Extra porter (one per trekker)", "price": "≈ US$ 250 per porter"}
+  ],
+  "faqs": [
+    {"q": "How much does the Manaslu Circuit Trek cost?", "a": "Our 14-day Manaslu Circuit starts from US$1,190 or about ₹1,04,000 per person, twin sharing. That covers permits, a licensed guide, porters, teahouse rooms and three meals a day on the trail, two hotel nights in Kathmandu and private jeeps. Budget another US$150 to 250 for drinks, showers, charging and tips."},
+    {"q": "How difficult is the Manaslu Circuit Trek?", "a": "It is graded challenging. Most days are 5 to 7 hours of walking with ups and downs, and the Larkya La day is 8 to 10 hours up to 5,106 m and down 1,500 m. No climbing skills are needed, but you should be fit enough to hike 6 hours with a daypack on consecutive days."},
+    {"q": "Can I do the Manaslu Circuit solo?", "a": "You can now go without a second trekker, according to a 2026 Department of Immigration notice, but you must still trek with a licensed guide arranged through a registered agency. Fully independent trekking is not allowed in the restricted area. Check current status before you travel; solo departures carry a room supplement."},
+    {"q": "What permits do I need for the Manaslu Circuit?", "a": "You need the Manaslu restricted area permit, the Manaslu Conservation Area Permit, the Annapurna Conservation Area Permit for the descent to Dharapani and the Tsum Nubri municipality fee. The restricted area permit is issued only through a registered agency. We arrange everything; you send passport and visa details in advance."},
+    {"q": "Is the Manaslu Circuit suitable for Indian trekkers?", "a": "Yes. Indian nationals need the same restricted area permit as other foreigners, as we understand it, and pay the SAARC rate for the conservation area permits. Lodge food is mostly vegetarian, with dal bhat at every stop. Carry your passport or voter ID card; the passport is safer for permit issue."},
+    {"q": "When is the best time for the Manaslu Circuit?", "a": "October and November give the clearest skies and stable weather for Larkya La. Late March to May is the second-best season, with rhododendrons in flower and warmer days. Avoid June to August for monsoon rain and landslides, and December to February when the pass is often snowbound."},
+    {"q": "How long are the walking days on the Manaslu trek?", "a": "Most days are 4 to 7 hours. The shortest are Lho to Samagaun and Samagaun to Samdo at about 3 to 4 hours. The longest is the pass day from Dharamsala to Bimthang, 8 to 10 hours. Your guide sets a steady pace with breaks every hour."},
+    {"q": "What happens if Larkya La is closed?", "a": "If snow closes the pass, we wait a day in Samdo if possible. If it stays closed, you return down the Budhi Gandaki the way you came or fly from Samagaun to Kathmandu by helicopter at extra cost. Travel insurance covering itinerary changes is strongly recommended."},
+    {"q": "Is there a road to Samagaun now?", "a": "Not yet. Jeeps reach Machha Khola, and in the dry season sometimes Jagat. A road is being built further up the valley, and sections may open over the coming years. Above Jagat the trail is still a footpath, with Samagaun five days' walk from the road. Check current status before you travel."}
+  ]
+}

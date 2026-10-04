@@ -1,0 +1,90 @@
+{
+  "slug": "muktinath-heli-yatra-from-kathmandu",
+  "title": "Muktinath Heli Yatra from Kathmandu, 1 Day",
+  "region": "mustang",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "pilgrimage", "family-holidays", "short-breaks"],
+  "stops": [{"place": "kathmandu", "nights": 0}, {"place": "jomsom", "nights": 0}, {"place": "muktinath", "nights": 0}],
+  "start": "Kathmandu (Tribhuvan International Airport, domestic heliport)",
+  "end": "Kathmandu",
+  "price_from_inr": 89000,
+  "price_from_usd": 1070,
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3710,
+  "accommodation": "None (day trip); Kathmandu hotel nights can be added",
+  "transport": "Helicopter (AS350 B3 or similar), hotel–airport transfers in Kathmandu",
+  "group": "Shared seat (up to 5 per helicopter) or private charter",
+  "meta_description": "Muktinath heli yatra from Kathmandu in 1 day: about 1 h 15 min each way, 1 hour at the temple, per-seat and charter prices explained, weather and safety rules.",
+  "summary": "Fly from Kathmandu to Muktinath and back in one morning: about 1 hour 15 minutes each way by helicopter with a stop at Jomsom, roughly one hour on the ground for darshan and the 108 water spouts, and back in Kathmandu by early afternoon. Sold per seat on shared flights or as a private charter.",
+  "intro": [
+    "This is the fastest way to reach Muktinath from Kathmandu without overnight stays: no Pokhara connection, no Jomsom flight lottery, no jeep ride. We collect you from your hotel around 5:30 am, fly west along the Himalaya past Manaslu and the Annapurnas, land at Jomsom for fuel and the permit check, then hop the last 10 minutes to Muktinath. You spend about an hour at the temple and are back in Kathmandu before lunch on a clear day.",
+    "Helicopters carry up to five passengers on this route, depending on total weight. If you book a seat, we combine you with other pilgrims to fill the aircraft, which keeps the cost per person down. If you prefer your family alone, or want flexible timing, you charter the whole helicopter. Either way, flights only go when the weather is clear, and we keep the next morning as a backup."
+  ],
+  "highlights": [
+    "Kathmandu to Muktinath and back in about 5–6 hours, door to door",
+    "Mountain flight past Ganesh Himal, Manaslu, Annapurna and Dhaulagiri",
+    "About one hour at Muktinath for darshan, the 108 spouts and Jwala Mai",
+    "Refuel and breakfast stop at Jomsom on the way back",
+    "Per-seat sharing or private charter, with a backup weather day"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu–Muktinath–Kathmandu by helicopter",
+      "place": "muktinath",
+      "overnight": "Kathmandu (own arrangement)",
+      "altitude_m": 1400,
+      "max_m": 3710,
+      "walk": "≈ 40 min at the temple",
+      "drive": "Hotel–airport transfers in Kathmandu",
+      "flight": "Kathmandu–Jomsom · 70 min; Jomsom–Muktinath · 10 min; Muktinath–Jomsom–Kathmandu · 80 min",
+      "text": "Pick-up at about 5:30 am for check-in at the domestic heliport. After weighing and a safety briefing, take off around 6:30 am and fly west with the Himalaya on your right, crossing into the Kali Gandaki gorge between Dhaulagiri and Annapurna. Land at Jomsom (2,720 m) for fuel and the ACAP check, then fly 10 minutes to the helipad near Ranipauwa (3,700 m). Walk or ride up to Muktinath temple (3,710 m) for darshan, sprinkle or bathe under the 108 spouts and see the Jwala Mai flame. After about an hour, fly back to Jomsom for tea and a light breakfast, then return to Kathmandu by around noon to 1 pm.",
+      "meals": "Breakfast snack at Jomsom"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Helicopter seat on a shared flight (or full charter if booked as private)",
+    "Hotel–heliport–hotel transfers in Kathmandu",
+    "ACAP permit for Muktinath (SAARC or foreign rate)",
+    "Airport and landing fees at Jomsom and Muktinath",
+    "Our ground guide at Muktinath to help with the temple visit",
+    "Tea and light breakfast at Jomsom",
+    "Bottled water on board and oxygen cylinder for emergencies",
+    "All government taxes on the flight"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before or after the flight",
+    "Puja, priest dakshina and temple donations",
+    "Horse or scooter hire from Ranipauwa to the temple",
+    "Travel and medical insurance",
+    "Extra ground time beyond the standard hour (charged by the operator)",
+    "Excess baggage over 5 kg per person",
+    "Tips for pilot and guide"
+  ],
+  "good_to_know": [
+    "Price assumes one seat on a shared helicopter of five passengers; a private charter for up to five costs from about US$ 4,800–5,800 per helicopter, depending on season and fuel prices.",
+    "Total passenger weight is usually limited to around 400–450 kg; very heavy groups may need a lighter load or a second shuttle.",
+    "Flights leave early and only in clear weather; clouds build over the mountains by late morning. If we cannot fly, you choose another date or a refund as per the operator's terms.",
+    "Muktinath is at 3,710 m. People with serious heart or lung conditions, uncontrolled blood pressure, pregnant women and infants under one year should consult a doctor or not fly.",
+    "Carry your passport or voter ID (Indian nationals) for the permit and helicopter manifest; Aadhaar is not accepted."
+  ],
+  "add_ons": [
+    {"name": "Kathmandu 3-star hotel night before the flight", "price": "≈ ₹4,500 per room"},
+    {"name": "Pashupatinath evening aarti with guide", "price": "≈ ₹2,000 per person"},
+    {"name": "Extra 30 minutes at Muktinath", "price": "≈ US$ 250 per helicopter"}
+  ],
+  "faqs": [
+    {"q": "What is the Muktinath helicopter tour price from Kathmandu?", "a": "A shared seat costs from about ₹89,000 (US$ 1,070) per person when five passengers share. A private charter for up to five costs about US$ 4,800–5,800 per helicopter, roughly ₹4–4.9 lakh, depending on season and fuel prices. Prices include permit, transfers and landing fees. Check current status before you travel."},
+    {"q": "What is the difference between charter and per seat?", "a": "A charter means you hire the whole helicopter, paying one price whether you fill one seat or five, and you control timing. A per-seat booking means you buy one or more seats and we fill the rest with other pilgrims on the same date, so each person pays a share. Per-seat is cheaper for small families."},
+    {"q": "How long is the helicopter flight from Kathmandu to Muktinath?", "a": "About 1 hour 10–20 minutes each way, including a short stop at Jomsom for fuel and the permit check. With about an hour on the ground at Muktinath and the breakfast stop, the whole trip takes 5–6 hours from heliport to heliport."},
+    {"q": "Can senior citizens do the Muktinath heli yatra?", "a": "Yes, most healthy seniors manage it well because there is no long drive or trek. Muktinath is at 3,710 m, so walk slowly at the temple and stay calm. Anyone with heart disease, severe breathing problems or uncontrolled blood pressure should get medical advice first. Horses help those who cannot climb the steps."},
+    {"q": "How many people fit in the Muktinath helicopter?", "a": "Usually five passengers plus the pilot in an AS350 B3, subject to total weight of around 400–450 kg. On hot days or with heavier passengers, the pilot may take four. We ask for each passenger's weight at booking to plan the load and avoid surprises at the heliport."},
+    {"q": "What happens if the weather is bad?", "a": "The pilot decides on the morning. If clouds block the route or Muktinath, the flight is postponed to the next clear morning, or cancelled with a refund or credit according to the operator's policy. We recommend keeping one spare day in Kathmandu after your planned flight date."},
+    {"q": "Do Indians need a passport for the Muktinath heli tour?", "a": "Indian nationals need a valid passport or voter ID card for the ACAP permit and the flight manifest. Aadhaar, PAN and driving licences are not accepted as travel ID in Nepal. Children under 15 can use a school ID or birth certificate with a parent. Send copies when booking."},
+    {"q": "Can we bathe under the 108 spouts on a heli tour?", "a": "Yes, there is time for a quick bath or sprinkling, but with about an hour on the ground most heli pilgrims sprinkle water and take darshan rather than a full bath. If you plan to bathe, wear quick-dry clothes, carry a towel and a change, and keep it short in the cold."},
+    {"q": "Can we add Damodar Kunda to the Kathmandu heli tour?", "a": "It is possible on a private charter, but it adds flight time, a second refuel and costs considerably more. Damodar Kunda is at about 4,890 m, where only 4–5 passengers can be carried and ground time is 10–15 minutes. Flying from Pokhara or Jomsom is usually better value."}
+  ]
+}

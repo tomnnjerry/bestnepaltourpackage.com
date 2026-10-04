@@ -1,0 +1,171 @@
+{
+  "slug": "kathmandu-pokhara-chitwan-tour-6-nights",
+  "title": "Kathmandu, Pokhara and Chitwan: 6 Nights",
+  "region": "kathmandu-valley",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["cultural-tours", "wildlife-safari", "photography"],
+  "stops": [{"place": "kathmandu", "nights": 2}, {"place": "pokhara", "nights": 2}, {"place": "chitwan-national-park", "nights": 2}],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 32000,
+  "price_from_usd": 450,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, a 3-star jungle resort in Sauraha (full board); twin sharing",
+  "transport": "Private car or van with driver on the full Kathmandu–Pokhara–Chitwan–Kathmandu loop",
+  "group": "Private tour, 1–12 travellers",
+  "meta_description": "Kathmandu, Pokhara and Chitwan in 7 days: temples, Sarangkot sunrise, jeep safari and Rapti canoe ride. 3-star hotels and private car from ₹32,000.",
+  "summary": "Seven days on Nepal's classic triangle: two nights each in Kathmandu, Pokhara and Chitwan National Park, joined by private car. You see the valley's temples, a Himalayan sunrise from Sarangkot and the one-horned rhinos of Chitwan on a jeep safari and a dugout canoe trip on the Rapti river.",
+  "intro": [
+    "This loop shows three different Nepals in one week. Kathmandu at 1,400 m is temples, courtyards and festivals. Pokhara at 822 m is a lake town under the Annapurnas. Chitwan, down at about 150 m on the Terai plain near the Indian border, is sal forest and tall grassland where one-horned rhinos, gharial crocodiles and more than 500 bird species live. The drop from mountain to jungle in a single day's drive is part of the appeal, and the climate changes with it, so pack for both.",
+    "We run the loop clockwise: Kathmandu first, then Pokhara, then Chitwan, then back to Kathmandu. Ending in the jungle means the last long drive is the easier Chitwan–Kathmandu run, and you get the mountains early in the week when you are freshest for a 5 am sunrise. In Chitwan we book a resort in Sauraha on full board, with the park activities included, so you only pay for drinks. Every road leg is in a private vehicle with the same driver."
+  ],
+  "highlights": [
+    "Pashupatinath, Swayambhunath and Patan Durbar Square with a licensed guide",
+    "Sunrise over Machhapuchhre and the Annapurnas from Sarangkot",
+    "Jeep safari in Chitwan National Park, looking for rhino, gaur and deer",
+    "Dugout canoe on the Rapti river past mugger crocodiles and kingfishers",
+    "Tharu village walk, elephant breeding centre and a Tharu stick dance",
+    "One private car and driver for the whole loop"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, Boudhanath at dusk",
+      "place": "boudhanath",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 1 h · 1.5 km",
+      "drive": "≈ 15 km · 1 h in total",
+      "flight": "",
+      "text": "We meet you at Tribhuvan International Airport and, if you land before 2 pm, go straight to Boudhanath, 4 km from the terminal, before checking in. The stupa's white dome and gilded tower are ringed by monasteries, thangka studios and rooftop cafés. In the late afternoon Tibetan families walk the kora clockwise, turning prayer wheels and saying mantras, and monks light rows of butter lamps in the shrine at the north side. Climb to a café terrace for tea and the best view of the painted eyes, then drive to your 3-star hotel in Thamel.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Pashupatinath, Swayambhunath and Patan",
+      "place": "patan",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 3–4 h in total · 6 km",
+      "drive": "≈ 25 km · 1.5–2 h across the day",
+      "flight": "",
+      "text": "Start at Pashupatinath at 8 am, when morning puja draws worshippers to the Bagmati ghats. Hindu travellers can go in for darshan; your guide explains the cremation ghats and the sadhus who live around the temple. Next drive across the city to Swayambhunath and walk the terrace around the stupa above the valley. After lunch we head south to Patan. Its Durbar Square has the most complete set of palace courtyards in the valley, the stone Krishna Mandir built in 1637, and the Patan Museum. Finish at the Golden Temple, a Buddhist monastery courtyard two lanes north.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Drive to Pokhara, evening on Phewa Lake",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "altitude_m": 822,
+      "max_m": 1500,
+      "walk": "≈ 1 h · 2 km",
+      "drive": "≈ 200 km · 6–8 h",
+      "flight": "",
+      "text": "We leave at 7 am and drop out of the valley to the Trishuli river, then follow the Prithvi Highway west through Mugling, Damauli and Dumre. The road is about 200 km and takes 6–8 hours with stops, longer when road works hold traffic. From Dumre onwards the Annapurna and Manaslu ranges appear ahead on clear days. You reach Lakeside in Pokhara by mid-afternoon. Take a rowing boat out on Phewa Lake for an hour before sunset, when the water is calm and Machhapuchhre's double summit reflects in it on clear evenings. Dinner is at your choice of Lakeside restaurants.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Sarangkot sunrise and Pokhara sights",
+      "place": "sarangkot",
+      "overnight": "Pokhara (Lakeside)",
+      "altitude_m": 822,
+      "max_m": 1600,
+      "walk": "≈ 2 h in total · 3 km",
+      "drive": "≈ 40 km · 2 h across the day",
+      "flight": "",
+      "text": "We drive up to Sarangkot (1,600 m) before dawn and watch first light reach Dhaulagiri, Annapurna I and Machhapuchhre in turn. After breakfast at the hotel, visit Tal Barahi temple on its island in Phewa, then Davis Falls and the Gupteshwor Mahadev cave across the road, where steps lead down past a Shiva lingam to a view of the falls from inside the rock. In the afternoon drive up to the World Peace Pagoda, a white Japanese-built stupa on the ridge south of the lake, for the view back over Pokhara town and the mountains behind it.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Drive to Chitwan, Tharu village walk",
+      "place": "chitwan-national-park",
+      "overnight": "Sauraha, Chitwan",
+      "altitude_m": 150,
+      "max_m": 822,
+      "walk": "≈ 2 h · 4 km",
+      "drive": "≈ 150 km · 5–6 h",
+      "flight": "",
+      "text": "Leave Pokhara after breakfast and drive back down the Prithvi Highway to Mugling, then south along the Trishuli gorge to Narayanghat on the plains. The air turns warm and humid as you drop more than 650 m. At Sauraha, on the northern edge of Chitwan National Park, check in to the jungle resort for lunch. In the afternoon a naturalist leads a walk through a Tharu village, where mud-walled houses are painted with relief patterns and families farm rice and mustard. End on the banks of the Rapti river for sunset, often with rhinos grazing on the far bank.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Canoe, breeding centre and jeep safari",
+      "place": "chitwan-national-park",
+      "overnight": "Sauraha, Chitwan",
+      "altitude_m": 150,
+      "max_m": 150,
+      "walk": "≈ 1.5 h · 3 km",
+      "drive": "≈ 3–4 h by jeep in the park",
+      "flight": "",
+      "text": "After an early breakfast we board a dugout canoe carved from a single silk-cotton trunk and drift down the Rapti for about 45 minutes. Watch the banks for mugger crocodiles, kingfishers, storks and, with luck, a gharial. A short guided jungle walk leads to the elephant breeding centre at Khorsor, where calves stay with their mothers. In the afternoon a jeep safari of three to four hours goes deep into the park's grassland and sal forest, the best chance of close views of one-horned rhino, gaur, sambar and spotted deer. Evening brings a Tharu stick-dance performance in Sauraha.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "Drive to Kathmandu, depart",
+      "place": "kathmandu",
+      "overnight": "Departure",
+      "altitude_m": 1400,
+      "max_m": 1500,
+      "walk": "",
+      "drive": "≈ 165 km · 5–7 h",
+      "flight": "",
+      "text": "Early risers can join a 6 am bird walk along the river with the resort naturalist; Chitwan's dawn chorus includes hornbills, bee-eaters and peafowl. After breakfast we drive north to Mugling and up the Trishuli valley, then climb back into the Kathmandu Valley over the Nagdhunga pass. The drive is about 165 km and takes 5–7 hours. We go straight to Tribhuvan International Airport for your onward flight, so please book a departure after 7 pm, or let us add the 20-minute Bharatpur–Kathmandu flight for an earlier connection.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights at a 3-star hotel in Thamel, Kathmandu, with breakfast",
+    "2 nights at a 3-star Lakeside hotel in Pokhara, with breakfast",
+    "2 nights at a jungle resort in Sauraha on full board (breakfast, lunch, dinner)",
+    "Chitwan activities: jeep safari, Rapti canoe ride, jungle walk, elephant breeding centre, Tharu village walk and cultural show",
+    "Chitwan National Park entry fees and the resort naturalist",
+    "Private car or van with driver for the whole loop, plus airport transfers",
+    "Licensed English- or Hindi-speaking guide for sightseeing in Kathmandu and Pokhara",
+    "Early-morning drive to Sarangkot",
+    "Fuel, parking, tolls, taxes and our service charge"
+  ],
+  "excludes": [
+    "International flights and the Nepal visa fee for non-Indian passports",
+    "Domestic flights, including Bharatpur–Kathmandu",
+    "Kathmandu and Pokhara monument and boat fees (check current status before you travel)",
+    "Lunches and dinners in Kathmandu and Pokhara",
+    "Paragliding, Everest mountain flight and other extras",
+    "Travel insurance",
+    "Tips for guide, driver and naturalists",
+    "Drinks and personal expenses"
+  ],
+  "good_to_know": [
+    "The ₹32,000 price is per person for two sharing at 3-star hotels, a standard jungle resort in Sauraha and a private car, for Indian nationals outside peak festival weeks; the US$ price includes the higher foreign park fee.",
+    "Chitwan park fees are charged per person per day and differ for Indians (SAARC), other foreigners and Nepalis; fees change, so check current status before you travel.",
+    "From June to September the monsoon floods parts of the park and many jeep routes close; we do not sell this loop in July and August.",
+    "Chitwan is hot from April to June, often 35–40 °C at midday, so safaris run early and late in the day; December and January mornings bring thick fog until about 10 am.",
+    "We do not book elephant-back rides; game viewing is by jeep, canoe and on foot with trained naturalists."
+  ],
+  "add_ons": [
+    {"name": "Bharatpur–Kathmandu flight on day 7, 20 min", "price": "≈ ₹4,000 for Indian nationals · ≈ US$ 110 for other nationals (check current fares)"},
+    {"name": "Tandem paragliding from Sarangkot on day 4", "price": "≈ ₹8,000–10,000 per person"},
+    {"name": "Upgrade to 4-star hotels and a premium Sauraha resort", "price": "from ≈ ₹14,000 per person for the tour"}
+  ],
+  "faqs": [
+    {"q": "Should we visit Pokhara or Chitwan first?", "a": "We put Pokhara first. The 5 am Sarangkot sunrise is easier early in the trip, and ending in Chitwan means your last drive is the shorter 165 km run to Kathmandu rather than the 200 km Pokhara road. If your flight is early on the last day, we reverse the loop or add the 20-minute Bharatpur–Kathmandu flight. Both orders work; the total driving is the same."},
+    {"q": "Will we see a rhino or tiger in Chitwan?", "a": "Rhinos are very likely. On a jeep safari between October and April most of our guests see one-horned rhinos, often several, along with spotted deer, gaur, wild boar and crocodiles. Tigers are present but shy, and sightings are rare even for people who spend a week in the park. Sloth bears and leopards are also seen occasionally. The longer the jeep safari, the better your odds."},
+    {"q": "How much is a 7-day Nepal tour package from India?", "a": "Our 7-day Kathmandu, Pokhara and Chitwan package starts at ₹32,000 per person for two sharing, including 3-star hotels, full board and safaris in Chitwan, a private car and a guide. Return flights from Delhi typically add ₹10,000–20,000. With 4-star hotels expect ₹46,000 or more; at 5-star hotels and luxury lodges it reaches ₹95,000 and above."},
+    {"q": "Is it safe to stay in a Chitwan jungle resort?", "a": "Yes. Sauraha resorts sit in the buffer zone outside the park, and wild animals rarely enter town, though rhinos sometimes wander along the riverbank at night. The real rule is never to walk in the forest or along the river after dark, and to go into the park only with a licensed naturalist. On jungle walks, follow the naturalist's instructions exactly if you meet a rhino or sloth bear."},
+    {"q": "What should we wear on a jungle safari?", "a": "Wear clothes in green, khaki or brown, with long sleeves and long trousers against insects and sharp grass. Avoid white and bright colours, which alert animals. Closed walking shoes, a hat, sunglasses and sunscreen are useful, and add a fleece for winter mornings when the jeep is cold. Binoculars make a large difference, as rhinos and birds are often 50–100 m away."},
+    {"q": "Are there mosquitoes or malaria in Chitwan?", "a": "Mosquitoes are common in Chitwan, especially from April to October, and dengue cases occur in the monsoon. Malaria risk in Sauraha is low but not zero. Use a repellent with DEET or picaridin, wear long sleeves in the evening and sleep under a net or in a screened room. Ask your doctor about malaria tablets before travel and check current health advice."},
+    {"q": "Can we fly instead of driving on this tour?", "a": "Yes. Kathmandu–Pokhara is a 25-minute flight and Bharatpur–Kathmandu takes 20 minutes; Bharatpur airport is about 40 minutes from Sauraha. Pokhara–Chitwan has no regular flights, so that leg stays by road at about 5–6 hours. Flying both available legs adds roughly ₹8,500 for Indian nationals and saves nearly a full day of driving. Flights depend on weather, so check current status before you travel."},
+    {"q": "Which is the best month for Kathmandu, Pokhara and Chitwan?", "a": "October to early December is the best period, with clear mountain views and comfortable safari weather. February and March are also excellent; rhinos are easier to spot after the grass is cut in late winter. April is hot in Chitwan and hazy in Pokhara. We avoid July and August, when monsoon rains close safari routes and cloud hides the Himalaya."},
+    {"q": "Do foreigners need a visa for this Nepal tour?", "a": "Most foreign nationals get a visa on arrival at Tribhuvan International Airport: 15 days for US$ 30, 30 days for US$ 50 or 90 days for US$ 125. Fill in the online form within 15 days before arrival and carry the fee in cash, preferably US dollars. Indian citizens need no visa. Rules change, so check current status before you travel."}
+  ]
+}

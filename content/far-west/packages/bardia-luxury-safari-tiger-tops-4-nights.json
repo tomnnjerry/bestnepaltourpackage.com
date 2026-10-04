@@ -1,0 +1,81 @@
+{
+  "slug": "bardia-luxury-safari-tiger-tops-4-nights",
+  "title": "Bardia Luxury Safari at Tiger Tops 4 Nights",
+  "region": "far-west",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["luxury-nepal", "wildlife-safari", "honeymoon", "photography"],
+  "stops": [{"place": "kathmandu", "nights": 0}, {"place": "nepalgunj", "nights": 0}, {"place": "bardia-national-park", "nights": 4}],
+  "start": "Kathmandu (Tribhuvan International Airport, domestic terminal)",
+  "end": "Kathmandu",
+  "price_from_inr": 161000,
+  "price_from_usd": 1890,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 1],
+  "max_altitude_m": 1400,
+  "accommodation": "Tiger Tops Karnali Lodge, full board",
+  "transport": "Kathmandu–Nepalgunj return flights, lodge vehicle transfers, safari jeeps and rafts",
+  "group": "Private, 2–6",
+  "meta_description": "Luxury Bardia safari, 5 days and 4 nights at Tiger Tops Karnali Lodge: naturalist-led tiger walks, jeep days, river float, flights from Kathmandu included.",
+  "summary": "Four nights at Tiger Tops Karnali Lodge, the most refined safari stay in western Nepal, with the lodge's own naturalists leading jungle walks, full-day jeep drives on the Karnali and a dolphin-watching float. Return flights from Kathmandu to Nepalgunj and all activities are included.",
+  "intro": [
+    "Tiger Tops has run wildlife lodges in Nepal since the 1960s, and its Karnali Lodge on the edge of Bardia is the high-end way to look for tigers in the far west. The lodge is small, built in Tharu village style with local materials and largely solar powered, and its naturalists plan each day around recent tiger activity, the season and what you most want to see. Four nights gives three full days in and around the park without rushing.",
+    "This package flies you from Kathmandu to Nepalgunj in about an hour, with a lodge transfer of 2.5–3 hours to the buffer zone near Thakurdwara. Days combine long walks on tiger trails with jeep days on the Karnali side and a gentle river float, and afternoons are free for rest in the garden. The lodge's elephant programme, focused on observation rather than riding, and visits to the community projects it supports add depth to the stay."
+  ],
+  "highlights": [
+    "Four nights at Tiger Tops Karnali Lodge with full board",
+    "Activities planned and led by the lodge's own naturalists",
+    "Walking safari, full-day jeep drive and Karnali river float",
+    "Elephant observation programme without riding",
+    "Return flights Kathmandu–Nepalgunj and private transfers included"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Nepalgunj, transfer to the lodge", "place": "bardia-national-park", "overnight": "Tiger Tops Karnali Lodge", "altitude_m": 180, "max_m": 1400, "walk": "≈ 1 h · 2 km", "drive": "≈ 95 km · 2.5–3 h", "flight": "Kathmandu–Nepalgunj · ≈ 1 h", "text": "Morning flight from Kathmandu to Nepalgunj, with views of the Mahabharat hills and, on clear days, the Dhaulagiri range to the north. A lodge vehicle meets you and drives east through Kohalpur and the edge of Banke National Park, then up to the buffer zone near Thakurdwara. After lunch and a briefing from the naturalist team, take a gentle walk through the lodge grounds and neighbouring Tharu fields as the evening light settles over the forest edge.", "meals": "L, D"},
+    {"day": 2, "title": "Walking safari on tiger trails", "place": "bardia-national-park", "overnight": "Tiger Tops Karnali Lodge", "altitude_m": 180, "max_m": 180, "walk": "≈ 5–6 h · 10–12 km", "drive": "≈ 20 km · 40 min", "flight": "", "text": "An early start with two naturalists into the park on foot. The route follows sandy stream beds and forest roads where tigers patrol, checking pugmarks, scrapes and fresh kills and listening for the alarm calls of spotted deer and langurs. You spend time in a hide overlooking water, then share a picnic lunch in the forest. Return in the afternoon for rest, tea and a talk on Bardia's tigers and conservation.", "meals": "B, L, D"},
+    {"day": 3, "title": "Full-day jeep safari on the Karnali", "place": "bardia-national-park", "overnight": "Tiger Tops Karnali Lodge", "altitude_m": 180, "max_m": 180, "walk": "", "drive": "≈ 70–90 km in the park · 9 h", "flight": "", "text": "A full day in a lodge jeep, crossing the sal forest to the grasslands and river channels of the Karnali side. Your naturalist positions the jeep at crossings and pools where tigers drink, and you wait in silence for long spells. Wild elephants, rhinos, swamp deer and hog deer use these grasslands, and the river holds mugger crocodiles and gharial. Lunch is served at a riverside spot with views over the Geruwa channel.", "meals": "B, L, D"},
+    {"day": 4, "title": "River float and elephant programme", "place": "bardia-national-park", "overnight": "Tiger Tops Karnali Lodge", "altitude_m": 180, "max_m": 180, "walk": "≈ 1.5 h · 3 km", "drive": "≈ 40 km · 1.5 h", "flight": "", "text": "Morning raft float on the calm Geruwa channel of the Karnali from near Chisapani, watching for Ganges river dolphins surfacing in deep pools, crocodiles on sandbanks, otters and fish eagles. After lunch at the lodge, join the elephant programme, walking alongside the lodge's elephants and learning about their care. In the late afternoon, visit a Tharu village or community project supported by the lodge before a farewell dinner.", "meals": "B, L, D"},
+    {"day": 5, "title": "Last walk, fly back to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1.5 h · 3 km", "drive": "≈ 95 km · 2.5–3 h", "flight": "Nepalgunj–Kathmandu · ≈ 1 h", "text": "A final early birding walk around the lodge and buffer zone, when hornbills, parakeets and woodpeckers are active. After breakfast, transfer back to Nepalgunj for the afternoon flight to Kathmandu, arriving in time for dinner. If you have more time, we can extend with Rara Lake by flight from Nepalgunj or with Chitwan on the way back east.", "meals": "B"}
+  ],
+  "stays": ["tiger-tops-karnali-lodge"],
+  "includes": [
+    "4 nights at Tiger Tops Karnali Lodge, twin sharing",
+    "All meals at the lodge, from lunch on day 1 to breakfast on day 5",
+    "Return flights Kathmandu–Nepalgunj in economy",
+    "Airport and lodge transfers by private vehicle",
+    "Naturalist-led walking safari, full-day jeep safari and river float",
+    "Elephant observation programme and village visit",
+    "Bardia National Park entry fees for park days",
+    "Kathmandu domestic airport transfers"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Hotels in Kathmandu before and after the safari",
+    "Alcoholic and premium drinks",
+    "Tips for naturalists, drivers and lodge staff",
+    "Travel insurance",
+    "Optional extra activities not listed in the itinerary",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing a room at Tiger Tops Karnali in peak season, with standard full-board activities; single rooms and holiday weeks cost more.",
+    "Tiger Tops operates mainly from autumn to late spring and closes or reduces service in the monsoon; we confirm dates when you enquire.",
+    "Activities are scheduled by the lodge naturalists each day and may change with wildlife activity and weather.",
+    "The lodge does not offer elephant riding; its programme is observation and walking alongside elephants.",
+    "Domestic flight fares, park fees and lodge rates change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Extra night at Tiger Tops Karnali with full activities", "price": "≈ US$ 350–450 per person"},
+    {"name": "Rara Lake extension by flight from Nepalgunj, 3 nights", "price": "≈ US$ 650 per person"}
+  ],
+  "faqs": [
+    {"q": "What is the best luxury lodge in Bardia?", "a": "Tiger Tops Karnali Lodge is the leading high-end lodge in Bardia, with full-board stays, its own naturalists, a small number of rooms and a long history in Nepal wildlife tourism. Other Thakurdwara lodges are simpler and family-run. If comfort, guiding and quiet matter most, Tiger Tops is the obvious choice."},
+    {"q": "How much does a luxury Bardia safari cost?", "a": "This 4-night package starts from about ₹1,61,000 or US$1,890 per person, twin sharing, including return flights from Kathmandu, full board at Tiger Tops Karnali Lodge, activities and park fees. Rates rise in holiday periods and for single travellers. A comparable mid-range Bardia trip costs a fraction of this."},
+    {"q": "Is Tiger Tops Karnali good for a honeymoon?", "a": "Yes. It is small, quiet and personal, with comfortable rooms, good food and naturalists who tailor activities to you. Combine long days in the park with lazy afternoons at the lodge. Many couples add a few nights in Kathmandu or Pokhara, or a short flight to Rara Lake, for contrast."},
+    {"q": "Will I see a tiger at Tiger Tops Karnali?", "a": "There is a good chance on a 4-night stay between February and May, as the naturalists track recent tiger movements and plan walks and drives accordingly. Still, no one can guarantee a sighting. Even without a tiger, you will see a wide range of wildlife and learn a great deal about the forest."},
+    {"q": "Does Tiger Tops Karnali offer elephant rides?", "a": "No. Tiger Tops has moved away from elephant riding and now runs an elephant programme based on walking alongside, observing and learning about elephants kept in more natural conditions. Wildlife viewing is done on foot, by jeep and by raft. We support this approach."},
+    {"q": "Can children stay at Tiger Tops Karnali?", "a": "Families are generally welcome, and the naturalists adapt activities for children, with shorter walks, the river float and village visits. Long walking safaris suit older children. Confirm room arrangements for families when booking, and avoid May if your children find heat difficult."},
+    {"q": "How do I get to Tiger Tops Karnali Lodge?", "a": "Fly from Kathmandu to Nepalgunj in about an hour, then drive 95 km, about 2.5–3 hours, to the lodge in the Bardia buffer zone. This package includes the flights and transfers. Travellers coming from India can drive from Lucknow to the lodge in 6–7 hours via the Rupaidiha border."},
+    {"q": "When is the best time for a luxury Bardia safari?", "a": "February to April combines good tiger odds with manageable heat; May gives the best sightings but temperatures of 38–42 °C. October to January is green and comfortable, with fog in late December and January. The lodge is closed or quiet in the monsoon, roughly late June to September."},
+    {"q": "Can I combine Tiger Tops Karnali with Chitwan?", "a": "Yes. Many travellers spend 3–4 nights in Bardia and 2–3 nights in Chitwan for rhinos and a different landscape, linking them by flight via Kathmandu or by a long drive of about 10 hours along the East–West Highway. We can plan either option with suitable lodges."}
+  ]
+}

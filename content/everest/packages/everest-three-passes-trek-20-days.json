@@ -1,0 +1,110 @@
+{
+  "slug": "everest-three-passes-trek-20-days",
+  "title": "Everest Three Passes Trek 20 Days",
+  "region": "everest",
+  "type": "trek",
+  "grade": "Strenuous",
+  "nights": 19,
+  "themes": ["trekking", "adventure-sports", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "namche-bazaar", "nights": 3},
+    {"place": "tengboche", "nights": 1},
+    {"place": "dingboche", "nights": 1},
+    {"place": "chhukung", "nights": 2},
+    {"place": "lobuche", "nights": 2},
+    {"place": "gorak-shep", "nights": 1},
+    {"place": "everest-base-camp", "nights": 0},
+    {"place": "kala-patthar", "nights": 0},
+    {"place": "gokyo-lakes", "nights": 2},
+    {"place": "lukla", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 175000,
+  "price_from_usd": 1990,
+  "best_months": [0, 0, 0, 1, 2, 0, 0, 0, 0, 2, 2, 0],
+  "max_altitude_m": 5644,
+  "accommodation": "3-star hotel in Kathmandu (1 night), teahouse lodges on the trail",
+  "transport": "Kathmandu–Lukla return flights (or Ramechhap–Lukla with private road transfer), private airport transfers",
+  "group": "Private or small group, 2–8",
+  "meta_description": "Everest Three Passes trek 20 days: Kongma La 5,535 m, Cho La 5,420 m and Renjo La 5,360 m, plus EBC, Kala Patthar, Gokyo Ri and Thame. For fit trekkers.",
+  "summary": "The full circuit of the Khumbu in 20 days, crossing all three high passes, Kongma La (5,535 m), Cho La (5,420 m) and Renjo La (5,360 m), and visiting Everest Base Camp, Kala Patthar, Chhukung Ri, Gokyo Ri and the old Sherpa village of Thame. The most complete and demanding trek in the region.",
+  "intro": [
+    "The Three Passes trek links the four main valleys of the Khumbu: the Imja, the Khumbu, the Gokyo and the Bhote Koshi. We go anticlockwise, which most guides prefer because it puts the highest pass, the Kongma La, after a long acclimatisation through Namche, Tengboche, Dingboche and two nights at Chhukung with the Chhukung Ri climb. From Lobuche you visit Everest Base Camp and Kala Patthar, cross the Cho La to Gokyo for Gokyo Ri, and finish over the Renjo La to Thame, a valley few trekkers see, before descending to Namche.",
+    "In total you climb above 5,300 m on six separate days and walk around 160 km. Pass days run 7–9 hours, often starting before 5 am, on rough trails with loose rock, scree and small glaciers. This trek is for experienced, fit hikers who are comfortable with long days at altitude and accept that snow can close a pass for a day or force a reroute. The price includes a Kathmandu night, flights, permits, lodges, all meals on the trail, an experienced guide, porters and microspikes. Kathmandu nights after the trek are extra."
+  ],
+  "highlights": [
+    "All three high passes: Kongma La, Cho La and Renjo La",
+    "Everest Base Camp, Kala Patthar and Gokyo Ri in one trip",
+    "Chhukung Ri at about 5,550 m under the Lhotse south face",
+    "Renjo La view over the Gokyo Lakes to Everest",
+    "Thame, the quiet Sherpa village on the old Tibet trade route"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "", "text": "Transfer to a 3-star hotel in Thamel. In the afternoon your guide checks every item of kit against the needs of three high passes: stiff boots, gaiters, warm mitts, a −15 °C sleeping bag, microspikes and two headlamps. We plan duffel weights for the Lukla flight and go through the route on a map, including bad-weather alternatives.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lukla, walk to Phakding", "place": "phakding", "overnight": "Phakding", "altitude_m": 2610, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "Fly to Lukla, from Kathmandu or from Ramechhap after a night drive in peak months, and walk down the Dudh Koshi to Phakding. It is an easy start, mostly downhill past chortens and mani walls, finishing 250 m below Lukla.", "meals": "B, L, D"},
+    {"day": 3, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3440, "walk": "≈ 5–6 h · 10–11 km", "drive": "", "flight": "", "text": "Follow the river through Monjo and the park gate to Jorsale, cross the Hillary Bridge and climb 600 m to Namche. You will return here at the very end of the circuit from the opposite direction, via Thame.", "meals": "B, L, D"},
+    {"day": 4, "title": "Namche acclimatisation day", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3880, "walk": "≈ 4–5 h · 7 km loop", "drive": "", "flight": "", "text": "Climb to Hotel Everest View at 3,880 m and loop through Khumjung, back to Namche for lunch. Rest in the afternoon and buy any final supplies: the next shops with real choice are in Namche at the end of the trek.", "meals": "B, L, D"},
+    {"day": 5, "title": "Namche to Tengboche", "place": "tengboche", "overnight": "Tengboche or Deboche", "altitude_m": 3867, "max_m": 3867, "walk": "≈ 5–6 h · 10 km", "drive": "", "flight": "", "text": "The balcony trail to Kyangjuma, the drop to Phunki Thenga and the forest climb to Tengboche Monastery. Join the afternoon puja and watch the evening light on Ama Dablam, which you will see from three different sides over the coming days.", "meals": "B, L, D"},
+    {"day": 6, "title": "Tengboche to Dingboche", "place": "dingboche", "overnight": "Dingboche", "altitude_m": 4410, "max_m": 4410, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Through Deboche and Pangboche, above the treeline and into the Imja valley to Dingboche's stone-walled fields at 4,410 m. Rest and drink plenty of fluids; tomorrow is short.", "meals": "B, L, D"},
+    {"day": 7, "title": "Dingboche to Chhukung", "place": "chhukung", "overnight": "Chhukung", "altitude_m": 4730, "max_m": 4730, "walk": "≈ 2.5–3 h · 5 km", "drive": "", "flight": "", "text": "A short walk up the Imja valley to Chhukung at 4,730 m, beneath the south face of Lhotse and Nuptse, with Island Peak ahead and Ama Dablam behind. Arrive by late morning and spend the afternoon resting, with a short walk up the hillside above the lodges.", "meals": "B, L, D"},
+    {"day": 8, "title": "Chhukung Ri acclimatisation climb", "place": "chhukung", "overnight": "Chhukung", "altitude_m": 4730, "max_m": 5550, "walk": "≈ 5–6 h · 6 km", "drive": "", "flight": "", "text": "Climb Chhukung Ri, about 800 m of steep trail and a final rocky ridge, to around 5,550 m. The summit looks straight at Lhotse's south face, with Makalu, Baruntse, Island Peak and Imja Tsho in view. Descend to Chhukung for a second night. This climb is the key acclimatisation for tomorrow's Kongma La.", "meals": "B, L, D"},
+    {"day": 9, "title": "Kongma La to Lobuche", "place": "lobuche", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 5535, "walk": "≈ 8–9 h · 10 km", "drive": "", "flight": "", "text": "Leave at about 5 am. Climb the long, rocky valley north-west of Chhukung, past frozen lakes, to the Kongma La at 5,535 m, the highest pass of the trek, hung with prayer flags. The descent is steep on loose rock and scree to the edge of the Khumbu Glacier, which you cross on a rough, cairned path before climbing the moraine into Lobuche. A long, tiring day.", "meals": "B, L, D"},
+    {"day": 10, "title": "Gorak Shep and Everest Base Camp", "place": "everest-base-camp", "overnight": "Gorak Shep", "altitude_m": 5164, "max_m": 5364, "walk": "≈ 7–8 h · 12 km", "drive": "", "flight": "", "text": "Walk the moraine to Gorak Shep, have lunch and continue to Everest Base Camp at about 5,364 m below the Khumbu Icefall. Return to Gorak Shep for the night. After the Kongma La, this day feels manageable for most, but keep drinking and eating.", "meals": "B, L, D"},
+    {"day": 11, "title": "Kala Patthar sunrise, back to Lobuche", "place": "kala-patthar", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 5644, "walk": "≈ 5–6 h · 9 km", "drive": "", "flight": "", "text": "Climb Kala Patthar before dawn for sunrise on Everest from 5,644 m. Return to Gorak Shep for breakfast and walk down to Lobuche. The afternoon is free for rest, which you will want before the next pass.", "meals": "B, L, D"},
+    {"day": 12, "title": "Lobuche to Dzongla", "place": "", "overnight": "Dzongla", "altitude_m": 4830, "max_m": 4940, "walk": "≈ 3–4 h · 7 km", "drive": "", "flight": "", "text": "Leave the main trail below Lobuche and contour west above the Chola Tsho lake to Dzongla, a few lodges on a shelf at 4,830 m facing Cholatse and Ama Dablam. A short day that keeps you rested for the Cho La.", "meals": "B, L, D"},
+    {"day": 13, "title": "Cho La pass to Thangnak", "place": "", "overnight": "Thangnak", "altitude_m": 4700, "max_m": 5420, "walk": "≈ 7–8 h · 9 km", "drive": "", "flight": "", "text": "Start at about 5 am. Climb a steep, rocky slope to a small glacier, cross it with microspikes if it is icy, and reach the Cho La at 5,420 m. The descent to the west is steep over boulders, then eases down a valley to Thangnak (Dragnag) at about 4,700 m on the edge of the Ngozumpa Glacier.", "meals": "B, L, D"},
+    {"day": 14, "title": "Thangnak to Gokyo", "place": "gokyo-lakes", "overnight": "Gokyo", "altitude_m": 4790, "max_m": 4790, "walk": "≈ 2–3 h · 4 km", "drive": "", "flight": "", "text": "Cross the rubble-covered Ngozumpa Glacier on a cairned path between ice cliffs and melt ponds, then climb over the moraine to Gokyo village on the turquoise third lake. Arrive by late morning and enjoy a long rest in one of Gokyo's comfortable lodges.", "meals": "B, L, D"},
+    {"day": 15, "title": "Gokyo Ri sunrise", "place": "gokyo-lakes", "overnight": "Gokyo", "altitude_m": 4790, "max_m": 5357, "walk": "≈ 3–4 h · 4 km", "drive": "", "flight": "", "text": "Climb Gokyo Ri at dawn for the four 8,000 m peaks: Everest, Lhotse, Makalu and Cho Oyu, with the lakes and glacier below. Rest for the remainder of the day, or walk to the fourth lake in the afternoon if you feel strong.", "meals": "B, L, D"},
+    {"day": 16, "title": "Renjo La to Lungden", "place": "", "overnight": "Lungden", "altitude_m": 4380, "max_m": 5360, "walk": "≈ 7–8 h · 10 km", "drive": "", "flight": "", "text": "Walk around the northern shore of Dudh Pokhari and climb steadily on a well-built stone path to the Renjo La at 5,360 m. The view back over the Gokyo Lakes to Everest, Lhotse and Makalu is one of the best of the circuit. Descend past small lakes into the remote upper Bhote Koshi valley to Lungden at about 4,380 m.", "meals": "B, L, D"},
+    {"day": 17, "title": "Lungden to Thame", "place": "", "overnight": "Thame", "altitude_m": 3820, "max_m": 4380, "walk": "≈ 4–5 h · 12 km", "drive": "", "flight": "", "text": "Follow the Bhote Koshi down past Marlung and Taranga, on the old trade route from the Nangpa La and Tibet, to Thame at about 3,820 m. Thame's monastery, on a cliff above the village, is one of the oldest in the Khumbu, and many famous Sherpa climbers grew up here. Visit it in the afternoon.", "meals": "B, L, D"},
+    {"day": 18, "title": "Thame to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3820, "walk": "≈ 3–4 h · 9 km", "drive": "", "flight": "", "text": "A relaxed walk down the forested Bhote Koshi valley via Thamo, with views of Kongde Ri, closing the loop at Namche Bazaar. Arrive for lunch and enjoy the afternoon in bakeries and shops, with a hot shower at last.", "meals": "B, L, D"},
+    {"day": 19, "title": "Namche Bazaar to Lukla", "place": "lukla", "overnight": "Lukla", "altitude_m": 2860, "max_m": 3440, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Descend the Namche hill, cross the Hillary Bridge and follow the Dudh Koshi back to Lukla with a final climb from Cheplung. Farewell dinner with your crew after three passes and nearly three weeks together.", "meals": "B, L, D"},
+    {"day": 20, "title": "Fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2860, "walk": "", "drive": "Ramechhap–Kathmandu in peak months · ≈ 130 km · 4–5 h", "flight": "Lukla–Kathmandu · 35 min (or Lukla–Ramechhap · 20 min)", "text": "Morning flight from Lukla to Kathmandu, or to Ramechhap with a road transfer. We drop you at your hotel. Keep at least one spare day before your international departure for weather delays.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport pickup and 1 night in a 3-star Kathmandu hotel with breakfast and welcome dinner",
+    "Kathmandu–Lukla–Kathmandu flights, or Ramechhap–Lukla with private road transfers",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "18 nights in teahouse lodges, twin sharing",
+    "All meals on the trek with tea or coffee",
+    "Licensed guide experienced on all three passes",
+    "One porter for every two trekkers (up to 20 kg per porter)",
+    "Microspikes on loan for the passes",
+    "Staff wages, food, lodging and insurance",
+    "Pulse oximeter checks and first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Extra Kathmandu nights after the trek",
+    "Travel insurance with helicopter evacuation to 6,000 m",
+    "Hot showers, charging, Wi-Fi and drinks",
+    "Sleeping bag and down jacket (hire available)",
+    "Tips for guide and porters",
+    "Extra nights if snow closes a pass"
+  ],
+  "good_to_know": [
+    "Price is per person, twin sharing, for two or more trekkers. Groups are kept to eight for safety on the passes.",
+    "Pass crossings depend on snow and weather. If a pass is unsafe, your guide reroutes: for example, via Dingboche instead of the Kongma La, or via Phortse instead of the Cho La.",
+    "Best from mid-October to late November and from late April to May. We do not run this circuit from December to March or in the monsoon.",
+    "This is a strenuous trek with several 7–9 hour days above 5,000 m. Previous high-altitude trekking experience is strongly recommended.",
+    "In recent peak seasons Lukla flights have operated from Ramechhap; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Island Peak climb from Chhukung (adds 3 days)", "price": "≈ US$ 900–1,100 per person"},
+    {"name": "Helicopter from Gokyo to Kathmandu instead of Renjo La", "price": "≈ US$ 600–850 per seat shared"}
+  ],
+  "faqs": [
+    {"q": "How hard is the Everest Three Passes trek?", "a": "It is the most demanding standard trek in the Everest region: three passes between 5,360 and 5,535 m, several 7–9 hour days, steep loose descents and small glaciers. No technical climbing is needed, but strong fitness and prior high-altitude trekking experience are strongly recommended."},
+    {"q": "Which direction is best for the Three Passes?", "a": "Most guides prefer anticlockwise, starting with the Kongma La from Chhukung after good acclimatisation and finishing over the Renjo La to Thame. The Renjo La is also easier to descend than to climb from Lungden. Clockwise works but tackles the passes with less acclimatisation."},
+    {"q": "How much does the Three Passes trek cost?", "a": "Our 20-day Three Passes trek starts from about US$ 1,990 or ₹1,75,000 per person, twin sharing, including a Kathmandu night, flights, permits, lodges, meals, guide, porters and microspikes. Budget extra for insurance, tips and drinks."},
+    {"q": "Which is the hardest of the three passes?", "a": "Most trekkers find the Kongma La (5,535 m) hardest: it is the highest, the longest day and includes a rough crossing of the Khumbu Glacier. The Cho La has a small glacier and steep boulders. The Renjo La has the best path but a long climb."},
+    {"q": "Can I do the Three Passes in less than 20 days?", "a": "Strong trekkers sometimes do it in 16–18 days by cutting acclimatisation and rest days, which raises the risk of altitude sickness and leaves no buffer for snow. We think 19–20 days is the safe minimum for most people."},
+    {"q": "Do I need crampons for the Three Passes?", "a": "Usually microspikes are enough, mainly on the Cho La glacier and icy sections in the morning. After heavy snow, full crampons and an ice axe may be needed, or the pass may close. We lend microspikes and adjust plans to conditions."},
+    {"q": "What if a pass is closed?", "a": "Your guide reroutes around it: from Chhukung via Dingboche to Lobuche instead of the Kongma La, from Dzongla via Pheriche and Phortse instead of the Cho La, or down the Gokyo valley instead of the Renjo La. You still reach every main valley."},
+    {"q": "Is Thame worth visiting?", "a": "Yes. Thame is a quiet Sherpa village on the old trade route to Tibet, home to many Everest climbers, with an old cliffside monastery that hosts Mani Rimdu in spring. It sees few trekkers compared with the main EBC trail."},
+    {"q": "What is the best season for the Three Passes?", "a": "Mid-October to late November is best, with stable weather and little snow on the passes. Late April and May are good too. Winter brings deep snow and closures; the monsoon brings cloud and slippery trails."}
+  ]
+}

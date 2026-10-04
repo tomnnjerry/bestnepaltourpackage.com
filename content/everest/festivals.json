@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "mani-rimdu-festival",
+    "name": "Mani Rimdu",
+    "place": "tengboche",
+    "wiki": "Mani Rimdu",
+    "image_query": "Mani Rimdu Tengboche mask dance",
+    "when": "Oct–Nov, Tibetan lunar calendar",
+    "month_nums": [10, 11],
+    "summary": "Mani Rimdu is a 19-day Sherpa Buddhist ceremony that ends with three public days of blessings and masked dances in the courtyard of Tengboche Monastery each October or November. It celebrates the victory of Buddhism over the old Bon religion and draws Sherpas and trekkers from across the Khumbu.",
+    "body": [
+      "Mani Rimdu was brought to the Khumbu from Rongbuk Monastery in Tibet, on the north side of Everest, and is performed at three Sherpa monasteries: Tengboche in autumn, Thame in spring and Chiwong in the lower Solu. The ceremony begins privately with the monks building a sand mandala and chanting for many days. Rimdu refers to small red pills of blessed medicine that are distributed to the public, and Mani to the mantra of Chenrezig, om mani padme hum, recited thousands of times over them.",
+      "The public part lasts about three days. On the first, the Wang or empowerment, the head lama blesses the crowd with long-life pills and water. On the second, monks in elaborate silk costumes and painted masks perform the Chham dances, each representing a deity or character, including wrathful protectors who subdue demons, and comic figures who make the audience laugh. On the third, a fire puja burns offerings to dispel harm, and the sand mandala is dismantled.",
+      "For trekkers, Mani Rimdu is the best chance to see Sherpa religious life at full scale. Families walk for days from Namche, Khumjung, Pangboche and Phortse in their best clothes, and the courtyard and surrounding slopes fill with spectators. Lodges at Tengboche and Deboche book out early. The festival usually falls around the full moon of the ninth Tibetan month, which lands in October or November; check current status of exact dates before you travel."
+    ],
+    "tips": [
+      "Book Tengboche or Deboche lodges months ahead, or plan to walk up from Pangboche or Phortse for the day.",
+      "Arrive in the courtyard early to find a place to sit, and bring a warm jacket and cushion for long sessions on stone.",
+      "Do not use flash, block monks' paths or step into the dance area; ask before photographing individuals."
+    ],
+    "faqs": [
+      {"q": "When is Mani Rimdu at Tengboche?", "a": "Mani Rimdu at Tengboche is held in October or November, usually around the full moon of the ninth month of the Tibetan lunar calendar. The public dances run over about three days. Exact dates change every year, so check current status before you book your trek."},
+      {"q": "Can tourists watch Mani Rimdu?", "a": "Yes. Visitors are welcome to watch the public days in the monastery courtyard. Dress warmly, sit where locals indicate, keep voices low during prayers and avoid flash photography. A donation to the monastery is appreciated."},
+      {"q": "Which EBC trek dates include Mani Rimdu?", "a": "Plan your trek so you are at Tengboche on the dance day, usually the second public day. On a standard itinerary that means leaving Kathmandu about four to five days earlier. We adjust departure dates each year once the monastery announces the schedule."},
+      {"q": "Is Mani Rimdu held anywhere else?", "a": "Yes. Thame Monastery holds Mani Rimdu in spring, usually in May, and Chiwong Monastery in the Solu region holds it around October or November. Tengboche's autumn festival is the best known and easiest to combine with an Everest trek."}
+    ]
+  },
+  {
+    "slug": "sherpa-gyalpo-lhosar-khumbu",
+    "name": "Gyalpo Lhosar in the Khumbu",
+    "place": "namche-bazaar",
+    "wiki": "Losar",
+    "image_query": "Sherpa Lhosar celebration dance",
+    "when": "Feb–Mar, Tibetan lunar new year",
+    "month_nums": [2, 3],
+    "summary": "Gyalpo Lhosar is the Sherpa and Tibetan new year, celebrated in February or early March with family gatherings, monastery prayers, new prayer flags and Sherpa dancing in villages across the Khumbu, from Namche and Khumjung to Pangboche.",
+    "body": [
+      "Lhosar means new year, and Gyalpo, or king's, Lhosar is the version celebrated by Sherpas and Tibetans, falling on the first day of the first month of the Tibetan lunar calendar, usually in February or early March. Preparations start days before: houses are cleaned and whitewashed, old prayer flags replaced on rooftops and passes, and families cook special foods such as khapse, fried pastries in twisted shapes, and brew chang, the local barley beer.",
+      "On the first days of the new year, families visit monasteries to make offerings and receive blessings, then go from house to house visiting relatives, exchanging white khata scarves and eating together. In the evenings, villagers gather for circle dances called shyabru, singing call-and-response songs while stepping in rhythm around the courtyard. Celebrations continue for several days, and many Sherpas who work in Kathmandu return home to the Khumbu for the holiday.",
+      "For trekkers, Lhosar falls at the end of winter, when the trails are quiet, skies are often clear and lodges have plenty of space, but nights are very cold and passes may be snowbound. Namche, Khumjung and Pangboche are good places to be. Some lodges may close for family celebrations, so check ahead. Dates follow the lunar calendar and shift each year; check current status before you travel."
+    ],
+    "tips": [
+      "Bring a white khata scarf to offer if you are invited into a Sherpa home during Lhosar.",
+      "Expect some lodges and shops to close for a day or two while families celebrate.",
+      "Pack for winter: nights at Namche fall to around −10 °C in February, colder higher up."
+    ],
+    "faqs": [
+      {"q": "When is Lhosar in the Everest region?", "a": "Sherpas celebrate Gyalpo Lhosar on the Tibetan new year, usually in February or early March. The main celebrations last about three days, with family visits continuing for up to two weeks. Exact dates change each year, so check current status before you travel."},
+      {"q": "Is it a good time to trek during Lhosar?", "a": "It can be. Trails are quiet and skies often clear, and you may see dancing and monastery prayers in Namche, Khumjung or Pangboche. But it is late winter: nights are very cold, high passes may be closed by snow and some lodges shut briefly."},
+      {"q": "What do Sherpas eat at Lhosar?", "a": "Families prepare khapse, crisp fried pastries in twisted shapes, along with meat dishes, rice, sweet tea and chang, a home-brewed barley beer. Guests are offered food and drink in every house they visit, so pace yourself."},
+      {"q": "Can tourists join Lhosar celebrations?", "a": "Visitors are often welcome to watch dances and monastery prayers, and lodge families sometimes invite guests to share food. Dress modestly, accept offerings with your right hand and ask before taking photographs inside homes or monasteries."}
+    ]
+  }
+]

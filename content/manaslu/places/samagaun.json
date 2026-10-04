@@ -1,0 +1,132 @@
+{
+  "slug": "samagaun",
+  "name": "Samagaun",
+  "region": "manaslu",
+  "kind": "trekking village",
+  "wiki": "Samagaun",
+  "image_query": "Samagaun village Manaslu view",
+  "lat": 28.588,
+  "lng": 84.637,
+  "altitude_m": 3530,
+  "tagline": "The Nubri village at the foot of Manaslu, 8,163 m",
+  "meta_description": "Samagaun (3,530 m) on the Manaslu Circuit: acclimatisation hikes, Pungyen Gompa, Birendra Tal, Manaslu Base Camp, lodges, permits and best months.",
+  "summary": "Samagaun is the largest village on the upper Manaslu Circuit, at 3,530 m in the Nubri valley of Gorkha district. Most treks spend two nights here to acclimatise before Larkya La. From the village you reach Birendra Tal in 30 minutes, Pungyen Gompa in about 3 hours and Manaslu Base Camp (4,800 m) in a long day.",
+  "intro": [
+    "Samagaun, also written Sama Gaon or Sama, sits on a broad glacial terrace above the Budhi Gandaki at 3,530 m. The houses are low stone buildings with wooden shingle or tin roofs, built close together against the wind, and the fields around them grow barley, buckwheat and potatoes in one short summer season. Manaslu rises directly to the west. On a clear morning the summit, at 8,163 m the eighth-highest mountain on Earth, stands more than 4,600 m above the village roofs.",
+    "The people of Samagaun are Nubri, a Tibetan Buddhist community whose language is close to the speech of Kyirong across the border. You will see long mani walls carved with prayers, chortens at the village gates, prayer flags on every roof and a gompa above the fields. Yak and dzo herds come down to the lower pastures in autumn. In the climbing season, from late August to early October, expedition teams pass through on the way to Manaslu Base Camp, and the village feels like a small mountaineering town.",
+    "For trekkers, Samagaun is the place to stop and adjust. You arrive from Lho after a short 3 to 4 hour walk and should sleep two nights here before going higher to Samdo (3,875 m) and Dharamsala (4,460 m). The rest day is not idle: most groups climb to Birendra Tal, Pungyen Gompa or part of the way to base camp, then sleep low again. This climb-high, sleep-low pattern is the best protection you have before Larkya La at 5,106 m."
+  ],
+  "facts": [
+    ["Altitude", "3,530 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Kathmandu (heli landing possible in Samagaun)"],
+    ["From Kathmandu", "≈ 8–9 h by jeep to Machha Khola + 5–6 days' walk, or ≈ 1 h by helicopter"],
+    ["Known for", "Manaslu views, Pungyen Gompa, Birendra Tal, acclimatisation"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Manaslu from the village fields", "text": "The summit of Manaslu, 8,163 m, fills the western sky above Samagaun. Early morning, before cloud builds around 10 am, the light hits the east face first. Walk to the edge of the barley fields below the gompa for an open view with chortens in the foreground."},
+    {"title": "Birendra Tal glacier lake", "text": "A grey-green lake fed by the Manaslu Glacier, about 30 minutes on foot from the lodges. Ice falls from the glacier snout into the water in late afternoon. It makes an easy first outing on arrival day and a good test of how your body copes at altitude."},
+    {"title": "Pungyen Gompa hike", "text": "A half-day climb to the site of Pungyen Gompa, close to 4,000 m, on a ridge facing the Manaslu Glacier. The original monastery was destroyed by an avalanche in 1953. The walk is one of the best acclimatisation hikes in the region and the views of the Manaslu icefall are close."},
+    {"title": "Gateway to Manaslu Base Camp", "text": "Fit trekkers with an extra day can climb to Manaslu Base Camp at about 4,800 m. It is a steep 1,270 m ascent that takes 5 to 6 hours up and 3 hours down, with views over Birendra Tal, the glacier and the peaks of the Tibet border."},
+    {"title": "Nubri Buddhist village life", "text": "Mani walls, prayer wheels turned by passers-by, women weaving on back-strap looms and yaks being loaded for the trip to Samdo. Samagaun is a working village first and a trekking stop second, and walking the lanes with your guide is the best way to understand Nubri life."},
+    {"title": "Helicopter access", "text": "Samagaun has a recognised helicopter landing area, which makes it the turn-around point for Manaslu heli tours and for treks that finish by flying out instead of crossing Larkya La. Flights to Kathmandu take about an hour in good morning weather."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Jeeps run from Kathmandu via Dhading Besi and Arughat to Machha Khola (930 m), about 160 km in 8 to 9 hours. In the dry season some jeeps continue to Jagat. Beyond that there is no road to Samagaun; road works are pushing north, so check current status before you travel."},
+    {"mode": "On foot", "text": "From Machha Khola it is 5 to 6 walking days to Samagaun via Jagat, Deng or Bihi Phedi, Namrung and Lho. The final stage from Lho is short: about 8 km and 3 to 4 hours with 350 m of gain, past Shyala village and its view of Himal Chuli and Ngadi Chuli."},
+    {"mode": "Helicopter", "text": "A helicopter from Kathmandu reaches Samagaun in about 60 minutes. Flights leave early, often 6:30 to 7:30 am, because cloud and wind build by late morning. Landing requires the Manaslu restricted area permit for each foreign passenger; check current status before you travel."}
+  ],
+  "where_to_stay": "Samagaun has the largest choice of teahouse lodges on the upper circuit, spread along the main lane between the school and the gompa. Rooms are twin, with wooden beds, foam mattresses and blankets; bring a warm sleeping bag because nights fall well below freezing from November. Hotel Norling and the Manaslu Guest House across the lane from it are long-running stops used by trekking groups and, in autumn, by Manaslu expedition teams. Most lodges have a heated dining room, solar or electric hot showers for a fee and paid Wi-Fi or mobile data, but power and water can fail in cold snaps. In peak October nights we book ahead.",
+  "stays": ["samagaun-hotel-norling", "samagaun-manaslu-guest-house"],
+  "tips": [
+    "Plan two nights here, not one, even on a 12-day itinerary; the second night is your main acclimatisation before Larkya La.",
+    "Go out early: Manaslu is usually clear from sunrise until about 10 am, then cloud rolls up the valley.",
+    "Carry Nepali rupees in cash, because there are no ATMs and few lodges take cards.",
+    "Walk clockwise around mani walls and chortens, and ask before photographing people or the inside of the gompa.",
+    "If you have a headache that painkillers do not fix, stay an extra night here rather than going up to Samdo."
+  ],
+  "themes": ["trekking", "heli-tours", "photography", "cultural-tours"],
+  "nearby": ["manaslu-base-camp", "lho", "samdo", "larkya-la"],
+  "experiences": [
+    {
+      "slug": "samagaun-pungyen-gompa-hike",
+      "title": "Pungyen Gompa acclimatisation hike",
+      "kind": "hiking",
+      "duration": "5–6 hours return",
+      "best_time": "Early morning, Mar–May and Sep–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Pungyen Gompa Manaslu glacier",
+      "wiki": "",
+      "summary": "A half-day climb from Samagaun to the Pungyen Gompa site on a ridge facing the Manaslu Glacier. You gain roughly 450 to 500 m, which is ideal for acclimatisation, and get close views of the Manaslu icefall, Naike Peak and the peaks along the Tibet border.",
+      "body": [
+        "The trail leaves Samagaun to the south, crosses the fields and climbs through juniper and scrub onto a lateral moraine of the Manaslu Glacier. The gradient is steady rather than steep, and most walkers reach the old monastery site in 2.5 to 3 hours. The original Pungyen Gompa was destroyed by an avalanche in 1953, which local people linked to the first Japanese attempts on Manaslu; that story still comes up in conversation in the village, so it is worth asking your guide about it.",
+        "From the ridge the Manaslu Glacier spreads below you in broken blue and white seracs, with the summit pyramid above. On clear days you can pick out the route expedition teams use towards Camp 1. Yak herders graze animals on the meadows around the gompa site in summer and early autumn, and you may share the trail with them.",
+        "Start by 7 am to reach the top before cloud. Take water, a warm layer and a windproof jacket, because the ridge is exposed. Walk at a pace where you can still talk, and turn back if anyone develops a headache or dizziness. You descend the same way to Samagaun for lunch and a rest, sleeping at 3,530 m after touching about 4,000 m."
+      ],
+      "good_for": ["photographers", "solo", "groups", "first-timers"],
+      "faqs": [
+        {"q": "How hard is the Pungyen Gompa hike from Samagaun?", "a": "It is moderate. You climb roughly 450 to 500 m over 2.5 to 3 hours on a clear trail with no technical sections, then return the same way in about 2 hours. The main difficulty is the altitude, close to 4,000 m at the top, so walk slowly, drink 1 litre of water on the way up and turn back if a headache develops."},
+        {"q": "Is Pungyen Gompa or Manaslu Base Camp better for acclimatisation?", "a": "For most trekkers Pungyen Gompa is the better acclimatisation day because it gains about 500 m and leaves you rested for Samdo and Larkya La. Manaslu Base Camp gains about 1,270 m and takes 8 to 9 hours return, which suits fit, already acclimatised walkers who have an extra day in their itinerary."},
+        {"q": "Is there a working monastery at Pungyen Gompa?", "a": "No. The original monastery was destroyed by an avalanche in 1953, and today the site is a ruin with prayer flags and a few small structures used by herders. People go for the location and the views of the Manaslu Glacier rather than to visit an active gompa. Samagaun's own village gompa is the place for prayers and butter lamps."}
+      ]
+    },
+    {
+      "slug": "samagaun-birendra-tal-walk",
+      "title": "Birendra Tal glacier lake walk",
+      "kind": "nature",
+      "duration": "1.5–2 hours return",
+      "best_time": "Afternoon on arrival day, or early morning for reflections",
+      "price_hint": "Included in most treks",
+      "image_query": "Birendra Tal lake Manaslu glacier",
+      "wiki": "Birendra Lake",
+      "summary": "An easy walk from Samagaun to Birendra Tal, the meltwater lake at the snout of the Manaslu Glacier. The path is short and gentle, so it is the natural first outing on arrival day. Expect grey-green water, falling ice from the glacier and Manaslu above on clear mornings.",
+      "body": [
+        "Birendra Tal is named after King Birendra of Nepal. It lies in a bowl of moraine just west of the village, and the walk takes about 30 to 40 minutes each way across fields and a low gravel ridge. The lake changes colour with the light, from milky turquoise in the morning to slate grey under afternoon cloud. Chunks of ice break off the glacier face across the water, and in still air you hear them before you see them.",
+        "Because the climb is small, the walk is a gentle way to keep moving on the day you arrive from Lho. Light activity helps acclimatisation more than lying in your room. Families and older trekkers who skip the longer Pungyen or base camp hikes still get a close look at a Himalayan glacier here.",
+        "Keep well back from the lake shore and the moraine edges. In 2024 an avalanche into the lake pushed a surge of water over its banks, a reminder that glacial lakes are active places. Stay on the main path, do not climb onto the ice, and come back before dark, when temperatures drop sharply."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "How far is Birendra Tal from Samagaun?", "a": "About 30 to 40 minutes on foot each way from the main lodges, with a climb of less than 100 m. The path crosses village fields and a short stretch of moraine. Most trekkers walk there on the afternoon they arrive from Lho, or before breakfast on the rest day to see Manaslu reflected in calm water."},
+        {"q": "Can you swim in Birendra Tal?", "a": "No, and you should not try. The water is glacial meltwater close to freezing, ice falls from the glacier into the lake and the shore is loose moraine. In 2024 an avalanche caused a surge of water over the banks. Enjoy it from the marked path and keep children well back from the edge."},
+        {"q": "Is the Birendra Tal walk enough for acclimatisation?", "a": "It is a good arrival-day leg stretch, but on its own it gains too little height to count as your main acclimatisation hike. On the rest day we recommend a climb to Pungyen Gompa or towards Manaslu Base Camp, then sleeping in Samagaun again at 3,530 m."}
+      ]
+    },
+    {
+      "slug": "samagaun-nubri-village-culture-walk",
+      "title": "Samagaun village gompa and mani walls",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, after the rest-day hike",
+      "price_hint": "Included in most treks",
+      "image_query": "Samagaun gompa mani wall prayer flags",
+      "wiki": "",
+      "summary": "A slow walk through Samagaun with your guide: the village gompa, long mani walls, chortens, prayer wheels and the stone houses of a Nubri farming community. It is the best way to understand who lives under Manaslu and how the year runs at 3,530 m.",
+      "body": [
+        "Start at the kani, the gateway chorten at the edge of the village, and follow the lanes between houses with stacked firewood and drying yak dung on the walls. Your guide can explain the carved mani stones, many inscribed with the mantra om mani padme hum, and why you always pass them on your right. In autumn the barley and buckwheat harvest is spread on rooftops, and the work of threshing goes on in courtyards.",
+        "The gompa above the village belongs to the Nyingma tradition followed across Nubri. If a lama or caretaker is present you may be allowed inside to see the murals and butter lamps; take off your shoes, keep your voice low and leave a small offering of 100 to 200 rupees in the box. Photography inside is often not allowed, so ask first.",
+        "Village life here runs on a short summer. Families move herds up to high pastures from June, come down in October and many older residents spend the coldest months in Kathmandu. A short visit to a local home for salt butter tea, arranged by your guide, gives you a chance to ask questions and to see a traditional kitchen with its central stove."
+      ],
+      "good_for": ["families", "seniors", "couples", "pilgrims"],
+      "faqs": [
+        {"q": "Can tourists enter the gompa in Samagaun?", "a": "Usually yes, when a caretaker or lama is present to open it. Remove your shoes, keep hats off, walk clockwise and do not point your feet towards the altar. A small donation of 100 to 200 rupees is customary. Photography inside is often not permitted, so ask your guide to check before you take out a camera."},
+        {"q": "What language do people speak in Samagaun?", "a": "People speak Nubri, a Tibetan language closely related to the speech of Kyirong in Tibet and to the Tsum language. Most adults also speak Nepali, and lodge owners speak enough English to handle rooms and meals. A few words such as tashi delek, a Tibetan greeting, are always welcome."},
+        {"q": "Is it respectful to photograph local people in Samagaun?", "a": "Ask first, every time, and accept a no. Many older residents prefer not to be photographed, and people working in the fields or at prayer should be left alone. Landscapes, chortens and mani walls are fine to photograph from the outside. Your guide can help you ask politely in Nepali or Nubri."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Samagaun?", "a": "Samagaun lies at about 3,530 m above sea level, and the upper fields and gompa reach roughly 3,600 m. It is the highest large village on the Manaslu Circuit. From here the trail climbs to Samdo at 3,875 m, Dharamsala at 4,460 m and Larkya La at 5,106 m over the next three days."},
+    {"q": "How many nights should I stay in Samagaun?", "a": "Two nights. Arrive from Lho, rest, then use the second day for an acclimatisation hike to Pungyen Gompa or towards Manaslu Base Camp before sleeping at 3,530 m again. Trekkers adding the full Manaslu Base Camp climb often take three nights. Cutting Samagaun to one night is the most common cause of altitude problems further up."},
+    {"q": "Can I fly to Samagaun by helicopter?", "a": "Yes. Helicopters from Kathmandu land in Samagaun in about an hour, either as a day heli tour or to drop off or pick up trekkers. Flights run early in the morning because cloud builds by late morning. Foreign passengers need the Manaslu restricted area permit even for a heli landing; check current status before you travel."},
+    {"q": "Do I need a permit to visit Samagaun?", "a": "Yes. Samagaun is inside the Manaslu restricted area, so foreigners need the Manaslu restricted area permit, the Manaslu Conservation Area Permit and the local Tsum Nubri rural municipality fee. The permit is issued only through a registered agency with a licensed guide. Check current status before you travel."},
+    {"q": "Is there Wi-Fi and mobile signal in Samagaun?", "a": "Most lodges offer paid Wi-Fi, often 300 to 500 rupees, and mobile data works in parts of the village on Nepal Telecom or Ncell. Speeds are slow and the connection drops in bad weather or power cuts. Do not rely on it for work, and download maps and permits to your phone before leaving Kathmandu."},
+    {"q": "How cold is Samagaun in October and November?", "a": "In October daytime temperatures are around 10 to 15 °C in sun and nights fall to about −5 °C. In November nights reach −8 to −10 °C and water pipes can freeze. Bring a sleeping bag rated to −10 °C or lower, a down jacket, warm hat and gloves, and expect frost on the fields at dawn."},
+    {"q": "Can I see Manaslu from Samagaun?", "a": "Yes, Manaslu (8,163 m) dominates the view to the west, along with the Manaslu Glacier and Naike Peak. The best time is sunrise to about 10 am, when the sky is usually clear in spring and autumn. Afternoon cloud often hides the summit, so plan photos early."},
+    {"q": "Is Samagaun suitable for older trekkers?", "a": "Yes, if they walk slowly, stay two or three nights and have no heart or lung conditions that rule out altitude. The trail from Lho is short and gentle. Older trekkers who do not want to cross Larkya La can trek to Samagaun and return by helicopter, which removes the long pass day."},
+    {"q": "Where can I buy supplies in Samagaun?", "a": "Small shops sell snacks, chocolate, toilet paper, batteries, basic medicines and bottled water at mountain prices, often three to four times Kathmandu rates. There is no ATM or pharmacy. Bring all essential medicines, sun cream and enough cash in Nepali rupees for the remaining days to Dharapani."}
+  ]
+}

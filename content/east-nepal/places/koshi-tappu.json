@@ -1,0 +1,132 @@
+{
+  "slug": "koshi-tappu",
+  "name": "Koshi Tappu Wildlife Reserve",
+  "region": "east-nepal",
+  "kind": "national park",
+  "wiki": "Koshi Tappu Wildlife Reserve",
+  "image_query": "Koshi Tappu Wildlife Reserve birds wetland",
+  "lat": 26.65,
+  "lng": 86.98,
+  "altitude_m": 80,
+  "tagline": "Wetland reserve on the Koshi for winter birds and wild water buffalo",
+  "meta_description": "Koshi Tappu Wildlife Reserve guide: Ramsar wetland for birdwatching, wild water buffalo, Gangetic dolphins, best months, camps, how to reach from Biratnagar.",
+  "summary": "Koshi Tappu is a 176 sq km wetland reserve on the Koshi River floodplain in Nepal's eastern Terai, around 80 m above sea level. It is the country's top birding site in winter and home to Nepal's last wild water buffalo. Fly to Biratnagar and drive 1.5–2 hours. November to March is the season.",
+  "intro": [
+    "Koshi Tappu Wildlife Reserve protects a stretch of the Koshi River's floodplain just upstream of the Koshi Barrage on the India border, a flat world of braided channels, reed beds, marshes, grassland and riverine forest. It was established in 1976 to protect the last population of wild water buffalo, or arna, in Nepal, and was listed as a Ramsar wetland in 1987. Elevation is only 75–81 m, so the climate is tropical, hot from April and humid in the monsoon.",
+    "Birders come for the winter. From November to March tens of thousands of ducks, geese, waders, storks and raptors arrive from Siberia, Tibet and Central Asia, joining resident species such as the swamp francolin, a globally threatened grassland bird. Several hundred species have been recorded in and around the reserve and the Koshi Barrage, which together form an Important Bird Area. Boat trips on the Koshi can turn up Gangetic river dolphins and gharial.",
+    "Koshi Tappu is low-key compared with Chitwan. There are no rhinos or tigers, and no jeep safari circuits full of vehicles. Instead you walk the embankments with a naturalist, float the river in a raft or canoe and sit in hides by the ponds. A handful of tented camps on the reserve edge cater to birders. Biratnagar, the nearest airport, is about 1.5–2 hours away by road."
+  ],
+  "facts": [
+    ["Altitude", "75 – 81 m"],
+    ["Best months", "Nov – Mar (migratory birds)"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Biratnagar (BIR), ≈ 1.5–2 h"],
+    ["From Kathmandu", "40 min flight to Biratnagar + 1.5–2 h drive, or ≈ 400 km · 9–10 h by road"],
+    ["Known for", "Winter birds, wild water buffalo, Gangetic dolphins, Ramsar wetland"]
+  ],
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "3",
+  "highlights": [
+    {"title": "Winter waterfowl on the Koshi", "text": "From November to March the river channels and ponds fill with ducks, geese, cormorants, herons, storks and waders. Bar-headed geese, ruddy shelducks and large flocks of pochards are typical, and raptors patrol the grasslands."},
+    {"title": "Wild water buffalo", "text": "Koshi Tappu holds Nepal's only surviving herd of wild water buffalo, known locally as arna. They are larger than domestic buffalo, with huge swept-back horns, and are best seen grazing the grasslands in early morning or late afternoon."},
+    {"title": "Koshi Barrage birding", "text": "The barrage on the India border, a short drive south, is one of the best spots in Nepal for gulls, terns, ducks and the occasional rarity. The river below it is good for Gangetic dolphins in the dry season."},
+    {"title": "River trips by raft or canoe", "text": "Floating the Koshi in a raft or canoe gives silent, close views of kingfishers, terns, storks and resting ducks. On lucky days a dolphin surfaces or a gharial basks on a sandbank."},
+    {"title": "Swamp francolin and grassland birds", "text": "The reserve's tall grass holds specialities such as the swamp francolin, striated grassbird and Bengal florican in some years. A naturalist who knows the calls makes all the difference."},
+    {"title": "Tharu and Maithil villages", "text": "Villages around the reserve are home to Tharu, Maithil and other Terai communities. Short walks show mud-walled houses, fishing, buffalo herding and crops of rice and mustard."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Biratnagar (about 40 min, several daily flights). From Biratnagar it is ≈ 60–70 km and 1.5–2 hours by road via Itahari and the East–West Highway to the reserve headquarters and camps."},
+    {"mode": "Road", "text": "From Kathmandu it is ≈ 400 km and 9–10 hours via the BP Highway or the East–West Highway. From Kakarbhitta on the India border allow ≈ 160 km and 4 hours; from Dharan about 1.5 hours."},
+    {"mode": "Rail", "text": "The nearest Indian rail heads are Jogbani, opposite Biratnagar, and Jaynagar further west. From Jogbani cross into Biratnagar and drive about 2 hours to the reserve."}
+  ],
+  "where_to_stay": "A handful of tented camps sit on the edge of the reserve, built mainly for birders and nature lovers. Koshi Camp, in Madhuban village east of the reserve, has walk-in safari tents with a bird hide on its own pond, and Aqua Birds Unlimited Camp, on a private wetland on the reserve border, offers tented rooms and naturalist-led walks. Facilities are simple but comfortable, with full board. For more hotel choice, Biratnagar, Itahari and Dharan have 3-star options within 1.5–2 hours.",
+  "stays": ["koshi-camp", "aqua-birds-unlimited-camp"],
+  "tips": [
+    "Book camps early for December and January, when birding tour groups fill them.",
+    "Bring binoculars of at least 8x magnification; a spotting scope is useful at the barrage.",
+    "Wear muted greens and browns and keep voices low on embankment walks.",
+    "Mornings in December and January are foggy and cold, around 8–10 °C; pack a warm layer.",
+    "Avoid May to September: heat, flooding and closed camps make the reserve a poor choice."
+  ],
+  "themes": ["wildlife-safari", "photography", "short-breaks", "family-holidays"],
+  "nearby": ["bhedetar", "dhankuta", "halesi-mahadev"],
+  "experiences": [
+    {
+      "slug": "koshi-tappu-dawn-birding-walk",
+      "title": "Dawn birding walk on the Koshi embankment",
+      "kind": "wildlife",
+      "duration": "3–4 hours",
+      "best_time": "Sunrise, Nov–Mar",
+      "price_hint": "Included at birding camps",
+      "image_query": "Koshi Tappu bird watching embankment",
+      "wiki": "",
+      "summary": "Walk the raised flood embankment and pond edges at sunrise with a naturalist, scanning the marshes and river channels for ducks, storks, raptors and grassland specialities as the mist lifts.",
+      "body": [
+        "The eastern embankment of the Koshi runs for kilometres along the edge of the reserve, giving a raised view over marshes, grassland and river channels. We set off at first light with a naturalist guide and a spotting scope, walking slowly and stopping often. In December and January the early mist can hang until 9 a.m., and birds appear and disappear in it.",
+        "Typical sightings include several species of ducks and geese, purple swamphen, black-necked and Asian openbill storks, egrets, herons, kingfishers, harriers quartering the grass and eagles on dead trees. A good naturalist will also pick out skulkers by call, such as the swamp francolin, and the many warblers in the reeds. Wild water buffalo may graze within sight.",
+        "We return to camp for a late breakfast. The walk is flat and easy, about 4–6 km in total. Serious birders can extend it into the afternoon, while families may prefer a shorter version followed by time in the camp hide."
+      ],
+      "good_for": ["photographers", "couples", "solo", "seniors"],
+      "faqs": [
+        {"q": "How many bird species are found at Koshi Tappu?", "a": "Several hundred species have been recorded in and around the reserve and Koshi Barrage, making it one of the richest birding sites in Nepal. A good winter trip of three days often logs more than 150 species."},
+        {"q": "Do I need my own binoculars?", "a": "Bring your own if you can, ideally 8x42 or 10x42. Camps and guides usually have a few spare pairs and a spotting scope to share, but not enough for a whole group."},
+        {"q": "Is Koshi Tappu good for beginners in birding?", "a": "Yes. The birds are large and easy to see on open water and grass, and a naturalist helps with identification. Many visitors with no birding background enjoy it as much as experts."}
+      ]
+    },
+    {
+      "slug": "koshi-river-raft-and-dolphin-trip",
+      "title": "Koshi River float and dolphin watch",
+      "kind": "water",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Nov–Mar",
+      "price_hint": "≈ ₹3,000 per person",
+      "image_query": "Koshi River boat Nepal",
+      "wiki": "Kosi River",
+      "summary": "A quiet float down a channel of the Koshi in a raft or canoe, watching for kingfishers, terns, storks, basking gharial and, with luck, the Gangetic river dolphins that live in the river.",
+      "body": [
+        "The Koshi is one of Nepal's largest rivers, carrying the waters of the Arun, Tamor and Sun Koshi out of the hills. Inside the reserve it spreads into wide channels with sandbanks and islands. We put in upstream and drift with the current, paddling only to steer, so wildlife hears nothing but the water.",
+        "Kingfishers, river terns and lapwings are common; storks and herons stand on the sandbars; ducks rest in the backwaters. Gangetic river dolphins live in the Koshi system and surface briefly to breathe with a puff of air, most often in deeper stretches. Mugger crocodiles and gharial bask on banks in the winter sun. Sightings vary with water level and season.",
+        "Life jackets are provided and the water is calm in winter. The trip is suitable for children from about 6 years old. River trips do not run when water is high or fast after rain, and are not offered in the monsoon."
+      ],
+      "good_for": ["families", "couples", "photographers", "groups"],
+      "faqs": [
+        {"q": "Can you see dolphins at Koshi Tappu?", "a": "Gangetic river dolphins live in the Koshi and are sometimes seen from boats in the reserve and below the barrage, most often in winter when water is low. Sightings are never guaranteed."},
+        {"q": "Is the river trip safe for children?", "a": "Yes, in winter when the river is calm. Life jackets are compulsory and boats are steered by trained crew. We recommend it for children aged 6 and over."},
+        {"q": "Are there crocodiles in the Koshi?", "a": "Yes, mugger crocodiles and the rarer gharial. They are wary of boats and are usually seen basking on sandbanks. Follow the crew's instructions and keep hands inside the boat."}
+      ]
+    },
+    {
+      "slug": "koshi-barrage-gulls-and-terns-trip",
+      "title": "Koshi Barrage birding trip",
+      "kind": "wildlife",
+      "duration": "Half day",
+      "best_time": "Morning, Dec–Feb",
+      "price_hint": "≈ ₹4,000 per vehicle",
+      "image_query": "Koshi Barrage Nepal",
+      "wiki": "Koshi Barrage",
+      "summary": "Drive to the Koshi Barrage on the India border to scan the water above and below the gates for gulls, terns, ducks and waders, one of the most productive winter birding spots in Nepal.",
+      "body": [
+        "The Koshi Barrage, built in the 1960s, spans the river at the southern end of the reserve, close to the India border. Above it the river backs up into a wide lake, and below it the outflow churns over sandbanks. In winter both sides attract huge numbers of birds, and the road across the barrage gives a raised viewpoint over the water.",
+        "With a scope, birders pick through flocks of brown-headed and black-headed gulls for rarer species, count terns and skimmers, and scan the ducks for less common pochards and teals. Waders work the mud, and ospreys and fish eagles hunt the outflow. The deeper water below the barrage is also one of the better places to see dolphins surfacing.",
+        "The barrage is a busy road and a sensitive border structure, so photography rules can be strict and police may ask you to move on. Our guide knows where you can stand and stop. We usually combine this trip with lunch and an afternoon walk elsewhere in the reserve."
+      ],
+      "good_for": ["photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "Where is the Koshi Barrage?", "a": "At the southern end of Koshi Tappu, on the Nepal–India border, about 45–60 minutes' drive from the main camps. The East–West Highway crosses the river nearby."},
+        {"q": "Can I take photos at the Koshi Barrage?", "a": "Bird photography from approved spots is usually tolerated, but photographing the barrage structure and security posts may be restricted. Follow your guide and any instructions from police."},
+        {"q": "When is the best time for Koshi Barrage birding?", "a": "December to February, when migratory gulls, terns and ducks are at peak numbers. Early mornings are best before heat haze builds over the water."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the best time to visit Koshi Tappu?", "a": "November to March, when migratory birds are present and temperatures are comfortable at 8–25 °C. December to February is peak birding. From April it gets very hot, and from June to September flooding closes much of the reserve and many camps."},
+    {"q": "Koshi Tappu birding tour cost", "a": "Our 3-night Koshi Tappu birding safari from Biratnagar starts from about ₹40,000 (US$470) per person, twin sharing, with a tented camp on full board, naturalist-led walks, a river trip and transfers. Flights from Kathmandu are extra."},
+    {"q": "How do I reach Koshi Tappu from Kathmandu?", "a": "Fly to Biratnagar in about 40 minutes and drive 1.5–2 hours to the camps. By road the journey is about 400 km and 9–10 hours via the BP Highway or East–West Highway."},
+    {"q": "Are there tigers or rhinos at Koshi Tappu?", "a": "No. Koshi Tappu is a wetland reserve, not a tiger or rhino park. Its main mammals are wild water buffalo, nilgai, wild boar, deer, jackals and Gangetic dolphins. For rhinos and tigers, choose Chitwan or Bardia."},
+    {"q": "What is the entry fee for Koshi Tappu?", "a": "Daily entry fees are charged separately for foreigners, SAARC nationals and Nepalis, with SAARC rates much lower than foreigner rates. Fees change from time to time, so check current status before you travel; our package prices include them."},
+    {"q": "Is Koshi Tappu good for families?", "a": "Yes, for families who enjoy nature at a slow pace. River trips, short walks and camp hides suit children, and the flat terrain is easy. There are no big-game jeep safaris, so set expectations around birds and buffalo."},
+    {"q": "What is the wild water buffalo?", "a": "The wild water buffalo, or arna, is the wild ancestor of domestic buffalo, larger and with very long horns. Koshi Tappu holds Nepal's only surviving herd, which has slowly grown under protection."},
+    {"q": "Can I visit Koshi Tappu from India?", "a": "Yes. Cross at Jogbani–Biratnagar and drive about 2 hours, or at Kakarbhitta and drive about 4 hours. Indian citizens need a passport or voter ID. Koshi Tappu pairs well with Dharan, Bhedetar and Ilam."},
+    {"q": "Where to stay in Koshi Tappu?", "a": "Tented camps on the reserve edge, such as Koshi Camp and Aqua Birds Unlimited Camp, are best for birders, with naturalists and hides. Biratnagar and Itahari have more conventional hotels about 1.5–2 hours away."}
+  ]
+}

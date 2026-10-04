@@ -1,0 +1,94 @@
+{
+  "slug": "gokyo-lakes-heli-tour-1-day",
+  "title": "Gokyo Lakes Heli Tour 1 Day",
+  "region": "everest",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "luxury-nepal", "short-breaks", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 0},
+    {"place": "lukla", "nights": 0},
+    {"place": "gokyo-lakes", "nights": 0},
+    {"place": "namche-bazaar", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, domestic terminal)",
+  "end": "Kathmandu",
+  "price_from_inr": 114000,
+  "price_from_usd": 1290,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 4790,
+  "accommodation": "None (day tour); breakfast at Hotel Everest View",
+  "transport": "Shared or private AS350 B3 helicopter from Kathmandu, hotel transfers in Kathmandu",
+  "group": "Shared seat (up to 5 per helicopter) or private charter",
+  "meta_description": "Gokyo Lakes heli tour in 1 day from Kathmandu: landing beside turquoise Dudh Pokhari at 4,790 m, Everest and Cho Oyu views, breakfast at Hotel Everest View.",
+  "summary": "A half-day helicopter tour from Kathmandu to the turquoise Gokyo Lakes, landing beside the third lake at about 4,790 m with Cho Oyu above, flying over the Ngozumpa Glacier for views of Everest, then breakfast at Hotel Everest View. A quieter, lower alternative to the Kala Patthar heli tour.",
+  "intro": [
+    "Most Everest helicopter tours head up the Khumbu to Kala Patthar. This one turns west at Namche into the Dudh Koshi valley, flies past Dole and Machhermo and lands beside Dudh Pokhari, the third and largest Gokyo lake, at about 4,790 m. From the shore you see Gokyo Ri behind the lodges, Cho Oyu (8,188 m) at the head of the valley and the grey expanse of the Ngozumpa Glacier, the longest in Nepal. On the flight in or out, the pilot usually circles over the glacier for a clear view east to Everest, Lhotse and Makalu.",
+    "Because the landing is about 750 m lower than Kala Patthar, the Gokyo tour is a gentler option for travellers worried about the altitude, though 4,790 m is still high and the stop is short. After 15–20 minutes at the lakes, you descend to Hotel Everest View for breakfast with Everest and Ama Dablam in front of you, then return via Lukla to Kathmandu by late morning. The price assumes a shared seat; private charters can combine Gokyo and Kala Patthar in one longer flight for an extra charge."
+  ],
+  "highlights": [
+    "Landing beside turquoise Dudh Pokhari, the third Gokyo lake, at about 4,790 m",
+    "Cho Oyu, the world's sixth-highest peak, at the head of the valley",
+    "Flight over the 36 km Ngozumpa Glacier with views of Everest and Lhotse",
+    "Breakfast on the terrace of Hotel Everest View facing Ama Dablam",
+    "Lower landing than Kala Patthar, a gentler choice for altitude"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu–Gokyo Lakes–Everest View heli tour",
+      "place": "gokyo-lakes",
+      "overnight": "Kathmandu (own arrangement)",
+      "altitude_m": 1400,
+      "max_m": 4790,
+      "walk": "",
+      "drive": "Hotel–airport transfers · ≈ 30 min each way",
+      "flight": "Kathmandu–Lukla · 45–50 min; Lukla–Gokyo · 20–25 min; Gokyo–Hotel Everest View · 10–15 min; Everest View–Lukla–Kathmandu · 60 min",
+      "text": "Pickup at about 5:45 am and check-in at the domestic heliport. The helicopter leaves around 6:30 am for Lukla, where it refuels. From Lukla you fly north over Namche, then up the Dudh Koshi valley past the villages of Dole and Machhermo to Gokyo. The pilot lands near the shore of Dudh Pokhari for 15–20 minutes, with Gokyo Ri and Cho Oyu above. Weather permitting, you then circle over the Ngozumpa Glacier for an Everest view, descend to Hotel Everest View for a 45-minute breakfast and return via Lukla to Kathmandu by about 11 am to noon.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-everest-view"],
+  "includes": [
+    "Shared helicopter seat Kathmandu–Lukla–Gokyo–Hotel Everest View–Lukla–Kathmandu",
+    "Landing at Gokyo Lakes (≈ 15–20 min) when weather allows",
+    "Breakfast at Hotel Everest View",
+    "Sagarmatha National Park and local municipality fees for the landing",
+    "Private car pickup and drop between your Kathmandu hotel and the airport",
+    "Experienced mountain pilot and ground handling",
+    "Domestic airport tax",
+    "Emergency oxygen on board"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Kathmandu hotel nights before or after the tour",
+    "Travel insurance covering helicopter flights",
+    "Private charter supplement (whole helicopter)",
+    "Kala Patthar extension on a private charter",
+    "Drinks and food beyond the set breakfast",
+    "Tips for pilot and ground staff"
+  ],
+  "good_to_know": [
+    "The price is per person for a shared seat with up to five passengers; a private Gokyo charter costs roughly US$ 5,000–6,000 per helicopter.",
+    "All flying depends on visual weather. Departures are early because cloud usually builds over the valleys by late morning. Keep a spare day in Kathmandu in case of delay.",
+    "At 4,790 m the helicopter carries fewer passengers, so a full group may land at Gokyo in two lifts, with the others waiting at Lukla or Hotel Everest View.",
+    "Gokyo is lower than Kala Patthar but still high. Anyone with heart or lung disease, pregnancy or recent surgery should not land; they can wait at Hotel Everest View.",
+    "The lakes are sacred and a protected Ramsar wetland. Do not walk onto the ice in winter, throw coins or leave anything behind."
+  ],
+  "add_ons": [
+    {"name": "Kala Patthar landing on a private charter", "price": "≈ US$ 800–1,200 extra per helicopter"},
+    {"name": "Private helicopter charter (up to 5 passengers)", "price": "≈ US$ 5,000–6,000 per helicopter"}
+  ],
+  "faqs": [
+    {"q": "How much is the Gokyo Lakes helicopter tour?", "a": "Our shared-seat Gokyo Lakes heli tour starts from about US$ 1,290 or ₹1,14,000 per person, including breakfast at Hotel Everest View and airport transfers. A private charter for up to five people costs roughly US$ 5,000–6,000 per helicopter."},
+    {"q": "Gokyo heli tour or Everest Base Camp heli tour: which is better?", "a": "The EBC tour lands at Kala Patthar (about 5,550 m) with the closest view of Everest. The Gokyo tour lands lower at 4,790 m beside turquoise lakes, with Cho Oyu and a more distant Everest view. Gokyo suits those concerned about altitude or wanting something different."},
+    {"q": "Can I see Everest on the Gokyo helicopter tour?", "a": "Yes, from the air as you fly over the Ngozumpa Glacier, and from Hotel Everest View at breakfast. From the landing spot beside the lake, Everest is hidden by ridges; you see Cho Oyu and Gokyo Ri instead."},
+    {"q": "How long is the Gokyo heli tour?", "a": "About 4–5 hours from hotel pickup to drop-off, including a refuel stop at Lukla, 15–20 minutes at Gokyo and 45 minutes at Hotel Everest View. Weather can add waiting time, so plan nothing important for the rest of the morning."},
+    {"q": "Is the Gokyo heli tour suitable for elderly parents?", "a": "Often yes, as the landing is lower than Kala Patthar. Healthy seniors usually manage a short stop at 4,790 m, but should move slowly. Anyone with heart or lung conditions should stay at Hotel Everest View. Consult a doctor before booking."},
+    {"q": "Do the Gokyo Lakes freeze?", "a": "Yes, from about December to March they are partly or fully frozen, which looks striking from the air. From October to November the water is open and turquoise. Either season works for the tour if mornings are clear."},
+    {"q": "Can we combine Gokyo and Kala Patthar in one heli tour?", "a": "Yes, on a private charter. Combining both landings adds flying time and fuel, so it costs more per helicopter. It is not offered on shared seats because passengers would spend too long at high altitude."},
+    {"q": "What happens if Gokyo is cloudy?", "a": "The pilot may wait briefly, change the order of stops or skip the Gokyo landing if it is unsafe. In that case you still visit Hotel Everest View, and we discuss a partial refund or rebooking as per our terms. Safety always comes first."},
+    {"q": "What is the luggage limit on the Gokyo helicopter tour?", "a": "Bring only a small daypack with warm layers, camera and water. Large bags reduce the payload and are not allowed. Leave them at your Kathmandu hotel. Passengers may be weighed for safety and balance."}
+  ]
+}

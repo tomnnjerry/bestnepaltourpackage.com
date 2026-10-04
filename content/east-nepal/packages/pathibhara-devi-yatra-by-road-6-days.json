@@ -1,0 +1,87 @@
+{
+  "slug": "pathibhara-devi-yatra-by-road-6-days",
+  "title": "Pathibhara Devi Yatra by Road 5N/6D",
+  "region": "east-nepal",
+  "type": "pilgrimage",
+  "grade": "Moderate",
+  "nights": 5,
+  "themes": ["pilgrimage", "overland-from-india", "budget-nepal"],
+  "stops": [
+    {"place": "ilam", "nights": 2},
+    {"place": "taplejung", "nights": 3},
+    {"place": "pathibhara", "nights": 0}
+  ],
+  "start": "Bhadrapur airport or Kakarbhitta border",
+  "end": "Bhadrapur airport or Kakarbhitta border",
+  "price_from_inr": 26000,
+  "price_from_usd": 300,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3794,
+  "accommodation": "Standard hotels in Ilam and Phungling (twin rooms, attached bathrooms)",
+  "transport": "Private jeep or SUV with driver throughout",
+  "group": "Private family or group, 2–15",
+  "meta_description": "Pathibhara Devi yatra by road 6 days from Kakarbhitta or Bhadrapur: Ilam, Phungling, temple climb from Kafle Pati, spare weather day. From ₹26,000 per person.",
+  "summary": "A 6-day road pilgrimage to Pathibhara Devi from the Kakarbhitta border or Bhadrapur airport, with nights in Ilam and Phungling, a pre-dawn climb from Kafle Pati to the 3,794 m shrine, and a spare day for weather or a second attempt. Ponies and helicopter shuttles can be added. Best October–November and March–May.",
+  "intro": [
+    "This yatra is built for families and pilgrim groups coming from Siliguri, Sikkim, Bhutan or anywhere in north Bengal and Bihar, as well as Nepalis flying in from Kathmandu to Bhadrapur. We drive through the tea gardens of Kanyam to Ilam for the first night, continue up the Mechi Highway to Phungling, and the following morning set out for the shrine. The jeep takes you to Kafle Pati, and from there it is a 4–5 hour climb on a stone path to the temple at 3,794 m.",
+    "We keep a full spare day in Phungling, because weather at Pathibhara changes fast and a cloudy summit or a heavy rainstorm is reason enough to wait. Seniors can hire ponies for the climb or book a helicopter shuttle from Phungling for a few minutes' flight. On the way back you get a quiet evening and morning in Ilam for the tea estate and local shopping before heading to the border or the airport."
+  ],
+  "highlights": [
+    "Darshan at Pathibhara Devi (3,794 m), Kanchenjunga on clear mornings",
+    "Pre-dawn climb on the stone pilgrim path from Kafle Pati",
+    "Spare day for weather or a second attempt",
+    "Kanyam and Ilam tea gardens on the way",
+    "Pony and helicopter options for seniors"
+  ],
+  "days": [
+    {"day": 1, "title": "Kakarbhitta or Bhadrapur to Ilam", "place": "ilam", "overnight": "Ilam", "altitude_m": 1200, "max_m": 1650, "walk": "", "drive": "≈ 95 km · 3–3.5 h", "flight": "", "text": "We meet you at the Kakarbhitta border, after you cross from Panitanki, or at Bhadrapur airport if you fly in from Kathmandu. The drive climbs the Mechi Highway from the hot plains through Charali into the hills, with a tea stop on the open slopes of Kanyam at about 1,650 m. We reach Ilam Bazaar, at about 1,200 m, by afternoon. Evening walk in the tea estate and a briefing on the yatra.", "meals": "Dinner"},
+    {"day": 2, "title": "Drive Ilam to Phungling", "place": "taplejung", "overnight": "Phungling", "altitude_m": 1820, "max_m": 1820, "walk": "", "drive": "≈ 160 km · 7–8 h", "flight": "", "text": "A long, winding drive north via Phidim through terraced hills and cardamom country. We break for lunch on the way and reach Phungling, the Taplejung bazaar at about 1,820 m, by late afternoon. Buy puja items, red cloth and a bell in the bazaar if you plan to offer them. Early dinner and early night: the jeep leaves before dawn.", "meals": "B, L, D"},
+    {"day": 3, "title": "Pathibhara darshan via Kafle Pati", "place": "pathibhara", "overnight": "Phungling", "altitude_m": 1820, "max_m": 3794, "walk": "≈ 7–8 h return · 10 km", "drive": "Phungling–Kafle Pati · 1.5–2.5 h each way", "flight": "", "text": "We leave Phungling around 2.30 a.m. and drive to Kafle Pati. From there the stone path climbs roughly 1,000 m through fir and rhododendron forest to the shrine at 3,794 m; most pilgrims take 4–5 hours with rests, and ponies can be hired for part of the way. After darshan and, on clear days, views of Kanchenjunga, we walk down in 2–3 hours and drive back to Phungling for a late lunch and rest.", "meals": "B, L, D"},
+    {"day": 4, "title": "Spare day in Phungling", "place": "taplejung", "overnight": "Phungling", "altitude_m": 1820, "max_m": 1820, "walk": "", "drive": "", "flight": "", "text": "This day protects your yatra from weather. If rain, cloud or a road problem stopped yesterday's climb, we go today, or you can take a helicopter shuttle from Phungling in clear morning weather. If all went well, rest your legs, walk through the bazaar or take a gentle drive into the Tamor valley to see the villages below town.", "meals": "B, L, D"},
+    {"day": 5, "title": "Drive back to Ilam", "place": "ilam", "overnight": "Ilam", "altitude_m": 1200, "max_m": 1820, "walk": "", "drive": "≈ 160 km · 7–8 h", "flight": "", "text": "Back down the Mechi Highway to Ilam via Phidim. If we leave early and the road is clear, there may be time for a short visit to Mai Pokhari, the sacred lake 13 km north of Ilam, on the way in. Evening free for tea shopping in the bazaar.", "meals": "B, L, D"},
+    {"day": 6, "title": "Ilam to Kakarbhitta or Bhadrapur", "place": "ilam", "overnight": "", "altitude_m": 100, "max_m": 1650, "walk": "", "drive": "≈ 95 km · 3–3.5 h", "flight": "", "text": "A last morning walk in the Ilam tea gardens, then we drive down via Fikkal and Kanyam to the Kakarbhitta border or Bhadrapur airport. Drop-off by early afternoon, in time to continue to Siliguri, New Jalpaiguri station or Bagdogra, or to catch an afternoon flight to Kathmandu.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep or SUV with experienced hill driver for all 6 days",
+    "5 nights in standard hotels in Ilam and Phungling, twin sharing",
+    "Breakfast daily, lunch on days 2–5 and dinner on days 1–5 (vegetarian on request)",
+    "Hindi- and English-speaking yatra guide from Kakarbhitta",
+    "Early-morning jeep to and from Kafle Pati",
+    "Pick-up and drop-off at Kakarbhitta or Bhadrapur",
+    "First-aid kit and pulse oximeter",
+    "Driver's food, lodging and fuel"
+  ],
+  "excludes": [
+    "Flights to and from Bhadrapur",
+    "Pony hire and porters on the temple path",
+    "Helicopter shuttle fares",
+    "Puja items, donations and animal offerings",
+    "Drinks, snacks and bottled water",
+    "Personal expenses and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Price assumes 4 pilgrims sharing one vehicle and two twin rooms; smaller groups pay more per person.",
+    "Indian citizens need a passport or voter ID to enter Nepal; children need a birth certificate or school ID.",
+    "Indian ₹200 and ₹500 notes have been allowed in Nepal since late 2025 within a ₹25,000 limit; check current status before you travel.",
+    "Pathibhara is at 3,794 m: anyone with heart or lung disease should take medical advice before the climb.",
+    "Hotels in Phungling are simple; expect clean rooms but not resort comfort."
+  ],
+  "add_ons": [
+    {"name": "Helicopter shuttle Phungling–Pathibhara return", "price": "≈ NPR 10,000 per seat (local rate)"},
+    {"name": "Pony for the climb from Kafle Pati", "price": "Set locally, ≈ ₹3,000–5,000 one way"},
+    {"name": "Antu Danda sunrise and Kanyam night on the way back", "price": "≈ ₹4,500 per person"}
+  ],
+  "faqs": [
+    {"q": "How many days are needed for Pathibhara yatra from Siliguri?", "a": "Plan at least 5 nights from the Kakarbhitta border: one night in Ilam, three in Phungling with a spare weather day, and one back in Ilam. Without a spare day it can be done in 4 nights, but you risk missing darshan if the weather turns."},
+    {"q": "What is the Pathibhara yatra package cost?", "a": "This 6-day road yatra starts from about ₹26,000 per person for a group of four sharing a jeep and twin rooms. A couple travelling alone pays more, around ₹38,000 each. Pony hire, helicopter seats and donations are extra."},
+    {"q": "How difficult is the walk to Pathibhara?", "a": "Moderate to hard for most pilgrims: about 5 km and 1,000 m of climb on stone steps, at high altitude. Walk slowly, rest every 20–30 minutes and drink water. Ponies help for part of the way, and helicopters skip the climb."},
+    {"q": "Can senior citizens do this yatra?", "a": "Yes, many seniors visit every year, usually with a pony or helicopter shuttle. The main risk is altitude. Bring your medicines, consult your doctor first and tell us about any health conditions when booking."},
+    {"q": "Is vegetarian food available?", "a": "Yes. Hotels in Ilam and Phungling serve vegetarian dal bhat, roti, sabzi and paneer, and we can request no onion and garlic food in advance. Choices on the temple path are limited to tea, noodles and biscuits."},
+    {"q": "When is the best time for Pathibhara yatra?", "a": "October and November, and March to May. Dashain and Navaratri bring heavy crowds. December to February is cold with possible snow at the top. Avoid June to September, when landslides often block the Mechi Highway."},
+    {"q": "Can we bring our own car from India?", "a": "Indian private cars can enter at Kakarbhitta with a customs pass, a daily fee and a limit of 30 days per calendar year. Hill driving on the Mechi Highway is demanding, so most families prefer our local jeep. Check current status before you travel."},
+    {"q": "Is there a cable car to Pathibhara now?", "a": "A cable car from Kafle Pati has been under construction but has faced court cases and protests, and it was not running when we last checked. If it opens, we will offer it as an option. Check current status before you travel."},
+    {"q": "What should I carry for the temple climb?", "a": "A warm jacket, cap and gloves, a torch for the pre-dawn start, a rain jacket, 2 litres of water, snacks, any medicines and small Nepali rupee notes for puja items, tea and pony fares."}
+  ]
+}

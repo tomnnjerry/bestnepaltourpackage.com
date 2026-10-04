@@ -1,0 +1,132 @@
+{
+  "slug": "khaptad-national-park",
+  "name": "Khaptad National Park",
+  "region": "far-west",
+  "kind": "national park",
+  "wiki": "Khaptad National Park",
+  "image_query": "Khaptad National Park meadow patan",
+  "lat": 29.38,
+  "lng": 81.13,
+  "altitude_m": 3000,
+  "tagline": "A high plateau of meadows, oak forest and Khaptad Baba's ashram",
+  "meta_description": "Khaptad National Park guide: the trek from Silgadhi or Jhingrana, Khaptad Baba ashram, Tribeni, meadows, Ganga Dashahara fair, best months and permits.",
+  "summary": "Khaptad National Park protects 225 km² of rolling plateau at about 3,000–3,300 m in Nepal's far west, where four districts meet. It is known for its open meadows, oak and rhododendron forest, and the ashram of the hermit Khaptad Baba. Reach it by a 2-day walk from the road near Silgadhi. Visit April–June or September–November.",
+  "intro": [
+    "Khaptad is unlike any other park in Nepal. Instead of a deep valley or a snow peak, it is a broad, undulating plateau, roughly 3,000 m high, where grassy meadows called patans open between stands of oak, fir and rhododendron. The park was declared in 1984 and covers 225 km² across Bajhang, Bajura, Achham and Doti districts, with a buffer zone added in 2006. Its elevation runs from about 1,400 m on the lower slopes to some 3,300 m on the plateau.",
+    "The park owes its existence partly to Khaptad Baba, a holy man who meditated here for some fifty years until his death in 1996 and urged that the forest be protected. His simple ashram near the park headquarters still draws pilgrims and visitors. Nearby are Tribeni, a confluence with a Shiva shrine, the small Khaptad Daha lake and the Sahashra Linga shrine. Every year at Ganga Dashahara, around May or June, thousands of pilgrims climb to the plateau for a fair and ritual bathing.",
+    "For trekkers Khaptad is a quiet, gentle walk with big skies. From the plateau on clear days you see the Api and Saipal Himal to the north and the hills of Doti and Achham rolling south. Wildflowers fill the meadows in early summer. There are no teahouses in the usual sense; groups camp or use basic shelters near the headquarters, and supplies are carried in from the road. Expect fog in the monsoon and snow from December to February."
+  ],
+  "facts": [
+    ["Altitude", "≈ 1,400 – 3,300 m (plateau ≈ 3,000 m)"],
+    ["Best months", "Apr – Jun · Sep – Nov"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Dhangadhi (then ≈ 215 km · 7–8 h to Silgadhi)"],
+    ["From Kathmandu", "≈ 1 h 15 min flight to Dhangadhi + 1 day drive + 2 days' walk"],
+    ["Known for", "Meadows, Khaptad Baba ashram, Ganga Dashahara fair, Api and Saipal views"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "The patans", "text": "Khaptad's open meadows are its signature. Locals speak of 22 patans spread across the plateau, used for summer grazing and covered in flowers from May to July. Walking across them at 3,000 m, with forest edges and distant snow peaks, feels more like an alpine upland than Nepal's usual steep terrain."},
+    {"title": "Khaptad Baba ashram", "text": "The hermit Swami Sachchidananda, known as Khaptad Baba, lived and meditated here for about five decades. His wooden hut and ashram near the headquarters are kept as a place of quiet reflection, and visitors are asked to keep silence and avoid alcohol and meat in the area."},
+    {"title": "Tribeni and Sahashra Linga", "text": "Tribeni is a meeting of streams with a small Shiva temple, the focus of ritual bathing during the Ganga Dashahara fair. Sahashra Linga, on a high point of the plateau, is another shrine with wide views. Both are short walks from the park headquarters."},
+    {"title": "Views of Api and Saipal", "text": "On clear mornings, particularly in October and November, the plateau looks north to the snow ranges of Api and Saipal in the far north-west of Nepal. These are rarely seen peaks and few visitors ever view them from this angle."},
+    {"title": "Forest and wildlife", "text": "Oak, fir, rhododendron and hemlock forest holds Himalayan black bear, leopard, barking deer, wild boar and Himalayan monal, the Danphe. Birdlife is rich in spring. Bears are shy but present, so guides keep food secure at camp."},
+    {"title": "Ganga Dashahara fair", "text": "Around May or June each year, pilgrims from across the far west walk up to Khaptad for Ganga Dashahara. The plateau fills with tents, singing and worship at Tribeni. It is a remarkable sight, but camping space and supplies are stretched, so plan carefully."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Dhangadhi, about 1 h 15 min. Doti airport near Dipayal and the airstrips at Bajhang and Sanfebagar have occasional small-plane services that cut driving time, but schedules are irregular; check current status before you travel."},
+    {"mode": "Road", "text": "From Dhangadhi: ≈ 215 km · 7–8 h via Attariya, Budar and Dadeldhura to Dipayal and Silgadhi. From Silgadhi a rough road continues towards Jhingrana, the usual trailhead, in about 1.5–2 h by jeep in dry weather."},
+    {"mode": "On foot", "text": "From Jhingrana: about 5–6 h to the Bichpani area, then 4–5 h across the plateau to the park headquarters. Other routes climb from Bajhang (Chainpur) or from Achham side, each taking 2–3 days."}
+  ],
+  "where_to_stay": "There are no hotels or established teahouses on the Khaptad plateau. Most groups camp with tents, a kitchen crew and porters, or use simple shelters and rooms around the park headquarters and ashram when available. The national park office controls camping sites, and the ashram area asks visitors to keep alcohol and meat away. Before and after the trek, Silgadhi and Dipayal have basic hotels, and Dhangadhi has a choice of comfortable city hotels. During the Ganga Dashahara fair, every available shelter fills, and we strongly recommend full camping support.",
+  "stays": [],
+  "tips": [
+    "Bring a warm sleeping bag rated to −5 °C; nights on the plateau are cold even in May.",
+    "Respect silence and the no-alcohol, no-meat rule around Khaptad Baba's ashram.",
+    "Carry rain gear from June onward; fog and drizzle roll over the plateau most afternoons.",
+    "Hire porters in Silgadhi or Jhingrana; supplies on the plateau are almost non-existent.",
+    "Plan a spare day for road delays between Dhangadhi and the trailhead."
+  ],
+  "themes": ["trekking", "pilgrimage", "photography", "budget-nepal"],
+  "nearby": ["ramaroshan", "dhangadhi", "shuklaphanta-national-park"],
+  "experiences": [
+    {
+      "slug": "khaptad-baba-ashram-visit",
+      "title": "Khaptad Baba ashram and meditation hour",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Morning, Apr–Jun and Sep–Nov",
+      "price_hint": "Included in Khaptad treks",
+      "image_query": "Khaptad Baba ashram Khaptad",
+      "wiki": "Khaptad Baba",
+      "summary": "A quiet visit to the ashram of Khaptad Baba, the hermit who lived on the plateau for about fifty years and helped bring the park into being. Time for silent sitting, a walk among the oaks and a look at his simple hut.",
+      "body": [
+        "Khaptad Baba, whose monastic name was Swami Sachchidananda Saraswati, is said to have been a doctor before renouncing worldly life. He settled on the Khaptad plateau in the mid-20th century and stayed for around five decades, receiving visitors including members of the royal family and writing on spiritual themes. He died in 1996 and is remembered across the far west.",
+        "The ashram is a short walk from the park headquarters, set among oak and rhododendron. You can see his hut, the meditation area and the small shrine. Caretakers ask visitors to keep silence, remove shoes where indicated and not bring alcohol, meat or tobacco near the site.",
+        "We usually allow an hour of quiet sitting or slow walking in the forest around the ashram. It is a good counterpoint to the long walk in and appeals to pilgrims as well as trekkers who simply enjoy the stillness of the plateau."
+      ],
+      "good_for": ["pilgrims", "solo", "seniors", "couples"],
+      "faqs": [
+        {"q": "Who was Khaptad Baba?", "a": "Khaptad Baba, born as and later known as Swami Sachchidananda Saraswati, was a hermit who meditated on the Khaptad plateau for around fifty years until his death in 1996. He encouraged protection of the forest, and the national park was established in 1984 partly on his advice. His ashram remains a place of pilgrimage."},
+        {"q": "Are there rules for visiting Khaptad Baba ashram?", "a": "Yes. Keep silence or speak softly, remove shoes where asked, and do not bring alcohol, meat, eggs or tobacco into the ashram area. Photography of the hut and surroundings is usually fine, but ask the caretaker first. Visitors of all faiths are welcome."},
+        {"q": "Can I stay at Khaptad Baba ashram?", "a": "The ashram is not a guesthouse, though pilgrims sometimes find simple shelter nearby, especially during festivals. Trekking groups normally camp at sites designated by the park office or use basic park-area shelters. We arrange camping so that we do not rely on space that may not be available."}
+      ]
+    },
+    {
+      "slug": "khaptad-tribeni-sahashra-linga-walk",
+      "title": "Tribeni and Sahashra Linga plateau walk",
+      "kind": "hiking",
+      "duration": "5–6 hours",
+      "best_time": "Clear mornings, Oct–Nov and Apr–May",
+      "price_hint": "Included in Khaptad treks",
+      "image_query": "Khaptad Tribeni temple",
+      "wiki": "",
+      "summary": "A full day on the plateau linking the Tribeni confluence and its Shiva shrine, the small Khaptad lake and the Sahashra Linga viewpoint, with chances of Api and Saipal views on clear mornings.",
+      "body": [
+        "From the headquarters area the trail drops gently to Tribeni, where streams meet beside a small Shiva temple. This is the main bathing place during the Ganga Dashahara fair, and stone steps and simple shelters show how many pilgrims come. Out of season it is usually deserted.",
+        "From Tribeni we cross meadows and forest to the small Khaptad Daha lake, then climb to Sahashra Linga, a shrine on one of the higher points of the plateau at roughly 3,200 m. On clear mornings the view sweeps north to the Saipal and Api ranges and south over layer after layer of far-western hills.",
+        "The walking is gentle by Himalayan standards, with modest ups and downs, but the altitude and the distances add up. Carry lunch, water and a warm, windproof layer. Fog can settle quickly, and trails across the meadows are faint, so stay with the guide."
+      ],
+      "good_for": ["photographers", "pilgrims", "groups", "solo"],
+      "faqs": [
+        {"q": "How hard is the walking on Khaptad plateau?", "a": "Moderate. Once you reach the plateau the terrain rolls gently between about 3,000 and 3,300 m, with no steep passes. Days of 5–6 hours are typical. The hard part of a Khaptad trek is the climb up from the road, which gains well over 1,000 m over two days."},
+        {"q": "Can I see the Himalaya from Khaptad?", "a": "Yes, on clear days. The Saipal and Api ranges in the far north-west are visible from higher points such as Sahashra Linga, especially in October and November after the monsoon. In spring haze often hides the peaks by mid-morning, and in the monsoon fog is common."},
+        {"q": "What is Tribeni at Khaptad?", "a": "Tribeni is a confluence of streams on the plateau with a small Shiva temple. It is the centre of the Ganga Dashahara fair, when pilgrims bathe and worship there. At other times it is a quiet spot reached by an easy walk from the park headquarters."}
+      ]
+    },
+    {
+      "slug": "khaptad-meadow-wildflower-day",
+      "title": "Wildflower meadows and birding day",
+      "kind": "nature",
+      "duration": "Half to full day",
+      "best_time": "May–Jul for flowers, Apr–May for birds",
+      "price_hint": "Included in Khaptad treks",
+      "image_query": "Khaptad meadow wildflowers",
+      "wiki": "",
+      "summary": "A slow day across the patans of Khaptad with a naturalist guide, looking for wildflowers, medicinal plants and birds such as the Himalayan monal, in one of the least visited protected areas of Nepal.",
+      "body": [
+        "Khaptad's meadows bloom from late spring into the monsoon. Primulas, potentillas, gentians and orchids appear in the grass, and rhododendrons flower along the forest edges in April and May. Local herders use the patans for summer grazing, and many plants here are collected for traditional medicine, which the park regulates.",
+        "Birding is best early in the day in spring. Himalayan monal, kalij pheasant, woodpeckers, laughingthrushes, minivets and raptors are regularly seen. Mammals are harder: barking deer at the forest edge, langurs in the oaks, and signs of Himalayan black bear in autumn when acorns fall.",
+        "There is no fixed route; the guide picks meadows depending on weather and season. It is the right way to spend a spare day on the plateau and suits photographers who want time rather than distance."
+      ],
+      "good_for": ["photographers", "couples", "seniors"],
+      "faqs": [
+        {"q": "When do wildflowers bloom at Khaptad?", "a": "From May through July, with rhododendrons on the forest edges in April and May. The monsoon months bring the most flowers but also fog, rain and leeches on the lower trails. Late May and June often give the best balance of flowers and walkable weather, but expect afternoon showers."},
+        {"q": "What wildlife lives in Khaptad National Park?", "a": "Himalayan black bear, leopard, barking deer, wild boar, langur and rhesus monkeys, and many birds including the Himalayan monal or Danphe. Sightings of large mammals are not common, as the forest is dense and animals are wary. Birding is rewarding in spring with a good guide."},
+        {"q": "Can I pick plants or herbs at Khaptad?", "a": "No. Collecting plants, including medicinal herbs, is regulated by the national park and not allowed for visitors. Enjoy and photograph the flowers, keep to paths across fragile meadows, and carry out all rubbish. The park is small and its plant life is one of the main reasons it was protected."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Khaptad National Park?", "a": "Fly Kathmandu to Dhangadhi, drive about 215 km (7–8 hours) to Silgadhi in Doti, continue by jeep to the Jhingrana trailhead, then walk two days to the park headquarters on the plateau. Alternative routes climb from Bajhang or Achham. A full trip takes 8–10 days from Kathmandu."},
+    {"q": "What is the altitude of Khaptad?", "a": "The park ranges from about 1,400 m to 3,300 m. The plateau where the headquarters, ashram and meadows lie is around 3,000 m, with high points around 3,200–3,300 m. Altitude sickness is uncommon at this height but possible, so ascend steadily from the road and drink plenty of water."},
+    {"q": "When is the best time to visit Khaptad?", "a": "September to November for clear skies and mountain views, and April to June for rhododendrons and wildflowers. The Ganga Dashahara fair in May or June is busy and colourful. July and August bring fog and rain, and December to February snow can cover the plateau."},
+    {"q": "Do I need a permit for Khaptad?", "a": "You need a Khaptad National Park entry permit, paid at the park office or arranged by your agency, plus a TIMS card for trekking. No restricted area permit is required. Foreign visitors pay more than SAARC nationals and Nepalis; check current status before you travel."},
+    {"q": "Are there teahouses on the Khaptad trek?", "a": "Not in the Everest or Annapurna sense. There are a few basic shelters and simple local eateries on the lower trail and near the headquarters, but most trekking groups camp with their own tents, cook and porters. This makes Khaptad quieter but slightly more expensive to organise than a teahouse trek."},
+    {"q": "How difficult is the Khaptad trek?", "a": "Moderate. Walking days are 5–6 hours, and the main effort is the climb of over 1,000 m from the roadhead to the plateau over two days. Once on top, the terrain is gentle. Anyone fit enough for a long day hike can manage it with good boots and a steady pace."},
+    {"q": "What is Ganga Dashahara at Khaptad?", "a": "Ganga Dashahara is a Hindu festival in May or June when pilgrims from across the far west climb to Khaptad to bathe at Tribeni and worship. The plateau fills with tents, music and stalls for several days. It is a rare cultural experience, but plan full camping support and expect crowds."},
+    {"q": "Can I combine Khaptad with Ramaroshan?", "a": "Yes. Ramaroshan lies to the north-east in Achham, and both are reached from the far-western road network. A combined trip of 12–14 days from Kathmandu links the Khaptad plateau with Ramaroshan's lakes and meadows. The drives are long, so allow buffer days for road conditions."},
+    {"q": "Is Khaptad good for a family trek?", "a": "For active families with teenagers, yes. The walking is moderate, the altitude modest, and the meadows and ashram are interesting. It suits families who enjoy camping and do not need teahouse comforts. Younger children may find the long drive from Dhangadhi and the climb from the road tiring."}
+  ]
+}

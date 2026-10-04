@@ -1,0 +1,6 @@
+{% load tours %}<a class="gcard" href="{{ g.url }}" data-land="{{ g.region|default:g.land }}">
+  {% photo g|first_img g.title "" "(max-width: 760px) 100vw, 33vw" False False %}
+  <span class="gcard__cat">{{ g.category|capfirst }} · {{ g.read_min }} min read</span>
+  <b>{{ g.title }}</b>
+  <small>{{ g.summary|truncatewords:22 }}</small>
+</a>

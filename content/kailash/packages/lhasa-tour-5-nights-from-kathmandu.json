@@ -1,0 +1,86 @@
+{
+  "slug": "lhasa-tour-5-nights-from-kathmandu",
+  "title": "Lhasa Tour from Kathmandu, 5 Nights by Air",
+  "region": "kailash",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["cultural-tours", "buddhist-circuit", "short-breaks", "photography"],
+  "stops": [
+    {"place": "lhasa", "nights": 5}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 115000,
+  "price_from_usd": 1340,
+  "best_months": [1, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 1],
+  "max_altitude_m": 4300,
+  "accommodation": "3-star hotel in Lhasa old town (Yak Hotel or similar); 5-star upgrades available",
+  "transport": "Kathmandu–Lhasa return flights, private vehicle with driver in Tibet",
+  "group": "Private tour for 2+ or small group of up to 12",
+  "meta_description": "Lhasa tour from Kathmandu, 6 days and 5 nights by air: Potala, Jokhang, Sera, Drepung, Norbulingka, Ganden day trip, visa and permit rules, price.",
+  "summary": "Fly from Kathmandu to Lhasa for five nights at 3,656 m: the Jokhang and Barkhor, the Potala Palace, Sera's monk debates, Drepung and Norbulingka, and a day trip to Ganden Monastery high above the Kyi Chu valley. Easy pace with a rest day on arrival. 6 days, from ₹1,15,000.",
+  "intro": [
+    "Five nights is the right length for Lhasa: long enough to adapt to the altitude without rushing and to see the city's great sites at a gentle pace. The flight from Kathmandu takes about 75–90 minutes and crosses the main Himalayan range; sit on the left for views of Everest. Your guide and driver meet you at Lhasa Gonggar, and the first afternoon is for rest. The following days take in the Jokhang, Potala, Sera, Drepung and Norbulingka, with a day out to Ganden on its ridge.",
+    "Foreign travellers need a Chinese group visa, issued in Kathmandu over several working days, and a Tibet Travel Permit, both arranged by us with our Lhasa partner. Indian passport holders have faced different rules, with Tibet permits for Indians issued mainly for the Kailash yatra in recent seasons. Tibet also closes to foreign tourists for some weeks around February and March. Check current status before you travel."
+  ],
+  "highlights": [
+    "Potala Palace with timed entry and about an hour inside",
+    "Jokhang temple and the Barkhor pilgrim circuit",
+    "Monk debate in the courtyard at Sera",
+    "Drepung Monastery and the Norbulingka summer palace",
+    "Day trip to Ganden Monastery on its ridge at about 4,300 m",
+    "Rest day on arrival and an unhurried pace throughout"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly Kathmandu to Lhasa", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3656, "walk": "", "drive": "Gonggar airport to city · ≈ 60 km · 1 h", "flight": "Kathmandu–Lhasa · 75–90 min", "text": "Morning transfer to Tribhuvan airport with your Chinese group visa, collected for you from the embassy in Kathmandu. The flight crosses the Himalaya; on clear days Everest, Makalu and Kanchenjunga appear on the left. Your Tibetan guide meets you at Lhasa Gonggar with khata scarves and drives about an hour into the city. Clocks move forward 2 hours 15 minutes. Rest for the afternoon, drink plenty of water and avoid alcohol.", "meals": "Dinner"},
+    {"day": 2, "title": "Jokhang, Barkhor and Norbulingka", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3700, "walk": "≈ 2–3 h", "drive": "City transfers", "flight": "", "text": "A gentle start at the Jokhang, the most sacred temple in Tibet, where pilgrims queue with butter lamps to see the Jowo Shakyamuni. Climb to the roof for a view across the square to the Potala, then walk the Barkhor circuit clockwise with the crowd. After lunch, stroll in the gardens of the Norbulingka, the Dalai Lamas' summer palace, at a relaxed pace.", "meals": "Breakfast"},
+    {"day": 3, "title": "Potala Palace and Sera debate", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3750, "walk": "≈ 3 h incl. Potala steps", "drive": "City transfers", "flight": "", "text": "Morning visit to the Potala Palace on a timed ticket: a slow climb of 20–30 minutes up the stone ramps, then about an hour inside the White and Red Palaces with their chapels and gilded tomb stupas. In the afternoon, drive to Sera Monastery to watch monks debate in the shaded courtyard, usually from about 3 pm on most days. Evening free.", "meals": "Breakfast"},
+    {"day": 4, "title": "Drepung Monastery and old Lhasa", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3800, "walk": "≈ 2–3 h", "drive": "City transfers", "flight": "", "text": "Drepung, founded in 1416 on the hillside west of town, was once among the largest monasteries in the world. Walk up through its lanes to the assembly hall, the colleges and the kitchens with their enormous pots, and look out over the Kyi Chu valley. Afternoon free in the old town: Ramoche temple, Tibetan teahouses and shops for thangkas and incense.", "meals": "Breakfast"},
+    {"day": 5, "title": "Day trip to Ganden Monastery", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 4300, "walk": "≈ 1–1.5 h kora (optional)", "drive": "≈ 50 km each way · 1.5 h", "flight": "", "text": "A drive east up the Kyi Chu and a long series of switchbacks bring you to Ganden at about 4,300 m, the first Gelug monastery, founded by Tsongkhapa in 1409. Its red and white buildings spread around a natural bowl high above the valley. If you feel well, walk the Ganden kora around the ridge, with wide views; otherwise visit the chapels and enjoy the setting. Return to Lhasa for a farewell dinner.", "meals": "B, D"},
+    {"day": 6, "title": "Fly back to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 3656, "walk": "", "drive": "City to Gonggar · 1 h", "flight": "Lhasa–Kathmandu · 75–90 min", "text": "Transfer to Lhasa Gonggar airport for the flight back to Kathmandu, where the tour ends on arrival. Clocks move back 2 hours 15 minutes. If you are connecting to an international flight, allow at least four hours in Kathmandu, or add a night in Kathmandu, Bhaktapur or Nagarkot to finish the trip.", "meals": "Breakfast"}
+  ],
+  "stays": ["yak-hotel-lhasa"],
+  "includes": [
+    "Kathmandu–Lhasa–Kathmandu economy flights",
+    "Chinese group visa processing in Kathmandu and Tibet Travel Permit",
+    "5 nights at the Yak Hotel or similar 3-star hotel, twin sharing, with breakfast",
+    "Airport transfers in Lhasa and private vehicle with driver for all sightseeing",
+    "Licensed English-speaking Tibetan guide (Hindi on request where available)",
+    "Entrance fees for the Potala, Jokhang, Sera, Drepung, Norbulingka and Ganden",
+    "Welcome and farewell dinners",
+    "Bottled water in the vehicle and a portable oxygen can per person"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu and hotel nights in Kathmandu",
+    "Chinese visa fee (varies by nationality)",
+    "Lunches and dinners except where stated",
+    "Travel insurance with medical and evacuation cover",
+    "Camera fees inside monasteries",
+    "Tips for guide and driver",
+    "Personal expenses and drinks"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing, two or more travellers, a 3-star hotel and standard-season flight fares; upgrades to the St. Regis or Shangri-La add roughly ₹30,000–55,000 per person for five nights.",
+    "Most nationalities get the Chinese group visa from the embassy in Kathmandu, which needs your original passport for several working days before the flight. Arrive in Kathmandu at least three to five working days early. Check current status before you travel.",
+    "Indian passport holders: Tibet permits for Indian nationals have been issued mainly for the Kailash yatra in recent seasons, and Lhasa-only tours have not been possible every year. Check current status before you travel.",
+    "Tibet usually closes to foreign tourists for several weeks around February and March, and permits can be suspended at short notice.",
+    "Lhasa is at 3,656 m; rest on day one, drink 3 litres of water daily and ask your doctor about altitude medication."
+  ],
+  "add_ons": [
+    {"name": "Upgrade to the St. Regis Lhasa Resort (5 nights)", "price": "From ≈ ₹45,000 per person"},
+    {"name": "Yamdrok Lake day trip instead of Ganden", "price": "≈ ₹6,000 per person"},
+    {"name": "Namtso lake overnight extension", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "How much does a Lhasa tour from Kathmandu cost?", "a": "Our 6-day, 5-night Lhasa tour starts from ₹1,15,000 (US$1,340) per person, twin sharing, including return flights from Kathmandu, group visa processing, Tibet permit, 3-star hotel with breakfast, guide, vehicle and entrance fees. The visa fee, most meals and tips are extra. Flight fares drive much of the price."},
+    {"q": "How long is the flight from Kathmandu to Lhasa?", "a": "About 75–90 minutes. Flights have been operated in recent seasons by Chinese carriers including Air China, Sichuan Airlines and Tibet Airlines, with fewer services in winter. Lhasa Gonggar airport is about an hour's drive from the city. Check current schedules before you travel."},
+    {"q": "Do I need a Chinese visa for Lhasa from Nepal?", "a": "Yes. Travellers entering Tibet from Nepal normally need a Chinese group visa from the embassy in Kathmandu, plus the Tibet Travel Permit our partner obtains. An individual Chinese visa from your home country is usually not used for this route. Rules change; check current status before you travel."},
+    {"q": "Can Indians go on a Lhasa tour from Kathmandu?", "a": "It depends on the season. Tibet permits for Indian nationals have mostly been issued for the Kailash yatra in recent years, and Lhasa-only tours have not always been possible. Visa processing for resident Indians has run through New Delhi. Check current status before you travel."},
+    {"q": "Is five nights in Lhasa too long?", "a": "No. It allows a rest day on arrival, a gentle pace at the Potala and monasteries, and a day trip to Ganden or Yamdrok Lake. Shorter trips crowd the big sites into the first 48 hours, when many visitors feel the altitude most."},
+    {"q": "What is the best time for a Lhasa tour?", "a": "April to June and September to October bring clear skies and days of 15–22 °C. July and August are warm with afternoon showers. November to January are cold but sunny and quiet. Tibet often closes to foreigners for weeks around February and March."},
+    {"q": "Will I get altitude sickness in Lhasa?", "a": "Mild symptoms such as headache, breathlessness and poor sleep are common in the first day or two at 3,656 m. Rest on arrival, drink plenty of water, avoid alcohol and ask your doctor about acetazolamide. Severe or worsening symptoms need medical help; your guide will arrange it."},
+    {"q": "Can I combine Lhasa with Everest Base Camp or Kailash?", "a": "Yes. Our Lhasa to Everest north base camp tour continues overland to Rongbuk, and the Kailash yatra with Lhasa fly-in continues west to Manasarovar. Both need extra permit endorsements, so decide when you book."},
+    {"q": "Is this Lhasa tour suitable for families with children?", "a": "Yes, for children who are healthy and used to travel. The pace is gentle, and the Potala steps and Ganden altitude are the only demanding parts. Consult a paediatrician about altitude, and keep children well hydrated and warm."}
+  ]
+}

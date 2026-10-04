@@ -1,0 +1,87 @@
+{
+  "slug": "helambu-trek-5-days",
+  "title": "Helambu Trek 5 Days from Kathmandu",
+  "region": "langtang",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 4,
+  "themes": ["trekking", "short-breaks", "cultural-tours", "budget-nepal"],
+  "stops": [
+    {"place": "chisapani", "nights": 1},
+    {"place": "helambu", "nights": 2}
+  ],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_inr": 35000,
+  "price_from_usd": 420,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 3690,
+  "accommodation": "Teahouse lodges, twin sharing",
+  "transport": "Car to Sundarijal, private jeep from Tarkeghyang to Kathmandu",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Helambu trek 5 days from Kathmandu: Sundarijal, Chisapani, Kutumsang, Tharepati (3,690 m), Melamchi Gaun and Tarkeghyang. Itinerary, cost from US$ 420.",
+  "summary": "Walk straight out of Kathmandu into the hills on this 5-day Helambu trek: Sundarijal to Chisapani through Shivapuri, along the ridge to Kutumsang and Tharepati (3,690 m), then down to the Hyolmo monastery villages of Melamchi Gaun and Tarkeghyang, with a jeep back to the city. No flights, low altitude and good for winter.",
+  "intro": [
+    "Helambu is the closest teahouse trek to Kathmandu: you start walking 45 minutes from the city at Sundarijal and within two days you are on forested ridges with views of the Langtang, Jugal and Dorje Lakpa ranges. The trail climbs through Shivapuri Nagarjun National Park to Chisapani, follows the ridge north through Tamang villages to Kutumsang and Tharepati, then drops into the Hyolmo heartland of Melamchi Gaun and Tarkeghyang, with their whitewashed houses and old gompas.",
+    "This is a good trek for first-timers, families with teenagers, and anyone who wants mountains and culture without a long drive or flight. Days are 5–7 hours, the highest point is Tharepati at 3,690 m and altitude sickness is uncommon. Helambu also works well from December to February, when skies are clear and trails quiet. We finish with a jeep from Tarkeghyang, saving the long walk out."
+  ],
+  "highlights": [
+    "Start walking 45 minutes from Kathmandu at Sundarijal",
+    "Sunrise over the Langtang and Jugal ranges from Chisapani",
+    "Tharepati ridge (3,690 m), the trek's high point",
+    "Hyolmo monasteries at Melamchi Gaun and Tarkeghyang",
+    "Rhododendron forest in spring, apple orchards in autumn",
+    "Good winter trek with clear skies and quiet trails"
+  ],
+  "days": [
+    {"day": 1, "title": "Sundarijal to Chisapani", "place": "chisapani", "overnight": "Chisapani", "altitude_m": 2165, "max_m": 2438, "walk": "≈ 4–5 h · 11 km", "drive": "≈ 15 km · 45 min", "flight": "", "text": "Drive from your Kathmandu hotel to Sundarijal on the north-east edge of the valley. Pay the Shivapuri Nagarjun National Park fee at the gate and climb stone steps beside the water pipeline and small waterfalls to the reservoir. Continue through forest to the Tamang village of Mulkharka, then up to the pass of Borlang Bhanjyang at about 2,438 m. A short descent brings you to Chisapani, where lodges face north towards the Himalaya.", "meals": "L, D"},
+    {"day": 2, "title": "Chisapani to Kutumsang", "place": "", "overnight": "Kutumsang", "altitude_m": 2470, "max_m": 2470, "walk": "≈ 6–7 h", "drive": "", "flight": "", "text": "Wake early for sunrise on the Ganesh Himal, Langtang range and Jugal Himal. Descend through farmland to Pati Bhanjyang (1,770 m), a small bazaar on a saddle, then climb to Chipling (2,170 m) and over a forested ridge to Gul Bhanjyang, a Tamang village with a small gompa and mani walls. A final climb along the ridge brings you to Kutumsang at about 2,470 m. Today has plenty of up and down.", "meals": "B, L, D"},
+    {"day": 3, "title": "Kutumsang to Melamchi Gaun", "place": "helambu", "overnight": "Melamchi Gaun", "altitude_m": 2530, "max_m": 3690, "walk": "≈ 7 h", "drive": "", "flight": "", "text": "The longest day. Climb through fir and rhododendron forest past Mangengoth to Tharepati at about 3,690 m, the highest point of the trek, where trails from Gosaikunda meet. On a clear morning the Langtang range, Dorje Lakpa and the Jugal Himal line the horizon. After lunch, descend steeply about 1,150 m through forest to Melamchi Gaun, a Hyolmo village with a gompa on a shelf above the Melamchi valley. Use poles on the descent.", "meals": "B, L, D"},
+    {"day": 4, "title": "Melamchi Gaun to Tarkeghyang", "place": "helambu", "overnight": "Tarkeghyang", "altitude_m": 2600, "max_m": 2600, "walk": "≈ 5–6 h", "drive": "", "flight": "", "text": "Visit the Melamchi Gaun gompa in the morning, then descend through forest and terraces to cross the Melamchi Khola on a suspension bridge. Climb the far side through fields, apple orchards and small settlements to Tarkeghyang, the largest Hyolmo village, at about 2,600 m. Its tightly packed whitewashed houses and large old gompa make it the cultural heart of Helambu. Explore the lanes in the late afternoon.", "meals": "B, L, D"},
+    {"day": 5, "title": "Jeep from Tarkeghyang to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2600, "walk": "", "drive": "≈ 110 km · 6–7 h", "flight": "", "text": "After breakfast, drive by private jeep down the Melamchi valley via Timbu and Melamchi Bazaar, then along the Araniko Highway corridor back to Kathmandu, arriving in the afternoon. Road conditions below Timbu vary after the 2021 Melamchi flood and with the seasons, so timings can change. We drop you at your hotel. Fit walkers can instead add a day to climb Ama Yangri (3,771 m) above Tarkeghyang before driving out.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Car transfer Kathmandu–Sundarijal",
+    "Private jeep Tarkeghyang–Kathmandu",
+    "Licensed trekking guide speaking English or Hindi",
+    "One porter for every two trekkers",
+    "Teahouse lodges for 4 nights, twin sharing",
+    "Meals during the trek (lunch day 1 to breakfast day 5)",
+    "Shivapuri Nagarjun and Langtang park entry fees and TIMS card",
+    "Guide and porter wages, food, lodging and insurance",
+    "First-aid kit carried by the guide"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "International flights and Nepal visa",
+    "Travel insurance",
+    "Drinks, snacks, hot showers and charging",
+    "Tips for guide and porters",
+    "Extra costs from road closures or weather",
+    "Personal trekking gear and sleeping bag"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing, a private jeep for the group on the last day and standard teahouses.",
+    "The upper part of the route near Tharepati lies within Langtang National Park; foreign trekkers need a licensed guide. Check current status before you travel.",
+    "The jeep road below Timbu can be affected by monsoon damage; if it is closed we walk out to a different road-head or adjust the route.",
+    "December–February nights at Tharepati drop to around −5 to −10 °C; bring a warm sleeping bag.",
+    "Add a sixth day for Ama Yangri (3,771 m) sunrise from Tarkeghyang."
+  ],
+  "add_ons": [
+    {"name": "Ama Yangri sunrise day from Tarkeghyang", "price": "≈ US$ 50 per person"},
+    {"name": "Hyolmo homestay night instead of lodge", "price": "≈ ₹1,000 extra per person"},
+    {"name": "Night at Park Village Resort, Budhanilkantha", "price": "≈ US$ 110 per room"}
+  ],
+  "faqs": [
+    {"q": "Is the Helambu trek easy?", "a": "It is easy to moderate. Days are 4–7 hours with lots of stone steps up and down, and the highest point is Tharepati at 3,690 m, where altitude sickness is uncommon. Anyone in reasonable health who walks regularly can manage it. Day three is the hardest, with a long climb to Tharepati and a steep descent."},
+    {"q": "How much does the Helambu trek cost?", "a": "Our 5-day Helambu trek starts at about ₹35,000 or US$ 420 per person on twin sharing, including transfers, a jeep back from Tarkeghyang, a licensed guide, porters, lodges, meals on the trek and park fees. Kathmandu hotels, insurance, tips and personal extras are not included."},
+    {"q": "Can I do the Helambu trek in winter?", "a": "Yes, Helambu is one of the best winter treks in Nepal. From December to February skies are usually clear and trails quiet. Nights at Tharepati drop to around −5 to −10 °C, and there can be snow near the top, so bring warm layers and a good sleeping bag. Lower villages stay mild."},
+    {"q": "What will I see on the Helambu trek?", "a": "On clear mornings from Chisapani and Tharepati you see the Langtang range, Ganesh Himal, Dorje Lakpa and the Jugal Himal. Along the way are Tamang villages, the Hyolmo monastery villages of Melamchi Gaun and Tarkeghyang, rhododendron forests that flower in spring, and apple orchards in autumn."},
+    {"q": "Can I combine Helambu with Gosaikunda?", "a": "Yes. From Tharepati, a trail climbs north via Ghopte and over Lauribina La (4,610 m) to Gosaikunda. Our 14-day Langtang–Gosaikunda–Helambu trek links all three areas. You can also do a shorter Helambu–Gosaikunda trek of about 8–9 days, finishing at Dhunche."},
+    {"q": "Is Helambu suitable for families?", "a": "Yes, for families with children aged about 10 and above who are used to walking. The altitude is modest and lodges are frequent. Day three is long, so we can split it with a night at Tharepati or Mangengoth. Younger children may prefer the shorter Chisapani–Nagarkot trek."},
+    {"q": "Do I need a permit for the Helambu trek?", "a": "Yes. You pay the Shivapuri Nagarjun National Park fee at Sundarijal, and the section around Tharepati lies in Langtang National Park, so its permit and a TIMS card are needed. Foreign trekkers also need a licensed guide. All are included in our price; check current status before you travel."},
+    {"q": "What is the best time for the Helambu trek?", "a": "October to April is best. October and November bring clear skies, December to February is cold but very clear, and March and April add rhododendron flowers. The monsoon from June to September brings rain, leeches and road damage, so we avoid it."},
+    {"q": "How do I get back from Helambu?", "a": "On this itinerary, a private jeep drives from Tarkeghyang via Timbu and Melamchi Bazaar to Kathmandu in about 6–7 hours. If roads are damaged, we may walk to another road-head such as Sermathang or Timbu. Public buses also run from Melamchi Bazaar, but they are slow and crowded."}
+  ]
+}

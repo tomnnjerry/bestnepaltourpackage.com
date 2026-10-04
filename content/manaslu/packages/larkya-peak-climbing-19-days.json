@@ -1,0 +1,107 @@
+{
+  "slug": "larkya-peak-climbing-19-days",
+  "title": "Larkya Peak Climbing 19 Days",
+  "region": "manaslu",
+  "type": "climb",
+  "grade": "Strenuous",
+  "nights": 18,
+  "themes": ["peak-climbing", "trekking", "adventure-sports"],
+  "stops": [
+    {"place": "kathmandu", "nights": 3},
+    {"place": "machha-khola", "nights": 1},
+    {"place": "jagat", "nights": 1},
+    {"place": "namrung", "nights": 1},
+    {"place": "lho", "nights": 1},
+    {"place": "samagaun", "nights": 2},
+    {"place": "samdo", "nights": 1},
+    {"place": "larkya-la", "nights": 6},
+    {"place": "bimthang", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 243000,
+  "price_from_usd": 2790,
+  "best_months": [0, 0, 0, 2, 2, 0, 0, 0, 0, 2, 2, 0],
+  "max_altitude_m": 6249,
+  "accommodation": "3-star hotel in Kathmandu (3 nights), teahouses on the trek, tents at base camp and high camp",
+  "transport": "Private jeep Kathmandu–Machha Khola and Dharapani–Kathmandu, airport transfers",
+  "group": "Private or small group, 2–8, with a licensed guide and climbing guide",
+  "meta_description": "Larkya Peak climbing 19 days: Manaslu Circuit approach, base camp and high camp near Larkya La, summit (≈ 6,249 m), permits, climbing guide. From US$2,790.",
+  "summary": "A 19-day expedition-style trip that combines the Manaslu Circuit with an ascent of Larkya Peak, a glaciated summit above Larkya La usually quoted at 6,249 m. You acclimatise on the trek, set up base camp and high camp near the pass, attempt the summit with fixed ropes and a climbing guide, then cross Larkya La to Bimthang.",
+  "intro": [
+    "Larkya Peak rises north of Larkya La on the ridge between the Budhi Gandaki and the Annapurna side. It is listed by the Nepal Mountaineering Association as a climbing peak, and permits have been issued for it since the early 2000s. Height figures vary: most operators quote 6,249 m, some 6,010 m for a lower summit. It sees very few ascents compared with Island Peak or Mera Peak, so you are likely to have the mountain to yourselves.",
+    "The climb is a step up from trekking. Above high camp you cross a glacier, climb snow and ice slopes of up to about 40 to 45 degrees on fixed lines and follow a narrow summit ridge. Previous experience with crampons, ice axe and jumar is strongly recommended; we run a training session at base camp. The long approach via the Manaslu Circuit gives excellent acclimatisation. Prices assume a minimum of two climbers sharing tents and rooms."
+  ],
+  "highlights": [
+    "Summit of Larkya Peak, usually quoted at 6,249 m",
+    "Full Manaslu Circuit approach with acclimatisation in Samagaun",
+    "Remote base camp and high camp near Larkya La",
+    "Views of Manaslu, Himlung, Cheo Himal and Annapurna II",
+    "Fixed-rope climbing with an experienced climbing guide",
+    "Crossing of Larkya La at 5,106 m after the climb"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Arrive at Tribhuvan International Airport and transfer to your hotel. Rest after the flight. In the evening we meet for a welcome dinner and a short introduction to the trip, the team and the plan for tomorrow's gear check and permit formalities.", "meals": "Dinner"},
+    {"day": 2, "title": "Gear check and permits", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "", "flight": "", "text": "Your climbing guide checks boots, crampons, harness, helmet and down clothing, and we rent anything missing in Thamel. Meanwhile we finalise the restricted area permit, conservation permits and the Nepal Mountaineering Association climbing permit. Afternoon free for a visit to Boudhanath or Swayambhunath.", "meals": "Breakfast"},
+    {"day": 3, "title": "Drive to Machha Khola", "place": "machha-khola", "overnight": "Machha Khola", "altitude_m": 930, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 8–9 h", "flight": "", "text": "Leave at 6:30 am by private jeep with the climbing gear loaded. Paved roads take you to Dhading Besi; after Arughat the track turns rough along the Budhi Gandaki through Soti Khola to Machha Khola at 930 m. Overnight in a teahouse by the river.", "meals": "B, L, D"},
+    {"day": 4, "title": "Trek to Jagat", "place": "jagat", "overnight": "Jagat", "altitude_m": 1340, "max_m": 1340, "walk": "≈ 6–7 h · 22 km", "drive": "", "flight": "", "text": "Walk the Budhi Gandaki gorge via Khorlabesi, Tatopani hot spring and Dobhan to Jagat at 1,340 m. The climbing gear travels with porters and mules. Permits are checked at the conservation area office in Jagat.", "meals": "B, L, D"},
+    {"day": 5, "title": "Jagat to Deng", "place": "", "overnight": "Deng", "altitude_m": 1860, "max_m": 1860, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "Climb via Sirdibas and Philim, past the Tsum fork at Ekle Bhatti, then through the forested gorge to Deng at about 1,860 m. Use these lower days to build steady walking rhythm and keep hydration high.", "meals": "B, L, D"},
+    {"day": 6, "title": "Deng to Namrung", "place": "namrung", "overnight": "Namrung", "altitude_m": 2630, "max_m": 2630, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Walk through Rana, Bihi Phedi and Ghap into Nubri, then climb through pine and rhododendron forest to Namrung at 2,630 m. Siringi Himal and Himal Chuli come into view. Permit check at Namrung.", "meals": "B, L, D"},
+    {"day": 7, "title": "Namrung to Lho", "place": "lho", "overnight": "Lho", "altitude_m": 3180, "max_m": 3180, "walk": "≈ 4–5 h · 11 km", "drive": "", "flight": "", "text": "Walk through Lihi and Sho, villages of mani walls and barley, to Lho at about 3,180 m. Visit Ribung Gompa and watch evening light on Manaslu. Your climbing guide will talk through the climb and check fitness and acclimatisation.", "meals": "B, L, D"},
+    {"day": 8, "title": "Lho to Samagaun", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 3530, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "Sunrise on Manaslu, then walk via Shyala to Samagaun at 3,530 m. Afternoon walk to Birendra Tal. Samagaun is the last good place to buy snacks and charge batteries before the climb.", "meals": "B, L, D"},
+    {"day": 9, "title": "Acclimatise towards Manaslu Base Camp", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 4800, "walk": "≈ 8–9 h return", "drive": "", "flight": "", "text": "A strong acclimatisation day for climbers: hike up the moraine to Manaslu Base Camp at about 4,800 m, spend time high, and descend to sleep in Samagaun. This climb-high, sleep-low day is key preparation for nights at base camp and high camp. Slower climbers can choose Pungyen Gompa instead.", "meals": "B, L, D"},
+    {"day": 10, "title": "Samagaun to Samdo", "place": "samdo", "overnight": "Samdo", "altitude_m": 3875, "max_m": 3875, "walk": "≈ 3 h · 8 km", "drive": "", "flight": "", "text": "A short walk through yak pastures to Samdo at about 3,875 m. Rest in the afternoon after yesterday's big day, and go through crampon and harness fitting with your climbing guide.", "meals": "B, L, D"},
+    {"day": 11, "title": "Samdo to Dharamsala", "place": "larkya-la", "overnight": "Dharamsala (Larkya Phedi)", "altitude_m": 4460, "max_m": 4460, "walk": "≈ 3.5–4 h · 7 km", "drive": "", "flight": "", "text": "Climb past Larkya Bazaar to Dharamsala at about 4,460 m. The camp crew set up here or continue towards base camp with the tents and food. Rest, hydrate and sleep early.", "meals": "B, L, D"},
+    {"day": 12, "title": "Move up to Larkya Peak base camp", "place": "larkya-la", "overnight": "Larkya Peak base camp (tents)", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 3–4 h", "drive": "", "flight": "", "text": "Leave the main trail and climb over the Larkya Glacier moraine to base camp at roughly 4,900 m, set on gravel flats below the peak. The crew pitches sleeping tents, a kitchen and dining tent. Afternoon rest and a short walk higher for acclimatisation. From here you see the route onto the glacier.", "meals": "B, L, D"},
+    {"day": 13, "title": "Training day at base camp", "place": "larkya-la", "overnight": "Larkya Peak base camp (tents)", "altitude_m": 4900, "max_m": 5100, "walk": "≈ 3–4 h training", "drive": "", "flight": "", "text": "Your climbing guide runs a practical session on snow and ice near camp: walking in crampons, self-arrest with an ice axe, ascending fixed lines with a jumar and abseiling or arm-wrapping on descent. Even experienced climbers benefit from a refresher at this altitude. Rest and pack for high camp.", "meals": "B, L, D"},
+    {"day": 14, "title": "Climb to high camp", "place": "larkya-la", "overnight": "Larkya Peak high camp (tents)", "altitude_m": 5500, "max_m": 5500, "walk": "≈ 4–5 h", "drive": "", "flight": "", "text": "Climb on moraine and snow to high camp at roughly 5,500 m, carrying a lighter pack while porters and the crew bring tents and food. Views widen over the Larkya Glacier to Manaslu and the Tibet border peaks. Early dinner and bed by 7 pm for a midnight wake-up.", "meals": "B, L, D"},
+    {"day": 15, "title": "Summit day, back to base camp", "place": "larkya-la", "overnight": "Larkya Peak base camp (tents)", "altitude_m": 4900, "max_m": 6249, "walk": "≈ 10–12 h", "drive": "", "flight": "", "text": "Leave high camp around 1 to 2 am, cross the glacier roped together and climb snow and ice slopes on fixed lines to the summit ridge. Most teams reach the top, usually quoted at 6,249 m, by mid morning. The view takes in Manaslu, Himlung, Cheo Himal, Annapurna II and the Tibetan plateau. Descend carefully on the fixed lines to high camp, pack up and continue to base camp.", "meals": "B, L, D"},
+    {"day": 16, "title": "Reserve day or cross to Bimthang", "place": "larkya-la", "overnight": "Larkya Peak base camp (tents)", "altitude_m": 4900, "max_m": 4900, "walk": "", "drive": "", "flight": "", "text": "A reserve day for bad weather or a second summit attempt. If the summit went to plan, the team rests, sorts and packs gear, and some groups use the day to cross Larkya La early and spend an extra night in Bimthang. Your guide decides based on conditions and the group's energy.", "meals": "B, L, D"},
+    {"day": 17, "title": "Cross Larkya La to Bimthang", "place": "bimthang", "overnight": "Bimthang", "altitude_m": 3590, "max_m": 5106, "walk": "≈ 6–8 h", "drive": "", "flight": "", "text": "Climb from base camp to the prayer flags on Larkya La at 5,106 m, a much shorter ascent than from Dharamsala, then descend the steep western side on scree and snow to Bimthang at about 3,590 m. Back in a lodge, with a hot shower if the sun has been out.", "meals": "B, L, D"},
+    {"day": 18, "title": "Bimthang to Dharapani, drive out", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 3590, "walk": "≈ 5–6 h", "drive": "≈ 9–10 h from Tilije", "flight": "", "text": "Walk down through rhododendron and pine forest to Tilije, where a private jeep meets you in the dry season for the long drive via Dharapani, Besisahar and Mugling to Kathmandu, arriving late evening. If the jeep track is closed, we overnight in Dharapani and drive the next morning, using day 19.", "meals": "B, L"},
+    {"day": 19, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "Free time until your transfer to the airport. Return any rental gear in Thamel. We drop you at the airport about three hours before your international flight. Summit certificates from the climbing team can be collected the evening before.", "meals": "Breakfast"}
+  ],
+  "stays": ["samagaun-hotel-norling", "samagaun-manaslu-guest-house"],
+  "includes": [
+    "Nepal Mountaineering Association climbing permit for Larkya Peak",
+    "Manaslu restricted area permit, MCAP, ACAP and Tsum Nubri municipality fee",
+    "Licensed trekking guide and experienced climbing guide",
+    "Porters for trek and camp, with camp crew and cook",
+    "Tents, kitchen and dining tent, fixed ropes, ice screws and group climbing gear",
+    "3 nights in a 3-star Kathmandu hotel with breakfast",
+    "Teahouse lodges on the trek and full board at camps",
+    "Private jeeps to Machha Khola and from Tilije or Dharapani",
+    "Garbage deposit handling and staff insurance"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel and rescue insurance covering climbing to 6,500 m",
+    "Personal climbing gear: boots, crampons, harness, helmet, ice axe (rental available)",
+    "Summit bonus for climbing guide (customary)",
+    "Hot showers, charging and drinks in lodges",
+    "Extra days beyond the reserve day",
+    "Tips for trekking guide, porters and crew"
+  ],
+  "good_to_know": [
+    "The price assumes at least two climbers sharing rooms and tents, autumn permit fees and group climbing gear; solo climbers pay a supplement of about US$600.",
+    "The NMA climbing permit for Larkya Peak costs, as we understand it, about US$250 per person in spring and US$125 in autumn, plus a refundable garbage deposit; check current status before you travel.",
+    "Previous experience with crampons, ice axe and fixed ropes is strongly recommended; complete beginners should consider a training peak first.",
+    "Summit success depends on weather, snow conditions and acclimatisation; the climbing guide may turn the team back for safety.",
+    "Larkya Peak heights are quoted as 6,249 m by most operators and 6,010 m by some; base camp and high camp locations vary with snow."
+  ],
+  "add_ons": [
+    {"name": "Extra reserve day at base camp", "price": "≈ US$ 150 per person"},
+    {"name": "Personal climbing gear rental package", "price": "≈ US$ 120 per person"}
+  ],
+  "faqs": [
+    {"q": "How high is Larkya Peak?", "a": "Most operators quote Larkya Peak at 6,249 m, and some list 6,010 m for a lower point. It stands north of Larkya La on the Manaslu Circuit. Whatever the exact figure, the summit is well above 6,000 m and needs glacier travel and fixed-rope climbing."},
+    {"q": "How difficult is Larkya Peak?", "a": "It is a strenuous climb with technical sections: glacier crossing, snow and ice slopes of about 40 to 45 degrees on fixed lines and an exposed summit ridge. It is harder than Island Peak in remoteness and logistics. Previous crampon and ice axe experience is strongly advised."},
+    {"q": "What permits do I need for Larkya Peak?", "a": "You need the Nepal Mountaineering Association climbing permit, the Manaslu restricted area permit, the Manaslu and Annapurna conservation area permits and the local municipality fee, plus a refundable garbage deposit. We arrange all of them. Check current fees and rules before you travel."},
+    {"q": "When is the best time to climb Larkya Peak?", "a": "April to May and October to November. Autumn usually has the most stable weather and clearest views; spring can be warmer with more snow on the route. Winter climbs are not advisable because of cold and snow on Larkya La, and the monsoon brings poor visibility."},
+    {"q": "Can beginners climb Larkya Peak?", "a": "Beginners with excellent fitness and high-altitude trekking experience can attempt it after the base camp training day, but we recommend a first peak such as Island Peak or Mera Peak for complete novices. Larkya Peak is remote, and rescue takes longer than in the Everest region."},
+    {"q": "How much does the Larkya Peak climb cost?", "a": "Our 19-day trip starts from US$2,790 or about ₹2,43,000 per person for two or more climbers sharing. It covers permits, guides, climbing guide, camp crew, tents and group gear, lodges and meals, and private jeeps. Personal gear rental, insurance and tips are extra."},
+    {"q": "What gear do I need for Larkya Peak?", "a": "Double or insulated mountaineering boots compatible with crampons, crampons, ice axe, harness, helmet, jumar, descender, karabiners, a down suit or heavy down jacket, warm gloves and mitts, and a −20 °C sleeping bag. Most items can be rented in Kathmandu."},
+    {"q": "Is there a summit success rate for Larkya Peak?", "a": "There are no reliable published statistics because the peak sees few ascents. Success depends mostly on weather, snow conditions and how well the team is acclimatised. Our itinerary includes acclimatisation in Samagaun, a training day and a reserve day to improve the odds."},
+    {"q": "Do I need insurance for Larkya Peak?", "a": "Yes. Your policy must cover climbing to at least 6,500 m and helicopter rescue, as standard trekking insurance often stops at 6,000 m or excludes roped climbing. Bring a copy of the policy and the emergency phone number; we need it before issuing permits."}
+  ]
+}

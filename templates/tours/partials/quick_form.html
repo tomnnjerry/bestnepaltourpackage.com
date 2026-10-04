@@ -1,0 +1,16 @@
+{% load tours %}<form class="qform {{ cls }}" action="{% url 'enquire' %}" method="post" data-cta-form="{{ where|default:'quick' }}">
+  {% csrf_token %}
+  <input type="hidden" name="kind" value="{{ kind|default:'quick' }}"><input type="hidden" name="source_page" value="{{ request.path }}">
+  <input type="hidden" name="package" value="{{ package|default:'' }}">{% if trip_type %}<input type="hidden" name="trip_type" value="{{ trip_type }}">{% endif %}{% if region %}<input type="hidden" name="regions" value="{{ region }}">{% endif %}
+  <input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+  {% if heading %}<p class="qform__h">{{ heading }}</p>{% endif %}
+  <label><span>Name</span><input name="name" required autocomplete="name"></label>
+  <label><span>Phone or WhatsApp</span><input name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="+91 or +977"></label>
+  <label><span>Email</span><input name="email" type="email" autocomplete="email"></label>
+  <div class="qform__row">
+    <label><span>Month</span><select name="month"><option value="">Flexible</option><option>January</option><option>February</option><option>March</option><option>April</option><option>May</option><option>June</option><option>July</option><option>August</option><option>September</option><option>October</option><option>November</option><option>December</option></select></label>
+    <label><span>Adults</span><input name="adults" type="number" min="1" max="60" value="2" inputmode="numeric"></label>
+  </div>
+  <button class="btn btn--foil btn--block" type="submit">{{ button|default:"Send me a free quote" }}{% icon "arrow" %}</button>
+  <p class="qform__note">Phone or email is enough. No payment, no spam.</p>
+</form>

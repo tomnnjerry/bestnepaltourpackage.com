@@ -1,0 +1,1 @@
+<ol class="months" aria-label="Best months">{% for m in bar %}<li data-v="{{ m.v }}" title="{{ m.full }}: {% if m.v == 2 %}best{% elif m.v == 1 %}good{% else %}avoid{% endif %}"><span aria-hidden="true">{{ m.m|first }}</span><b class="sr">{{ m.full }} {% if m.v == 2 %}best{% elif m.v == 1 %}good{% else %}avoid{% endif %}</b></li>{% endfor %}</ol>

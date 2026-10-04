@@ -1,0 +1,79 @@
+{
+  "slug": "halesi-mahadev-heli-yatra-1-day",
+  "title": "Halesi Mahadev Heli Yatra from Kathmandu 1 Day",
+  "region": "east-nepal",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "pilgrimage", "buddhist-circuit", "short-breaks"],
+  "stops": [
+    {"place": "kathmandu", "nights": 0},
+    {"place": "halesi-mahadev", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, domestic terminal)",
+  "end": "Kathmandu",
+  "price_from_inr": 62000,
+  "price_from_usd": 720,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1450,
+  "accommodation": "None (same-day return)",
+  "transport": "Hotel transfers in Kathmandu, chartered helicopter Kathmandu–Halesi–Kathmandu",
+  "group": "Up to 5 per helicopter, subject to weight",
+  "meta_description": "Halesi Mahadev heli yatra 1 day from Kathmandu: 45-minute flight, darshan at the Maratika caves, monasteries, back by lunch. From ₹62,000 per seat.",
+  "summary": "A same-day helicopter pilgrimage from Kathmandu to Halesi Mahadev, the cave temple in Khotang. The flight takes about 45 minutes each way over the Mahabharat hills, leaving roughly 1.5–2 hours on the ground for darshan, the side caves and the Maratika monasteries. Price is per seat with five sharing; private charters are available.",
+  "intro": [
+    "By road, Halesi takes 9–10 hours each way from Kathmandu. By helicopter it is about 45 minutes, which makes a morning darshan and an afternoon back in the city possible. We collect you from your hotel early, fly from Kathmandu's domestic terminal east over the hills of Kavre, Sindhuli and Okhaldhunga, and land near Mahadevsthan, the village around the caves, where a local guide meets you.",
+    "On the ground you have about 1.5–2 hours: enough to enter the main cave for puja at the natural Shiva lingam, visit the smaller caves and walk to the Buddhist monasteries linked to Guru Rinpoche. Weather decides everything on helicopter days. Flights go in the morning, when skies are clearest; afternoon cloud often closes the hills. Halesi is low, around 1,400 m, so altitude is not a concern, which makes this yatra suitable for seniors and families with children."
+  ],
+  "highlights": [
+    "Halesi in a morning instead of 20 hours of driving",
+    "Puja at the natural Shiva lingam in the main cave",
+    "Maratika monasteries linked to Guru Rinpoche",
+    "Aerial views over the Mahabharat hills and Sun Koshi valley",
+    "Low altitude, suitable for seniors and children"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Halesi, darshan, fly back", "place": "halesi-mahadev", "overnight": "", "altitude_m": 1400, "max_m": 1450, "walk": "≈ 1.5–2 h on site", "drive": "Hotel–airport · 30 min each way", "flight": "Kathmandu–Halesi · ≈ 45 min each way", "text": "Pick-up from your hotel around 6.30 a.m. for the domestic terminal and a safety briefing. The helicopter lifts off over the Kathmandu Valley and heads east across the Mahabharat hills, crossing the Sun Koshi valley, with the Himalaya to the north on clear mornings. After landing near Mahadevsthan, a local guide takes you into the main cave for puja at the lingam of Halesi Mahadev, then to the side caves and the Buddhist monasteries. We fly back around midday and drop you at your hotel by early afternoon.", "meals": ""}
+  ],
+  "stays": [],
+  "includes": [
+    "Shared helicopter seat Kathmandu–Halesi–Kathmandu (5 passengers)",
+    "Up to 2 hours on the ground at Halesi",
+    "Local guide at Halesi for the caves and monasteries",
+    "Hotel–airport transfers in Kathmandu",
+    "Landing fees and domestic airport tax",
+    "Bottled water on board",
+    "Our coordinator at the domestic terminal"
+  ],
+  "excludes": [
+    "Hotel nights in Kathmandu",
+    "Meals (breakfast boxes available on request)",
+    "Puja fees and donations",
+    "Extra waiting time on the ground beyond 2 hours",
+    "Fuel surcharges if fuel prices rise sharply",
+    "Travel insurance",
+    "Tips"
+  ],
+  "good_to_know": [
+    "Per-seat price assumes five passengers sharing one helicopter. A private charter for up to five starts from about US$3,400, subject to fuel prices and operator.",
+    "Flights depend on morning weather; if the helicopter cannot fly, we reschedule to the next clear day or refund the fare as per the operator's policy.",
+    "Total passenger weight is limited, usually around 400–450 kg for five people; you may be weighed with your bag.",
+    "Halesi is at about 1,400 m, so altitude sickness is not a concern, but pregnant passengers should take medical advice before flying.",
+    "Landing arrangements near Halesi can change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Overnight in Halesi with return by road", "price": "≈ ₹14,000 per person"},
+    {"name": "Pashupatinath evening aarti visit in Kathmandu", "price": "≈ ₹2,500 per person"}
+  ],
+  "faqs": [
+    {"q": "How much is the Halesi Mahadev helicopter tour?", "a": "From about ₹62,000 (US$720) per seat when five passengers share one helicopter. A private charter for up to five costs from about US$3,400 per helicopter. Prices move with fuel costs and operator rates, so we confirm on booking."},
+    {"q": "How long is the helicopter flight to Halesi?", "a": "About 45 minutes each way from Kathmandu, depending on wind and route. With up to 2 hours on the ground, the whole trip takes around 4–5 hours from hotel pick-up to drop-off."},
+    {"q": "Is the Halesi heli yatra suitable for elderly people?", "a": "Yes. Halesi is at about 1,400 m, roughly the same height as Kathmandu, so there is no altitude risk. The caves involve steps and some low passages, which seniors can skip if needed."},
+    {"q": "What if the weather is bad?", "a": "We only fly when the pilot judges conditions safe. If the morning is cloudy, we wait, try later in the day if possible, or move to the next clear morning. If the trip cannot run, the fare is refunded or rescheduled as per the operator's policy."},
+    {"q": "Can we fly to Halesi on Shivaratri?", "a": "Yes, but demand is very high and the site is packed with pilgrims. Book weeks ahead and expect queues at the cave. Many families prefer flying a day before or after the main night."},
+    {"q": "How many people fit in the helicopter?", "a": "Usually five passengers, subject to total weight. Larger groups take two helicopters or two rotations. Children over two years normally need their own seat."},
+    {"q": "Can I combine Halesi with Pathibhara by helicopter?", "a": "In principle a charter can link Kathmandu, Halesi and the eastern hills, but distances are long and weather windows short. It is usually more practical to do Halesi from Kathmandu and Pathibhara from Kanyam or Phungling."},
+    {"q": "Do we need a permit for Halesi?", "a": "No special permit is needed. Indian citizens need a passport or voter ID for domestic flights in Nepal; other nationalities need their passport and visa. Carry the same ID you used to enter Nepal."},
+    {"q": "Is there food at Halesi?", "a": "Small tea shops and pilgrim restaurants near the caves serve tea, snacks and vegetarian meals. With limited time on the ground, many guests eat breakfast early in Kathmandu and lunch after returning."}
+  ]
+}

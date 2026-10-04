@@ -1,0 +1,98 @@
+{
+  "slug": "langtang-gosaikunda-trek-11-days",
+  "title": "Langtang Gosaikunda Trek 11 Days",
+  "region": "langtang",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 10,
+  "themes": ["trekking", "pilgrimage", "photography"],
+  "stops": [
+    {"place": "syabrubesi", "nights": 1},
+    {"place": "langtang-village", "nights": 1},
+    {"place": "kyanjin-gompa", "nights": 2},
+    {"place": "chandanbari", "nights": 1},
+    {"place": "gosaikunda", "nights": 1},
+    {"place": "dhunche", "nights": 1}
+  ],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_inr": 75000,
+  "price_from_usd": 890,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 4773,
+  "accommodation": "Teahouse lodges on the trail, twin sharing",
+  "transport": "Private jeep Kathmandu–Syabrubesi and Dhunche–Kathmandu",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Langtang Gosaikunda trek 11 days: Kyanjin Gompa, Kyanjin Ri (4,773 m), Sing Gompa and the sacred Gosaikunda lake (4,380 m). Itinerary and cost from US$ 890.",
+  "summary": "This 11-day trek combines the Langtang Valley with the sacred lake of Gosaikunda. You walk up to Kyanjin Gompa and Kyanjin Ri (4,773 m), descend and cross through Thulo Syabru and Sing Gompa, then climb to Gosaikunda at 4,380 m before finishing in Dhunche. It suits fit trekkers who want glaciers and a pilgrimage lake in one trip.",
+  "intro": [
+    "The Langtang Valley and Gosaikunda sit on either side of the Trishuli valley, linked by a high forest trail through the Tamang village of Thulo Syabru and the monastery clearing of Chandanbari. Doing both in one trek gives you two very different Himalayan landscapes: first the glacial valley below Langtang Lirung, with yak pastures and the monastery at Kyanjin Gompa, then the alpine ridge of Gosaikunda with its sacred lakes and wide views west to Manaslu and the Ganesh Himal.",
+    "Because you acclimatise in the Langtang Valley first, the climb to Gosaikunda is safer than doing it directly from Dhunche. Expect 5–7 hours of walking on most days, a long descent from Kyanjin and a big final day down from the lake. The trek is graded challenging for its length and height changes rather than any technical difficulty. A licensed guide, porters, permits and teahouse lodges are included."
+  ],
+  "highlights": [
+    "Kyanjin Ri (4,773 m) and the glaciers of the upper Langtang Valley",
+    "Sacred Gosaikunda lake (4,380 m) and its chain of smaller lakes",
+    "Sunrise over Manaslu and Ganesh Himal from Lauribina",
+    "Tamang villages of Langtang and Thulo Syabru",
+    "Red panda forest around Chandanbari (Sing Gompa)",
+    "Acclimatised approach to Gosaikunda via the Langtang Valley"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive Kathmandu to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 1960, "walk": "", "drive": "≈ 122 km · 7–8 h", "flight": "", "text": "Leave Kathmandu at about 7 am by private jeep, driving via Kakani and Trishuli Bazaar to Betrawati, then up the switchbacks to Dhunche (1,960 m) where the park checkpoint inspects permits. Descend to Syabrubesi on the Bhote Koshi in the afternoon. Your guide briefs the group in the evening on the route, altitude and porter loads. Have an early night before the first trekking day.", "meals": "Dinner"},
+    {"day": 2, "title": "Syabrubesi to Lama Hotel", "place": "", "overnight": "Lama Hotel", "altitude_m": 2470, "max_m": 2470, "walk": "≈ 6 h · 11 km", "drive": "", "flight": "", "text": "Cross the bridge out of Syabrubesi and follow the Langtang Khola upstream through Domen and Pairo to Bamboo (1,970 m), where lunch is taken by the roaring river. The afternoon climbs more steeply through oak and rhododendron forest to Rimche and Lama Hotel. You gain about 1,000 m today. Langur monkeys are common, and this forest is red panda habitat, so walk quietly and watch the treetops.", "meals": "B, L, D"},
+    {"day": 3, "title": "Lama Hotel to Langtang village", "place": "langtang-village", "overnight": "Langtang village", "altitude_m": 3430, "max_m": 3430, "walk": "≈ 6–7 h · 14 km", "drive": "", "flight": "", "text": "Climb through forest to Riverside and Ghoda Tabela (3,030 m), where an army post checks permits. Above here the valley opens into yak pastures and Langtang Lirung (7,227 m) appears. Pass water-driven prayer wheels and Thangshyap, then cross the 2015 debris field to the memorial and the rebuilt village of Langtang. Gain about 960 m. Your guide will explain the village's story; please walk past the memorial quietly.", "meals": "B, L, D"},
+    {"day": 4, "title": "Langtang village to Kyanjin Gompa", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 3870, "walk": "≈ 3–4 h · 7 km", "drive": "", "flight": "", "text": "A short day past the long mani wall at Mundu and across open pastures to Kyanjin Gompa, ringed by Langtang Lirung, Kimshung and the peaks of the upper valley. Arrive by lunch. In the afternoon, visit the small monastery on the knoll and the cheese factory started with Swiss help in 1955, and buy a slice of yak cheese. Gain about 440 m. Rest and drink plenty of water.", "meals": "B, L, D"},
+    {"day": 5, "title": "Kyanjin Ri hike and rest", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 4773, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "An early start up the steep ridge of Kyanjin Ri. The lower prayer-flag top at about 4,600 m gives fine views, and the true summit at 4,773 m adds Gangchenpo, Naya Kanga and the full sweep of glaciers. Return to Kyanjin for lunch and a quiet afternoon. Going high and sleeping low today is key acclimatisation for Gosaikunda later. Turn back if you develop a worsening headache.", "meals": "B, L, D"},
+    {"day": 6, "title": "Kyanjin Gompa to Lama Hotel", "place": "", "overnight": "Lama Hotel", "altitude_m": 2470, "max_m": 3870, "walk": "≈ 6–7 h · 21 km", "drive": "", "flight": "", "text": "Walk back down the valley past Langtang village, Ghoda Tabela and Riverside to Lama Hotel, losing about 1,400 m. It is a long day, but the trail is familiar and mostly downhill. Use trekking poles to protect your knees and take regular breaks. With more oxygen at lower altitude, most trekkers sleep well tonight.", "meals": "B, L, D"},
+    {"day": 7, "title": "Lama Hotel to Thulo Syabru", "place": "", "overnight": "Thulo Syabru", "altitude_m": 2210, "max_m": 2470, "walk": "≈ 5–6 h", "drive": "", "flight": "", "text": "Descend to Rimche and Bamboo, then leave the Syabrubesi trail and take the upper path that contours west through Pahiro and forest to Thulo Syabru. This Tamang village is strung along a ridge at about 2,210 m with stone houses, a gompa and views across to the Ganesh Himal. There is some climbing in the afternoon. Thulo Syabru is a good place to see village life and try local millet bread.", "meals": "B, L, D"},
+    {"day": 8, "title": "Thulo Syabru to Chandanbari", "place": "chandanbari", "overnight": "Chandanbari (Sing Gompa)", "altitude_m": 3330, "max_m": 3330, "walk": "≈ 4–5 h", "drive": "", "flight": "", "text": "Climb steadily above Thulo Syabru through Dursagang and along the forested ridge of Foprang Danda, with views of Langtang Lirung behind you. The path enters fir, hemlock and rhododendron forest, prime red panda habitat, before reaching the clearing of Chandanbari, known as Sing Gompa after its monastery. You gain about 1,120 m. Visit the gompa and the cheese dairy in the afternoon.", "meals": "B, L, D"},
+    {"day": 9, "title": "Chandanbari to Gosaikunda", "place": "gosaikunda", "overnight": "Gosaikunda", "altitude_m": 4380, "max_m": 4380, "walk": "≈ 5–6 h", "drive": "", "flight": "", "text": "Climb through forest to Cholang Pati (3,584 m) and the open ridge of Lauribina (3,910 m), with wide views of Manaslu, Ganesh Himal and the Annapurnas on clear mornings. The trail then traverses high above the valley past Saraswati Kunda and Bhairab Kunda to Gosaikunda at 4,380 m. You gain about 1,050 m. In the afternoon, visit the Shiva shrine and walk the shoreline. Nights here are below freezing.", "meals": "B, L, D"},
+    {"day": 10, "title": "Gosaikunda to Dhunche", "place": "dhunche", "overnight": "Dhunche", "altitude_m": 1960, "max_m": 4380, "walk": "≈ 7–8 h", "drive": "", "flight": "", "text": "Rise early for morning light on the lake and, if you wish, a quick ritual dip. Then begin the long descent: back to Lauribina, down through Cholang Pati to Chandanbari for lunch, and on through Deurali and dense forest to Dhunche, losing about 2,420 m. It is a hard day on the knees, so start early and pace yourself. In the evening, enjoy a hot shower in Rasuwa's district headquarters.", "meals": "B, L, D"},
+    {"day": 11, "title": "Drive Dhunche to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1960, "walk": "", "drive": "≈ 117 km · 6–7 h", "flight": "", "text": "Drive back to Kathmandu by private jeep via Betrawati and Trishuli Bazaar, arriving in the afternoon. We drop you at your hotel. Avoid booking an international flight for this evening in case of road delays. Many trekkers add a rest day in Kathmandu to visit Boudhanath or Patan before flying home.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep Kathmandu–Syabrubesi and Dhunche–Kathmandu",
+    "Licensed trekking guide speaking English or Hindi",
+    "One porter for every two trekkers",
+    "Teahouse lodges on twin-sharing basis for 10 nights",
+    "Three meals a day on the trek with hot drinks",
+    "Langtang National Park entry permit and TIMS card",
+    "Guide and porter wages, food, lodging and insurance",
+    "First-aid kit and pulse oximeter",
+    "Loan of duffel bag and trekking map"
+  ],
+  "excludes": [
+    "Kathmandu hotels before and after the trek",
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation cover",
+    "Hot showers, charging and Wi-Fi at lodges",
+    "Drinks, snacks and bottled water",
+    "Tips for guide and porters",
+    "Extra nights due to weather, illness or road closures",
+    "Personal gear, sleeping bag and down jacket"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing, a private jeep for the group and standard teahouses; single rooms cost extra where available.",
+    "Gosaikunda lodges are very basic, and nights at 4,380 m fall well below freezing from October to April.",
+    "Snow can close the trail above Chandanbari from December to February; we run this route mainly in spring and autumn.",
+    "Foreign trekkers need a licensed guide in Langtang National Park; check current status before you travel.",
+    "Day 10 is long; if you prefer, we can split it with a night at Chandanbari for one extra day's cost."
+  ],
+  "add_ons": [
+    {"name": "Extra night at Chandanbari on the way down", "price": "≈ US$ 55 per person"},
+    {"name": "Tserko Ri extra day from Kyanjin", "price": "≈ US$ 60 per person"},
+    {"name": "Helicopter from Gosaikunda to Kathmandu", "price": "≈ US$ 550–650 per seat, shared"}
+  ],
+  "faqs": [
+    {"q": "How hard is the Langtang Gosaikunda trek?", "a": "It is challenging: 11 days with walks of 5–8 hours, big climbs and descents, and nights up to 4,380 m at Gosaikunda after reaching 4,773 m on Kyanjin Ri. There are no technical sections. Trekkers with good fitness and some hill-walking experience manage it well. Train with long walks and stair climbs for 6–8 weeks before."},
+    {"q": "Which is better, Langtang or Gosaikunda?", "a": "Langtang Valley gives glaciers, yak pastures and close views of Langtang Lirung. Gosaikunda offers sacred lakes, a pilgrimage atmosphere and wide views west to Manaslu. This 11-day route lets you do both, and acclimatising in Langtang first makes the climb to Gosaikunda safer than going directly from Dhunche."},
+    {"q": "What is the cost of the Langtang Gosaikunda trek?", "a": "Our 11-day trek starts at about US$ 890 or ₹75,000 per person on twin sharing, including private jeep transfers, a licensed guide, porters, lodges, three meals a day and park permits. Kathmandu hotels, insurance, tips and personal extras are not included. Prices vary with group size and season."},
+    {"q": "Can I do Gosaikunda before Langtang Valley?", "a": "Yes, the route can run in reverse, starting at Dhunche and finishing in Syabrubesi. However, climbing straight to Gosaikunda at 4,380 m in two days from Dhunche at 1,960 m is harder on the body. Doing Langtang Valley first gives better acclimatisation, which is why we recommend this direction."},
+    {"q": "Is there a risk of altitude sickness at Gosaikunda?", "a": "Yes. Gosaikunda is at 4,380 m, and altitude sickness is possible for anyone. Our route reduces the risk by acclimatising at Kyanjin Gompa and Kyanjin Ri first. Still, tell your guide at once about headache, nausea, dizziness or breathlessness at rest, and descend if symptoms get worse."},
+    {"q": "When is the best time for the Langtang Gosaikunda trek?", "a": "March to May and late September to November are best, with clear mornings and open trails. Snow can close the route above Chandanbari from December to February, and June to August brings monsoon rain, leeches and landslides. If you want to see the Janai Purnima festival, choose our dedicated pilgrimage trek instead."},
+    {"q": "Can I take a holy dip at Gosaikunda on this trek?", "a": "Yes. The trek spends a night at Gosaikunda, so you can bathe or sprinkle water and offer prayers at the Shiva shrine in the early morning of day 10. The water is near freezing, so keep it brief and change into dry clothes at once. Our guide can help arrange a simple puja."},
+    {"q": "What kind of lodges are at Gosaikunda?", "a": "A few simple stone lodges stand by the lake, with small twin rooms or dormitories, blankets, a dining room and outside toilets. Electricity and hot water are limited. It is the most basic night of the trek. A warm sleeping bag rated to −10 °C and a down jacket are essential."},
+    {"q": "Do I need permits for the Langtang Gosaikunda trek?", "a": "Yes, a Langtang National Park entry permit and a TIMS card, both included in our price, plus a licensed guide for foreign trekkers under rules in force since 2023. Indian and other SAARC nationals pay a lower park fee. Permits are checked at Dhunche and on the trail; check current status before you travel."}
+  ]
+}

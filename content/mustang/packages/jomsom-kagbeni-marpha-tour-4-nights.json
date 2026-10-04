@@ -1,0 +1,145 @@
+{
+  "slug": "jomsom-kagbeni-marpha-tour-4-nights",
+  "title": "Jomsom, Kagbeni and Marpha Tour, 4 Nights",
+  "region": "mustang",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["cultural-tours", "short-breaks", "family-holidays", "pilgrimage", "honeymoon"],
+  "stops": [{"place": "jomsom", "nights": 2}, {"place": "kagbeni", "nights": 1}, {"place": "marpha", "nights": 1}, {"place": "muktinath", "nights": 0}],
+  "start": "Pokhara (Pokhara airport)",
+  "end": "Pokhara",
+  "price_from_inr": 42000,
+  "price_from_usd": 500,
+  "best_months": [1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 1],
+  "max_altitude_m": 3710,
+  "accommodation": "Hotel Om's Home in Jomsom, Red House Lodge in Kagbeni, family lodge in Marpha",
+  "transport": "Pokhara–Jomsom–Pokhara flights, private jeep in Mustang",
+  "group": "Private, 2–8",
+  "meta_description": "Jomsom, Kagbeni and Marpha tour in 5 days and 4 nights from Pokhara: Muktinath darshan, Kagbeni's old village, Marpha's apple orchards and Dhumba Lake.",
+  "summary": "A slow 5-day, 4-night circuit of Lower Mustang from Pokhara: fly to Jomsom, sleep in medieval Kagbeni and apple-growing Marpha, visit Muktinath and Dhumba Lake, and walk the riverside trail back to Jomsom. Easy walking, varied nights and a gentle altitude profile. From ₹42,000 per person.",
+  "intro": [
+    "Most visitors rush through Lower Mustang in a day: plane, jeep, temple, plane. This short tour stays long enough to feel the valley. You sleep in three different places, each with its own character: Jomsom's busy bazaar under Nilgiri, Kagbeni's tunnelled lanes and red monastery, and Marpha's whitewashed flagstone street among orchards. Muktinath darshan fits naturally on the Kagbeni day, and there is time for Shaligram hunting, a monastery's morning prayers and a glass of apple brandy.",
+    "The walking is optional and easy: a lake loop above Jomsom, village lanes and a two-hour riverside trail from Marpha to Jomsom on the last afternoon. Couples like it as a quiet mountain break, families because the altitude stays moderate except for the Muktinath visit, and photographers for the light on the mud walls and orchards. Late August to October adds the apple harvest, when Marpha's courtyards fill with fruit."
+  ],
+  "highlights": [
+    "Two flights through the Kali Gandaki gorge",
+    "A night in Kagbeni's medieval old village at Red House Lodge",
+    "Muktinath darshan and the 108 spouts",
+    "Marpha's flagstone lane, orchards and apple brandy",
+    "Thini village and Dhumba Lake walk",
+    "Riverside walk from Marpha to Jomsom"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Jomsom, Thini and Dhumba Lake",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 2830,
+      "walk": "≈ 3 h · 7 km",
+      "drive": "Transfers",
+      "flight": "Pokhara–Jomsom · 20 min",
+      "text": "Take the early flight from Pokhara to Jomsom (2,720 m), watching Dhaulagiri and Annapurna close on either side. After breakfast at Hotel Om's Home, rest for an hour, then walk across the river to Thini, one of the oldest villages in the valley, and on to Dhumba Lake (about 2,830 m), a small green pool hung with prayer flags below Nilgiri. Back in Jomsom before the wind rises, visit the Mustang Eco Museum in the afternoon.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Muktinath darshan, on to Kagbeni",
+      "place": "muktinath",
+      "overnight": "Kagbeni",
+      "altitude_m": 2810,
+      "max_m": 3710,
+      "walk": "≈ 1.5 h",
+      "drive": "Jomsom–Muktinath · 1–1.5 h; Muktinath–Kagbeni · 40 min",
+      "flight": "",
+      "text": "Drive to Ranipauwa and walk up to Muktinath temple (3,710 m) for darshan, the 108 spouts and the Jwala Mai flame. Walk down the old mule trail to Jharkot's hilltop monastery, where the jeep collects you, and descend to Kagbeni (2,810 m). In the late afternoon, when the wind eases, wander the old village lanes, see the clay khenis and look out from the north end towards Upper Mustang. Overnight at Red House Lodge.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kagbeni monastery and river, to Marpha",
+      "place": "marpha",
+      "overnight": "Marpha",
+      "altitude_m": 2670,
+      "max_m": 2810,
+      "walk": "≈ 2 h",
+      "drive": "Kagbeni–Marpha · ≈ 17 km · 50 min",
+      "flight": "",
+      "text": "Join the monks of Kag Chode monastery for morning prayers around 6:30 am, then walk to the Kali Gandaki confluence to look for Shaligram stones in the gravel. Drive via Jomsom to Marpha (2,670 m) for lunch. In the afternoon, walk through the apple orchards and the horticulture farm, taste local brandy, cider or juice at a family distillery and climb the steps to the village monastery for the view over white rooftops.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Marpha to Jomsom on foot",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 2720,
+      "walk": "≈ 2 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "After breakfast, walk the trail on the west bank of the Kali Gandaki from Marpha to Jomsom, passing the Tibetan settlement of Chhairo with its restored gompa and carpet looms, and the wide gravel riverbed with Nilgiri ahead. Arrive in Jomsom for lunch. The afternoon is free for shopping for Shaligram and dried apples, or a Thakali cooking session at the hotel in the evening.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Fly back to Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "altitude_m": 822,
+      "max_m": 2720,
+      "walk": "",
+      "drive": "Transfers",
+      "flight": "Jomsom–Pokhara · 20 min",
+      "text": "Morning flight back to Pokhara, where the tour ends at your hotel or the airport. If the flight is delayed by wind or cloud, we wait for a later departure or drive back by private jeep, about 8 hours, so plan onward connections from Pokhara for the following day if possible.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-oms-home-jomsom", "red-house-lodge-kagbeni"],
+  "includes": [
+    "4 nights on twin sharing with all meals in Mustang",
+    "Pokhara–Jomsom–Pokhara flights (Indian national fares)",
+    "Private jeep for Muktinath, Kagbeni and Marpha",
+    "ACAP permit",
+    "English and Hindi-speaking guide",
+    "Monastery and museum entry fees",
+    "Brandy or juice tasting in Marpha",
+    "Pokhara airport transfers",
+    "All government taxes"
+  ],
+  "excludes": [
+    "Travel to and hotel nights in Pokhara",
+    "Priest dakshina and donations at Muktinath",
+    "Horse or porter at Muktinath",
+    "Thakali cooking session (optional)",
+    "Travel insurance",
+    "Drinks beyond the tasting and personal expenses",
+    "Jeep back to Pokhara if flights are cancelled",
+    "Tips"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 travellers with Indian national airfares; other nationalities pay higher Pokhara–Jomsom fares of about US$ 160–200 each way.",
+    "Jomsom flights run only in the early morning and are often delayed. Keep a spare day in Pokhara at the end if you have an onward flight.",
+    "Red House Lodge and the Marpha lodge are comfortable but simple, with solar hot water and limited heating; Jomsom has the warmest rooms.",
+    "The only high point is Muktinath at 3,710 m, visited for a few hours; you sleep at 2,670–2,810 m throughout.",
+    "Baggage on Jomsom flights is limited to about 10–15 kg plus 5 kg hand luggage."
+  ],
+  "add_ons": [
+    {"name": "Upgrade Jomsom nights to Shinta Mani Mustang", "price": "On request"},
+    {"name": "Thakali cooking evening in Jomsom", "price": "≈ ₹1,500 per person"},
+    {"name": "Shraddha with priest at Kagbeni", "price": "Dakshina ≈ ₹2,500–6,000 per family"}
+  ],
+  "faqs": [
+    {"q": "How much is a Jomsom tour package from Pokhara?", "a": "This 5-day, 4-night Jomsom, Kagbeni and Marpha tour starts at ₹42,000 per person on twin sharing, including return flights at Indian fares, all meals in Mustang, jeep, permit and guide. International travellers pay more because of higher airfares. Check current status before you travel."},
+    {"q": "Is Jomsom good for a honeymoon?", "a": "Yes, for couples who like mountains and quiet places. The flight is spectacular, the villages are peaceful, and nights in Kagbeni and Marpha feel far from city life. For more comfort, upgrade Jomsom nights to Shinta Mani Mustang, the region's only luxury resort, with a spa and heated suites."},
+    {"q": "Can children do the Jomsom Kagbeni Marpha tour?", "a": "Yes. Sleeping altitudes are 2,670–2,810 m, walks are short and flat, and Muktinath is visited for only a few hours. Keep children warm and well hydrated, and watch for headaches. Families with infants or children with asthma should consult a doctor before travelling to Muktinath."},
+    {"q": "When is apple season in Marpha?", "a": "The apple harvest runs from late August to October, peaking in September. That is the best time to see orchards heavy with fruit and courtyards full of drying apples. Blossom season is April. Dried apples, juice and brandy are sold year-round."},
+    {"q": "Do I need a permit for Jomsom, Kagbeni and Marpha?", "a": "Yes, the ACAP permit, which we arrange: NPR 1,000 for SAARC nationals including Indians and NPR 3,000 for others. No restricted area permit is needed as long as you stay south of the Kagbeni checkpoint. Check current status before you travel."},
+    {"q": "What if the Jomsom flight is cancelled?", "a": "If the flight to Jomsom is cancelled, we try the next morning or drive up by jeep (7–9 hours) and adjust the programme. If the return is cancelled, we wait for a later flight or drive to Pokhara. Additional jeep costs are agreed with you before departure."},
+    {"q": "Can we add Upper Mustang to this tour?", "a": "Yes. From Kagbeni, a jeep can continue to Ghami and Lo Manthang, turning this into our 10-day Upper Mustang jeep tour. You will need the Upper Mustang restricted area permit, charged per day, and a licensed guide. Tell us at booking so we can prepare permits."},
+    {"q": "What is the weather in Jomsom in October?", "a": "October is one of the best months: clear skies, daytime temperatures of 15–20 °C and nights around 0–5 °C. Mornings are calm and ideal for flights and walks; a strong wind rises from late morning. Pack warm layers, a windproof jacket, sunglasses and sunscreen."},
+    {"q": "How much walking is there on this tour?", "a": "About 2–3 hours on most days, all on easy paths: the Dhumba Lake loop, village lanes, the Jharkot trail and the 7 km riverside walk from Marpha to Jomsom. Walks are optional; the jeep can cover most sections for anyone who prefers not to walk."}
+  ]
+}

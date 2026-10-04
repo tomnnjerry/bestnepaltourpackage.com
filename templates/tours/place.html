@@ -1,0 +1,63 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ p.name }} Travel Guide, Altitude {{ p.altitude_m|thousands }} m and Tour Packages{% endblock %}
+{% block meta_description %}{{ p.meta_description|default:p.summary|truncatechars:158 }}{% endblock %}
+{% block og_image %}{% with i=p|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}data-land="{{ r.slug }}"{% endblock %}
+{% block fab_label %}Plan {{ p.name }}{% endblock %}
+{% block main %}
+<header class="phead">
+  <div class="phead__bg">{% photo p|first_img p.name "" "100vw" True True %}</div>
+  <div class="wrap"><div class="phead__in">
+    <p class="kicker"><a href="{{ r.url }}">{% icon r.icon %}{{ r.name }}</a> · {{ p.kind|capfirst }}</p>
+    <h1>{{ p.name }}</h1>
+    <p class="phead__lede">{{ p.tagline }}</p>
+    <ul class="phead__facts">
+      <li>{% icon "altitude" %}{{ p.altitude_m|thousands }} m</li>
+      {% if p.best_label %}<li>{% icon "calendar" %}Best {{ p.best_label }}</li>{% endif %}
+      {% if p.nights %}<li>{% icon "bed" %}{{ p.nights }} night{% if p.nights != "1" %}s{% endif %}</li>{% endif %}
+    </ul>
+  </div></div>
+  <div class="ridge--bottom" aria-hidden="true"></div>
+</header>
+
+<div class="wrap sec--tight">
+  <div class="split">
+    <article class="prose">
+      {% include "tours/partials/brief.html" with text=p.summary %}
+      {% for para in p.intro %}<p>{{ para }}</p>{% endfor %}
+
+      {% if p.highlights %}<h2 class="h2">What to see and do</h2>
+      <ul class="hl">{% for h in p.highlights %}<li><b>{{ h.title }}</b><p>{{ h.text }}</p></li>{% endfor %}</ul>{% endif %}
+
+      {% if p.experiences %}<h2 class="h2">Experiences in {{ p.name }}</h2>
+      <div class="grid grid--3">{% for e in p.experiences %}{% include "tours/partials/exp_card.html" %}{% endfor %}</div>{% endif %}
+
+      {% if p.how_to_reach %}<h2 class="h2">How to reach {{ p.name }}</h2>
+      {% for m in p.how_to_reach %}<h3 class="h3">{% if m.mode == "Air" %}{% icon "plane" %}{% elif m.mode == "Helicopter" %}{% icon "heli" %}{% elif m.mode == "On foot" %}{% icon "hiking" %}{% else %}{% icon "car" %}{% endif %} {{ m.mode }}</h3><p>{{ m.text }}</p>{% endfor %}{% endif %}
+
+      {% if p.where_to_stay %}<h2 class="h2">Where to stay</h2><p>{{ p.where_to_stay }}</p>
+      {% if p.stay_objs %}<ul class="chips">{% for s in p.stay_objs %}<li><a class="chip" href="{{ s.url }}">{% icon "bed" %}{{ s.name }}</a></li>{% endfor %}</ul>{% endif %}{% endif %}
+
+      {% if p.tips %}<h2 class="h2">Tips from our trip managers</h2><ul class="ticks">{% for t in p.tips %}<li>{% icon "check" %}<span>{{ t }}</span></li>{% endfor %}</ul>{% endif %}
+
+      {% if p.festival_objs %}<h2 class="h2">Festivals here</h2><ul class="chips">{% for f in p.festival_objs %}<li><a class="chip chip--land" href="{{ f.url }}">{% icon "lamp" %}{{ f.name }}</a></li>{% endfor %}</ul>{% endif %}
+    </article>
+    <aside class="aside">
+      <div class="panel"><h2 class="h3">{{ p.name }} at a glance</h2><dl class="facts">{% for f in p.facts %}<div><dt>{{ f.0 }}</dt><dd>{{ f.1 }}</dd></div>{% endfor %}</dl>
+        <div style="margin-top:14px">{% include "tours/partials/months.html" with bar=p.bar %}</div></div>
+      {% include "tours/partials/quick_form.html" with heading="Plan "|add:p.name region=r.slug where="place-aside" %}
+      {% if p.route_objs %}<div class="panel"><h2 class="h3">Getting here</h2><ul class="mlinks">{% for rt in p.route_objs %}<li><a href="{{ rt.url }}">{% icon "route" %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</a></li>{% endfor %}</ul></div>{% endif %}
+    </aside>
+  </div>
+</div>
+
+{% if p.package_objs %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Packages that visit {{ p.name }}</h2><a class="textlink" href="{% url 'packages' %}?q={{ p.name|urlencode }}">See all{% icon "arrow" %}</a></div><div class="passes" data-stagger>{% for k in p.package_objs|slice:":6" %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+
+<section class="sec"><div class="wrap">
+  <div class="grid grid--2" style="align-items:start">
+    <div>{% atlas map_points %}</div>
+    <div>{% if p.nearby_objs %}<h2 class="h2">Nearby</h2><div class="grid grid--2">{% for p in p.nearby_objs %}{% include "tours/partials/place_card.html" %}{% endfor %}</div>{% endif %}</div>
+  </div>
+  {% include "tours/partials/faqs.html" with faqs=p.faqs faq_title="Questions about "|add:p.name %}
+</div></section>
+{% endblock %}

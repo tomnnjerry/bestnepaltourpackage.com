@@ -1,0 +1,85 @@
+{
+  "slug": "kathmandu-bandipur-pokhara-tour-6-nights",
+  "title": "Kathmandu, Bandipur and Pokhara Tour 6 Nights",
+  "region": "pokhara",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["cultural-tours", "family-holidays", "photography"],
+  "stops": [{"place": "kathmandu", "nights": 2}, {"place": "bandipur", "nights": 1}, {"place": "pokhara", "nights": 3}, {"place": "sarangkot", "nights": 0}],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 36000,
+  "price_from_usd": 430,
+  "best_months": [1, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, heritage hotel in Bandipur (The Old Inn or similar), breakfast daily",
+  "transport": "Private car or van Kathmandu–Bandipur–Pokhara, Pokhara–Kathmandu flight",
+  "group": "Private, 2–12",
+  "meta_description": "Kathmandu, Bandipur and Pokhara tour, 7 days 6 nights: UNESCO sites, a night in Bandipur's Newar bazaar, Sarangkot sunrise and Phewa Lake. From ₹36,000.",
+  "summary": "Seven days that break the Kathmandu–Pokhara road journey with a night in Bandipur, a car-free Newar hill town. Two nights in Kathmandu for the heritage sites, one in Bandipur for sunset and sunrise, three in Pokhara for Sarangkot, Phewa Lake and the Peace Pagoda, then a 25-minute flight back. From ₹36,000 per person.",
+  "intro": [
+    "Most Nepal tours drive straight from Kathmandu to Pokhara, seven or eight hours on the Prithvi Highway. We split the journey at Bandipur, an 18th century trading town on a ridge above Dumre, where the main street is closed to cars and lined with brick houses with carved windows. You arrive in the afternoon for a guided walk and sunset at the tundikhel, sleep in a restored townhouse and climb to Thani Mai temple for sunrise before the short drive on to Pokhara.",
+    "Either side of Bandipur, the itinerary covers the essentials. In Kathmandu you see Pashupatinath, Boudhanath, Swayambhunath and Kathmandu Durbar Square with a licensed guide. In Pokhara you have three nights for Sarangkot sunrise, the caves and waterfall, a boat to Tal Barahi and the walk to the World Peace Pagoda, plus a free afternoon. Returning by air saves a second long drive and gives a view of the Himalaya from the right side of the plane."
+  ],
+  "highlights": [
+    "Pashupatinath, Boudhanath, Swayambhunath and Kathmandu Durbar Square",
+    "A night in a restored Newar townhouse on Bandipur's car-free bazaar",
+    "Sunrise over Manaslu and the Annapurnas from Thani Mai temple",
+    "Sarangkot sunrise and Phewa Lake boating in Pokhara",
+    "Boat and forest climb to the World Peace Pagoda",
+    "25-minute flight back to Kathmandu instead of a second long drive"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, evening in Thamel", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 6 km · 30 min", "flight": "", "text": "Our representative meets you outside the arrivals hall at Tribhuvan International Airport and drives you about 30 minutes to your hotel in or near Thamel. After check-in, rest or take a first walk through Thamel's lanes of trekking shops, bookshops and cafes towards the old market square of Asan, where traders have sold spices, brass and cloth for centuries. In the evening your guide briefs you on the week ahead and collects any documents needed for the domestic flight. Dinner at your own choice in one of Thamel's many restaurants.", "meals": "—"},
+    {"day": 2, "title": "Kathmandu heritage sites day", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 3 h in sections", "drive": "≈ 30 km · 2.5 h in total", "flight": "", "text": "A full day with a licensed guide at four UNESCO World Heritage monuments. Start at Swayambhunath, the hilltop stupa watched over by monkeys, with a view across the valley. Continue to Kathmandu Durbar Square for the old royal palace, the Kumari's house and the pagoda temples restored after the 2015 earthquake. After lunch, visit Pashupatinath on the Bagmati, Nepal's holiest Shiva temple, where non-Hindus watch the cremation ghats from the opposite bank. End at Boudhanath, one of the largest stupas in the world, as pilgrims circle it at dusk.", "meals": "Breakfast"},
+    {"day": 3, "title": "Drive to Bandipur, bazaar walk and sunset", "place": "bandipur", "overnight": "Bandipur", "altitude_m": 1030, "max_m": 1400, "walk": "≈ 2 h", "drive": "≈ 143 km · 5–6 h", "flight": "", "text": "Leave Kathmandu after breakfast and climb out of the valley, then descend to follow the Trishuli river west along the Prithvi Highway past Malekhu and Mugling, with a lunch stop on the way. At Dumre turn south and wind 8 km up to Bandipur at about 1,030 m. Check in to your heritage hotel on the car-free main street. In the late afternoon your guide leads a walk past Bindebasini temple, the old library and carved Newar houses to the tundikhel, where you watch the sunset over the Himalaya.", "meals": "Breakfast"},
+    {"day": 4, "title": "Thani Mai sunrise, drive to Pokhara", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1200, "walk": "≈ 1.5 h", "drive": "≈ 78 km · 2.5–3 h", "flight": "", "text": "Climb for 30–40 minutes before dawn to Thani Mai temple on the hill above Bandipur for sunrise over a line of peaks from Dhaulagiri through the Annapurnas to Manaslu and Himalchuli, with the valleys filled with cloud below. Return for breakfast on the hotel terrace. Mid-morning, drive down to Dumre and west along the Seti valley via Damauli to Pokhara, about 2.5–3 hours. After check-in at Lakeside, spend the afternoon by the lake or at the hotel pool, and stroll the promenade at sunset.", "meals": "Breakfast"},
+    {"day": 5, "title": "Sarangkot sunrise and Pokhara sights", "place": "sarangkot", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 1.5 h in sections", "drive": "≈ 40 km · 3 h in total", "flight": "", "text": "Leave at about 5 am for Sarangkot, a 40-minute drive and a short climb to the viewing terraces at about 1,600 m. Watch Machhapuchhre, Annapurna South and Dhaulagiri light up in turn. After breakfast, visit Bindhyabasini temple, the Seti Gandaki gorge, Davis Falls, where the lake's outflow vanishes into a chasm, and Gupteshwor Mahadev Cave with its Shiva shrine. The afternoon is at the International Mountain Museum, covering the 8,000 m peaks and the people of the Himalaya. Evening free at Lakeside.", "meals": "Breakfast"},
+    {"day": 6, "title": "Phewa boat, Peace Pagoda, free afternoon", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1100, "walk": "≈ 1.5 h · 3 km", "drive": "≈ 10 km · 30 min", "flight": "", "text": "Early morning on Phewa Lake while the water is calm: a boatman rows you to Tal Barahi temple on its island, then to the south shore. Climb about 45 minutes through Raniban forest to the World Peace Pagoda at about 1,100 m for the view across the lake to the Annapurnas, and walk down to Damside where your car waits. The afternoon is free: book a tandem paragliding flight or the ZipFlyer, take a kayak out on the lake or browse Lakeside's craft shops and cafes.", "meals": "Breakfast"},
+    {"day": 7, "title": "Fly to Kathmandu and depart", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 15 km · 45 min in total", "flight": "Pokhara–Kathmandu · 25 min", "text": "After breakfast, transfer to Pokhara International Airport for the 25-minute flight to Kathmandu; sit on the left side for views of the Annapurna, Manaslu and Ganesh Himal ranges on a clear morning. On arrival at the domestic terminal, our representative transfers you to the international terminal for your onward flight, or to a hotel if you are extending your stay. We schedule morning flights, which are more reliable, and recommend international departures no earlier than mid-afternoon to allow for weather delays.", "meals": "Breakfast"}
+  ],
+  "stays": ["the-old-inn-bandipur", "hotel-barahi"],
+  "includes": [
+    "2 nights 3-star hotel in Kathmandu, 1 night heritage hotel in Bandipur, 3 nights 3-star hotel in Pokhara, all with breakfast",
+    "Pokhara–Kathmandu flight with domestic airport tax",
+    "Private car or van for all road transfers and sightseeing",
+    "Licensed English- or Hindi-speaking guide in Kathmandu and local guides in Bandipur and Pokhara",
+    "Entry fees at Kathmandu's four heritage sites, Davis Falls, Gupteshwor Cave and the Mountain Museum",
+    "Sarangkot sunrise trip and Phewa Lake boat",
+    "Airport transfers on arrival and departure",
+    "Government taxes and service charges"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee (not required for Indian citizens)",
+    "Lunches, dinners and drinks",
+    "Optional activities such as paragliding and zipline",
+    "Travel insurance",
+    "Tips for guides and drivers",
+    "Personal expenses",
+    "Extra nights or costs from flight delays, road closures or strikes"
+  ],
+  "good_to_know": [
+    "The price assumes two adults sharing at 3-star hotels in Kathmandu and Pokhara and a standard room at The Old Inn, October–March; peak festival dates and single rooms cost extra.",
+    "Kathmandu heritage-site entry fees are much lower for Indian and SAARC citizens than for other foreigners, so the USD price for non-SAARC travellers is adjusted accordingly.",
+    "Domestic flights allow roughly 10 kg checked and 5 kg hand baggage; excess is charged per kilo at the airport.",
+    "Road works on the Prithvi Highway between Naubise and Mugling can add 1–2 hours to day 3.",
+    "Bandipur's heritage rooms have steep wooden stairs; seniors should request a lower-floor room."
+  ],
+  "add_ons": [
+    {"name": "Manakamana cable car darshan on day 3", "price": "≈ ₹1,500 per person (Indian), US$ 25 (other foreigners)"},
+    {"name": "Siddha Gufa cave walk on day 4", "price": "≈ ₹800 per person with local guide"},
+    {"name": "Tandem paragliding in Pokhara", "price": "≈ ₹7,000 / US$ 85 per person"}
+  ],
+  "faqs": [
+    {"q": "Why stop in Bandipur between Kathmandu and Pokhara?", "a": "It breaks a 7–8 hour drive into two shorter days and adds a night in one of Nepal's best preserved hill towns, with a car-free Newar bazaar, Himalayan sunset and sunrise and easy walks. The drive from Kathmandu is about 5–6 hours and on to Pokhara about 2.5–3 hours."},
+    {"q": "What is the cost of a Kathmandu, Bandipur and Pokhara tour?", "a": "Our 7-day, 6-night package starts from about ₹36,000 per person with 3-star hotels, a heritage hotel in Bandipur, private transport, guides, entry fees and the Pokhara–Kathmandu flight. Four-star hotels add roughly ₹10,000–15,000 per person. Prices for non-SAARC travellers are higher because of heritage-site fees."},
+    {"q": "Can we drive back from Pokhara instead of flying?", "a": "Yes. A private car takes 6–8 hours and lowers the package price by roughly ₹5,000 per person, or a tourist bus takes 7–9 hours. Driving back allows a Manakamana stop if you missed it on the way. Flying saves most of a day and is better for seniors and children."},
+    {"q": "Is this tour suitable for senior citizens?", "a": "Yes. Sightseeing is by car with short walks, and the flight replaces one long drive. The Thani Mai and Peace Pagoda walks are optional and can be replaced by easier viewpoints. In Bandipur, ask for a ground-floor room because heritage houses have steep stairs."},
+    {"q": "Can we add Chitwan to this itinerary?", "a": "Yes. Add two nights at a Chitwan jungle lodge after Pokhara, about 4.5–5.5 hours by road, with jeep safari, canoeing and a Tharu village walk, then return to Kathmandu by road or a 20-minute flight from Bharatpur. This makes a 9-night trip."},
+    {"q": "What is included in Kathmandu sightseeing?", "a": "A full day with a licensed guide at Swayambhunath, Kathmandu Durbar Square, Pashupatinath and Boudhanath, all UNESCO World Heritage monuments, with entry fees and private transport. Patan and Bhaktapur can be added with an extra night in Kathmandu."},
+    {"q": "When is the best time for this tour?", "a": "October to December and February to March give the clearest views from Bandipur and Sarangkot and the most comfortable sightseeing weather. April and May are warmer and hazier. June to August is monsoon, with frequent rain, cloud and occasional landslides on the highway."},
+    {"q": "How safe is the road from Kathmandu to Bandipur?", "a": "The Prithvi Highway is Nepal's busiest road and is safe with an experienced private driver, though it is winding, heavy with trucks in places and subject to road works. We drive in daylight only. In the monsoon, landslides can cause delays, so allow flexibility."},
+    {"q": "Do Indians need a passport for this Nepal tour?", "a": "No. Indian citizens can use a valid passport or voter ID card, including for the domestic flight from Pokhara to Kathmandu. Children under 15 can use a birth certificate or school ID with parents. Carry the same original ID throughout, and check current status before you travel."}
+  ]
+}

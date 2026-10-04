@@ -1,0 +1,89 @@
+{
+  "slug": "tibet-group-tour-lhasa-shigatse-gyantse-8-days",
+  "title": "Tibet Group Tour: Lhasa, Gyantse, Shigatse, 8 Days",
+  "region": "kailash",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 7,
+  "themes": ["cultural-tours", "buddhist-circuit", "photography", "budget-nepal"],
+  "stops": [
+    {"place": "lhasa", "nights": 5},
+    {"place": "gyantse", "nights": 1},
+    {"place": "shigatse", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 135000,
+  "price_from_usd": 1570,
+  "best_months": [0, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "max_altitude_m": 5000,
+  "accommodation": "3-star hotels in Lhasa and Gyantse, 4-star in Shigatse",
+  "transport": "Kathmandu–Lhasa return flights, shared tourist coach or van, Shigatse–Lhasa by road or train",
+  "group": "Fixed-date small groups of 6–16",
+  "meta_description": "Tibet group tour from Kathmandu, 8 days: Lhasa, Yamdrok Lake, Karo La, Gyantse Kumbum, Shigatse Tashilhunpo, fixed departures, price and permits.",
+  "summary": "A fixed-date group tour from Kathmandu covering Tibet's central circuit: four days in Lhasa, the road over the Kamba La past Yamdrok Lake and the Karo La glacier to Gyantse, Tashilhunpo in Shigatse, and back to Lhasa to fly out. 8 days, shared costs, from ₹1,35,000.",
+  "intro": [
+    "Joining a group is the most economical way to see Tibet properly, because permits, guide and vehicle costs are shared. This tour follows the classic triangle: Lhasa's Jokhang, Potala, Sera, Drepung and Norbulingka over four days of gentle acclimatisation, then two days on the road south and west to Gyantse and Shigatse, the old capitals of Tsang, with Yamdrok Lake and the Karo La glacier on the way. The return to Lhasa is by the direct road or, when tickets allow, the 3-hour train.",
+    "Departures run on fixed dates from April to October, with groups of 6–16 travellers from several countries and one English-speaking Tibetan guide. All travellers need the Chinese group visa issued in Kathmandu and the Tibet Travel Permit, which we arrange. Indian passport holders face separate rules and have not been able to join Lhasa sightseeing groups in every season. Check current status before you travel."
+  ],
+  "highlights": [
+    "Four relaxed days in Lhasa among its great monasteries",
+    "Kamba La view of Yamdrok Lake and the Karo La glacier",
+    "Gyantse Kumbum, a 15th-century stupa of 77 chapels",
+    "Tashilhunpo, seat of the Panchen Lamas, in Shigatse",
+    "Lhasa–Shigatse train or the Yarlung Tsangpo gorge road",
+    "Shared costs on fixed departures"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Lhasa, rest day", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3656, "walk": "", "drive": "Gonggar to city · ≈ 60 km · 1 h", "flight": "Kathmandu–Lhasa · 75–90 min", "text": "The group flies from Kathmandu to Lhasa Gonggar, crossing the Himalaya with views of Everest on clear days. The Tibetan guide meets everyone at the airport and transfers to the hotel in the old town. The rest of the day is free for rest. Avoid alcohol and hot showers on day one, drink plenty of water and take a short walk only if you feel well.", "meals": "Dinner"},
+    {"day": 2, "title": "Jokhang and the Barkhor", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3700, "walk": "≈ 2 h", "drive": "", "flight": "", "text": "An easy morning on foot. The guide leads the group through the Jokhang, the holiest temple in Tibet, explaining its chapels and the Jowo Shakyamuni, then around the Barkhor circuit. Afternoon free to explore the old town lanes, Ramoche temple or a Tibetan teahouse, keeping the pace slow while you acclimatise.", "meals": "Breakfast"},
+    {"day": 3, "title": "Potala Palace and Sera debate", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3750, "walk": "≈ 3 h incl. Potala steps", "drive": "City transfers", "flight": "", "text": "The Potala Palace on the group's timed ticket, with about an hour inside after a slow climb up the stone ramps. In the afternoon, Sera Monastery, where monks debate in the courtyard most days from about 3 pm with claps and stamps. Evening free.", "meals": "Breakfast"},
+    {"day": 4, "title": "Drepung and Norbulingka", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3800, "walk": "≈ 3 h", "drive": "City transfers", "flight": "", "text": "Morning at Drepung on the hillside west of the city, founded in 1416 and once home to thousands of monks; walk up through its lanes to the assembly hall and Ganden Palace. After lunch, the Norbulingka, the summer palace of the Dalai Lamas, with gardens and the palace of the 14th Dalai Lama. Pack a small bag for two nights on the road.", "meals": "Breakfast"},
+    {"day": 5, "title": "Yamdrok and Karo La to Gyantse", "place": "gyantse", "overnight": "Gyantse", "altitude_m": 3977, "max_m": 5000, "walk": "Short walks at stops", "drive": "≈ 260 km · 6–7 h with stops", "flight": "", "text": "The coach climbs to the Kamba La at about 4,790 m for the view of Yamdrok Lake, then follows the turquoise shore before rising to the Karo La near 5,000 m, where glaciers hang close above the road. In the afternoon, the Pelkor Chode monastery and the Kumbum in Gyantse, climbing through its painted chapels. Overnight in Gyantse.", "meals": "Breakfast"},
+    {"day": 6, "title": "Gyantse Dzong, drive to Shigatse", "place": "shigatse", "overnight": "Shigatse", "altitude_m": 3840, "max_m": 3980, "walk": "≈ 2 h", "drive": "≈ 90 km · 1.5–2 h", "flight": "", "text": "Early climb to Gyantse Dzong for views over the old town, scene of the 1904 British siege, then a short drive through barley fields to Shigatse. In the afternoon, Tashilhunpo, seat of the Panchen Lamas, with its 26 m gilded Maitreya and tomb chapels, followed by the kora around its walls as the light turns gold.", "meals": "Breakfast"},
+    {"day": 7, "title": "Return to Lhasa by road or train", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3900, "walk": "", "drive": "≈ 270 km · 4–5 h (or train ≈ 3 h)", "flight": "", "text": "Back to Lhasa along the Yarlung Tsangpo gorge on the direct road, or by train when tickets for the group can be secured. Arrive by early afternoon with time for last shopping on the Barkhor and a farewell dinner with the group and guide.", "meals": "B, D"},
+    {"day": 8, "title": "Fly back to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 3656, "walk": "", "drive": "City to Gonggar · 1 h", "flight": "Lhasa–Kathmandu · 75–90 min", "text": "Transfer to Lhasa Gonggar and fly back to Kathmandu, where the tour ends on arrival. Clocks move back 2 hours 15 minutes. Book onward international flights for the following day, or allow a generous connection.", "meals": "Breakfast"}
+  ],
+  "stays": ["yak-hotel-lhasa", "gesar-hotel-shigatse"],
+  "includes": [
+    "Kathmandu–Lhasa–Kathmandu economy flights",
+    "Chinese group visa processing in Kathmandu and Tibet Travel Permit",
+    "5 nights at the Yak Hotel or similar in Lhasa, 1 night in Gyantse, 1 night at the Gesar Hotel or similar in Shigatse",
+    "Daily breakfast, welcome and farewell dinners",
+    "Shared tourist coach or van and airport transfers",
+    "English-speaking licensed Tibetan guide",
+    "Entrance fees for all listed sites, including Potala and Yamdrok",
+    "Lhasa–Shigatse train ticket or road transfer"
+  ],
+  "excludes": [
+    "International flights and hotel nights in Kathmandu",
+    "Chinese visa fee",
+    "Lunches and most dinners",
+    "Travel insurance",
+    "Single room supplement",
+    "Tips for guide and driver",
+    "Camera fees and personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing on a fixed-date departure with at least six travellers; private departures cost more per person.",
+    "All travellers need the Chinese group visa from the embassy in Kathmandu, which keeps original passports for several working days, so arrive in Kathmandu three to five working days before departure.",
+    "Indian passport holders have not been able to join Lhasa sightseeing groups in every season, as Tibet permits for Indians have focused on the Kailash yatra. Check current status before you travel.",
+    "Tibet usually closes to foreign tourists for several weeks around February and March; departures may be cancelled if permits are suspended.",
+    "The road reaches about 5,000 m at the Karo La; altitude effects are usually mild after four nights in Lhasa."
+  ],
+  "add_ons": [
+    {"name": "Single room supplement", "price": "≈ ₹22,000"},
+    {"name": "Everest north base camp extension from Shigatse", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "Is a group tour the cheapest way to visit Tibet from Nepal?", "a": "Yes, for most travellers. Permits, guide and vehicle costs are shared among the group, and hotels are booked at group rates. Our 8-day group tour starts from ₹1,35,000 (US$1,570) per person twin sharing, including flights from Kathmandu. Private tours with the same route cost more per person."},
+    {"q": "When do Tibet group tours depart from Kathmandu?", "a": "Our fixed departures run from April to October, usually weekly or fortnightly in peak months. Dates are confirmed once Tibet opens to foreign tourists each spring, which follows the closure that often occurs around February and March. Check current status before you travel."},
+    {"q": "Can I join a Tibet group tour on a Chinese visa from my home country?", "a": "Usually not for travel from Nepal. Tibet entry from Kathmandu normally requires a Chinese group visa issued there, and any separate Chinese visa in your passport may be cancelled. We process the group visa for you. Rules change; check current status before you travel."},
+    {"q": "How many people are in the Tibet group?", "a": "Between 6 and 16 travellers, often from several countries, with one English-speaking Tibetan guide and a driver. Everyone travels on the same permit and must stay with the group at checkpoints, though free time in Lhasa is generous."},
+    {"q": "Is the Tibet group tour physically demanding?", "a": "It is graded easy: no trekking, mostly vehicle travel and walking around monasteries. The demanding parts are the Potala steps, the Kumbum stairs and the altitude, especially on the Kamba La and Karo La. Four nights in Lhasa first make it comfortable for most."},
+    {"q": "Is Gyantse or Shigatse more worth visiting?", "a": "Both earn their place. Gyantse has the Kumbum and the dzong in a small, quiet town; Shigatse has Tashilhunpo, one of the great Gelug monasteries, in a larger city. This tour gives a night to each, with Yamdrok Lake and the Karo La on the way."},
+    {"q": "Can I take the train from Shigatse to Lhasa?", "a": "Yes, the line takes about 3 hours and foreigners may use it with their guide and permit. Tickets for groups are not always available in summer, so we confirm closer to the date and otherwise drive the direct road in 4–5 hours."},
+    {"q": "What should I pack for a Tibet group tour?", "a": "Layers for days of 15–22 °C and nights near freezing, a warm jacket for passes near 5,000 m, sunglasses, high-factor sunscreen, lip balm, comfortable walking shoes, a refillable bottle and any personal medicines. Avoid books or images about the Dalai Lama, which can be confiscated at the border or airport."},
+    {"q": "Can Indians join the Tibet group tour?", "a": "Not in every season. Tibet permits for Indian nationals have been issued mainly for the Kailash yatra in recent years, and Lhasa sightseeing groups have not always been open to Indian passport holders. Check current status before you travel; we notify interested travellers when permits open."}
+  ]
+}

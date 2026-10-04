@@ -1,0 +1,132 @@
+{
+  "slug": "landruk",
+  "name": "Landruk",
+  "region": "annapurna",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Landruk village Modi Khola terraces",
+  "lat": 28.3880,
+  "lng": 83.8250,
+  "altitude_m": 1565,
+  "tagline": "Terraced Gurung village across the gorge from Ghandruk",
+  "meta_description": "Landruk guide: 1,565 m Gurung village above the Modi Khola gorge, facing Ghandruk, on the Australian Camp trail and the Mardi Himal side routes.",
+  "summary": "Landruk (1,565 m) is a Gurung farming village on the east side of the Modi Khola gorge, directly opposite Ghandruk. It lies a day's walk from Kande via Australian Camp, on routes to Annapurna Base Camp and Mardi Himal, and its terraced fields face Annapurna South and Hiunchuli up the valley.",
+  "intro": [
+    "Stand on any terrace in Landruk and you see Ghandruk spread across the far side of the gorge, near enough to make out individual roofs yet three to four hours away on foot. Between the two villages the Modi Khola cuts down to roughly 1,300 m, carrying meltwater from the Annapurna Sanctuary. Landruk sits on the eastern slope, its houses scattered over terraces of rice, millet and maize, with Annapurna South (7,219 m) and Hiunchuli closing the head of the valley to the north.",
+    "The village divides loosely into upper and lower Landruk. Lodges cluster along the main trail, but most households still farm: buffalo stalls, stacked fodder, beehives built into stone walls and mustard fields that turn yellow in winter. It is quieter than Ghandruk, with fewer road visitors, and many trekkers find it a better place to see Gurung farm life at its own pace. Evenings are calm, broken by the sound of the river and the occasional mule bell.",
+    "Landruk is a junction more than a destination. Walkers arrive from Kande and Australian Camp on the gentle eastern approach, from Ghandruk across the gorge, or down from Forest Camp at the end of a Mardi Himal trek. Northwards a trail follows the river to New Bridge and Jhinu Danda, joining the main route to Annapurna Base Camp. We use it on family treks, on the luxury lodge circuit and as a quiet first night towards Chhomrong."
+  ],
+  "facts": [
+    ["Altitude", "1,565 m"],
+    ["Best months", "Oct – Nov · Feb – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Pokhara International Airport, then 45 min drive to Kande and a day's walk"],
+    ["From Kathmandu", "≈ 25 min flight or 6–8 h drive to Pokhara + 45 min drive + 5–6 h walk"],
+    ["Known for", "Views of Ghandruk, rice and millet terraces, quiet Gurung farm life, trail junction"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Ghandruk across the gorge", "text": "Landruk's terraces look straight across the Modi Khola to Ghandruk's grey and green roofs. At night the lights of the opposite village glitter on the far slope. It is the clearest way to understand how deep these valleys are, and why the trail between them takes half a day."},
+    {"title": "Terraced fields through the seasons", "text": "Rice terraces around Landruk are green in August, golden at harvest in October and November, and planted with mustard and wheat in winter. Spring brings ploughing with oxen. Walking the field paths with your guide shows a farming calendar that has barely changed in generations."},
+    {"title": "The Australian Camp approach", "text": "The walk in from Kande climbs gently to Australian Camp (2,060 m) for an early view of Annapurna South, Machhapuchhre and Lamjung Himal, then follows ridges through Pothana and Bhichok Deurali before dropping through forest to Tolka and Landruk. It is the softest start to any Annapurna trek."},
+    {"title": "Gateway to Mardi Himal", "text": "A steep trail climbs from Landruk through dense forest to the Mardi Himal ridge, reaching Forest Camp (2,550 m) in about 5–6 hours. Many Mardi treks use it on the way down, ending with a hot shower and dal bhat in Landruk after days of ridge walking."},
+    {"title": "Riverside route to Jhinu Danda", "text": "North of Landruk a path follows the east bank of the Modi Khola past Himal Pani to New Bridge and across to Jhinu Danda, about 4–5 hours. It links Landruk to the Annapurna Base Camp trail and the hot springs below Chhomrong."},
+    {"title": "Honey and millet kitchens", "text": "Some Landruk households keep traditional log or wall hives, and local honey appears on lodge menus with Gurung bread and buckwheat pancakes. Millet is ground for dhido, a thick porridge eaten with lentils and greens. Ask your lodge a day ahead and they may cook it for you."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Pokhara to Kande is ≈ 25 km · 45 min by car on the Baglung highway; from Kande the walk to Landruk takes 5–6 hours. Dirt roads have pushed into the hills around Landruk in recent years and local jeeps sometimes run closer to the village, but road heads shift with every monsoon. Check current status before you travel."},
+    {"mode": "On foot", "text": "From Kande via Australian Camp, Pothana, Bhichok Deurali and Tolka, allow 5–6 h. From Ghandruk, descend to the Modi Khola bridge and climb back up, 3–4 h. From Forest Camp on the Mardi Himal trail it is a 4–5 h descent, and from Jhinu Danda about 4–5 h along the river."},
+    {"mode": "Helicopter", "text": "There is no regular helicopter service, but charters from Pokhara can land near Landruk in 10–15 minutes for evacuations or special requests. Flights only operate in clear morning weather. We arrange these on request; check current status before you travel."}
+  ],
+  "where_to_stay": "Landruk's teahouses line the main trail through the village, and those on the upper terraces have the widest views of Ghandruk and Annapurna South. Rooms are simple twins with shared bathrooms, and dining halls double as common rooms. For more comfort, Ker & Downey's La Bee Lodge stands at about 1,640 m above the village and is the Landruk night on our Annapurna luxury lodge trek. In peak weeks of October and April the best-placed teahouses fill by mid-afternoon, so we reserve ahead for groups.",
+  "stays": ["ker-downey-la-bee-lodge"],
+  "tips": [
+    "Take the Kande to Australian Camp route for your first day, as it gives Annapurna views within an hour of leaving the road.",
+    "Allow a full half day for the crossing to Ghandruk, because the descent to the river and climb back up add up to about 800 m.",
+    "Ask for a room on the north side of your lodge so you wake to Annapurna South through the window.",
+    "Carry leech socks between June and September, as the forest above Landruk is damp and leeches are common.",
+    "Buy local honey only from households your guide knows, since honey sold along trails is sometimes diluted."
+  ],
+  "themes": ["trekking", "family-holidays", "cultural-tours", "luxury-nepal", "budget-nepal"],
+  "nearby": ["ghandruk", "chhomrong", "mardi-himal-base-camp"],
+  "experiences": [
+    {
+      "slug": "landruk-australian-camp-trail-walk",
+      "title": "Kande to Landruk via Australian Camp",
+      "kind": "hiking",
+      "duration": "5–6 hours",
+      "best_time": "Morning start, Oct–Nov and Feb–Apr",
+      "price_hint": "Included in most treks",
+      "image_query": "Australian Camp Annapurna view Nepal",
+      "wiki": "",
+      "summary": "The gentlest way into the Annapurna foothills: a day's walk from the road at Kande up to Australian Camp, along forested ridges through Pothana and Bhichok Deurali, then down to Tolka and Landruk, with Machhapuchhre in view for much of the morning.",
+      "body": [
+        "We leave Pokhara at about 7 am and drive 45 minutes to Kande (1,770 m) on the Baglung highway. The trail climbs through forest and terraces for about an hour to Australian Camp (2,060 m), a grassy ridge named after a group of Australian trekkers who camped here in the 1970s. On clear mornings Annapurna South, Machhapuchhre, Annapurna II and Lamjung Himal line up along the skyline, and Pokhara's Phewa Lake shows to the south.",
+        "From Australian Camp the path continues gently to Pothana (1,990 m), where ACAP staff check permits at a small post, then into oak and rhododendron forest to Bhichok Deurali (2,100 m), the high point of the day. Lunch is usually taken at Pothana or Deurali. This section is mostly level or gently rolling, a good warm-up for legs that have not trekked before, and shaded enough to be pleasant even in April.",
+        "After Deurali the trail drops steeply through forest for about 400 m to Tolka (1,700 m), a small village with a few lodges, then contours for an hour to Landruk. The descent is the hardest part, especially after rain, so walking poles help. You reach Landruk by mid-afternoon with time for tea on the terrace, looking across the gorge to Ghandruk, which most groups visit the following day on the way towards Chhomrong or back to Nayapul."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "groups"],
+      "faqs": [
+        {"q": "How long is the walk from Kande to Landruk?", "a": "Most groups take 5–6 hours including lunch. The route climbs about 330 m from Kande to Bhichok Deurali, then descends about 535 m to Landruk. The first half is gentle; the steep forest descent to Tolka is the main effort. Fit walkers can do it in 4 hours."},
+        {"q": "Why is it called Australian Camp?", "a": "The ridge took its name from Australian trekking groups who camped there in the 1970s, when the area was a grazing meadow with no lodges. Today it has several lodges and campsites. It is also reachable as a short overnight trip from Pokhara for families wanting a quick mountain view."},
+        {"q": "Can children walk from Kande to Landruk?", "a": "Yes, children from about seven years old manage it well, especially if the day is split with a night at Australian Camp or Pothana. The altitude stays below 2,100 m and lodges are close together. Porters can carry bags, leaving children with a light daypack."}
+      ]
+    },
+    {
+      "slug": "landruk-modi-khola-gorge-crossing-to-ghandruk",
+      "title": "Crossing the Modi Khola gorge to Ghandruk",
+      "kind": "hiking",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–Apr",
+      "price_hint": "Included in most treks",
+      "image_query": "Modi Khola suspension bridge Ghandruk",
+      "wiki": "",
+      "summary": "From Landruk the trail drops through terraces to a suspension bridge over the Modi Khola, then climbs stone steps up the far side to Ghandruk. It is short in distance but steep in both directions, with about 300 m down and 650 m up.",
+      "body": [
+        "The path leaves Landruk through terraced fields and small farmsteads, dropping steadily on stone steps and dirt paths. In autumn you walk past rice being cut and threshed by hand, and in spring past freshly ploughed paddies. After about an hour you reach the Modi Khola at roughly 1,300 m, crossed by a long steel suspension bridge strung with prayer flags. The river runs grey with glacial silt from the Annapurna Sanctuary.",
+        "On the Ghandruk side the climb starts immediately. Stone staircases wind up between terraces and small houses, gaining about 650 m in 2–2.5 hours. There are a couple of tea stops on the way, and the view back to Landruk widens as you climb. In warm months start early, because this slope faces south-east and gets full sun by mid-morning. Most groups reach Ghandruk in time for lunch and a visit to the Gurung museum.",
+        "Mules and local porters use the route daily, carrying rice, gas cylinders and building materials. Give them space on narrow sections and always step to the uphill side when a mule train passes. The suspension bridge is sturdy and safe, but it sways when crowded; cross one group at a time. If heights unsettle you, look ahead at the far end rather than down at the water rushing about 30 m below."
+      ],
+      "good_for": ["groups", "solo", "families", "photographers"],
+      "faqs": [
+        {"q": "How long does it take to walk from Landruk to Ghandruk?", "a": "Allow 3–4 hours. The trail descends about 300 m from Landruk to the Modi Khola bridge in roughly an hour, then climbs about 650 m to Ghandruk in 2–2.5 hours. The reverse direction is a little easier, since the long climb becomes a descent."},
+        {"q": "Is the Modi Khola suspension bridge safe?", "a": "Yes. Steel suspension bridges on Annapurna trails are built and maintained to engineering standards and carry mules daily. The bridge does sway, so hold the side cable and cross in small groups. People nervous of heights usually find it easier when they keep their eyes on the far bank."},
+        {"q": "Can I visit Ghandruk as a day trip from Landruk?", "a": "It is possible but tiring: 3–4 hours each way with a big climb in both directions. Most guests prefer to move on to Ghandruk and sleep there. If you want to return to Landruk the same day, leave by 7 am and keep the Ghandruk visit to two hours."}
+      ]
+    },
+    {
+      "slug": "landruk-terrace-farm-walk",
+      "title": "Terrace farm walk with a Landruk family",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Morning or late afternoon, Sep–Nov and Feb–Apr",
+      "price_hint": "≈ NPR 1,000–2,000 per group to the host family",
+      "image_query": "rice terraces Landruk Annapurna foothills",
+      "wiki": "",
+      "summary": "A slow two-hour walk through Landruk's terraces with a local family, seeing how rice, millet, maize and mustard are grown on slopes too steep for machines, and stopping at a farmhouse for tea and a taste of whatever is in season.",
+      "body": [
+        "Landruk's terraces climb in narrow steps from the river towards the forest, each one built and repaired by hand over generations. With your guide and a member of a local family, we walk the raised paths between fields, stopping to see irrigation channels fed from mountain streams, water-driven grain mills and the stone walls that hold the hillside together. The family member explains which crops grow when and how labour is shared between households at planting and harvest.",
+        "What you see depends on the month. In late September and October, rice ripens and is cut, carried in bundles and threshed on stone floors. In winter, millet is stacked to dry and mustard flowers fill the lower terraces. In March and April, buffalo and oxen plough the paddies for the next crop. Bees, chickens and goats move about the houses, and children often attach themselves to the group for part of the walk.",
+        "The walk ends at a farmhouse for milk tea, roasted maize or soybeans and, if you are lucky, a taste of local honey. A contribution of about NPR 1,000–2,000 per group goes to the host family. It is an easy outing with little height change, suitable for children and seniors. Dress modestly, ask before photographing people at work, and keep to field edges so you do not damage crops or knock stones from the terrace walls."
+      ],
+      "good_for": ["families", "seniors", "photographers", "couples"],
+      "faqs": [
+        {"q": "What crops grow around Landruk?", "a": "Rice is the main summer crop on the lower terraces, with millet and maize higher up. In winter, farmers plant mustard, wheat and vegetables. Most families also keep buffalo, goats and chickens, and some keep bees. Crops change with altitude, so the upper fields look different from the lower ones."},
+        {"q": "When is the rice harvest in Landruk?", "a": "Rice is usually harvested from late September to early November, depending on altitude and rainfall. Terraces turn gold in October, and you may see families cutting, carrying and threshing by hand. It is a busy time, so visits are short and respectful of the work."},
+        {"q": "Is the farm walk suitable for young children?", "a": "Yes. The walk follows level terrace edges and short stone steps, with little height change, and lasts about two hours. Children usually enjoy the animals and the farmhouse snack. Keep them on the paths, as terrace edges can drop a metre or more."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Landruk?", "a": "Landruk is a Gurung village at about 1,565 m on the east side of the Modi Khola gorge in Kaski district, opposite Ghandruk and roughly 20 km north-west of Pokhara in a straight line. It is reached on foot from Kande via Australian Camp in 5–6 hours, or from Ghandruk in 3–4 hours."},
+    {"q": "Is Landruk worth visiting?", "a": "Yes, especially if you want a quieter village than Ghandruk. Landruk has fewer road visitors, wide terrace views, a slower farming rhythm and easy links to Ghandruk, Mardi Himal and the Annapurna Base Camp trail. One night is enough for most itineraries."},
+    {"q": "What is the altitude of Landruk?", "a": "The village sits at about 1,565 m, with upper Landruk a little higher and La Bee Lodge around 1,640 m. Altitude sickness is not a concern here. Winter nights are cool at 3–7 °C, and summer days can reach 25 °C in the sun."},
+    {"q": "How do I get to Landruk from Pokhara?", "a": "Drive 45 minutes to Kande, then walk 5–6 hours via Australian Camp, Pothana, Bhichok Deurali and Tolka. Some jeeps now reach closer to the village on dirt roads, but routes and conditions change after each monsoon, so check current status before you travel."},
+    {"q": "Can I start the Mardi Himal trek from Landruk?", "a": "Yes. A steep forest trail climbs from Landruk to Forest Camp at 2,550 m in about 5–6 hours. More often, trekkers use it in the other direction, descending from Forest Camp to Landruk at the end. Our 7-day Mardi Himal trek starts at ₹45,000 or US$530 per person."},
+    {"q": "Do I need a permit for Landruk?", "a": "Yes. Landruk lies inside the Annapurna Conservation Area, so you need the ACAP permit: NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians. It is checked at Pothana or along the trail. Licensed-guide rules apply to foreigners; check current status before you travel."},
+    {"q": "Is Landruk on the Annapurna Base Camp route?", "a": "It can be. From Landruk a riverside trail runs north to New Bridge and Jhinu Danda in about 4–5 hours, where it joins the main ABC trail below Chhomrong. Many ABC itineraries start via Ghandruk instead, but the Landruk route is quieter and avoids the road."},
+    {"q": "What is the best time to visit Landruk?", "a": "October and November give clear skies and golden rice terraces, and February to April brings warm days and rhododendron flowers in the forest above the village. December and January are cool but often very clear. June to August is wet, with leeches on forest trails."},
+    {"q": "Are there good lodges in Landruk?", "a": "Landruk has a row of family teahouses with simple twin rooms along the main trail, plus Ker & Downey's La Bee Lodge above the village for those wanting more comfort. Teahouse rooms cost about NPR 500–1,000 a night, often less if you eat there."}
+  ]
+}

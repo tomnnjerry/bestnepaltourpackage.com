@@ -1,0 +1,132 @@
+{
+  "slug": "chhomrong",
+  "name": "Chhomrong",
+  "region": "annapurna",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Chhomrong village Annapurna South Machhapuchhre",
+  "lat": 28.4170,
+  "lng": 83.8170,
+  "altitude_m": 2170,
+  "tagline": "Last village on the ABC trail, under Annapurna South",
+  "meta_description": "Chhomrong guide: 2,170 m Gurung village, last permanent settlement on the Annapurna Base Camp trek, with Jhinu hot springs below and Annapurna South above.",
+  "summary": "Chhomrong (2,170 m) is the last permanent village on the trail to Annapurna Base Camp, a Gurung settlement terraced down a steep slope beneath Annapurna South and Machhapuchhre. Trekkers pass it twice, once going up and once coming down, and most stop for its lodge bakeries, the ACAP checkpoint and the hot springs at Jhinu Danda below.",
+  "intro": [
+    "Chhomrong is built on a hillside so steep that the village is mostly staircase. Lodges and houses step down from a ridge at about 2,200 m towards the Chhomrong Khola, linked by hundreds of stone steps that every ABC trekker remembers. Above the rooftops Annapurna South (7,219 m) fills the sky to the north-west, Hiunchuli (6,441 m) beside it, while Machhapuchhre (6,993 m) rises to the north-east, its fishtail summit sharp against the morning sky.",
+    "Beyond Chhomrong there are no farming villages, only lodges built for trekkers at Sinuwa, Bamboo, Dovan, Himalaya, Deurali and the two base camps. The village is therefore the trail's last real supply point, with a few small shops selling chocolate, batteries and toiletries, an ACAP checkpoint where permits are registered, and the office of the lodge management committee that fixes menu prices further up the valley. By local custom, lodges above Chhomrong do not serve meat, out of respect for the sanctuary.",
+    "Most itineraries reach Chhomrong on the third or fourth day of the Annapurna Base Camp trek, coming from Ghandruk via Komrong Danda or from the road at Siwai through Jhinu Danda. From here the sanctuary is two to three days' walk, climbing almost 2,000 m to 4,130 m. On the way down, many groups treat themselves to a night at Jhinu Danda, an hour below, for a soak in the riverside hot springs."
+  ],
+  "facts": [
+    ["Altitude", "2,170 m"],
+    ["Best months", "Mar – Apr · Oct – Nov"],
+    ["Nights we suggest", "1 each way"],
+    ["Nearest airport", "Pokhara International Airport, then jeep to Siwai and a day's walk"],
+    ["From Kathmandu", "≈ 25 min flight to Pokhara + 3 h jeep to Siwai + 5–6 h walk"],
+    ["Known for", "Last village before ABC, stone staircase, chocolate cake, Jhinu hot springs"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Annapurna South at close range", "text": "From Chhomrong's upper terraces Annapurna South (7,219 m) looks almost overhead, its ice ridges about 10 km away. Morning is clearest; by noon cloud often wraps the summit. Lodges at the top of the village have the best angle, and some dining halls have windows facing straight at it."},
+    {"title": "The Chhomrong staircase", "text": "From the upper village a stone staircase drops about 300 m to the suspension bridge over the Chhomrong Khola, then climbs again towards Sinuwa. It is the most talked-about stretch of the ABC trail. Going up it on the return, with tired legs, is the real test."},
+    {"title": "Chocolate cake at Chhomrong Cottage", "text": "Chhomrong Cottage, a family teahouse near the top of the village, has served its chocolate cake to trekkers for decades. Coming down from the sanctuary after days of dal bhat and noodles, a slice with lemon tea is a small reward most people look forward to all week."},
+    {"title": "Jhinu Danda hot springs", "text": "Below the village, at about 1,780 m, Jhinu Danda's hot springs are a 15–20 minute walk down from the lodges to pools beside the Modi Khola. The water is pleasantly warm rather than scalding. Most trekkers soak on the way down, easing legs after the descent from 4,130 m."},
+    {"title": "ACAP checkpoint and trail news", "text": "The ACAP checkpoint at Chhomrong records trekkers heading into the sanctuary and is the place to hear current trail news. Rangers and lodge owners post notices on avalanche risk between Deurali and Machhapuchhre Base Camp, closures and lodge availability. Ask here before you continue."},
+    {"title": "Gurung village life", "text": "Below the lodge strip, Chhomrong is a working Gurung village with terraces of millet and potatoes, buffalo sheds and a small school. Families here have run trekking lodges since the 1970s, and many have relatives in the Gurkha regiments or working abroad."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Pokhara to Siwai takes ≈ 3 h by jeep via Nayapul and the Modi Khola valley. In recent years jeep tracks have pushed further up towards New Bridge and the Jhinu area, shortening the walk, but they are rough and often blocked in monsoon. Check current status before you travel."},
+    {"mode": "On foot", "text": "From Siwai (≈ 1,250 m) walk via New Bridge to Jhinu Danda (1,780 m) in 4–5 h, then climb 1–1.5 h to Chhomrong. From Ghandruk, the route over Komrong Danda takes 5–6 h. From Landruk along the east bank of the Modi Khola, allow a full day. Coming down from ABC, Chhomrong is usually reached from Bamboo in 4–5 h."},
+    {"mode": "Helicopter", "text": "Chhomrong has a helipad used mainly for rescues from the sanctuary and for trekkers cutting the return short. A charter from Pokhara takes about 15 minutes. Flights depend on clear morning weather and are arranged through the operator or your agency; check current status before you travel."}
+  ],
+  "where_to_stay": "Chhomrong's lodges are spread along the staircase, so the choice is between upper and lower village. Upper Chhomrong, near the ridge where the trail from Ghandruk arrives, has the best views of Annapurna South and a shorter climb out on the return. Chhomrong Cottage is here, the family teahouse known for its chocolate cake. Lower Chhomrong sits closer to the river and saves steps on the way up to Sinuwa next morning. Rooms are simple twins with shared bathrooms; hot showers run on solar or gas. Many groups stay at Jhinu Danda on the return for the hot springs.",
+  "stays": ["chhomrong-cottage"],
+  "tips": [
+    "Buy any last snacks, toilet paper and batteries in Chhomrong, as prices rise sharply higher up the valley.",
+    "Check the notice board at the ACAP checkpoint for avalanche warnings and trail diversions above Deurali.",
+    "Book Chhomrong for your return night too, since the climb back up from the river is easier after a rest.",
+    "Leave spare kit at your Chhomrong lodge if you will return the same way, so you carry less to the base camp.",
+    "Eat vegetarian from Chhomrong upward, in line with the local custom that keeps meat off menus in the sanctuary."
+  ],
+  "themes": ["trekking", "photography", "budget-nepal", "wellness-yoga"],
+  "nearby": ["annapurna-base-camp", "ghandruk", "landruk"],
+  "experiences": [
+    {
+      "slug": "chhomrong-jhinu-danda-hot-springs",
+      "title": "Soak in the Jhinu Danda hot springs",
+      "kind": "wellness",
+      "duration": "2–3 hours including the walk",
+      "best_time": "Afternoon, on the way down, Oct–May",
+      "price_hint": "Entry ≈ NPR 100–200, check locally",
+      "image_query": "Jhinu Danda hot springs Modi Khola",
+      "wiki": "",
+      "summary": "An hour below Chhomrong, the lodges of Jhinu Danda look down on natural hot springs beside the Modi Khola. A 15–20 minute walk brings you to stone pools of warm water, the most popular reward on the Annapurna Base Camp trek.",
+      "body": [
+        "Jhinu Danda is a small lodge village at about 1,780 m, an hour's descent from Chhomrong on stone steps. From the lodges a path drops steeply through forest for 15–20 minutes to the river, where hot water emerges from the bank and fills a set of concrete and stone pools. The setting is a narrow gorge, with the grey glacial river rushing past a few metres away and forest climbing steeply above.",
+        "The water is comfortably warm, around body temperature or a little higher, which makes a long soak possible. There is a small entry fee, collected for upkeep of the pools and path; the amount varies and has changed over the years, so check current status before you travel. Changing rooms are basic. Bring a swimsuit, a quick-dry towel and sandals. Nudity is not acceptable, and soap and shampoo should not be used in the pools.",
+        "We schedule the hot springs on the way down from the sanctuary, when legs ache after descending more than 2,300 m from Annapurna Base Camp. A soak loosens tired muscles before the final day to Siwai or Ghandruk. Go in the afternoon, then climb back up to Jhinu for dinner before dark. The climb back takes 20–30 minutes and warms you up again quickly. Pools are busiest from 3 to 5 pm in October."
+      ],
+      "good_for": ["couples", "groups", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How far are the Jhinu hot springs from Chhomrong?", "a": "About 1–1.5 hours. Walk down from Chhomrong to Jhinu Danda in roughly an hour, then 15–20 minutes further down a steep path to the pools beside the Modi Khola. Climbing back from the springs to Jhinu takes 20–30 minutes, and on to Chhomrong another 1.5 hours."},
+        {"q": "Is there a fee for the Jhinu hot springs?", "a": "Yes, a small entry fee is collected for maintenance of the pools and the path, usually in the range of NPR 100–200 per person. The amount has changed over time and may differ for foreigners and Nepalis. Carry small notes, and check current status before you travel."},
+        {"q": "Are the Jhinu hot springs open all year?", "a": "The springs flow all year, but in the monsoon months of July and August the Modi Khola can rise high enough to flood or damage the pools. Access paths are also slippery then. From October to May the pools are normally open and in good condition."}
+      ]
+    },
+    {
+      "slug": "chhomrong-bakery-and-chocolate-cake-stop",
+      "title": "Chocolate cake and bakery stop in Chhomrong",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Afternoon, any trekking season",
+      "price_hint": "≈ NPR 400–600 a slice",
+      "image_query": "Chhomrong lodge Annapurna South view",
+      "wiki": "",
+      "summary": "Chhomrong's lodges bake cakes, apple pies and cinnamon rolls in wood or gas ovens, and Chhomrong Cottage's chocolate cake has become part of the ABC trek's folklore. It is the last good bakery stop before the sanctuary and the first one after it.",
+      "body": [
+        "Lodge baking on the Annapurna trails grew out of the 1970s and 1980s, when owners learned recipes from trekkers and the first ACAP hospitality training courses. In Chhomrong it became a speciality. Chhomrong Cottage, run by a local family near the top of the village, built a reputation for chocolate cake that is now mentioned in almost every ABC trip report. Other lodges serve their own apple pie, carrot cake and cinnamon rolls.",
+        "Cakes are baked in small batches, often in the afternoon, using flour, sugar and cocoa carried up by porters. Expect a dense, home-style cake rather than a patisserie slice. Prices are roughly NPR 400–600 a slice and rise slightly every season; check current status before you travel. Pair it with lemon ginger honey tea or a pot of black tea, and sit on the terrace facing Annapurna South while you eat.",
+        "We suggest saving the cake for the return. After three or four days above 3,000 m, appetite comes back on the way down, and the stop marks the end of the high section of the trek. Above Chhomrong menus are fixed by the lodge management committee and get simpler with every hundred metres, so this is also a chance to eat well before the climb if you are heading up rather than down."
+      ],
+      "good_for": ["couples", "families", "solo", "groups"],
+      "faqs": [
+        {"q": "Where is the famous chocolate cake in Chhomrong?", "a": "The best-known chocolate cake on the ABC trail comes from Chhomrong Cottage, a family teahouse near the upper part of the village. Several other Chhomrong lodges also bake cakes and pies. Ask your guide to stop there on the way up or down, or simply follow the signs."},
+        {"q": "How much does food cost in Chhomrong?", "a": "Dal bhat in Chhomrong costs about NPR 750–900, noodle dishes NPR 600–800 and tea NPR 100–200 a cup. Cakes and pies are about NPR 400–600 a slice. Prices are agreed by the lodge management committee and rise as you go further into the sanctuary."},
+        {"q": "Can I get meat in Chhomrong?", "a": "Some lodges in Chhomrong itself serve chicken or other meat, but by local custom lodges above the village do not serve meat out of respect for the sanctuary and its deities. Most trekkers switch to vegetarian meals from Chhomrong upwards, which is also safer for hygiene at altitude."}
+      ]
+    },
+    {
+      "slug": "chhomrong-staircase-to-sinuwa",
+      "title": "Down the Chhomrong staircase to Sinuwa",
+      "kind": "hiking",
+      "duration": "2–2.5 hours",
+      "best_time": "Early morning, Mar–May and Sep–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Chhomrong stone steps Annapurna trail",
+      "wiki": "",
+      "summary": "Leaving Chhomrong for the sanctuary means descending a long stone staircase to the Chhomrong Khola and climbing straight up the other side to Sinuwa at 2,340 m. It is short in distance but tough on knees and lungs, and the gateway to the upper Modi valley.",
+      "body": [
+        "The day starts at the top of Chhomrong with views of Annapurna South and Machhapuchhre. Almost immediately the trail drops down the village staircase, past lodges, houses and terraced gardens, losing about 300 m to the suspension bridge over the Chhomrong Khola at roughly 1,860 m. Walking poles take much of the strain off knees here, and starting early means the steps are in shade and free of the porter traffic that builds after 8 am.",
+        "Across the bridge the climb begins. Stone steps and earth paths climb about 480 m through terraces and then forest to Lower Sinuwa and Upper Sinuwa (2,340 m), taking 1–1.5 hours for most people. From Sinuwa the trail turns into the gorge of the Modi Khola, and the landscape changes: no more villages, just bamboo, oak and rhododendron forest, waterfalls and a few lodges spaced a couple of hours apart.",
+        "On the return the same section works in reverse, and the final climb back up the Chhomrong staircase from the river, about 300 m, is the moment most trekkers remember with feeling. We plan it early in the day or split it with a night at Sinuwa. Almost everything in the sanctuary lodges, from rice to gas cylinders, comes up this staircase on porters' backs, which explains the menu prices higher up."
+      ],
+      "good_for": ["groups", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How many steps are there in Chhomrong?", "a": "Nobody has an agreed count, but trekkers often quote figures in the thousands for the staircase between upper Chhomrong, the Chhomrong Khola bridge and Sinuwa. The descent to the river is about 300 m and the climb to Sinuwa about 480 m. Allow 2–2.5 hours for the whole section."},
+        {"q": "Is the Chhomrong staircase difficult?", "a": "It is steep but not technical. The difficulty is the steady height change, which tests knees going down and lungs going up. Walking poles, an early start and a slow, steady rhythm make it manageable for anyone fit enough for the ABC trek. Porters carry the main bags."},
+        {"q": "How long from Chhomrong to Annapurna Base Camp?", "a": "Most trekkers take two to three days from Chhomrong to Annapurna Base Camp: to Bamboo or Dovan on day one, Deurali on day two and the base camp on day three. The route climbs almost 2,000 m, so a steady pace helps the body adjust to altitude."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Chhomrong?", "a": "Chhomrong sits at about 2,170 m, with the village spread from roughly 2,000 m near the river to around 2,200 m at the ridge. It is the last permanent settlement before Annapurna Base Camp at 4,130 m. Altitude sickness is rare here, but the climb beyond it is significant."},
+    {"q": "How do I reach Chhomrong from Pokhara?", "a": "Drive about 3 hours from Pokhara to Siwai, then walk 4–5 hours via New Bridge to Jhinu Danda and 1–1.5 hours up to Chhomrong. Alternatively, drive to Ghandruk and walk 5–6 hours over Komrong Danda. Jeep tracks change each year; check current status before you travel."},
+    {"q": "Is Chhomrong on the Annapurna Base Camp trek?", "a": "Yes. Every standard ABC route passes through Chhomrong, usually on day three or four going up and again on the way down. Our 11-day Annapurna Base Camp trek starts at ₹78,000 or US$910 per person, including permits, a licensed guide and teahouse lodges."},
+    {"q": "Is there an ACAP checkpoint in Chhomrong?", "a": "Yes. The ACAP checkpoint in Chhomrong records every trekker heading into the Annapurna Sanctuary, so keep your permit handy. The ACAP permit costs NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians. Rules on guides and TIMS change; check current status before you travel."},
+    {"q": "Is there wifi and electricity in Chhomrong?", "a": "Yes. Chhomrong has grid and micro-hydro power, and most lodges offer wifi, sometimes free with meals or for about NPR 200–500. Mobile data works in much of the village. Above Sinuwa, signal becomes patchy, and charging costs rise to NPR 300–500 per device."},
+    {"q": "Why is there no meat above Chhomrong?", "a": "By local custom, lodges above Chhomrong do not serve meat, out of respect for the Annapurna Sanctuary and its mountain deities, including Machhapuchhre. Eggs and dairy are available. The custom also suits trekkers, since meat carried for days without refrigeration is a common cause of stomach problems."},
+    {"q": "How far is Jhinu Danda from Chhomrong?", "a": "Jhinu Danda is about 1 hour downhill from Chhomrong, or 1.5–2 hours uphill in the other direction. It sits at 1,780 m, and its hot springs are a further 15–20 minutes down by the Modi Khola. Many groups stay at Jhinu on the return for the springs."},
+    {"q": "What is the best time to trek to Chhomrong?", "a": "October and November give the clearest mountain views, and March to April brings rhododendron forest in flower and warmer days. December to February is cold and clear but snow can block the trail above Deurali. June to August is wet, with leeches and cloud."},
+    {"q": "Can I leave luggage in Chhomrong?", "a": "Yes. Most lodges let trekkers store spare clothes or gear while they go up to the sanctuary and return the same way, usually free if you stay on both nights. Lock the bag, keep valuables with you and agree the arrangement with the lodge owner before leaving."}
+  ]
+}

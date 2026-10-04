@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "pokhara-to-jomsom",
+    "from": "pokhara",
+    "to": "jomsom",
+    "distance_km": 160,
+    "summary": "Pokhara to Jomsom is about 160 km by road (7–9 hours by jeep or bus) or a 20-minute morning flight up the Kali Gandaki gorge. Flights are quick but often delayed by wind; the road is cheap and reliable outside the monsoon but rough beyond Beni.",
+    "options": [
+      {"mode": "Flight", "time": "20 min", "text": "Tara Air and Summit Air operate several flights between about 6:30 and 9:30 am in small twin-engine planes, threading the gorge between Dhaulagiri and Annapurna. Fares are around NPR 11,000 one way for Indian nationals and US$ 160–200 for other foreigners. Baggage is limited to about 10–15 kg. Wind and cloud cause frequent delays and cancellations, so keep a spare day. Check current fares and schedules before you travel."},
+      {"mode": "Jeep", "time": "7–9 h", "text": "Private 4WD jeeps take the Pokhara–Baglung–Beni highway, paved to Beni, then the rough road up the Kali Gandaki via Tatopani, Ghasa, Kalopani and Marpha. A private jeep costs around NPR 25,000–35,000 one way; seats on sharing jeeps are cheaper. Many travellers split the trip with a night at Tatopani's hot springs. Landslides can block the road in July and August."},
+      {"mode": "Bus", "time": "9–11 h", "text": "Public buses leave Pokhara early in the morning for Beni, where you often change to a local bus or jeep for Jomsom. It is the cheapest option, but buses are crowded, slow and bumpy, with limited luggage space. Suitable for budget travellers and trekkers with time; not recommended for seniors or young children."},
+      {"mode": "Helicopter", "time": "25 min", "text": "Charter helicopters fly Pokhara–Jomsom in about 25 minutes and can operate on mornings when fixed-wing flights are held, though they also need clear weather. A charter for up to five costs roughly US$ 1,800–2,400 one way. Often used as a fallback after repeated flight cancellations or combined with Muktinath darshan."}
+    ],
+    "stops_on_way": ["Beni", "Tatopani hot springs", "Rupse waterfall", "Ghasa", "Kalopani", "Tukuche", "Marpha"],
+    "tip": "Book the first flight of the morning and keep your Pokhara hotel booking flexible for one extra night in case the plane does not go.",
+    "faqs": [
+      {"q": "How long is the flight from Pokhara to Jomsom?", "a": "About 20 minutes. The flight follows the Kali Gandaki gorge between Dhaulagiri and Annapurna, among the most scenic short flights in the Himalaya. Flights operate only in the early morning because a strong wind rises in the valley after about 10–11 am. Delays of a few hours or a day are common."},
+      {"q": "Pokhara to Jomsom flight price for Indians", "a": "Indian nationals pay a SAARC fare, around NPR 11,000 (about ₹7,000) one way, while other foreigners pay about US$ 160–200. Nepali citizens pay less. Fares change with fuel prices and season. Book through an agency or the airline, carrying your passport or voter ID. Check current fares before you travel."},
+      {"q": "Is the Pokhara to Jomsom road safe?", "a": "In spring and autumn it is used daily by jeeps and buses and is reasonably safe with an experienced local driver. Sections beyond Beni are narrow, unpaved and exposed in places. In the monsoon, landslides and swollen rivers can block it for hours or days. We avoid driving it at night."},
+      {"q": "Should I fly or drive to Jomsom?", "a": "Fly if you are short of time or travelling with seniors; drive if you want certainty, a lower cost and to see the gorge change from subtropical to alpine. Many travellers fly one way and drive the other, so a cancelled flight on the return does not spoil the trip."}
+    ]
+  },
+  {
+    "slug": "jomsom-to-muktinath",
+    "from": "jomsom",
+    "to": "muktinath",
+    "distance_km": 22,
+    "summary": "Jomsom to Muktinath is about 22 km by road, 1–1.5 hours by jeep, climbing almost 1,000 m from 2,720 m to 3,710 m via Eklebhatti and Jharkot. Trekkers walk it in 6–7 hours through Kagbeni or Lubra. Most pilgrims visit as a day trip and sleep in Jomsom.",
+    "options": [
+      {"mode": "Jeep", "time": "1–1.5 h", "text": "Private jeeps run from Jomsom up the riverbed to Eklebhatti, then climb the paved road via Khingar and Jharkot to Ranipauwa, below the temple. A private return jeep costs about NPR 7,000–9,000, with waiting time included. Combining Muktinath and Kagbeni in one day costs a little more. Leave by 7–8 am to finish before the afternoon wind."},
+      {"mode": "Bus or sharing jeep", "time": "1.5 h", "text": "Local buses and sharing jeeps leave from Jomsom bazaar several times a morning, costing a few hundred rupees per seat. They wait to fill up and stop along the way. Good for budget travellers; families with seniors usually prefer a private jeep, which can stop at Kagbeni and Jharkot."},
+      {"mode": "On foot", "text": "Trekkers walk up the Kali Gandaki to Kagbeni (3–3.5 h) and then climb via Khingar and Jharkot to Muktinath (3–4 h), gaining almost 1,000 m. The quieter alternative goes through the Bon village of Lubra in a side valley. Most people split it over two days with a night in Kagbeni.", "time": "6–7 h"},
+      {"mode": "Motorbike or horse", "time": "1 h or 4–5 h", "text": "Motorbikes can be hired in Jomsom for experienced riders comfortable on gravel and wind. Horses are available for the steep final section from Ranipauwa to the temple and, with notice, for longer rides from Kagbeni or Jharkot. Ask your guide to arrange both through trusted local operators."}
+    ],
+    "stops_on_way": ["Eklebhatti", "Kagbeni (detour)", "Khingar", "Jharkot", "Ranipauwa"],
+    "tip": "Drive up early, visit the temple first and stop at Kagbeni on the way down, when the riverbed road has the wind behind you.",
+    "faqs": [
+      {"q": "How far is Muktinath from Jomsom?", "a": "About 22 km by road, taking 1–1.5 hours by jeep. The road gains nearly 1,000 m, from 2,720 m at Jomsom to about 3,700 m at Ranipauwa, followed by a 15–20 minute walk to the temple at 3,710 m. On foot, the route takes 6–7 hours, usually split with a night in Kagbeni."},
+      {"q": "What is the jeep fare from Jomsom to Muktinath?", "a": "A private jeep for the return trip, with waiting time, costs about NPR 7,000–9,000. Adding Kagbeni costs a little more. Sharing jeeps and buses charge a few hundred rupees per seat each way. Fares are set by local transport committees and change; check current status before you travel."},
+      {"q": "Can I do Muktinath as a day trip from Jomsom?", "a": "Yes, and we recommend it for most pilgrims. Leave Jomsom by 7–8 am, spend 1–2 hours at the temple, stop at Kagbeni on the way back and return by mid-afternoon. Sleeping in Jomsom, almost 1,000 m lower, reduces the risk of altitude sickness."},
+      {"q": "Is there a road all the way to Muktinath temple?", "a": "The road ends at Ranipauwa, the village just below the temple. From the gate, a paved path and steps climb about 90 m to the temple in 15–20 minutes. Horses, porters and, in some seasons, electric scooters help those who cannot walk the final stretch."}
+    ]
+  },
+  {
+    "slug": "jomsom-to-lo-manthang",
+    "from": "jomsom",
+    "to": "lo-manthang",
+    "distance_km": 80,
+    "summary": "Jomsom to Lo Manthang is about 80 km by road, 6–8 hours by 4WD via Kagbeni, Chhusang, Ghami and Tsarang, climbing to 3,840 m. Trekkers take 5–6 days from Kagbeni, and helicopters fly it in about 25–30 minutes. All routes need the Upper Mustang restricted area permit.",
+    "options": [
+      {"mode": "Jeep", "time": "6–8 h", "text": "4WD jeeps follow the Upper Mustang road through Kagbeni, Chhusang, Chele, Samar and Ghami, crossing near the Nyi La at about 4,010 m, then Tsarang and the Lo La. A private jeep costs about NPR 40,000–55,000 one way. Most tours break the drive with a night in Ghami or Tsarang to help acclimatisation. River crossings rise in summer afternoons."},
+      {"mode": "On foot", "time": "5–6 days", "text": "The classic Upper Mustang trek walks from Kagbeni via Chele, Syangboche, Ghami and Tsarang, 4–7 hours a day over passes up to about 4,010 m, using older trails away from the road where possible. Teahouse lodges are available every night. A licensed guide and at least two trekkers are required."},
+      {"mode": "Helicopter", "time": "25–30 min", "text": "Charter helicopters fly Jomsom–Lo Manthang in about 25–30 minutes, landing outside the walls. Day tours from Pokhara allow 1.5–2 hours on the ground. Flying straight to 3,840 m without acclimatisation suits short visits, not overnight stays, for most people. The Upper Mustang permit is still required."},
+      {"mode": "Horse", "time": "4–5 days", "text": "Horses can be hired for all or part of the trek with a horseman, a traditional way to travel in Lo. Many trekkers use a horse for a day or two when tired. Costs depend on season and distance; your guide arranges reliable local handlers."}
+    ],
+    "stops_on_way": ["Kagbeni", "Chhusang", "Chele", "Samar", "Syangboche", "Ghami", "Tsarang"],
+    "tip": "Break the jeep journey with a night in Ghami or Tsarang; arriving in Lo Manthang in one day means a climb of more than 1,100 m.",
+    "faqs": [
+      {"q": "How long does it take from Jomsom to Lo Manthang?", "a": "By jeep, 6–8 hours for about 80 km, depending on road and river conditions; most tours split it over two days. On foot, 5–6 days from Kagbeni. By helicopter, about 25–30 minutes. Wind and summer meltwater can slow vehicles in the afternoon."},
+      {"q": "How much is a jeep from Jomsom to Lo Manthang?", "a": "A private 4WD jeep costs roughly NPR 40,000–55,000 one way, or more for multi-day hire with sightseeing and waiting. Sharing jeeps run in season at lower per-seat prices but are less predictable. Prices are set locally and change; check current status before you travel."},
+      {"q": "Do I need a permit to drive to Lo Manthang?", "a": "Yes. North of Kagbeni you enter the Upper Mustang restricted area, so foreigners, including Indian nationals, need the restricted area permit (US$ 50 per person per day since late 2025), the ACAP permit and a licensed guide through a registered agency. Check current status before you travel."},
+      {"q": "Is the road to Lo Manthang paved?", "a": "No. It is a graded dirt and gravel road with steep sections, river crossings and dust, passable by 4WD jeeps and motorbikes in season. Snow can block it in winter, and summer meltwater raises river crossings in the afternoons. Experienced local drivers are essential."}
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ e.title }}, {{ p.name }}{% endblock %}
+{% block meta_description %}{{ e.summary|truncatechars:158 }}{% endblock %}
+{% block og_image %}{% with i=e|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}data-land="{{ r.slug }}"{% endblock %}
+{% block main %}
+<header class="phead">
+  <div class="phead__bg">{% photo e|first_img e.title "" "100vw" True True %}</div>
+  <div class="wrap"><div class="phead__in">
+    <p class="kicker"><a href="{{ p.url }}">{% icon e.kind %}{{ p.name }}</a> · {{ e.kind_name }}</p>
+    <h1>{{ e.title }}</h1>
+    <p class="phead__lede">{{ e.summary }}</p>
+    <ul class="phead__facts">{% if e.duration %}<li>{% icon "clock" %}{{ e.duration }}</li>{% endif %}{% if e.best_time %}<li>{% icon "calendar" %}{{ e.best_time }}</li>{% endif %}{% if e.price_hint %}<li>{% icon "coin" %}{{ e.price_hint }}</li>{% endif %}</ul>
+  </div></div><div class="ridge--bottom" aria-hidden="true"></div>
+</header>
+<div class="wrap sec--tight"><div class="split"><article class="prose">
+  {% for para in e.body %}<p>{{ para }}</p>{% endfor %}
+  {% if e.good_for %}<h2 class="h3">Good for</h2><ul class="chips">{% for g in e.good_for %}<li><span class="chip">{% icon "users" %}{{ g|capfirst }}</span></li>{% endfor %}</ul>{% endif %}
+  {% include "tours/partials/faqs.html" with faqs=e.faqs %}
+</article><aside class="aside">
+  {% include "tours/partials/quick_form.html" with heading="Add this to a trip" region=r.slug where="experience-aside" %}
+  {% if siblings %}<div class="panel"><h2 class="h3">Also in {{ p.name }}</h2><ul class="mlinks">{% for s in siblings %}<li><a href="{{ s.url }}">{% icon s.kind %}{{ s.title }}</a></li>{% endfor %}</ul><a class="mlinks__more" href="{{ p.url }}">{{ p.name }} guide{% icon "arrow" %}</a></div>{% endif %}
+</aside></div></div>
+{% if p.package_objs %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">Packages that include {{ p.name }}</h2></div><div class="passes" data-stagger>{% for k in p.package_objs|slice:":3" %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if more %}<section class="sec"><div class="wrap"><div class="sec__head"><h2 class="h2">More {{ e.kind_name|lower }} in {{ r.short|default:r.name }}</h2></div><div class="grid grid--3">{% for e in more %}{% include "tours/partials/exp_card.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}

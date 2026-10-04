@@ -1,0 +1,131 @@
+{
+  "slug": "darchen",
+  "name": "Darchen",
+  "region": "kailash",
+  "kind": "pilgrimage site",
+  "wiki": "Darchen",
+  "image_query": "Darchen town Mount Kailash south face",
+  "lat": 30.958,
+  "lng": 81.287,
+  "altitude_m": 4575,
+  "tagline": "Base town of the Kailash parikrama, at the foot of the south face",
+  "meta_description": "Darchen (≈ 4,575 m), base of the Kailash parikrama: guesthouses, pony and porter hire, Ashtapad darshan, Gyangdrak walk and what to expect before the kora.",
+  "summary": "Darchen is the small town at about 4,575 m where the Kailash parikrama starts and ends. Pilgrims stay one night before the kora and often one after, hire ponies and porters, collect permits and take short trips to Ashtapad or Gyangdrak. Facilities are simple, with guesthouses and small hotels.",
+  "intro": [
+    "Darchen lies on the plain directly below the south face of Mount Kailash, about 35 km north of Lake Manasarovar. Once a cluster of tents and a few stone houses, it is now a planned town of concrete guesthouses, shops and restaurants laid out in grids, with the mountain filling the view to the north. Officially it is Kangsa village, the seat of Parga township in Purang county.",
+    "Almost every Kailash yatra sleeps here before the parikrama. The day in Darchen is for rest, prayers, packing a small bag for the kora and arranging ponies and porters, which are allocated through a local cooperative. Pilgrims who are not walking the parikrama often stay in Darchen for the two nights while the group is on the trail, and take a short darshan trip to Ashtapad for close views of the south face.",
+    "At about 4,575 m, Darchen is high enough that sleep is often broken and appetite low. The town has a basic clinic, but serious cases are taken to Purang or beyond. Rules for entry to the kora, eco-bus use and pony hire are set locally each season, and permit checks are frequent. Check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 4,575 m"],
+    ["Best months", "May – Jun · Sep"],
+    ["Nights we suggest", "1–2 (plus 2 for non-walkers)"],
+    ["Nearest airport", "Ngari Gunsa (≈ 250 km) or Simikot (Nepal)"],
+    ["From Kathmandu", "≈ 5 days overland or 3–4 days via Simikot"],
+    ["Known for", "Parikrama start, pony hire, Ashtapad darshan"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "South face from the town", "text": "From the streets of Darchen you look straight up at the south face of Kailash, with its vertical gully and horizontal bands of rock. At sunrise the snow turns pink-gold, and many pilgrims begin the day with prayers on a guesthouse roof."},
+    {"title": "Ashtapad darshan", "text": "A short eco-bus or vehicle trip north-west of town brings pilgrims to Ashtapad, revered by Jains, with a close view of the south face and of Nandi Parvat. It suits pilgrims who will not walk the full parikrama."},
+    {"title": "Gyangdrak Monastery walk", "text": "A Drigung Kagyu monastery in a side valley north of Darchen, reached by a rough track and a walk. It makes a good acclimatisation outing with views back over the Barkha plain and Rakshastal."},
+    {"title": "Preparing for the kora", "text": "Darchen is where you meet your horseman and porter, repack into a small bag and buy last snacks. Shops sell walking poles, gloves, raincoats, dry fruit and oxygen cans at a mark-up."},
+    {"title": "Tarboche and Yam Dwar", "text": "A few kilometres west of town stand the Tarboche flagpole and the Yam Dwar gate, where the parikrama begins. During Saga Dawa in May or June, thousands gather here to see the pole raised."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Darchen is about 35 km (≈ 45 min) from Chiu on Lake Manasarovar and about 100 km (2–3 h) from Purang. From Saga on the overland route it is about 520 km, normally broken with a night at the lake."},
+    {"mode": "Helicopter", "text": "Heli-route pilgrims fly Simikot–Hilsa (≈ 20–30 min), cross the border, then drive via Purang. There is no helicopter service into Darchen for tourists."},
+    {"mode": "Air", "text": "Ngari Gunsa airport near Ali has flights to Lhasa and Chinese cities; it is about 250 km (≈ 4–5 h) by road from Darchen and used mainly on itineraries organised from Lhasa."}
+  ],
+  "where_to_stay": "Darchen has many simple guesthouses and a few small hotels with private rooms, attached bathrooms and intermittent hot water; standards and names change from year to year as the town rebuilds. Rooms are heated in some buildings, not all. There are no branded or star-rated international hotels, so we do not list a specific property here. Our Tibetan partner books the best available rooms for each group, usually twin sharing. Electricity is reliable most evenings, and the larger hotels have Wi-Fi, though many foreign apps are blocked.",
+  "stays": [],
+  "tips": [
+    "Ask your guide to book ponies and porters the day you arrive; numbers are limited and allocated by the cooperative.",
+    "Pack a 25–30 litre daypack for the parikrama with warm layers, rain jacket, snacks and medicines.",
+    "Leave your main bag at the hotel or in the support vehicle; it will meet you after the kora.",
+    "Pilgrims staying behind should rest and keep warm rather than walking far at 4,575 m.",
+    "Keep your passport on you; permits are checked at Darchen and again at the kora gate."
+  ],
+  "themes": ["kailash-yatra", "pilgrimage", "trekking"],
+  "nearby": ["mount-kailash", "lake-manasarovar", "purang"],
+  "experiences": [
+    {
+      "slug": "darchen-ashtapad-darshan",
+      "title": "Ashtapad and Nandi Parvat darshan",
+      "kind": "spiritual",
+      "duration": "3–4 hours",
+      "best_time": "Morning, May–Sep",
+      "price_hint": "≈ ₹4,000–6,000 per person incl. eco-bus",
+      "image_query": "Kailash south face Ashtapad",
+      "wiki": "",
+      "summary": "A half-day trip from Darchen to Ashtapad, a site sacred to Jains, for close views of Kailash's south face and Nandi Parvat. It is popular with Indian pilgrims, especially those not walking the parikrama.",
+      "body": [
+        "In Jain tradition, Ashtapad is where the first Tirthankara, Rishabhadeva, attained nirvana, and the name is applied to the area below Kailash's south face. From Darchen, a vehicle or eco-bus takes pilgrims up a valley north-west of town to a road-end, from where a short walk leads to viewpoints. The eco-bus and ticket arrangements are set locally and change; check current status before you travel.",
+        "Here the south face of Kailash rises steeply only a few kilometres away, and to its side stands Nandi Parvat, the rock that Hindus identify with Shiva's bull. Pilgrims offer prayers, light incense and sit in silence. Some walk a little higher towards the moraines; at about 5,000 m, any extra climb is hard work.",
+        "The trip takes 3–4 hours including travel and returns to Darchen for lunch. It is ideal on the arrival day or for pilgrims who wait in Darchen during the parikrama. Wear warm clothes and sun protection, carry water and walk very slowly on any uphill."
+      ],
+      "good_for": ["pilgrims", "seniors", "families"],
+      "faqs": [
+        {"q": "What is Ashtapad at Kailash?", "a": "Ashtapad is the area below the south face of Kailash that Jains revere as the place where Rishabhadeva, the first Tirthankara, attained liberation. Hindu pilgrims visit too for the close darshan of Kailash and Nandi Parvat. It is reached from Darchen by vehicle and a short walk."},
+        {"q": "Can seniors do the Ashtapad trip?", "a": "Yes, it is one of the gentlest ways to get close to Kailash. Most of the distance is by vehicle, with a short walk at around 5,000 m. Seniors should walk only as far as is comfortable and avoid climbing higher. It suits pilgrims who stay in Darchen during the parikrama."},
+        {"q": "Is Ashtapad included in Kailash yatra packages?", "a": "Some packages include it and some offer it as an add-on, as access arrangements and fees are set locally each season. In our yatras it is an optional extra on the Darchen day or for non-walkers. Ask us when booking and we will confirm what is possible that year."}
+      ]
+    },
+    {
+      "slug": "darchen-gyangdrak-monastery-walk",
+      "title": "Gyangdrak Monastery acclimatisation walk",
+      "kind": "hiking",
+      "duration": "3–4 hours",
+      "best_time": "Morning, May–Sep",
+      "price_hint": "Ask us; included on some itineraries",
+      "image_query": "Gyangdrak monastery Kailash valley",
+      "wiki": "",
+      "summary": "A short drive and walk to Gyangdrak, a small Drigung Kagyu monastery in a side valley north of Darchen, gaining about 200–300 m. It is a good way to test your breathing before the parikrama.",
+      "body": [
+        "Gyangdrak sits in a valley that cuts into the Kailash massif north of Darchen, perched on a spur among rock walls. It belongs to the Drigung Kagyu order, which has long had a presence on the kora. Groups usually drive part of the way on a rough track and walk the last stretch, climbing slowly to the monastery.",
+        "Inside are a small assembly hall and chapels, often looked after by a few monks. From the terrace you look south across the Barkha plain to Rakshastal and Gurla Mandhata. The walk itself is the point: an hour or two of steady, gentle climbing at around 4,800 m, which tells you and your guide how you are coping.",
+        "If you feel strong, the next day's parikrama should go well. If you struggle, it is better to know now and plan to ride a pony. Carry water, snacks and a warm layer, and return to Darchen for lunch and rest."
+      ],
+      "good_for": ["pilgrims", "solo", "photographers"],
+      "faqs": [
+        {"q": "Is a walk at Darchen necessary before Kailash parikrama?", "a": "It is not compulsory, but a short walk gaining 200–300 m helps acclimatisation and shows how your body copes before the long days. Doctors and guides recommend climbing a little by day and sleeping lower. If you feel unwell, rest instead and tell your guide."},
+        {"q": "How high is Gyangdrak Monastery?", "a": "Gyangdrak lies a few hundred metres above Darchen, at roughly 4,800 m. Figures vary between sources, so treat that as approximate. The walk from the road end takes about an hour each way at a slow pace."},
+        {"q": "Can I visit Kailash monasteries without doing the parikrama?", "a": "Yes. Gyangdrak and the Ashtapad area are reached from Darchen in a few hours, and Chiu Gompa sits on Lake Manasarovar. Monasteries on the parikrama itself, such as Dirapuk and Zuthulpuk, require walking at least part of the kora."}
+      ]
+    },
+    {
+      "slug": "darchen-tarboche-yam-dwar-visit",
+      "title": "Tarboche flagpole and Yam Dwar gate",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Morning; Saga Dawa full moon in May–Jun",
+      "price_hint": "Included on the parikrama start",
+      "image_query": "Tarboche flagpole Kailash prayer flags",
+      "wiki": "",
+      "summary": "The Tarboche flagpole and Yam Dwar gate, a few kilometres west of Darchen, mark the start of the parikrama. The pole, hung with thousands of prayer flags, is lowered and raised again each Saga Dawa.",
+      "body": [
+        "Tarboche stands on a flat area at the mouth of the Lha Chu valley, at about 4,675 m. The tall pole is wrapped in prayer flags that radiate out to the ground in a great tent of colour. Nearby is a stupa with an opening at its base, known to Indian pilgrims as Yam Dwar, the gate of Yama, the god of death. Passing through it is said to free the pilgrim from fear of death.",
+        "Every year on the full moon of the fourth Tibetan month, Saga Dawa, the old pole is lowered, the flags replaced and the pole raised again before crowds of pilgrims. Tibetans watch whether it stands perfectly upright, which is read as a good omen for the year. Visitors on the Saga Dawa departure see the ceremony; others see the pole on day one of the kora.",
+        "Most groups pass Tarboche by eco-bus on the morning they start walking. If you are not doing the kora, ask your guide to stop here on the Ashtapad trip. Walk clockwise around the pole and stupa, and leave khata or flags if you wish."
+      ],
+      "good_for": ["pilgrims", "photographers", "groups"],
+      "faqs": [
+        {"q": "What is Yam Dwar at Kailash?", "a": "Yam Dwar, the gate of Yama, is the name Indian pilgrims give to the small stupa with a passage near the Tarboche flagpole, where the Kailash parikrama begins. Pilgrims walk through it before turning north into the Lha Chu valley. It is about 7 km west of Darchen and usually reached by eco-bus."},
+        {"q": "When is the Tarboche flagpole raised?", "a": "The pole is lowered and raised again each year on Saga Dawa, the full moon of the fourth Tibetan lunar month, which usually falls in late May or June. The exact date changes yearly, so check current status before you travel. Our Saga Dawa departure is timed for the ceremony."},
+        {"q": "Can I visit Tarboche without doing the parikrama?", "a": "Yes. Tarboche and Yam Dwar are on the road a short distance from Darchen, so pilgrims staying behind can visit with their guide. Access is usually by eco-bus. Permits for the area are covered by your Tibet travel documents."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Darchen?", "a": "Darchen is at about 4,575 m (around 15,000 ft); sources quote figures between 4,560 and 4,670 m. It is slightly higher than Lake Manasarovar. One or two nights here before the parikrama, after nights at the lake, help the body adapt for the climb to Dolma La."},
+    {"q": "Where do I stay in Darchen?", "a": "In guesthouses or small hotels with private rooms, usually twin sharing with attached bathrooms and occasional hot water. The town has rebuilt rapidly and names change often. There are no international chains. Our Tibetan partner books the best available rooms, and we carry sleeping bags for colder buildings."},
+    {"q": "How do I hire a pony or porter in Darchen?", "a": "Ponies and porters are hired through a local cooperative, often by lottery, the day before the parikrama starts. Your guide books them on your behalf. A pony comes with a horseman who leads it. Prices are set locally each season, so check current rates before you travel and carry yuan."},
+    {"q": "What do pilgrims who skip the parikrama do in Darchen?", "a": "They stay in Darchen for two nights while the group walks, with an optional Ashtapad darshan, visits to Tarboche, prayers and rest. Some go back to Chiu at Lake Manasarovar. A staff member stays with them, and the group reunites in Darchen after the kora."},
+    {"q": "Is there a hospital in Darchen?", "a": "Darchen has only a small clinic offering basic care and oxygen. Serious cases are moved to Purang or further, which takes hours. That is why we carry oxygen, a pulse oximeter and a first-aid kit with every group, and why travel insurance covering high-altitude evacuation is essential."},
+    {"q": "Can I buy supplies in Darchen?", "a": "Yes. Shops sell bottled water, instant noodles, biscuits, dry fruit, raincoats, gloves, walking poles and oxygen cans. Choice is narrower and prices higher than in Kyirong or Kathmandu, so bring medicines and specialist items with you. Shops accept Chinese yuan only."},
+    {"q": "Is there Wi-Fi and mobile network in Darchen?", "a": "Most hotels have Wi-Fi and Chinese networks cover the town, but foreign apps such as WhatsApp and Google are blocked in China. Indian SIMs rarely work. Plan to tell family that you will be in limited contact during the Tibet section of the yatra."},
+    {"q": "How cold is Darchen?", "a": "In June days are around 10–17 °C in sun and nights near or below freezing. In September nights reach −5 °C. Wind is strong most afternoons. Pack thermals, a down jacket, warm hat and gloves, and bring a sleeping bag even if the hotel provides quilts."},
+    {"q": "How far is Darchen from Lake Manasarovar?", "a": "About 35 km from Chiu on the north-west shore of Lake Manasarovar, roughly 45 minutes by road. Most groups drive from the lake to Darchen on the morning before the parikrama, leaving the afternoon free for rest and pony arrangements."}
+  ]
+}

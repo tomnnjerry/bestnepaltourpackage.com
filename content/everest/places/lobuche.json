@@ -1,0 +1,131 @@
+{
+  "slug": "lobuche",
+  "name": "Lobuche",
+  "region": "everest",
+  "kind": "trekking village",
+  "wiki": "Lobuche",
+  "image_query": "Lobuche village Nuptse sunset",
+  "lat": 27.9483,
+  "lng": 86.8103,
+  "altitude_m": 4940,
+  "tagline": "Last lodge stop below Gorak Shep, beside the Khumbu Glacier moraine",
+  "meta_description": "Lobuche (4,940 m): lodges beside the Khumbu Glacier, the last full night before Gorak Shep and Everest Base Camp, base for Lobuche East and the Cho La.",
+  "summary": "Lobuche is a cluster of lodges at 4,940 m beside the lateral moraine of the Khumbu Glacier, about 5 hours above Dingboche. It is the last proper night before Gorak Shep and Everest Base Camp, the base for Lobuche East climbs and the junction for the Cho La and Kongma La passes.",
+  "intro": [
+    "Lobuche is not a village in the traditional sense. It began as a yak herders' summer camp and is now a strip of about a dozen lodges on a small grassy flat between the slopes of Lobuche peak and the moraine wall of the Khumbu Glacier. There are no fields and no permanent families; owners from Pangboche, Khumjung and other villages run the lodges in season. What it offers is shelter at the right height and a view of Nuptse's west face glowing at sunset.",
+    "The walk in from Dingboche takes about five hours. You cross open pasture above Pheriche to Dughla, at the snout of the Khumbu Glacier, climb steeply to the Thukla Pass memorials, then follow a gentle valley to Lobuche. The height gain of about 530 m means many trekkers feel the altitude here: breathlessness at rest, poor sleep and loss of appetite are common. A good dinner, plenty of fluids and an early night are the priority.",
+    "From Lobuche, the next morning's walk to Gorak Shep takes 2.5 to 3 hours along the edge of the glacier, past the Italian Pyramid research station and over the moraine. Trekkers on the Three Passes route arrive here from the Kongma La or leave for Dzongla and the Cho La. Lobuche East (6,119 m) and Lobuche West rise directly above, and climbing teams use Lobuche as the gateway to their base camp."
+  ],
+  "facts": [
+    ["Altitude", "4,940 m"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Lukla, 6–7 days' walk; helipad nearby"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 6–7 days' walk"],
+    ["Known for", "Last stop before Gorak Shep, Khumbu Glacier, Lobuche East climbs"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Nuptse at sunset", "text": "Climb onto the moraine ridge behind the lodges in the late afternoon and watch the west face of Nuptse turn gold and then red as the sun sets. It is one of the finest evening views on the trek, and only five minutes' walk."},
+    {"title": "Khumbu Glacier moraine", "text": "Lobuche sits right beside the lateral moraine of the Khumbu Glacier. From the crest you look down on grey rubble, ice cliffs and turquoise melt ponds, and up the glacier towards Pumori and the Changri peaks."},
+    {"title": "Italian Pyramid research station", "text": "About 30 minutes north of Lobuche, a glass pyramid built by the Italian Ev-K2-CNR project in 1990 has hosted high-altitude research on climate, glaciers and physiology. Check current status before visiting, as access and operations have varied."},
+    {"title": "Gateway to Lobuche East", "text": "Lobuche East (6,119 m) rises above the village, its base camp a short walk away. It is a popular climbing peak, steeper than Island Peak, with views of Everest from its upper slopes."},
+    {"title": "Junction of the high passes", "text": "Lobuche links the Everest Base Camp trail with the Three Passes: trekkers arrive from Chhukung over the Kongma La and leave for Dzongla and the Cho La towards Gokyo."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Dingboche, walk via Dughla and Thukla Pass: about 8 km and 5 hours, gaining around 530 m. From Pheriche it takes about 4.5 hours. From Lobuche to Gorak Shep is about 4.5 km and 2.5–3 hours."},
+    {"mode": "Helicopter", "text": "A helipad near Lobuche is used for rescues and supplies. Evacuations for altitude sickness often fly from Lobuche, Pheriche or Gorak Shep to Kathmandu in about an hour, weather permitting."},
+    {"mode": "Air", "text": "Fly to Lukla, 35 minutes from Kathmandu or 20 minutes from Ramechhap in peak months, and walk six to seven days via Namche, Tengboche and Dingboche with acclimatisation days."}
+  ],
+  "where_to_stay": "Lobuche has about a dozen lodges, from basic teahouses with shared toilets to newer lodges with some attached-bathroom rooms, heated dining rooms and solar charging. Water is limited and can freeze overnight, so washing is minimal. Rooms are unheated and nights often reach −10 to −15 °C from October to March. Because Lobuche is the last good night before Gorak Shep, it fills quickly in peak weeks and we book ahead. A night here is generally more comfortable than one at Gorak Shep, which is why some itineraries visit base camp from Lobuche and return in a long day.",
+  "stays": [],
+  "tips": [
+    "Walk slowly from Dingboche; the climb to Thukla Pass is steep and sets the tone for the day.",
+    "Eat a full dinner even if your appetite is poor, as your body needs fuel for the next day.",
+    "Fill a hot water bottle or a Nalgene with boiling water for your sleeping bag.",
+    "Use the toilet before bed and keep a headlamp by your pillow; night temperatures are severe.",
+    "Tell your guide immediately if you are breathless at rest or confused; descent from here is fast."
+  ],
+  "themes": ["trekking", "peak-climbing", "photography"],
+  "nearby": ["gorak-shep", "everest-base-camp", "dingboche", "chhukung"],
+  "experiences": [
+    {
+      "slug": "lobuche-moraine-nuptse-sunset",
+      "title": "Sunset on Nuptse from the Lobuche moraine",
+      "kind": "nature",
+      "duration": "45 minutes",
+      "best_time": "Late afternoon, Oct–Dec and Mar–May",
+      "price_hint": "",
+      "image_query": "Nuptse sunset Lobuche moraine",
+      "wiki": "Nuptse",
+      "summary": "A five-minute climb from the Lobuche lodges takes you onto the crest of the Khumbu Glacier's moraine, where the west face of Nuptse lights up gold and red at sunset above the grey ice.",
+      "body": [
+        "Lobuche sits in a shallow trough between the mountainside and the long ridge of stones left by the Khumbu Glacier. Climb a few minutes onto this lateral moraine east of the lodges and the view opens: below you, the glacier surface of rubble, ice and meltwater pools; to the north-east, Nuptse (7,861 m), its west face catching the evening light; and to the north, the sharp tops of Pumori and Lingtren on the border with Tibet.",
+        "The best time is the last half hour before sunset, roughly 5 to 5:30 pm in October and November. As the valley falls into shadow, Nuptse turns yellow, then orange, then a fading pink, often with a plume of snow blowing from its ridge. Bring a down jacket, hat and gloves, because the temperature drops sharply when the sun leaves the valley, and the wind can be biting on the moraine crest.",
+        "Stay on the main path along the moraine crest and keep back from the edges, where the slope drops steeply to the glacier and loose stones slide easily. Walk slowly: at nearly 5,000 m even a short climb leaves you breathless. Back at the lodge, warm up by the stove with soup and get an early night before the walk to Gorak Shep and Everest Base Camp the next morning."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "Can you see Everest from Lobuche?", "a": "Not from the lodges. The ridges of Nuptse and the Lho La block Everest's summit. You see Nuptse, Pumori and Lobuche peaks. Everest comes into full view from Kala Patthar, above Gorak Shep, the day after Lobuche."},
+        {"q": "What time is sunset at Lobuche?", "a": "In October and November, sunset at Lobuche is roughly between 5 and 5:30 pm, with the best light on Nuptse in the last 20–30 minutes. In April and May it is around 6:15 to 6:45 pm. The valley floor loses sun earlier."},
+        {"q": "Is the Lobuche moraine safe to walk on?", "a": "The crest path is safe if you stay on it and walk carefully. The inner slope down to the glacier is steep and loose, so keep away from the edge. Do not try to walk onto the glacier itself."}
+      ]
+    },
+    {
+      "slug": "lobuche-pyramid-research-station-walk",
+      "title": "Walk to the Italian Pyramid research station",
+      "kind": "nature",
+      "duration": "1.5 hours return",
+      "best_time": "Afternoon after arriving, Oct–Nov and Mar–May",
+      "price_hint": "Check current status of access",
+      "image_query": "Pyramid laboratory Everest Lobuche",
+      "wiki": "",
+      "summary": "North of Lobuche, a glass-and-aluminium pyramid built in 1990 by the Italian Ev-K2-CNR project has served as a high-altitude laboratory for climate, glacier and physiology research. A short walk takes you to it.",
+      "body": [
+        "The Pyramid International Laboratory-Observatory stands at about 5,050 m in a side valley north of Lobuche, a 30–40 minute walk off the main trail. It was built by the Italian Ev-K2-CNR association with Nepali partners and opened in 1990. Its solar-powered glass pyramid has hosted scientists studying how the body copes with altitude, atmospheric pollution, glacier change and weather in the high Himalaya. A climate monitoring station nearby fed data into global networks.",
+        "Over the years, operations at the Pyramid have changed with funding and partnerships, and part of the site has also offered lodge accommodation. Whether the laboratory is open for visits when you pass depends on the current season, so ask your guide and check current status before you travel. Even if the building is closed, the walk to it is worthwhile for the quiet valley and close views of Lobuche peaks.",
+        "The trail leaves the main route north of Lobuche and climbs gently up a side valley, gaining about 100 m. It makes a good afternoon acclimatisation stroll after arriving from Dingboche, as long as you feel well. Turn back early if you feel tired or the weather closes in. Many trekkers combine it with the sunset view of Nuptse from the moraine on the way back."
+      ],
+      "good_for": ["solo", "photographers", "groups"],
+      "faqs": [
+        {"q": "What is the Pyramid near Lobuche?", "a": "It is a high-altitude research laboratory at about 5,050 m, built by the Italian Ev-K2-CNR project and opened in 1990. It has been used for research on physiology, climate and glaciers. Access and operations vary, so check current status."},
+        {"q": "Can trekkers stay at the Pyramid?", "a": "Part of the site has operated as a lodge in some seasons, but this is not guaranteed. Most trekkers sleep in Lobuche. Ask your guide about current arrangements before relying on it."},
+        {"q": "How far is the Pyramid from Lobuche?", "a": "About 30–40 minutes' walk north of Lobuche, gaining roughly 100 m up a side valley. It makes an easy afternoon walk for acclimatisation if you arrive early and feel well."}
+      ]
+    },
+    {
+      "slug": "lobuche-east-base-camp-walk",
+      "title": "Short walk to Lobuche East base camp",
+      "kind": "hiking",
+      "duration": "1.5–2 hours return",
+      "best_time": "Afternoon, Oct–Nov and Apr–May",
+      "price_hint": "Included in our Lobuche East climb",
+      "image_query": "Lobuche East peak base camp",
+      "wiki": "Lobuche",
+      "summary": "From the lodges, a short climb up the slopes west of Lobuche reaches the base camp area for Lobuche East (6,119 m), with close views of the climbing route and back across the Khumbu Glacier to Ama Dablam.",
+      "body": [
+        "Lobuche East, at 6,119 m, is one of the most popular climbing peaks in Nepal and stands directly above the lodges. Its base camp is a grassy and rocky shelf at about 4,950–5,000 m, a short walk from the village up the slopes to the south-west. Climbers spend a night here or go straight to a high camp at around 5,400 m before a pre-dawn summit push on rock, snow and ice with fixed ropes.",
+        "For trekkers, the walk to base camp is a short afternoon outing that adds a little height and gives a close look at the peak's south ridge, the usual line of ascent. You also look back down the valley over Dughla and Pheriche to Ama Dablam, Taboche and Cholatse, a view you miss from the lodges. In spring and autumn you may see climbing teams with tents and gear on the shelf.",
+        "Allow about an hour up and less to come down. If you are on our Lobuche East climb, this walk is the start of your ascent and your guide will run through gear and fixed-rope technique here. Trekkers should not continue beyond base camp onto the climbing route, which requires a permit, crampons, harness and a climbing guide."
+      ],
+      "good_for": ["solo", "groups", "photographers"],
+      "faqs": [
+        {"q": "How high is Lobuche East?", "a": "Lobuche East reaches 6,119 m. Many commercial climbs stop at a slightly lower false summit, because the true summit involves a further exposed ridge. Base camp lies around 4,950–5,000 m and high camp around 5,400 m."},
+        {"q": "Is Lobuche East harder than Island Peak?", "a": "Generally yes. Lobuche East has steeper, more sustained snow and ice slopes of about 45–50 degrees with fixed ropes and a more exposed summit ridge. Island Peak has one steep headwall. Both need crampon, harness and jumar skills."},
+        {"q": "Can trekkers walk to Lobuche East base camp?", "a": "Yes, without a climbing permit. It is a short walk from Lobuche lodges. Do not continue onto the climbing route without a permit, equipment and a qualified climbing guide."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Lobuche?", "a": "Lobuche lies at about 4,940 m, roughly 530 m above Dingboche and 220 m below Gorak Shep. It is the last major lodge stop before Gorak Shep and Everest Base Camp on the standard route."},
+    {"q": "How long is the trek from Dingboche to Lobuche?", "a": "About 5 hours and 8 km, gaining roughly 530 m. The route crosses open pasture to Dughla, climbs steeply for an hour to Thukla Pass and its memorials, then follows a gentle valley to Lobuche."},
+    {"q": "What are the lodges like in Lobuche?", "a": "Basic but adequate: twin rooms, thin walls, mostly shared toilets, and a heated dining room in the evening. A few newer lodges have attached bathrooms. Water is scarce and can freeze, so expect minimal washing."},
+    {"q": "Is altitude sickness common in Lobuche?", "a": "Yes, many trekkers feel symptoms at 4,940 m: headache, poor sleep, loss of appetite. These are often mild. If you develop severe headache, vomiting, breathlessness at rest or confusion, descend at once with your guide."},
+    {"q": "Can I go from Lobuche to Everest Base Camp and back in one day?", "a": "Strong, well-acclimatised trekkers sometimes walk Lobuche–Gorak Shep–EBC and back to Lobuche in one long day of 8–10 hours. Most itineraries sleep at Gorak Shep instead, which gives time for Kala Patthar."},
+    {"q": "How cold is Lobuche at night?", "a": "In October and November nights are usually −10 to −15 °C, colder in winter. April and May nights are about −8 °C. A sleeping bag rated to −15 °C or lower and a hot water bottle make a big difference."},
+    {"q": "What is the Cho La route from Lobuche?", "a": "From Lobuche, trekkers walk to Dzongla (4,830 m) in about 3–4 hours, then cross the Cho La (5,420 m) to Thangnak and Gokyo the next day. It is part of the Three Passes and EBC–Gokyo circuits."},
+    {"q": "Is there a helipad at Lobuche?", "a": "Yes, there is a helipad near Lobuche used for rescues and supply flights. In an emergency, helicopters can evacuate trekkers to Kathmandu in about an hour, weather permitting. Make sure your insurance covers helicopter evacuation."},
+    {"q": "Is there Wi-Fi in Lobuche?", "a": "Most lodges sell Wi-Fi through Everest Link cards, and some mobile data may work. Connections are slow and unreliable. Charging devices costs extra. Carry a power bank and keep it warm overnight."}
+  ]
+}

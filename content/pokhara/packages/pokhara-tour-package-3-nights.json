@@ -1,0 +1,83 @@
+{
+  "slug": "pokhara-tour-package-3-nights",
+  "title": "Pokhara Tour Package 3 Nights 4 Days",
+  "region": "pokhara",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["short-breaks", "family-holidays", "photography"],
+  "stops": [{"place": "pokhara", "nights": 3}, {"place": "sarangkot", "nights": 0}, {"place": "world-peace-pagoda", "nights": 0}],
+  "start": "Pokhara International Airport or Pokhara tourist bus park",
+  "end": "Pokhara",
+  "price_from_inr": 16000,
+  "price_from_usd": 190,
+  "best_months": [1, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star Lakeside hotel (Hotel Barahi or similar), 3 nights with breakfast",
+  "transport": "Private car or van for all transfers and sightseeing",
+  "group": "Private, 2–12",
+  "meta_description": "Pokhara tour package, 4 days and 3 nights: Sarangkot sunrise, Phewa boating, Tal Barahi, Davis Falls, Gupteshwor Cave and the World Peace Pagoda. From ₹16,000.",
+  "summary": "Our shortest complete Pokhara holiday: three nights at Lakeside with Sarangkot sunrise, a boat to Tal Barahi temple, Davis Falls, Gupteshwor Cave, the Mountain Museum and a boat-and-forest climb to the World Peace Pagoda. Private car throughout, an afternoon free for paragliding, from ₹16,000 per person.",
+  "intro": [
+    "This package is built for travellers who reach Pokhara by flight or tourist bus from Kathmandu, or by road from the Indian border, and want to see the city properly in three nights without rushing. You stay at a 3-star hotel in central Lakeside within walking distance of the lake, restaurants and boat ghats. A private car and driver handle the early Sarangkot sunrise run and the spread-out sights on the south side of the city, so you never wait for taxis.",
+    "The plan follows the light. The first full day starts on the Sarangkot ridge at dawn and continues to the caves, waterfall and museum while the sun is high. The second day is on and above the water: a morning boat to Tal Barahi, the climb through Raniban forest to the World Peace Pagoda and a free afternoon for paragliding, the zipline or simply a lakeside cafe. It suits families, couples and first-time visitors to Nepal."
+  ],
+  "highlights": [
+    "Sunrise over Dhaulagiri, Annapurna and Machhapuchhre from Sarangkot at about 1,600 m",
+    "Boat across Phewa Lake to the island temple of Tal Barahi",
+    "Davis Falls and the Shiva shrine of Gupteshwor Mahadev Cave",
+    "International Mountain Museum and the Seti Gandaki gorge",
+    "Forest climb to the World Peace Pagoda with a view over the lake",
+    "Free afternoon for paragliding, zipline or lakeside cafes"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Pokhara, evening at Lakeside", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 822, "walk": "", "drive": "≈ 5 km · 15 min", "flight": "", "text": "Our representative meets you at Pokhara International Airport or the tourist bus park and drives you 15 minutes to your Lakeside hotel. After check-in and a rest, walk the lakeshore promenade in the late afternoon as the boats come in and the light fades over Phewa Lake and Raniban hill. On a clear evening Machhapuchhre catches the sunset above the town. Your guide gives a short briefing on the next two days and helps you book any optional paragliding, zipline or ultralight slots. Dinner is at your own choice among Lakeside's restaurants.", "meals": "—"},
+    {"day": 2, "title": "Sarangkot sunrise, caves and Mountain Museum", "place": "sarangkot", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 1.5 h in short sections", "drive": "≈ 40 km · 3 h in total", "flight": "", "text": "Leave the hotel at about 5 am (4:45 in October) for the 40-minute drive up to Sarangkot and a 15-minute climb to the viewing terraces at about 1,600 m. Watch first light move across Machhapuchhre, Annapurna South and Dhaulagiri, with Phewa Lake in mist below. Back for breakfast, then visit Bindhyabasini temple, the Seti Gandaki gorge, Davis Falls and Gupteshwor Mahadev Cave, where steps lead to a Shiva shrine and a view of the falls from inside the rock. Spend the afternoon at the International Mountain Museum before returning to Lakeside.", "meals": "Breakfast"},
+    {"day": 3, "title": "Tal Barahi by boat and World Peace Pagoda", "place": "world-peace-pagoda", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1100, "walk": "≈ 1.5 h · 3 km", "drive": "≈ 10 km · 30 min", "flight": "", "text": "Start early on Phewa Lake while the water is still. A boatman rows you to Tal Barahi temple on its island for 20 minutes, then across to the south shore. From the landing, climb about 300 m through Raniban forest to the white World Peace Pagoda at about 1,100 m, around 45 minutes on stone steps, for the classic view over the lake to the Annapurnas. Walk down to the road at Damside or Chhorepatan where your car waits. The afternoon is free for a tandem paragliding flight, the ZipFlyer, shopping or a lakeside cafe.", "meals": "Breakfast"},
+    {"day": 4, "title": "Breakfast and departure from Pokhara", "place": "pokhara", "overnight": "", "altitude_m": 822, "max_m": 822, "walk": "", "drive": "≈ 5 km · 15 min", "flight": "", "text": "If the sky is clear, take a last early walk along the lake, when the reflection of Machhapuchhre is sharpest, or visit Lakeside's Tibetan craft shops and cafes. After breakfast and check-out, your driver transfers you to Pokhara International Airport for your onward flight, or to the tourist bus park for Kathmandu or Chitwan. If you are continuing overland to the Indian border at Sonauli or onward within Nepal, we can arrange a private car at extra cost. Allow at least 90 minutes at the airport before a domestic flight.", "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-barahi"],
+  "includes": [
+    "3 nights at a 3-star Lakeside hotel on twin sharing with daily breakfast",
+    "Airport or bus park arrival and departure transfers in a private vehicle",
+    "Sarangkot sunrise drive with early-morning pick-up",
+    "Full-day and half-day sightseeing by private car with driver",
+    "English- or Hindi-speaking local guide for sightseeing days",
+    "Boat on Phewa Lake to Tal Barahi temple and the Peace Pagoda landing",
+    "Entry fees for Davis Falls, Gupteshwor Cave and the Mountain Museum",
+    "Government taxes and service charges on the above"
+  ],
+  "excludes": [
+    "Flights or bus tickets to and from Pokhara",
+    "Lunches, dinners and drinks",
+    "Paragliding, zipline, ultralight and other optional activities",
+    "Travel insurance",
+    "Tips for guide, driver and boatman",
+    "Personal expenses such as laundry, phone and shopping",
+    "Extra nights or costs caused by flight delays or road closures",
+    "Anything not listed under includes"
+  ],
+  "good_to_know": [
+    "The price assumes two adults sharing a standard room at a 3-star Lakeside hotel in the October–December season; single rooms, lake-view rooms and the Christmas–New Year period cost more.",
+    "Sarangkot sunrise depends on weather; if the morning is cloudy we can repeat it on day 3 or 4 at no extra transport cost.",
+    "Indian citizens need a valid passport or voter ID card; children can travel with a birth certificate or school ID with a parent.",
+    "Paragliding and the zipline have weight limits (roughly 25–90 kg and 35–125 kg) and are booked locally; tell us your weights in advance.",
+    "From June to August Pokhara is very wet, mountain views are rare and some activities pause; we adjust the plan accordingly."
+  ],
+  "add_ons": [
+    {"name": "Tandem paragliding from Sarangkot, 20–30 min", "price": "≈ ₹7,000 / US$ 85 per person"},
+    {"name": "Kathmandu–Pokhara one-way flight", "price": "≈ ₹9,000 / US$ 110 per person"},
+    {"name": "Upgrade to lake-view 4-star room", "price": "≈ ₹3,500 per room per night"}
+  ],
+  "faqs": [
+    {"q": "Is 3 nights enough for Pokhara?", "a": "Yes, for the main sights. With three nights you get Sarangkot sunrise, Phewa boating, Tal Barahi, Davis Falls, Gupteshwor Cave, the Mountain Museum and the World Peace Pagoda, plus a free afternoon for paragliding. Add a night if you want a full day for adventure activities or a half-day at Begnas Lake."},
+    {"q": "What is the Pokhara tour package price for a family of four?", "a": "For two adults and two children under 12 sharing one family room or two connecting rooms, expect roughly ₹52,000–60,000 in total at a 3-star Lakeside hotel in peak season, depending on room type and children's ages. Children under five usually stay free without an extra bed. We confirm the exact figure when you share ages and dates."},
+    {"q": "Can we start this package from Kathmandu?", "a": "Yes. We can add a Kathmandu–Pokhara flight of about 25 minutes, a seat on a tourist bus (7–9 hours) or a private car (6–8 hours) at extra cost. With a private car you can stop at Manakamana or Bandipur on the way, though that makes day one very long, so we suggest an extra night in that case."},
+    {"q": "Is this package suitable for senior citizens?", "a": "Yes. Most sightseeing is by car with short walks. The Sarangkot climb from the car park is about 15 minutes of steps, the Gupteshwor Cave staircase can be done slowly, and the Peace Pagoda can be reached by road instead of the forest climb. Tell us about mobility needs and we adapt the day plan."},
+    {"q": "Which hotel is used in the 3-night Pokhara package?", "a": "Our standard choice is Hotel Barahi in central Lakeside, a 3-star hotel with a pool, garden and walking access to the boat ghats. If it is full we use a hotel of similar standard nearby. Upgrades to Temple Tree Resort & Spa, Fish Tail Lodge or Pokhara Grande are available at extra cost."},
+    {"q": "Is paragliding included in the Pokhara package?", "a": "No, paragliding is an optional extra so that only those who want to fly pay for it. A 20–30 minute tandem flight from Sarangkot costs roughly ₹6,500–8,500 or US$ 70–90 including transport. We book it for the free afternoon on day 3 or the morning of day 4, subject to weather."},
+    {"q": "What is the best month for this Pokhara tour?", "a": "October, November and December give the clearest mountain views and dry weather. February and March are also very good, with mild days and flowering hills. April and May are warm with more haze. June to August is the monsoon, with heavy rain and cloud, though prices are lower and the valley is green."},
+    {"q": "Do we need a guide in Pokhara?", "a": "Not strictly, but a local guide makes the sightseeing day smoother: timing Sarangkot, explaining Tal Barahi and Gupteshwor, avoiding queues and handling tickets. Our package includes a guide for the two sightseeing days; your evenings and free afternoon are yours to explore alone."},
+    {"q": "Can Indians pay for the Pokhara package in rupees?", "a": "Yes. We quote Indian guests in Indian rupees and accept payment in INR; we confirm the current payment methods when you book. In Pokhara itself, ₹100 notes are widely accepted at Lakeside, but carry Nepali rupees for taxis, boats and small purchases. International guests are quoted and can pay in US dollars."}
+  ]
+}

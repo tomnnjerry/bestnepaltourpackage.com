@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "pokhara-to-ghorepani",
+    "from": "pokhara",
+    "to": "ghorepani",
+    "distance_km": 65,
+    "summary": "Pokhara to Ghorepani is about 65 km: roughly 50 km by jeep to the road head at Hile or Ulleri, then a 4–7 hour climb on foot to the village at 2,874 m. Most trekkers split it over two days with a night in Ulleri.",
+    "options": [
+      {
+        "mode": "Jeep + walk (2 days)",
+        "time": "2.5–3.5 h drive + 2 days' walk",
+        "text": "This is the standard way. A jeep takes you from Pokhara past Nayapul to Hile at 1,430 m in about 2.5 hours. You walk to Tikhedhunga and up the long staircase to Ulleri at 2,020 m, about 3–4 hours, and sleep there. Day two climbs through oak and rhododendron forest via Banthanti and Nangethanti to Ghorepani in 4–5 hours. Height gain on the two days is roughly 1,450 m."
+      },
+      {
+        "mode": "Jeep + walk (1 day)",
+        "time": "3.5 h drive + 4–5 h walk",
+        "text": "When the road beyond Hile is dry, jeeps can climb the dirt track to Ulleri, saving the steepest part of the staircase. From Ulleri it is 4–5 hours to Ghorepani, so fit walkers can arrive the same evening. The drive is rough, the track is often closed by mud in the monsoon, and arriving at 2,874 m from 822 m in a single day is a large jump, so go slowly and drink plenty of water."
+      },
+      {
+        "mode": "Walk via Ghandruk",
+        "time": "2–3 days",
+        "text": "The clockwise approach drives about 3 hours to Ghandruk at 1,940 m, then walks 3–4 hours to Tadapani at 2,630 m and 5–6 hours over the Deurali pass at 3,090 m to Ghorepani. It takes longer but gains height more gradually and passes through the largest Gurung village in the area. Many people use this route on the way out instead, ending at Ghandruk and driving back to Pokhara."
+      }
+    ],
+    "stops_on_way": ["Nayapul", "Birethanti ACAP checkpoint", "Hile", "Tikhedhunga", "Ulleri", "Banthanti", "Nangethanti"],
+    "tip": "Start walking from Hile before 10 am so that you climb the exposed Ulleri staircase before the afternoon heat and cloud.",
+    "faqs": [
+      {
+        "q": "How long does it take from Pokhara to Ghorepani?",
+        "a": "Plan on two days. The jeep to Hile takes about 2.5 hours, then you walk 3–4 hours to Ulleri for the night and 4–5 hours on to Ghorepani the next day. Strong walkers who drive to Ulleri can reach Ghorepani in one long day, but the altitude jump and the rough road make the two-day approach more comfortable."
+      },
+      {
+        "q": "Can you drive all the way to Ghorepani?",
+        "a": "Not on the standard route from Pokhara. Jeep tracks have pushed up from both the Ulleri side and the Myagdi side, and some vehicles reach villages below Ghorepani in the dry season, but there is no reliable road to the village itself. Conditions change each year and after every monsoon, so check current status before you travel. Most trekkers walk at least the final 4–5 hours."
+      },
+      {
+        "q": "How many steps are there to Ulleri?",
+        "a": "The figure usually quoted is about 3,300 stone steps between Tikhedhunga at 1,540 m and Ulleri at 2,020 m, a climb of roughly 480 m in 2–3 hours. Nobody has an official count, and some steps have been rebuilt, but it is the hardest section of the Poon Hill trek. Take it slowly, use poles, and rest in the shade."
+      },
+      {
+        "q": "Do I need a permit to go from Pokhara to Ghorepani?",
+        "a": "Yes. The trail is inside the Annapurna Conservation Area, so you need an ACAP entry permit, which costs NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians. It is checked at Birethanti and Ghorepani. Rules on licensed guides for foreign trekkers have changed since 2023, so check current status before you travel. Our packages include both."
+      }
+    ]
+  },
+  {
+    "slug": "pokhara-to-ghandruk",
+    "from": "pokhara",
+    "to": "ghandruk",
+    "distance_km": 55,
+    "summary": "Ghandruk is about 55 km from Pokhara and reachable by jeep in roughly 3 hours via Nayapul and Kimche. Walkers can instead trek in over one or two days from Nayapul or Kande, passing Gurung villages and terraced hillsides.",
+    "options": [
+      {
+        "mode": "Jeep",
+        "time": "≈ 3 h",
+        "text": "A shared or private jeep runs from Pokhara along the Baglung highway to Nayapul, about 42 km and 1.5 hours, then climbs a dirt road via Syauli Bazaar and Kimche to the lower edge of Ghandruk. The upper section is steep, dusty in spring and slippery after rain. A private jeep costs roughly NPR 10,000–14,000 one way; local shared jeeps are far cheaper but run on no fixed timetable."
+      },
+      {
+        "mode": "Jeep to Kimche + walk",
+        "time": "2.5 h drive + 1–1.5 h walk",
+        "text": "Many trekkers drive only as far as Kimche at 1,640 m and walk the last stretch on the old stone path, a climb of about 300 m that takes 1–1.5 hours. It avoids the roughest road section and gives a more gradual arrival, with the first views of Annapurna South and Machhapuchhre opening up as you reach the village."
+      },
+      {
+        "mode": "Walk from Kande via Landruk",
+        "time": "2 days",
+        "text": "From Kande, 45 minutes from Pokhara, the trail climbs to Australian Camp, crosses the Bhichok Deurali ridge at 2,100 m and drops through Tolka to Landruk at 1,565 m in about 5 hours. Next day you descend to the Modi Khola and climb the far wall to Ghandruk in about 4 hours. This is the route of our 3-day family trek, run in the reverse direction."
+      }
+    ],
+    "stops_on_way": ["Phedi", "Lumle", "Nayapul", "Birethanti", "Syauli Bazaar", "Kimche"],
+    "tip": "Ask your driver to stop at Kimche if you want to walk in, because the final climb on foot is the best introduction to the village.",
+    "faqs": [
+      {
+        "q": "How far is Ghandruk from Pokhara?",
+        "a": "Ghandruk is about 55 km from Pokhara by road. The first 42 km to Nayapul are on the paved Baglung highway and take around 1.5 hours; the remaining climb on a dirt road via Kimche takes another 1.5 hours or so, depending on conditions. On foot from Nayapul the walk takes 5–6 hours, gaining roughly 900 m."
+      },
+      {
+        "q": "Can I do a day trip from Pokhara to Ghandruk?",
+        "a": "It is possible but rushed. With 6 hours of driving there and back you get about 3 hours in the village, and the mountains are often clouded by midday. We recommend at least one night so that you see sunset and sunrise on Annapurna South and Machhapuchhre. A 2-day or 3-day trip is the sweet spot for families."
+      },
+      {
+        "q": "Is the road to Ghandruk open in the monsoon?",
+        "a": "Usually, but not always. Between June and September landslides and mud can close the dirt section above Nayapul for hours or days, and jeeps may stop at Kimche or lower. Allow a spare day if you travel in the monsoon and check current status before you travel. The trail from Nayapul remains walkable, though wet and leech-prone."
+      },
+      {
+        "q": "Is there an ACAP checkpoint on the way to Ghandruk?",
+        "a": "Yes. Ghandruk lies inside the Annapurna Conservation Area, so you need an ACAP permit, which costs NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians. Permits are checked at Birethanti near Nayapul and at the ACAP office in Ghandruk. Arrange the permit in Pokhara before you travel; check current status before you travel."
+      }
+    ]
+  },
+  {
+    "slug": "besisahar-to-manang",
+    "from": "besisahar",
+    "to": "manang",
+    "distance_km": 95,
+    "summary": "Besisahar at 760 m and Manang at 3,519 m are about 95 km apart up the Marsyangdi valley. A rough road now links them, about 9–10 hours by jeep, but most trekkers walk at least the upper half over 4–6 days to acclimatise properly.",
+    "options": [
+      {
+        "mode": "Jeep",
+        "time": "≈ 9–10 h",
+        "text": "Shared and private jeeps leave Besisahar in the morning and follow the Marsyangdi through Jagat, Tal and Dharapani to Chame, then on to Pisang and Manang. The road is narrow, unpaved for long stretches and exposed in places. Climbing 2,760 m in a single day is a big altitude jump, so anyone driving straight to Manang should rest there for at least two nights before going higher. Monsoon landslides close the road regularly."
+      },
+      {
+        "mode": "Jeep to Chame + walk",
+        "time": "6–7 h drive + 2–3 days' walk",
+        "text": "Our circuit itineraries drive the lower, road-heavy section to Chame at 2,670 m in 6–7 hours, then walk. Day one goes past the apple orchards of Bhratang and the curved rock face of Paungda Danda to Upper Pisang at 3,310 m. Day two follows the high trail through Ghyaru and Ngawal at 3,660 m, with Annapurna II and IV across the valley. Day three is a short walk via Braga to Manang."
+      },
+      {
+        "mode": "Walk the whole way",
+        "time": "6–8 days",
+        "text": "Purists can walk from Besisahar on the New Annapurna Trekking Trail sections, which keep to the opposite bank of the river from the road where possible, through Bhulbhule, Bahundanda, Chamje and Tal. It adds 3–4 days through subtropical villages, waterfalls and rice terraces, and gives the most gradual acclimatisation, but expect dust and jeep traffic on the stretches where trail and road share the same line."
+      }
+    ],
+    "stops_on_way": ["Bhulbhule", "Jagat", "Tal", "Dharapani", "Chame", "Bhratang", "Upper Pisang", "Ngawal", "Braga"],
+    "tip": "If you drive, take the morning jeep from Besisahar and book a front seat, because the views are better and motion sickness is worse in the back.",
+    "faqs": [
+      {
+        "q": "Can you drive from Besisahar to Manang?",
+        "a": "Yes. A jeep road now reaches Manang, and shared jeeps run in the trekking seasons, taking about 9–10 hours. The road is rough and often blocked by landslides between June and September, so check current status before you travel. Driving straight to 3,519 m from 760 m carries a real risk of altitude sickness, so plan two nights in Manang before going higher."
+      },
+      {
+        "q": "How much is a jeep from Besisahar to Manang?",
+        "a": "Shared jeep seats have run at roughly NPR 3,500–4,500 per person for the full journey in recent seasons, and a private jeep for the whole route roughly NPR 30,000–40,000. Fares are set locally and rise with fuel prices, so treat these as rough guides and check current status before you travel. Our circuit packages include private transport to Chame."
+      },
+      {
+        "q": "How many days to walk from Besisahar to Manang?",
+        "a": "Walking the whole way takes 6–8 days, depending on your pace and how much you use the side trails away from the road. A common modern compromise is to drive to Chame in 6–7 hours and walk 3 days via Upper Pisang and Ngawal to Manang. That keeps the high, scenic section on foot and still gives good acclimatisation."
+      },
+      {
+        "q": "Is the upper or lower Pisang route better to Manang?",
+        "a": "The upper route via Ghyaru and Ngawal is better for views and acclimatisation. It climbs to about 3,670 m, so you sleep a little higher before Manang, and it looks straight across at Annapurna II, III and IV. The lower route via Humde is shorter and flatter, and runs close to the road and airstrip. We use the upper route on every circuit itinerary."
+      }
+    ]
+  }
+]

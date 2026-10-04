@@ -1,0 +1,134 @@
+{
+  "slug": "mount-kailash",
+  "name": "Mount Kailash",
+  "region": "kailash",
+  "kind": "pilgrimage site",
+  "wiki": "Mount Kailash",
+  "image_query": "Mount Kailash north face Dirapuk",
+  "lat": 31.067,
+  "lng": 81.312,
+  "altitude_m": 6638,
+  "tagline": "The 52 km parikrama around Shiva's mountain, over Dolma La",
+  "meta_description": "Mount Kailash parikrama via Nepal: 3-day route from Darchen over Dolma La (≈ 5,630 m), best months, permits, fitness and what each day involves.",
+  "summary": "Mount Kailash (6,638 m) in western Tibet is sacred to Hindus, Buddhists, Jains and Bon followers. Nobody climbs it; pilgrims walk around it. The outer parikrama is about 52 km from Darchen, normally done in three days, with the Dolma La pass at roughly 5,630 m on day two. Season: May to early October.",
+  "intro": [
+    "Mount Kailash rises to 6,638 m in the Gangdise range of western Tibet, about 100 km north of the Nepal border at Hilsa. For Hindus it is the abode of Lord Shiva and Parvati; Buddhists know it as Kang Rinpoche, home of Demchok; Jains revere it as Ashtapad, where Rishabhadeva attained liberation; and Bon followers circle it anticlockwise. Climbing is not permitted. What pilgrims do instead is walk the parikrama (kora), a loop of about 52 km that starts and ends at Darchen, the small town on the southern plain.",
+    "The walk is high from the first step. Darchen sits at about 4,575 m, Dirapuk on the first night at about 4,900 m, and the Dolma La pass on day two at approximately 5,630 m. Most Indian groups now take an eco-bus from Darchen to Yam Dwar at the start and from Zongdo back to Darchen at the end, which leaves about 42–45 km on foot over three days. Ponies and porters are available, hired through a local cooperative, and many pilgrims ride part of day two.",
+    "We reach Kailash from Nepal by two main routes: overland from Kathmandu through the Rasuwagadhi–Kyirong border and Saga, or by flight to Nepalgunj and Simikot, a helicopter hop to Hilsa and a short drive through Purang. Both routes include two or more nights near Lake Manasarovar before the parikrama so the body can adapt. Permits, visa rules and rules for Indian passport holders change often, so check current status before you travel."
+  ],
+  "facts": [
+    ["Summit altitude", "6,638 m (not climbed)"],
+    ["Parikrama high point", "Dolma La ≈ 5,630 m"],
+    ["Best months", "May – Jun · Sep – early Oct"],
+    ["Nights we suggest", "2 on the parikrama, 1–2 at Darchen"],
+    ["Nearest airport", "Ngari Gunsa (Tibet); Simikot on the Nepal side"],
+    ["From Kathmandu", "≈ 7–9 days overland or 4–5 days via Simikot heli"],
+    ["Known for", "Parikrama, north face at Dirapuk, Dolma La, Saga Dawa"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "North face from Dirapuk", "text": "On the first evening the black rock and snow of the north face fill the valley above Dirapuk, barely 3 km away. This is the closest view of Kailash on the circuit, and many pilgrims sit outside the guesthouses until the last light leaves the summit."},
+    {"title": "Crossing Dolma La", "text": "The pass at about 5,630 m is the spiritual and physical peak of the parikrama. Pilgrims leave clothes or a token at Shiva-sthal on the way up, then add prayer flags at the top. Expect 3–4 hours of slow climbing from Dirapuk and thin, cold air."},
+    {"title": "Gauri Kund below the pass", "text": "Just under the eastern side of Dolma La lies a small green lake that Hindus call Gauri Kund and Tibetans call Thukje Chenpo Tso. It is often still frozen in May and June. Pilgrims climb down to collect water when the ice allows."},
+    {"title": "Yam Dwar and Tarboche", "text": "The parikrama begins at Yam Dwar, the gateway of the god of death, close to the Tarboche flagpole. The pole is lowered and raised again every year at Saga Dawa, the full moon of the fourth Tibetan month, when the plain fills with pilgrims."},
+    {"title": "Milarepa's cave at Zuthulpuk", "text": "The second night is spent near Zuthulpuk monastery, built around a cave linked to the poet-yogi Milarepa. After the long day over the pass, it is a quiet place to rest before the gentle final walk out to Zongdo."},
+    {"title": "Faces of the mountain", "text": "Walking clockwise you see Kailash from the west, north and east in turn, each face shaped differently. Clear mornings in late May and September give the sharpest views; afternoon cloud often hides the summit."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Overland from Kathmandu to Kyirong through Rasuwagadhi (≈ 165 km, 7–9 h with formalities), then Kyirong–Saga (≈ 250 km, 5–6 h) and Saga–Manasarovar (≈ 480 km, 8–9 h). Darchen is about 35 km from the lake. The Rasuwagadhi crossing was badly damaged by floods in 2025 and again in August 2026; check current status before you travel."},
+    {"mode": "Air", "text": "Fly Kathmandu–Nepalgunj (≈ 1 h), then Nepalgunj–Simikot by small aircraft (≈ 45 min). From Simikot a helicopter shuttle reaches Hilsa on the border, and a vehicle takes you via Purang to Manasarovar and Darchen in about 3–4 h."},
+    {"mode": "Helicopter", "text": "The Simikot–Hilsa helicopter sector takes about 20–30 minutes, flown in the morning in groups of four or five per sortie. Afternoon wind and cloud often stop flights, so spare days are built into every itinerary on this route."},
+    {"mode": "On foot", "text": "The parikrama itself is on foot or by pony: about 12 km from Yam Dwar to Dirapuk, 20–22 km over Dolma La to Zuthulpuk, and 9–10 km out to Zongdo, with eco-buses covering the stretches to and from Darchen."}
+  ],
+  "where_to_stay": "There are no hotels on the parikrama itself. Night one is at Dirapuk and night two at Zuthulpuk, both in basic stone guesthouses with shared dorm rooms of four to eight beds, quilts, and pit or simple flush toilets; there are no showers. Some newer guesthouses at Dirapuk have small private rooms that sell out early in the season. Before and after the circuit you sleep in Darchen, where simple guesthouses and small hotels have rooms with attached toilets and limited hot water. We book the best available rooms through our Tibetan partner, and you should bring a sleeping bag liner for warmth and hygiene.",
+  "stays": [],
+  "tips": [
+    "Walk your own pace on day one and save energy; the real test is the climb to Dolma La on day two.",
+    "Book a pony at Darchen even if you hope to walk; the cooperative hires them in advance and same-day ponies are rare.",
+    "Start day two before 5 am with a headtorch so you cross Dolma La before the afternoon wind.",
+    "Carry dry fruit, glucose powder and 2 litres of warm water; teahouse tents on the trail sell noodles and tea but little else.",
+    "Keep your passport and Tibet permit copies on you; checkpoints at Darchen and Yam Dwar inspect them."
+  ],
+  "themes": ["kailash-yatra", "pilgrimage", "trekking", "photography"],
+  "nearby": ["darchen", "lake-manasarovar", "purang"],
+  "experiences": [
+    {
+      "slug": "kailash-parikrama-day-1-yam-dwar-to-dirapuk",
+      "title": "Parikrama day 1: Yam Dwar to Dirapuk",
+      "kind": "hiking",
+      "duration": "5–7 hours walking",
+      "best_time": "Morning start, May–Jun and Sep",
+      "price_hint": "Included in our Kailash yatras",
+      "image_query": "Lha Chu valley Kailash kora west",
+      "wiki": "",
+      "summary": "The first day follows the Lha Chu valley north from Yam Dwar to Dirapuk, about 12 km with a gentle climb from roughly 4,675 m to 4,900 m. Red cliffs line the valley and the north face of Kailash appears at the end of the day.",
+      "body": [
+        "After an early breakfast in Darchen, an eco-bus takes the group about 7 km to Yam Dwar, the gateway near the Tarboche flagpole. Pilgrims touch the gate, walk through and turn north into the wide Lha Chu valley. The path is broad and mostly gentle, following the river past cliffs that Tibetans read as shapes of deities and offerings. Chhuku monastery sits high on the western slope; few groups climb to it, but it is visible from the trail.",
+        "The gain is only about 225 m over 12 km, yet the altitude makes every step slower than at home. Most pilgrims take 5–7 hours with breaks at tea tents, where you can buy noodles, sweet tea and bottled water. Ponies and horsemen join the group at Yam Dwar; many people ride for an hour or two on day one to see how they feel before the pass.",
+        "The valley bends east in the afternoon and the north face of Kailash appears, close and vertical, above Dirapuk. The guesthouses face the mountain across the river. Evening is the time for prayers and photographs, and for an early dinner of rice, dal and vegetables cooked by the group's Tibetan kitchen staff or the guesthouse. Sleep early; the alarm for day two is before 4 am."
+      ],
+      "good_for": ["pilgrims", "groups", "photographers", "seniors"],
+      "faqs": [
+        {"q": "How hard is the first day of Kailash parikrama?", "a": "It is the easiest of the three days: about 12 km with roughly 225 m of gain, on a wide path. The difficulty is altitude, around 4,700–4,900 m, so most people walk slowly and take 5–7 hours. Pilgrims who feel weak can ride a pony from Yam Dwar and still reach Dirapuk by mid-afternoon."},
+        {"q": "Can I see Kailash's north face from Dirapuk?", "a": "Yes. Dirapuk faces the north face directly across the Lha Chu, about 3 km away, and it is the closest view of the summit on the circuit. Late afternoon and early morning usually give the clearest light. Cloud can cover the peak on some days, especially in July and August, so allow time to wait."},
+        {"q": "Is there a mobile network on parikrama day 1?", "a": "Chinese networks reach parts of the Lha Chu valley and often Dirapuk, but coverage is patchy and Indian or Nepali SIMs usually do not roam. Our groups buy a local SIM through the Tibetan guide where rules allow, and the guide carries a phone for emergencies. Do not plan to rely on data during the walk."}
+      ]
+    },
+    {
+      "slug": "kailash-parikrama-day-2-dolma-la",
+      "title": "Parikrama day 2: over Dolma La to Zuthulpuk",
+      "kind": "spiritual",
+      "duration": "10–12 hours",
+      "best_time": "Start before 5 am, May–Jun and Sep",
+      "price_hint": "Included; pony for the day ≈ US$ 150–200",
+      "image_query": "Dolma La pass prayer flags Kailash",
+      "wiki": "",
+      "summary": "The hardest and holiest day: about 20–22 km from Dirapuk over the Dolma La pass at approximately 5,630 m, down past Gauri Kund to Zuthulpuk at about 4,790 m. Expect a pre-dawn start, a 3–4 hour climb and a long, stony descent.",
+      "body": [
+        "Groups leave Dirapuk in the dark, between 4 and 5 am, with headtorches. The trail climbs about 730 m to Dolma La, steeply in places, over boulders and patches of snow early in the season. Halfway up is Shiva-sthal, a field of clothes and hair where pilgrims leave a token of their old life. Most people take 3–4 hours to reach the pass, stopping every few minutes to breathe.",
+        "At the top, around 5,630 m, a great boulder draped in prayer flags marks Dolma La, the pass of the goddess Tara. Stay only 10–15 minutes: offer prayers, add flags and keep moving, because the wind is fierce and the air carries about half the oxygen of sea level. Just below on the east side lies Gauri Kund, often frozen in May and June.",
+        "The descent is the part people underestimate. The first 400 m down is steep and loose, then the trail runs for hours along the flat Lham Chu Khir valley to Zuthulpuk. Ponies cannot carry riders on the steepest section, so everyone walks it. Arrive by late afternoon, eat, drink plenty and sleep; the third day is short."
+      ],
+      "good_for": ["pilgrims", "groups", "solo"],
+      "faqs": [
+        {"q": "What is the height of Dolma La on Kailash parikrama?", "a": "Dolma La is approximately 5,630 m (about 18,470 ft); published figures range from 5,600 to 5,660 m depending on the survey. It is the highest point of the outer parikrama and is crossed on day two, about 730 m above Dirapuk. Most pilgrims spend only 10–15 minutes at the top because of wind and thin air."},
+        {"q": "Can I ride a pony over Dolma La?", "a": "You can ride most of the ascent, but horsemen ask riders to dismount on the steepest rocky stretches and on the first steep descent below the pass, so plan to walk at least 1–2 hours. Ponies are booked through the Darchen cooperative for the full three days; rates are set locally each season, so check current prices before you travel."},
+        {"q": "What happens if I cannot cross Dolma La?", "a": "If you feel unwell at Dirapuk or on the climb, your guide will turn you back to Darchen with a staff member and arrange a vehicle. You keep your place in the group and rejoin it after the circuit. Turning back is common and sensible; symptoms such as confusion, breathlessness at rest or severe headache mean descending immediately."}
+      ]
+    },
+    {
+      "slug": "kailash-parikrama-day-3-zuthulpuk-to-darchen",
+      "title": "Parikrama day 3: Zuthulpuk to Darchen",
+      "kind": "hiking",
+      "duration": "3–4 hours walking + bus",
+      "best_time": "Morning, May–Jun and Sep",
+      "price_hint": "Included in our Kailash yatras",
+      "image_query": "Zuthulpuk monastery Milarepa cave Kailash",
+      "wiki": "",
+      "summary": "A gentle final morning: about 9–10 km downhill along the Zhong Chu gorge from Zuthulpuk (≈ 4,790 m) to Zongdo, where an eco-bus returns pilgrims to Darchen. Visit Milarepa's cave before leaving and finish the circuit by lunchtime.",
+      "body": [
+        "Before setting off, many pilgrims climb the few steps to Zuthulpuk monastery to see the cave where Milarepa is said to have meditated, with the imprint of his hand on the rock roof. Butter lamps burn inside, and monks are usually happy for visitors to make a short round of the shrine. Then the trail follows the river south through a narrow gorge with red and grey cliffs.",
+        "The path drops gently, about 150 m over 9–10 km, and most people reach Zongdo in 3–4 hours. Mani stone walls and cairns mark the way. Ponies that carried riders on days one and two finish here, so settle the tips for horsemen and porters at Zongdo, where the guide will help you share them fairly.",
+        "From Zongdo an eco-bus covers the last few kilometres across the plain to Darchen, where the vehicle waits. Groups going home via Hilsa usually continue the same afternoon to Purang (≈ 100 km, 2–3 h), while overland groups drive on towards Saga or stay one more night in Darchen. A hot shower and a proper bed rarely felt so good."
+      ],
+      "good_for": ["pilgrims", "groups", "seniors", "families"],
+      "faqs": [
+        {"q": "How long is the last day of Kailash parikrama?", "a": "About 9–10 km on foot from Zuthulpuk to Zongdo, taking 3–4 hours with a gentle descent of roughly 150 m, followed by a short eco-bus ride to Darchen. Most groups finish by noon or early afternoon and then drive on towards Purang or Saga the same day."},
+        {"q": "Is Milarepa's cave worth visiting at Zuthulpuk?", "a": "Yes, it takes only 20–30 minutes and the monastery is right beside the guesthouses. The cave is linked to Milarepa's contest with the Bon master Naro Bonchung, and pilgrims point out a handprint on the roof. Carry small notes for butter lamps and keep voices low while monks are at prayer."},
+        {"q": "How much should I tip the pony man and porter at Kailash?", "a": "Tips are customary at the end of the circuit at Zongdo. Our groups usually give each horseman or porter the equivalent of about one day's hire for the three days, paid in Chinese yuan. Your guide will suggest an amount on the day, since rates and customs shift a little each season."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How long is the Kailash parikrama?", "a": "The outer parikrama is about 52 km if walked from Darchen and back. Most groups now take an eco-bus to Yam Dwar and from Zongdo, so the walking distance is about 42–45 km over three days: about 12 km on day one, 20–22 km over Dolma La on day two and 9–10 km on day three."},
+    {"q": "What is the altitude of Mount Kailash?", "a": "Mount Kailash is 6,638 m (21,778 ft). Climbing it is not permitted. The parikrama around it runs between about 4,575 m at Darchen and approximately 5,630 m at the Dolma La pass, so even pilgrims who never leave the trail spend three days above 4,500 m."},
+    {"q": "When is the best time for Kailash Mansarovar yatra?", "a": "May to early October, with late May, June and September the most reliable. July and August bring monsoon cloud on the Nepal side, which can delay Simikot flights and wash out the Kyirong road, though Tibet itself stays fairly dry. From November to April the area is very cold and permits are rarely issued."},
+    {"q": "Can senior citizens do the Kailash parikrama?", "a": "Many pilgrims in their 60s complete it, often riding a pony for parts of days one and two. Recent rules on the Nepal routes have set an age limit around 70 years, with exceptions in some seasons; this is guidance only, so check current status before you travel. A doctor's fitness check before booking is essential."},
+    {"q": "Do I need to be fit for Kailash parikrama?", "a": "You need good cardiovascular fitness more than strength. Aim to walk 8–10 km briskly without strain and climb stairs for 30 minutes for at least two months before departure. Anyone with heart disease, uncontrolled blood pressure, lung problems or pregnancy should not attempt it. Our fitness and medical guide lists the tests we recommend."},
+    {"q": "Can I do Kailash parikrama in one day?", "a": "A few Tibetan pilgrims walk the 52 km in a single day, but it is not advisable for visitors unused to 5,000 m. Groups take three days with nights at Dirapuk and Zuthulpuk. If you cannot do the full circuit, you can walk or ride to Dirapuk for the north face and return the same way."},
+    {"q": "Is it compulsory to hire a pony or porter?", "a": "No. You may carry your own daypack and walk, but most pilgrims hire a porter for a small bag and many book a pony as insurance. Hiring is through the local cooperative in Darchen, often by lottery, and costs are set locally each season. Book through your guide the day before the walk starts."},
+    {"q": "What is the difference between outer and inner Kailash parikrama?", "a": "The outer parikrama circles the mountain in about 52 km over Dolma La. The inner kora, via the Nandi side and Ashtapad area, is more remote, and Tibetan tradition holds it for those who have completed thirteen outer circuits; foreign groups are rarely permitted. Indian groups often take a short Ashtapad darshan drive from Darchen instead."},
+    {"q": "Which side of Kailash is visible from Darchen?", "a": "From Darchen and the plain you see the south face, with its vertical gully that pilgrims call the stairway to heaven. The west face shows on day one of the parikrama, the north face at Dirapuk, and the east side on the descent from Dolma La. Each face looks very different."}
+  ]
+}

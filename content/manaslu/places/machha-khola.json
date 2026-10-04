@@ -1,0 +1,130 @@
+{
+  "slug": "machha-khola",
+  "name": "Machha Khola",
+  "region": "manaslu",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Machha Khola village Budhi Gandaki",
+  "lat": 28.302,
+  "lng": 84.878,
+  "altitude_m": 930,
+  "tagline": "Road-end village where most Manaslu treks now begin",
+  "meta_description": "Machha Khola (930 m), start of the Manaslu Circuit: jeep from Kathmandu, Tatopani hot spring, Budhi Gandaki gorge, lodges and first-day tips.",
+  "summary": "Machha Khola is a small Gurung village at 930 m on the Budhi Gandaki, and for most trekkers it is the first night of the Manaslu Circuit. Jeeps from Kathmandu reach it in 8 to 9 hours. From here the trail follows the gorge north to Jagat, passing the Tatopani hot spring.",
+  "intro": [
+    "Machha Khola means fish stream, after the side river that joins the Budhi Gandaki here. The village is a line of lodges, shops and houses along a terrace above the main river, at about 930 m. It is warm and green, with banana trees, rice terraces on the slopes opposite and the noise of water day and night. For many years trekkers walked here from Arughat and Soti Khola; now jeeps bring most groups directly from Kathmandu on a long, rough day.",
+    "That drive is the first test of the trip. The first half, from Kathmandu to Dhading Besi, is on paved road and takes 3 to 4 hours. After Arughat the road becomes a dirt track cut into the side of the Budhi Gandaki valley, crossing streams and landslide zones, and the last section to Machha Khola can take as long as the first. In the monsoon parts of it close. Arriving in the late afternoon, you will be glad of a cold drink and a plate of dal bhat.",
+    "Machha Khola sits in the subtropical zone, far below the alpine scenery you came for, but this lower valley is part of what makes the Manaslu Circuit special. Over the next days you climb through every climate band of Nepal, from rice and bananas here to yak pastures and glaciers at Samdo and Larkya La. The first walking stage, to Jagat, follows the gorge past waterfalls, suspension bridges and a natural hot spring."
+  ],
+  "facts": [
+    ["Altitude", "930 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu, ≈ 160 km by road"],
+    ["From Kathmandu", "≈ 160 km · 8–9 h by jeep via Dhading Besi and Arughat"],
+    ["Known for", "Start of the Manaslu Circuit, Budhi Gandaki gorge, Tatopani"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Start of the trail", "text": "Machha Khola is where most trekkers take their first steps on the Manaslu Circuit. The road ends nearby for most of the year, and the trail beyond follows the Budhi Gandaki north on stone steps, suspension bridges and cliff paths."},
+    {"title": "Tatopani hot spring", "text": "About 2.5 to 3 hours north at Tatopani, natural hot water comes out of the hillside into concrete spouts by the trail. It is a welcome wash on the first walking day, and most groups stop for a few minutes on the way to Jagat."},
+    {"title": "Budhi Gandaki gorge", "text": "Between Machha Khola and Jagat the river cuts a deep gorge with waterfalls dropping from the cliffs. The path climbs and falls along the walls, crossing the river on long suspension bridges at Dobhan and beyond."},
+    {"title": "Gurung farming villages", "text": "Khorlabesi and the villages around Machha Khola are Gurung and Magar settlements with rice, millet and maize terraces. Children walk to school along the trail, and buffalo and goats share the path with trekkers."},
+    {"title": "Warm evenings", "text": "At 930 m nights in October are around 15 to 18 °C, so the first evening is comfortable in a T-shirt. Enjoy it, because a week later you will be wearing a down jacket in Samdo."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Private jeeps and shared jeeps from Kathmandu (Machhapokhari or Gongabu area) take 8 to 9 hours to cover about 160 km via Dhading Besi and Arughat. Public buses run to Arughat or Soti Khola in about 8 hours, then shared jeeps continue. In the monsoon landslides often block the Arughat to Machha Khola section; check current status before you travel."},
+    {"mode": "On foot", "text": "If the road is blocked or you want a quieter start, walk from Soti Khola (710 m) to Machha Khola in 6 to 7 hours, about 15 km, through sal forest, Gurung villages and Labubesi. This was the classic first trekking day before the road was built."}
+  ],
+  "where_to_stay": "Machha Khola has a dozen simple teahouse lodges on the main lane, most with twin rooms, shared or attached bathrooms and a small garden or terrace above the river. Because the jeep road arrived only recently, lodges are basic but clean, and many have hot showers heated by gas or solar panels. Rooms facing the river are noisy at night with the sound of water. Lodge names here change often, so we confirm each season rather than list them; in peak October, when many groups arrive by jeep the same afternoon, we reserve ahead.",
+  "stays": [],
+  "tips": [
+    "Leave Kathmandu by 6:30 am so the rough section after Arughat is behind you before dark.",
+    "Carry motion-sickness tablets and a scarf for dust; the road after Arughat is bumpy and unpaved.",
+    "Buy any last snacks or sun cream in Kathmandu or Dhading Besi; choice in Machha Khola is small.",
+    "Fill water bottles from your lodge's filtered supply and treat stream water; the low valley is warm and you will drink 3 litres on day one.",
+    "Your guide will check permits from here onwards, so keep your passport and permits in an easy-to-reach pocket."
+  ],
+  "themes": ["trekking", "budget-nepal"],
+  "nearby": ["jagat", "namrung", "tsum-valley"],
+  "experiences": [
+    {
+      "slug": "machha-khola-tatopani-hot-spring",
+      "title": "Tatopani hot spring stop on the way to Jagat",
+      "kind": "wellness",
+      "duration": "30 minutes",
+      "best_time": "Late morning on the first walking day",
+      "price_hint": "Free",
+      "image_query": "Tatopani hot spring Manaslu trail",
+      "wiki": "",
+      "summary": "Natural hot water piped from the hillside at Tatopani, about 2.5 to 3 hours north of Machha Khola, makes the best short break on the first walking day. Trekkers wash faces and arms, soak tired feet and refill on tea before the gorge section to Dobhan and Jagat.",
+      "body": [
+        "Tatopani simply means hot water. On the Manaslu trail it is a small cluster of houses and a tea shop where warm spring water flows from spouts built into a concrete wall beside the river. Locals use it for washing clothes and bathing, and trekkers stop to rinse off the dust of the jeep ride and the morning's walk. The water is warm rather than hot, pleasant on cool spring mornings and refreshing in the heat of September.",
+        "There is no proper pool, so this is a quick wash rather than a soak. Wear shorts and a T-shirt or a sarong, keep soap away from the spouts, and remember that this is a village water supply first. Women trekkers usually wash in shorts and a top rather than swimwear, following local habits.",
+        "From Tatopani the trail climbs on stone steps, crosses the river on a suspension bridge and continues through the gorge to Dobhan and then Jagat. Use the stop to refill water and eat a snack, because the next section has steep climbs in full sun."
+      ],
+      "good_for": ["groups", "solo", "couples", "families"],
+      "faqs": [
+        {"q": "Where is the Tatopani hot spring on the Manaslu trek?", "a": "It is on the main trail between Khorlabesi and Dobhan, roughly 2.5 to 3 hours' walk north of Machha Khola on the first trekking day. You reach it before the gorge section to Jagat. It is a small roadside spring with spouts, not a resort, and there are tea shops nearby."},
+        {"q": "Can I swim at Tatopani on the Manaslu Circuit?", "a": "There is no pool to swim in. Hot water flows from spouts into a small concrete area used by villagers for washing. Trekkers usually wash their arms, faces and feet or have a quick shower under a spout in shorts and a T-shirt. Keep soap away from the spring."},
+        {"q": "Is the Tatopani water safe to drink?", "a": "Do not drink it untreated. Hot spring water carries minerals and the area is used for washing. Refill your bottle from a lodge's filtered water or treat stream water with tablets or a filter. Drinking 3 litres a day in this warm lower valley helps prevent headaches."}
+      ]
+    },
+    {
+      "slug": "machha-khola-budhi-gandaki-gorge-walk",
+      "title": "Budhi Gandaki gorge walk to Jagat",
+      "kind": "nature",
+      "duration": "6–7 hours",
+      "best_time": "Early start, Oct–Nov for clear water",
+      "price_hint": "Included in most treks",
+      "image_query": "Budhi Gandaki gorge suspension bridge",
+      "wiki": "Budhi Gandaki River",
+      "summary": "The first full walking day of the Manaslu Circuit follows the Budhi Gandaki through a narrow gorge from Machha Khola to Jagat. Expect suspension bridges, waterfalls, cliff-side stone stairs and about 400 m of net height gain across 6 to 7 hours.",
+      "body": [
+        "The Budhi Gandaki rises near the Tibet border and runs south through Gorkha district to join the Trishuli at Benighat. Between Machha Khola and Jagat it has carved a deep, twisting gorge, and the trail clings to its sides. You pass Khorlabesi and Tatopani, cross to the east bank at Dobhan and follow sections where the path is cut into rock above white water.",
+        "The landscape changes as you go. Rice and banana give way to millet terraces and then to steep forest, with langur monkeys sometimes in the trees. Waterfalls drop hundreds of metres from the valley walls, strongest after the monsoon in September and early October. Mule trains carrying rice, gas and beer for the lodges up the valley pass in both directions, so always step to the uphill side when they come.",
+        "Although the net gain is only about 400 m, the many ups and downs make it a full day. Walk early to avoid the midday heat, wear a sunhat and carry 2 litres of water. You reach Jagat in mid afternoon, where the Manaslu Conservation Area checkpoint stamps your permits."
+      ],
+      "good_for": ["photographers", "groups", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How long is the walk from Machha Khola to Jagat?", "a": "Allow 6 to 7 hours for about 22 km, with roughly 400 m of net gain but many ups and downs. You pass Khorlabesi, Tatopani and Dobhan on the way. In the dry season jeeps sometimes run part of this section, but most trekking groups walk it for the gorge scenery."},
+        {"q": "Is the Budhi Gandaki gorge trail dangerous?", "a": "It is safe with normal care. Some sections are narrow and cut into cliffs, and landslide debris crosses the path after heavy rain. Always step to the uphill side when mules pass, keep away from loose edges and follow your guide's advice about rockfall zones. Avoid this stretch in the monsoon."},
+        {"q": "Will I see mountains on the first day of the Manaslu trek?", "a": "Not many. The first day is in a deep gorge, and the big peaks are hidden behind the valley walls. The first clear views of Himalayan peaks usually come around Deng and Namrung on days three and four, and Manaslu itself appears near Lho."}
+      ]
+    },
+    {
+      "slug": "machha-khola-khorlabesi-village-walk",
+      "title": "Khorlabesi terraces and Gurung farms",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon on arrival, Sep–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Gurung village terraces Gorkha",
+      "wiki": "",
+      "summary": "A short walk from Machha Khola to Khorlabesi and the farms above the trail, to see Gurung and Magar village life in the lower Budhi Gandaki. It suits the evening after the jeep ride, when stretching your legs beats sitting in the lodge.",
+      "body": [
+        "The lower Budhi Gandaki valley is Hindu and Buddhist Gurung, Magar and Brahmin-Chhetri country, quite different from the Tibetan Buddhist Nubri villages higher up. Around Machha Khola and Khorlabesi you see two-storey stone houses with slate roofs, maize hung to dry under the eaves and terraces planted with rice in summer and millet in autumn.",
+        "Your guide can take you along the main trail to Khorlabesi and onto the farm paths above, where families thresh grain, carry fodder and tend buffalo. September and October are harvest months, and you may see rice being cut by hand or millet heads being beaten on mats. Children often walk alongside and practise their English.",
+        "Keep the walk short and easy after a long drive, return before dusk and save your energy for the gorge day. It is a gentle introduction to the many communities the Manaslu Circuit passes through, and a reminder that most people here farm for a living rather than run lodges."
+      ],
+      "good_for": ["families", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Who lives in the villages around Machha Khola?", "a": "Mainly Gurung and Magar families, along with Brahmin and Chhetri households, who farm rice, maize and millet. Most follow a mix of Hindu and Buddhist practice. This lower valley is culturally different from the Tibetan Buddhist Nubri and Tsum villages you reach after Namrung and Lokpa."},
+        {"q": "Is it okay to walk around Machha Khola in the evening?", "a": "Yes, the village is quiet and safe. Stay on main trails, carry a headtorch if you go out near dusk and avoid walking through fields without permission. Your guide can show you the farm paths to Khorlabesi and back in about 1.5 hours."},
+        {"q": "Can I buy local produce in Machha Khola?", "a": "Small shops sell seasonal fruit such as oranges in late autumn and bananas most of the year, plus biscuits and drinks. Lodges serve dal bhat made with local rice and vegetables. Buying fruit from villagers is fine, but agree the price first and pay in small rupee notes."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get from Kathmandu to Machha Khola?", "a": "By private or shared jeep, about 160 km in 8 to 9 hours via Dhading Besi and Arughat. The road is paved to Dhading Besi and rough dirt after Arughat. Public buses go to Arughat or Soti Khola in about 8 hours, where shared jeeps continue. Check current road status before you travel."},
+    {"q": "What is the altitude of Machha Khola?", "a": "Machha Khola is at about 930 m. It is one of the lowest overnight stops on the Manaslu Circuit, so the first night is warm. The trek climbs gradually to Jagat at 1,340 m the next day and reaches Samagaun at 3,530 m about five days later."},
+    {"q": "Is Machha Khola the start of the Manaslu Circuit?", "a": "For most trekkers today, yes. Jeeps reach Machha Khola in the dry season, so itineraries start walking from here. Older itineraries began at Arughat or Soti Khola. In good conditions some jeeps go on to Jagat, but most groups still walk the gorge."},
+    {"q": "Are there ATMs in Machha Khola?", "a": "No. The last reliable ATMs are in Kathmandu, Dhading Besi and Arughat. Carry enough Nepali rupees in cash for the whole trek, typically 3,000 to 4,000 rupees a day for snacks, drinks, hot showers, Wi-Fi and charging, plus tips for staff."},
+    {"q": "Is there mobile signal in Machha Khola?", "a": "Yes, Ncell and Nepal Telecom both work in and around the village most of the time, and some lodges have Wi-Fi. Coverage becomes patchy between Jagat and Namrung and improves again around Samagaun. Buy a local SIM with data in Kathmandu before you leave."},
+    {"q": "Can the Manaslu road be closed?", "a": "Yes. Landslides block the Arughat to Machha Khola section several times each monsoon, and repairs can take days. Even in autumn, small slides sometimes stop traffic for a few hours. In that case we drive as far as possible and walk the last section, usually from Soti Khola."},
+    {"q": "What is the weather like in Machha Khola in October?", "a": "Warm and humid by day, around 25 to 28 °C, with comfortable nights of 15 to 18 °C. Skies are usually clear after the monsoon. Bring sun protection and light clothes for the first two days; you will need warm layers only from Namrung upwards."},
+    {"q": "Do I need a permit to stay in Machha Khola?", "a": "Machha Khola is below the restricted area, which starts at Jagat, so the first night does not need the restricted area permit stamp. You do need all Manaslu permits arranged before leaving Kathmandu, because the Manaslu Conservation Area and restricted area checks start the next day."},
+    {"q": "Can I walk from Soti Khola to Machha Khola instead of driving?", "a": "Yes. It is a 6 to 7 hour walk of about 15 km through forest and Gurung villages, a good warm-up day. It adds one day to the itinerary. We suggest it when the road beyond Soti Khola is blocked or when trekkers prefer to start walking sooner."}
+  ]
+}

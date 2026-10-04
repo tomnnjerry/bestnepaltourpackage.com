@@ -1,0 +1,82 @@
+{
+  "slug": "bardia-tiger-safari-3-nights",
+  "title": "Bardia Tiger Safari 3 Nights from Nepalgunj",
+  "region": "far-west",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["wildlife-safari", "photography", "short-breaks", "overland-from-india"],
+  "stops": [{"place": "nepalgunj", "nights": 0}, {"place": "bardia-national-park", "nights": 3}],
+  "start": "Nepalgunj (airport or Rupaidiha border)",
+  "end": "Nepalgunj",
+  "price_from_inr": 22000,
+  "price_from_usd": 260,
+  "best_months": [1, 2, 2, 2, 2, 0, 0, 0, 0, 1, 2, 1],
+  "max_altitude_m": 180,
+  "accommodation": "Mango Tree Lodge or similar family-run jungle lodge in Thakurdwara",
+  "transport": "Private car Nepalgunj–Bardia–Nepalgunj, park jeep for safari",
+  "group": "Private, 2–6 per jeep",
+  "meta_description": "Bardia tiger safari, 4 days and 3 nights from Nepalgunj: full-day jeep safari, guided jungle walk, Tharu village, lodge stay and park fees. From ₹22,000.",
+  "summary": "Three nights in Thakurdwara on the edge of Bardia National Park, with one full day by jeep on the Karnali side and one long guided walk on tiger trails. Starts and ends in Nepalgunj, 2.5–3 hours away, so it suits travellers flying in from Kathmandu or driving over from Lucknow.",
+  "intro": [
+    "Bardia rewards time in the forest, and this short safari is built around two full park days rather than several short outings. On the first you cross the sal forest to the Karnali grasslands in an open jeep, waiting at river crossings where tigers drink. On the second you walk with two licensed naturalists along stream beds such as the Khauraha, reading pugmarks and alarm calls. Evenings are for the Tharu villages around Thakurdwara.",
+    "We base you at Mango Tree Lodge or a similar family-run lodge a few minutes from the park gate, so there is no wasted time on early starts. The trip runs from Nepalgunj, which you reach by an hour's flight from Kathmandu or a 4–5 hour drive from Lucknow via Rupaidiha. Nepal's 2026 census counted 112 tigers in Bardia; no one can promise a sighting, but this format gives you a fair chance."
+  ],
+  "highlights": [
+    "Full-day jeep safari to the Karnali grasslands with packed lunch",
+    "Guided jungle walk with two licensed naturalists on tiger trails",
+    "Crocodile breeding centre at the Bardia park headquarters",
+    "Tharu village walk and evening stick dance in Thakurdwara",
+    "Lodge a short walk from the park gate, ideal for dawn starts"
+  ],
+  "days": [
+    {"day": 1, "title": "Nepalgunj to Bardia, village walk", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "≈ 1.5 h · 4 km", "drive": "≈ 95 km · 2.5–3 h", "flight": "", "text": "Pick-up at Nepalgunj airport or your hotel, or at the Rupaidiha border if you are coming from Lucknow. Drive east through Kohalpur and the forest of Banke National Park, turning off the East–West Highway at Ambassa for the last 20 km to Thakurdwara. After lunch at the lodge, walk to the park headquarters to see the gharial and mugger crocodile breeding centre, then continue through Tharu villages with their mud-walled longhouses and painted grain stores. Safari briefing over dinner.", "meals": "L, D"},
+    {"day": 2, "title": "Full-day jeep safari on the Karnali side", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "", "drive": "≈ 60–80 km in the park · 8–9 h", "flight": "", "text": "Leave at about 6:30 am in an open jeep with your naturalist. The route crosses sal forest to the grasslands of Baghaura and Lamkauli and the banks of the Geruwa channel of the Karnali, where tigers often cross. Much of the day is spent waiting quietly at watchpoints. Expect spotted deer, hog deer, langurs, wild boar, peafowl and raptors; rhinos, wild elephants and Ganges river dolphins are seen on some days. Packed lunch by the river, back at dusk.", "meals": "B, L, D"},
+    {"day": 3, "title": "Jungle walk on tiger trails", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "≈ 6–7 h · 12–15 km", "drive": "", "flight": "", "text": "A walking safari with two licensed guides, starting at the park gate at dawn. You follow forest roads and the sandy beds of streams such as the Khauraha and Orai, checking for fresh pugmarks and scrapes and listening for deer and langur alarm calls. The guides choose hides by waterholes and watchtowers where you sit still for long spells. Lunch is carried. Return mid-afternoon, rest, then watch a Tharu stick dance in the village in the evening.", "meals": "B, L, D"},
+    {"day": 4, "title": "Morning birding, drive to Nepalgunj", "place": "nepalgunj", "overnight": "", "altitude_m": 150, "max_m": 180, "walk": "≈ 1.5 h · 3 km", "drive": "≈ 95 km · 2.5–3 h", "flight": "", "text": "An optional short birding walk along the buffer zone before breakfast, when hornbills, woodpeckers and kingfishers are active. Then drive back to Nepalgunj, arriving around midday for an afternoon flight to Kathmandu, or continue to the Rupaidiha border for the drive to Lucknow. If you have time, we can stop at the Bageshwari Temple in Nepalgunj on the way to the airport.", "meals": "B"}
+  ],
+  "stays": ["mango-tree-lodge-bardia"],
+  "includes": [
+    "3 nights at Mango Tree Lodge or similar, twin sharing",
+    "All meals in Bardia from lunch on day 1 to breakfast on day 4",
+    "Private car Nepalgunj–Bardia–Nepalgunj with driver",
+    "One full-day jeep safari with naturalist and packed lunch",
+    "One full-day guided jungle walk with two licensed guides",
+    "Bardia National Park entry fees for two park days",
+    "Crocodile breeding centre visit and Tharu village walk",
+    "Tharu cultural dance in the evening"
+  ],
+  "excludes": [
+    "Flights to and from Nepalgunj",
+    "Nepal visa fees for non-Indian nationals",
+    "Karnali river float (available as an add-on)",
+    "Drinks, bottled water and snacks",
+    "Tips for guides, drivers and lodge staff",
+    "Travel insurance",
+    "Personal expenses such as laundry and phone calls"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing a private jeep and twin room at a mid-range lodge between October and May.",
+    "Park fees are included at foreign-national rates; SAARC and Indian nationals pay less and the difference is adjusted.",
+    "Tiger sightings are never guaranteed; February to May gives the best odds.",
+    "Many Bardia lodges close or reduce service from late June to mid-September.",
+    "Children under 12 join the jeep safari but take a shorter walk instead of the full-day jungle walk.",
+    "Park rules and fees change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Karnali river float for dolphins and crocodiles", "price": "≈ ₹7,000 per person"},
+    {"name": "Extra night with second full-day jeep safari", "price": "≈ ₹9,000 per person"},
+    {"name": "Lucknow–Nepalgunj return transfer by private car", "price": "≈ ₹12,000 per car"}
+  ],
+  "faqs": [
+    {"q": "Is three nights enough for Bardia?", "a": "Three nights gives two full days in the park, which is the sensible minimum for a real chance of seeing a tiger. With four or five nights you can add a second jeep day, a river float or the Babai valley, and your odds improve noticeably. One or two nights rarely justify the journey."},
+    {"q": "What are the chances of seeing a tiger on this safari?", "a": "We cannot give a precise figure, and no honest operator can. In April and May, guests on three-night stays with a full jeep day and a full walking day often see at least one tiger. From October to January the chances drop. You will almost certainly see tracks, deer, langurs, birds and often rhinos or elephants."},
+    {"q": "Can I start this Bardia safari from Lucknow?", "a": "Yes. Lucknow to Nepalgunj is about 190 km, 4–5 hours by car via Bahraich and the Rupaidiha border, and we can pick you up at the border or arrange the full transfer from Lucknow. Indian nationals need a passport or voter ID. Allow a full day for travel including border formalities."},
+    {"q": "What is the best month for a Bardia tiger safari?", "a": "April and May give the best tiger odds because grass has been cut and animals gather at shrinking water, but temperatures reach 38–42 °C. February and March are a good balance of comfort and sightings. October to January is pleasant and green, with fog on December and January mornings."},
+    {"q": "Is the jungle walk in Bardia safe?", "a": "Yes, when done with two experienced licensed guides, as park rules require. The guides brief you on what to do if you meet a rhino, elephant or sloth bear, which are more of a risk on foot than tigers. Groups are small and quiet. We do not take children under 12 on full-day walks."},
+    {"q": "How much does a Bardia safari cost from India?", "a": "This 3-night package starts from about ₹22,000 per person, twin sharing, from Nepalgunj, including lodge, meals, transfers, a full-day jeep safari, a full-day walk and park fees. Add about ₹12,000 per car for a Lucknow transfer. Luxury stays at Tiger Tops Karnali cost several times more."},
+    {"q": "What should I pack for a Bardia safari?", "a": "Clothes in green, khaki, brown or grey, long trousers, closed walking shoes, a hat, sunscreen, insect repellent and binoculars. Add a fleece and scarf for December–February mornings. Bring a camera with a zoom lens and a dust cover. Lodges supply bedding, so you do not need a sleeping bag."},
+    {"q": "Can families with children do this safari?", "a": "Yes. Children of about eight and over usually enjoy the jeep safari, crocodile centre and village walk. The full-day jungle walk is for older children and adults; younger ones can do a shorter morning walk or a river float instead. Choose March or October–November to avoid extreme heat."},
+    {"q": "Do I fly to Bardia directly?", "a": "No. There is no airport at Bardia. Fly from Kathmandu to Nepalgunj, about an hour, then drive 95 km to Thakurdwara in 2.5–3 hours. Morning flights let you reach the lodge for lunch. Afternoon departures from Nepalgunj on the last day work well with the morning drive back."}
+  ]
+}

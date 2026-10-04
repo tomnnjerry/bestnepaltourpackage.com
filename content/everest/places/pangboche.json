@@ -1,0 +1,131 @@
+{
+  "slug": "pangboche",
+  "name": "Pangboche",
+  "region": "everest",
+  "kind": "trekking village",
+  "wiki": "Pangboche",
+  "image_query": "Pangboche village Ama Dablam",
+  "lat": 27.8573,
+  "lng": 86.793,
+  "altitude_m": 3985,
+  "tagline": "Ama Dablam's village and home of the Khumbu's oldest monastery",
+  "meta_description": "Pangboche (3,985 m): Sherpa village below Ama Dablam with the oldest gompa in the Khumbu, Ama Dablam base camp hike and the quiet high trail to Phortse.",
+  "summary": "Pangboche is the highest year-round Sherpa village on the Everest Base Camp trail, at 3,985 m directly below Ama Dablam. Upper Pangboche holds a monastery believed to be the oldest in the Khumbu, and the village is the start of the day hike to Ama Dablam base camp.",
+  "intro": [
+    "Pangboche spreads over two levels on the north side of the Imja Khola, about two hours above Tengboche. Lower Pangboche lines the main trail with lodges and shops; Upper Pangboche, 15 minutes' climb above, is an older cluster of stone houses around the monastery, juniper trees and barley fields. Many of the Khumbu's best-known Everest climbers come from here, and the village feels lived-in rather than built for trekkers. Across the river, Ama Dablam (6,812 m) rises in a single sweep of rock and ice.",
+    "Pangboche Monastery is said to have been founded in the 17th century by Lama Sangwa Dorje, who is credited with bringing Buddhism to the Khumbu. Legend says he meditated in caves above the village and that the juniper trees around the gompa grew from his hair. The monastery once displayed a yeti hand and scalp; the hand was stolen in the 1990s. Today the gompa is a quiet village temple, rich in old murals and statues, and is cared for by a local family and lamas.",
+    "On the Everest Base Camp trek, most groups walk through Pangboche on the way from Tengboche to Dingboche, stopping for tea and perhaps the monastery. Staying here instead of Dingboche suits slower itineraries, the Everest luxury lodge trek and climbers heading for Ama Dablam base camp. The night here is quieter, the lodges look straight at Ama Dablam, and you can return to the main trail the next morning without any extra climbing."
+  ],
+  "facts": [
+    ["Altitude", "3,985 m"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Lukla, 3–4 days' walk; Pangboche has a helipad"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 3–4 days' walk"],
+    ["Known for", "Ama Dablam views, oldest Khumbu monastery, Sherpa climbers' village"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Ama Dablam face to face", "text": "From Pangboche's lodges and fields, Ama Dablam (6,812 m) fills the view across the Imja valley. Its name means mother's necklace, after the hanging glacier on its face. Alpenglow at dusk from Upper Pangboche is among the best light on the trek."},
+    {"title": "Pangboche Monastery", "text": "Believed to be the oldest gompa in the Khumbu, the monastery in Upper Pangboche holds centuries-old statues, thangkas and murals. A caretaker opens the hall for visitors who leave a donation. The surrounding junipers are linked to its founder in local legend."},
+    {"title": "Ama Dablam base camp day hike", "text": "Cross the Imja Khola below the village and climb about 600 m to Ama Dablam base camp at around 4,600 m. It is a superb acclimatisation day with close views of the mountain's south-west ridge, the line most climbers take."},
+    {"title": "High trail to Phortse", "text": "A quiet path contours west from Upper Pangboche to Phortse, a village on a sunny terrace across the Dudh Koshi. It is used by few trekkers, passes musk deer habitat and gives big views of Tengboche, Kangtega and Thamserku."},
+    {"title": "Village of Everest climbers", "text": "Pangboche and nearby Phortse are home to many of the Sherpas who work on Everest expeditions each spring. Lodges are often run by climbing families, and dining room walls may show summit certificates and expedition photographs."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Tengboche, the trail descends through Deboche, crosses the Imja Khola on a suspension bridge and climbs gently to Pangboche: about 2–2.5 hours and 120 m net gain. From Pangboche to Dingboche is about 3–4 hours, past Somare and Orsho."},
+    {"mode": "Helicopter", "text": "Pangboche has a helipad used for rescues, lodge supply and some charter drop-offs. Flying straight in from Kathmandu to nearly 4,000 m is not advisable without prior acclimatisation, so we use it mainly for return flights or emergencies."},
+    {"mode": "Air", "text": "The nearest airport with scheduled flights is Lukla (2,860 m), 35 minutes from Kathmandu or 20 minutes from Ramechhap in peak months. From Lukla allow three to four days' walk including the Namche rest day."}
+  ],
+  "where_to_stay": "Lower Pangboche has a row of lodges on the main trail with twin rooms, solar hot showers and dining rooms facing Ama Dablam; a few have attached bathrooms. Everest Summit Lodge Pangboche, on the hillside above the trail, is the most comfortable option on this part of the route, with ensuite rooms, heated bedding and a garden looking at Ama Dablam and Everest. In Upper Pangboche, a couple of family lodges near the monastery give a quieter night in a traditional setting. Pangboche is less crowded than Dingboche in peak weeks.",
+  "stays": ["everest-summit-lodge-pangboche"],
+  "tips": [
+    "Climb 15 minutes to Upper Pangboche for the monastery and better views; most trekkers walk past it.",
+    "Carry small notes for the monastery donation and ask the caretaker before photographing inside.",
+    "Use a spare day here for the Ama Dablam base camp hike if you are on a longer itinerary.",
+    "Expect colder nights than Tengboche: −8 to −12 °C is normal in November.",
+    "Buy water from the refill stations rather than plastic bottles, which are hard to carry out of the park."
+  ],
+  "themes": ["trekking", "cultural-tours", "luxury-nepal", "photography", "peak-climbing"],
+  "nearby": ["tengboche", "dingboche", "namche-bazaar"],
+  "experiences": [
+    {
+      "slug": "pangboche-monastery-oldest-gompa",
+      "title": "Pangboche Monastery, oldest in the Khumbu",
+      "kind": "spiritual",
+      "duration": "45 minutes",
+      "best_time": "Morning or late afternoon, all trekking seasons",
+      "price_hint": "Donation ≈ NPR 300–500",
+      "image_query": "Pangboche monastery Khumbu",
+      "wiki": "",
+      "summary": "A short climb from the main trail to Upper Pangboche reaches a small, dark, very old monastery said to date from the 17th century, with murals, statues and juniper trees linked to Lama Sangwa Dorje, the saint who brought Buddhism to the Khumbu.",
+      "body": [
+        "From the lodges in Lower Pangboche, a stone path climbs about 15 minutes through barley and potato fields to the upper village. The monastery sits among stone houses and a grove of ancient juniper trees. According to local tradition, Lama Sangwa Dorje of the Nyingma school meditated here and founded the gompa in the 1600s, making it the oldest in the Khumbu. The junipers are said to have sprung from hair he scattered on the ground.",
+        "The prayer hall is low and dim, lit by butter lamps. Its walls are covered in faded murals of protector deities and saints, and the altar holds statues and texts wrapped in cloth. For decades the monastery displayed a supposed yeti scalp and skeletal hand; the hand was stolen in the 1990s, and a replica was later returned by a Western donor. The scalp is less often shown today, and the focus is on the monastery as a place of worship.",
+        "A caretaker or lama opens the door for visitors. Remove shoes, walk clockwise, sit if invited and leave a donation for upkeep. Photography inside may not be allowed. Afterwards, walk to the edge of the upper village for views across to Ama Dablam and down the valley to Tengboche, and return to the main trail by the same path or a gentler one leading east."
+      ],
+      "good_for": ["pilgrims", "seniors", "couples", "solo"],
+      "faqs": [
+        {"q": "Is Pangboche Monastery the oldest in the Khumbu?", "a": "Local tradition holds that it was founded in the 17th century by Lama Sangwa Dorje, making it the oldest gompa in the Khumbu. Exact dates are hard to verify, but it is certainly older than Tengboche (1916) and is deeply important to Sherpas."},
+        {"q": "Can I see the yeti hand at Pangboche?", "a": "The original hand was stolen in the 1990s. A replica was later returned and the monastery may still show relics on request, but the yeti story is less of a focus today. Visit for the old murals, statues and village setting."},
+        {"q": "How do I get to Upper Pangboche?", "a": "From Lower Pangboche on the main EBC trail, take the stone path uphill for about 15 minutes. Your guide will know the way. It adds about 80–100 m of climbing, which is useful extra acclimatisation."}
+      ]
+    },
+    {
+      "slug": "ama-dablam-base-camp-day-hike",
+      "title": "Day hike to Ama Dablam base camp",
+      "kind": "hiking",
+      "duration": "5–6 hours return",
+      "best_time": "Early start, Oct–Nov and Mar–May",
+      "price_hint": "Included in our luxury lodge trek; ≈ US$ 30 extra guide day otherwise",
+      "image_query": "Ama Dablam base camp",
+      "wiki": "Ama Dablam",
+      "summary": "From Pangboche, cross the Imja Khola and climb about 600 m on yak pastures to Ama Dablam base camp at around 4,600 m, a meadow beneath the mountain's south-west ridge used by climbing teams in autumn and spring.",
+      "body": [
+        "Leave Pangboche after breakfast and drop to the river on a small trail east of the village, crossing the Imja Khola on a bridge. On the far side the path climbs steadily through scrub juniper and up grassy slopes used as summer yak pastures, with scattered stone herders' huts called kharkas. Ama Dablam rises above you, its south-west ridge, the standard climbing route, clearly visible. The climb takes 2.5 to 3.5 hours at acclimatisation pace.",
+        "Base camp is a wide, flat meadow at about 4,600 m with a small stream. In October, November and spring, climbing teams set up tents here for the three or four weeks they spend on the mountain, and you can see their route rising over rock towers to Camps 1 and 2. Turn around for a sweeping view back across the valley to Pangboche, Tengboche, Kangtega and Thamserku, and up the Khumbu to Lhotse and the top of Everest.",
+        "After lunch and a rest, descend the same way in about two hours. Sleeping back in Pangboche at 3,985 m after reaching 4,600 m is an excellent acclimatisation day, which is why we use it on longer itineraries and the luxury lodge trek. Carry plenty of water, sun protection and warm layers, as there are no lodges on the route. Avoid the hike if you have any altitude symptoms; rest instead."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "How high is Ama Dablam base camp?", "a": "Ama Dablam base camp lies at about 4,600 m, on a meadow below the south-west ridge. From Pangboche (3,985 m) the hike gains roughly 600 m and takes 2.5–3.5 hours up and about 2 hours down."},
+        {"q": "Is Ama Dablam base camp hike hard?", "a": "It is a moderate-to-strenuous day hike because of the altitude and steady climbing, but there are no technical sections. Fit trekkers who have spent nights at Namche and Tengboche usually manage it well. Carry water and food, as there are no lodges."},
+        {"q": "Do I need a permit for Ama Dablam base camp?", "a": "No separate trekking permit is needed. The Sagarmatha National Park permit and Khumbu Pasang Lhamu Rural Municipality permit cover it. Climbing Ama Dablam itself requires an expedition permit. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "pangboche-phortse-high-trail",
+      "title": "Quiet high trail from Pangboche to Phortse",
+      "kind": "nature",
+      "duration": "2.5–3 hours one way",
+      "best_time": "Morning, Mar–May and Oct–Nov",
+      "price_hint": "Included on request in our longer treks",
+      "image_query": "Phortse village Khumbu terraces",
+      "wiki": "Phortse",
+      "summary": "A little-used path traverses the hillside west from Upper Pangboche to Phortse, a farming village on a sunny shelf above the Dudh Koshi. It offers wildlife, big views of Tengboche and Ama Dablam, and an alternative way down from the EBC trail.",
+      "body": [
+        "Most trekkers going up and down the Everest trail never see Phortse, although it sits on a broad terrace directly across the valley from Tengboche. From Upper Pangboche, a narrow trail heads west, keeping roughly level at 3,900–4,000 m across steep slopes of juniper, rhododendron and birch. This is good habitat for Himalayan tahr, musk deer and Himalayan monal, and you may meet a yak herder but few other walkers. Some sections are exposed, with drops to the river, so take care in wind or snow.",
+        "Phortse (≈ 3,840 m) is a compact village of stone houses and walled fields where Sherpa families farm potatoes and buckwheat. It is also home to the Khumbu Climbing Center, set up in 2003 in memory of American climber Alex Lowe to train Nepali climbers and high-altitude workers in technique and safety. Its winter courses are held in January and February. The village has a few simple lodges and a monastery.",
+        "From Phortse you can drop to the river and climb to the Mong La ridge to rejoin the Namche–Gokyo trail, or walk down via the Phortse Tenga bridge. This makes the high trail a useful link on itineraries combining Everest Base Camp with Gokyo. Walk with a guide, carry water and snacks, and allow extra time: the trail is quiet precisely because it is narrow and rough in places."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Is the Pangboche to Phortse trail safe?", "a": "It is safe for experienced walkers in good weather, but narrower and more exposed than the main EBC trail, with steep drops in places. Avoid it in snow, ice or strong wind, and walk with a guide. It takes about 2.5–3 hours."},
+        {"q": "What is the Khumbu Climbing Center?", "a": "A training centre in Phortse founded in 2003 by the Alex Lowe Charitable Foundation to teach Nepali climbers and high-altitude workers climbing technique, rescue and safety. Courses run in winter. It is not a tourist site, but the story is part of Phortse's identity."},
+        {"q": "Can I stay in Phortse?", "a": "Yes, Phortse has a few simple lodges. It suits trekkers combining EBC and Gokyo or looking for a quiet night off the main trail. Expect basic rooms, shared toilets and home cooking."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Pangboche?", "a": "Pangboche lies at about 3,985 m, with Upper Pangboche slightly higher at around 4,050 m. It is roughly 120 m above Tengboche and about 425 m below Dingboche, the next main stop on the Everest Base Camp trail."},
+    {"q": "Should I sleep in Pangboche or Dingboche?", "a": "Most standard itineraries go from Tengboche straight to Dingboche (4,410 m). Sleeping in Pangboche instead splits the climb, adds a quieter night and suits slower or luxury itineraries. It means one extra day on the trail."},
+    {"q": "Is Pangboche on the Everest Base Camp trek?", "a": "Yes. The main trail passes through Lower Pangboche between Tengboche and Dingboche, about two hours above Tengboche. Many groups stop for tea and the monastery even if they do not sleep here."},
+    {"q": "What is special about Pangboche Monastery?", "a": "It is believed to be the oldest monastery in the Khumbu, founded by Lama Sangwa Dorje in the 17th century according to tradition. It has old murals and statues and once displayed a famous yeti hand, which was stolen in the 1990s."},
+    {"q": "Can I see Everest from Pangboche?", "a": "Yes, on clear days the summit of Everest shows above the Nuptse–Lhotse ridge to the north-east from parts of the village and the trail above it. Ama Dablam is the main view, directly across the valley."},
+    {"q": "Are there luxury lodges in Pangboche?", "a": "Everest Summit Lodge Pangboche offers ensuite rooms, heated beds and Ama Dablam views, and is used on luxury lodge treks. Other lodges are standard teahouses with twin rooms and shared or attached bathrooms."},
+    {"q": "How cold is Pangboche at night?", "a": "In October and November, nights fall to around −5 to −10 °C, colder in December to February. In April and May nights are about −2 to −6 °C. Rooms are unheated except in luxury lodges, so a warm sleeping bag is essential."},
+    {"q": "Is there a helipad in Pangboche?", "a": "Yes, Pangboche has a helipad used for supplies, rescues and charter flights. If you need evacuation for altitude sickness from the upper valley, helicopters often pick up at Pangboche or Pheriche, weather permitting."},
+    {"q": "Can I hike to Ama Dablam base camp from Pangboche?", "a": "Yes, it is a 5–6 hour return hike climbing about 600 m to roughly 4,600 m. It makes an excellent acclimatisation day for trekkers on longer itineraries or before heading higher to Dingboche and Chhukung."}
+  ]
+}

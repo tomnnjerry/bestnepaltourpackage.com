@@ -1,0 +1,83 @@
+{
+  "slug": "chitwan-jungle-safari-2-nights",
+  "title": "Chitwan Jungle Safari 2 Nights 3 Days",
+  "region": "chitwan",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["wildlife-safari", "short-breaks", "budget-nepal", "family-holidays"],
+  "stops": [{"place": "sauraha", "nights": 2}, {"place": "chitwan-national-park", "nights": 0}],
+  "start": "Kathmandu (hotel pick-up or tourist bus park)",
+  "end": "Kathmandu (or Pokhara on request)",
+  "price_from_inr": 16000,
+  "price_from_usd": 220,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Green Park Chitwan or a similar resort in Sauraha, twin sharing",
+  "transport": "Tourist bus Kathmandu–Sauraha–Kathmandu (private car on request)",
+  "group": "Join-in activities or private family groups, 2–15",
+  "meta_description": "Chitwan jungle safari 2 nights 3 days from Kathmandu: jeep safari, Rapti canoe ride, jungle walk, Tharu village and dance, full board in Sauraha. From ₹16,000.",
+  "summary": "Our shortest Chitwan trip packs a jeep safari, a dugout canoe ride on the Rapti, a guided walk, a Tharu village visit and the evening stick dance into two nights in Sauraha. Travel is by tourist bus from Kathmandu, with all meals, activities and park fees included.",
+  "intro": [
+    "Two nights is the minimum we recommend for Chitwan, and this itinerary uses every hour of it. You leave Kathmandu after breakfast, follow the Trishuli river down through the hills to Mugling and Narayangarh, and reach Sauraha by mid-afternoon in time for a village walk and sunset on the Rapti sandbank. Day two is the safari day: canoe at dawn, a walk past the Elephant Breeding Centre, and a jeep drive into the park in the afternoon light.",
+    "It is designed for first-time visitors, Indian families on a Nepal holiday, and travellers fitting Chitwan between Kathmandu and Pokhara. We use comfortable resort rooms with a pool rather than budget guesthouses, but keep costs down with the tourist bus. If you want more time in the park, a full-day jeep drive or birding at Bishazari Tal, choose our 3-night safari instead."
+  ],
+  "highlights": [
+    "Half-day jeep safari for rhino, deer, gaur and, with luck, tiger",
+    "Dugout canoe ride on the Rapti past mugger crocodiles",
+    "Guided walk through riverine forest to the Elephant Breeding Centre",
+    "Tharu village walk and evening stick dance show",
+    "Sunset on the Rapti sandbank, often with rhinos across the river",
+    "All meals, park fees and a licensed naturalist included"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathmandu to Sauraha, Tharu village walk", "place": "sauraha", "overnight": "Sauraha", "altitude_m": 160, "max_m": 1400, "walk": "≈ 1.5 h · 4 km", "drive": "≈ 165 km · 6–7 h", "flight": "", "text": "The tourist bus leaves Kathmandu around 7 am and climbs out of the valley past Naubise before dropping into the Trishuli gorge. Rafting camps, suspension bridges and roadside fish stalls pass by until Mugling, where the road turns south to Narayangarh and the flat Chitwan valley. Our representative meets you at the Sauraha bus park around 1–2 pm for lunch at the resort. Later, a naturalist leads a walk through a Tharu village to the Rapti for sunset, and in the evening you watch the stick dance at the Tharu Culture House.", "meals": "L, D"},
+    {"day": 2, "title": "Canoe, jungle walk and jeep safari", "place": "chitwan-national-park", "overnight": "Sauraha", "altitude_m": 160, "max_m": 160, "walk": "≈ 1.5 h · 4–5 km", "drive": "Jeep safari ≈ 4 h", "flight": "", "text": "Early tea, then a 45-minute dugout canoe ride down the Rapti, watching for mugger crocodiles, kingfishers and storks, with rhinos often drinking at the bank. From the landing you walk back through riverine forest with two guides, reading tracks and stopping at the Elephant Breeding Centre at Khorsor, where we explain the welfare debate around captive elephants. After lunch, an open jeep takes you into the park for about four hours, toward Kasara and the lakes, scanning grassland and watchtowers for rhino, deer, gaur and sloth bear until dusk.", "meals": "B, L, D"},
+    {"day": 3, "title": "Morning birding, return to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h · 2–3 km", "drive": "≈ 165 km · 6–7 h", "flight": "", "text": "An optional birding walk at 6:30 am along the riverbank and buffer-zone forest turns up hornbills, drongos, bee-eaters and peafowl before breakfast. The tourist bus leaves Sauraha around 9:30 am and follows the same route back via Narayangarh and Mugling, reaching Kathmandu by about 4–5 pm. If you are heading to Pokhara instead, the Pokhara bus leaves at the same time and takes 5–6 hours via Damauli. The trip ends on arrival.", "meals": "B"}
+  ],
+  "stays": ["green-park-chitwan"],
+  "includes": [
+    "Tourist bus Kathmandu–Sauraha–Kathmandu (or Pokhara)",
+    "Two nights at Green Park Chitwan or similar, twin sharing",
+    "All meals in Chitwan: lunch and dinner on day 1, breakfast on day 3",
+    "Half-day jeep safari in Chitwan National Park",
+    "Dugout canoe ride and guided jungle walk with two licensed guides",
+    "Tharu village walk and evening cultural show ticket",
+    "Chitwan National Park entry fees for all activities",
+    "Licensed naturalist for all activities",
+    "Bus park pick-up and drop in Sauraha"
+  ],
+  "excludes": [
+    "Hotel in Kathmandu before or after the trip",
+    "Lunch on the road on days 1 and 3",
+    "Drinks, bottled water and snacks",
+    "Full-day jeep safari or private jeep (available as add-ons)",
+    "Elephant rides or bathing (we do not book these)",
+    "Tips for guides and drivers",
+    "Travel insurance",
+    "Flights to Bharatpur (available as an add-on)"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, for Indian nationals paying the SAARC park fee, in a standard room outside Indian holiday peaks.",
+    "The USD price covers the higher park fee for other foreign nationals.",
+    "Jeep safaris are shared with other guests unless you add a private jeep.",
+    "From June to mid-September many park tracks close; we run the trip in the buffer zone with a lower price on request.",
+    "Children under 5 travel free sharing parents' bed; children 5–11 pay about 60 percent."
+  ],
+  "add_ons": [
+    {"name": "Private car instead of tourist bus (both ways)", "price": "≈ ₹14,000 per car (up to 3 guests)"},
+    {"name": "Kathmandu–Bharatpur flights (return)", "price": "≈ US$ 230 per person"},
+    {"name": "Private half-day jeep safari", "price": "≈ ₹10,000 per jeep (up to 6)"}
+  ],
+  "faqs": [
+    {"q": "Is 2 nights enough for Chitwan?", "a": "Two nights is enough for a good first taste: a jeep safari, canoe ride, jungle walk, Tharu village and dance show. You will almost certainly see rhinos, deer and crocodiles. If you want a full-day jeep drive for better tiger odds, birding at Bishazari Tal or simply a slower pace, choose our 3-night safari."},
+    {"q": "What is the Chitwan 2 nights 3 days package cost from India?", "a": "From about ₹16,000 per person twin sharing, including the tourist bus from Kathmandu, two nights' resort stay, all meals in Chitwan, activities and SAARC park fees. Flights from India to Kathmandu are extra. Upgrading to a private car or flying to Bharatpur adds cost but saves time."},
+    {"q": "Can I start this safari from Pokhara?", "a": "Yes. Tourist buses run from Pokhara to Sauraha in 5–6 hours, leaving around 7:30 am, and the price is the same. Many guests do Kathmandu, Pokhara and Chitwan as a loop, ending in Kathmandu. Tell us your plan and we will set the bus tickets accordingly."},
+    {"q": "Will I see a tiger on a 2-night Chitwan safari?", "a": "Possibly, but it is unlikely on a half-day jeep drive. Chitwan has around 128 tigers, and sightings have increased, but they are shy and live in thick forest. Rhinos are near certain. If a tiger is your priority, add a full-day jeep safari or extend to three nights."},
+    {"q": "Is this package suitable for children and seniors?", "a": "Yes. The jeep safari and canoe ride suit all ages, and seniors can skip the jungle walk and rest at the resort. The bus journey is long, six to seven hours, so families with young children or seniors may prefer our private-car or flight add-ons. The resort has a pool for children."},
+    {"q": "Which hotel will I stay in?", "a": "We use Green Park Chitwan in Sauraha, a resort with air-conditioned rooms, a pool and children's pool, or a similar property if it is full. You will get the hotel name with your confirmation. Upgrades to Meghauli lodges are possible but change the itinerary."},
+    {"q": "Do you include elephant rides?", "a": "No. We do not sell elephant rides or elephant bathing because of welfare concerns about how elephants are trained and kept. The jeep safari reaches the same grasslands and covers more ground. You will see the Elephant Breeding Centre on the walk, with an honest explanation of the issues."},
+    {"q": "What should I pack for a short Chitwan safari?", "a": "Neutral clothes in green, khaki or brown, a warm layer for winter mornings, a sun hat, closed shoes for the jungle walk, insect repellent, sunscreen, binoculars and a refillable bottle. Bring swimwear for the pool from March to October, and your passport or Indian voter ID for park permits."},
+    {"q": "When is the best time for this 2-night Chitwan trip?", "a": "October to April. February to April gives the best wildlife viewing after the grass is cut. December and January are cool and foggy in the mornings but still good. May and early June are hot, and from mid-June to mid-September many park tracks close for the monsoon."}
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "bishazari-tal",
+  "name": "Bishazari Tal",
+  "region": "chitwan",
+  "kind": "lake",
+  "wiki": "Bishazari Tal",
+  "image_query": "Bishazari Tal lake Chitwan wetland",
+  "lat": 27.618,
+  "lng": 84.436,
+  "altitude_m": 286,
+  "tagline": "Chitwan's Twenty Thousand Lakes wetland for birds and crocodiles",
+  "meta_description": "Bishazari Tal, Chitwan's Ramsar wetland: birdwatching, mugger crocodiles, watchtowers, cycling from Sauraha, best months and how to reach from Bharatpur.",
+  "summary": "Bishazari Tal, the Twenty Thousand Lakes, is an oxbow lake and marsh system in Chitwan National Park's buffer zone, listed as a Ramsar wetland in 2003. At 286 m, between Bharatpur and Sauraha, it is one of the best birding spots in central Nepal, with mugger crocodiles, deer and a quiet forest walk.",
+  "intro": [
+    "Bishazari Tal lies in community-managed forest in the buffer zone, south of the Mahendra Highway near Tikauli, about 15 km from Sauraha and a similar distance from Bharatpur. The name means twenty thousand lakes, and while the real number is much smaller, the wetland is a maze of oxbow lakes, marshes and channels spread over about 32 km² of sal forest. Nepal listed it under the Ramsar Convention in August 2003 for its importance to water birds and wildlife.",
+    "The lakes are a corridor between Chitwan National Park and the forests of the Mahabharat range to the north, used by rhinos, wild elephants, leopards and occasionally tigers moving between them. For visitors, though, the main attraction is birds: storks, herons, egrets, kingfishers, cormorants and, in winter, migrant ducks on the water, with woodpeckers, hornbills and flycatchers in the forest around. Mugger crocodiles bask on the banks and in the shallows.",
+    "A trip to Bishazari Tal is quieter than a safari in the park. You walk the embankment and forest paths with a guide, climb a watchtower, and watch the water. Fees are lower, and the forest is managed by the local buffer-zone community. It suits birders, photographers and anyone wanting a half day away from Sauraha's jeeps. Go early, and bring binoculars."
+  ],
+  "facts": [
+    ["Altitude", "286 m"],
+    ["Best months", "Nov – Mar for water birds; Oct – Apr overall"],
+    ["Nights we suggest", "0 (half-day trip)"],
+    ["Nearest airport", "Bharatpur (≈ 15 km · 30 min)"],
+    ["From Kathmandu", "≈ 160 km · 5–6 h by road"],
+    ["Known for", "Ramsar wetland, birding, mugger crocodiles"]
+  ],
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 1, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Ramsar-listed oxbow wetland", "text": "Listed in 2003, Bishazari Tal is a network of oxbow lakes and marshes left by old river channels. Its water and forest support birds, crocodiles and mammals, and link Chitwan National Park with the hill forests to the north."},
+    {"title": "Winter water birds", "text": "From November to March the lakes fill with wintering ducks, storks and herons. Lesser adjutant, woolly-necked and black storks, purple herons, darters and several kingfishers are regular, along with forest birds around the shore."},
+    {"title": "Mugger crocodiles on the banks", "text": "Mugger crocodiles bask on mud banks and lie half-submerged in the shallows, especially on sunny winter mornings. Watching from the embankment or a tower is safe; keep a respectful distance from the water's edge."},
+    {"title": "Quiet forest walks", "text": "Paths lead through sal forest between the lakes, where spotted deer, monkeys and peafowl are common. It feels far from the jeeps of the park, and you may have the trail to yourself."},
+    {"title": "Cycling route from Sauraha", "text": "A flat ride of about 15 km through Tharu villages and fields brings you from Sauraha to the lakes. It is a good half-day outing for active travellers, with a guide to show the way and the best viewpoints."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Sauraha, drive ≈ 15 km · 30–40 min west via Tandi and Tikauli, or cycle in about 1.5 h. From Bharatpur, it is ≈ 15 km · 30 min east via Tikauli. The last section is a dirt track into the community forest; a jeep is easiest in the wet season."},
+    {"mode": "On foot", "text": "Within the wetland, you walk the embankments and forest paths with a guide. A typical loop is 4–6 km and takes 2–3 hours with stops for birds and the watchtower."}
+  ],
+  "where_to_stay": "There is no accommodation at the lakes. Stay in Sauraha, about 30–40 minutes away, where hotels such as Green Park Chitwan can arrange a guide and transport, or in Patihani or Bharatpur, which are also close. Birders on our Chitwan birding tour start the trip with a night in Sauraha so they can be at the lakes at dawn the next morning.",
+  "stays": [],
+  "tips": [
+    "Arrive at first light; birds are most active and crocodiles bask in the early sun.",
+    "Hire a local guide at the community forest office; it supports the buffer-zone community and improves sightings.",
+    "Stay well back from the water's edge, where mugger crocodiles can lie unseen in the shallows.",
+    "Wear neutral colours, long trousers and closed shoes, and carry repellent for leeches after rain.",
+    "A small entry fee applies for the community forest; carry Nepali rupees."
+  ],
+  "themes": ["wildlife-safari", "photography", "budget-nepal"],
+  "nearby": ["sauraha", "bharatpur", "chitwan-national-park"],
+  "experiences": [
+    {
+      "slug": "bishazari-tal-birding-walk",
+      "title": "Dawn birding walk at Bishazari Tal",
+      "kind": "wildlife",
+      "duration": "3–4 hours",
+      "best_time": "Dawn, Nov–Mar",
+      "price_hint": "≈ NPR 2,500–4,000 per person with guide and transport",
+      "image_query": "lesser adjutant stork Chitwan",
+      "wiki": "Lesser adjutant",
+      "summary": "Walk the lake embankments and forest trails at sunrise with a birding guide, scanning for storks, herons, kingfishers and winter ducks on the water and hornbills, woodpeckers and flycatchers in the trees.",
+      "body": [
+        "We leave Sauraha before sunrise and reach the lakes as the mist lifts. The first hour is spent along the embankment, scanning open water for ducks and grebes in winter and wading birds along the edges: purple and grey herons, egrets, darters, and the lesser adjutant stork, a large, bald-headed bird listed as vulnerable worldwide. Kingfishers are everywhere, from the tiny common kingfisher to the stork-billed.",
+        "The walk then moves into the forest between the lakes, where the target list changes: oriental pied hornbills, woodpeckers, drongos, minivets and flycatchers in the canopy, and red junglefowl on the trail. Your guide uses calls and knows the regular spots for owls and nightjars resting by day. Many visitors also see spotted deer, rhesus macaques and the occasional rhino track.",
+        "A typical walk covers 4 to 6 km and lasts three to four hours, including a stop at the watchtower. Bring binoculars, a camera with a long lens, water and a snack. In the wet months after the monsoon, leeches appear on the trails, so tuck trousers into socks."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "What birds can I see at Bishazari Tal?", "a": "Storks including lesser adjutant and woolly-necked stork, herons, egrets, cormorants, darters, many kingfishers and, in winter, migrant ducks. In the forest, hornbills, woodpeckers, drongos, flycatchers and junglefowl. A good morning in winter can give 60 or more species with a skilled guide."},
+        {"q": "When is the best time for birding at Bishazari Tal?", "a": "November to March, when migrant water birds join resident species and the weather is dry and cool. Early morning is best. In April and May the heat drives birds into cover by mid-morning. The monsoon months are green but wet, muddy and full of leeches."},
+        {"q": "Do I need a guide at Bishazari Tal?", "a": "Yes, we recommend it. A local guide knows the trails, the best bird spots and how to stay safe around crocodiles and the occasional rhino or elephant. Hiring a guide from the community forest supports the local people who manage the wetland."}
+      ]
+    },
+    {
+      "slug": "bishazari-tal-crocodile-watchtower",
+      "title": "Crocodiles and watchtower views at Bishazari",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Mid-morning on sunny days, Nov–Mar",
+      "price_hint": "Community forest entry ≈ NPR 100–300",
+      "image_query": "mugger crocodile basking Nepal lake",
+      "wiki": "Mugger crocodile",
+      "summary": "On sunny winter mornings, mugger crocodiles haul out on the lake banks to warm up. Watch them from the embankment and climb the watchtower for a wide view over the wetland and forest.",
+      "body": [
+        "Mugger crocodiles are cold-blooded and on winter mornings come out of the water to bask on mud banks and fallen logs, mouths often open to cool down as the sun climbs. Bishazari Tal is one of the best places in Chitwan to see them at leisure. Your guide scans the banks and points out animals lying half-submerged that most people walk past without noticing.",
+        "The wooden watchtower near the lake gives a view over the water, reed beds and forest canopy. It is a good spot to wait quietly for deer coming to drink, or for kingfishers and herons fishing below. On clear days in winter, the hills of the Mahabharat range rise to the north.",
+        "This short outing suits families and anyone who wants a taste of the wetland without a long walk. Keep children close to the embankment, never approach the water's edge, and do not throw food. A small community forest entry fee applies; check current status before you travel."
+      ],
+      "good_for": ["families", "first-timers", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Are the crocodiles at Bishazari Tal dangerous?", "a": "Mugger crocodiles can be dangerous if you go to the water's edge, but from the embankment and watchtower with a guide you are safe. Keep a few metres back from the water, keep children close and never feed or provoke them. Attacks on visitors following these rules are extremely rare."},
+        {"q": "When are crocodiles easiest to see?", "a": "Sunny mornings from November to March, from about 9 to 11 am, when they bask on the banks to warm up. In summer they spend more time in the water and are harder to spot, though eyes and snouts can still be seen in the shallows."},
+        {"q": "Is there a watchtower at Bishazari Tal?", "a": "Yes, there is a watchtower near the main lake that gives a view over the water and forest. It is a good place to wait for wildlife and to photograph birds. Climb carefully, as steps can be steep and slippery after rain."}
+      ]
+    },
+    {
+      "slug": "sauraha-to-bishazari-tal-cycle",
+      "title": "Cycle from Sauraha to Bishazari Tal",
+      "kind": "adventure",
+      "duration": "Half day, 4–5 hours",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "≈ NPR 2,000 per person with guide and bike",
+      "image_query": "cycling Chitwan village road mustard",
+      "wiki": "",
+      "summary": "A flat 30 km round trip by bicycle from Sauraha through Tharu villages and mustard fields to the lakes, with a guided walk at the wetland before riding back for lunch.",
+      "body": [
+        "The ride leaves Sauraha early and heads west through Bachhauli and the fields around Tandi, crossing the Mahendra Highway carefully with your guide before turning onto quieter roads toward Tikauli. Along the way you pass Tharu houses, schools, ponds and, in January, fields of yellow mustard. The route is flat, about 15 km each way, on a mix of paved and dirt roads.",
+        "At the lakes you lock the bikes at the community forest office and walk with your guide for one to two hours along the embankment and through the forest, looking for crocodiles, birds and deer. There is time for tea at a local stall before the ride back, reaching Sauraha by early afternoon.",
+        "This trip suits travellers who ride regularly and are comfortable on rough roads and in light traffic. We provide mountain bikes and helmets, and a support vehicle can be arranged for families or anyone who wants to ride one way only. Avoid the hot months of April and May unless you start very early."
+      ],
+      "good_for": ["couples", "solo", "groups", "photographers"],
+      "faqs": [
+        {"q": "How far is Bishazari Tal from Sauraha by bike?", "a": "About 15 km each way, around 1 to 1.5 hours of riding at an easy pace on flat roads. The full round trip with a walk at the lakes takes 4 to 5 hours. We provide bikes, helmets and a guide."},
+        {"q": "Is the cycle route to Bishazari Tal safe?", "a": "Mostly. The route uses quiet village roads, but you must cross the Mahendra Highway, which has fast buses and trucks. Your guide leads the crossing. Wear a helmet, ride single file and avoid the trip in heavy rain. A support jeep is available."},
+        {"q": "Can children cycle to Bishazari Tal?", "a": "Confident teenagers can. For younger children, 30 km is too far; we suggest driving to the lakes and cycling a short loop around Sauraha instead. A support vehicle can carry tired riders on the way back."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What does Bishazari Tal mean?", "a": "In Nepali, bis means twenty, hazar thousand and tal lake, so the name means twenty thousand lakes. The real number of lakes and ponds is much smaller, but the name describes the maze of oxbow lakes and marshes across the wetland."},
+    {"q": "Where is Bishazari Tal?", "a": "In the buffer zone of Chitwan National Park, south of the Mahendra Highway near Tikauli, between Bharatpur and Sauraha. It is about 15 km from each, 30–40 minutes by car. The lakes lie in community-managed sal forest."},
+    {"q": "Is Bishazari Tal worth visiting?", "a": "Yes for birders, photographers and anyone wanting a quiet half day away from the park's jeeps. It is less about big mammals and more about birds, crocodiles and calm forest. If you have only two nights in Chitwan and no interest in birds, prioritise the park safari."},
+    {"q": "What is the entry fee for Bishazari Tal?", "a": "A small community forest entry fee is charged, much lower than the national park fee, and guides are hired locally. Amounts change, so check current status before you travel. Our birding and family packages include the fee and guide."},
+    {"q": "Is Bishazari Tal a Ramsar site?", "a": "Yes. Nepal designated Bishazari and associated lakes a Ramsar wetland of international importance in August 2003, recognising their value for water birds, crocodiles and as a wildlife corridor between Chitwan and the Mahabharat hills."},
+    {"q": "Can I see rhinos at Bishazari Tal?", "a": "Occasionally. Rhinos, wild elephants and even tigers use the wetland as a corridor, but sightings are not common and the forest is dense. For rhinos, a jeep or canoe safari in the park is far more reliable. Bishazari is mainly a birding and crocodile spot."},
+    {"q": "What is the best time to visit Bishazari Tal?", "a": "November to March for water birds and basking crocodiles, early in the morning. October and April are also pleasant. May and June are hot, and the monsoon from late June to September brings high water, mud and leeches."},
+    {"q": "How long do I need at Bishazari Tal?", "a": "A half day: about an hour of travel each way from Sauraha and two to three hours at the lakes. Keen birders may want a full morning. It fits well on the morning before you leave Chitwan or between two park safaris."},
+    {"q": "Is Bishazari Tal safe?", "a": "Yes with a guide. The main risks are crocodiles at the water's edge and the occasional rhino or elephant in the forest. Stay back from the water, keep to the trails and follow your guide. Leeches appear after rain but are harmless."}
+  ]
+}

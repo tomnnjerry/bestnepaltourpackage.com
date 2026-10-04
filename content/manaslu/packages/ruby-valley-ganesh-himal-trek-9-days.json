@@ -1,0 +1,86 @@
+{
+  "slug": "ruby-valley-ganesh-himal-trek-9-days",
+  "title": "Ruby Valley Ganesh Himal Trek 9 Days",
+  "region": "manaslu",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 8,
+  "themes": ["trekking", "cultural-tours", "budget-nepal"],
+  "stops": [
+    {"place": "syabrubesi", "nights": 1}
+  ],
+  "start": "Kathmandu (hotel pick-up, 7 am)",
+  "end": "Kathmandu",
+  "price_from_inr": 60000,
+  "price_from_usd": 690,
+  "best_months": [0, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3842,
+  "accommodation": "Teahouses and community homestays (8 nights)",
+  "transport": "Private jeep Kathmandu–Syabrubesi and Darkha–Kathmandu",
+  "group": "Private or small group, 1–10, with a licensed guide",
+  "meta_description": "Ruby Valley trek 9 days below Ganesh Himal: Gatlang, Somdang, Pangsang La (3,842 m), Tipling and Tamang villages, guide and permits. From US$690.",
+  "summary": "A 9-day trek through the Ruby Valley on the southern side of Ganesh Himal, between Langtang and Manaslu. You walk from Syabrubesi through Tamang villages to Somdang, cross Pangsang La at 3,842 m for views of Ganesh Himal, Manaslu and Langtang, and descend through Tipling and Gurung villages to the road at Darkha.",
+  "intro": [
+    "The Ruby Valley takes its name from the rubies and other minerals once mined in the hills around Somdang and Hindung, and it remains one of the least visited trekking areas close to Kathmandu. The trail links Tamang villages of Rasuwa with Tamang and Gurung settlements of northern Dhading, below the Ganesh Himal range whose highest peak, Yangra or Ganesh I, reaches 7,422 m. Many villages run community homestays, so you eat and sleep with local families rather than in commercial lodges.",
+    "This is a moderate trek with one high point, Pangsang La at 3,842 m, crossed on day 4. Days are 5 to 7 hours, and there is no restricted area permit for the standard route, which keeps costs down. It suits trekkers who want a cultural walk with mountain views, a quieter alternative to Langtang, or a shorter trip that still shows Manaslu from a distance. The price assumes two people sharing and simple lodges or homestays throughout."
+  ],
+  "highlights": [
+    "Pangsang La at 3,842 m with views of Ganesh Himal, Manaslu and Langtang",
+    "Tamang villages of Gatlang and Tipling with stone houses and gompas",
+    "Community homestays with local families",
+    "Somdang, a high valley with old mine workings",
+    "Quiet trails with few other trekkers",
+    "No restricted area permit needed for the standard route"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive Kathmandu to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 1460, "walk": "", "drive": "≈ 122 km · 7–8 h", "flight": "", "text": "Leave Kathmandu at 7 am by private jeep, heading north via Trishuli Bazaar and Dhunche. The road climbs through terraced hills with views of Ganesh Himal and Langtang before dropping to Syabrubesi at 1,460 m on the Bhote Koshi. Permits are checked on the way at the Langtang National Park post near Dhunche. Overnight in a riverside lodge.", "meals": "L, D"},
+    {"day": 2, "title": "Syabrubesi to Gatlang", "place": "", "overnight": "Gatlang", "altitude_m": 2238, "max_m": 2238, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Climb steadily out of the Bhote Koshi valley through forest and farmland to Gatlang at about 2,238 m, one of the largest Tamang villages in Rasuwa. Its stone houses with carved wooden windows cluster on a slope with Langtang Lirung and Ganesh Himal views. In the evening walk to the village gompa and the small lake above the village if time allows.", "meals": "B, L, D"},
+    {"day": 3, "title": "Gatlang to Somdang", "place": "", "overnight": "Somdang", "altitude_m": 3271, "max_m": 3600, "walk": "≈ 6–7 h · 14 km", "drive": "", "flight": "", "text": "A long climb through rhododendron and fir forest, crossing a ridge of roughly 3,600 m before descending into the Somdang valley at about 3,271 m. Somdang grew around mining of zinc and other minerals, and old workings are still visible on the slopes. It is a quiet, high place with a few simple lodges and cold nights from October onwards.", "meals": "B, L, D"},
+    {"day": 4, "title": "Pangsang La 3,842 m to Tipling", "place": "", "overnight": "Tipling", "altitude_m": 2078, "max_m": 3842, "walk": "≈ 7 h · 15 km", "drive": "", "flight": "", "text": "Climb through forest and open pasture to Pangsang La at 3,842 m, the high point of the trek. On a clear morning the view takes in Ganesh Himal close by, Manaslu and Himal Chuli to the west and the Langtang range to the east. Descend steeply through forest to Tipling at about 2,078 m, a large Tamang village whose people follow Buddhism and Christianity side by side.", "meals": "B, L, D"},
+    {"day": 5, "title": "Tipling to Sertung", "place": "", "overnight": "Sertung", "altitude_m": 2180, "max_m": 2200, "walk": "≈ 3–4 h · 7 km", "drive": "", "flight": "", "text": "A short, easy day after the pass. Explore Tipling's gompa and church in the morning, then walk through millet and maize fields and over suspension bridges to Sertung at about 2,180 m. The afternoon is free for a village walk with your homestay family, who can show you how millet is harvested and processed in autumn.", "meals": "B, L, D"},
+    {"day": 6, "title": "Sertung to Borang", "place": "", "overnight": "Borang", "altitude_m": 1800, "max_m": 2180, "walk": "≈ 5–6 h · 13 km", "drive": "", "flight": "", "text": "Descend into warmer, greener country, crossing streams and the Ankhu Khola valley to Borang at about 1,800 m. The trail passes Gurung and Tamang hamlets, terraces and subtropical forest. Ganesh Himal stays in view behind you on clear days. Homestay accommodation with a local family.", "meals": "B, L, D"},
+    {"day": 7, "title": "Borang to Khading", "place": "", "overnight": "Khading", "altitude_m": 1500, "max_m": 1800, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "A ridge walk with wide views over the hills of northern Dhading and back to the Ganesh Himal. You pass several villages, schools and small shrines and descend gradually to Khading at about 1,500 m. Evenings here are mild, a pleasant contrast to Somdang four days earlier.", "meals": "B, L, D"},
+    {"day": 8, "title": "Khading to Darkha", "place": "", "overnight": "Darkha", "altitude_m": 1200, "max_m": 1500, "walk": "≈ 4–5 h · 10 km", "drive": "", "flight": "", "text": "A final descent through terraces and forest to Darkha at about 1,200 m, the roadhead where your jeep will meet you tomorrow. In the afternoon enjoy a last evening with your guide and porters, and a farewell dal bhat with your hosts.", "meals": "B, L, D"},
+    {"day": 9, "title": "Drive Darkha to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 7–8 h", "flight": "", "text": "A private jeep drives down rough rural roads to Dhading Besi and then on paved road to Kathmandu, arriving in the afternoon. The trip ends at your hotel. If you have time, consider combining this trek with a few days in Kathmandu's heritage sites or Pokhara.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Langtang National Park entry permit and local trekking registration fees",
+    "Licensed English-speaking trekking guide",
+    "One porter for every two trekkers",
+    "Private jeep Kathmandu–Syabrubesi and Darkha–Kathmandu",
+    "8 nights in teahouses and community homestays",
+    "Three meals a day on the trek with tea or coffee",
+    "Guide and porter wages, insurance and meals",
+    "First-aid kit"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights and airport transfers",
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter rescue",
+    "Hot showers, charging and drinks",
+    "Personal gear and sleeping bag rental",
+    "Tips for guide, porters and homestay hosts"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing, simple lodges and homestays, and private jeeps; solo trekkers pay about US$180 more.",
+    "The standard Ruby Valley route does not need a restricted area permit, but the Syabrubesi and Gatlang section may require Langtang National Park entry; check current status before you travel.",
+    "Nepal requires foreign trekkers to walk with a licensed guide in most trekking areas; we include one on every departure.",
+    "Village altitudes on this route vary between maps; the figures we give are approximate, and Pangsang La is usually quoted at 3,842 m.",
+    "Facilities are basic, with squat toilets in many homestays and limited hot water, so bring a warm sleeping bag and wet wipes."
+  ],
+  "add_ons": [
+    {"name": "Extra day in Tipling for village and gompa visits", "price": "≈ US$ 45 per person"}
+  ],
+  "faqs": [
+    {"q": "Where is the Ruby Valley trek?", "a": "The Ruby Valley lies on the southern side of the Ganesh Himal range, between the Langtang and Manaslu regions, across the borders of Rasuwa and Dhading districts. The trek starts at Syabrubesi, 122 km north of Kathmandu, and ends at Darkha in northern Dhading, a day's drive from the capital."},
+    {"q": "How difficult is the Ruby Valley trek?", "a": "It is moderate. Most days are 5 to 7 hours, with one long climb over Pangsang La at 3,842 m on day 4. Paths are steep in places and less maintained than on popular routes. Reasonable fitness and some hill-walking experience are enough, and altitude problems are uncommon below 4,000 m."},
+    {"q": "Do I need a restricted area permit for the Ruby Valley?", "a": "Not for the standard route described here. You may need a Langtang National Park entry permit for the Syabrubesi to Gatlang section and local registration. Treks going north towards the Tibet border in Ganesh Himal need extra permits. Check current status before you travel."},
+    {"q": "Why is it called Ruby Valley?", "a": "The valley is known for rubies and other gemstones and minerals once mined in the hills around Somdang and Hindung. Large-scale mining has largely stopped, but you can still see old workings near Somdang, and villagers will tell you stories of gem hunting in the hills above their fields."},
+    {"q": "Can I see Manaslu on the Ruby Valley trek?", "a": "Yes, on clear mornings from Pangsang La and some ridges you see Manaslu and Himal Chuli to the west, along with Ganesh Himal close by and the Langtang range to the east. The views are distant compared with the Manaslu Circuit but very wide."},
+    {"q": "What is accommodation like on the Ruby Valley trek?", "a": "A mix of simple teahouses and community homestays in Tamang and Gurung villages. Rooms are basic, often with shared squat toilets and limited hot water. Meals are home cooked, mostly dal bhat, potatoes and local greens. The homestays are a highlight for many trekkers."},
+    {"q": "When is the best time for the Ruby Valley trek?", "a": "October and November for clear views, and March to April for rhododendrons in the forest. December and February are possible but Pangsang La can have snow. Avoid the monsoon from June to August, when leeches and landslides make the lower trails difficult."},
+    {"q": "How much does the Ruby Valley trek cost?", "a": "Our 9-day trek starts from US$690 or about ₹60,000 per person, twin sharing, including a licensed guide, porter, permits, private jeeps and all meals and lodging on the trek. Budget about US$80 to 120 extra for drinks, snacks and tips."},
+    {"q": "Is the Ruby Valley trek good for beginners?", "a": "Yes, for beginners who walk regularly. The altitude stays below 4,000 m and the itinerary is short. The trail is quieter and rougher than Langtang or Annapurna routes, so a guide is essential, and the simple homestays suit people who want culture more than comfort."}
+  ]
+}

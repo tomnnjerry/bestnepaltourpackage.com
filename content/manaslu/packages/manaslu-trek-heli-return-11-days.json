@@ -1,0 +1,96 @@
+{
+  "slug": "manaslu-trek-heli-return-11-days",
+  "title": "Manaslu Trek with Heli Return 11 Days",
+  "region": "manaslu",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 10,
+  "themes": ["trekking", "heli-tours", "photography", "luxury-nepal"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "machha-khola", "nights": 1},
+    {"place": "jagat", "nights": 1},
+    {"place": "namrung", "nights": 1},
+    {"place": "lho", "nights": 1},
+    {"place": "samagaun", "nights": 3}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 187000,
+  "price_from_usd": 2150,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 4000,
+  "accommodation": "3-star hotel in Kathmandu (2 nights), teahouse lodges on the trek (8 nights)",
+  "transport": "Private jeep Kathmandu–Machha Khola, helicopter Samagaun–Kathmandu (shared seat)",
+  "group": "Private or small group, 1–5 (helicopter seats), with a licensed guide",
+  "meta_description": "Manaslu trek with helicopter return 11 days: walk Machha Khola to Samagaun (3,530 m), three nights under Manaslu, fly back to Kathmandu. From US$2,150.",
+  "summary": "Walk the best of the Manaslu trail, from the Budhi Gandaki gorge to the Nubri villages and Samagaun, then fly back to Kathmandu in about an hour instead of crossing Larkya La. Eleven days, a top altitude of about 4,000 m on the Pungyen Gompa hike and three nights under Manaslu.",
+  "intro": [
+    "Not everyone wants a 5,106 m pass and a 10-hour day. This itinerary keeps the walk up the Budhi Gandaki, the gorge, the Gurung villages, the move into Buddhist Nubri at Namrung, Ribung Gompa at Lho and three nights in Samagaun, and replaces the second half of the circuit with a helicopter flight. It suits older trekkers, families with teenagers, photographers who want more time under Manaslu and anyone short of days.",
+    "You fly from Samagaun to Kathmandu in about 60 minutes, usually early in the morning while the skies are clear. The price includes a shared seat on a helicopter carrying four to five passengers; a private charter costs more and can include a loop past Manaslu Base Camp. Helicopter flights depend on weather, and a morning of cloud can delay you by a day, which is why the itinerary keeps a spare evening in Kathmandu before your flight home."
+  ],
+  "highlights": [
+    "No Larkya La: top altitude about 4,000 m on a day hike",
+    "Three nights in Samagaun with Birendra Tal and Pungyen Gompa",
+    "Sunrise on Manaslu from Lho and Ribung Gompa",
+    "Helicopter flight from Samagaun to Kathmandu in about 60 minutes",
+    "Budhi Gandaki gorge, Tatopani and the Nubri villages",
+    "Spare evening in Kathmandu as a weather buffer"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Airport pick-up and transfer to your Thamel hotel. Your guide comes in the afternoon to brief you on the trek and the helicopter return, check gear and weigh luggage, since helicopters limit baggage to about 15 kg per person. Anything you will not need on the trail can stay in the hotel store until you fly back.", "meals": "Dinner"},
+    {"day": 2, "title": "Jeep to Machha Khola", "place": "machha-khola", "overnight": "Machha Khola", "altitude_m": 930, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 8–9 h", "flight": "", "text": "Depart at 6:30 am by private jeep via Dhading Besi and Arughat. After Arughat the road becomes a rough dirt track along the Budhi Gandaki through Soti Khola to Machha Khola at 930 m. The village is warm and green, with lodges above the river and banana trees around the houses.", "meals": "B, L, D"},
+    {"day": 3, "title": "Machha Khola to Jagat", "place": "jagat", "overnight": "Jagat", "altitude_m": 1340, "max_m": 1340, "walk": "≈ 6–7 h · 22 km", "drive": "", "flight": "", "text": "Walk north through the gorge past Khorlabesi and the Tatopani hot spring, cross the bridge at Dobhan and continue on cliff-side paths to Jagat at 1,340 m. Your guide sets an easy pace with plenty of tea stops. Permits are checked at the conservation area office in Jagat.", "meals": "B, L, D"},
+    {"day": 4, "title": "Jagat to Deng", "place": "", "overnight": "Deng", "altitude_m": 1860, "max_m": 1860, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "Climb past Sirdibas, with its first carved mani stones, to the Gurung village of Philim on its millet terraces. Pass the Tsum Valley fork at Ekle Bhatti and follow the narrow, wooded gorge to Deng at about 1,860 m, crossing the river several times on suspension bridges.", "meals": "B, L, D"},
+    {"day": 5, "title": "Deng to Namrung", "place": "namrung", "overnight": "Namrung", "altitude_m": 2630, "max_m": 2630, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Walk via Rana, Bihi Phedi and Ghap, where Tibetan Buddhist mani walls line the trail, then climb through pine and rhododendron forest to Namrung at 2,630 m. This is the first Nubri village, with good lodges and views of Siringi Himal and Himal Chuli.", "meals": "B, L, D"},
+    {"day": 6, "title": "Namrung to Lho", "place": "lho", "overnight": "Lho", "altitude_m": 3180, "max_m": 3180, "walk": "≈ 4–5 h · 11 km", "drive": "", "flight": "", "text": "A gentle day through the villages of Banjam, Lihi and Sho, past long mani walls and barley fields, with Manaslu appearing ahead. Lho, at about 3,180 m, has Ribung Gompa on the hill above; visit in the late afternoon for the light on Manaslu.", "meals": "B, L, D"},
+    {"day": 7, "title": "Lho to Samagaun", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 3530, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "Rise for sunrise on Manaslu, then walk to Shyala, a village circled by Himal Chuli, Ngadi Chuli and Manaslu, and on across fields to Samagaun at 3,530 m. In the afternoon stroll to Birendra Tal, the glacier lake at the foot of the Manaslu Glacier.", "meals": "B, L, D"},
+    {"day": 8, "title": "Pungyen Gompa hike", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 4000, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "Climb to the Pungyen Gompa site, close to 4,000 m, on a ridge facing the Manaslu Glacier and icefall. It is the highest point of this trek and a superb viewpoint. Return to Samagaun for a late lunch and a slow afternoon visiting the village gompa and mani walls.", "meals": "B, L, D"},
+    {"day": 9, "title": "Free day: Samdo or base camp trail", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 3875, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "Choose your day. The easier option is a walk up the valley to Samdo at about 3,875 m, the highest village on the circuit, and back. Strong walkers can climb part of the way towards Manaslu Base Camp with a fixed turnaround time. Those who prefer can rest, read and photograph Manaslu from the village. This day also serves as a weather buffer for the helicopter.", "meals": "B, L, D"},
+    {"day": 10, "title": "Helicopter Samagaun to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 3530, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "Samagaun–Kathmandu · ≈ 60 min", "text": "After an early breakfast, your helicopter lands at Samagaun, usually between 7 and 9 am. The flight follows the Budhi Gandaki south with Himal Chuli and Ganesh Himal off the windows and reaches Kathmandu domestic airport in about an hour. If cloud delays the flight, we wait in Samagaun and fly the next morning. Afternoon free in Kathmandu.", "meals": "Breakfast"},
+    {"day": 11, "title": "Departure or spare day", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "If the helicopter flew on schedule, today is free for sightseeing at Boudhanath, Patan or Bhaktapur before your airport transfer. If weather delayed the flight, this is the day it absorbs. We drop you at the airport about three hours before your international departure.", "meals": "Breakfast"}
+  ],
+  "stays": ["samagaun-hotel-norling", "samagaun-manaslu-guest-house"],
+  "includes": [
+    "Manaslu restricted area permit, MCAP and Tsum Nubri municipality fee",
+    "Licensed English-speaking trekking guide",
+    "One porter for every two trekkers",
+    "Private jeep Kathmandu–Machha Khola",
+    "Shared helicopter seat Samagaun–Kathmandu (4–5 passengers)",
+    "2 nights in a 3-star Kathmandu hotel with breakfast",
+    "8 nights in teahouses with three meals a day on the trek",
+    "Guide and porter wages, insurance and return transport",
+    "Airport transfers"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation",
+    "Private helicopter charter supplement",
+    "Extra nights if the helicopter is delayed by weather",
+    "Hot showers, Wi-Fi, charging and drinks",
+    "Excess baggage on the helicopter (over 15 kg)",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing and a shared helicopter seat on a flight of four to five passengers; a private charter for your group is about US$4,500 to 5,500 per helicopter.",
+    "Helicopters fly in the morning, as cloud usually builds by late morning; weather delays of a day are common and extra nights are payable locally.",
+    "Payload limits mean about 15 kg of baggage per person, and heavier passengers or groups may fly in two shuttles.",
+    "You still need the restricted area permit and a licensed guide; as of 2026 solo trekkers can get the permit alone, as we understand it; check current status before you travel.",
+    "Your porters walk back down the valley; their return wages are included."
+  ],
+  "add_ons": [
+    {"name": "Private charter with Manaslu Base Camp flyover", "price": "≈ US$ 5,000–6,000 per helicopter"},
+    {"name": "Extra night in Samagaun", "price": "≈ US$ 60 per person"}
+  ],
+  "faqs": [
+    {"q": "Can I trek to Samagaun and fly back to Kathmandu?", "a": "Yes, and it is a popular choice for trekkers who want Manaslu's villages and views without crossing Larkya La. Helicopters land at Samagaun and reach Kathmandu in about 60 minutes. Our 11-day package includes a shared seat; private charters are available for families and small groups."},
+    {"q": "How much is a helicopter from Samagaun to Kathmandu?", "a": "A shared seat typically costs about US$900 to 1,200 when four or five passengers fly together, and a private charter about US$4,500 to 5,500 per helicopter. Prices depend on fuel, season and how many seats are filled. Our package price already includes a shared seat."},
+    {"q": "What if bad weather stops the helicopter?", "a": "We wait in Samagaun until the weather clears, usually the next morning. Day 11 is kept free in Kathmandu to absorb one day's delay. Extra lodge nights in Samagaun are paid locally. In a prolonged delay, walking down the valley is possible but takes five days."},
+    {"q": "Is this trek suitable for older people?", "a": "Yes, it is one of our best Manaslu options for trekkers in their 60s who are fit and healthy. The highest sleeping altitude is 3,530 m, walking days are 3 to 7 hours and there is no pass. Anyone with heart or lung conditions should consult a doctor before trekking or flying to altitude."},
+    {"q": "Do I need a restricted area permit if I fly out?", "a": "Yes. You walk through the Manaslu restricted area from Jagat to Samagaun, so you need the restricted area permit, the Manaslu Conservation Area Permit and the municipality fee, plus a licensed guide. You do not need the Annapurna permit, since you do not descend to Dharapani."},
+    {"q": "How much luggage can I take on the helicopter?", "a": "About 15 kg per person including your daypack. At Samagaun's altitude helicopters carry less weight, and the pilot may ask a group to fly in two shuttles. Leave city clothes and extra luggage in your Kathmandu hotel store."},
+    {"q": "Can children do the Manaslu heli return trek?", "a": "Fit children over about 10 who enjoy walking can manage it, with rest days and a slow pace. The altitude above 3,000 m needs careful watching, as children may not report symptoms. We suggest families also consider extra nights in Samagaun and a private helicopter."},
+    {"q": "Will I see Manaslu Base Camp on this trip?", "a": "On the free day 9, strong walkers can hike part of the way towards Manaslu Base Camp. A private helicopter charter can also fly past the base camp on the way home. The standard shared seat flies directly to Kathmandu without a base camp landing."},
+    {"q": "Is the heli return trek cheaper than the full circuit?", "a": "No. It costs more, from US$2,150 compared with US$1,190, because of the helicopter seat. You save three walking days and avoid the pass. Many travellers think the time saved and the flight over the Budhi Gandaki valley are worth the difference."}
+  ]
+}

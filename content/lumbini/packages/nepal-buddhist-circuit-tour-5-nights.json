@@ -1,0 +1,93 @@
+{
+  "slug": "nepal-buddhist-circuit-tour-5-nights",
+  "title": "Nepal Buddhist Circuit Tour 5 Nights",
+  "region": "lumbini",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["buddhist-circuit", "pilgrimage", "cultural-tours"],
+  "stops": [
+    {"place": "lumbini", "nights": 4},
+    {"place": "tilaurakot", "nights": 0},
+    {"place": "kudan", "nights": 0},
+    {"place": "niglihawa", "nights": 0},
+    {"place": "ramagrama", "nights": 0},
+    {"place": "devdaha", "nights": 0},
+    {"place": "bhairahawa", "nights": 1}
+  ],
+  "start": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "end": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "price_from_inr": 34000,
+  "price_from_usd": 430,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 190,
+  "accommodation": "3-star hotel near the Sacred Garden in Lumbini (4 nights), 3-star hotel in Bhairahawa (1 night)",
+  "transport": "Private air-conditioned car or minibus with driver throughout",
+  "group": "Private, 2–15; monastery and temple groups welcome",
+  "meta_description": "Nepal Buddhist circuit tour, 6 days: Lumbini, Kapilavastu (Tilaurakot, Kudan, Niglihawa, Gotihawa), Ramagrama and Devdaha with a guide, 3-star hotels and car.",
+  "summary": "Six days covering every major Buddhist site in Nepal's Terai: Lumbini's Sacred Garden and monasteries, the Kapilavastu sites of Tilaurakot, Kudan, Gotihawa and Niglihawa, the unopened relic stupa at Ramagrama and Devdaha, home of Maya Devi. Four nights in Lumbini and a final night in Bhairahawa for easy departures.",
+  "intro": [
+    "Most tours give Lumbini a day and rush on. This circuit follows the whole family story of the Buddha across the western Terai: his birth at Lumbini, his childhood and renunciation at Kapilavastu, his return to meet his father at Kudan, his mother's home at Devdaha and the stupa at Ramagrama where the Koliyas enshrined their share of his relics. Every site lies within about 60 km of Lumbini, so you unpack once and travel out each day by private car.",
+    "We pace the days for pilgrims: early starts, sites in the cooler morning, long lunches and a return to Lumbini for evening chanting or meditation. A guide who knows both the archaeology and the texts travels with you, and we leave space for your own puja, recitation or silent sitting at each place. The final night moves to Bhairahawa, close to the airport and border."
+  ],
+  "highlights": [
+    "Maya Devi Temple, marker stone and Ashoka pillar at Lumbini",
+    "Eastern gate of Kapilavastu at Tilaurakot, where Siddhartha left the palace",
+    "Kudan, linked to the Buddha's meeting with King Suddhodana and Rahula's ordination",
+    "Ashoka's pillars at Niglihawa and Gotihawa",
+    "Ramagrama, the relic stupa believed never opened",
+    "Devdaha, maternal home of Maya Devi and Prajapati Gautami"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Lumbini, Peace Pagoda at dusk", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "", "drive": "≈ 20–26 km · 35–45 min", "flight": "", "text": "We meet you at Bhairahawa airport or at Belahiya after you cross from Sonauli and drive to your hotel by the Sacred Garden. After lunch and rest, your guide gives a short orientation using the Kenzo Tange master plan: Sacred Garden in the south, monastic zone along the canal, museum and research institute in the north. Late afternoon, drive to the World Peace Pagoda for sunset and evening prayers, then return for dinner and an early night before tomorrow's dawn start.", "meals": "Dinner"},
+    {"day": 2, "title": "Sacred Garden at dawn, monastic zone", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 4 km", "drive": "", "flight": "", "text": "Enter the Sacred Garden at opening time for chanting at the bodhi tree. Your guide walks you through the excavated monasteries, into the Maya Devi Temple to the marker stone, then to the Ashoka pillar and the Puskarini pond. Return for breakfast and rest. From 3 pm, explore the monastic zone by bicycle or battery rickshaw: Theravada monasteries of Thailand, Myanmar, Sri Lanka and Cambodia on the east bank, Mahayana and Vajrayana temples of China, Korea, Vietnam and Germany on the west. Join evening chanting at a monastery of your choice.", "meals": "B, D"},
+    {"day": 3, "title": "Kapilavastu: Kudan, Gotihawa, Tilaurakot", "place": "tilaurakot", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h in short sections", "drive": "≈ 80 km · 3 h in total", "flight": "", "text": "Leave at 7.30 am for Kapilvastu district. First Kudan, the banyan grove where the Buddha is said to have met his father and ordained his son Rahula, then Gotihawa's Ashoka pillar stump beside the Krakuchchanda stupa. Late morning is for Tilaurakot: the brick walls, the eastern gate of the Great Departure and the Kapilvastu Museum's coins and pottery. After lunch in Taulihawa, visit Niglihawa, where Ashoka's broken pillar records the first written use of the word stupa. Back in Lumbini by 4.30 pm.", "meals": "B, D"},
+    {"day": 4, "title": "Ramagrama stupa and Devdaha", "place": "ramagrama", "overnight": "Lumbini", "altitude_m": 150, "max_m": 190, "walk": "≈ 2 h in short sections", "drive": "≈ 150 km · 4.5–5 h in total", "flight": "", "text": "A long but rewarding day on the Koliya side of the story. Drive east via Bhairahawa to Parasi and the Ramagrama stupa, the grassy mound believed to hold an unopened share of the Buddha's relics, arriving while the air is still cool. Sit under the peepal tree for chanting or meditation. Continue north through Sunwal to Devdaha, where your guide connects the Maya Devi shrine, ancient mounds and the Rohini river to the lives of Maya Devi and Prajapati Gautami. Lunch in Butwal, then return to Lumbini.", "meals": "B, D"},
+    {"day": 5, "title": "Crane wetlands, museum, move to Bhairahawa", "place": "bhairahawa", "overnight": "Bhairahawa", "altitude_m": 105, "max_m": 150, "walk": "≈ 2 h · 4 km", "drive": "≈ 22 km · 40 min", "flight": "", "text": "A gentle final day in Lumbini. At dawn, walk the wetlands of the crane sanctuary with a local birder to look for sarus cranes, or return to the Sacred Garden for a last quiet hour. After breakfast, visit the Lumbini Museum at the northern end of the site, with its collection of coins, terracottas and stamps from Buddhist countries, and the Eternal Peace Flame along the canal. In the afternoon, transfer to Bhairahawa and check in near the airport. Evening walk in the bazaar for sweets.", "meals": "B, D"},
+    {"day": 6, "title": "Departure from Bhairahawa or Sonauli", "place": "bhairahawa", "overnight": "", "altitude_m": 105, "max_m": 105, "walk": "", "drive": "≈ 4–5 km · 15 min to the border or airport", "flight": "", "text": "After breakfast, transfer to Gautam Buddha International Airport for your flight to Kathmandu, or to the Belahiya border to cross into India at Sonauli. Indian citizens can walk straight across; other nationals complete Nepal exit and Indian entry formalities, for which you need a valid Indian visa. If you are continuing to Kushinagar or Gorakhpur, we can arrange an Indian vehicle to meet you on the Sonauli side.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini", "hotel-nirvana-bhairahawa"],
+  "includes": [
+    "4 nights in Lumbini and 1 night in Bhairahawa at 3-star hotels, twin sharing",
+    "Daily breakfast and dinner",
+    "Private air-conditioned vehicle with driver for all transfers and excursions",
+    "Buddhist-circuit guide (English or Hindi; other languages on request)",
+    "Entry fees at Lumbini, Tilaurakot and the Kapilvastu Museum",
+    "Bicycle or battery rickshaw hire for the monastic zone",
+    "Crane sanctuary walk with a local birder",
+    "Airport or border transfers on arrival and departure",
+    "Bottled water during excursions"
+  ],
+  "excludes": [
+    "Flights and trains to Bhairahawa or Gorakhpur",
+    "Nepal visa fee and Indian visa for non-Indian nationals",
+    "Lunches and drinks",
+    "Donations and offerings at monasteries",
+    "Tips for guide and driver",
+    "Travel and medical insurance",
+    "Personal expenses",
+    "Anything not listed under inclusions"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing a room in October–March at 3-star hotels; groups of 8 or more travel in a minibus at a lower per-person rate.",
+    "INR prices are for Indian nationals; USD prices include the higher entry fees charged to foreign nationals.",
+    "Day 4 involves about 4.5–5 hours of driving in total; we can split Ramagrama and Devdaha over two days on request.",
+    "Some Kapilavastu and Devdaha sites have basic or no facilities, so carry water and snacks on excursion days.",
+    "Monks, nuns and temple groups can request simple vegetarian meals and time for puja at every site."
+  ],
+  "add_ons": [
+    {"name": "Kushinagar and Gorakhpur extension in India (2 nights)", "price": "≈ ₹14,000 per person"},
+    {"name": "Daily guided meditation sessions in Lumbini", "price": "≈ ₹2,000 per person per session"}
+  ],
+  "faqs": [
+    {"q": "Which places are covered in the Nepal Buddhist circuit?", "a": "This tour covers Lumbini (birthplace), Tilaurakot (ancient Kapilavastu), Kudan, Gotihawa, Niglihawa, Ramagrama and Devdaha. Together they trace the Buddha's birth, childhood, renunciation, homecoming and the enshrinement of his relics. All lie within about 60 km of Lumbini, so you stay in one hotel for four nights."},
+    {"q": "How much does a Nepal Buddhist circuit tour cost?", "a": "This 5-night circuit starts at about ₹34,000 per person for Indian nationals or US$ 430 for foreign nationals, twin sharing, with 3-star hotels, breakfast and dinner, private car, guide and entry fees. Groups of eight or more pay less per person. Flights or trains to the start point are extra."},
+    {"q": "Is the Nepal Buddhist circuit suitable for seniors?", "a": "Yes. All sites are on flat ground, walking is in short sections, and vehicles stop close to entrances. The longest day involves about five hours of total driving with breaks. We can provide a battery rickshaw in Lumbini, wheelchairs on request, and a slower pace with extra rest."},
+    {"q": "Can we combine this with Indian Buddhist sites?", "a": "Yes. Kushinagar is about five hours from Lumbini via Sonauli and Gorakhpur, and Bodh Gaya and Sarnath can be added from Varanasi. See our India–Nepal Buddhist circuit via Sonauli, or add our 2-night Kushinagar extension to this tour."},
+    {"q": "Do we need a guide for Kapilavastu and Ramagrama?", "a": "We strongly recommend one. Signage at Kudan, Gotihawa, Ramagrama and Devdaha is limited, the sites are spread out, and the ruins are modest without the stories behind them. Our guide connects each place to the texts and the archaeology, and handles tickets and logistics."},
+    {"q": "Can monks and temple groups book this tour?", "a": "Yes, and we regularly plan for them. We can arrange simple vegetarian meals, early starts for chanting, extra time for puja at each site, and minibuses for larger groups. Let us know your tradition and any requirements, such as no food after noon, when booking."},
+    {"q": "What is the best time for the Buddhist circuit in Nepal?", "a": "October to March is best, with mild, dry days. February, March, October and November are ideal. December and January mornings are foggy. April to June is very hot, often 38–42 °C, though Buddha Jayanti in April or May is a special time for pilgrims despite the heat."},
+    {"q": "Can we start from Kathmandu instead of Bhairahawa?", "a": "Yes. Fly Kathmandu to Bhairahawa in about 35 minutes and we will meet you at the airport. We can also add a night in Kathmandu for Swayambhunath and Boudhanath, two key Buddhist stupas, before or after the circuit."},
+    {"q": "Is there an option without the long Ramagrama day?", "a": "Yes. We can split Ramagrama and Devdaha across two days by adding a night, or skip Ramagrama and visit Devdaha on the way to Tansen. The core of Lumbini and Kapilavastu stays the same. Ask us for a 4-night version if your time is short."}
+  ]
+}

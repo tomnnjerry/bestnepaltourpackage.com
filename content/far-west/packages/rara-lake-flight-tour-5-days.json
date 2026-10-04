@@ -1,0 +1,83 @@
+{
+  "slug": "rara-lake-flight-tour-5-days",
+  "title": "Rara Lake Tour by Flight 5 Days",
+  "region": "far-west",
+  "type": "tour",
+  "grade": "Moderate",
+  "nights": 4,
+  "themes": ["photography", "short-breaks", "honeymoon", "trekking"],
+  "stops": [{"place": "kathmandu", "nights": 0}, {"place": "nepalgunj", "nights": 2}, {"place": "rara-lake", "nights": 2}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 62000,
+  "price_from_usd": 730,
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 3630,
+  "accommodation": "Siddhartha Hotel in Nepalgunj; basic lodge or homestay at Rara",
+  "transport": "Kathmandu–Nepalgunj and Nepalgunj–Talcha return flights, airport transfers",
+  "group": "Private or small group, 2–10",
+  "meta_description": "Rara Lake tour by flight, 5 days: Kathmandu–Nepalgunj–Talcha flights, two nights at Nepal's largest lake, Murma Top sunrise and the lake circuit walk.",
+  "summary": "The fastest way to see Rara Lake without trekking: fly Kathmandu–Nepalgunj, take the morning small-plane flight to Talcha, walk 1.5–2 hours to the lake and spend two nights there with a sunrise climb to Murma Top and the 13 km shore walk. Return via Nepalgunj to Kathmandu.",
+  "intro": [
+    "Rara is Nepal's largest lake, about 10.8 km² of deep blue water at around 2,990 m, ringed by blue pine and juniper in a national park with almost no buildings. Reaching it overland takes two days from Nepalgunj; trekking from Jumla takes a week. This tour uses the scheduled flight from Nepalgunj to Talcha, the airstrip closest to the lake, so you are walking the shore by lunchtime on day two.",
+    "The tour is gentle but not luxurious. Rooms at Rara are simple lodge or homestay rooms with shared bathrooms and cold nights, and flights to Talcha depend on weather in the hills. We bracket the Rara nights with comfortable stays in Nepalgunj. Fit travellers who walk regularly will enjoy it; the main efforts are the walk in from Talcha and the optional pre-dawn climb to Murma Top, about 650 m above the lake."
+  ],
+  "highlights": [
+    "Small-plane flight from Nepalgunj over the Karnali hills to Talcha",
+    "Two nights by Rara Lake, Nepal's largest lake",
+    "Sunrise from Murma Top with Kanjiroba and Saipal peaks",
+    "The 13 km shore walk through blue pine and juniper",
+    "Bageshwari Temple and old bazaar in Nepalgunj"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly Kathmandu to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "≈ 10 km · 20 min", "flight": "Kathmandu–Nepalgunj · ≈ 1 h", "text": "Afternoon flight from Kathmandu to Nepalgunj, dropping from the hills to the hot Terai plain near the Indian border. Transfer to Siddhartha Hotel. In the late afternoon visit the Bageshwari Temple and its pond, and walk or take a tonga into the old bazaar for sweets or kebabs. Briefing on the Rara flight: 15 kg baggage limit, early start, and what to pack in your daypack. Leave extra bags at the hotel.", "meals": "D"},
+    {"day": 2, "title": "Fly to Talcha, walk to Rara Lake", "place": "rara-lake", "overnight": "Rara Lake", "altitude_m": 2990, "max_m": 3000, "walk": "≈ 1.5–2 h · 4–5 km", "drive": "", "flight": "Nepalgunj–Talcha · ≈ 45 min", "text": "Morning flight to Talcha in a Twin Otter or similar, crossing the Siwalik and Mahabharat ranges into the deep valleys of Karnali Province; sit on the right for mountain views. From the airstrip, at about 2,700 m, walk gently uphill through fields and pine forest to the park entrance and the lake, around 300 m of ascent. Settle into your lodge, then spend the afternoon on the south-east shore. Take it slowly; you have climbed nearly 3,000 m since breakfast.", "meals": "B, L, D"},
+    {"day": 3, "title": "Murma Top sunrise and the lake circuit", "place": "rara-lake", "overnight": "Rara Lake", "altitude_m": 2990, "max_m": 3630, "walk": "≈ 7–8 h · 18 km", "drive": "", "flight": "", "text": "Optional 4:30 am start for the climb to Murma Top, about 3,630 m, through pine and rhododendron, around two hours up. At sunrise the whole oval of Rara lies below with the Kanjiroba and Saipal snow ranges on the horizon. Back for breakfast, then walk the 13 km circuit of the lake clockwise, past the Nijar river outlet, the north shore meadows and the small Thakur Baba temple. Those who skip Murma can walk the circuit at a gentler pace.", "meals": "B, L, D"},
+    {"day": 4, "title": "Walk to Talcha, fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 2990, "walk": "≈ 1.5 h · 4–5 km", "drive": "≈ 10 km · 20 min", "flight": "Talcha–Nepalgunj · ≈ 45 min", "text": "Early breakfast and a last look at the lake in calm morning light, then walk down to Talcha for the morning flight back to Nepalgunj. The descent is easy. If the plane lands on schedule, you are back at the hotel by lunchtime with the afternoon free to rest by the pool. If weather delays the flight, the spare afternoon absorbs it; we keep in close touch with the airline and the hotel.", "meals": "B, D"},
+    {"day": 5, "title": "Fly Nepalgunj to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 10 km · 20 min", "flight": "Nepalgunj–Kathmandu · ≈ 1 h", "text": "Breakfast and transfer to Nepalgunj airport for the flight back to Kathmandu. Travellers heading home to India can instead drive to the Rupaidiha border and on to Lucknow, about 4–5 hours. If the Talcha flight on day 4 was cancelled, this day becomes the backup, and we rebook your Kathmandu flight for the afternoon.", "meals": "B"}
+  ],
+  "stays": ["siddhartha-hotel-nepalgunj"],
+  "includes": [
+    "2 nights at Siddhartha Hotel Nepalgunj, twin sharing, with breakfast and dinner",
+    "2 nights in a lodge or homestay at Rara with all meals",
+    "Return flights Kathmandu–Nepalgunj and Nepalgunj–Talcha",
+    "Airport transfers in Kathmandu and Nepalgunj",
+    "English- or Hindi-speaking guide from Nepalgunj to Rara and back",
+    "Rara National Park entry fee",
+    "Porter support for luggage between Talcha and the lake",
+    "Bageshwari Temple and bazaar visit in Nepalgunj"
+  ],
+  "excludes": [
+    "Hotels and meals in Kathmandu",
+    "Nepal visa fees for non-Indian nationals",
+    "Excess baggage over 15 kg on the Talcha flight",
+    "Extra nights caused by flight cancellations beyond the built-in buffer",
+    "Drinks, snacks and bottled water",
+    "Tips for guide and porters",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing and scheduled flights at current fares; private charters cost much more.",
+    "Talcha flights run a few times a week and are often delayed by weather; keep a spare day before onward travel.",
+    "Rooms at Rara are basic, with shared toilets and cold nights; bring a warm sleeping bag or ask us to supply one.",
+    "Baggage on the Talcha flight is usually limited to 15 kg including hand luggage.",
+    "Rara is at about 2,990 m; rest on arrival and drink water to help with the altitude.",
+    "Flight schedules, fares and park fees change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Extra night at Rara with Chuchemara Danda hike", "price": "≈ ₹6,000 per person"},
+    {"name": "Lucknow–Nepalgunj return transfer by private car", "price": "≈ ₹12,000 per car"},
+    {"name": "Sleeping bag hire", "price": "≈ ₹1,500 per trip"}
+  ],
+  "faqs": [
+    {"q": "Can I visit Rara Lake without trekking?", "a": "Yes. This tour flies from Nepalgunj to Talcha, the airstrip nearest the lake, and the only walk is 1.5–2 hours on a gentle trail to the shore. You can also arrange a helicopter or drive two days by jeep. The climb to Murma Top on day three is optional."},
+    {"q": "How much does a Rara Lake tour by flight cost?", "a": "This 5-day tour starts from about ₹62,000 or US$730 per person, twin sharing, including flights from Kathmandu to Nepalgunj and Talcha, hotels, Rara lodges, meals there, guide and park fee. Starting from Nepalgunj or travelling overland from Lucknow reduces the cost. Private charter flights cost much more."},
+    {"q": "What happens if the Talcha flight is cancelled?", "a": "Cancellations are common in poor weather. If the outbound flight is cancelled, we wait for the next flight and shorten the Rara stay or extend the trip at your choice. If the return flight is cancelled, day 5 acts as a buffer. Extra hotel nights beyond that are charged at cost."},
+    {"q": "Is Rara Lake suitable for senior citizens?", "a": "For active seniors who walk regularly, yes. The walk from Talcha is short, and the lake circuit is level. The altitude of about 2,990 m can cause breathlessness and poor sleep, so go slowly. Skip Murma Top if you prefer. Those with heart or lung conditions should consult a doctor first."},
+    {"q": "What is the hotel like at Rara Lake?", "a": "Basic. Lodges and homestays near the park office and Talcha offer twin rooms with blankets, shared toilets and simple meals such as dal bhat, noodles and eggs. Electricity is mostly solar. There is no luxury hotel because construction inside the park is restricted. Bring a warm sleeping bag."},
+    {"q": "How cold is Rara Lake?", "a": "In May and early June days are mild, around 15–20 °C, with nights near 2–5 °C. In October and November days are crisp and clear at 10–15 °C, with nights below freezing. From December to March it is very cold with snow. Bring a down jacket, hat and gloves in every season."},
+    {"q": "Can I start this Rara tour from India?", "a": "Yes. Drive from Lucknow to Nepalgunj in 4–5 hours via the Rupaidiha border and join on day one, skipping the Kathmandu flights, which reduces the price. Indian nationals need a passport or voter ID. Return by road on day five. We can arrange the Lucknow transfer."},
+    {"q": "Is there boating at Rara Lake?", "a": "Small rowing boats have been available at times for visitors, but availability depends on park and army rules and changes from year to year. Swimming and fishing are not allowed. Check current status before you travel; most visitors find the shore walk and Murma Top the highlights anyway."},
+    {"q": "What is the best time for a Rara Lake tour?", "a": "April to June and September to November. Spring brings flowers and long days; October and November have the clearest skies and bluest water. July and August are green but flights are unreliable. From December to March, snow and cold make the trip hard and flights are often disrupted."}
+  ]
+}

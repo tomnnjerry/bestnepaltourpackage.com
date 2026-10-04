@@ -1,0 +1,130 @@
+{
+  "slug": "larkya-la",
+  "name": "Larkya La",
+  "region": "manaslu",
+  "kind": "pass",
+  "wiki": "Larkya La",
+  "image_query": "Larkya La pass prayer flags Manaslu",
+  "lat": 28.664,
+  "lng": 84.520,
+  "altitude_m": 5106,
+  "tagline": "The 5,106 m pass that turns the Manaslu trek into a circuit",
+  "meta_description": "Larkya La (5,106 m), high point of the Manaslu Circuit: crossing day timings, Dharamsala camp, snow, views of Himlung and Annapurna II, safety tips.",
+  "summary": "Larkya La is the 5,106 m pass between Dharamsala and Bimthang and the highest point of the Manaslu Circuit. The crossing is a long day of 8 to 10 hours: a pre-dawn start, a slow climb across moraine to prayer flags at the top, then a steep descent of about 1,500 m to Bimthang.",
+  "intro": [
+    "Larkya La crosses the ridge between the upper Budhi Gandaki and the Dudh Khola, a tributary of the Marsyangdi on the Annapurna side. Wikipedia and Nepal maps give its height as 5,106 m, while many trekking agencies quote 5,160 m; we use the lower figure, but you will see both on signs and certificates. It is one of the longest pass crossings in the Nepal Himalaya, with a gradual approach from the east and a steep, rocky drop on the west.",
+    "The day starts at Dharamsala, also called Larkya Phedi, a group of stone lodges and tent platforms at about 4,460 m. Trekkers leave between 3 and 5 am with headtorches, climbing slowly over the lateral moraine of the Larkya Glacier past small frozen lakes. Dawn arrives as you gain height, lighting the peaks around you. Most people reach the prayer flags at the top in 3 to 5 hours, depending on fitness and snow.",
+    "From the pass the view opens west to Himlung Himal, Cheo Himal, Kang Guru and Annapurna II. Then comes the hardest part for many: a long, steep descent on loose scree and often snow or ice, followed by moraine and grass down to Bimthang at about 3,590 m. With the climb and descent together, plan 8 to 10 hours. Good weather, good acclimatisation and an early start are what make the day safe."
+  ],
+  "facts": [
+    ["Altitude", "5,106 m (often quoted as 5,160 m)"],
+    ["Best months", "Late Mar – May · late Sep – Nov"],
+    ["Nights we suggest", "1 at Dharamsala (4,460 m) before crossing"],
+    ["Nearest airport", "Kathmandu (rescue by helicopter)"],
+    ["Crossing day", "≈ 8–10 h · 15–16 km · 650 m up, 1,500 m down"],
+    ["Known for", "Highest point of the Manaslu Circuit, glacier views"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "nights": "0",
+  "highlights": [
+    {"title": "Pre-dawn climb", "text": "Headtorches bob up the moraine in the dark, stars bright overhead and frozen lakes crunching underfoot. As light comes, the peaks of the Larkya and Manaslu ranges turn pink around you. The early start is cold but one of the most memorable parts of the trek."},
+    {"title": "Prayer flags at 5,106 m", "text": "The top of the pass is marked by a cairn and long strings of prayer flags. Most groups spend 10 to 20 minutes here for photographs, a hot drink from a flask and a moment to take in the highest point of the circuit."},
+    {"title": "Annapurna side panorama", "text": "West of the pass a new set of mountains appears: Himlung Himal (7,126 m), Cheo Himal, Kang Guru and Annapurna II (7,937 m). The change from the Manaslu side is dramatic and marks the end of the climb."},
+    {"title": "Larkya Glacier", "text": "The approach from Dharamsala follows the Larkya Glacier's moraine, with views across the ice to the surrounding peaks. Small glacial lakes, often frozen in autumn, lie beside the trail."},
+    {"title": "The long descent to Bimthang", "text": "The steep drop on the west side loses about 1,500 m to Bimthang. Loose scree and seasonal snow make it slow, but the reward is Bimthang's meadow with the north face of Manaslu glowing at sunset."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Samdo walk 3.5 to 4 hours to Dharamsala (4,460 m) and sleep there. Next day leave by 4 am and climb 3 to 5 hours to Larkya La (5,106 m), then descend 4 to 5 hours to Bimthang (3,590 m). The total crossing is about 15 to 16 km."},
+    {"mode": "Helicopter", "text": "There is no planned helicopter service over the pass for trekkers. In emergencies helicopters can land at Dharamsala or Bimthang in good weather. Trekkers who do not want to cross can fly out from Samagaun instead, a common choice on our heli return itinerary."}
+  ],
+  "where_to_stay": "There is no accommodation on the pass itself. The night before the crossing is spent at Dharamsala (Larkya Phedi, about 4,460 m), where a few basic stone lodges and a tented camp offer dormitory or twin rooms, a shared dining hut and outside toilets. Beds are limited and fill quickly in October, so in peak weeks some groups sleep in tents provided by the lodges. After the pass you sleep in Bimthang, which has a row of teahouses on its meadow. Bring a sleeping bag rated to at least −15 °C for Dharamsala.",
+  "stays": [],
+  "tips": [
+    "Go to bed by 7:30 pm at Dharamsala and pack the night before; most groups leave between 3 and 5 am.",
+    "Carry 2 litres of water in insulated bottles or keep them inside your jacket so they do not freeze.",
+    "Pack microspikes or ask your guide about them from November, when ice and snow are common on the descent.",
+    "Eat a proper breakfast at Dharamsala and keep snacks in your pocket; you will burn a lot of energy.",
+    "Turn back to Samdo if anyone has altitude symptoms at Dharamsala; the pass is not the place to test them."
+  ],
+  "themes": ["trekking", "adventure-sports", "photography"],
+  "nearby": ["samdo", "bimthang", "samagaun"],
+  "experiences": [
+    {
+      "slug": "larkya-la-pre-dawn-crossing",
+      "title": "Pre-dawn crossing of Larkya La",
+      "kind": "adventure",
+      "duration": "8–10 hours",
+      "best_time": "Start 3–5 am, Oct–Nov and Apr–May",
+      "price_hint": "Included in all Manaslu Circuit treks",
+      "image_query": "Larkya La crossing trekkers snow",
+      "wiki": "Larkya La",
+      "summary": "The big day of the Manaslu Circuit: leave Dharamsala in the dark, climb about 650 m to Larkya La at 5,106 m and descend roughly 1,500 m to Bimthang. Expect 8 to 10 hours on foot, cold air at dawn and some of the best mountain views in Nepal.",
+      "body": [
+        "Your guide wakes you around 3 am with tea. Breakfast is porridge, eggs or Tibetan bread, eaten quickly in the dining hut. By 4 am the group sets out with headtorches, following a line of cairns over the moraine of the Larkya Glacier. The gradient is gentle but the altitude makes every step slow. Rest briefly every 30 to 40 minutes, eat a little and drink, even if you do not feel hungry or thirsty.",
+        "Dawn usually breaks as you pass the frozen lakes below the pass. The last hour climbs a broad slope to the prayer flags at 5,106 m, which most trekkers reach between 7 and 10 am. Take photographs, put on a dry layer and drink from your flask, but keep the stop short; the wind is strong and the descent is long.",
+        "The western side drops steeply on scree and often snow. Walk carefully, use poles and microspikes if your guide advises, and keep together. After 2 to 3 hours the slope eases onto moraine and then grassland. You reach Bimthang in the afternoon, tired and very satisfied, with Manaslu's north face above the meadow."
+      ],
+      "good_for": ["groups", "solo", "photographers"],
+      "faqs": [
+        {"q": "How hard is the Larkya La crossing?", "a": "It is the most demanding day of the Manaslu Circuit: 8 to 10 hours, 15 to 16 km, about 650 m of ascent to 5,106 m and roughly 1,500 m of descent, often on snow or scree. It is non-technical, but you need good fitness, proper acclimatisation and warm gear. Most fit trekkers manage it well with an early start."},
+        {"q": "What time do trekkers leave Dharamsala for Larkya La?", "a": "Usually between 3 and 5 am. The early start gives time to cross before the strong winds and cloud of late morning, and frozen snow is firmer in the early hours. Your guide will decide based on the group's pace and the conditions that season."},
+        {"q": "Do I need crampons for Larkya La?", "a": "Not normally in October. From November to April snow and ice are common on the western descent, and microspikes, simple slip-on chains, help a lot. Full crampons and ice axes are needed only in heavy snow, when the pass is usually closed to trekkers anyway. Your guide will advise before you leave Samagaun."}
+      ]
+    },
+    {
+      "slug": "larkya-la-dharamsala-high-camp-night",
+      "title": "A night at Dharamsala, 4,460 m",
+      "kind": "adventure",
+      "duration": "1 night",
+      "best_time": "Oct–Nov and Apr–May",
+      "price_hint": "Included in all Manaslu Circuit treks",
+      "image_query": "Dharamsala Larkya Phedi lodge Manaslu",
+      "wiki": "",
+      "summary": "Dharamsala, also called Larkya Phedi, is the high camp below the pass: a handful of stone lodges and tents at about 4,460 m. The night is short, cold and basic, but it is where the crossing begins and a key part of the Manaslu experience.",
+      "body": [
+        "You reach Dharamsala from Samdo in 3.5 to 4 hours, passing the ruins of Larkya Bazaar, an old seasonal trading market. The camp lies in a hollow of moraine below the Larkya Glacier, surrounded by rock and snow. There are a few stone lodges with small rooms or dormitories, a dining hut with a stove and, in busy weeks, extra tents.",
+        "Use the afternoon to rest and to walk 100 to 200 m up the moraine behind the camp for a short acclimatisation climb. Drink plenty of water and eat a solid dinner, usually dal bhat or noodle soup, even if your appetite is low. Your guide will brief you on the next morning's timing, clothing and what to carry.",
+        "Nights are very cold, often −10 °C or lower in November, and toilets are outside. Sleep in thermals and a hat, keep your water bottles and batteries in your sleeping bag and lay out tomorrow's clothes before bed. Many people sleep lightly at this height; resting with your eyes closed still helps."
+      ],
+      "good_for": ["groups", "solo"],
+      "faqs": [
+        {"q": "What is Dharamsala on the Manaslu Circuit?", "a": "Dharamsala, also called Larkya Phedi, is the high camp at about 4,460 m below Larkya La. It has a few basic stone lodges, a dining hut and tent space. Every Manaslu Circuit trekker sleeps here the night before crossing the pass to Bimthang."},
+        {"q": "Are there proper rooms at Dharamsala?", "a": "There are a few small rooms and dormitories in stone lodges, plus tents in busy weeks. Bedding is basic, toilets are outside and there is no heating except the stove in the dining hut. Bring a sleeping bag rated to −15 °C and expect a short, cold night."},
+        {"q": "Is it normal to sleep badly at Dharamsala?", "a": "Yes. Many trekkers sleep lightly or wake often at 4,460 m, partly from altitude and partly from nerves before the pass. That alone is not a reason to turn back. A severe headache, vomiting, confusion or breathlessness at rest are danger signs and mean you should descend."}
+      ]
+    },
+    {
+      "slug": "larkya-la-western-panorama",
+      "title": "Himlung and Annapurna II from the pass",
+      "kind": "nature",
+      "duration": "20 minutes at the top",
+      "best_time": "7–10 am, Oct–Nov",
+      "price_hint": "",
+      "image_query": "Himlung Himal from Larkya La",
+      "wiki": "",
+      "summary": "From the prayer flags on Larkya La a new range opens to the west: Himlung Himal, Cheo Himal, Kang Guru and Annapurna II. Combined with the Larkya and Manaslu peaks behind, it is one of the finest views of the trek, best enjoyed on a clear morning.",
+      "body": [
+        "Arriving at the top, most people first look back at the route they have climbed, across the Larkya Glacier to the peaks above Samdo. Then turn west. Himlung Himal, 7,126 m, rises on the Tibet border to the north-west; Cheo Himal and Kang Guru stand above the Nar Phu and Manang valleys; and Annapurna II, 7,937 m, dominates the skyline to the south-west.",
+        "The view is clearest before 10 am, which is one more reason for the pre-dawn start. Wind on the pass is often strong and cold, so put on your warm jacket before taking photos and keep gloves on as much as possible. A phone or camera kept inside your jacket will have a fuller battery than one carried in an outer pocket.",
+        "On the descent the view continues, with the Bimthang glaciers and Manaslu's north-west face appearing below. Stop on safe ground, not on steep scree, if you want photographs on the way down."
+      ],
+      "good_for": ["photographers", "groups", "solo"],
+      "faqs": [
+        {"q": "Which mountains can you see from Larkya La?", "a": "To the west you see Himlung Himal (7,126 m), Cheo Himal, Kang Guru and Annapurna II (7,937 m). Behind you to the east are the Larkya peaks and the glaciers above Samdo. Manaslu's north-west side appears on the descent towards Bimthang."},
+        {"q": "How long can I stay on top of Larkya La?", "a": "Most groups spend 10 to 20 minutes on the pass. The wind is usually strong and cold, the altitude is 5,106 m and a long descent lies ahead. Take photos, drink and eat something, then move on. Your guide will keep an eye on the time and the weather."},
+        {"q": "Is Larkya La higher than Thorong La?", "a": "No. Thorong La on the Annapurna Circuit is 5,416 m, about 300 m higher than Larkya La at 5,106 m. Larkya La is still a serious high pass, and its long descent and remoteness make the crossing day comparable in effort to Thorong La."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Larkya La?", "a": "Larkya La is 5,106 m according to Wikipedia and Nepal survey maps, though many agencies quote 5,160 m. Either way it is the highest point of the Manaslu Circuit, about 650 m above Dharamsala and roughly 1,500 m above Bimthang on the far side."},
+    {"q": "How long does it take to cross Larkya La?", "a": "From Dharamsala to Bimthang allow 8 to 10 hours: 3 to 5 hours up to the pass and 4 to 5 hours down. The distance is about 15 to 16 km. Slower groups or deep snow can stretch it to 11 hours, which is why an early start matters."},
+    {"q": "When is Larkya La closed?", "a": "Heavy snow can close the pass from December to March, and storms can block it briefly in any month, including October and April. Some lodges at Dharamsala and Samdo close in winter. Check current status before you travel and build a spare day into your itinerary."},
+    {"q": "Is Larkya La dangerous?", "a": "It is safe in good weather with proper acclimatisation and a licensed guide. The main risks are altitude sickness, cold, snow on the steep western descent and bad weather. Turn back if symptoms appear at Dharamsala, carry microspikes in snow season and never cross in a storm."},
+    {"q": "Can beginners cross Larkya La?", "a": "Fit beginners can, if they follow a well-paced itinerary with acclimatisation days in Samagaun and Samdo, walk slowly and listen to their guide. Prepare with regular hikes of 5 to 6 hours with a daypack in the months before your trip."},
+    {"q": "What should I carry on the Larkya La day?", "a": "Down jacket, windproof shell, warm hat, gloves and liner gloves, sunglasses, sun cream, headtorch with spare batteries, 2 litres of water in insulated bottles, snacks, trekking poles and microspikes in snow season. Porters carry your main bag, so keep your daypack light."},
+    {"q": "Is there a way to avoid Larkya La?", "a": "Yes. You can trek to Samagaun and return by helicopter to Kathmandu, or walk back down the Budhi Gandaki the way you came. Both avoid the pass. Our Manaslu circuit with heli return from Samagaun package is designed for this."},
+    {"q": "Can I get a certificate for crossing Larkya La?", "a": "Some lodges and agencies hand out informal certificates, but there is no official government certificate. Your best record is a photo at the prayer flags. We give our trekkers a simple trip certificate in Kathmandu if they would like one."},
+    {"q": "Which way do people cross Larkya La?", "a": "Almost all trekkers cross from east to west, from Dharamsala on the Manaslu side to Bimthang on the Annapurna side. This direction gives a gentler climb and better acclimatisation. Crossing west to east is possible but rare, with a steeper ascent and fewer lodges for acclimatising."}
+  ]
+}

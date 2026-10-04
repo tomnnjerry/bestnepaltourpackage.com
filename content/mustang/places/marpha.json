@@ -1,0 +1,132 @@
+{
+  "slug": "marpha",
+  "name": "Marpha",
+  "region": "mustang",
+  "kind": "trekking village",
+  "wiki": "Marpha",
+  "image_query": "Marpha village whitewashed houses Mustang",
+  "lat": 28.754,
+  "lng": 83.685,
+  "altitude_m": 2670,
+  "tagline": "Whitewashed Thakali village of apples, brandy and flagstone lanes",
+  "meta_description": "Marpha guide: 2,670 m Thakali village 6 km south of Jomsom, known for apple orchards, apple brandy, flagstone lanes and its hilltop monastery.",
+  "summary": "Marpha (2,670 m) is a Thakali village 6 km south of Jomsom, known across Nepal for its apples, dried fruit and apple brandy. Whitewashed houses line a single flagstone street with a drain running down the middle, and a monastery overlooks the roofs. It is a calmer overnight than Jomsom, 20 minutes away by jeep.",
+  "intro": [
+    "Marpha's main street is paved with flat stones and lined on both sides by two-storey whitewashed houses with wooden windows and flat roofs piled with firewood. A covered water channel runs down the middle, and every few metres a doorway opens into a courtyard where apricots or apples are drying in the sun. Above the village, prayer flags snap on the roof of the Nyingma monastery, and behind it cliffs rise towards Nilgiri.",
+    "The village owes its fame to a government horticulture farm set up in the 1960s, which introduced apple varieties that grow well in the dry, sunny climate of the upper Kali Gandaki. Today orchards surround Marpha and the neighbouring villages, and families turn the harvest into juice, jam, cider, dried apple rings and the local apple and apricot brandy. Harvest time, from late August to October, fills every courtyard with fruit.",
+    "Marpha is an easy addition to any Jomsom or Muktinath trip. You can walk here from Jomsom in about 1.5–2 hours along the river, drive in 20 minutes, or stop overnight on the road from Pokhara. Pilgrims often visit for an afternoon after Muktinath darshan, while trekkers on the Annapurna Circuit stay to enjoy apple pie and quieter lodges. A night here also gives a slightly lower sleeping height than Jomsom."
+  ],
+  "facts": [
+    ["Altitude", "2,670 m"],
+    ["Best months", "Mar – May · Aug – Nov (apple harvest Aug – Oct)"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Jomsom, 6 km · 20 min by jeep"],
+    ["From Kathmandu", "Flights via Pokhara to Jomsom + 20 min drive"],
+    ["Known for", "Apples, apple brandy, Thakali architecture, monastery"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "The flagstone main street", "text": "A single paved lane runs the length of the village, with whitewashed houses, painted window frames and a stone water channel under your feet. It is car-free inside the village, so walking it in the evening light is quiet and easy."},
+    {"title": "Apple orchards and the farm", "text": "The horticulture farm south of the village introduced apples to Mustang in the 1960s and still grows saplings and experimental varieties. Orchards line the road; in season, families sell fresh apples by the kilo from their doorsteps."},
+    {"title": "Marpha brandy and cider", "text": "Distilleries in Marpha and nearby Tukuche produce apple and apricot brandy and cider. Many shops offer a taste before you buy, and lodges sell it by the glass. Bottles cost a few hundred rupees."},
+    {"title": "Nyingma monastery above the village", "text": "Steps lead from the main street to the village monastery, painted red and white with a courtyard of prayer wheels. Monks are usually happy to show visitors the prayer hall. The roof gives a good view over the village and orchards."},
+    {"title": "Apple pie and dried fruit", "text": "Every lodge serves apple pie, apple crumble and apple pancakes. Dried apple rings and apricots are sold in bags, light enough to carry home. Try apple juice pressed in the village."},
+    {"title": "Chhairo Tibetan settlement", "text": "Across the river, 30 minutes on foot, the settlement of Chhairo has a small gompa recently restored, and carpet weaving by Tibetan families who arrived in the 1960s."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Marpha is on the Pokhara–Jomsom road, ≈ 6 km · 20 min south of Jomsom and ≈ 150 km · 7–8 h from Pokhara. Sharing jeeps and buses pass through, and a private jeep from Jomsom costs about NPR 2,500–3,500 one way."},
+    {"mode": "Air", "text": "Fly Pokhara–Jomsom (20 min), then drive or walk down. Return flights leave Jomsom early, so stay the last night in Jomsom or leave Marpha by 6 am."},
+    {"mode": "On foot", "text": "From Jomsom it is a pleasant 1.5–2 hour walk down the valley, mostly on old trails on the west bank. Start early to stay ahead of the afternoon wind blowing up the valley into your face."}
+  ],
+  "where_to_stay": "Marpha has more than a dozen family lodges along the main street and the road, most with attached bathrooms, solar hot water and small dining rooms serving Thakali sets and apple desserts. Hotel Marpha Palace and Neeru Guest House are among the long-established options. Standards are simple but clean, comparable to good teahouses. For pilgrims who want heating and larger rooms, we usually visit Marpha in the afternoon and return to sleep at Hotel Om's Home or Shinta Mani Mustang in Jomsom, 20 minutes away. Trekkers and cyclists often prefer to stay in the village for its quieter evenings.",
+  "stays": [],
+  "tips": [
+    "Visit from late August to October to see the apple harvest and buy fresh fruit straight from the orchards.",
+    "Taste before buying brandy; quality varies, and some bottles are much stronger than others.",
+    "The village lane has steps and channels, so wheeled luggage is awkward; porters can help from the road.",
+    "Walk clockwise around the prayer wheels and chortens, and ask before entering the monastery.",
+    "Buy dried apples here rather than in Pokhara; they are cheaper and fresher."
+  ],
+  "themes": ["cultural-tours", "trekking", "family-holidays", "photography", "short-breaks"],
+  "nearby": ["jomsom", "kagbeni", "muktinath"],
+  "experiences": [
+    {
+      "slug": "marpha-apple-orchard-brandy-tasting",
+      "title": "Apple orchards and Marpha brandy tasting",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Afternoon, Aug–Oct for harvest",
+      "price_hint": "≈ ₹1,000 per person",
+      "image_query": "Marpha apple orchard Mustang",
+      "wiki": "",
+      "summary": "Walk through Marpha's apple orchards, hear how a 1960s government farm changed the valley's economy, then taste local apple and apricot brandy, cider and juice in a family distillery. Non-drinkers get juice and dried fruit.",
+      "body": [
+        "Apples were not grown in Mustang until the 1960s, when the government set up a horticulture farm at Marpha, helped by foreign advisers, to test fruit suited to the dry, cold valley. The varieties thrived. Within a generation orchards spread to Tukuche, Jomsom and Kagbeni, and Marpha apples became a byword in Nepal for crisp, sweet fruit. Our walk starts near the farm, where you can see nursery rows and older trees.",
+        "In harvest season, from late August to October, families pick, sort and dry apples in courtyards and on rooftops. You may help pick a few, and buy fresh fruit for a fraction of city prices. Some households press juice and make jam and apple vinegar. Off season, the orchards are bare but the stores of dried fruit and bottles are still full.",
+        "We finish in a small family distillery where apple and apricot brandy is made in copper or steel pots. Tasting is informal: a few small glasses, explanations of how the fruit is fermented and distilled, and a chance to buy bottles. Pilgrims and non-drinkers are offered fresh juice and dried apple instead, and children enjoy apple pie in the lodge afterwards."
+      ],
+      "good_for": ["couples", "families", "groups", "photographers"],
+      "faqs": [
+        {"q": "When is apple season in Marpha?", "a": "Apples are harvested from late August to October, with September the peak month. Blossom season is April. Even outside harvest, shops sell dried apples, juice, jam, cider and brandy all year. Fresh apples in winter come from storage and are still good but less crisp."},
+        {"q": "How strong is Marpha brandy?", "a": "Strength varies by producer, but most local apple and apricot brandy is around 30–40 % alcohol, similar to commercial spirits, and some homemade batches are stronger. Taste carefully, especially at altitude, where alcohol affects you faster. Avoid alcohol entirely if you have any symptoms of altitude sickness."},
+        {"q": "Can I take Marpha brandy on the flight?", "a": "Yes, in checked baggage, packed well. Airlines in Nepal generally do not allow liquids over 100 ml in hand luggage on domestic flights from Pokhara and Kathmandu, and Jomsom flights have strict weight limits of about 10–15 kg. Indian customs allows a limited quantity of alcohol duty free; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "marpha-village-monastery-walk",
+      "title": "Marpha village lanes and monastery walk",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, all year",
+      "price_hint": "Free, donation at the monastery",
+      "image_query": "Marpha monastery prayer flags",
+      "wiki": "",
+      "summary": "A slow walk along Marpha's flagstone lane, into a Thakali courtyard house and up the steps to the village monastery, with your guide explaining Thakali clan life, water channels and the salt-trade history of the valley.",
+      "body": [
+        "Thakali families built their wealth on the salt trade, running inns and caravans between Tibet and the hills to the south. Marpha's houses show it: solid stone walls, flat mud roofs for drying grain, inner courtyards for animals and goods, and carved wooden windows facing the lane. Our guide arranges a visit to a family house to see the kitchen, the prayer room and the store rooms.",
+        "The lane is laid with flat stones over a channel that brings water from the hills to every house, a system maintained by the village for generations. Look for the small doorways and passages that lead off into courtyards, and the prayer wheels set into walls. Thakali culture blends Buddhist practice with older clan worship, and you will see both in household shrines.",
+        "Steps lead up to the Nyingma monastery, where monks are usually happy to show the prayer hall with its statues of Guru Rinpoche and Avalokiteshvara. The roof gives the best view over Marpha's white houses and green orchards. The whole walk takes about 1.5 hours and suits all ages, with only one steep flight of steps."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Who are the Thakali people?", "a": "The Thakali are an ethnic group from the Thak Khola, the upper Kali Gandaki between Ghasa and Jomsom. They became prosperous traders and innkeepers on the salt route between Tibet and Nepal, and many now run hotels and businesses across Nepal. Their cuisine, the Thakali khana set, is famous nationwide."},
+        {"q": "Is Marpha monastery open to visitors?", "a": "Yes. The monastery is usually open during the day, and a monk or caretaker will open the prayer hall for visitors. Remove shoes, do not touch statues or offerings, and ask before taking photos. A donation of NPR 100–200 is customary. Morning and evening prayers are the best times to hear chanting."},
+        {"q": "Is Marpha good for an overnight stay?", "a": "Yes. Marpha is quieter than Jomsom and, at 2,670 m, slightly lower, which helps sleep. Lodges are simple but clean, with good food. Overnighting makes sense if you are trekking, cycling or driving from Pokhara. If you need to catch an early flight from Jomsom, sleep in Jomsom instead."}
+      ]
+    },
+    {
+      "slug": "marpha-to-jomsom-river-walk",
+      "title": "Marpha to Jomsom walk by the Kali Gandaki",
+      "kind": "hiking",
+      "duration": "2 hours",
+      "best_time": "Early morning, Mar–Nov",
+      "price_hint": "Included in our Jomsom tours",
+      "image_query": "Kali Gandaki valley Marpha Jomsom trail",
+      "wiki": "Kali Gandaki River",
+      "summary": "An easy two-hour walk from Marpha up the Kali Gandaki valley to Jomsom, mostly away from the road, through orchards and past the Tibetan settlement of Chhairo, with Nilgiri and Tilicho peaks ahead.",
+      "body": [
+        "We leave Marpha by 7 am, before the wind, and cross to the west bank of the Kali Gandaki. The path runs through apple orchards and along stone walls, then past Chhairo, where Tibetan refugees settled in the 1960s and a small gompa has been restored with care. Carpet looms are sometimes at work in the courtyards.",
+        "Beyond Chhairo the trail follows the broad gravel bed of the river, with Nilgiri North ahead and the long ridge of Dhaulagiri behind you. The valley here is one of the deepest gorges in the world, measured from the peaks on either side, though at this point it opens out into a wide, flat floor. Look on the gravel for Shaligram; locals sometimes find them here as well as at Kagbeni.",
+        "The walk gains only about 50 m over 6–7 km and finishes at the bridge into Jomsom bazaar, in time for a second breakfast. It is a good acclimatisation walk before Muktinath and suits families and seniors who walk regularly. If anyone tires, the road is never far away and a jeep can collect you."
+      ],
+      "good_for": ["families", "seniors", "couples", "solo"],
+      "faqs": [
+        {"q": "How long is the walk from Marpha to Jomsom?", "a": "About 6–7 km, taking 1.5–2 hours at an easy pace, with only around 50 m of height gain. The route follows trails on the west bank and the river gravels, avoiding most of the road. Start early because the afternoon wind blows from the south and fills the valley with dust."},
+        {"q": "Is the Kali Gandaki gorge the deepest in the world?", "a": "By one measure, yes. The Kali Gandaki flows between Dhaulagiri (8,167 m) and Annapurna I (8,091 m), and the difference between the river and the peaks on either side is often cited as making it the world's deepest gorge. Near Marpha and Jomsom the valley floor itself is wide and flat."},
+        {"q": "Can we see Shaligram near Marpha?", "a": "Shaligram are found along the Kali Gandaki gravels from Kagbeni down past Jomsom and Marpha, though the best-known spots are near Kagbeni and further upstream. You may find a small one on the Marpha–Jomsom walk if you look carefully in the riverbed. Local shops in Marpha also sell them."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Marpha?", "a": "Marpha is in Mustang district, 6 km south of Jomsom on the Kali Gandaki at 2,670 m. It sits on the Pokhara–Jomsom road and the Annapurna Circuit trekking route. From Jomsom it is a 20-minute drive or a two-hour walk. From Pokhara it is about 150 km and 7–8 hours by road."},
+    {"q": "Why is Marpha famous?", "a": "Marpha is famous for its apples, introduced by a government farm in the 1960s, and the apple brandy, cider, juice and dried fruit made from them. It is also known for its well-kept Thakali architecture: whitewashed houses, a flagstone street and a hillside monastery. Many call it Nepal's apple capital."},
+    {"q": "Is Marpha worth visiting on a Muktinath tour?", "a": "Yes. It adds only 20 minutes each way from Jomsom and gives a different view of Mustang: green orchards, Thakali homes and apple products. Many pilgrims visit on the afternoon of Muktinath day or the morning before flying back. Families enjoy the apple pie and the easy walk through the village."},
+    {"q": "What is the weather in Marpha?", "a": "Marpha is dry and sunny. Spring and autumn days are 15–22 °C and nights near 0–5 °C. Winters are cold, with nights around −5 °C and occasional snow. Summer brings warm days and light showers. Like Jomsom, Marpha gets a strong wind from late morning."},
+    {"q": "Can I buy apples in Marpha?", "a": "Yes. Fresh apples are sold from late August to October directly by farmers and shops, often in 5 kg or 10 kg bags. Outside harvest, you can buy dried apples, jam, juice, cider and brandy year-round. Fresh fruit is heavy for flights, so many visitors buy dried apples instead."},
+    {"q": "Are there good hotels in Marpha?", "a": "Marpha has simple, clean family lodges with attached bathrooms and hot showers, including Hotel Marpha Palace and Neeru Guest House. There are no 3-star or luxury hotels. For more comfort, stay in Jomsom at Hotel Om's Home or Shinta Mani Mustang and visit Marpha on a short trip."},
+    {"q": "Do I need a permit to visit Marpha?", "a": "Yes, the ACAP permit, because Marpha is inside the Annapurna Conservation Area. It costs NPR 1,000 for SAARC nationals including Indians and NPR 3,000 for other foreigners. Children under 10 are free. Permits are checked at points on the road. Check current status before you travel."},
+    {"q": "How far is Marpha from Muktinath?", "a": "Marpha is about 28 km from Muktinath by road, around 1.5–2 hours by jeep via Jomsom and Eklebhatti. Muktinath is about 1,040 m higher, at 3,710 m. Trekkers walk from Muktinath to Marpha in one long day of 7–8 hours or two easier days with a night in Kagbeni or Jomsom."},
+    {"q": "Is Marpha good for families?", "a": "Yes. At 2,670 m the altitude is moderate, the village is car-free inside, walks are easy and food is child friendly, especially apple pie and pancakes. Lodges are simple, so bring warm sleepwear for children. The only downside is the afternoon wind, so plan outdoor time in the morning."}
+  ]
+}

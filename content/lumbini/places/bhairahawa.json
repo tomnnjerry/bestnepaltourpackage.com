@@ -1,0 +1,131 @@
+{
+  "slug": "bhairahawa",
+  "name": "Bhairahawa (Siddharthanagar)",
+  "region": "lumbini",
+  "kind": "border town",
+  "wiki": "Siddharthanagar",
+  "image_query": "Siddharthanagar Bhairahawa Nepal city",
+  "lat": 27.505,
+  "lng": 83.452,
+  "altitude_m": 105,
+  "tagline": "Airport and border gateway to Lumbini, 4 km from Sonauli",
+  "meta_description": "Bhairahawa (Siddharthanagar) guide: Sonauli–Belahiya border rules for Indians and foreigners, Gautam Buddha International Airport, hotels and transfers to Lumbini.",
+  "summary": "Bhairahawa, officially Siddharthanagar, is the busy trading town 4 km north of the Sonauli–Belahiya border and 22 km east of Lumbini. It holds Gautam Buddha International Airport, the main hotels for late arrivals, banks and bus links, making it the practical gateway for almost every Lumbini trip from India or Kathmandu.",
+  "intro": [
+    "Bhairahawa sits on the Terai plain at about 105 m, where the Siddhartha Highway from Pokhara meets the road to the Indian border. The town's official name is Siddharthanagar, but nearly everyone, including bus conductors and airline staff, still calls it Bhairahawa. It is a working market town rather than a sightseeing destination: wholesale shops, electronics stores, sweet shops, banks and hotels line the main roads, and Indian and Nepali shoppers move constantly between here and Sonauli.",
+    "Two things make it important for travellers. The first is the border at Belahiya, 4 km south, the busiest crossing for tourists between India and Nepal, with Nepal immigration for foreign nationals, a customs office for vehicles and an Integrated Check Post on the Indian side at Sonauli. The second is Gautam Buddha International Airport, upgraded to international status in 2022, with frequent 35-minute domestic flights to Kathmandu and occasional international services.",
+    "Most visitors spend a few hours here at most, transferring straight to Lumbini 22 km away, but Bhairahawa is a sensible overnight stop for late flights, early border crossings or large groups that prefer a city hotel. Hotel Nirvana is the long-established mid-range choice. Evening walks through the bazaar, sweet shops and food stalls give a lively taste of the Indo-Nepali border culture."
+  ],
+  "facts": [
+    ["Altitude", "105 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "0–1"],
+    ["Nearest airport", "Gautam Buddha International Airport (BWA), in town"],
+    ["From Kathmandu", "≈ 35 min flight, or ≈ 280 km · 8–9 h by road"],
+    ["Known for", "Sonauli–Belahiya border, Gautam Buddha International Airport, border bazaar"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sonauli–Belahiya border", "text": "The crossing 4 km south of town is open around the clock for Indian and Nepali citizens, with immigration counters for other nationalities. Rickshaws and taxis wait on both sides, and the walk across the line itself takes only a few minutes."},
+    {"title": "Gautam Buddha International Airport", "text": "Nepal's second international airport, opened as such in May 2022, sits on the western edge of town. Buddha Air, Yeti Airlines and Shree Airlines fly to Kathmandu in about 35 minutes, often several times a day."},
+    {"title": "Border bazaar", "text": "The main roads between the bus park and the border are lined with shops selling electronics, cosmetics, clothes, dry fruit and kitchenware. Indian shoppers come for imported goods; Nepali shoppers cross the other way for groceries."},
+    {"title": "Terai sweets and street food", "text": "Sweet shops sell rasbari, jalebi, peda and lalmohan, while street stalls fry samosas, pakoras and chatpate. Evening is the liveliest time for a food walk, with tea stalls busy until late."},
+    {"title": "Base for Ramagrama and Devdaha", "text": "Bhairahawa sits between Lumbini, Ramagrama and Devdaha, so groups covering the Koliya sites or heading on to Chitwan or Tansen often find it a convenient base with more hotel and restaurant choice."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Buddha Air, Yeti Airlines and Shree Airlines connect Kathmandu with Bhairahawa in about 35 minutes, usually several times a day. International flights have operated intermittently since 2022; check current status before you travel. The airport is about 3 km from the town centre."},
+    {"mode": "Road", "text": "From the Indian side, Sonauli is 4 km south. Gorakhpur is ≈ 100 km · 3 h from the border and Varanasi ≈ 320 km · 8–9 h. From Kathmandu, the road via Mugling, Narayanghat and Butwal is ≈ 280 km · 8–9 h; from Pokhara via the Siddhartha Highway ≈ 190 km · 6–7 h. Tourist and night buses run from both."},
+    {"mode": "Rail", "text": "There is no railway in Nepal here. The nearest Indian stations are Nautanwa, about 8 km from Sonauli with few services, and Gorakhpur Junction, about 100 km away, which has trains to Delhi, Mumbai, Kolkata and Varanasi."}
+  ],
+  "where_to_stay": "Bhairahawa has a wider hotel choice than Lumbini, mostly business-style 3-star properties. Hotel Nirvana on Paklihawa Road is the established mid-range option, with a garden, restaurant and quiet rooms, and it is where we place groups and late arrivals. Several newer hotels have opened along the Siddhartha Highway and near the airport since 2022. Budget hotels cluster near the bus park and along the road to the border, though they can be noisy. For a peaceful stay close to the temples, we usually recommend moving on to Lumbini, 30–40 minutes away.",
+  "stays": ["hotel-nirvana-bhairahawa"],
+  "tips": [
+    "Foreign nationals should cross the border in daylight, as immigration counters do not keep 24-hour hours.",
+    "Change only small sums at the border; banks and ATMs in Bhairahawa give fairer rates.",
+    "Indian ₹200 and ₹500 notes issued after November 2016 are now accepted in Nepal up to a limit, but check current status before you travel.",
+    "Nepali SIM cards from Nepal Telecom or Ncell are sold in Bhairahawa; carry your passport or ID and a photo.",
+    "Fix the taxi fare to Lumbini before you start; our packages include private transfers from the border or airport."
+  ],
+  "themes": ["overland-from-india", "budget-nepal", "short-breaks"],
+  "nearby": ["lumbini", "butwal", "ramagrama", "devdaha"],
+  "experiences": [
+    {
+      "slug": "sonauli-belahiya-border-crossing-assist",
+      "title": "Sonauli–Belahiya border crossing with assistance",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "8 am – 4 pm, all year",
+      "price_hint": "Included in our overland packages",
+      "image_query": "Sonauli Belahiya Nepal India border gate",
+      "wiki": "Sonauli",
+      "summary": "Our representative meets you on the Indian side at Sonauli, walks you through Indian exit formalities and Nepal immigration or vehicle customs at Belahiya, and hands you over to your Nepal car for the 26 km drive to Lumbini.",
+      "body": [
+        "For Indian citizens the crossing is simple: no visa and no immigration stamp, only a valid passport or voter ID that may be checked by Nepal's Armed Police Force or Indian Sashastra Seema Bal at the line. Our representative meets you at a fixed point in Sonauli, helps with porters if needed and walks with you through the arched gateway into Belahiya.",
+        "Foreign nationals must get an Indian exit stamp at the Sonauli immigration office and then a Nepal visa and entry stamp at the Belahiya immigration office, a few hundred metres apart. Nepal visas on arrival are issued here for most nationalities: 15, 30 or 90 days, paid in US dollars, with a passport photo and the online or paper form. Allow 30–60 minutes depending on queues.",
+        "If you arrive in an Indian car, the driver must obtain a vehicle pass at the Bhairahawa customs office before the car goes further into Nepal. We help with paperwork and suggest a fixed pick-up time. The whole crossing usually takes one to two hours, after which you continue to Lumbini in our Nepal vehicle or your own."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "groups"],
+      "faqs": [
+        {"q": "What documents do Indians need at the Sonauli border?", "a": "Indian citizens need a valid passport or an Election Commission voter ID card. Under current rules, children under 15 and adults over 65 can usually show another photo ID with proof of age, such as Aadhaar, PAN card or driving licence, and students aged 15–18 may use a school ID. Check current status before you travel."},
+        {"q": "Can foreigners get a Nepal visa at Belahiya?", "a": "Yes. Most nationalities can get a Nepal tourist visa on arrival at Belahiya: 15, 30 or 90 days, priced in US dollars, with a passport valid for six months and a photo. Some nationalities must apply in advance. Visa fees and lists change, so check current status before you travel."},
+        {"q": "How long does the Sonauli border crossing take?", "a": "For Indian citizens on foot, about 15–30 minutes including any ID check. Foreign nationals should allow 1–2 hours for Indian exit and Nepal visa formalities. Vehicles crossing with a customs pass can take one to two hours more, especially on weekends and during the festival season."}
+      ]
+    },
+    {
+      "slug": "bhairahawa-bazaar-evening-food-walk",
+      "title": "Bhairahawa bazaar and sweet-shop evening",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "6–8 pm, Oct–Mar",
+      "price_hint": "≈ ₹500 per person for tastings",
+      "image_query": "jalebi sweet shop Nepal Terai",
+      "wiki": "",
+      "summary": "A two-hour evening stroll through Bhairahawa's market streets with a local guide, tasting rasbari and jalebi at sweet shops, samosa and chatpate at street stalls, and milky tea, while the border town's trade carries on around you.",
+      "body": [
+        "Bhairahawa comes alive after sunset, when the heat breaks and families come out to shop. We start near the main chowk and walk the market streets towards the bus park, stopping at sweet shops that have served the town for decades. Rasbari, soft cheese balls in syrup, and hot jalebi fried in front of you are the classics; peda and lalmohan follow.",
+        "Savoury stops include samosas with tamarind chutney, pakoras and chatpate, Nepal's spicy puffed-rice mix with onion, lemon and chilli. Your guide picks busy stalls with quick turnover and food served hot. Vegetarians can eat well throughout; the walk can be made fully vegetarian on request.",
+        "Along the way you see how the border shapes daily life: Indian shoppers bargaining for electronics, Nepali traders loading goods for the hills, and rickshaws shuttling between shops. The walk is about 2 km on flat streets, with traffic in places, so stay close to the guide."
+      ],
+      "good_for": ["couples", "solo", "families", "groups"],
+      "faqs": [
+        {"q": "Is street food in Bhairahawa safe to eat?", "a": "Freshly fried and hot food from busy stalls is generally fine for most travellers. Avoid raw chutneys and salads if you have a sensitive stomach, and drink only sealed or filtered water. Our guide chooses stalls with high turnover and clean cooking areas."},
+        {"q": "What sweets should we try in Bhairahawa?", "a": "Try rasbari, soft cheese balls in light syrup; jalebi, fried fresh in spirals; peda, a milk fudge; and lalmohan, Nepal's version of gulab jamun. Sweet shops near the main chowk sell them by the piece or by weight, and most pack boxes for travel."},
+        {"q": "Can the food walk be vegetarian or Jain?", "a": "Yes, it can be fully vegetarian, and most Terai snacks are vegetarian already. Jain requirements are harder, since onion and potato appear in many dishes, but sweets and some snacks can work. Tell us in advance and we will plan stops accordingly."}
+      ]
+    },
+    {
+      "slug": "bhairahawa-to-lumbini-morning-cycle",
+      "title": "Morning cycle from Bhairahawa to Lumbini",
+      "kind": "adventure",
+      "duration": "2 hours",
+      "best_time": "6–8 am, Nov–Feb",
+      "price_hint": "≈ ₹2,500 per person with support vehicle",
+      "image_query": "cycling Terai road Nepal fields",
+      "wiki": "",
+      "summary": "A flat 22 km ride at dawn from Bhairahawa to Lumbini through villages and farmland, with a support car carrying luggage, ending at the Sacred Garden gate in time for breakfast and the morning temple visit.",
+      "body": [
+        "The road from Bhairahawa to Lumbini runs west across completely flat farmland, making it one of the easiest rides in Nepal. We start at 6 am, before traffic builds, on hired hybrid bicycles checked by our team. A support vehicle follows with water, luggage and space for anyone who wants to stop riding.",
+        "Once past the town's outskirts, the road passes through villages with tea stalls opening, schoolchildren on bicycles, ponds and mustard or wheat fields depending on the season. We stop halfway for tea. The ride takes about 1.5–2 hours at a relaxed pace, including breaks.",
+        "We finish near the Lumbini area, where you can shower at your hotel or go straight to the Sacred Garden. The road carries buses and trucks later in the day, so we only run this ride early in the morning and in the cooler months from November to February. Helmets are provided where available; bring your own for the best fit."
+      ],
+      "good_for": ["couples", "solo", "groups"],
+      "faqs": [
+        {"q": "Is the road from Bhairahawa to Lumbini safe for cycling?", "a": "It is flat and generally manageable early in the morning, when traffic is light. Later in the day buses, trucks and motorbikes make it less pleasant. We ride from 6 am with a support vehicle behind the group and only run the ride in the cooler months."},
+        {"q": "How fit do I need to be for the Lumbini cycle ride?", "a": "Basic fitness is enough. The 22 km route is completely flat, and at a relaxed pace with a tea stop it takes about two hours. Anyone who cycles occasionally at home can manage it. The support car can pick you up at any point."},
+        {"q": "Can children join the Bhairahawa to Lumbini ride?", "a": "Confident riders aged 14 and over can join with a parent. Because the road carries some traffic, we do not recommend it for younger children; they can enjoy the traffic-free monastic zone ride in Lumbini instead, which is shorter and safer."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Bhairahawa the same as Siddharthanagar?", "a": "Yes. Siddharthanagar is the official name of the municipality, adopted in honour of Siddhartha Gautama, but most people, including signs at bus stations and airline staff, still use Bhairahawa. The airport is officially Gautam Buddha International Airport but is often called Bhairahawa airport."},
+    {"q": "How far is Bhairahawa from Lumbini?", "a": "About 22 km, which takes 30–40 minutes by car. Local buses and shared jeeps run regularly from the Bhairahawa bus park to Lumbini Bazaar, and taxis wait at the airport and border. Our packages include private transfers in both directions."},
+    {"q": "How far is Bhairahawa from the Sonauli border?", "a": "The Belahiya border post is about 4 km south of Bhairahawa town centre, around 10–15 minutes by taxi or rickshaw. Sonauli, on the Indian side, is just across the line. Many visitors on foot take a cycle rickshaw between the border and the bus park."},
+    {"q": "What are the flights from Kathmandu to Bhairahawa?", "a": "Buddha Air, Yeti Airlines and Shree Airlines fly Kathmandu to Bhairahawa in about 35 minutes, usually several times a day. Foreign nationals pay a dollar fare, while Nepali and Indian citizens pay a lower rupee fare. Fog can delay winter mornings, so check current status before you travel."},
+    {"q": "Are there international flights to Bhairahawa?", "a": "Gautam Buddha International Airport opened for international traffic in May 2022, but scheduled international services have been limited and have changed several times. Most travellers still connect via Kathmandu. Check current status before you travel, as new routes are announced from time to time."},
+    {"q": "Should I stay in Bhairahawa or Lumbini?", "a": "Stay in Lumbini if your trip is about the temples; it is quieter and lets you visit the Sacred Garden at dawn. Choose Bhairahawa if you arrive late, cross the border early, want more restaurant choice, or are heading to Ramagrama and Chitwan next."},
+    {"q": "Can I use Indian rupees in Bhairahawa?", "a": "Yes, Indian rupees are widely accepted in shops and hotels, at the fixed rate of about NPR 1.6 per INR. Since late 2025, Nepal allows Indian ₹200 and ₹500 notes issued after November 2016 up to ₹25,000 per person. Check current status before you travel."},
+    {"q": "What is the best time to cross the Sonauli border?", "a": "Cross between 8 am and 4 pm. Immigration for foreigners is open in daytime, and you reach Lumbini in daylight. Avoid Sundays and festival days if possible, when Indian and Nepali shoppers create long queues. Indian citizens can technically cross at any hour."},
+    {"q": "Is Bhairahawa safe for tourists?", "a": "Yes, Bhairahawa is generally safe. As in any border town, watch your bags in crowds, use registered taxis or pre-booked transfers, and change money only at banks or licensed counters. Avoid unofficial agents offering to speed up immigration or vehicle paperwork for a fee."}
+  ]
+}

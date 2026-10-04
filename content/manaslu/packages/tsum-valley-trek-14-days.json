@@ -1,0 +1,97 @@
+{
+  "slug": "tsum-valley-trek-14-days",
+  "title": "Tsum Valley Trek 14 Days",
+  "region": "manaslu",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 13,
+  "themes": ["trekking", "buddhist-circuit", "cultural-tours", "pilgrimage"],
+  "stops": [
+    {"place": "machha-khola", "nights": 2},
+    {"place": "jagat", "nights": 2},
+    {"place": "tsum-valley", "nights": 8},
+    {"place": "kathmandu", "nights": 1}
+  ],
+  "start": "Kathmandu (hotel pick-up, 6:30 am)",
+  "end": "Kathmandu",
+  "price_from_inr": 109000,
+  "price_from_usd": 1250,
+  "best_months": [0, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3700,
+  "accommodation": "Teahouse lodges and monastery guest rooms (12 nights), 3-star hotel in Kathmandu (1 night)",
+  "transport": "Private jeep Kathmandu–Machha Khola return",
+  "group": "Private or small group, 1–10, with a licensed guide",
+  "meta_description": "Tsum Valley trek 14 days: Chumling, Chhokangparo, Mu Gompa (3,700 m), Rachen Gompa, Milarepa's cave, Gumba Lungdang, permits and guide. From US$1,250.",
+  "summary": "A 14-day trek into the Tsum Valley, the sacred Buddhist valley on the Tibet border that opened to visitors in 2008. You walk from Machha Khola to Lokpa, Chumling and Chhokangparo, visit Milarepa's cave, sleep at Mu Gompa at about 3,700 m and return via Rachen Gompa and the Gumba Lungdang nunnery.",
+  "intro": [
+    "The Tsum Valley is the quieter, more spiritual neighbour of the Manaslu Circuit. There is no high pass: the highest point is Mu Gompa at about 3,700 m, so it suits trekkers who want culture and mountain scenery without a 5,000 m crossing. What it offers instead is time with the Tsumba people, their monasteries and nunneries, mani walls that run for hundreds of metres and a local pledge against killing animals that has shaped life here for generations.",
+    "This itinerary spends eight nights inside the valley, with an overnight at Mu Gompa near the border, a stop at Rachen Gompa nunnery and a night at Gumba Lungdang facing the Ganesh Himal glaciers. Lodges are simpler than on the Manaslu Circuit and some nights are in monastery guest rooms. The price assumes two people sharing and peak-season permit fees; solo trekkers are accepted with a licensed guide, subject to a supplement."
+  ],
+  "highlights": [
+    "Mu Gompa, the largest monastery in Tsum, at about 3,700 m",
+    "Milarepa's cave at Piren Phu and Rachen Gompa nunnery",
+    "Gumba Lungdang nunnery with Ganesh Himal glacier views",
+    "Chhokangparo village and views of Himal Chuli and Ganesh Himal",
+    "No high pass: maximum altitude about 3,700 m",
+    "Valley-wide pledge of non-violence and Tibetan Buddhist culture"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive Kathmandu to Machha Khola", "place": "machha-khola", "overnight": "Machha Khola", "altitude_m": 930, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 8–9 h", "flight": "", "text": "We pick you up from your Kathmandu hotel at 6:30 am with permits ready. The jeep takes the paved road to Dhading Besi, then a rough road to Arughat and along the Budhi Gandaki through Soti Khola to Machha Khola at 930 m. It is a long day with tea and lunch stops. Machha Khola is a warm riverside village where the walking begins tomorrow.", "meals": "L, D"},
+    {"day": 2, "title": "Gorge trail to Jagat", "place": "jagat", "overnight": "Jagat", "altitude_m": 1340, "max_m": 1340, "walk": "≈ 6–7 h · 22 km", "drive": "", "flight": "", "text": "Follow the Budhi Gandaki north through Khorlabesi and Tatopani, where hot water flows from spouts by the trail, then cross to Dobhan and continue through the gorge to Jagat at 1,340 m. Waterfalls, suspension bridges and mule trains keep the day interesting. Jagat's flagstone lanes make a pleasant evening stroll, and the conservation area office checks permits here.", "meals": "B, L, D"},
+    {"day": 3, "title": "Turn into Tsum, climb to Lokpa", "place": "tsum-valley", "overnight": "Lokpa", "altitude_m": 2240, "max_m": 2240, "walk": "≈ 6–7 h · 15 km", "drive": "", "flight": "", "text": "Walk via Sirdibas to Philim at 1,570 m, then on to Ekle Bhatti, where you leave the Manaslu trail and turn east into the Siyar Khola gorge. A steep climb through pine forest, with views back over the Budhi Gandaki, brings you to Lokpa at about 2,240 m, the first village of the Tsum Valley. Lodges here are small and family run, and the change of atmosphere is immediate.", "meals": "B, L, D"},
+    {"day": 4, "title": "Lokpa to Chumling", "place": "tsum-valley", "overnight": "Chumling", "altitude_m": 2386, "max_m": 2386, "walk": "≈ 4–5 h · 9 km", "drive": "", "flight": "", "text": "The trail drops to the Lungwa Khola and climbs again through dense pine and rhododendron forest, with langur monkeys sometimes in the trees. Cross a suspension bridge and reach Chumling at about 2,386 m, a village of stone houses, apple trees and an old gompa. In the afternoon visit the gompa and walk through the village, where Shringi Himal is visible to the north-east on clear days.", "meals": "B, L, D"},
+    {"day": 5, "title": "Climb to Chhokangparo", "place": "tsum-valley", "overnight": "Chhokangparo", "altitude_m": 3031, "max_m": 3031, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Cross to the other side of the valley and climb steadily past Rainjam and the Serpu Khola into the upper Tsum. The valley widens into terraces of barley and buckwheat, with long mani walls and chortens along the trail. Chhokangparo, the main village of the upper valley, sits at about 3,031 m with views south to Ganesh Himal and Himal Chuli. Walk gently in the afternoon and drink well as you adjust to the height.", "meals": "B, L, D"},
+    {"day": 6, "title": "Milarepa's cave and Nile", "place": "tsum-valley", "overnight": "Nile", "altitude_m": 3361, "max_m": 3361, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Walk up the valley past Lamagaon to Piren Phu, the cave where the yogi Milarepa is said to have meditated, with a small gompa and pilgrims' offerings at its entrance. Continue past Burji and Phurbe, then cross the river to Chhule and Nile at about 3,361 m, villages facing each other across the Siyar Khola. These are the last villages before the border, with stone houses, yak herds and wide views.", "meals": "B, L, D"},
+    {"day": 7, "title": "Up to Mu Gompa near the border", "place": "tsum-valley", "overnight": "Mu Gompa", "altitude_m": 3700, "max_m": 3700, "walk": "≈ 2–3 h · 5 km", "drive": "", "flight": "", "text": "A short climb north through bare, wind-scoured hillsides to Mu Gompa at about 3,700 m, the largest monastery in the valley. Spend the afternoon exploring its halls, statues and old texts and watching evening prayers with drums and long horns. If you feel well, walk higher towards Dhephu Doma Gompa for views up to the border passes. Sleep in the monastery guest rooms, a simple but memorable night.", "meals": "B, L, D"},
+    {"day": 8, "title": "Rachen Gompa to Chhokangparo", "place": "tsum-valley", "overnight": "Chhokangparo", "altitude_m": 3031, "max_m": 3700, "walk": "≈ 5–6 h · 14 km", "drive": "", "flight": "", "text": "Watch morning prayers at Mu Gompa, then descend the valley. You stop at Rachen Gompa, the large nunnery near Ngakyu at about 3,240 m, to see its painted prayer hall and meet the nuns if they are free. Continue down through the villages of the upper valley to Chhokangparo for the night. The descent makes this a comfortable day after the high night at Mu Gompa.", "meals": "B, L, D"},
+    {"day": 9, "title": "Dumje and Gumba Lungdang", "place": "tsum-valley", "overnight": "Gumba Lungdang", "altitude_m": 3200, "max_m": 3200, "walk": "≈ 5–6 h · 11 km", "drive": "", "flight": "", "text": "Descend to Dumje on the river, then climb steeply through forest to Gumba Lungdang, a nunnery perched on a ridge at about 3,200 m. It faces the glaciers of Ganesh Himal across the valley. The nuns hold an evening puja that visitors may attend quietly. Accommodation is in the nunnery's simple guest rooms, with meals taken in the kitchen.", "meals": "B, L, D"},
+    {"day": 10, "title": "Gumba Lungdang to Lokpa", "place": "tsum-valley", "overnight": "Lokpa", "altitude_m": 2240, "max_m": 3200, "walk": "≈ 6–7 h · 15 km", "drive": "", "flight": "", "text": "After sunrise on Ganesh Himal, descend through forest to the village of Ripchet, set on a terrace with barley fields and views over the lower Tsum. Continue down to the river and along the valley back to Lokpa at about 2,240 m. This is a long descent, hard on the knees, so use poles. Your last night in the Tsum Valley.", "meals": "B, L, D"},
+    {"day": 11, "title": "Lokpa to Jagat", "place": "jagat", "overnight": "Jagat", "altitude_m": 1340, "max_m": 2240, "walk": "≈ 6 h · 16 km", "drive": "", "flight": "", "text": "Descend through the Siyar Khola gorge to Ekle Bhatti and rejoin the Budhi Gandaki trail. Walk south via Philim and Sirdibas to Jagat at 1,340 m. The air warms quickly as you lose height, and the millet terraces of Philim are a sharp contrast to the high, dry fields of the upper Tsum.", "meals": "B, L, D"},
+    {"day": 12, "title": "Jagat back to Machha Khola", "place": "machha-khola", "overnight": "Machha Khola", "altitude_m": 930, "max_m": 1340, "walk": "≈ 6 h · 22 km", "drive": "", "flight": "", "text": "Retrace the gorge trail via Dobhan and Tatopani to Machha Khola. A soak of tired feet at the hot spring is well earned. If the dry-season jeep track from Jagat is open, we may drive part of this section and use the time for a longer rest. Enjoy a warm final evening by the river with your guide and porters.", "meals": "B, L, D"},
+    {"day": 13, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 8–9 h", "flight": "", "text": "The jeep returns along the Budhi Gandaki to Arughat and Dhading Besi, then on the paved road to Kathmandu, arriving in the late afternoon. Check into your hotel and enjoy a farewell dinner in Thamel. If you have time tomorrow, Boudhanath stupa is a fitting end to a Buddhist valley trek.", "meals": "B, L, D"},
+    {"day": 14, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "Free time until your airport transfer, about three hours before an international flight. Your guide returns permit copies as a souvenir. If you have more days, a Pokhara break or a Chitwan safari pairs well with the quiet of the Tsum Valley. We can also arrange a short Kathmandu heritage tour of Patan or Bhaktapur.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Tsum Valley restricted area permit, Manaslu Conservation Area Permit and municipality fee",
+    "Licensed English-speaking trekking guide",
+    "One porter for every two trekkers (up to 20 kg)",
+    "Private jeep Kathmandu–Machha Khola and return",
+    "12 nights in teahouses and monastery guest rooms",
+    "1 night in a 3-star Kathmandu hotel with breakfast",
+    "Three meals a day on the trek with tea or coffee",
+    "Guide and porter wages, insurance and meals",
+    "Donations at Mu Gompa, Rachen Gompa and Gumba Lungdang for guest rooms"
+  ],
+  "excludes": [
+    "Kathmandu hotel before the trek and airport arrival transfer",
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter rescue",
+    "Hot showers, charging, Wi-Fi and drinks",
+    "Personal donations and offerings",
+    "Personal gear and sleeping bag rental",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing, September to November permit fees and simple lodges; solo trekkers pay about US$220 more.",
+    "The Tsum Valley restricted area permit costs, as we understand it, about US$40 per person for the first week from September to November (US$30 from December to August) plus US$7 per extra day; check current status before you travel.",
+    "A licensed guide is compulsory; a 2026 Department of Immigration notice says solo trekkers can now get restricted area permits individually.",
+    "Food in the valley is vegetarian because of the local pledge against killing animals; please do not bring meat.",
+    "Lodges and monastery rooms are basic and few; in October we confirm beds in advance and may carry tents for larger groups."
+  ],
+  "add_ons": [
+    {"name": "Combine with the Manaslu Circuit (see our 20-day trek)", "price": "≈ US$ 540 more per person"},
+    {"name": "Extra night at Mu Gompa for border-valley hikes", "price": "≈ US$ 55 per person"}
+  ],
+  "faqs": [
+    {"q": "How much does the Tsum Valley trek cost?", "a": "Our 14-day Tsum Valley trek starts from US$1,250 or about ₹1,09,000 per person, twin sharing. It includes the Tsum restricted area permit, conservation permit, a licensed guide, porters, all trek meals and lodging, private jeeps and one hotel night in Kathmandu. Allow US$150 to 200 for extras and tips."},
+    {"q": "Is the Tsum Valley trek difficult?", "a": "It is moderate. Days are 4 to 7 hours with some steep climbs in the lower valley, and the highest point is Mu Gompa at about 3,700 m. There is no high pass. Reasonable fitness and the ability to walk 6 hours on consecutive days are enough."},
+    {"q": "What permits do I need for the Tsum Valley?", "a": "You need the Tsum Valley restricted area permit, the Manaslu Conservation Area Permit and the local municipality fee. If you combine Tsum with the Manaslu Circuit you also need the Manaslu restricted area permit and the Annapurna Conservation Area Permit. Check current status before you travel."},
+    {"q": "Can I trek the Tsum Valley without a guide?", "a": "No. Tsum is a restricted area and trekkers must be accompanied by a licensed guide arranged through a registered agency. The two-person minimum was reportedly lifted in 2026, so solo trekkers can now get a permit, but the guide requirement remains."},
+    {"q": "What is the best season for the Tsum Valley trek?", "a": "March to May and September to November. October and November have the clearest views, and spring brings flowers in the lower forest. December and January are cold but possible in the middle valley, and the Dhachyang horse festival falls then in some years."},
+    {"q": "Where do we sleep in the Tsum Valley?", "a": "In small family-run teahouses in Lokpa, Chumling, Chhokangparo and Nile, and in guest rooms at Mu Gompa and Gumba Lungdang nunnery. Rooms are simple twins with shared toilets and meals are taken by the kitchen stove. It is basic but warm and personal."},
+    {"q": "Is the Tsum Valley good for Buddhist pilgrims?", "a": "Very. The valley is considered a beyul, a sacred hidden land, and holds Mu Gompa, Rachen Gompa, Gumba Lungdang and Milarepa's cave at Piren Phu. Pilgrims can attend prayers, make offerings and spend extra nights in monasteries. We can adjust the pace for older pilgrims."},
+    {"q": "Can older trekkers do the Tsum Valley trek?", "a": "Yes, if they are in good health and walk regularly. The altitude stays below 3,700 m and there is no pass, which makes it easier than the Manaslu Circuit. We can add rest days and an extra porter. A helicopter out from the upper valley can be arranged in emergencies."},
+    {"q": "Is there mobile signal in the Tsum Valley?", "a": "Coverage is limited. Some villages have weak signal and a few lodges offer slow Wi-Fi, but expect to be offline for several days. Your guide carries a local phone and can use lodge phones in an emergency. Tell family before leaving Jagat."}
+  ]
+}

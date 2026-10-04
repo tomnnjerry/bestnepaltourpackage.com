@@ -1,0 +1,132 @@
+{
+  "slug": "simikot",
+  "name": "Simikot",
+  "region": "far-west",
+  "kind": "trekking village",
+  "wiki": "Simikot",
+  "image_query": "Simikot Humla airstrip village",
+  "lat": 29.972,
+  "lng": 81.821,
+  "altitude_m": 2910,
+  "tagline": "Humla's hilltop airstrip town and the Kailash gateway via Hilsa",
+  "meta_description": "Simikot guide: Nepalgunj–Simikot flights, the Kailash route via Hilsa, Limi Valley treks, Humla permits, weather, lodges and acclimatisation tips.",
+  "summary": "Simikot is the headquarters of Humla district, a hilltop town at 2,910 m with no road link to the rest of Nepal. It is reached by a 40–50 minute flight from Nepalgunj and is the start of the Kailash route via Hilsa and of treks into the Limi Valley. Plan one or two nights to acclimatise.",
+  "intro": [
+    "Simikot sits on a shelf high above the Humla Karnali river in the far north-west corner of Nepal. Its stone houses, government offices and short airstrip are spread along a ridge, with terraced fields of buckwheat, barley and potatoes dropping to the river and forested ridges climbing behind. The population mixes Hindu Thakuri and Chhetri families with Buddhist Lama communities from the villages upstream, and the town feels like a frontier post supplied almost entirely by air.",
+    "For most visitors Simikot is a gateway. Kailash Mansarovar groups fly in from Nepalgunj, spend a night acclimatising, then take a helicopter or trek to Hilsa on the Tibet border. Trekkers use it as the start of the Limi Valley loop and the old salt-trade trail up the Karnali through Kermi, Yalbang and Yari. A rough road now links Hilsa with Tibet, and the Karnali Corridor road is being pushed up from Bajura, but there is still no dependable road from Simikot to the south.",
+    "At 2,910 m the altitude is enough to give headaches on the first evening, especially after flying straight up from the heat of Nepalgunj at 150 m. Walk slowly, drink plenty of water and use the first afternoon for a short climb above town. Simikot is also where restricted area permits for Upper Humla are checked, and where camping crews for the Limi trek gather supplies and pack animals."
+  ],
+  "facts": [
+    ["Altitude", "2,910 m"],
+    ["Best months", "Apr – Jun · Sep – Oct"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Simikot Airport, in town"],
+    ["From Kathmandu", "≈ 1 h flight to Nepalgunj + 40–50 min flight to Simikot"],
+    ["Known for", "Kailash route via Hilsa, Limi Valley treks, Humla culture"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Gateway to Kailash", "text": "Simikot is the Nepal end of the shortest route to Mount Kailash. From here helicopters fly up the Karnali gorge to Hilsa in about 25–30 minutes, where pilgrims cross to Purang in Tibet and drive to Lake Manasarovar. Rules for Indian passport holders change often; check current status before you travel."},
+    {"title": "The Karnali salt trail", "text": "For centuries Humli traders carried rice north and salt and wool south along the Karnali. The trail through Dharapori, Kermi, Yalbang and Yari to Hilsa still sees mule trains and is now the walking route to Tibet, taking 5–6 days."},
+    {"title": "Start of the Limi Valley loop", "text": "The Limi Valley, a Tibetan Buddhist enclave close to the border, is reached by a 15–17 day camping trek from Simikot. The loop crosses Nara La and Nyalu La and visits Til, Halji and Jang. Simikot is where crews, mules and permits come together."},
+    {"title": "Life in a town without roads", "text": "Almost everything in Simikot arrives by plane, mule or porter, from rice and kerosene to building steel. Watching the airstrip on a busy morning, with planes landing every half hour in good weather, explains how Humla survives and why prices are higher than in the south."},
+    {"title": "Kermi hot springs", "text": "Two days' walk up the Karnali, Kermi village has natural hot springs in a pine-shaded gully. They are a popular first stop for trekkers heading to Limi or Hilsa, and a good short trek for those with spare days in Simikot."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Twin Otter and Dornier flights run from Nepalgunj most mornings in season, taking about 40–50 minutes. Baggage is usually limited to 15 kg. Cloud and wind cause frequent delays and cancellations, so we always keep at least one spare day. Some groups also charter helicopters from Nepalgunj or Surkhet."},
+    {"mode": "Helicopter", "text": "Helicopters link Simikot with Hilsa on the Tibet border (≈ 25–30 min) for Kailash groups, and charters from Nepalgunj take about 1 h 15 min. Payload falls at Simikot's altitude, so groups are moved in several shuttles. Flights operate in the morning."},
+    {"mode": "On foot", "text": "From Hilsa: 5–6 days down the Karnali via Yari, Tumkot, Yalbang and Kermi. From the south there are long trekking routes from Jumla or Rara over passes, taking 8–10 days, rarely used by visitors."},
+    {"mode": "Road", "text": "There is no reliable road between Simikot and the rest of Nepal. The Karnali Corridor road from Bajura towards Hilsa is under construction and not a practical tourist route; check current status before you travel."}
+  ],
+  "where_to_stay": "Simikot has a handful of simple lodges and guesthouses within a few minutes' walk of the airstrip. Rooms are twin or triple with shared or basic attached toilets, hot water by bucket or solar heater, and dal bhat, noodles and tea in a shared dining room. Kailash operators often take over whole lodges during the May–September yatra season, so we book rooms early or use our own camping set-up with dining tent and heated water. Nights are cold from October to April. There are no branded hotels, and we do not list properties we cannot confirm for your dates.",
+  "stays": [],
+  "tips": [
+    "Spend the first afternoon resting and walk slowly; 2,910 m is high after Nepalgunj's 150 m.",
+    "Pack within 15 kg for the Nepalgunj–Simikot flight and leave extra bags in Nepalgunj.",
+    "Carry all the Nepali cash you need; there is little or no ATM service you can rely on.",
+    "Keep two spare days in any Simikot itinerary for flight cancellations.",
+    "Carry a copy of your passport and restricted area permit when walking beyond town."
+  ],
+  "themes": ["kailash-yatra", "trekking", "pilgrimage", "heli-tours"],
+  "nearby": ["limi-valley", "nepalgunj", "rara-lake"],
+  "experiences": [
+    {
+      "slug": "simikot-heli-to-hilsa-kailash",
+      "title": "Helicopter from Simikot to Hilsa",
+      "kind": "aerial",
+      "duration": "25–30 minutes per shuttle",
+      "best_time": "Early morning, May–Sep",
+      "price_hint": "Included in Kailash via Simikot packages",
+      "image_query": "Hilsa Nepal Tibet border helicopter",
+      "wiki": "Hilsa, Nepal",
+      "summary": "The short helicopter hop up the Karnali gorge from Simikot to Hilsa, the Nepal border post opposite Tibet. It replaces a 5–6 day walk and is how most Kailash yatris travel this route. Morning flights in several shuttles.",
+      "body": [
+        "The flight follows the Humla Karnali north through a deep gorge, past the villages of Kermi and Yalbang, with the Nara La pass to the right and the bare brown hills of the Tibetan plateau ahead. Hilsa, at roughly 3,700 m, is a cluster of buildings at the bridge where the Karnali enters Nepal from Tibet.",
+        "Helicopters carry fewer passengers at this altitude, typically four to five with limited baggage, so a group of twenty is moved in several shuttles through the morning. Flights stop when wind rises around midday, which is why groups are woken early and why weather can split a group over two days.",
+        "From Hilsa you cross the bridge to the Chinese border post and continue to Purang (Taklakot) by vehicle. Rules for Kailash, especially for Indian passport holders, are set by Chinese and Indian authorities and change from year to year; check current status before you travel. Anyone with serious heart or lung conditions, or who is pregnant, should take medical advice before flying to this altitude."
+      ],
+      "good_for": ["pilgrims", "seniors", "groups"],
+      "faqs": [
+        {"q": "How long is the helicopter from Simikot to Hilsa?", "a": "About 25–30 minutes each way. Because helicopters carry only four or five people with baggage at this altitude, groups are flown in several shuttles over the morning. Flights stop once the wind picks up around midday, so a delayed start can push part of a group to the next day."},
+        {"q": "Is the Simikot–Hilsa helicopter safe?", "a": "It is a routine route flown by experienced mountain pilots throughout the Kailash season. Operators fly only in suitable weather and will hold flights for wind or cloud. The bigger health risk is altitude: Hilsa is around 3,700 m, so rest, drink water and tell your leader about headaches, dizziness or breathlessness."},
+        {"q": "Can I walk from Simikot to Hilsa instead?", "a": "Yes. The trek along the Karnali takes 5–6 days via Dharapori, Kermi, Yalbang, Tumkot and Yari, crossing Nara La at about 4,620 m before descending to Hilsa. It is a fine acclimatisation route and very quiet, but needs a restricted area permit, a licensed guide and camping or homestay support."}
+      ]
+    },
+    {
+      "slug": "simikot-ridge-acclimatisation-walk",
+      "title": "Ridge walk above Simikot",
+      "kind": "hiking",
+      "duration": "2–3 hours",
+      "best_time": "Afternoon of arrival day, Apr–Oct",
+      "price_hint": "Included in Simikot stays",
+      "image_query": "Simikot Humla Karnali valley view",
+      "wiki": "",
+      "summary": "A gentle climb of 200–300 m from the airstrip to the forested ridge above Simikot, with views down the Humla Karnali valley. It is the standard acclimatisation walk on the day you fly in.",
+      "body": [
+        "Climbing a little higher than you sleep is the oldest rule of acclimatisation, and the ridge above Simikot is made for it. From the airstrip, a path climbs past houses and fields to pine forest and prayer flags, gaining 200–300 m in about an hour at a slow pace.",
+        "From the top you look down on the town, the airstrip and the deep cut of the Humla Karnali, with terraced villages on the far slopes and snow ridges on the horizon on clear days. It is a good place to watch the afternoon flights land and to get a sense of how isolated Humla is.",
+        "Walk slowly, drink water before you start, and turn back if you develop a headache. Return to the lodge before dark; temperatures drop quickly after sunset, even in summer. Kailash groups usually do this walk together on arrival afternoon."
+      ],
+      "good_for": ["pilgrims", "first-timers", "groups", "seniors"],
+      "faqs": [
+        {"q": "Why do I need to acclimatise in Simikot?", "a": "Because you fly from Nepalgunj at 150 m to Simikot at 2,910 m in under an hour, a jump that can cause headache, poor sleep and breathlessness. A rest afternoon and a gentle walk above town help your body adjust before going higher to Hilsa or Limi. Drink water and avoid alcohol on the first night."},
+        {"q": "Is the Simikot ridge walk difficult?", "a": "No. It is a slow climb of 200–300 m over about an hour on village paths and forest trail. Most pilgrims, including older travellers who walk regularly, manage it. The aim is not exercise but acclimatisation, so go at a pace where you can talk comfortably and stop if you feel unwell."},
+        {"q": "What should I carry for walks in Simikot?", "a": "A warm layer and windproof jacket, sun hat, sunscreen, a litre of water and a small snack. Weather changes quickly at this height, and afternoon winds are common. Walking shoes with grip are better than sandals on the dusty, stony paths above town. Carry a copy of your permit."}
+      ]
+    },
+    {
+      "slug": "simikot-kermi-hot-springs-trek",
+      "title": "Two-day trek to Kermi hot springs",
+      "kind": "wellness",
+      "duration": "2–3 days",
+      "best_time": "May–Oct",
+      "price_hint": "≈ US$ 150–220 per person with guide and porter",
+      "image_query": "Kermi hot spring Humla",
+      "wiki": "",
+      "summary": "A short trek from Simikot down to the Karnali and up to Kermi, a Buddhist village at about 2,670 m with natural hot springs. Good for trekkers with spare days or those starting the Limi loop.",
+      "body": [
+        "Day one drops from Simikot on a steep trail to the Karnali and follows the river to Dharapori at about 2,300 m, a 4–5 hour walk through pine forest and terraced fields. Day two continues up-valley for 4–5 hours to Kermi, where houses carry prayer flags and the hot springs lie in a gully a short walk from the village.",
+        "The springs are simple pools fed by warm water, used by villagers and trekkers. Soak after the walk, then look around the small monasteries near Kermi. The route follows the old salt trail to Tibet, so expect mule trains and porters carrying goods in both directions.",
+        "Return the same way, or continue up the Karnali towards Yalbang and Hilsa or into Limi. A restricted area permit for Humla and a licensed guide are required beyond Simikot. Accommodation is in simple lodges, homestays or tents."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Do I need a permit to visit Kermi from Simikot?", "a": "Yes. Kermi lies in the restricted area of Humla, so you need a restricted area permit, issued through a registered trekking agency, and you must trek with a licensed guide in a group of at least two. The fee has been US$50 for the first seven days and US$10 per extra day; check current status before you travel."},
+        {"q": "How hot are the Kermi hot springs?", "a": "Pleasantly warm rather than scalding, enough for a long soak after a day's walk. The pools are simple and natural, without changing rooms, so bring a towel and suitable swimwear. Villagers use them too, so behave modestly. Water flow can change after the monsoon or earthquakes."},
+        {"q": "Can Kailash pilgrims visit Kermi?", "a": "Only if they have spare days and trek to Hilsa rather than fly. Pilgrims on a helicopter itinerary fly over Kermi on the way to Hilsa. Those walking the Karnali trail to Tibet usually spend a night in Kermi on day two, which makes a soak in the springs part of the route."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get to Simikot?", "a": "Fly Kathmandu–Nepalgunj, stay overnight, then take a morning Twin Otter or Dornier to Simikot, about 40–50 minutes. There is no reliable road from the south. Flights are often delayed by cloud or wind, so keep one or two spare days, especially if you are connecting to a Kailash group or a Limi trek."},
+    {"q": "Do I need a permit for Simikot?", "a": "Simikot town can be visited on arrival, but walking north to Kermi, Yari, Hilsa or Limi requires a Humla restricted area permit through a registered agency, with a licensed guide and at least two trekkers. The fee has been US$50 for seven days and US$10 per extra day. Check current status before you travel."},
+    {"q": "What is the Kailash route via Simikot?", "a": "Fly Nepalgunj–Simikot, acclimatise, take a helicopter to Hilsa, cross into Tibet, drive to Purang and on to Lake Manasarovar, then do the Kailash kora. The trip usually takes 9–12 days from Nepalgunj. Rules and quotas for Indian passport holders change; check current status before you travel."},
+    {"q": "How cold is Simikot?", "a": "Summer days from May to September are mild, around 15–22 °C, with cool nights near 8–12 °C. In October and April nights drop close to freezing. Winter, December to February, brings snow and sub-zero nights, and few visitors come. Monsoon rain is lighter than in central Nepal because Humla lies partly in a rain shadow."},
+    {"q": "Is Simikot good for acclimatisation before Kailash?", "a": "Yes. At 2,910 m it is an ideal first step between Nepalgunj at 150 m and Hilsa at about 3,700 m. One night with a gentle ridge walk is the minimum; two nights is better for older pilgrims. Lake Manasarovar is at about 4,590 m and the Kailash kora reaches Dolma La at about 5,630 m."},
+    {"q": "Are there hotels in Simikot?", "a": "There are simple lodges and guesthouses near the airstrip, with basic rooms, shared or simple attached toilets and local food. There are no star-rated hotels. During the Kailash season lodges fill with groups, so book early. Our Limi and some Kailash groups use our own camping kit with heated dining tents."},
+    {"q": "How much luggage can I take to Simikot?", "a": "Usually 15 kg per person including hand luggage on the Nepalgunj–Simikot flight, with excess charged per kg and not always accepted when planes are full of cargo. Helicopter shuttles to Hilsa may limit bags further. Leave extra luggage at your Nepalgunj hotel, which is standard practice for Kailash groups."},
+    {"q": "What can I do in Simikot with a spare day?", "a": "Walk the ridge above town, visit the Buddhist villages close by, watch the morning flights, or trek down to Dharapori and on to Kermi hot springs if you have two or three days and the right permit. Many Kailash groups use a spare day simply to rest and acclimatise before Hilsa."},
+    {"q": "Is there mobile network in Simikot?", "a": "Yes, Nepal Telecom and Ncell provide coverage in Simikot town, with mobile data that is usable but slow at busy times. Signal fades quickly once you trek up the Karnali. Hilsa has patchy Nepali signal. Expect to be out of contact for days on the Limi trek; a satellite messenger is a sensible extra."}
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "langtang-gosaikunda-helambu-trek-14-days",
+  "title": "Langtang Gosaikunda Helambu Trek 14 Days",
+  "region": "langtang",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 13,
+  "themes": ["trekking", "photography", "pilgrimage", "cultural-tours"],
+  "stops": [
+    {"place": "syabrubesi", "nights": 1},
+    {"place": "langtang-village", "nights": 1},
+    {"place": "kyanjin-gompa", "nights": 3},
+    {"place": "chandanbari", "nights": 1},
+    {"place": "gosaikunda", "nights": 1},
+    {"place": "helambu", "nights": 2}
+  ],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_inr": 92000,
+  "price_from_usd": 1090,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 4773,
+  "accommodation": "Teahouse lodges, twin sharing",
+  "transport": "Private jeep Kathmandu–Syabrubesi and Tarkeghyang–Kathmandu",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Langtang Gosaikunda Helambu trek 14 days: Kyanjin Ri (4,773 m), Gosaikunda lake, Lauribina La (4,610 m) and Hyolmo villages. Itinerary, cost from US$ 1,090.",
+  "summary": "The full traverse of the region in 14 days: up the Langtang Valley to Kyanjin Gompa and Kyanjin Ri (4,773 m), across through Thulo Syabru and Sing Gompa to sacred Gosaikunda, over Lauribina La (4,610 m) and down through Tharepati into the Hyolmo villages of Helambu. It combines glaciers, a pilgrimage lake, a high pass and village culture.",
+  "intro": [
+    "This is the most complete trek in the Langtang region, linking three distinct areas without retracing more than a day. The first week explores the Langtang Valley, from the Tamang villages and forests of the Langtang Khola to the glacial basin at Kyanjin Gompa below Langtang Lirung, with two days there to climb Kyanjin Ri and walk towards Langshisa Kharka. Well acclimatised, you then cross to the Gosaikunda lakes, sacred to Shiva.",
+    "From Gosaikunda the route crosses Lauribina La at 4,610 m, the highest point of the trek, and descends through the remote valley of Phedi and Ghopte to the ridge at Tharepati. The final days drop into Helambu, homeland of the Hyolmo people, with their monasteries and apple orchards at Melamchi Gaun and Tarkeghyang, before a jeep returns you to Kathmandu. The trek needs good fitness and experience of multi-day walking."
+  ],
+  "highlights": [
+    "Kyanjin Ri (4,773 m) and a day towards Langshisa Kharka",
+    "Sacred Gosaikunda and its chain of alpine lakes",
+    "Crossing Lauribina La (4,610 m), the trek's high pass",
+    "Remote high trail via Phedi and Ghopte to Tharepati",
+    "Hyolmo monastery villages of Melamchi Gaun and Tarkeghyang",
+    "Three regions in one route with only a short retrace"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive Kathmandu to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 1960, "walk": "", "drive": "≈ 122 km · 7–8 h", "flight": "", "text": "Pick-up at about 7 am and drive by private jeep via Kakani, Trishuli Bazaar and Betrawati, climbing to Dhunche (1,960 m) for the park checkpoint and then descending to Syabrubesi on the Bhote Koshi. In the evening your guide briefs you on the full route, which crosses a 4,610 m pass, and checks gear including warm layers, microspikes in spring or late autumn, and sleeping bags.", "meals": "Dinner"},
+    {"day": 2, "title": "Syabrubesi to Lama Hotel", "place": "", "overnight": "Lama Hotel", "altitude_m": 2470, "max_m": 2470, "walk": "≈ 6 h · 11 km", "drive": "", "flight": "", "text": "Follow the Langtang Khola upstream from Syabrubesi through Domen, Pairo and Bamboo (1,970 m), then climb more steeply through oak and rhododendron forest to Rimche and Lama Hotel. You gain about 1,000 m. Langurs swing through the trees, and this is red panda habitat. The lodges at Lama Hotel sit in a forest clearing beside the river, cool and damp in the evening.", "meals": "B, L, D"},
+    {"day": 3, "title": "Lama Hotel to Langtang village", "place": "langtang-village", "overnight": "Langtang village", "altitude_m": 3430, "max_m": 3430, "walk": "≈ 6–7 h · 14 km", "drive": "", "flight": "", "text": "Climb through forest to Riverside and Ghoda Tabela (3,030 m), where permits are checked and the valley begins to open out. Langtang Lirung rises ahead as you walk through yak pastures and past water-driven prayer wheels to Thangshyap. Cross the edge of the 2015 avalanche debris to the memorial and the rebuilt village of Langtang. Gain about 960 m.", "meals": "B, L, D"},
+    {"day": 4, "title": "Langtang village to Kyanjin Gompa", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 3870, "walk": "≈ 3–4 h · 7 km", "drive": "", "flight": "", "text": "Walk past the long mani wall at Mundu and across the widening valley to Kyanjin Gompa at 3,870 m, arriving by lunch. In the afternoon, visit the monastery above the lodges and the cheese factory founded in 1955. Gain about 440 m. Rest, drink plenty and enjoy the view of Langtang Lirung's icefalls from the lodge terrace.", "meals": "B, L, D"},
+    {"day": 5, "title": "Kyanjin Ri summit hike", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 4773, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "Start before dawn and climb the steep ridge of Kyanjin Ri to its lower prayer-flag top at about 4,600 m and the true summit at 4,773 m, the highest point of the trek. The view covers Langtang Lirung, Gangchenpo, Naya Kanga and the glaciers of the upper valley. Return to Kyanjin for lunch. This high hike prepares your body for Lauribina La later in the trek.", "meals": "B, L, D"},
+    {"day": 6, "title": "Langshisa Kharka day walk", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 4100, "walk": "≈ 7–8 h return", "drive": "", "flight": "", "text": "Walk east along the upper valley floor past yak herders' huts and glacial streams to Langshisa Kharka at about 4,100 m, with close views of the Langshisa Ri peaks and the moraines of the Langtang Glacier. Height gain is small but the distance is long, about 16 km return, so carry a packed lunch. Those who prefer can rest at Kyanjin instead, or strong walkers can climb Tserko Ri (4,984 m) as an alternative.", "meals": "B, L, D"},
+    {"day": 7, "title": "Kyanjin Gompa to Lama Hotel", "place": "", "overnight": "Lama Hotel", "altitude_m": 2470, "max_m": 3870, "walk": "≈ 6–7 h · 21 km", "drive": "", "flight": "", "text": "Descend the valley past Langtang village, Ghoda Tabela and Riverside to Lama Hotel, losing about 1,400 m. The trail is familiar and mostly downhill, but long, so use poles and pace yourself. Lower altitude means deeper sleep tonight.", "meals": "B, L, D"},
+    {"day": 8, "title": "Lama Hotel to Thulo Syabru", "place": "", "overnight": "Thulo Syabru", "altitude_m": 2210, "max_m": 2470, "walk": "≈ 5–6 h", "drive": "", "flight": "", "text": "Descend to Bamboo, then take the upper trail west via Pahiro through forest and terraces to Thulo Syabru, a Tamang village spread along a ridge at about 2,210 m. Its gompa, stone houses and views to the Ganesh Himal make it a pleasant overnight. Try local millet bread or potatoes with chilli pickle at your lodge.", "meals": "B, L, D"},
+    {"day": 9, "title": "Thulo Syabru to Chandanbari", "place": "chandanbari", "overnight": "Chandanbari (Sing Gompa)", "altitude_m": 3330, "max_m": 3330, "walk": "≈ 4–5 h", "drive": "", "flight": "", "text": "Climb through Dursagang and along Foprang Danda into fir and rhododendron forest, gaining about 1,120 m to the clearing of Chandanbari. Visit Sing Gompa monastery and the small cheese dairy in the afternoon. The surrounding forest is one of the best places in the park for red pandas; walk quietly at dusk or dawn.", "meals": "B, L, D"},
+    {"day": 10, "title": "Chandanbari to Gosaikunda", "place": "gosaikunda", "overnight": "Gosaikunda", "altitude_m": 4380, "max_m": 4380, "walk": "≈ 5–6 h", "drive": "", "flight": "", "text": "Climb via Cholang Pati (3,584 m) to the ridge at Lauribina (3,910 m), with views of Manaslu, Ganesh Himal and the Annapurnas on clear mornings, then traverse past Saraswati Kunda and Bhairab Kunda to Gosaikunda at 4,380 m. Gain about 1,050 m. Visit the Shiva shrine and walk the shore. Prepare tonight for tomorrow's pass: an early start, warm layers and water ready.", "meals": "B, L, D"},
+    {"day": 11, "title": "Cross Lauribina La to Ghopte", "place": "", "overnight": "Ghopte", "altitude_m": 3430, "max_m": 4610, "walk": "≈ 6–7 h", "drive": "", "flight": "", "text": "Leave at first light, climbing past Surya Kunda to Lauribina La at 4,610 m, marked by cairns and prayer flags. After photos, descend a long rocky trail to Phedi (about 3,630 m), where a memorial recalls the 1992 Thai Airways crash on the hillside nearby. Continue along a remote, up-and-down path through rhododendron and juniper to the small lodges at Ghopte. Snow or ice on the pass may require microspikes.", "meals": "B, L, D"},
+    {"day": 12, "title": "Ghopte to Melamchi Gaun via Tharepati", "place": "helambu", "overnight": "Melamchi Gaun", "altitude_m": 2530, "max_m": 3690, "walk": "≈ 6 h", "drive": "", "flight": "", "text": "Climb through forest for about 3 hours to Tharepati at 3,690 m, where the Helambu ridge trail joins. Enjoy views of the Langtang range, Dorje Lakpa and Jugal Himal. Then descend steeply about 1,150 m through rhododendron and oak to Melamchi Gaun, a Hyolmo village with a gompa on a shelf above the Melamchi valley. Use trekking poles on the descent.", "meals": "B, L, D"},
+    {"day": 13, "title": "Melamchi Gaun to Tarkeghyang", "place": "helambu", "overnight": "Tarkeghyang", "altitude_m": 2600, "max_m": 2600, "walk": "≈ 5–6 h", "drive": "", "flight": "", "text": "Visit the Melamchi Gaun monastery, then descend to cross the Melamchi Khola and climb through fields and apple orchards to Tarkeghyang at about 2,600 m, the largest Hyolmo village. Walk its narrow lanes between whitewashed stone houses to the large gompa. This is a relaxed last trekking day; celebrate with your crew in the evening.", "meals": "B, L, D"},
+    {"day": 14, "title": "Jeep from Tarkeghyang to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2600, "walk": "", "drive": "≈ 110 km · 6–7 h", "flight": "", "text": "Drive by private jeep down the Melamchi valley via Timbu and Melamchi Bazaar back to Kathmandu, arriving in the afternoon. Road sections below Timbu can be rough after the 2021 floods and monsoon rains, so allow extra time. We drop you at your hotel. Avoid an international flight this evening in case of delays.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep Kathmandu–Syabrubesi and Tarkeghyang–Kathmandu",
+    "Licensed trekking guide speaking English or Hindi",
+    "One porter for every two trekkers",
+    "Teahouse lodges for 13 nights, twin sharing",
+    "Three meals a day on the trek with hot drinks",
+    "Langtang National Park entry permit and TIMS card",
+    "Guide and porter wages, food, lodging and insurance",
+    "First-aid kit and pulse oximeter",
+    "Microspikes on loan when conditions require"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation cover up to 5,000 m",
+    "Hot showers, charging and Wi-Fi",
+    "Drinks, snacks and bottled water",
+    "Tips for guide and porters",
+    "Extra nights from weather, pass closure or illness",
+    "Personal gear, sleeping bag and down jacket"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing, private jeeps for the group and standard teahouses; solo travellers pay a supplement.",
+    "Lauribina La (4,610 m) can be snowbound from December to March; we run this route mainly in spring and autumn, and may reroute via Dhunche if the pass is closed.",
+    "Lodges at Phedi and Ghopte are very basic and may close out of season; your guide confirms they are open before the crossing.",
+    "Foreign trekkers need a licensed guide in Langtang National Park; check current status before you travel.",
+    "Good fitness is needed: several 6–7 hour days with 1,000 m or more of ascent or descent."
+  ],
+  "add_ons": [
+    {"name": "Ama Yangri sunrise day from Tarkeghyang", "price": "≈ US$ 50 per person"},
+    {"name": "Tserko Ri instead of Langshisa Kharka", "price": "No extra cost"},
+    {"name": "Helicopter from Gosaikunda if the pass is closed", "price": "≈ US$ 550–650 per seat, shared"}
+  ],
+  "faqs": [
+    {"q": "How difficult is the Langtang Gosaikunda Helambu trek?", "a": "It is challenging. Over 14 days you climb to 4,773 m on Kyanjin Ri, sleep at 4,380 m at Gosaikunda and cross Lauribina La at 4,610 m, with several 6–7 hour days of big ascents and descents. No technical climbing is needed, but you should be fit, have done multi-day hikes before and train for 8 weeks."},
+    {"q": "What is the highest point of the trek?", "a": "The highest point reached is Kyanjin Ri at 4,773 m on day five, a day hike from Kyanjin Gompa. The highest pass is Lauribina La at 4,610 m on day eleven, and the highest overnight is Gosaikunda at 4,380 m. Acclimatisation in the Langtang Valley makes the pass crossing safer."},
+    {"q": "How much does the 14-day Langtang Gosaikunda Helambu trek cost?", "a": "Our 14-day trek starts at about US$ 1,090 or ₹92,000 per person on twin sharing, covering private jeeps, a licensed guide, porters, lodges, three meals a day and permits. Kathmandu hotels, insurance, tips and extras like showers and charging are not included. Prices depend on group size and season."},
+    {"q": "Is Lauribina La pass dangerous?", "a": "In good conditions, Lauribina La is a non-technical walk on a rocky trail marked by cairns. The risks are snow and ice, which can cover the trail from December to March and after storms, and cloud reducing visibility. Our guides check conditions, carry microspikes and will reroute via Dhunche if the pass is unsafe."},
+    {"q": "Can I shorten the Langtang Gosaikunda Helambu trek?", "a": "Yes. Dropping the Langshisa Kharka day gives a 13-day version, and finishing at Melamchi Gaun by jeep saves a further day. A 12-day route that skips Kyanjin Ri is possible but reduces acclimatisation before the pass, so we do not recommend it for first-time high-altitude trekkers."},
+    {"q": "When is the best time for this trek?", "a": "April to May and October to November are the best months, with stable weather and the pass usually free of deep snow. March and late September are possible with more risk of snow or rain. We do not run the full traverse from December to February or in the June–August monsoon."},
+    {"q": "Where does the trek end?", "a": "The trek ends at Tarkeghyang in Helambu, from where a private jeep drives about 110 km and 6–7 hours via Timbu and Melamchi Bazaar to Kathmandu. Some versions finish by walking to Chisapani and Sundarijal instead, which adds a day but avoids the Melamchi valley road."},
+    {"q": "Do I need special gear for Lauribina La?", "a": "You need good waterproof boots with ankle support, warm layers including a down jacket, gloves and hat, sunglasses and trekking poles. In spring and late autumn, microspikes help on icy sections; we lend them when needed. A sleeping bag rated to −10 °C is essential for Gosaikunda and Ghopte."},
+    {"q": "Are the lodges open on the Ghopte section?", "a": "Lodges at Phedi, Ghopte and Tharepati are small and basic, and some close in winter or the monsoon. In spring and autumn they are usually open. Our guide confirms before leaving Gosaikunda. If they are closed, we carry tents or adjust the route to ensure a safe overnight."}
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "samagaun-hotel-norling",
+    "name": "Hotel Norling",
+    "place": "samagaun",
+    "kind": "teahouse lodge",
+    "class": "Standard",
+    "wiki": "",
+    "image_query": "Samagaun teahouse lodge Manaslu",
+    "summary": "Hotel Norling is a long-running teahouse lodge on the main lane of Samagaun, at 3,530 m, used by trekking groups on the Manaslu Circuit and by climbers in the autumn expedition season. Expect simple twin rooms, a heated dining room and Manaslu close by.",
+    "body": [
+      "Hotel Norling sits in the heart of Samagaun, the largest village on the upper Manaslu Circuit and the place where most trekkers spend two nights acclimatising. Like other Samagaun lodges it is a family-run teahouse rather than a hotel in the city sense: twin rooms with wooden beds and blankets, shared or limited bathrooms, and a dining room warmed by a stove in the evening where trekkers, guides and climbers eat together. Menus follow the circuit pattern of dal bhat, noodles, potatoes, Tibetan bread and porridge.",
+      "We use Samagaun lodges such as Hotel Norling because of their location: a short walk from the trail to Birendra Tal, the start of the Pungyen Gompa and Manaslu Base Camp hikes, and the helicopter landing area. Facilities such as hot showers, charging and Wi-Fi are usually available for a fee but depend on solar power and the weather. In peak October we reserve rooms in advance, and when the lodge is full we place guests in a comparable lodge nearby."
+    ],
+    "why": [
+      "Central location on Samagaun's main lane, close to the acclimatisation trails",
+      "Used for years by trekking groups and autumn expedition teams",
+      "Warm dining room for long evenings at 3,530 m"
+    ],
+    "best_for": ["groups", "solo", "first-timers"],
+    "website": "",
+    "faqs": [
+      {"q": "Does Hotel Norling in Samagaun have attached bathrooms?", "a": "Facilities change from season to season, and most Samagaun lodges offer mainly shared bathrooms with a few attached rooms at best. We do not promise an attached bathroom at Hotel Norling; if it matters to you, tell us when booking and we will request one or suggest an alternative lodge with that option."},
+      {"q": "Can I book Hotel Norling directly?", "a": "Teahouses on the Manaslu Circuit are usually booked by trekking agencies or on arrival, and there is no official website we can confirm. Because you must trek the Manaslu restricted area with a licensed guide and registered agency, your agency normally handles the booking as part of the package."},
+      {"q": "Is Hotel Norling heated?", "a": "The dining room is warmed by a stove in the evenings, which is standard in Samagaun. Bedrooms are not heated, and nights fall to −5 °C in October and −10 °C in November. Bring a sleeping bag rated to about −10 °C and ask the kitchen for a hot water bottle."}
+    ]
+  },
+  {
+    "slug": "samagaun-manaslu-guest-house",
+    "name": "Manaslu Guest House",
+    "place": "samagaun",
+    "kind": "teahouse lodge",
+    "class": "Standard",
+    "wiki": "",
+    "image_query": "Samagaun guest house Manaslu trekkers",
+    "summary": "The Manaslu Guest House faces Hotel Norling across the main lane of Samagaun and is a popular base for trekkers and, in September, for Manaslu expedition climbers. It offers simple teahouse rooms and a busy dining room full of trail and mountain talk.",
+    "body": [
+      "The Manaslu Guest House stands on Samagaun's main lane opposite Hotel Norling, in the centre of the village. In the autumn climbing season it fills with mountaineers on their way to or from Manaslu Base Camp, and the dining room hums with talk of routes, weather and summit rotations. For trekkers, that atmosphere is part of the appeal: you share the stove with people who have just come down from Camp 2.",
+      "Rooms are typical of Samagaun teahouses, with twin beds, blankets and shared bathroom facilities, and the kitchen serves the standard circuit menu. Hot showers, device charging and Wi-Fi are normally offered for a small charge, subject to the solar and power supply. The guest house is a short walk from the start of the Birendra Tal and Pungyen Gompa trails. We confirm availability each season and book ahead in late September and October."
+    ],
+    "why": [
+      "Lively base used by Manaslu climbers in the expedition season",
+      "Central position opposite Hotel Norling on the main lane",
+      "Easy access to Birendra Tal and the acclimatisation hikes"
+    ],
+    "best_for": ["solo", "groups", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "Is the Manaslu Guest House busy during climbing season?", "a": "Yes. From late August to early October expedition teams pass through Samagaun, and the guest house is a popular stop for climbers. Rooms can fill quickly, so we book ahead for trekkers in that window and arrange a nearby lodge if it is full."},
+      {"q": "What food does the Manaslu Guest House serve?", "a": "The kitchen serves the standard Manaslu Circuit menu: dal bhat with refills, noodle soups, fried rice, potatoes, eggs, porridge, pancakes and Tibetan bread, with tea, coffee and hot lemon. Menus are largely vegetarian. Prices are set by the local lodge committee and rise with altitude."},
+      {"q": "Can I charge my phone at the Manaslu Guest House?", "a": "Usually yes, for a small fee per device, in the dining room or your room depending on the season. Power comes from local hydro or solar systems and can be limited in cold or cloudy weather. Carry a power bank and keep it warm at night."}
+    ]
+  }
+]

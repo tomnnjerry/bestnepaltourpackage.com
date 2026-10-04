@@ -1,0 +1,130 @@
+{
+  "slug": "devdaha",
+  "name": "Devdaha",
+  "region": "lumbini",
+  "kind": "pilgrimage site",
+  "wiki": "Devdaha",
+  "image_query": "Devdaha Rupandehi Maya Devi temple",
+  "lat": 27.661,
+  "lng": 83.566,
+  "altitude_m": 190,
+  "tagline": "Maternal home of Maya Devi and capital of the Koliyas",
+  "meta_description": "Devdaha guide: the Koliya capital and maternal home of Maya Devi and Prajapati Gautami, near Butwal. Sites, the Rohini river story, distances from Lumbini.",
+  "summary": "Devdaha, about 35 km north-east of Lumbini and 12 km east of Butwal, was the capital of the Koliya clan and the home of Maya Devi, the Buddha's mother, and her sister Prajapati Gautami, who raised him. Shrines, ponds and archaeological mounds mark the sites, set where the Terai meets the Chure foothills.",
+  "intro": [
+    "Devdaha lies on the northern edge of the Rupandehi plain, where the forested Chure hills begin to rise. In the Buddha's time it was the chief town of the Koliyas, a clan closely tied to the Shakyas of Kapilavastu through marriage. Maya Devi was a Koliya princess, and the Buddhist story of the nativity begins with her journey from Kapilavastu towards her parents' home here, interrupted by the birth at Lumbini. After Maya Devi died seven days later, her sister Prajapati Gautami raised the child; she later became the first Buddhist nun.",
+    "The modern municipality of Devdaha spreads across villages and community forests, and its heritage is scattered across several spots rather than one complex. The main places pilgrims visit are a temple and pond dedicated to Maya Devi, the archaeological mounds associated with the old Koliya town, and the Rohini river nearby, which in tradition formed the border between Shakya and Koliya lands. The Lumbini Development Trust and local government have been developing the sites, with new monuments and signboards added in recent years.",
+    "Devdaha is less polished than Lumbini, and the experience depends on a guide who can connect the scattered places to the story. Allow 2–3 hours. It fits well on a day with Ramagrama, or as a stop between Lumbini and Tansen, since Butwal and the Siddhartha Highway are only 12 km away."
+  ],
+  "facts": [
+    ["Altitude", "≈ 190 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "0 (half-day from Lumbini or a stop on the way to Tansen)"],
+    ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 35 km)"],
+    ["From Kathmandu", "Fly to Bhairahawa, then ≈ 35 km · 1 h by car"],
+    ["Known for", "Maya Devi's maternal home, Prajapati Gautami, Koliya capital, Rohini river"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Maya Devi shrine and pond", "text": "A temple dedicated to Maya Devi beside a sacred pond is the main focus for pilgrims. Local devotees, both Hindu and Buddhist, offer flowers and light lamps here, and the shaded grounds are a calm place to sit."},
+    {"title": "Koliya archaeological mounds", "text": "Low mounds and exposed brickwork in the area are associated with the ancient Koliya settlement. Excavations are limited, so the remains are modest, but they place the stories in a real landscape near the foothills."},
+    {"title": "Prajapati Gautami's story", "text": "Devdaha is closely linked to Prajapati Gautami, who raised the young Siddhartha and later persuaded the Buddha to admit women into the order. For many visitors, especially women pilgrims, this connection is the most moving part of the visit."},
+    {"title": "Rohini river", "text": "The Rohini flows nearby. Buddhist texts tell how the Shakyas and Koliyas nearly went to war over its water during a drought, and how the Buddha came to the riverbank and persuaded them that human lives mattered more than water."},
+    {"title": "Foothill setting", "text": "Devdaha sits where the Chure hills meet the plain, with sal forest and community woodland nearby. On clear winter days the hills make a green backdrop, and the air is slightly fresher than in Lumbini."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini drive via Bhairahawa and Butwal, ≈ 35–40 km · 1–1.25 h. From Butwal it is ≈ 12 km east, about 25 minutes. From Ramagrama it is ≈ 40 km · 1.25 h north via Sunwal. Local buses and microbuses run from Butwal to Devdaha."},
+    {"mode": "Air", "text": "Gautam Buddha International Airport in Bhairahawa, with 35-minute flights from Kathmandu, is about 35 km away. Travellers continuing to Tansen or Pokhara can visit Devdaha straight from the airport on arrival day."}
+  ],
+  "where_to_stay": "Devdaha has only small local hotels and homestays that cater mostly to Nepali visitors. We recommend staying in Lumbini, about an hour away, at Buddha Maya Gardens or Lumbini Hokke Hotel, or in Bhairahawa at Hotel Nirvana. Travellers heading north can also visit Devdaha on the way and spend the night in Tansen at Hotel Srinagar, about two hours further on. Butwal, 12 km west, has several mid-range business hotels for those who need a city stop.",
+  "stays": [],
+  "tips": [
+    "Hire a guide who knows the Devdaha sites, since they are spread out and signage is still limited.",
+    "Combine Devdaha with Ramagrama or use it as a stop on the drive from Lumbini to Tansen.",
+    "Visit the Maya Devi shrine in the morning, when local devotees come with offerings.",
+    "Carry water and snacks; Butwal, 12 km away, is the nearest place for a full meal.",
+    "Dress modestly and remove shoes at shrines, as both Hindu and Buddhist devotees worship here."
+  ],
+  "themes": ["pilgrimage", "buddhist-circuit", "cultural-tours"],
+  "nearby": ["butwal", "ramagrama", "lumbini", "tansen"],
+  "experiences": [
+    {
+      "slug": "devdaha-maya-devi-ancestral-sites",
+      "title": "Devdaha sites of Maya Devi's family",
+      "kind": "spiritual",
+      "duration": "2.5 hours",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Included in our Buddhist circuit packages",
+      "image_query": "Devdaha Maya Devi temple pond",
+      "wiki": "",
+      "summary": "A guided morning visiting the Maya Devi shrine and pond and the Koliya mounds at Devdaha, tracing the story of the Buddha's mother and of Prajapati Gautami, who raised him and became the first Buddhist nun.",
+      "body": [
+        "Devdaha's sites are spread over several kilometres of villages and forest edge, so we travel between them by car with short walks at each. The first stop is the Maya Devi shrine with its pond, the spiritual centre of Devdaha, where your guide tells the story of the queen's dream of a white elephant, her journey from Kapilavastu and the birth at Lumbini on the way home.",
+        "We then visit the mounds associated with the old Koliya town and talk about the relationship between the two clans: marriages, shared festivals and rivalry over land and water. The story of Prajapati Gautami follows, from raising her sister's son to leading 500 Shakya women to seek ordination, which led to the founding of the order of nuns.",
+        "The visit takes about 2.5 hours including driving between sites. Facilities are basic, and paths are mostly flat earth. It is a good morning outing from Lumbini or a meaningful break on the road to Tansen."
+      ],
+      "good_for": ["pilgrims", "seniors", "families", "groups"],
+      "faqs": [
+        {"q": "What is the significance of Devdaha in Buddhism?", "a": "Devdaha was the capital of the Koliya clan and the maternal home of Maya Devi, the Buddha's mother, and of Prajapati Gautami, who raised him. Tradition says the Buddha visited Devdaha after his enlightenment. It completes the family story that also includes Lumbini and Kapilavastu."},
+        {"q": "Who was Prajapati Gautami?", "a": "Prajapati Gautami was Maya Devi's younger sister and also a wife of King Suddhodana. She raised Siddhartha after his mother died. Later she shaved her head, walked with other Shakya women to find the Buddha, and asked for ordination, becoming the first Buddhist nun."},
+        {"q": "How long does it take to see Devdaha?", "a": "Allow 2–3 hours to visit the main sites with a guide, including short drives between them. Add about 1–1.25 hours each way from Lumbini. Devdaha combines well with Ramagrama for a full day, or with the drive to Tansen."}
+      ]
+    },
+    {
+      "slug": "devdaha-rohini-river-story-walk",
+      "title": "Rohini river, where the Buddha stopped a war",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Late afternoon, Nov–Feb",
+      "price_hint": "",
+      "image_query": "Rohini river Rupandehi Nepal",
+      "wiki": "",
+      "summary": "A short walk to the Rohini river near Devdaha to hear the story of the drought-time water dispute between the Shakyas and Koliyas, which the Buddha is said to have settled on the riverbank by asking which was more precious, water or human blood.",
+      "body": [
+        "The Rohini is a modest river that rises in the Chure hills and flows south across the plain. In the Buddha's time it is said to have formed the boundary between Shakya and Koliya lands, and both clans dammed it to irrigate their rice. During one drought, the texts say, there was not enough water for both, insults turned to threats, and armed men gathered on each bank.",
+        "The Buddha, hearing of it, came to the river and asked the leaders what the water was worth compared with the lives of warriors. The two sides put down their weapons. The story is often told in Theravada teaching as a lesson in conflict resolution, and standing by an ordinary irrigated river makes it feel close.",
+        "We walk about 2 km along field edges to a spot on the bank and back. In the dry season the river is low and braided; in the monsoon it can be high and fast, so we keep to the bank. Late-afternoon light over the fields and hills is gentle and good for photographs."
+      ],
+      "good_for": ["pilgrims", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "What is the Rohini river dispute story?", "a": "Buddhist texts say the Shakyas and Koliyas shared the Rohini's water for farming. In a drought both wanted it, and the quarrel nearly became a battle. The Buddha came to the river and asked whether water was worth more than human lives, and the clans made peace."},
+        {"q": "Is the Rohini river safe to visit?", "a": "Yes, from the bank. In the dry season the river is shallow, and in the monsoon it can run high and fast, so do not wade in. The walk is on flat field paths. Our guide chooses a safe viewpoint depending on the water level."},
+        {"q": "Is the Rohini river the same one in the Buddhist texts?", "a": "Local tradition and most guides identify the modern Rohini near Devdaha with the river in the texts, and its course between the two clans' lands fits the story. As with many ancient sites, firm archaeological proof is not possible, but the setting matches the accounts closely."}
+      ]
+    },
+    {
+      "slug": "devdaha-stop-lumbini-tansen-drive",
+      "title": "Devdaha stop on the Lumbini–Tansen drive",
+      "kind": "culture",
+      "duration": "Half day",
+      "best_time": "Morning departures, Oct–Apr",
+      "price_hint": "Adds ≈ ₹1,500 per car to a Lumbini–Tansen transfer",
+      "image_query": "Siddhartha Highway Butwal hills Nepal",
+      "wiki": "",
+      "summary": "Turn the 90 km drive from Lumbini to Tansen into a half-day journey by adding Devdaha's Maya Devi shrine, then lunch in Butwal and the climb up the Siddhartha Highway to the cool hills of Palpa.",
+      "body": [
+        "A direct drive from Lumbini to Tansen takes about three hours. Adding Devdaha extends it by roughly two hours and gives the day a theme: leaving the Buddha's birthplace, visiting his mother's home, and climbing into the hills. We leave Lumbini after breakfast and reach Devdaha in just over an hour.",
+        "After an hour or so at the Maya Devi shrine and the Koliya sites, we drive 12 km to Butwal for lunch. From Butwal the Siddhartha Highway climbs straight into the hills through the Tinau gorge, passing the Siddhababa temple, where most Nepali drivers stop briefly to pray for a safe journey.",
+        "The road winds up through forest to the Bartung junction and the short link road to Tansen, arriving by mid-afternoon at about 1,350 m. The temperature drop from the plains is noticeable, often 8–10 °C cooler, and there is time for a first walk in the old town before dinner."
+      ],
+      "good_for": ["families", "couples", "pilgrims", "seniors"],
+      "faqs": [
+        {"q": "How much time does Devdaha add to the drive to Tansen?", "a": "About two hours: roughly 30 minutes of extra driving and 1–1.5 hours at the sites. Leaving Lumbini at 8.30 am, you reach Tansen by around 3 pm, including lunch in Butwal. Without Devdaha the drive takes about three hours."},
+        {"q": "Is the road from Butwal to Tansen safe?", "a": "Yes, with an experienced driver. The Siddhartha Highway climbs steeply through the Tinau gorge with many bends, and traffic includes buses and trucks. Landslides can occur in the monsoon, so check current status before you travel between June and September."},
+        {"q": "What is the Siddhababa temple?", "a": "Siddhababa is a popular Hindu temple on the Siddhartha Highway just north of Butwal, at the mouth of the Tinau gorge. Many drivers and travellers stop to make an offering for a safe journey into the hills. It takes only 10–15 minutes."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Devdaha located?", "a": "Devdaha is in Rupandehi district of Lumbini Province, about 12 km east of Butwal and roughly 35 km north-east of Lumbini. It sits on the northern edge of the Terai, where the plain meets the Chure foothills. The nearest airport is in Bhairahawa, about an hour away."},
+    {"q": "Why is Devdaha important?", "a": "Devdaha was the capital of the Koliya clan and the home of Maya Devi, the Buddha's mother, and Prajapati Gautami, his foster mother. Maya Devi was travelling here from Kapilavastu when she gave birth at Lumbini. Devdaha is therefore part of the core geography of the Buddha's early life."},
+    {"q": "How do I reach Devdaha from Lumbini?", "a": "Drive via Bhairahawa and Butwal, about 35–40 km and 1–1.25 hours. From Butwal, local microbuses run to Devdaha throughout the day. A private car with a guide is best, since the sites are spread out and signage is limited."},
+    {"q": "What can I see in Devdaha?", "a": "The main sites are a temple and pond dedicated to Maya Devi, archaeological mounds linked to the Koliya town, and the Rohini river nearby. Recent development has added monuments and signboards. The remains are modest, so a guide who tells the stories adds most of the value."},
+    {"q": "Is Devdaha worth visiting?", "a": "For pilgrims and readers of Buddhist history, yes, especially those interested in Maya Devi and Prajapati Gautami. For general tourists, it is a pleasant stop rather than a highlight. It works best combined with Ramagrama or as a break on the way from Lumbini to Tansen."},
+    {"q": "Can I visit Devdaha and Ramagrama in one day?", "a": "Yes. They are about 40 km apart. A full-day loop from Lumbini covers Ramagrama in the morning, lunch in Butwal and Devdaha in the afternoon, with about 150 km of driving in total. Leave Lumbini around 7.30 am to finish before dark."},
+    {"q": "Are there hotels in Devdaha?", "a": "Only small local hotels and homestays. Most travellers stay in Lumbini or Bhairahawa and visit on a day trip, or continue to Tansen for the night. Butwal, 12 km away, has several mid-range hotels if you need a stop there."},
+    {"q": "When is the best time to visit Devdaha?", "a": "October to March is most comfortable, with mild days and clear afternoons. December and January mornings can be foggy. April to June is hot, though slightly less so than Lumbini. The June to September monsoon brings heavy rain and swollen rivers."},
+    {"q": "Did the Buddha visit Devdaha?", "a": "Yes, according to the Pali texts. The Devadaha Sutta, discourse 101 of the Majjhima Nikaya, is set at Devadaha, which the texts describe as a market town in the Shakya-Koliya country. Tradition also links him to the Rohini river dispute nearby. The exact spots are not archaeologically fixed, but local sites are associated with these episodes."}
+  ]
+}

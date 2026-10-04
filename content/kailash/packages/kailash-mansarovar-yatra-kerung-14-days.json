@@ -1,0 +1,100 @@
+{
+  "slug": "kailash-mansarovar-yatra-kerung-14-days",
+  "title": "Kailash Mansarovar Yatra via Kerung, 14 Days",
+  "region": "kailash",
+  "type": "yatra",
+  "grade": "Challenging",
+  "nights": 13,
+  "themes": ["kailash-yatra", "pilgrimage", "overland-from-india"],
+  "stops": [
+    {"place": "kathmandu", "nights": 3},
+    {"place": "kyirong", "nights": 3},
+    {"place": "saga", "nights": 2},
+    {"place": "lake-manasarovar", "nights": 2},
+    {"place": "mount-kailash", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 210000,
+  "price_from_usd": 2440,
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "max_altitude_m": 5630,
+  "accommodation": "3-star hotel in Kathmandu, hotels in Kyirong and Saga, guesthouses at Manasarovar, Darchen and on the parikrama",
+  "transport": "Private bus or jeep in Nepal, Tibetan agency coach or Land Cruisers in Tibet, eco-buses at the lake and kora",
+  "group": "Fixed-departure groups of 10–30, or private groups of 5+",
+  "meta_description": "Kailash Mansarovar yatra via Kerung, 14 days from Kathmandu: overland route, Mansarovar parikrama, 3-day Kailash kora, costs, visa rules and fitness.",
+  "summary": "The classic overland yatra: drive from Kathmandu across the Rasuwagadhi–Kyirong border, acclimatise in Kyirong, cross the plateau via Saga to Lake Manasarovar, then walk the three-day Kailash parikrama over Dolma La (≈ 5,630 m). 14 days, no flight risk, from ₹2,10,000. The Kerung crossing is closed after August 2026 floods; check current status before you travel.",
+  "intro": [
+    "This is the route most Indian pilgrims took to Kailash in recent seasons: overland from Kathmandu, entering Tibet at Kyirong, where the green valley at about 2,700 m allows a gentle start. From there the road climbs to Saga at about 4,640 m and runs west across the plateau to Lake Manasarovar, where the group spends two nights for puja, holy dip and the bus parikrama before walking around Mount Kailash. It avoids small-plane and helicopter weather risk and costs less than the Simikot route.",
+    "The trade-off is long days on the road: about 250 km from Kyirong to Saga and 480 km from Saga to the lake, with a hard final day from Zuthulpuk to Saga. The Rasuwagadhi crossing was destroyed by a flood on 26 August 2026 after an earlier closure in 2025. We continue to plan this itinerary for when it reopens, and offer a full switch to the Simikot heli route or the Lhasa route if it does not. Check current status before you travel."
+  ],
+  "highlights": [
+    "Two acclimatisation nights in green Kyirong before the plateau",
+    "Pelku Tso and Shishapangma views on the drive to Saga",
+    "Mansarovar parikrama by bus, holy dip and puja facing Kailash",
+    "Three-day Kailash parikrama over Dolma La (≈ 5,630 m)",
+    "North face of Kailash at Dirapuk at sunset",
+    "No flight or helicopter weather risk on the way in"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Our team meets you at Tribhuvan International Airport and drives you to your 3-star hotel in Thamel or near Pashupatinath. In the evening the tour leader holds a short welcome meeting: checking passports, collecting medical certificates and explaining the route, the border day and what to pack for the cold. Rest well; the coming days involve long drives and big altitude gains. Indian pilgrims should have their Chinese group visa arranged before arrival, as required in recent seasons.", "meals": "Dinner"},
+    {"day": 2, "title": "Pashupatinath darshan and briefing", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1–2 h of sightseeing", "drive": "City transfers", "flight": "", "text": "In the morning we visit Pashupatinath for darshan and puja on the Bagmati, then Budhanilkantha, the reclining Vishnu. The afternoon is for the full pre-departure briefing with our Tibetan partner's representative: rules at the border, items not allowed in China, altitude sickness signs, pony and porter hire at Darchen, and how money works in Tibet. Biometric or document formalities required that season are completed now. We issue duffel bags and down jackets if included.", "meals": "B, D"},
+    {"day": 3, "title": "Drive to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 2000, "walk": "", "drive": "≈ 122 km · 7–8 h", "flight": "", "text": "We leave Kathmandu early and drive north through Trishuli and up the winding road to Dhunche, then down to Syabrubesi on the Bhote Koshi, at about 1,460 m. The road is narrow, with landslide-prone stretches in the monsoon, and the final hours climb over ridges near 2,000 m with views of Ganesh Himal and Langtang peaks. Overnight in a simple lodge or hotel so the group can reach the border soon after it opens.", "meals": "B, L, D"},
+    {"day": 4, "title": "Cross into Tibet at Kyirong", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 2700, "walk": "Bridge crossing on foot", "drive": "≈ 41 km · 2 h + border 2–4 h", "flight": "", "text": "A short drive brings the group to Rasuwagadhi. After Nepali exit formalities we walk across the bridge and complete Chinese immigration, health checks and baggage scanning in visa-list order, which typically takes 2–4 hours. Our Tibetan guide and coach meet us on the far side for the 25 km drive to Kyirong town at about 2,700 m. Clocks move forward 2 hours 15 minutes. Afternoon free for rest. Check current status of the crossing before you travel.", "meals": "B, L, D"},
+    {"day": 5, "title": "Acclimatisation day in Kyirong", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 3000, "walk": "≈ 2–3 h · 200–300 m gain", "drive": "", "flight": "", "text": "A full day to adapt before the plateau. After breakfast the guide leads an easy walk above town through barley terraces and pine forest, gaining 200–300 m to a viewpoint over the valley, and back for lunch. The afternoon is for rest, a hot shower and shopping for any missing warm gear, snacks or dry fruit in Kyirong's shops. The guide checks oxygen saturation and pulse in the evening.", "meals": "B, L, D"},
+    {"day": 6, "title": "Kyirong to Saga via Pelku Tso", "place": "saga", "overnight": "Saga", "altitude_m": 4640, "max_m": 5200, "walk": "", "drive": "≈ 250 km · 5–6 h", "flight": "", "text": "The biggest altitude gain of the trip. The road climbs out of the forest past Gyirong county town onto bare uplands, crossing passes above 5,000 m, then skirts Pelku Tso at about 4,590 m with Shishapangma (8,027 m) to the south. We stop for photographs, then continue across the plain to Saga at about 4,640 m. Eat lightly, drink plenty and rest; headaches and poor sleep are common on this first high night.", "meals": "B, L, D"},
+    {"day": 7, "title": "Across the plateau to Manasarovar", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 5200, "walk": "", "drive": "≈ 480 km · 8–9 h", "flight": "", "text": "A long day west along the Brahmaputra headwaters via Zhongba and Paryang, through grassland dotted with nomad tents and yak herds, and over the Mayum La at roughly 5,200 m. In the afternoon the first sight of Lake Manasarovar appears, with Gurla Mandhata to the south and, on clear days, Kailash to the north. Many pilgrims offer prayers on arrival. Overnight in a guesthouse at Chiu on the north-west shore.", "meals": "B, L, D"},
+    {"day": 8, "title": "Mansarovar parikrama, dip and puja", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 90–100 km lake circuit · 4–5 h", "flight": "", "text": "The spiritual heart of the lake: a parikrama by bus or eco-bus around Manasarovar, about 90–100 km, stopping at ghats and shore monasteries. At a permitted ghat the group takes the holy dip or a bucket snan, as local rules allow that season, followed by puja and havan led by our pandit facing Kailash. Fill bottles with Manasarovar jal. Return to Chiu for rest, and climb to Chiu Gompa for sunset if you feel well.", "meals": "B, L, D"},
+    {"day": 9, "title": "Darchen, then parikrama day 1 to Dirapuk", "place": "mount-kailash", "overnight": "Dirapuk", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 12 km · 5–7 h", "drive": "≈ 35 km to Darchen + eco-bus to Yam Dwar", "flight": "", "text": "After an early drive to Darchen to collect ponies and porters, the eco-bus takes us to Yam Dwar beside the Tarboche flagpole. Pilgrims not walking the parikrama stay in Darchen with a staff member. The walk follows the wide Lha Chu valley north for about 12 km, gaining only some 225 m, past red cliffs to Dirapuk at about 4,900 m, where the north face of Kailash rises across the river. Basic guesthouse dorms tonight.", "meals": "B, L, D"},
+    {"day": 10, "title": "Over Dolma La to Zuthulpuk", "place": "mount-kailash", "overnight": "Zuthulpuk", "altitude_m": 4790, "max_m": 5630, "walk": "≈ 20–22 km · 10–12 h", "drive": "", "flight": "", "text": "The hardest and holiest day. We start before 5 am by headtorch and climb about 730 m over 3–4 hours, past Shiva-sthal, to the Dolma La at approximately 5,630 m. Stay only 10–15 minutes at the top, then descend steeply past Gauri Kund. The long walk down the Lham Chu Khir valley brings us to Zuthulpuk at about 4,790 m by late afternoon. Ponies can carry riders on much of the climb but not the steepest descent.", "meals": "B, L, D"},
+    {"day": 11, "title": "Finish the kora and drive to Saga", "place": "saga", "overnight": "Saga", "altitude_m": 4640, "max_m": 5200, "walk": "≈ 9–10 km · 3–4 h", "drive": "≈ 500 km · 8–9 h", "flight": "", "text": "After visiting Milarepa's cave at Zuthulpuk, we walk 9–10 km down the gorge to Zongdo and take the eco-bus to Darchen, where the group reunites and our vehicle waits. Then comes the longest day of the trip: the drive back east over Mayum La and across the plateau to Saga, arriving in the evening. It is tiring, but most pilgrims are glowing after completing the parikrama. Hot showers and heated rooms in Saga.", "meals": "B, L, D"},
+    {"day": 12, "title": "Saga to Kyirong", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 5200, "walk": "", "drive": "≈ 250 km · 5–6 h", "flight": "", "text": "We retrace the road past Pelku Tso and down into the forested Kyirong valley. Losing nearly 2,000 m of altitude, most pilgrims sleep far better tonight and find their appetite returns. The afternoon is free for a walk in town, buying gifts, and a celebration dinner with the Tibetan crew, who have looked after the group since the border. Tips for the Tibetan guide, drivers and cooks are usually given this evening.", "meals": "B, L, D"},
+    {"day": 13, "title": "Back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 2700, "walk": "Bridge crossing on foot", "drive": "≈ 165 km · 8–9 h + border", "flight": "", "text": "Early departure for the border. After Chinese exit formalities we walk back across to Rasuwagadhi, where our Nepal vehicle waits, and drive via Syabrubesi, Dhunche and Trishuli to Kathmandu, arriving in the evening. Clocks move back 2 hours 15 minutes. Farewell dinner at the hotel, with completion certificates for those who walked the parikrama.", "meals": "B, L, D"},
+    {"day": 14, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "Free morning for last puja at Pashupatinath or shopping in Thamel, then transfer to the airport for your flight home. Pilgrims flying to Delhi, Mumbai, Bengaluru or Kolkata should book flights departing after midday to allow for any delays on the drive back. If border or road delays push the schedule, we rebook the final hotel night at cost.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and 3 nights in a 3-star hotel in Kathmandu, twin sharing",
+    "Chinese group visa processing support and Tibet Travel Permit with all area permits",
+    "All ground transport in Nepal and Tibet, including eco-buses at Manasarovar and the kora",
+    "Accommodation in Tibet: hotels in Kyirong and Saga, guesthouses at Manasarovar, Darchen, Dirapuk and Zuthulpuk",
+    "All meals from Kathmandu dinner on day 1, with Indian vegetarian food cooked by our support crew in Tibet",
+    "English or Hindi-speaking Nepali tour leader and licensed Tibetan guide",
+    "Oxygen cylinders, pulse oximeter and first-aid kit in the support vehicle",
+    "Down jacket and duffel bag on loan, returned after the trip",
+    "Pashupatinath darshan and group puja and havan at Manasarovar"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Chinese visa fees and any nationality-specific surcharges, which change each season",
+    "Pony, horseman and porter on the parikrama (hired locally at Darchen)",
+    "Travel insurance with high-altitude evacuation cover (mandatory)",
+    "Extra nights or transport caused by border closures, landslides or weather",
+    "Personal expenses, drinks, laundry and telephone",
+    "Tips for the Nepali and Tibetan crew",
+    "Ashtapad darshan trip from Darchen (optional)"
+  ],
+  "good_to_know": [
+    "The price assumes twin sharing, a group of at least 10 and Indian or SAARC passport rates in a standard season; single rooms are not available on most Tibet nights.",
+    "The Rasuwagadhi–Kyirong crossing was destroyed by a flood on 26 August 2026 after an earlier closure in 2025. If it is closed for your dates, we move you to the Simikot heli route or the Lhasa route and explain the price difference. Check current status before you travel.",
+    "Rules for Indian passport holders on the Nepal routes, including where visas are processed, biometrics, age limits and fees, have changed several times since 2023. Check current status before you travel.",
+    "An age limit of around 70 years has applied on the Nepal routes in recent seasons. A medical fitness certificate is required, and our fitness guide lists the tests we suggest. This is guidance only.",
+    "The Government of India's official Kailash Mansarovar Yatra via Lipulekh and Nathu La is a separate scheme run by the Ministry of External Affairs, with its own application and draw."
+  ],
+  "add_ons": [
+    {"name": "Pony and horseman for the 3-day parikrama", "price": "≈ US$ 450–550, set locally each season"},
+    {"name": "Porter for the 3-day parikrama", "price": "≈ US$ 180–250, set locally each season"},
+    {"name": "Extra hotel night in Kathmandu", "price": "≈ ₹5,000 per room"}
+  ],
+  "faqs": [
+    {"q": "Is the Kerung route open for Kailash yatra?", "a": "Not at the time of writing. A flood on 26 August 2026 destroyed the Rasuwagadhi border post, bridge and customs area, months after an earlier flood had closed it from July 2025 to January 2026. No reopening date had been announced by autumn 2026. Check current status before you travel; we reroute to Simikot or Lhasa if needed."},
+    {"q": "What is the cost of Kailash yatra via Kerung?", "a": "Our 14-day Kerung yatra starts from ₹2,10,000 (US$2,440) per person, twin sharing, for a group of 10 or more. It covers permits, transport, accommodation, meals, guides and oxygen. Visa fees, ponies, porters, insurance and tips are extra. Indian nationals have faced different fees from other passports in recent seasons."},
+    {"q": "How many days does the Kerung route take?", "a": "Fourteen days from Kathmandu to Kathmandu is the standard: two days in Kathmandu, two nights in Kyirong, a night in Saga, two at Manasarovar, three days of parikrama and three days back. Seniors are better served by our 17-day version with extra acclimatisation nights."},
+    {"q": "Which is better: Kerung route or Simikot helicopter route?", "a": "Kerung is cheaper, has no flight risk and acclimatises gradually through Kyirong, but involves long drives and is exposed to monsoon landslides and border closures. Simikot is shorter with less road time but depends on mountain weather for flights. Our route comparison guide sets out the details."},
+    {"q": "Do I need to walk the full Kailash parikrama?", "a": "No. Pilgrims who prefer not to walk stay in Darchen for the two parikrama nights with a staff member and can take the Ashtapad darshan trip. Many others walk with a pony for the hardest stretches. Everyone completes the Mansarovar parikrama by bus."},
+    {"q": "What is the maximum altitude on this yatra?", "a": "The Dolma La pass on day two of the parikrama, at approximately 5,630 m. You also spend nights at Saga (≈ 4,640 m), Manasarovar (≈ 4,590 m), Dirapuk (≈ 4,900 m) and Zuthulpuk (≈ 4,790 m). The road crosses passes of about 5,200 m."},
+    {"q": "What documents do Indian pilgrims need for the Kerung route?", "a": "A passport valid for at least six months with blank pages, a Chinese group visa (in recent seasons processed through New Delhi for resident Indians, needing the original passport weeks ahead), the Tibet permit our partner obtains, a medical certificate and photographs. Requirements change; check current status before you travel."},
+    {"q": "Is food on the Kerung yatra vegetarian?", "a": "Yes. In Kathmandu the hotel serves vegetarian meals, and in Tibet our support crew cooks Indian vegetarian food: dal, rice, roti, vegetables, soup and khichdi on the parikrama days where possible. Jain food without onion and garlic can be arranged if you tell us at booking."},
+    {"q": "What happens if the road is blocked by landslides?", "a": "The group waits for clearance or reroutes where possible, and the Tibetan agency adjusts permit dates. Extra nights and transport are charged at cost, which is why insurance with trip delay cover matters. We avoid the peak monsoon weeks on this route where we can."}
+  ]
+}

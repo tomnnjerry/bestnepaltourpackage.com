@@ -1,0 +1,5 @@
+{% load tours %}<a class="ecard" href="{{ e.url }}" data-land="{{ e.region }}">
+  {% photo e|first_img e.title "" "(max-width: 760px) 100vw, 33vw" False False %}
+  <span class="ecard__kind">{% icon e.kind %}{{ e.kind_name }}</span>
+  <span class="ecard__txt"><b>{{ e.title }}</b><small>{{ e.place_obj.name }} · {{ e.duration }}</small></span>
+</a>

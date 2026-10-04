@@ -1,0 +1,131 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ k.title }} · from {{ k.price_from_inr|inr }}{% endblock %}
+{% block meta_description %}{{ k.meta_description|default:k.summary|truncatechars:158 }}{% endblock %}
+{% block og_title %}{{ k.title }}{% endblock %}
+{% block og_image %}{% with i=k|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}data-land="{{ k.region }}"{% endblock %}
+{% block fab_label %}Check dates and price{% endblock %}
+{% block main %}
+<header class="phead" data-buybar-after>
+  <div class="phead__bg">{% photo k|first_img k.title "" "100vw" True True %}</div>
+  <div class="wrap">
+    <div class="phead__in">
+      <span class="stamp stamp--big" data-type="{{ k.type }}">{% icon k.type_obj.icon %}<b>{{ k.type_obj.label }}</b></span>
+      <p class="kicker"><a href="{{ r.url }}">{{ r.name }}</a> · {{ k.code }}</p>
+      <h1>{{ k.title }}</h1>
+      <p class="phead__lede">{{ k.summary }}</p>
+    </div>
+  </div>
+  <div class="ridge--bottom" aria-hidden="true"></div>
+</header>
+
+<div class="wrap">
+  <div class="kpass">
+    <div class="kpass__main">
+      <div><small>Duration</small><b>{{ k.days_count }} day{{ k.days_count|pluralize }}</b><span>{% if k.nights %} · {{ k.nights }} night{{ k.nights|pluralize }}{% endif %}</span></div>
+      <div><small>Highest point</small><b>{{ k.max_altitude_m|thousands }} m</b></div>
+      <div><small>Grade</small><b>{{ k.grade }}</b> <span class="grade" data-g="{{ k.grade|grade_level }}" aria-hidden="true"><i></i><i></i><i></i><i></i></span></div>
+      <div><small>Best months</small><b>{{ k.best_label|default:"Ask us" }}</b></div>
+      <div><small>Group</small><span>{{ k.group|default:"Private, any size" }}</span></div>
+    </div>
+    <div class="kpass__stub">
+      <div class="kpass__price"><small>from, per person</small><b data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</b><span>{{ k.price_from_inr|inr }} · {{ k.price_from_usd|usd }} · twin sharing</span></div>
+      <a class="btn btn--foil" href="#book" data-cta="package-top-book">Check dates{% icon "arrow" %}</a>
+    </div>
+  </div>
+</div>
+
+<div class="wrap sec--tight">
+  <div class="split">
+    <article>
+      {% include "tours/partials/brief.html" with text=k.summary %}
+      {% for para in k.intro %}<p class="lede">{{ para }}</p>{% endfor %}
+
+      {% if k.highlights %}<h2 class="h2" style="margin-top:36px">Highlights</h2>
+      <ul class="ticks">{% for h in k.highlights %}<li>{% icon "check" %}<span>{{ h }}</span></li>{% endfor %}</ul>{% endif %}
+
+      {% if k.alts|length > 1 %}<section class="prof" style="margin-top:40px" aria-labelledby="h-prof">
+        <div class="prof__head"><h2 class="h3" id="h-prof">Elevation profile</h2><span class="alt-pill">{% icon "altitude" %}{{ k.max_altitude_m|thousands }} m</span></div>
+        {% profile k %}
+        <p class="prof__note"><span><i style="background:var(--ink-l)"></i>Where you sleep</span><span><i style="background:var(--foil-deep)"></i>High point of the day</span>{% if k.acclim_flags %}<span><i style="background:var(--warn)"></i>Sleeping altitude rises more than 500 m above 3,000 m</span>{% endif %}<a href="{% url 'tool_altitude' %}?package={{ k.slug }}">Check acclimatisation</a></p>
+      </section>{% endif %}
+
+      <section style="margin-top:44px" aria-labelledby="h-days">
+        <div class="sec__head" style="margin-bottom:20px"><h2 class="h2" id="h-days">Day by day</h2><button class="btn btn--line btn--s" type="button" data-days-toggle>Expand all days</button></div>
+        <ol class="days">
+          {% for d in k.days %}<li class="day{% if d.day in k.acclim_flags %} is-flag{% endif %}" data-alt="{{ d.altitude_m }}">
+            <span class="day__n"><span><small>DAY</small>{{ d.day }}</span></span>
+            <details{% if forloop.first %} open{% endif %}>
+              <summary>
+                <h3>{{ d.title }}</h3>{% icon "chevron-down" %}
+                <span class="day__meta">
+                  {% if d.overnight %}<span>{% icon "bed" %}{{ d.overnight }}</span>{% endif %}
+                  <span>{% icon "altitude" %}{{ d.altitude_m|thousands }} m{% if d.max_m > d.altitude_m %} · high {{ d.max_m|thousands }} m{% endif %}</span>
+                  {% if d.walk %}<span>{% icon "hiking" %}{{ d.walk }}</span>{% endif %}
+                  {% if d.drive %}<span>{% icon "car" %}{{ d.drive }}</span>{% endif %}
+                  {% if d.flight %}<span>{% icon "plane" %}{{ d.flight }}</span>{% endif %}
+                  {% if d.meals %}<span>{% icon "meal" %}{{ d.meals }}</span>{% endif %}
+                </span>
+              </summary>
+              <div class="day__body"><p>{{ d.text }}</p>{% if d.place_obj %}<p><a href="{{ d.place_obj.url }}">About {{ d.place_obj.name }}</a></p>{% endif %}</div>
+            </details>
+          </li>{% endfor %}
+        </ol>
+      </section>
+
+      {% if map_points != "[]" %}<section style="margin-top:44px" aria-labelledby="h-map"><h2 class="h2" id="h-map">Route map</h2>{% atlas map_points True %}</section>{% endif %}
+
+      <section style="margin-top:44px" class="grid grid--2">
+        <div class="panel"><h2 class="h3">Included</h2><ul class="ticks">{% for i in k.includes %}<li>{% icon "check" %}<span>{{ i }}</span></li>{% endfor %}</ul></div>
+        <div class="panel"><h2 class="h3">Not included</h2><ul class="ticks ticks--x">{% for i in k.excludes %}<li>{% icon "close" %}<span>{{ i }}</span></li>{% endfor %}</ul></div>
+      </section>
+
+      {% if k.add_ons %}<section style="margin-top:28px"><h2 class="h3">Popular add-ons</h2><ul class="addons">{% for a in k.add_ons %}<li><span>{{ a.name }}</span><b>{{ a.price }}</b></li>{% endfor %}</ul></section>{% endif %}
+
+      {% if k.good_to_know %}<section style="margin-top:36px"><h2 class="h2">Good to know</h2><ul class="ticks">{% for g in k.good_to_know %}<li>{% icon "info" %}<span>{{ g }}</span></li>{% endfor %}</ul></section>{% endif %}
+
+      <section style="margin-top:36px" class="panel"><h2 class="h3">Trip details</h2>
+        <dl class="facts">
+          <div><dt>Starts</dt><dd>{{ k.start }}</dd></div>
+          <div><dt>Ends</dt><dd>{{ k.end }}</dd></div>
+          {% if k.accommodation %}<div><dt>Stay</dt><dd>{{ k.accommodation }}</dd></div>{% endif %}
+          {% if k.transport %}<div><dt>Transport</dt><dd>{{ k.transport }}</dd></div>{% endif %}
+          {% if k.walk_days %}<div><dt>Walking days</dt><dd>{{ k.walk_days }}</dd></div>{% endif %}
+          <div><dt>Styles</dt><dd>{% for t in k.themes %}<a href="{{ t|theme_url }}">{{ t|theme_name }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}</dd></div>
+        </dl>
+        <div style="margin-top:14px">{% include "tours/partials/months.html" with bar=k.bar %}</div>
+      </section>
+
+      {% if k.stay_objs %}<section style="margin-top:36px"><h2 class="h2">Hotels on this trip</h2><div class="grid grid--3">{% for s in k.stay_objs %}<a class="ecard" href="{{ s.url }}">{% photo s|first_img s.name "" "33vw" False False %}<span class="ecard__kind">{% icon "bed" %}{{ s.kind|capfirst }}</span><span class="ecard__txt"><b>{{ s.name }}</b><small>{{ s.place_obj.name }}</small></span></a>{% endfor %}</div></section>{% endif %}
+
+      {% include "tours/partials/faqs.html" with faqs=k.faqs faq_title="Questions about this trip" %}
+    </article>
+
+    <aside class="aside" id="book">
+      <div class="panel panel--dark">
+        <p class="kicker">{% icon "ticket" %}{{ k.code }}</p>
+        <p class="num" style="font-size:2.6rem;line-height:1;margin:0"><small style="font:600 .9rem var(--text)">from </small><span data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</span></p>
+        <p style="color:#C9D1DE;font-size:.9rem;margin:6px 0 14px">per person, twin sharing · {{ k.price_from_usd|usd }} for overseas guests</p>
+        <ul class="ticks" style="font-size:.92rem">
+          <li>{% icon "check" %}<span>Free written quote for your dates</span></li>
+          <li>{% icon "check" %}<span>Change hotels, days or add a heli</span></li>
+          <li>{% icon "check" %}<span>Pay a deposit only when you book</span></li>
+        </ul>
+      </div>
+      {% include "tours/partials/quick_form.html" with heading="Check dates and price" kind="book" package=k.title trip_type=k.type region=k.region where="package-aside" button="Send my quote" %}
+      {% if guides %}<div class="panel"><h2 class="h3">Read before you go</h2><ul class="mlinks">{% for g in guides %}<li><a href="{{ g.url }}">{% icon "book" %}{{ g.title }}</a></li>{% endfor %}</ul></div>{% endif %}
+    </aside>
+  </div>
+</div>
+
+{% if related %}<section class="sec sec--tint"><div class="wrap"><div class="sec__head"><h2 class="h2">More in {{ r.name }}</h2><a class="textlink" href="{{ r.url }}">{{ r.name }} guide{% icon "arrow" %}</a></div><div class="passes" data-stagger>{% for k in related %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if alternatives %}<section class="sec"><div class="wrap"><div class="sec__head"><h2 class="h2">Similar {{ k.type_obj.plural|lower }}</h2><a class="textlink" href="{% url 'packages' %}?type={{ k.type }}">Compare all{% icon "arrow" %}</a></div><div class="passes" data-stagger>{% for k in alternatives %}{% include "tours/partials/pass.html" %}{% endfor %}</div></div></section>{% endif %}
+
+<div class="buybar" aria-hidden="false">
+  <div class="wrap buybar__in">
+    <div class="buybar__t"><b>{{ k.title }}</b><small>{{ k|days_label }} · up to {{ k.max_altitude_m|thousands }} m · {{ k.grade }}</small></div>
+    <p class="buybar__p" style="margin:0"><small>from</small><span data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</span></p>
+    <a class="btn btn--foil" href="{% url 'plan' %}?package={{ k.slug }}&amp;from={{ request.path|urlencode }}" data-cta="buybar-quote">Check dates</a>
+  </div>
+</div>
+{% endblock %}

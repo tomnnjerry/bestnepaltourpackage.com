@@ -1,0 +1,161 @@
+{
+  "slug": "kathmandu-valley-rim-trek-5-nights",
+  "title": "Kathmandu Valley Rim Trek, 5 Nights",
+  "region": "kathmandu-valley",
+  "type": "trek",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["trekking", "short-breaks", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "nagarkot", "nights": 1},
+    {"place": "dhulikhel", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 30000,
+  "price_from_usd": 420,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 2215,
+  "accommodation": "3-star hotel in Kathmandu, simple lodge at Chisapani, resorts at Nagarkot and Dhulikhel",
+  "transport": "Private car for transfers to Sundarijal and back from Namobuddha; four days on foot",
+  "group": "Private or small group, 1–12, with licensed guide and porters",
+  "meta_description": "Kathmandu Valley rim trek, 6 days: Sundarijal to Chisapani, Nagarkot, Dhulikhel and Namobuddha. Easy grade, 4 walking days, under 2,300 m. From ₹30,000.",
+  "summary": "Four walking days along the hills that ring the Kathmandu Valley, from Sundarijal through Shivapuri Nagarjun National Park to Chisapani, Nagarkot, Dhulikhel and the monastery at Namobuddha. Days of 3–7 hours, a top height of about 2,215 m and Himalayan views from Langtang to Everest make it the easiest real trek in Nepal.",
+  "intro": [
+    "The valley rim trek suits first-time trekkers, families with teenagers, travellers short on time and anyone who wants mountain views without flights to Lukla or altitude worries. You walk out of Kathmandu's suburbs at Sundarijal, climb through oak and rhododendron forest in Shivapuri Nagarjun National Park, and spend four days on ridges and farm trails between Tamang, Brahmin and Newar villages. On clear mornings the line of snow peaks runs from Langtang and Ganesh Himal in the west to Dorje Lakpa and Gauri Shankar in the east.",
+    "The highest point is Chisapani at about 2,215 m. That is too low for altitude sickness to be a real concern, which is unusual for a Nepal trek, though the first day still climbs some 750 m on stone steps. We use a simple lodge at Chisapani, Club Himalaya at Nagarkot and Dhulikhel Mountain Resort, so three of the four nights on the trail come with hot showers. Porters carry your bag; you carry water, a jacket and a camera."
+  ],
+  "highlights": [
+    "Four days on foot around the valley rim, 3–7 hours a day",
+    "Oak and rhododendron forest of Shivapuri Nagarjun National Park",
+    "Sunrise over the Langtang, Jugal and Rolwaling ranges from Chisapani and Nagarkot",
+    "Ridge villages of Tamang and Newar farmers between Nagarkot and Dhulikhel",
+    "Finish at the Thrangu monastery and tigress stupa of Namobuddha",
+    "Highest point about 2,215 m, no altitude sickness concerns"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, trek briefing",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 20–30 min",
+      "flight": "",
+      "text": "We pick you up at Tribhuvan International Airport and take you to your hotel. In the afternoon your trek guide comes to check boots, rain gear and daypack, and to collect passport copies for the national park and trekking paperwork. We hand out a duffel bag for the porter, with a limit of about 10 kg per person; anything else stays in hotel storage until you return. If you need a fleece, poles or a sun hat, Thamel's gear shops are a short walk away and open until 9 pm.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Sundarijal to Chisapani",
+      "place": "",
+      "overnight": "Chisapani",
+      "altitude_m": 2215,
+      "max_m": 2215,
+      "walk": "≈ 4–5 h · 12 km · +750 m",
+      "drive": "≈ 15 km · 45 min to Sundarijal",
+      "flight": "",
+      "text": "A 45-minute drive brings us to Sundarijal (1,460 m) on the north-east edge of the valley. The trail climbs stone steps beside the water pipeline to the Sundarijal reservoir, where we show permits at the national park gate. Above, the path rises steadily through oak and rhododendron forest to the Tamang village of Mulkharka, a good tea stop, then on along the ridge and across the pass of Borlang Bhanjyang. The last hour contours to Chisapani, a hamlet of lodges facing the Langtang range. Expect about 750 m of climbing in total.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Chisapani to Nagarkot via Jhule",
+      "place": "nagarkot",
+      "overnight": "Nagarkot",
+      "altitude_m": 2175,
+      "max_m": 2215,
+      "walk": "≈ 6–7 h · 18 km · +600 m / −650 m",
+      "drive": "",
+      "flight": "",
+      "text": "Get up for sunrise: from Chisapani the snow line runs from Ganesh Himal across Langtang Lirung to Dorje Lakpa. Today is the longest walk. We drop through terraced millet fields to Chauki Bhanjyang, climb back into forest to Jhule, then follow farm tracks and village lanes along the ridge before the final rise to Nagarkot at about 2,175 m. Lunch is dal bhat at a village teahouse. The trail mixes forest, dirt road and short climbs, with no exposed sections, and our porters go ahead to the resort.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Nagarkot sunrise, walk to Dhulikhel",
+      "place": "dhulikhel",
+      "overnight": "Dhulikhel",
+      "altitude_m": 1550,
+      "max_m": 2195,
+      "walk": "≈ 5–6 h · 16 km · +250 m / −850 m",
+      "drive": "",
+      "flight": "",
+      "text": "At 5:30 am walk up to the Nagarkot view tower area, about 2,195 m, for sunrise along the main Himalayan range; on the clearest days Everest shows as a small dark peak far to the east. After breakfast we leave the hill station on a ridge trail south-east, through pine woods and villages around Rohini Bhanjyang and Nala, with the Indrawati valley below. Most of the day is downhill, which is kind on the lungs and hard on the knees, so poles help. We reach the old Newar town of Dhulikhel by mid-afternoon.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Dhulikhel to Namobuddha, back to Kathmandu",
+      "place": "namobuddha",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1750,
+      "walk": "≈ 3–4 h · 10 km · +400 m / −200 m",
+      "drive": "≈ 40 km · 1.5–2 h from Namobuddha",
+      "flight": "",
+      "text": "The last walking day starts with a short climb to the Kali temple above Dhulikhel for the morning view, then follows a broad ridge south through Kavre villages and pine forest. After 3–4 hours the gold roofs of Thrangu Tashi Yangtse Monastery appear on the hilltop at Namobuddha, about 1,750 m. Below it stands the small stupa marking the Jataka tale of a prince who gave his body to a starving tigress. Have lunch at the monastery restaurant, then our car drives you back to Kathmandu via Panauti or the Araniko Highway.",
+      "meals": "B, L"
+    },
+    {
+      "day": 6,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 20–30 min",
+      "flight": "",
+      "text": "A free morning before the airport transfer. If your flight is late, walk to the Garden of Dreams for an hour of quiet, or take a taxi to Boudhanath for a last kora and a rooftop coffee facing the stupa. Your guide will have returned the duffel bag and settled any lodge bills. Our driver collects you three hours before an international departure. If you have a few more days, the same guide can take you on to a longer trek in Langtang or the Annapurna foothills.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["club-himalaya-nagarkot", "dhulikhel-mountain-resort"],
+  "includes": [
+    "2 nights in a 3-star Kathmandu hotel with breakfast",
+    "1 night in a lodge at Chisapani, 1 night at Club Himalaya, Nagarkot, and 1 night at Dhulikhel Mountain Resort, twin sharing",
+    "All meals on the trek, days 2–5 (lunch on day 5 at Namobuddha)",
+    "Licensed English- or Hindi-speaking trekking guide",
+    "Porter service (1 porter per 2 trekkers, 10 kg each)",
+    "Shivapuri Nagarjun National Park entry fee and any trekking registration required",
+    "Private car to Sundarijal and from Namobuddha to Kathmandu",
+    "Airport pick-up and drop-off",
+    "First aid kit carried by the guide"
+  ],
+  "excludes": [
+    "International flights or travel to the Nepal border",
+    "Nepal visa fee for non-Indian passport holders",
+    "Drinks, snacks and bottled water on the trail",
+    "Lunch and dinner in Kathmandu",
+    "Travel insurance covering trekking",
+    "Hot showers and phone charging at Chisapani if the lodge charges extra",
+    "Tips for guide and porters",
+    "Personal trekking gear"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing, a 3-star Kathmandu hotel, one porter for every two trekkers and a private guide; larger groups pay less per person.",
+    "Shivapuri Nagarjun National Park charges an entry fee at the Sundarijal gate, roughly NPR 300–1,000 depending on nationality. TIMS and licensed-guide rules also change; check current status before you travel.",
+    "Grade: Easy. You need to be able to walk 6–7 hours on day 3 with short climbs and long descents. Trainers with good grip work in dry months; light boots are better after rain.",
+    "Altitude stays below about 2,215 m, so acute mountain sickness is not a realistic concern; still drink 2–3 litres of water a day.",
+    "Nights at Chisapani and Nagarkot drop close to 0 °C from December to February; bring a warm layer and a hat."
+  ],
+  "add_ons": [
+    {"name": "Extra day: Nagarkot to Changunarayan and Bhaktapur on foot", "price": "≈ ₹6,000 / US$ 85 per person"},
+    {"name": "Overnight at the Namobuddha monastery area instead of driving back", "price": "≈ ₹4,000 / US$ 55 per person"}
+  ],
+  "faqs": [
+    {"q": "How difficult is the Kathmandu Valley rim trek?", "a": "It is graded Easy. Walking days run 3–7 hours on good trails, forest paths and farm tracks, with the hardest climb of about 750 m on day 2 from Sundarijal to Chisapani. No technical skills are needed. If you can walk 10–15 km on a hilly day at home, you will manage comfortably."},
+    {"q": "Do we need permits for the Chisapani Nagarkot trek?", "a": "You pay an entry fee to Shivapuri Nagarjun National Park at the Sundarijal gate, roughly NPR 300–1,000 depending on nationality. TIMS requirements and Nepal's licensed-guide rule for foreign trekkers have changed several times since 2023, so check current status before you travel. Our licensed guide handles all paperwork, and the cost is in your price."},
+    {"q": "Can we get altitude sickness on this trek?", "a": "Altitude sickness is not a real concern here. The highest point is Chisapani at about 2,215 m and you sleep no higher than that, while symptoms usually begin above 2,500–3,000 m. Breathlessness on the climb is just effort. Drink water, keep a steady pace, and you will feel normal by evening."},
+    {"q": "What will we see from Chisapani and Nagarkot?", "a": "On clear mornings, from October to February especially, you see Ganesh Himal, Langtang Lirung, the Jugal range including Dorje Lakpa, and Gauri Shankar to the east. From Nagarkot, Everest sometimes appears as a small peak on the far eastern horizon. From late March to May haze often hides the mountains after the first hour of sunlight."},
+    {"q": "Is this trek suitable for children and beginners?", "a": "Yes, for children of about 10 and older who are used to walking, and for adult beginners. Day 3 is long at 6–7 hours, so we can shorten it with a jeep transfer for part of the route if young legs tire. Porters carry the bags, and three of four nights have hot showers."},
+    {"q": "What kind of accommodation is there on the rim trek?", "a": "Chisapani has simple lodges with twin rooms, shared or basic attached bathrooms and a dining room with dal bhat and noodles. Nagarkot and Dhulikhel have proper resorts: we use Club Himalaya and Dhulikhel Mountain Resort, both with mountain-facing rooms and hot water. Kathmandu nights are in a 3-star hotel."},
+    {"q": "When is the best time for the Kathmandu valley rim trek?", "a": "October to December gives the clearest views and dry trails. February to April is warm, with rhododendrons flowering in the Shivapuri forest in March. January nights are cold but views are often superb. In the June–September monsoon trails are muddy and leech-prone and views are rare, so we do not recommend it."},
+    {"q": "Can I do the rim trek without a guide?", "a": "Trails are well used, but junctions between Chisapani and Nagarkot are confusing and poorly signed, and current rules may require foreign trekkers to walk with a licensed guide in protected areas. A guide also handles the park fee, lodge bookings and porters. Check current status before you travel if you plan to go independently."},
+    {"q": "How much walking is there each day?", "a": "Day 2 is 4–5 hours and about 12 km from Sundarijal to Chisapani. Day 3 is the longest at 6–7 hours and about 18 km to Nagarkot. Day 4 is 5–6 hours and about 16 km, mostly downhill to Dhulikhel. Day 5 is 3–4 hours and about 10 km to Namobuddha, then a drive."}
+  ]
+}

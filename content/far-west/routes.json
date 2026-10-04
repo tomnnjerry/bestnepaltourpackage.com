@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "nepalgunj-to-simikot",
+    "from": "nepalgunj",
+    "to": "simikot",
+    "distance_km": 215,
+    "summary": "Simikot has no reliable road link to the south, so almost everyone flies the 215 km from Nepalgunj in a small plane in about 40–50 minutes. Helicopters take about 1 h 15 min. Overland routes involve long drives and a week or more of trekking.",
+    "options": [
+      {"mode": "Flight", "time": "40–50 min", "text": "Twin Otter and Dornier aircraft fly Nepalgunj–Simikot most mornings in season, usually between 6 and 9 am before wind picks up in the hills. Seats are limited, and in the Kailash season from May to September they sell out early. Baggage is typically 15 kg including hand luggage. Cloud and wind cause frequent delays, so plan at least one spare day. Check current schedules before you travel."},
+      {"mode": "Helicopter", "time": "≈ 1 h 15 min", "text": "Charter helicopters fly direct from Nepalgunj, useful when scheduled flights are full or when groups need to keep to a Kailash timetable. A 5-seat helicopter carries fewer passengers at Simikot's 2,910 m than at sea level, so groups often move in shuttles. Charters cost several thousand US dollars per helicopter and fly only in the morning."},
+      {"mode": "Road + trek", "time": "10–14 days", "text": "There is no practical road to Simikot from the south. You can drive the Karnali Highway to Jumla (≈ 340 km · 12–14 h) and trek north through Mugu and Humla for 8–10 days, a route used by Great Himalaya Trail walkers. The Karnali Corridor road from Bajura is under construction; check current status before you travel."}
+    ],
+    "stops_on_way": ["Surkhet (on some flight routings)", "Jumla (overland trek route)", "Rara Lake (overland trek route)"],
+    "tip": "Stay overnight in Nepalgunj close to the airport, pack within 15 kg and leave extra bags at your hotel.",
+    "faqs": [
+      {"q": "How long is the flight from Nepalgunj to Simikot?", "a": "About 40–50 minutes in a Twin Otter or Dornier. Flights usually leave between 6 and 9 am because wind and cloud build in the mountains later in the day. Expect delays: weather at Simikot, at 2,910 m, often holds flights for hours or cancels them until the next morning."},
+      {"q": "How much is the Nepalgunj–Simikot flight?", "a": "Fares for foreign nationals have generally been in the range of about US$150–250 one way, with lower fares for Nepali citizens. Prices rise in the Kailash season when demand is high. Fares and schedules change, so check current status before you travel; our packages include the flights."},
+      {"q": "Can I drive from Nepalgunj to Simikot?", "a": "Not in practice. Humla has no reliable road link to the rest of Nepal. The Karnali Corridor road from Bajura is being built towards Hilsa, but it is not a dependable tourist route. Overland travellers drive to Jumla and trek 8–10 days north, which suits experienced trekkers only."},
+      {"q": "What if my Simikot flight is cancelled?", "a": "You are normally rebooked on the next morning's first available flight. In busy seasons that can mean a wait of one or two days. Kailash groups sometimes switch to charter helicopters to stay on schedule. Always build spare days into any Simikot itinerary and avoid tight international connections."}
+    ]
+  },
+  {
+    "slug": "nepalgunj-to-bardia-national-park",
+    "from": "nepalgunj",
+    "to": "bardia-national-park",
+    "distance_km": 95,
+    "summary": "Thakurdwara, the main base for Bardia National Park, is about 95 km from Nepalgunj: 2.5–3 hours by car via Kohalpur and the East–West Highway to Ambassa, then 20 km of village road. Buses run to Ambassa, with local jeeps for the last stretch.",
+    "options": [
+      {"mode": "Private car", "time": "2.5–3 h", "text": "The easiest option. Drive east from Nepalgunj to Kohalpur, then along the East–West Highway through the forest of Banke National Park to Ambassa, and turn north on the road to Thakurdwara. Most lodges arrange pick-up from Nepalgunj airport or the Rupaidiha border. Expect around ₹6,000–8,000 per car one way, depending on vehicle and season."},
+      {"mode": "Bus + local jeep", "time": "3.5–4.5 h", "text": "Buses towards Mahendranagar or Dhangadhi from Nepalgunj or Kohalpur stop at Ambassa on the highway. From there, local jeeps or shared vehicles run to Thakurdwara, or your lodge can collect you. Cheap but slower and crowded, with luggage on the roof. Best done in daylight and in the cooler months."},
+      {"mode": "From India", "time": "6–7 h from Lucknow", "text": "Drive Lucknow–Bahraich–Rupaidiha (≈ 190 km), cross at Jamunaha into Nepalgunj, and continue to Bardia, about 280 km in total. Indian citizens need a passport or voter ID. Private Indian cars need a Nepal customs permit, so many families switch to a Nepali car at the border."}
+    ],
+    "stops_on_way": ["Kohalpur", "Banke National Park (highway passes through)", "Ambassa junction"],
+    "tip": "Take a morning flight from Kathmandu to Nepalgunj and you can be on an afternoon jungle walk in Bardia the same day.",
+    "faqs": [
+      {"q": "How far is Bardia from Nepalgunj airport?", "a": "About 95 km to Thakurdwara, the main lodge village beside the park headquarters. The drive takes 2.5–3 hours via Kohalpur, the East–West Highway and Ambassa. Lodges in other parts of the buffer zone may be a little further. Most Bardia packages include the airport transfer."},
+      {"q": "Is there a bus from Nepalgunj to Bardia?", "a": "Yes, westbound buses from Nepalgunj or Kohalpur stop at Ambassa on the East–West Highway, and local jeeps or lodge vehicles cover the last 20 km to Thakurdwara. It takes 3.5–4.5 hours in total. A private car is far more comfortable, especially with luggage or in the heat."},
+      {"q": "Can I drive from Lucknow to Bardia in one day?", "a": "Yes. It is about 280 km and 6–7 hours via Bahraich, the Rupaidiha border and Nepalgunj, plus time for border formalities. Leave Lucknow early to arrive before dark. Indian citizens need a passport or voter ID; Indian private vehicles need a Nepal customs permit at the border."},
+      {"q": "What is the road like from Nepalgunj to Bardia?", "a": "Mostly good. The East–West Highway is paved, though busy with trucks, and passes through the forest of Banke National Park where wildlife occasionally crosses. The final 20 km from Ambassa to Thakurdwara is a narrower village road. Avoid driving after dark because of livestock and poor lighting."}
+    ]
+  },
+  {
+    "slug": "nepalgunj-to-rara-lake",
+    "from": "nepalgunj",
+    "to": "rara-lake",
+    "distance_km": 170,
+    "summary": "Rara Lake is about 170 km north of Nepalgunj in a straight line but two days by road. Most visitors fly 45 minutes to Talcha and walk 1.5–2 hours to the lake. Helicopters take about 1 h 10 min; trekkers fly to Jumla and walk 5–6 days.",
+    "options": [
+      {"mode": "Flight + walk", "time": "45 min + 1.5–2 h walk", "text": "Small planes fly Nepalgunj–Talcha a few times a week, usually in the morning, landing at about 2,700 m. From the airstrip a gentle trail climbs about 300 m through fields and pine forest to the lake shore. Services depend on demand and weather; book early, carry no more than 15 kg and keep a spare day. Check current schedules before you travel."},
+      {"mode": "Helicopter", "time": "≈ 1 h 10 min", "text": "Charter helicopters fly from Nepalgunj to Rara for day tours or drop-offs, with views over the Karnali hills and the Kanjiroba range. A 5-seat charter costs around US$5,500–6,800 return including ground time. Flights leave early before cloud builds. Landing arrangements inside the national park are controlled, so we confirm them for each booking."},
+      {"mode": "Road by jeep", "time": "2 days", "text": "Drive Nepalgunj–Surkhet–Karnali Highway to Jumla (≈ 340 km · 12–14 h), overnight, then continue via Nagma towards Gamgadhi and the Rara area (≈ 100 km · 5–7 h). The road is narrow, partly unpaved and prone to landslides from June to September. It shows the Karnali gorge but is tiring."},
+      {"mode": "Flight + trek", "time": "40 min + 5–6 days", "text": "Fly Nepalgunj–Jumla and trek to Rara via Chere Chaur, the Jaljala pass, Chalachaur, Sinja and Pina, crossing Ghurchi Lagna. This is the classic Rara trek, moderate in grade, with camping and simple lodges. Fly out from Talcha at the end."}
+    ],
+    "stops_on_way": ["Surkhet (Birendranagar)", "Jumla", "Sinja Valley (trek route)", "Talcha airstrip"],
+    "tip": "Sit on the right side of the plane from Nepalgunj to Talcha for views of the western Himalaya on clear mornings.",
+    "faqs": [
+      {"q": "What is the fastest way from Nepalgunj to Rara Lake?", "a": "A charter helicopter, about 1 hour 10 minutes direct to the lake. The scheduled flight to Talcha takes about 45 minutes plus a 1.5–2 hour walk, and is far cheaper. By road it takes two days via Surkhet and Jumla. Trekking from Jumla takes 5–6 days."},
+      {"q": "How often are there flights from Nepalgunj to Talcha?", "a": "Flights operate a few times a week in the main seasons, more often in October and around the Nepali New Year in April when domestic demand peaks. They depend on bookings and weather and can be cancelled at short notice. Book well ahead and keep a spare day. Check current schedules before you travel."},
+      {"q": "Can I drive from Nepalgunj to Rara Lake?", "a": "Yes, by jeep in about two days: Nepalgunj to Jumla on the Karnali Highway, then on towards Gamgadhi and the Rara area. Roads are rough and narrow in places and often blocked by landslides in the monsoon. Hire an experienced local driver and avoid travelling after dark."},
+      {"q": "How far is Talcha airport from Rara Lake?", "a": "About 4–5 km, a 1.5–2 hour walk with roughly 300 m of ascent through fields and pine forest, or a short ride where the track is open to vehicles. Porters carry luggage. Many travellers stay at Talcha on their last night to be sure of catching the morning flight."}
+    ]
+  }
+]

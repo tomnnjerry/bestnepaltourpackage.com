@@ -1,0 +1,130 @@
+{
+  "slug": "meghauli",
+  "name": "Meghauli",
+  "region": "chitwan",
+  "kind": "border town",
+  "wiki": "Meghauli",
+  "image_query": "Meghauli grassland Chitwan Rapti river",
+  "lat": 27.58,
+  "lng": 84.21,
+  "altitude_m": 150,
+  "tagline": "West Chitwan's quiet grasslands and riverside safari lodges",
+  "meta_description": "Meghauli, west Chitwan: luxury safari lodges, grassland birding, Rapti river boat trips, best months and how to reach Meghauli from Kathmandu and Bharatpur.",
+  "summary": "Meghauli is a farming village on the western edge of Chitwan National Park, where the Rapti meets the Narayani. Its open grasslands hold rhino, tiger and the rare Bengal florican, and its riverside lodges, including Meghauli Serai and Barahi Jungle Lodge, are Chitwan's most comfortable. Plan three nights.",
+  "intro": [
+    "Meghauli lies about 35 km west of Bharatpur, where the Rapti river curves south to join the Narayani. It is now part of Bharatpur Metropolitan City but still feels rural: mustard and rice fields, Tharu and hill-migrant farmhouses, and buffalo carts on dirt lanes. Across the river lies one of the largest open grasslands in the park, the Meghauli phanta, once the airstrip for Nepal's earliest safari lodge and now prime habitat for rhino, hog deer and grassland birds.",
+    "What sets Meghauli apart from Sauraha is space. Far fewer jeeps use the western sector, lodges are spread along the riverbank rather than packed together, and the views from your terrace look straight into the park. That is why the high-end properties chose this stretch: Meghauli Serai, A Taj Safari and Barahi Jungle Lodge both sit on the Rapti here, with naturalists, boat crossings and private safari vehicles.",
+    "Meghauli suits honeymooners, photographers and families who would rather pay more for quiet. It is also the best base for birders after grassland specialists such as the Bengal florican, swamp francolin and slender-billed babbler, and for gharial watching on the Narayani. The trade-off is distance: it is around an hour from Bharatpur Airport, and there is little to do in the village after dark beyond the lodge itself."
+  ],
+  "facts": [
+    ["Altitude", "≈ 150 m"],
+    ["Best months", "Oct – Apr; Feb – Apr for grassland wildlife"],
+    ["Nights we suggest", "3"],
+    ["Nearest airport", "Bharatpur (≈ 35 km · 1 h)"],
+    ["From Kathmandu", "≈ 190 km · 6–7 h by road"],
+    ["Known for", "Luxury lodges, open grassland, birding, gharial"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "3",
+  "highlights": [
+    {"title": "Meghauli phanta grassland", "text": "The open grassland across the Rapti is among the best places in Chitwan to watch rhino grazing in the open and to scan for tiger at the forest edge. After the annual grass-cutting in January and February, visibility is excellent from the jeep tracks."},
+    {"title": "Riverside luxury lodges", "text": "Meghauli Serai and Barahi Jungle Lodge face the park across the Rapti, with private terraces, pools and naturalist-led activities included in full-board packages. Both are a short boat crossing from the park boundary."},
+    {"title": "Bengal florican and grassland birds", "text": "The Meghauli grasslands are one of the few places in Nepal where the endangered Bengal florican still displays in spring. Birders also look for swamp francolin, grass owls and several warblers found only in tall grassland."},
+    {"title": "Gharial on the Narayani", "text": "Near the confluence of the Rapti and Narayani, gharial bask on sandbanks in winter and spring. Boat trips and riverbank walks from the lodges give better odds than the busier Sauraha stretch."},
+    {"title": "Tharu and farming villages", "text": "Short walks or bicycle rides from the lodges pass Tharu homes, mustard fields and village schools. Some lodges run their own community projects and can arrange respectful visits."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Bharatpur in about 25 minutes, then drive ≈ 35 km · 1 h west to Meghauli via Bharatpur town and Parsa Bazaar. Lodges usually send their own vehicle. This is the quickest route and the one we use for luxury packages."},
+    {"mode": "Road", "text": "Kathmandu to Meghauli is ≈ 190 km · 6–7 h via Mugling, Narayangarh and the Mahendra Highway west to Parsa Bazaar, then south on a smaller road. From Pokhara it is ≈ 175 km · 5.5–6.5 h, and from Lumbini ≈ 140 km · 4 h."}
+  ],
+  "where_to_stay": "Meghauli has a handful of riverside lodges rather than a village of hotels. Meghauli Serai, A Taj Safari is the most polished, with river-view rooms and villas, some with plunge pools, and Taj service. Barahi Jungle Lodge, on the bank at Andrauli, offers thatched cottages, a pool and a full activity programme at a slightly lower price. A few smaller community homestays exist in the village. Both main lodges sell full-board packages with activities and naturalists, so rates are higher than in Sauraha but most extras are covered.",
+  "stays": ["meghauli-serai-taj-safari", "barahi-jungle-lodge"],
+  "tips": [
+    "Fly to Bharatpur rather than drive if you have only three nights; it saves almost a full day.",
+    "Ask your lodge for a full-day jeep safari into the western grasslands in February to April for the best tiger odds.",
+    "Birders should request a specialist naturalist in advance; lodges assign guides by interest.",
+    "Bring cash for tips and village shops; card payment is available only at the lodges.",
+    "Evenings are quiet with little outside the lodge, so pack a book and binoculars for the terrace."
+  ],
+  "themes": ["wildlife-safari", "luxury-nepal", "honeymoon", "photography", "family-holidays"],
+  "nearby": ["chitwan-national-park", "barauli", "bharatpur"],
+  "experiences": [
+    {
+      "slug": "meghauli-grassland-birding",
+      "title": "Grassland birding at Meghauli",
+      "kind": "wildlife",
+      "duration": "4–5 hours",
+      "best_time": "Dawn, Feb–May; winter migrants Nov–Feb",
+      "price_hint": "Included at most Meghauli lodges; ≈ US$ 40–70 with a specialist",
+      "image_query": "Bengal florican grassland Nepal",
+      "wiki": "Bengal florican",
+      "summary": "A dawn walk and jeep drive through the Meghauli phanta with a birding naturalist targets grassland specialists, above all the endangered Bengal florican, plus storks, raptors and wintering waterfowl on the river.",
+      "body": [
+        "We leave the lodge at first light, cross the Rapti by boat and work the edges of the grassland on foot and by jeep. In spring, male Bengal floricans make their display flights above the short grass, leaping into the air with a flash of white wings before parachuting down. It is one of the rarest bustards in the world, and Chitwan's western grasslands remain one of its strongholds in Nepal.",
+        "The same morning usually turns up lesser adjutant and woolly-necked storks, crested serpent eagles, red junglefowl and a mix of prinias, warblers and munias in the grass. On the riverbank you may find black-bellied terns, river lapwings and wintering ducks between November and February. Our naturalists use calls, scopes and field guides and keep a list for you at the end of the trip.",
+        "Grassland birding is hot work after 10 am from March, so plan to be back for a late breakfast and rest at midday. Bring binoculars, a long lens if you have one, a hat and neutral clothing. The grass is cut and burned in January and February, which opens the views but makes the area look scorched for a few weeks."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Can I see the Bengal florican in Chitwan?", "a": "Yes, with luck and the right season. The best time is March to May, when males display over the short grass in the western grasslands near Meghauli. Sightings are not guaranteed because numbers are small. A specialist birding naturalist who knows the display areas improves your chances considerably."},
+        {"q": "Is Meghauli better than Sauraha for birding?", "a": "For grassland species, yes. Meghauli has larger open grasslands and fewer vehicles, which suits floricans, francolins and grass warblers. Sauraha and Bishazari Tal are better for forest and wetland birds. Keen birders often split their stay between the two areas."},
+        {"q": "Do I need my own binoculars for birding in Chitwan?", "a": "Bring your own if you can. Lodges have some binoculars to lend and naturalists carry a scope, but having a pair each makes a big difference. An 8x42 or 10x42 is ideal. A small field guide or a birding app helps too."}
+      ]
+    },
+    {
+      "slug": "meghauli-tharu-village-walk",
+      "title": "Meghauli Tharu village walk",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Oct–Mar",
+      "price_hint": "Included at most Meghauli lodges",
+      "image_query": "Tharu house Meghauli village",
+      "wiki": "",
+      "summary": "An easy walk from the lodge through Meghauli's Tharu hamlets, fields and village market, with a naturalist who explains farming, festivals and how families live beside the park.",
+      "body": [
+        "The walk leaves the lodge gate and follows field paths into the nearest Tharu hamlet. Houses are low, with thick mud walls and verandas where grain dries in winter; many have painted clay reliefs around doors and windows. Depending on the season you might see rice being threshed by hand, mustard in flower, or women planting paddy in the monsoon.",
+        "Your guide explains how the Tharu, long known for resistance to malaria, farmed the Terai for centuries before the 1950s eradication programme brought settlers from the hills, and how the creation of the park changed land and grazing. You also see the buffer-zone programmes that put part of park income into village schools, health posts and electric fencing against crop-raiding rhinos and elephants.",
+        "The walk is flat, 3 to 4 km, and ends in time for sunset at the river. It suits all ages. Please ask before taking photographs of people or entering courtyards, and if you would like to contribute to a school or community project, ask the lodge rather than giving money or sweets to children directly."
+      ],
+      "good_for": ["families", "couples", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Who are the Tharu people of Chitwan?", "a": "The Tharu are an indigenous people of Nepal's Terai and among the oldest communities in Chitwan. They farmed the forest edges for centuries and had a reputation for resistance to malaria. They have their own languages, festivals, dances and house styles, and today make up a large part of the population around the park."},
+        {"q": "Is the Meghauli village walk worth it?", "a": "Yes, especially between safaris. It shows rural Terai life with no staging, and it explains the link between the park and the people who live around it. It is short and gentle and fits well into a late afternoon before sunset at the river."},
+        {"q": "Can I visit a Tharu home in Meghauli?", "a": "Usually, with your guide, who knows which families welcome visitors. You may be offered tea or shown the kitchen and grain store. Keep visits short, remove shoes if asked, and ask before photographing. Lodges often support specific households, which keeps visits respectful."}
+      ]
+    },
+    {
+      "slug": "meghauli-rapti-boat-safari",
+      "title": "Sunset boat safari on the Rapti",
+      "kind": "water",
+      "duration": "1.5–2 hours",
+      "best_time": "Late afternoon, Oct–May",
+      "price_hint": "Included at most Meghauli lodges",
+      "image_query": "Rapti river boat Meghauli sunset",
+      "wiki": "",
+      "summary": "A slow boat on the Rapti at the edge of the Meghauli grassland in the last light, watching for rhino and deer coming to drink, crocodiles on the sandbanks and egrets flying to roost.",
+      "body": [
+        "Meghauli lodges run boat trips on the Rapti in the late afternoon, using wooden boats or dugouts poled by a boatman. You drift along the park side of the river, past sandbanks where mugger crocodiles and sometimes gharial bask, and below the grassland edge where rhino, spotted and hog deer come to the water as the heat goes out of the day.",
+        "Birdlife is busy at this hour: egrets and cormorants fly in to roost, kingfishers fish from overhanging branches, and in winter flocks of ruddy shelduck rest on the gravel bars. The sun sets behind the Churia hills to the west, and on clear days in October and November you may see a faint line of Himalayan peaks to the north before the haze rises.",
+        "The trip ends with drinks on the riverbank at some lodges, then a short drive or walk back before dark. It is gentle and suits all ages, though young children need to sit still. Bring a light jacket in December and January, when temperatures drop quickly after sunset."
+      ],
+      "good_for": ["couples", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Will I see rhinos on the Meghauli boat safari?", "a": "Often. Rhinos graze the grassland edge and come to the river in the late afternoon, especially from February to May. Spotted deer, mugger crocodiles and plenty of water birds are almost certain. Nothing is guaranteed, but this stretch is quieter than Sauraha and animals are less wary."},
+        {"q": "Is the boat safari safe for children?", "a": "Yes, with care. The boats are stable on a slow river, and children should sit in the middle and stay seated. Ask the lodge for child life jackets in advance. The trip lasts under two hours, which suits younger children."},
+        {"q": "Is the boat ride the same as the canoe in Sauraha?", "a": "It is similar but quieter. Sauraha canoes follow a set route through a busier stretch, while Meghauli lodges use wider sections of the Rapti near the grassland and the Narayani confluence. Wildlife is often closer and boats fewer, and the trip is usually included in the lodge package."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Meghauli worth it over Sauraha?", "a": "If you want quiet, space and a high-end lodge, yes. Meghauli's sector of the park has fewer vehicles and big open grassland, and its lodges include naturalists and activities. It costs more and is farther from the airport. For a short budget trip, Sauraha is simpler; for a honeymoon or a serious safari, Meghauli."},
+    {"q": "How do I get to Meghauli from Kathmandu?", "a": "Fly to Bharatpur in about 25 minutes and drive an hour west, or drive the whole way, about 190 km and 6–7 hours via Mugling and Narayangarh. Lodges send vehicles to Bharatpur Airport. We use flights on luxury packages to save time."},
+    {"q": "What wildlife can I see in Meghauli?", "a": "Rhino, spotted and hog deer, wild boar, gaur, mugger crocodile and gharial are regular. Tigers use the western grasslands and are seen more often here than in busier sectors, though never guaranteed. Birders can find Bengal florican, storks, hornbills and many raptors."},
+    {"q": "Which lodges are in Meghauli?", "a": "The best known are Meghauli Serai, A Taj Safari and Barahi Jungle Lodge, both on the Rapti facing the park. A few smaller lodges and community homestays operate nearby. We use the two main lodges for our luxury and birding packages."},
+    {"q": "How many nights should I spend in Meghauli?", "a": "Three nights is ideal. That allows a full-day jeep safari, a morning walk or birding session, a boat trip, a village walk and time to enjoy the lodge. Two nights is possible if you fly to Bharatpur, but feels rushed given the travel time."},
+    {"q": "Is Meghauli good for a honeymoon?", "a": "Very. Riverside rooms and villas, private terraces, pools and candle-lit dinners make Meghauli the most romantic base in Chitwan. Some villas at Meghauli Serai have plunge pools. Combine three nights here with Kathmandu and Pokhara for a 7–8 night honeymoon."},
+    {"q": "When is the best time to visit Meghauli?", "a": "October to April. February to April is best for wildlife after the grass is cut, and March to May for the Bengal florican. December and January are cool and foggy in the mornings. From mid-June to mid-September monsoon floods close many tracks, and some lodges offer reduced programmes."},
+    {"q": "Is there an airport at Meghauli?", "a": "Meghauli has an old airstrip that once served the first safari lodges, but scheduled flights do not use it. The working airport is Bharatpur, about an hour's drive east, with several daily flights from Kathmandu. Charter helicopters can land at some lodges by arrangement."},
+    {"q": "Can I visit Meghauli on a budget?", "a": "Meghauli has few budget options beyond a couple of homestays. If cost matters, stay in Sauraha and book a day trip or a full-day jeep safari that reaches the western grasslands. For the full Meghauli experience, a two- or three-night lodge package is the way to go."}
+  ]
+}

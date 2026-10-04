@@ -1,0 +1,83 @@
+{
+  "slug": "chitwan-luxury-safari-3-nights",
+  "title": "Chitwan Luxury Safari at Meghauli 3 Nights",
+  "region": "chitwan",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 3,
+  "themes": ["luxury-nepal", "wildlife-safari", "honeymoon", "photography"],
+  "stops": [{"place": "meghauli", "nights": 3}, {"place": "chitwan-national-park", "nights": 0}],
+  "start": "Kathmandu (domestic airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 116000,
+  "price_from_usd": 1390,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Meghauli Serai, A Taj Safari, river-view room, full board",
+  "transport": "Kathmandu–Bharatpur return flights, private lodge transfers",
+  "group": "Private, 2–6",
+  "meta_description": "Chitwan luxury safari 3 nights 4 days at Meghauli Serai, A Taj Safari: flights from Kathmandu, private naturalist, jeep, boat and walking safaris. From US$ 1,390.",
+  "summary": "Three nights at Meghauli Serai, A Taj Safari, on the Rapti facing Chitwan's western grasslands, with return flights from Kathmandu, all meals and a programme of jeep, boat, walking and birding safaris led by the lodge's naturalists. Chitwan at its most comfortable, ideal for honeymoons and special occasions.",
+  "intro": [
+    "Meghauli in west Chitwan is the quiet side of the park: open grassland across the Rapti, fewer jeeps, and riverside lodges instead of a busy village. Meghauli Serai, run by Taj Safaris, is the most polished of them, with river-view rooms and villas built in a style drawn from Tharu houses, a pool, a spa and naturalists who plan each day around what you want to see. This package flies you in and out, so you spend your time on safari rather than on the road.",
+    "We build the programme with the lodge: a full-day jeep safari into the western grasslands, morning and evening boat trips, a walking safari or birding session, and a Tharu village visit, with time to enjoy the pool and the terrace. It suits honeymooners, anniversaries, families who want Taj standards, and photographers who value quiet sightings. Upgrades to a villa with a private plunge pool are available on request."
+  ],
+  "highlights": [
+    "Three nights at Meghauli Serai, A Taj Safari, with all meals",
+    "Full-day jeep safari into the Meghauli grasslands",
+    "Sunset boat safari on the Rapti with drinks on the riverbank",
+    "Walking safari or birding with a lodge naturalist",
+    "Tharu village walk and spa time at the lodge",
+    "Return flights Kathmandu–Bharatpur with private transfers"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bharatpur, sunset boat safari", "place": "meghauli", "overnight": "Meghauli", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "≈ 35 km · 1 h", "flight": "Kathmandu–Bharatpur · 25 min", "text": "A morning flight from Kathmandu crosses the Mahabharat hills in about 25 minutes. The lodge vehicle meets you at Bharatpur Airport and drives an hour west through Bharatpur and Parsa Bazaar to Meghauli, arriving in time for lunch on the terrace overlooking the Rapti. After a rest, your naturalist takes you by boat along the park side of the river as the light softens, watching for rhino and deer at the grassland edge and mugger crocodiles on the sandbanks. Drinks on the riverbank at sunset, then dinner at the lodge.", "meals": "L, D"},
+    {"day": 2, "title": "Full-day jeep safari in the grasslands", "place": "chitwan-national-park", "overnight": "Meghauli", "altitude_m": 150, "max_m": 200, "walk": "", "drive": "Jeep safari ≈ 8 h · 50–60 km", "flight": "", "text": "Cross the Rapti after an early breakfast and spend the day in the western sector of the park with your naturalist and a dedicated jeep. The Meghauli grassland is among the best places in Chitwan to watch rhinos grazing in the open and to scan for tiger at the forest edge; gaur, hog deer, wild boar and sloth bear are possible. A picnic lunch is served in the forest. The route varies with recent sightings and the season; in February to April, after the grass is cut, visibility is at its best. Return to the lodge for a late afternoon by the pool.", "meals": "B, L, D"},
+    {"day": 3, "title": "Birding walk, village visit and spa", "place": "meghauli", "overnight": "Meghauli", "altitude_m": 150, "max_m": 150, "walk": "≈ 4 h · 6–8 km in total", "drive": "", "flight": "", "text": "Choose a dawn walking safari with two naturalists, following tracks along the forest edge, or a birding session in the grassland, looking for Bengal florican in spring, storks, raptors and hornbills. After breakfast the middle of the day is yours: spa treatments, the pool, or simply watching the river from your terrace. In the late afternoon, walk through a nearby Tharu village with a naturalist to see farm life beside the park, then a final dinner at the lodge, which can be set up privately by the river for couples.", "meals": "B, L, D"},
+    {"day": 4, "title": "Morning canoe, fly back to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 35 km · 1 h", "flight": "Bharatpur–Kathmandu · 25 min", "text": "A last early outing on the Rapti by canoe or boat, when mist lifts off the water and kingfishers and egrets are busy, then breakfast at the lodge. Drive back to Bharatpur Airport for the midday flight to Kathmandu, about 25 minutes. On arrival we transfer you to your hotel or the international terminal. For international departures, book flights after 4 pm to allow a buffer for domestic delays.", "meals": "B"}
+  ],
+  "stays": ["meghauli-serai-taj-safari"],
+  "includes": [
+    "Kathmandu–Bharatpur return flights in economy",
+    "Private transfers between Bharatpur Airport and the lodge",
+    "Three nights at Meghauli Serai, A Taj Safari, river-view room, twin sharing",
+    "All meals at the lodge from lunch on day 1 to breakfast on day 4",
+    "Full-day jeep safari with picnic lunch",
+    "Boat safari, canoe trip, walking safari or birding with lodge naturalists",
+    "Tharu village walk",
+    "Chitwan National Park entry fees",
+    "Applicable taxes on lodge services"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights and airport transfers in Kathmandu",
+    "Alcoholic drinks and premium beverages",
+    "Spa treatments",
+    "Villa with private plunge pool (available as an upgrade)",
+    "Elephant activities of any kind (we do not book them)",
+    "Tips for lodge staff and naturalists",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "The price is per person, twin sharing, in a river-view room in regular season; peak dates such as Christmas, New Year and Diwali cost more.",
+    "Lodge activities are scheduled by the naturalists each day based on sightings and weather.",
+    "Flights in December and January can be delayed by fog; the lodge can transfer by road if needed.",
+    "Walking safaris have a minimum age set by the lodge and park; children enjoy the jeep and boat trips.",
+    "Meghauli Serai's rates and policies are set by Taj; we confirm the current terms at booking."
+  ],
+  "add_ons": [
+    {"name": "Upgrade to a villa with private plunge pool", "price": "On request, subject to availability"},
+    {"name": "Private helicopter transfer Kathmandu–Meghauli", "price": "On request, per helicopter"},
+    {"name": "Extra night at Meghauli Serai, full board", "price": "≈ US$ 380 per person"}
+  ],
+  "faqs": [
+    {"q": "What is the cost of a luxury Chitwan safari?", "a": "Our 3-night package at Meghauli Serai, A Taj Safari, starts from about US$ 1,390 or ₹1,16,000 per person twin sharing, including return flights, all meals, naturalist-led activities and park fees. Peak holiday dates and villa upgrades cost more. Prices depend on Taj's rates for your dates, which we confirm at booking."},
+    {"q": "Is Meghauli Serai the best hotel in Chitwan?", "a": "It is the most polished option, with Taj service, river-view rooms and villas facing the park and an experienced naturalist team. Barahi Jungle Lodge nearby is another excellent riverside lodge at a lower price, and Kasara Resort offers private-pool villas closer to the airport. We can quote all three."},
+    {"q": "Is a Meghauli luxury safari good for a honeymoon?", "a": "Very. Riverside rooms, private dinners by the river, spa treatments and quiet safaris make it one of the most romantic stays in Nepal. Many couples combine it with two nights in Kathmandu and two or three in Pokhara for a week-long honeymoon. Tell us it is a honeymoon and we will ask the lodge to prepare the room."},
+    {"q": "Will we see tigers from Meghauli?", "a": "The western grasslands are among the best areas in Chitwan for tiger sightings, and the full-day jeep safari gives a real chance, especially from February to May. Still, tigers are wild and shy and sightings are never guaranteed. Rhinos are seen on almost every safari here."},
+    {"q": "Can we drive instead of flying to Meghauli?", "a": "Yes. Kathmandu to Meghauli is about 190 km and 6–7 hours by private car via Mugling and Narayangarh. The package price drops slightly, but you lose most of the first and last days to the road. Flying is the better choice on a 3-night trip."},
+    {"q": "Is Meghauli Serai suitable for children?", "a": "Yes. Families are welcome, rooms are spacious and the pool is popular with children. Jeep and boat safaris suit all ages. Walking safaris have age limits. Naturalists are good at engaging children with tracks, birds and animal stories."},
+    {"q": "What is included in the lodge activities?", "a": "Typically a full-day jeep safari, boat and canoe trips, a walking safari or birding session, and a village walk, scheduled by the naturalists. Park fees are included. Spa treatments, alcoholic drinks and private plunge-pool villas are extra."},
+    {"q": "When is the best time for a luxury safari in Chitwan?", "a": "October to April. October and November are green and clear; December and January are cool with foggy mornings and cosy evenings; February to April is the best wildlife season. May is very hot, and from mid-June to mid-September the monsoon limits park access."},
+    {"q": "Do you include elephant activities at Meghauli?", "a": "No. We do not include or book elephant rides, elephant safaris or elephant bathing at any lodge because of welfare concerns. Meghauli's grasslands are explored by jeep, boat and on foot, which gives excellent wildlife viewing without them."}
+  ]
+}

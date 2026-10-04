@@ -1,0 +1,94 @@
+{
+  "slug": "lhasa-everest-base-camp-kathmandu-overland-10-days",
+  "title": "Lhasa to Everest Base Camp and Kathmandu, 10 Days",
+  "region": "kailash",
+  "type": "tour",
+  "grade": "Moderate",
+  "nights": 9,
+  "themes": ["cultural-tours", "photography", "adventure-sports", "buddhist-circuit"],
+  "stops": [
+    {"place": "lhasa", "nights": 3},
+    {"place": "gyantse", "nights": 1},
+    {"place": "shigatse", "nights": 1},
+    {"place": "rongbuk", "nights": 1},
+    {"place": "kyirong", "nights": 1},
+    {"place": "kathmandu", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 165000,
+  "price_from_usd": 1920,
+  "best_months": [0, 0, 0, 2, 2, 1, 0, 0, 1, 2, 1, 0],
+  "max_altitude_m": 5250,
+  "accommodation": "3-star hotels in Lhasa, Gyantse and Kyirong, 4-star in Shigatse, basic guesthouse at Rongbuk",
+  "transport": "Kathmandu–Lhasa flight, private Land Cruiser or van with driver in Tibet, eco-bus at Everest",
+  "group": "Private tour for 2+ or small group of up to 12",
+  "meta_description": "Lhasa to Everest base camp and Kathmandu overland, 10 days: Potala, Yamdrok, Gyantse, Shigatse, Rongbuk north face, Kyirong, price and border status.",
+  "summary": "Fly into Lhasa, adapt for three nights among its monasteries, then drive west past Yamdrok Lake, Gyantse and Shigatse to Rongbuk for the north face of Everest, and back to Kathmandu overland through Old Tingri and Kyirong. 10 days, from ₹1,65,000. The Kyirong border was closed after August 2026 floods; check current status before you travel.",
+  "intro": [
+    "This is the classic Tibet journey: from the Potala to the foot of Everest and down across the Himalaya to Kathmandu. After three nights in Lhasa at 3,656 m, the road climbs over the Kamba La to Yamdrok Lake, passes the Karo La glaciers and the Kumbum of Gyantse, and reaches Shigatse and Tashilhunpo. From there, the Gyatso La at about 5,250 m and the Pang La viewpoint lead to Rongbuk, where Everest's north face fills the valley.",
+    "The exit to Nepal runs through Old Tingri and Kyirong to Rasuwagadhi. A flood on 26 August 2026 destroyed that crossing, after an earlier closure in 2025. Until it reopens, we run this tour as a loop: after Rongbuk, the group returns via Shigatse to Lhasa and flies to Kathmandu, adding a day and the cost of the return flight. Permits for the Everest area have also been suspended at short notice in some seasons. Check current status before you travel."
+  ],
+  "highlights": [
+    "Potala Palace, Jokhang and Sera in Lhasa",
+    "Yamdrok Lake from the Kamba La and the Karo La glacier",
+    "Gyantse Kumbum and Tashilhunpo in Shigatse",
+    "Pang La panorama of four 8,000 m peaks",
+    "Sunset and sunrise on Everest's north face at Rongbuk",
+    "Overland descent from the plateau to green Kyirong"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly Kathmandu to Lhasa", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3656, "walk": "", "drive": "Gonggar to city · ≈ 60 km · 1 h", "flight": "Kathmandu–Lhasa · 75–90 min", "text": "Fly across the Himalaya to Lhasa Gonggar; sit on the left for Everest. Your Tibetan guide meets you with khata scarves for the hour's drive to Lhasa. Clocks move forward 2 hours 15 minutes. Rest for the afternoon, drink plenty of water and avoid alcohol. Your body has jumped more than 2,200 m since breakfast.", "meals": "Dinner"},
+    {"day": 2, "title": "Jokhang, Barkhor and Drepung", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3800, "walk": "≈ 3 h", "drive": "City transfers", "flight": "", "text": "Morning at Drepung, the vast 15th-century monastery on the hillside west of town, walking slowly up its lanes. After lunch, the Jokhang with its Jowo Shakyamuni and the Barkhor circuit with pilgrims and prayer wheels. Evening free to wander the old town.", "meals": "Breakfast"},
+    {"day": 3, "title": "Potala Palace and Sera debate", "place": "lhasa", "overnight": "Lhasa", "altitude_m": 3656, "max_m": 3750, "walk": "≈ 3 h incl. Potala steps", "drive": "City transfers", "flight": "", "text": "The Potala Palace on a timed ticket, with about an hour inside the White and Red Palaces after a slow climb. In the afternoon, Sera Monastery for the monks' debate in the courtyard. Your guide collects the Everest area permits for the days ahead. Pack warm layers for the road west.", "meals": "Breakfast"},
+    {"day": 4, "title": "Yamdrok Lake and Karo La to Gyantse", "place": "gyantse", "overnight": "Gyantse", "altitude_m": 3977, "max_m": 5000, "walk": "Short walks at stops", "drive": "≈ 260 km · 6–7 h with stops", "flight": "", "text": "The road climbs from the Yarlung Tsangpo valley to the Kamba La at about 4,790 m, where Yamdrok Lake spreads below in turquoise arms. Follow the shore to Nangartse, then cross the Karo La near 5,000 m where glaciers hang above the road. Afternoon at Gyantse's Pelkor Chode and the Kumbum, and the dzong at sunset if you have energy.", "meals": "Breakfast"},
+    {"day": 5, "title": "Gyantse to Shigatse, Tashilhunpo", "place": "shigatse", "overnight": "Shigatse", "altitude_m": 3840, "max_m": 3980, "walk": "≈ 2 h at Tashilhunpo", "drive": "≈ 90 km · 1.5–2 h", "flight": "", "text": "A short morning drive through barley fields to Shigatse, with an optional detour to Shalu Monastery. In the afternoon, Tashilhunpo, seat of the Panchen Lamas, with its 26 m gilded Maitreya and tomb chapels. Walk part of the kora around the walls as the light turns gold. A comfortable hotel night before the high country.", "meals": "Breakfast"},
+    {"day": 6, "title": "Over Gyatso La to Rongbuk", "place": "rongbuk", "overnight": "Rongbuk", "altitude_m": 4980, "max_m": 5250, "walk": "≈ 1 h at viewpoints", "drive": "≈ 340 km · 7–8 h", "flight": "", "text": "West via Lhatse and over the Gyatso La at about 5,250 m, the highest point of the tour. After the checkpoint near Shegar, the Pang La road winds up to a viewpoint at about 5,200 m showing Makalu, Lhotse, Everest and Cho Oyu, then switchbacks down to the Rongbuk valley. Eco-bus to the monastery area at about 4,980 m; watch sunset on the north face.", "meals": "Breakfast"},
+    {"day": 7, "title": "Base camp viewpoint, drive to Old Tingri", "place": "rongbuk", "overnight": "Old Tingri", "altitude_m": 4300, "max_m": 5200, "walk": "≈ 1 h at the viewpoint", "drive": "Eco-bus + ≈ 70 km · 2–3 h", "flight": "", "text": "Rise for sunrise on Everest, then take the eco-bus to the tourist viewpoint for Everest north base camp, at around 5,150–5,200 m, with the Rongbuk glacier below the north face. After 30–60 minutes, return down the valley and drive to Old Tingri at about 4,300 m, a village on a wide plain with views back to Cho Oyu. Simple hotel tonight; most people sleep better lower down.", "meals": "Breakfast"},
+    {"day": 8, "title": "Old Tingri to Kyirong via Pelku Tso", "place": "kyirong", "overnight": "Kyirong", "altitude_m": 2700, "max_m": 5200, "walk": "", "drive": "≈ 300 km · 6–7 h", "flight": "", "text": "Across the plateau towards Shishapangma, with a stop at Pelku Tso, then over passes above 5,000 m and down into the forested Kyirong valley at about 2,700 m. After days on the dry plateau, the pine forest and warmth are a surprise. If the border is closed, this day is replaced by Rongbuk to Shigatse and the tour returns to Lhasa to fly.", "meals": "Breakfast"},
+    {"day": 9, "title": "Cross to Nepal, drive to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 2700, "walk": "Bridge crossing on foot", "drive": "≈ 165 km · 8–9 h + border", "flight": "", "text": "Drive 25 km to the border, complete Chinese exit and walk across the bridge to Rasuwagadhi, where our Nepal vehicle waits. The road follows the Trishuli valley via Syabrubesi and Dhunche to Kathmandu, arriving in the evening. Clocks move back 2 hours 15 minutes. Check current status of the crossing before you travel.", "meals": "Breakfast"},
+    {"day": 10, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "Free morning for Boudhanath or Thamel, then transfer to the airport for your onward flight. Many travellers extend with Pokhara, Chitwan or a Kathmandu valley heritage day. The tour ends at the airport.", "meals": "Breakfast"}
+  ],
+  "stays": ["yak-hotel-lhasa", "gesar-hotel-shigatse"],
+  "includes": [
+    "Kathmandu–Lhasa economy flight",
+    "Chinese group visa processing in Kathmandu, Tibet Travel Permit, Alien's Travel Permit and Everest area permits",
+    "3 nights at the Yak Hotel or similar in Lhasa, 1 night at the Gesar Hotel or similar in Shigatse",
+    "Hotels in Gyantse, Old Tingri and Kyirong, basic guesthouse at Rongbuk, 1 night in Kathmandu",
+    "Private vehicle with driver in Tibet and private transfer Kyirong border–Kathmandu",
+    "Licensed English-speaking Tibetan guide",
+    "Entrance fees for listed monasteries, Potala, Yamdrok and the Everest reserve with eco-bus",
+    "Daily breakfast and a portable oxygen supply in the vehicle"
+  ],
+  "excludes": [
+    "International flights and Chinese visa fee",
+    "Lunches and dinners",
+    "Lhasa–Kathmandu return flight and extra Tibet night if the Kyirong border is closed",
+    "Travel insurance with high-altitude evacuation cover",
+    "Camera fees and optional Shalu Monastery visit",
+    "Tips for guide and driver",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes twin sharing, a private vehicle shared by at least four travellers and standard-season fares; smaller groups pay more per person.",
+    "The Rasuwagadhi–Kyirong crossing was destroyed by a flood on 26 August 2026. Until it reopens, we operate the tour as a loop returning via Shigatse to Lhasa with a flight to Kathmandu, which adds about ₹30,000–45,000 per person. Check current status before you travel.",
+    "Since 2019, tourists may only visit a viewing area near Rongbuk, around 5,150–5,200 m, not the climbers' base camp; the Everest area has closed to visitors at short notice in some seasons.",
+    "Most nationalities need the Chinese group visa from Kathmandu (original passport for several working days). Indian nationals face separate rules; check current status before you travel.",
+    "The tour reaches about 5,250 m on the Gyatso La and sleeps at about 4,980 m; anyone with heart or lung conditions should consult a doctor first."
+  ],
+  "add_ons": [
+    {"name": "Shalu Monastery visit near Shigatse", "price": "≈ ₹3,000–5,000 per vehicle"},
+    {"name": "Upgrade to Shangri-La or St. Regis in Lhasa (3 nights)", "price": "From ≈ ₹22,000 per person"}
+  ],
+  "faqs": [
+    {"q": "How much does a Lhasa to Everest Base Camp tour cost?", "a": "Our 10-day Lhasa–Everest–Kathmandu tour starts from ₹1,65,000 (US$1,920) per person, twin sharing, for four or more sharing a vehicle. It includes the flight to Lhasa, permits, hotels with breakfast, guide, vehicle and entrance fees. The visa fee, most meals and tips are extra."},
+    {"q": "Can I return to Kathmandu overland from Everest Base Camp in Tibet?", "a": "Normally yes, via Old Tingri, Kyirong and the Rasuwagadhi border. That crossing was destroyed by floods in August 2026, so for now we return to Lhasa and fly to Kathmandu instead. Check current status before you travel; we confirm the route when permits are issued."},
+    {"q": "Can tourists reach the real Everest Base Camp in Tibet?", "a": "Not since 2019. Tourists visit a viewing area near Rongbuk, around 5,150–5,200 m, by eco-bus. Only climbers with expedition permits continue to the base camp proper. The view of the north face is still excellent."},
+    {"q": "What is the highest point on this tour?", "a": "The Gyatso La pass on the road from Shigatse to Rongbuk, at about 5,250 m. The Pang La viewpoint is about 5,200 m and the base camp viewing area about 5,150–5,200 m. You sleep at about 4,980 m at Rongbuk, the highest night of the trip."},
+    {"q": "Is Everest Base Camp in Tibet better than in Nepal?", "a": "They offer different things. Tibet reaches Everest by road in a few days and shows the full north face, with Lhasa's monasteries on the way. Nepal's base camp needs a 12–14 day trek through Sherpa villages. Tibet is easier physically but involves permits and fast altitude gain."},
+    {"q": "When is the best time for Lhasa to Everest tours?", "a": "April, May and October give the clearest views of Everest. September and early November are also good. Summer monsoon cloud often hides the peak in July and August, and winter is extremely cold at Rongbuk. Tibet often closes to foreigners around February and March."},
+    {"q": "Do I need to be fit for this tour?", "a": "No trekking is involved, but you need general good health to cope with altitude and long drives of 6–8 hours. Walking at viewpoints above 5,000 m feels hard. Three nights in Lhasa and a gradual route through Gyantse and Shigatse help the body adapt."},
+    {"q": "Where do we stay at Everest Base Camp in Tibet?", "a": "In a basic guesthouse beside Rongbuk Monastery or at the Everest service area, depending on local rules that season, with quilts and shared toilets. Bring a warm sleeping bag; nights fall to around −10 °C or lower in spring and autumn."},
+    {"q": "Can Indian travellers take this Lhasa–Everest tour?", "a": "Tibet permits for Indian nationals have been issued mainly for the Kailash yatra in recent seasons, and sightseeing tours for Indians have not been possible every year. Check current status before you travel; we will advise when permits open."}
+  ]
+}

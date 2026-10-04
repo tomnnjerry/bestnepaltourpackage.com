@@ -1,0 +1,96 @@
+{
+  "slug": "nepal-tour-from-varanasi-via-sonauli-9-nights",
+  "title": "Nepal Tour from Varanasi via Sonauli 9 Nights",
+  "region": "lumbini",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 9,
+  "themes": ["overland-from-india", "family-holidays", "cultural-tours", "wildlife-safari"],
+  "stops": [
+    {"place": "lumbini", "nights": 2},
+    {"place": "pokhara", "nights": 2},
+    {"place": "kathmandu", "nights": 2},
+    {"place": "chitwan-national-park", "nights": 2},
+    {"place": "bhairahawa", "nights": 1}
+  ],
+  "start": "Varanasi (railway station, airport or hotel)",
+  "end": "Varanasi (railway station, airport or hotel)",
+  "price_from_inr": 43000,
+  "price_from_usd": 540,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels in Lumbini, Pokhara, Kathmandu and Bhairahawa; 3-star jungle resort in Chitwan",
+  "transport": "Indian vehicle Varanasi–Sonauli and back; private Nepal-registered car or Tempo Traveller in Nepal",
+  "group": "Private, 2–12",
+  "meta_description": "Nepal tour from Varanasi, 10 days: Sonauli border, Lumbini, Pokhara, Kathmandu and Chitwan by road with 3-star hotels, guides, safari and border help.",
+  "summary": "A ten-day road trip from Varanasi into Nepal and back, crossing at Sonauli: two nights in Lumbini, two in Pokhara under the Annapurnas, two in Kathmandu, two on safari in Chitwan and a last night in Bhairahawa so the final drive to Varanasi is comfortable. Built for families and groups from eastern Uttar Pradesh and Bihar.",
+  "intro": [
+    "Varanasi lies about 320 km from the Sonauli border, a long but straightforward day on the highway via Gorakhpur. Rather than squeeze Nepal into a week, this tour gives each place two nights, so you see Lumbini at dawn, Pokhara's lakes and sunrise point, Kathmandu's main temples and stupas, and Chitwan's jungle without rushing. On the way home, a night in Bhairahawa near the border keeps the last drive to about eight hours.",
+    "Indian citizens cross with a passport or voter ID and need no visa. We switch from an Indian vehicle to a Nepal car at the border: Indian cars can enter with a per-day customs pass for up to 30 days a year, but Nepali drivers know the hill roads and checkpoints. Check current status before you travel. The pace suits families with children and older parents, with breaks every two hours on drive days."
+  ],
+  "highlights": [
+    "Two nights in Lumbini with a dawn visit to the Maya Devi Temple",
+    "Sarangkot sunrise, Phewa Lake and Davis Falls in Pokhara",
+    "Pashupatinath, Boudhanath, Swayambhunath and Bhaktapur",
+    "Two nights in Chitwan with jeep safari, canoe and Tharu culture",
+    "Assisted border crossing at Sonauli in both directions",
+    "Overnight in Bhairahawa to break the return drive"
+  ],
+  "days": [
+    {"day": 1, "title": "Varanasi to Lumbini via Sonauli", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 30 min across the border", "drive": "≈ 330 km · 9–10 h", "flight": "", "text": "Leave Varanasi at 6 am in an Indian car and drive north via Azamgarh and Gorakhpur, with breakfast and lunch stops on the way. Reach Sonauli in mid-afternoon, where our representative helps you walk across to Belahiya. Your Nepal driver takes you on to Lumbini, 45 minutes away, arriving in the early evening. Dinner and rest at your hotel near the Sacred Garden. It is a long day, so we keep the evening free.", "meals": "Dinner"},
+    {"day": 2, "title": "Lumbini at dawn and the monastic zone", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 4 km", "drive": "", "flight": "", "text": "Walk to the Sacred Garden at opening time to see the Maya Devi Temple and marker stone, Ashoka's pillar with its inscription and the sacred pond, while monks chant under the bodhi tree. After breakfast and rest, explore the monastic zone by battery rickshaw or bicycle in the afternoon: the Royal Thai Monastery, Myanmar Golden Temple, Chinese and Korean temples and the German Lotus Stupa. Sunset at the World Peace Pagoda.", "meals": "B, D"},
+    {"day": 3, "title": "Lumbini to Pokhara via Tansen", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1350, "walk": "", "drive": "≈ 210 km · 7–8 h", "flight": "", "text": "After breakfast, drive through Butwal and up the Siddhartha Highway through the Tinau gorge, pausing at the Siddhababa temple. Lunch at Tansen, about 1,350 m, where the air is suddenly cool. Continue north through Syangja and Waling along river valleys and terraced hillsides. Reach Pokhara in the late afternoon and stroll along Phewa Lake at Lakeside before dinner.", "meals": "B, D"},
+    {"day": 4, "title": "Sarangkot sunrise and Pokhara sights", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 2 h in short sections", "drive": "≈ 40 km in town", "flight": "", "text": "Drive up to Sarangkot at 5 am for sunrise over the Annapurna range, Machhapuchhre and Dhaulagiri from about 1,600 m. After breakfast, visit Davis Falls, the Gupteshwor Mahadev cave and the Bindhyabasini temple in the old bazaar. In the afternoon, row across Phewa Lake to the island temple of Tal Barahi. Optional paragliding from Sarangkot is available for those over 12 years.", "meals": "B, D"},
+    {"day": 5, "title": "Pokhara to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 200 km · 6–7 h", "flight": "", "text": "Drive east on the Prithvi Highway along the Seti and Trishuli rivers. At Kurintar, take the optional Manakamana cable car up to the temple of the wish-fulfilling goddess, a popular stop for Indian families. Continue past Mugling and climb into the Kathmandu Valley, arriving in the late afternoon. Evening free in Thamel. Travellers short on time can fly Pokhara–Kathmandu in 25 minutes as an add-on.", "meals": "B, D"},
+    {"day": 6, "title": "Kathmandu and Bhaktapur sightseeing", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 3 h in short sections", "drive": "≈ 45 km in the valley", "flight": "", "text": "With a licensed guide, begin at Pashupatinath on the Bagmati river, Nepal's holiest Shiva temple, where Hindus may enter the main courtyard. Continue to Boudhanath stupa, then east to Bhaktapur Durbar Square, a medieval royal city of pagodas, pottery squares and the five-roofed Nyatapola temple; try the local juju dhau yoghurt. Return via Swayambhunath for late-afternoon views over the city.", "meals": "B, D"},
+    {"day": 7, "title": "Kathmandu to Chitwan", "place": "chitwan-national-park", "overnight": "Sauraha, Chitwan", "altitude_m": 150, "max_m": 1400, "walk": "≈ 1.5 h", "drive": "≈ 160 km · 5–6 h", "flight": "", "text": "Drive down from the valley through Mugling and Narayanghat to Sauraha, at the edge of Chitwan National Park. After lunch at your resort, walk to the Rapti riverbank to watch the sunset, when rhinos sometimes come to drink on the far bank. In the evening, watch a Tharu stick dance, a traditional performance by the indigenous people of the Terai.", "meals": "L, D"},
+    {"day": 8, "title": "Chitwan jungle activities", "place": "chitwan-national-park", "overnight": "Sauraha, Chitwan", "altitude_m": 150, "max_m": 150, "walk": "≈ 2 h", "drive": "", "flight": "", "text": "Start with a dugout canoe ride on the Rapti, looking for mugger crocodiles, kingfishers and storks, then a guided walk to the elephant breeding centre. After lunch, set out on a 3–4 hour jeep safari into the park's grasslands and sal forest for one-horned rhinoceros, spotted and sambar deer, wild boar, monkeys and many birds; tigers live here but sightings are rare. Return at dusk.", "meals": "B, L, D"},
+    {"day": 9, "title": "Chitwan to Bhairahawa", "place": "bhairahawa", "overnight": "Bhairahawa", "altitude_m": 105, "max_m": 150, "walk": "≈ 1 h", "drive": "≈ 160 km · 4.5–5 h", "flight": "", "text": "Morning bird walk or Tharu village cycle tour, then drive west on the East-West Highway via Narayanghat and Butwal to Bhairahawa. Optional stop at Ramagrama, the Buddha relic stupa near Parasi, which lies just off the route. Check in at your hotel in the early afternoon and spend the evening in the Bhairahawa bazaar for sweets and last-minute shopping before returning to India.", "meals": "B, D"},
+    {"day": 10, "title": "Bhairahawa to Varanasi via Sonauli", "place": "", "overnight": "", "altitude_m": 80, "max_m": 105, "walk": "≈ 30 min across the border", "drive": "≈ 320 km · 8–9 h", "flight": "", "text": "Leave after an early breakfast and drive 15 minutes to the Belahiya border. Cross back to Sonauli with our representative and continue by Indian car via Gorakhpur to Varanasi, with lunch on the way. Arrive in the evening and transfer to your hotel, the railway station for an overnight train or the airport. We plan the departure time around your onward connection.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini", "hotel-nirvana-bhairahawa"],
+  "includes": [
+    "9 nights at 3-star hotels and a Chitwan jungle resort, twin sharing",
+    "Daily breakfast and dinner; all meals in Chitwan",
+    "Indian vehicle Varanasi–Sonauli–Varanasi",
+    "Private Nepal-registered car or Tempo Traveller from Belahiya and back",
+    "Border crossing assistance in both directions",
+    "Local guide in Lumbini and licensed guide in Kathmandu and Bhaktapur",
+    "Chitwan jeep safari, canoe ride, jungle walk, Tharu dance and park fees",
+    "Lumbini Sacred Garden entry fee",
+    "Sarangkot sunrise drive and Phewa Lake boat"
+  ],
+  "excludes": [
+    "Kathmandu and Bhaktapur heritage entry fees",
+    "Manakamana cable car and paragliding",
+    "Lunches outside Chitwan",
+    "Pokhara–Kathmandu flight (optional add-on)",
+    "Tips for drivers and guides",
+    "Travel insurance",
+    "Personal expenses",
+    "Anything not listed under inclusions"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing at 3-star hotels in October–March; groups of 6 or more travel in a Tempo Traveller at a lower per-person rate.",
+    "Days 1 and 10 involve 8–10 hours on the road; fog on Uttar Pradesh highways in December and January can add time.",
+    "Indian citizens need a passport or voter ID; children under 15 and adults over 65 can usually use another photo ID with proof of age. Check current status before you travel.",
+    "Indian rupees are accepted widely in Nepal at about NPR 1.6 per INR; carry smaller notes for tips and snacks.",
+    "Chitwan activities depend on park rules and river levels; boat and jeep timings may change at short notice."
+  ],
+  "add_ons": [
+    {"name": "Pokhara–Kathmandu flight", "price": "≈ ₹4,500 per person"},
+    {"name": "Manakamana cable car return", "price": "≈ ₹1,000 per person for Indian nationals"},
+    {"name": "Kushinagar stop with overnight on the return", "price": "≈ ₹6,000 per person"}
+  ],
+  "faqs": [
+    {"q": "How far is Nepal from Varanasi by road?", "a": "Varanasi to the Sonauli border is about 320 km, usually 8–9 hours by car via Gorakhpur. From Sonauli, Lumbini is 26 km, Pokhara about 190 km and Kathmandu about 280 km. The Raxaul–Birgunj crossing is an alternative for Kathmandu but is busier with trucks."},
+    {"q": "What is the Nepal tour package cost from Varanasi?", "a": "This 9-night tour starts at about ₹43,000 per person, twin sharing, with 3-star hotels, breakfast and dinner, Indian and Nepal vehicles, border assistance, guides and the Chitwan safari. Kathmandu monument fees and most lunches are extra. Larger groups in a Tempo Traveller pay less per person."},
+    {"q": "Can we shorten this Varanasi to Nepal tour?", "a": "Yes. A 6-night version drops Chitwan and Bhairahawa, returning from Pokhara to Varanasi via Lumbini with an overnight. Another option ends in Kathmandu with a flight back to Varanasi, which has direct services on some days. Tell us your dates and we will adapt the plan."},
+    {"q": "Is there a direct flight from Varanasi to Kathmandu?", "a": "Direct flights between Varanasi and Kathmandu have operated on some days of the week, but schedules change often. Many travellers drive in via Sonauli and fly out from Kathmandu. Check current status before you travel, and we can build a one-way road tour around any available flight."},
+    {"q": "Which documents do we need from Varanasi to Nepal?", "a": "Indian citizens need a valid passport or voter ID card. Children under 15 and adults over 65 can usually use another photo ID with age proof. Carry the same document on the return. Foreign nationals need a Nepal visa and an Indian visa valid for land re-entry at Sonauli."},
+    {"q": "Is this tour suitable for senior citizens?", "a": "Yes, with breaks. Sightseeing involves short walks, and the Nepal car is private, so we stop as often as needed. The first and last days are long. Seniors who find this hard can take a train from Varanasi to Gorakhpur instead, and we pick them up there."},
+    {"q": "Can we use our Varanasi taxi in Nepal?", "a": "Indian vehicles can enter Nepal with a customs pass from the Bhairahawa customs office, charged per day and limited to 30 days per year, with the RC, licence and insurance. Many Indian taxi drivers are unfamiliar with Nepal's hill roads, so we recommend a Nepal car. Check current status before you travel."},
+    {"q": "What will we see in Chitwan?", "a": "One-horned rhinoceros are the main draw, along with spotted and sambar deer, wild boar, monkeys, gharial and mugger crocodiles and over 500 bird species. Tigers and leopards live in the park but are rarely seen. Two nights allow a jeep safari, a canoe ride and a jungle walk."},
+    {"q": "When is the best time for a Nepal tour from Varanasi?", "a": "October to April is best. October and November have clear skies after the monsoon, December to February is cool with good mountain views, and March and April bring warm days. May is very hot in the Terai, and the June to September monsoon brings rain and landslides."}
+  ]
+}

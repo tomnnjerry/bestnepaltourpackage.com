@@ -1,0 +1,133 @@
+{
+  "slug": "muktinath",
+  "name": "Muktinath",
+  "region": "mustang",
+  "kind": "temple town",
+  "wiki": "Muktinath",
+  "image_query": "Muktinath temple 108 water spouts",
+  "lat": 28.817,
+  "lng": 83.872,
+  "altitude_m": 3710,
+  "tagline": "Vishnu's temple of liberation at 3,710 m, sacred to two faiths",
+  "meta_description": "Muktinath temple guide: 3,710 m Vishnu shrine with 108 water spouts and an eternal flame, how to reach from Pokhara or Jomsom, darshan timings and tips.",
+  "summary": "Muktinath is a Vishnu temple at 3,710 m in Mustang, sacred to Hindus as a Divya Desam and to Buddhists as Chumig Gyatsa. Pilgrims bathe under 108 water spouts and see a natural gas flame at Jwala Mai. Most visitors arrive from Jomsom, 1–1.5 hours by jeep, after a morning flight from Pokhara.",
+  "intro": [
+    "Muktinath, Mukti Kshetra or the place of liberation, is one of the most important Vishnu shrines outside India. Sri Vaishnavas count it among the 108 Divya Desams, the temples praised by the Alvar poet-saints, and many Indian families come here after Pashupatinath on a yatra many families plan for years. The pagoda-roofed temple holds a gold-coloured murti of Vishnu as Sri Muktinarayan, flanked by Lakshmi, Saraswati, Garuda and other deities, and is served by Buddhist nuns as well as Hindu priests.",
+    "For Tibetan Buddhists the same site is Chumig Gyatsa, the Hundred Waters, where Guru Rinpoche is said to have meditated on his way to Tibet. Behind the temple, water from a spring is channelled through 108 bull-headed brass spouts, and pilgrims run beneath all of them in ice-cold water before dipping in the two kunds in front. Nearby, inside the small Jwala Mai gompa, a blue flame of natural gas burns from a rock beside a trickle of water: fire, water and earth together.",
+    "The temple stands at 3,710 m above the village of Ranipauwa, where jeeps stop and hotels and puja shops line the road. From the gate it is a 15–20 minute climb up stone steps, or a short ride on a horse or electric scooter in season. The air is thin, so walk slowly, drink water and come down to Jomsom to sleep if anyone in the family feels unwell. Darshan is best before noon, when the sky is clear and the wind is calm."
+  ],
+  "facts": [
+    ["Altitude", "3,710 m (temple), Ranipauwa village ≈ 3,700 m"],
+    ["Best months", "Mar – Jun · Sep – Nov"],
+    ["Nights we suggest", "0–1 (day trip from Jomsom is common)"],
+    ["Nearest airport", "Jomsom, 22 km · 1–1.5 h by jeep"],
+    ["From Kathmandu", "Flights via Pokhara and Jomsom, ≈ 1 day; or ≈ 380 km · 2 days by road"],
+    ["Known for", "108 water spouts, Jwala Mai flame, Divya Desam, Shaligram"]
+  ],
+  "best_months": [0, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "108 Muktidhara water spouts", "text": "Behind the temple, 108 brass spouts shaped like bull heads pour spring water in a semicircle. Pilgrims run beneath them all, then bathe in the Lakshmi and Saraswati kunds. The water is near freezing, so bring a change of clothes and a towel."},
+    {"title": "Sri Muktinarayan darshan", "text": "The small pagoda shrine holds a murti of Vishnu as Muktinarayan. Hindu priests and Buddhist nuns share the duties here. Queues are short in the early morning and can stretch to an hour on festival days and in May–June, the Indian school holiday season."},
+    {"title": "Jwala Mai eternal flame", "text": "A short walk below the main temple, the Jwala Mai gompa shelters a natural gas flame burning beside a spring under a low altar. Hindus honour it as Jwala Mai, Buddhists as a sign of Guru Rinpoche. Lift the cloth gently and keep your head low."},
+    {"title": "Shraddha and puja for ancestors", "text": "Many families perform shraddha and pinda daan at Muktinath and at Kagbeni on the same day. Local priests can arrange the rituals; agree the dakshina in advance. Bring a list of names and gotra if you want specific rites."},
+    {"title": "Views of Dhaulagiri and Nilgiri", "text": "From the temple steps the view south takes in Dhaulagiri, Tukuche Peak and Nilgiri across the Kali Gandaki. Above the temple the trail climbs east to Thorong La (5,416 m), the high pass of the Annapurna Circuit."},
+    {"title": "Ranipauwa and Jharkot", "text": "Ranipauwa, the village below the gate, has hotels, puja shops and Tibetan stalls. Twenty minutes downhill, Jharkot has an old fort ruin, a Sakya gompa and a Tibetan medicine centre, worth a stop on the jeep ride back to Jomsom."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Jeeps run Jomsom–Muktinath (≈ 22 km · 1–1.5 h) on a mostly paved road via Eklebhatti and Jharkot. A private jeep costs about NPR 7,000–9,000 return; sharing jeeps and buses leave from Jomsom bazaar. From Pokhara it is ≈ 185 km · 8–10 h by jeep, usually with an overnight in Jomsom or Tatopani."},
+    {"mode": "Air", "text": "There is no airport at Muktinath. Fly Pokhara–Jomsom (20 min) on an early morning flight, then drive up. Many pilgrims complete Pokhara–Jomsom–Muktinath darshan–Jomsom in one day and fly back to Pokhara the next morning."},
+    {"mode": "Helicopter", "text": "Helicopters land at a pad near Ranipauwa, from Pokhara in about 35–40 minutes and from Kathmandu in about 1 h 15 min, usually with a stop at Jomsom. Ground time is typically about one hour. Seats are sold per person or as a full charter."},
+    {"mode": "On foot", "text": "Trekkers arrive over Thorong La (5,416 m) from Manang, a 7–9 hour day with 1,000 m of climbing and 1,600 m of descent, or walk up from Jomsom via Kagbeni or Lubra in 6–7 hours."}
+  ],
+  "where_to_stay": "Ranipauwa, the village just below the temple gate, has dozens of hotels, most of them simple lodges with attached bathrooms, hot showers and Indian vegetarian kitchens built for pilgrim groups. Rooms are cold from October to April, so ask for extra blankets or an electric blanket. We usually avoid sleeping at Muktinath with seniors, children or anyone with heart or lung conditions and instead return to Jomsom (2,720 m), where Hotel Om's Home and Shinta Mani Mustang offer warmer, better-equipped rooms. Fit trekkers crossing Thorong La or continuing to Upper Mustang often spend one night in Ranipauwa.",
+  "stays": [],
+  "tips": [
+    "Reach the temple before 11 am; the wind rises after midday and clouds can close the view and the flights home.",
+    "Pack a towel, a dry set of clothes and a plastic bag for wet clothes if you plan to bathe under the 108 spouts.",
+    "Walk the steps slowly, in silence if you need to, and stop every few minutes; there is 30–40 % less oxygen here than at sea level.",
+    "Carry small notes for offerings, prasad and donations to the nuns; there is no ATM at the temple.",
+    "Leather belts and shoes stay outside the inner shrine, and photography of the main murti is not allowed."
+  ],
+  "themes": ["pilgrimage", "heli-tours", "family-holidays", "trekking"],
+  "nearby": ["jomsom", "kagbeni", "damodar-kunda"],
+  "experiences": [
+    {
+      "slug": "muktinath-108-water-spouts-snan",
+      "title": "Snan under the 108 Muktidhara spouts",
+      "kind": "spiritual",
+      "duration": "1–2 hours at the temple",
+      "best_time": "Morning, Mar–Jun and Sep–Nov",
+      "price_hint": "Included in our Muktinath yatras",
+      "image_query": "Muktinath 108 water spouts bathing",
+      "wiki": "",
+      "summary": "The central act of a Muktinath yatra: running barefoot beneath 108 ice-cold spouts of spring water behind the temple, then dipping in the two sacred kunds before darshan of Sri Muktinarayan. We guide families through the order of rites and how to stay warm afterwards.",
+      "body": [
+        "Behind the Muktinath shrine a stone wall curves in a half circle, and from it 108 brass spouts shaped like cow and bull heads pour water drawn from a spring above. The number matches the 108 Divya Desams and the beads of a japa mala, and devotees believe that passing under every spout washes away the sins of this and past lives. Water temperature is often only a few degrees above freezing, even in May.",
+        "The usual order is to change near the kunds, walk or run along the line of spouts from one end to the other, then take a dip in the Lakshmi Kunda and Saraswati Kunda in front of the temple. After drying and changing, pilgrims enter for darshan, offer tulsi, flowers and sweets, and receive tirtha. Our guide holds bags and shoes, shows where to change and helps elderly guests on the wet stone floor.",
+        "Many people choose to bathe only their head and hands, or sprinkle water, and priests say this is acceptable. Children, seniors and anyone with heart or blood pressure problems should avoid full bathing at 3,710 m because the cold shock is real. We carry a flask of hot water or ginger tea for afterwards, and plan the snan for late morning when the sun has warmed the courtyard."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "groups"],
+      "faqs": [
+        {"q": "Is it compulsory to bathe under all 108 spouts at Muktinath?", "a": "No. Bathing is a personal devotion, not a requirement for darshan. Many pilgrims sprinkle water on the head or wash hands and feet instead, especially older people and children. Priests at the temple accept this. If you do bathe fully, move steadily rather than lingering, and change into dry, warm clothes straight away."},
+        {"q": "How cold is the water at Muktinath?", "a": "Very cold. The spouts carry snowmelt and spring water that stays close to freezing for most of the year, and the air at 3,710 m is often 5–15 °C in daytime even in summer. Expect a strong shock. Bathe late in the morning when the sun is out, and keep a towel and warm layers ready."},
+        {"q": "Are there changing rooms at Muktinath temple?", "a": "There are simple changing areas near the kunds, separated for men and women, but they are basic and get crowded at peak times. Bring a large towel or sarong to change under, a plastic bag for wet clothes and slip-on footwear for after darshan. Our guides keep bags safe while you bathe."}
+      ]
+    },
+    {
+      "slug": "muktinath-jwala-mai-flame-darshan",
+      "title": "Jwala Mai flame and the Buddhist side of Muktinath",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Morning, all open months",
+      "price_hint": "Free, donation welcome",
+      "image_query": "Jwala Mai temple Muktinath flame",
+      "wiki": "",
+      "summary": "A guided visit to the small Jwala Mai gompa below the main shrine, where a natural gas flame burns beside running water, plus the Buddhist monasteries that share the Muktinath site. It shows why both faiths have worshipped here for centuries.",
+      "body": [
+        "A few minutes below the main temple, a low Tibetan-style building called Jwala Mai, or Mebar Lhakhang to Buddhists, encloses a small altar. When the nun lifts the curtain at the base, you see a steady blue flame of natural gas flickering from the rock, and close beside it the sound of water running underground. Hindus honour the flame as a form of the goddess, while Buddhists link it to Guru Rinpoche, who is said to have meditated here.",
+        "Our guide explains how Buddhist nuns from the nearby nunnery care for the main Vishnu temple too, a shared arrangement that surprises many Indian visitors. You can also visit the Narsingh gompa and the Marme Lhakhang, both small, both lit by butter lamps. Prayer wheels circle the courtyards and white khata scarves hang from the trees by the gate.",
+        "Inside, keep your head bowed under the low ceiling and do not touch the altar. A donation of NPR 100 or more is customary, and nuns sometimes offer a red protection thread in return. The visit takes about an hour combined with the main temple and is an easy walk on stone paths, though steps are uneven and the air is thin."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Why does fire burn on water at Muktinath?", "a": "A small seep of natural gas escapes from the ground at the same spot where a spring emerges, so a flame burns right beside running water. Pilgrims see it as earth, water and fire meeting in one sacred place. The flame has burned for as long as local records go back and is protected inside the Jwala Mai shrine."},
+        {"q": "Who manages Muktinath temple?", "a": "Daily worship is carried out by Buddhist nuns from a local nunnery, with Hindu priests performing pujas and rites for pilgrims. The site is sacred to both faiths, and a temple management committee looks after the complex. This dual tradition is centuries old, and visitors are welcome to join either set of rituals respectfully."},
+        {"q": "Can I take photos inside Jwala Mai?", "a": "Photography of the flame itself is usually discouraged and sometimes not permitted, depending on the nun on duty. Always ask first and accept a no. You can photograph the outside of the gompas, prayer wheels and the courtyard freely. Avoid flash near butter lamps and keep phones silent inside."}
+      ]
+    },
+    {
+      "slug": "muktinath-jharkot-village-walk",
+      "title": "Ranipauwa to Jharkot village walk",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Afternoon or morning, Mar–Nov",
+      "price_hint": "Included in our yatras with a night at Muktinath",
+      "image_query": "Jharkot village Mustang gompa",
+      "wiki": "",
+      "summary": "An easy downhill walk from the temple through Ranipauwa to the old fortified village of Jharkot, with a Sakya monastery, a ruined dzong and a small amchi herbal clinic. Good for pilgrims staying a night at Muktinath who want more than darshan.",
+      "body": [
+        "From the temple gate the trail drops through Ranipauwa's line of hotels and stalls selling Shaligram, rudraksha, Tibetan jewellery and yak-wool shawls. Past the village, it follows the old mule path rather than the road, past chortens and walled fields of barley and buckwheat, reaching Jharkot (about 3,550 m) in roughly 30–40 minutes.",
+        "Jharkot is built on a ridge, its houses stacked against the crumbling walls of a former fort. The red Sakya gompa at the top has old wall paintings and a large statue of Shakyamuni; a monk will usually open it for a donation. Nearby, a small Tibetan medicine centre trains amchi practitioners and sells herbal remedies, and the staff are often happy to explain how pulse diagnosis works.",
+        "The walk back up to Ranipauwa takes about 45 minutes, or your jeep can collect you in Jharkot on the way down to Jomsom. Height gain on the return is around 150 m, gentle but noticeable at this altitude. In spring, apricot blossom lines the fields; in autumn, the barley is cut and stacked on the rooftops to dry."
+      ],
+      "good_for": ["families", "couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "How far is Jharkot from Muktinath?", "a": "Jharkot is about 2–3 km below Muktinath temple. Walking down from Ranipauwa takes 30–40 minutes on a mule trail with some loose stones. The return uphill takes about 45 minutes. The jeep road passes just below the village, so you can ride one way and walk the other."},
+        {"q": "Is there anything to buy in Ranipauwa?", "a": "Yes. Stalls sell Shaligram stones, rudraksha malas, conch shells, Tibetan singing bowls, yak and sheep wool shawls, dried apples and puja items. Prices are negotiable. Be wary of polished or artificially cut Shaligram; ask a priest or your guide for help if you want a genuine stone for home worship."},
+        {"q": "Should I sleep at Muktinath or Jomsom?", "a": "If you are fit and have come up gradually, one night in Ranipauwa is fine and lets you see the temple at dawn. For seniors, young children and anyone with heart, lung or blood pressure concerns, we recommend visiting as a day trip and sleeping at Jomsom, almost 1,000 m lower, to reduce altitude sickness risk."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Muktinath temple?", "a": "Muktinath temple stands at about 3,710 m, and Ranipauwa village below it is around 3,700 m. That is a little higher than Kedarnath (3,583 m) and far above any Indian hill station. Many visitors feel breathless and some get headaches. Walk slowly, drink 3–4 litres of water and descend if symptoms worsen."},
+    {"q": "Muktinath yatra cost from India", "a": "A 5-night Muktinath yatra from Kathmandu with flights via Pokhara and Jomsom costs from about ₹52,000 per person twin sharing in 3-star hotels. By road it starts near ₹32,000. Helicopter day tours cost ₹52,000–65,000 per seat from Pokhara and ₹89,000 or more per seat from Kathmandu. Prices vary with season and group size."},
+    {"q": "What are Muktinath temple opening hours?", "a": "The temple generally opens at dawn, around 6 am, and closes around 5–6 pm, with a short midday break on some days. Morning darshan is best because weather is clearer and return flights or drives leave time. Hours can change for rituals and in deep winter. Check current status before you travel."},
+    {"q": "Is Muktinath open in winter?", "a": "The temple stays open all year, but from late December to February snow can block the road above Jomsom for days, many Ranipauwa hotels close and temperatures drop to −10 °C at night. Flights to Jomsom run less reliably. We sell winter trips only with flexible dates and warm hotel options in Jomsom."},
+    {"q": "Can senior citizens do Muktinath yatra?", "a": "Yes, thousands of seniors visit each year. The key is gradual ascent and short time at the top: fly to Jomsom, rest, visit Muktinath as a day trip and sleep lower. Get a medical check first. People with heart disease, severe lung conditions or uncontrolled blood pressure should consult a doctor about travelling to 3,710 m."},
+    {"q": "Do Indians need a permit for Muktinath?", "a": "Yes. Muktinath is inside the Annapurna Conservation Area, and Indian nationals pay the SAARC rate of NPR 1,000 for an ACAP permit, issued in Kathmandu or Pokhara on a passport or voter ID. Children under 10 are free. Fees double if bought at a checkpoint. Check current status before you travel."},
+    {"q": "How many steps are there at Muktinath temple?", "a": "From the Ranipauwa gate to the temple is a climb of roughly 15–20 minutes on stone steps and a paved path, gaining about 90 m. There is no lift. Horses, porters and, in some seasons, electric scooters help those who cannot walk. Walk slowly with frequent stops; thin air matters more than the distance."},
+    {"q": "Is Muktinath one of the 108 Divya Desams?", "a": "Yes. Muktinath, called Thiru Saligramam in Tamil Vaishnava tradition, is counted among the 108 Divya Desams praised by the Alvars, and it is one of only two in Nepal. Sri Vaishnava pilgrims often combine it with a visit to Kagbeni and the Kali Gandaki, the source of Shaligram stones."},
+    {"q": "When is the best time to visit Muktinath?", "a": "March to June and September to November are best, with clear mornings, daytime temperatures of 10–20 °C and reliable flights. May and June are busiest with Indian families. The monsoon months of July and August bring little rain to Muktinath itself but disrupt flights and the road from Pokhara."}
+  ]
+}

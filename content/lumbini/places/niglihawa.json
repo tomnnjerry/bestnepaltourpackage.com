@@ -1,0 +1,130 @@
+{
+  "slug": "niglihawa",
+  "name": "Niglihawa (Nigali Sagar)",
+  "region": "lumbini",
+  "kind": "heritage site",
+  "wiki": "Nigali Sagar",
+  "image_query": "Nigali Sagar Ashoka pillar Niglihawa",
+  "lat": 27.5938,
+  "lng": 83.1052,
+  "altitude_m": 110,
+  "tagline": "Ashoka's broken pillar and the oldest written word for stupa",
+  "meta_description": "Niglihawa (Nigali Sagar) guide: Ashoka pillar for Kanakamuni Buddha, the earliest written use of 'stupa', Gotihawa pillar stump, distances and visiting tips.",
+  "summary": "Niglihawa, about 7 km north-east of Taulihawa and 20 km north-west of Lumbini, is where two broken pieces of an Ashoka pillar lie beside a large pond called Nigali Sagar. The inscription records Ashoka enlarging the stupa of Kanakamuni Buddha and is the earliest known written use of the word stupa.",
+  "intro": [
+    "Niglihawa is a small village in Kapilvastu district, reached by a narrow road through fields north-east of Taulihawa. At the edge of a broad rectangular pond, the Nigali Sagar, lie two pieces of a polished sandstone pillar raised by Emperor Ashoka. The lower piece stands upright in the ground; the upper section lies on its side nearby. There is no capital, and the site has no grand structure, only a fenced enclosure, a few trees and open water.",
+    "The inscription, carved in Brahmi script, says that King Priyadarsin, Beloved of the Gods, enlarged the stupa of Buddha Konakamana for the second time in the 14th year of his reign, and came in person to worship in his 20th year, setting up this stone pillar. Konakamana, or Kanakamuni, is one of the Buddhas said in tradition to have lived before Shakyamuni. The text is famous among historians because it contains the oldest known written use of the word thube, meaning stupa. Medieval travellers' graffiti, including a 14th-century inscription of the western Nepal king Ripu Malla, is also carved on the stone.",
+    "Archaeologists believe the pillar was moved here from somewhere else, possibly Gotihawa, a few kilometres south of Taulihawa, where the stump of another Ashoka pillar still stands beside a large brick stupa. Visiting both takes about two hours from Taulihawa and completes the Ashokan story that begins with the pillar at Lumbini."
+  ],
+  "facts": [
+    ["Altitude", "110 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "0 (part of a Kapilavastu day trip)"],
+    ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 45 km)"],
+    ["From Kathmandu", "Fly to Bhairahawa, then ≈ 45 km · 1.5 h by car"],
+    ["Known for", "Ashoka pillar for Kanakamuni Buddha, Nigali Sagar pond, Gotihawa stump"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The Ashoka pillar fragments", "text": "Two pieces of polished Chunar sandstone, one standing and one lying, carry Ashoka's Brahmi inscription. The polish on the stone, over 2,200 years old, is still visible in places and is typical of Mauryan pillars."},
+    {"title": "Earliest written word for stupa", "text": "The inscription's mention of enlarging the stupa of Kanakamuni Buddha contains the oldest known written use of the word stupa. For historians of Buddhism, that single word makes this quiet field one of the key Ashokan sites."},
+    {"title": "Ripu Malla's medieval graffiti", "text": "Above the Ashokan text, a later inscription records a visit by Ripu Malla, a king from western Nepal, in the 14th century. It shows that the pillar was known and visited long after the Mauryan empire fell."},
+    {"title": "Nigali Sagar pond", "text": "The large rectangular pond beside the pillar gives the site its name. In winter it often holds egrets, herons and a few ducks, and the reflections at dusk make good photographs."},
+    {"title": "Gotihawa pillar and stupa", "text": "South-west of Taulihawa, Gotihawa preserves the broken base of another Ashoka pillar next to a large brick stupa associated with Krakuchchanda Buddha. Some archaeologists think the Niglihawa fragments originally stood here."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini, drive north-west via the Lumbini–Taulihawa road and village roads, ≈ 20–25 km · 45 min. From Tilaurakot it is ≈ 8 km · 20 min. Roads are paved but narrow in the last few kilometres. Most visitors come by private car as part of a Kapilavastu circuit."},
+    {"mode": "Air", "text": "Gautam Buddha International Airport in Bhairahawa, 35 minutes by air from Kathmandu, is the nearest airport. From there Niglihawa is about 45 km and 1.5 hours by road."}
+  ],
+  "where_to_stay": "There is no accommodation at Niglihawa or Gotihawa. Stay in Lumbini, 45 minutes away, where Buddha Maya Gardens and Lumbini Hokke Hotel make a comfortable base for the Kapilavastu sites. Travellers on a tight budget can find simple guesthouses in Lumbini Bazaar near the eastern gate. Taulihawa has a few basic lodges but little that we would recommend to leisure travellers. For groups flying in late, Hotel Nirvana in Bhairahawa is about 1.5 hours away by road.",
+  "stays": [],
+  "tips": [
+    "Ask your guide to point out the Ashokan lines and Ripu Malla's later text, which are easy to confuse on the weathered stone.",
+    "Visit Niglihawa after Tilaurakot on the drive back to Lumbini, since it lies roughly between the two.",
+    "Carry binoculars in winter if you enjoy birds; the pond often holds herons and egrets.",
+    "There are no shops at the site, so bring water and snacks from Lumbini or Taulihawa.",
+    "Do not climb on or touch the pillar; the polish and inscription are fragile and protected."
+  ],
+  "themes": ["buddhist-circuit", "pilgrimage", "cultural-tours", "photography"],
+  "nearby": ["tilaurakot", "kudan", "lumbini"],
+  "experiences": [
+    {
+      "slug": "niglihawa-ashoka-pillar-visit",
+      "title": "Ashoka pillar at Nigali Sagar",
+      "kind": "culture",
+      "duration": "45 minutes",
+      "best_time": "Late afternoon, Oct–Mar",
+      "price_hint": "Included in our Buddhist circuit packages",
+      "image_query": "Nigali Sagar Ashoka pillar inscription",
+      "wiki": "Nigali Sagar",
+      "summary": "A 45-minute guided stop at the broken Ashoka pillar beside Nigali Sagar pond, reading the Brahmi inscription about Kanakamuni Buddha's stupa and the later graffiti of a 14th-century Nepali king.",
+      "body": [
+        "We park at the edge of the village and walk a few minutes to the fenced enclosure by the pond. The standing stump and the fallen upper section lie a short distance apart. Your guide shows where the four lines of Ashoka's Brahmi text run and explains the key phrase: the emperor enlarged the stupa of Buddha Konakamana for the second time and later came to worship in person.",
+        "That phrase holds the oldest written record of the word stupa, which is why scholars treat this inscription with such care. The guide also points out the much later lines left by Ripu Malla, who visited in the 14th century, a reminder that the pillar was a known landmark for pilgrims long after Ashoka.",
+        "The stop takes about 45 minutes. Late afternoon light is best on the stone and the pond. The site is flat and quiet, with a few trees for shade. Please stay outside the railings and avoid touching the stone surface."
+      ],
+      "good_for": ["pilgrims", "photographers", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "What does the Niglihawa inscription say?", "a": "It says that King Priyadarsin, Ashoka, enlarged the stupa of Buddha Konakamana for the second time in the 14th year of his reign, and in his 20th year came in person to worship and set up a stone pillar. It is the earliest known written record of the word stupa."},
+        {"q": "Why is the Niglihawa pillar broken?", "a": "The pillar broke at an unknown date, and its upper part lies beside the standing stump. Archaeologists believe it may have been moved from its original location, possibly Gotihawa, where a pillar base stands beside a stupa. The capital that once topped it has never been found."},
+        {"q": "Is Niglihawa worth visiting?", "a": "Yes, for anyone interested in Ashoka or early Buddhism. The ruins are modest, but the inscription is one of the most important in Nepal after the Lumbini pillar. It takes under an hour and fits easily on the way back from Tilaurakot to Lumbini."}
+      ]
+    },
+    {
+      "slug": "gotihawa-ashoka-pillar-stupa-visit",
+      "title": "Gotihawa pillar stump and Krakuchchanda stupa",
+      "kind": "spiritual",
+      "duration": "40 minutes",
+      "best_time": "Morning, Oct–Mar",
+      "price_hint": "Included in our Buddhist circuit packages",
+      "image_query": "Gotihawa Ashoka pillar stupa",
+      "wiki": "Gotihawa",
+      "summary": "A short stop at Gotihawa, south-west of Taulihawa, where the broken base of an Ashoka pillar stands beside a large brick stupa that tradition links to Krakuchchanda, one of the Buddhas before Shakyamuni.",
+      "body": [
+        "Gotihawa is a village a few kilometres south-west of Taulihawa. At its edge, a large circular brick stupa rises from the fields, and next to it stands the lower part of an Ashoka pillar, broken off near ground level. Unlike Lumbini and Niglihawa, no inscription survives here, but the Mauryan polish on the stone confirms its age.",
+        "Buddhist tradition, recorded by the Chinese pilgrims Faxian and Xuanzang, places the birthplace of Krakuchchanda Buddha near Kapilavastu, and many scholars connect that account to Gotihawa. Some also suggest that the fragments now at Niglihawa once stood on this base. Your guide explains both ideas and the evidence behind them.",
+        "Pilgrims typically circle the stupa and pause at the pillar stump. The visit takes about 40 minutes and is usually combined with Kudan, which lies on the same road. There are no facilities, so carry water and visit in the cooler morning hours outside winter."
+      ],
+      "good_for": ["pilgrims", "seniors", "groups"],
+      "faqs": [
+        {"q": "Who was Krakuchchanda Buddha?", "a": "Krakuchchanda, also called Kakusandha, is one of the Buddhas who, according to Buddhist tradition, lived in earlier ages before Shakyamuni, the historical Buddha. Chinese pilgrims described his birthplace near Kapilavastu, and Gotihawa is one of the sites identified with it."},
+        {"q": "Is there an inscription at Gotihawa?", "a": "No inscription survives on the Gotihawa pillar, which is broken close to the ground. Its identification rests on the polished Mauryan stone, the large stupa beside it and descriptions left by Chinese pilgrims. It may be the original base of the inscribed pillar fragments at Niglihawa."},
+        {"q": "How far is Gotihawa from Kudan?", "a": "Only a few kilometres; both lie on village roads south of Taulihawa, and the drive between them takes 10–15 minutes. Most pilgrims visit Kudan and Gotihawa together in about 1.5 hours before heading north to Tilaurakot."}
+      ]
+    },
+    {
+      "slug": "nigali-sagar-pond-birdwatching",
+      "title": "Winter birds at Nigali Sagar pond",
+      "kind": "wildlife",
+      "duration": "1 hour",
+      "best_time": "Dawn or dusk, Dec–Feb",
+      "price_hint": "",
+      "image_query": "egrets pond Terai Nepal winter",
+      "wiki": "",
+      "summary": "An hour by the large pond beside the Niglihawa pillar at dawn or dusk in winter, watching egrets, herons, kingfishers and occasional ducks, with village life around the water and the pillar silhouetted against the sky.",
+      "body": [
+        "Ponds like Nigali Sagar are important feeding spots for birds in the Kapilvastu farmland, especially in the dry winter when fields are bare. We walk slowly around the bank, keeping a distance from villagers' fishing areas. Common sightings include little and cattle egrets, pond herons, white-throated and common kingfishers, red-wattled lapwings and, in some years, small groups of wintering ducks.",
+        "Sarus cranes sometimes feed in the fields nearby, though they are more regularly seen around the Lumbini wetlands. Bird life varies year to year with water levels and village use of the pond, so we treat this as a relaxed nature hour rather than a guaranteed birding trip.",
+        "Bring binoculars and a zoom lens if you have them. Dusk is the most atmospheric time, with the pillar standing against the evening sky, but return to Lumbini before full dark. In summer and the monsoon, mosquitoes make this outing less pleasant."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "What birds can we see at Nigali Sagar?", "a": "In winter you can usually see egrets, pond herons, kingfishers, lapwings and drongos, with occasional ducks and storks. Sarus cranes are possible in nearby fields. Numbers vary with water levels and village activity, so treat it as a pleasant nature stop rather than a dedicated birding site."},
+        {"q": "Is dawn or dusk better for birds at Niglihawa?", "a": "Both work. Dawn is cooler and birds are more active, but you need to leave Lumbini around 6 am. Dusk is easier to combine with the Kapilavastu circuit and gives better light on the pillar. In December and January fog can blanket the pond at dawn."},
+        {"q": "Do we need a birding guide at Nigali Sagar?", "a": "Not essential. Our cultural guide can identify common species, and the pond is small enough to cover on your own. Serious birders should book a specialist from Lumbini, who can combine the pond with the crane sanctuary and fields around Lumbini in one morning."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Niglihawa?", "a": "Niglihawa is a village in Kapilvastu district, about 7 km north-east of Taulihawa and roughly 20 km north-west of Lumbini. The Ashoka pillar lies at the edge of a large pond called Nigali Sagar. It is about 8 km from Tilaurakot, so the two are usually visited together."},
+    {"q": "What is special about the Niglihawa Ashoka pillar?", "a": "Its inscription records that Ashoka enlarged the stupa of Kanakamuni Buddha and later visited in person. It contains the earliest known written use of the word stupa. It also carries a 14th-century inscription by Ripu Malla, showing that pilgrims kept visiting for centuries."},
+    {"q": "How old is the Niglihawa pillar?", "a": "The pillar dates to Ashoka's reign in the 3rd century BCE. The inscription says he visited in the 20th year of his reign, the same year he visited Lumbini, which places the visit around 249 BCE. That makes the stone more than 2,200 years old."},
+    {"q": "How do I visit Niglihawa from Lumbini?", "a": "Drive about 45 minutes north-west by private car, or combine it with Tilaurakot on a half-day Kapilavastu circuit. Local buses go to Taulihawa, but reaching Niglihawa from there requires an auto or taxi. A car with a guide is the most practical option."},
+    {"q": "Is Niglihawa the same as Nigali Sagar?", "a": "Yes, the names refer to the same place. Niglihawa is the village, and Nigali Sagar is the large pond beside which the Ashoka pillar lies. Guidebooks and signs use both names, and you may also see the spelling Nigalihawa."},
+    {"q": "What is the link between Niglihawa and Gotihawa?", "a": "Gotihawa, south-west of Taulihawa, has the stump of another Ashoka pillar beside a large stupa. Some archaeologists suggest the inscribed fragments at Niglihawa were originally part of the Gotihawa pillar and were moved later. Visiting both helps you weigh the theory."},
+    {"q": "How long should I spend at Niglihawa?", "a": "About 45 minutes is enough to see the pillar fragments, read the inscription with a guide and walk around the pond. Add another hour if you want to watch birds at dawn or dusk. The drive to and from Lumbini takes about 45 minutes each way."},
+    {"q": "Are there facilities at Niglihawa?", "a": "No. There are no shops, restaurants or reliable toilets at the site. Use facilities at Tilaurakot or in Taulihawa before you arrive, and carry water and snacks. The site is fenced but open, with a few trees for shade."},
+    {"q": "When is Niglihawa best visited?", "a": "October to March offers dry, mild weather and good light. Winter dawns can be foggy, while late afternoons are usually clear. April to June is hot, so visit early. The monsoon months bring heavy rain and mosquitoes, but the pond is full and the fields are green."}
+  ]
+}

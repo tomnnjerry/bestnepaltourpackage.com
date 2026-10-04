@@ -1,0 +1,132 @@
+{
+  "slug": "kagbeni",
+  "name": "Kagbeni",
+  "region": "mustang",
+  "kind": "old town",
+  "wiki": "Kagbeni",
+  "image_query": "Kagbeni village Kali Gandaki monastery",
+  "lat": 28.839,
+  "lng": 83.785,
+  "altitude_m": 2810,
+  "tagline": "Medieval lanes, Shaligram gravels and the door to Upper Mustang",
+  "meta_description": "Kagbeni guide: 2,810 m mud-brick village at the Kali Gandaki confluence, known for Shaligram stones, shraddha rites, Kag Chode monastery and Upper Mustang.",
+  "summary": "Kagbeni (2,810 m) is a fortified mud-brick village where the Jhong Khola meets the Kali Gandaki, 11 km north of Jomsom. Pilgrims come to search the river for Shaligram stones and perform shraddha for ancestors; trekkers come because the Upper Mustang restricted area begins just north of the village.",
+  "intro": [
+    "Kagbeni looks like the Tibetan plateau arrived early. Its houses are built of stone and mud, joined together by tunnels and narrow alleys designed to break the wind, with firewood stacked on every flat roof. A red monastery, Kag Chode Thupten Samphel Ling, founded in 1429, rises over the village, and two clay guardian figures, a male and a female, protect the entrances. Green barley and buckwheat fields stand out sharply against the grey gravel of the river.",
+    "The name means something like the place where two rivers meet, and that confluence is why Hindu pilgrims stop here on the way to or from Muktinath. The Kali Gandaki's gravels are the main source of Shaligram, black fossil ammonites revered as forms of Vishnu, and families walk down to the riverbank to search for them. Many also perform shraddha and pinda daan for their ancestors at the sangam, an act believed to be especially effective here.",
+    "Kagbeni is also a frontier. A police and ACAP checkpoint at the north end marks the start of Upper Mustang, where a separate restricted area permit and a licensed guide are required. Trekkers heading for Lo Manthang often spend their first night here. For pilgrims it is a 20-minute detour off the Jomsom–Muktinath road, so it fits easily into a Muktinath day with an hour or two at the river."
+  ],
+  "facts": [
+    ["Altitude", "2,810 m"],
+    ["Best months", "Mar – Jun · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Jomsom, 11 km · 30–40 min by jeep"],
+    ["From Kathmandu", "Flights via Pokhara and Jomsom, then 40 min by jeep"],
+    ["Known for", "Shaligram stones, shraddha at the confluence, Kag Chode monastery"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Shaligram hunting on the riverbank", "text": "The wide grey gravel bars of the Kali Gandaki below the village hold Shaligram, fossil ammonites around 150 million years old. Families spend an hour cracking river stones and searching the shallows. Finding one is luck; buying one from a trusted seller is the fallback."},
+    {"title": "Shraddha at the sangam", "text": "Priests in Kagbeni perform pinda daan and tarpan for ancestors where the Jhong Khola joins the Kali Gandaki. Many Indian families plan the rite here on the same day as Muktinath darshan. Agree the dakshina and the ritual in advance through your guide."},
+    {"title": "Kag Chode monastery", "text": "The Sakya monastery founded in 1429 dominates the village with its red walls. Inside are old murals, a large Shakyamuni statue and a library of texts. Young monks study here, and visitors can attend the morning prayers quietly."},
+    {"title": "Guardian figures and tunnels", "text": "Kagbeni's lanes run through covered passages between houses. At the village edges stand the khenis, clay figures of a male and female protector, said to ward off evil spirits. Walk the lanes with a guide; they are easy to get lost in."},
+    {"title": "View up into Upper Mustang", "text": "From the north end of the village you look up the Kali Gandaki towards Tangbe and Chhusang, red and ochre cliffs pocked with caves. The checkpoint here is where Upper Mustang permits are inspected."},
+    {"title": "Red House Lodge", "text": "One of the region's oldest lodges sits in a centuries-old house with its own shrine room and a large Maitreya statue. Even if you sleep elsewhere, tea in its courtyard is a good way to see a traditional Kagbeni home from inside."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Kagbeni is ≈ 11 km · 30–40 min by jeep from Jomsom on the road to Muktinath; the turn-off is at Eklebhatti. Muktinath to Kagbeni is ≈ 12 km · 40 min downhill. Most pilgrims visit on the way back from Muktinath, when the morning is still calm."},
+    {"mode": "Air", "text": "Fly Pokhara–Jomsom (20 min) in the early morning, then drive. With good timing you can reach Kagbeni by 9 am, complete rites at the river and still visit Muktinath the same day."},
+    {"mode": "On foot", "text": "From Jomsom it is a flat 3–3.5 hour walk up the riverbed, better done early before the wind. From Muktinath it is 3 hours downhill via Jharkot and Khingar. Kagbeni is also day one or two of the Upper Mustang trek."}
+  ],
+  "where_to_stay": "Kagbeni has around a dozen lodges, most of them family-run guesthouses with simple rooms, some with attached bathrooms and solar hot water. Red House Lodge, in a restored house with a shrine room and a Maitreya statue, is the one we use most for its character and location in the old village. Others cluster near the checkpoint and along the river, and several have rooftop terraces facing Nilgiri. Rooms are basic compared with Jomsom, so pilgrims who want heating and larger rooms usually visit Kagbeni as a stop and sleep in Jomsom. For Upper Mustang trekkers, a night here sets up the long day north to Chele.",
+  "stays": ["red-house-lodge-kagbeni"],
+  "tips": [
+    "Wear sandals or water shoes for Shaligram hunting and stay in the shallows; the Kali Gandaki current is strong and cold.",
+    "Do not cross the checkpoint into Upper Mustang without the restricted area permit and your licensed guide; fines are steep.",
+    "Ask before photographing the khenis and monks, and walk clockwise around chortens and mani walls.",
+    "Bring your own puja items and family details (names, gotra) if you plan shraddha at the confluence.",
+    "Try a yak burger or apple crumble at one of the cafés near the bridge; vegetarian options are always on the menu."
+  ],
+  "themes": ["pilgrimage", "cultural-tours", "trekking", "photography"],
+  "nearby": ["jomsom", "muktinath", "chhusang"],
+  "experiences": [
+    {
+      "slug": "kagbeni-shaligram-search-kali-gandaki",
+      "title": "Search for Shaligram in the Kali Gandaki",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Oct–May when the river is low",
+      "price_hint": "Included in our Muktinath yatras",
+      "image_query": "Shaligram stones Kali Gandaki riverbed",
+      "wiki": "Shaligram",
+      "summary": "Walk down to the gravel banks below Kagbeni with a guide and look for Shaligram, the black ammonite fossils worshipped as Vishnu. You learn how to spot them, how to split river stones safely and how to tell a genuine stone from a polished fake.",
+      "body": [
+        "Shaligram are fossils of ammonites, sea creatures that lived around 150 million years ago when this part of the Himalaya lay under the Tethys Sea. As the mountains rose and the Kali Gandaki cut through them, the river carried fossil-bearing shale and nodules downstream. Hindus worship these stones as natural forms of Vishnu, and the spiral pattern inside is read as the chakra. Different markings and colours have different names and meanings.",
+        "From the village we walk ten minutes to the wide riverbed just below the confluence. Our guide shows you what to look for: smooth, round, dark grey or black nodules, often with a crack line. Some locals split them with a stone to reveal the spiral; please do this carefully and away from others. Low water from October to May exposes the most gravel, and after the monsoon floods new stones are washed down.",
+        "Not everyone finds one, and many families end by buying from a local seller. Prices start around NPR 200–500 for small natural stones and rise to many thousands for split, well-marked ones. Avoid stones that look polished or have suspiciously perfect patterns. Taking natural Shaligram for personal worship is common practice, but large-scale removal and export for sale is not allowed, so keep to a few pieces."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can I find Shaligram myself at Kagbeni?", "a": "Yes, many visitors do, but it takes patience and some luck. Your best chance is in low water from October to May, in the gravel bars just below the confluence and downstream towards Jomsom. Look for dark, smooth, rounded stones. A guide who knows the river helps a lot. If you find none, buy a natural stone locally."},
+        {"q": "How much does a Shaligram stone cost in Mustang?", "a": "Small natural stones cost around NPR 200–500 in Kagbeni, Jomsom and Ranipauwa. Split stones with clear spiral markings, rare colours or symbolic patterns can cost NPR 2,000–20,000 or more. Prices are negotiable. Be cautious of glossy, artificially carved stones sold as rare types; ask your priest at home what you need first."},
+        {"q": "Is it legal to take Shaligram stones from Nepal?", "a": "Carrying a few Shaligram for personal worship is normal and generally not questioned at the airport. Commercial collection and export of fossils requires permission, and large quantities may be stopped. Keep stones in your checked bag with a note that they are religious items. Rules change, so check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kagbeni-shraddha-pinda-daan-sangam",
+      "title": "Shraddha and pinda daan at the Kagbeni sangam",
+      "kind": "spiritual",
+      "duration": "1.5–2 hours",
+      "best_time": "Morning, all year",
+      "price_hint": "Priest dakshina ≈ ₹2,500–6,000 per family",
+      "image_query": "Kagbeni confluence Kali Gandaki ritual",
+      "wiki": "",
+      "summary": "Kagbeni's confluence is one of the most sought-after places in Nepal to perform shraddha for ancestors. We arrange a local priest, help families gather what they need and time the rite so it fits with Muktinath darshan on the same day.",
+      "body": [
+        "Many Hindu families believe that rites for ancestors performed at Kagbeni, where the Jhong Khola meets the sacred Kali Gandaki below Muktinath, carry special merit, and the village is sometimes compared to Gaya for this purpose. Pilgrims offer pinda (rice balls), sesame, barley flour, kusha grass and water while the priest recites the names of three generations of ancestors on the father's and mother's side.",
+        "We arrange the priest a day in advance, confirm the type of ritual and agree the dakshina so there are no surprises at the river. Bring a list of names and your gotra; if you follow a particular tradition, tell us so we can find a priest who knows it. Men often shave their head the day before in their home town or in Jomsom. The ritual itself takes 60–90 minutes on the riverbank.",
+        "Because Jomsom flights land around 7–8 am, a typical day runs: drive to Kagbeni, rite at the confluence, lunch, then Muktinath darshan in the early afternoon, or the reverse order if the weather is better at Muktinath first. Wind picks up after noon, so the riverbank is coldest and dustiest in the afternoon. Wear warm layers and bring a shawl for seniors who must sit on the ground."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "groups"],
+      "faqs": [
+        {"q": "Why is shraddha done at Kagbeni?", "a": "Kagbeni lies at the confluence of the Kali Gandaki and the Jhong Khola, below Muktinath, and the Kali Gandaki is the river of Shaligram, sacred to Vishnu. Many families believe ancestral rites here bring moksha to the departed, comparable to Gaya. It is especially popular with Gujarati, Marathi, South Indian and Nepali Hindu families."},
+        {"q": "What should we bring for pinda daan in Kagbeni?", "a": "The priest normally supplies rice, sesame, barley flour, kusha grass, flowers and a copper vessel, included in the agreed dakshina. Bring the names of three generations of ancestors on both sides, your gotra, a white dhoti or clean clothes for the main performer, and a towel. Tell us in advance about specific family traditions."},
+        {"q": "How much does shraddha cost at Kagbeni?", "a": "The dakshina and materials usually cost around ₹2,500–6,000 per family, depending on the ritual's length and the number of people for whom rites are performed. We agree the amount with the priest before the day. Extra donations to the priest or the local monastery are a personal choice. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kagbeni-old-village-monastery-walk",
+      "title": "Old Kagbeni lanes and Kag Chode monastery",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Morning prayers 6–7 am or late afternoon, Mar–Nov",
+      "price_hint": "Monastery entry ≈ NPR 200",
+      "image_query": "Kag Chode monastery Kagbeni",
+      "wiki": "",
+      "summary": "A guided walk through Kagbeni's tunnelled lanes, past the clay khenis and up to the 15th-century Kag Chode Sakya monastery. Time it with morning prayers or late afternoon light on the red walls.",
+      "body": [
+        "Kagbeni's old core is a knot of passages, some roofed over by the houses above, built so that winter winds and raiders could not sweep through. Our guide leads you past prayer wheels set into walls, irrigation channels that feed barley terraces and doorways topped with ram skulls and protective symbols. The male and female khenis, crude clay figures with fierce faces, stand at the village boundaries as guardians.",
+        "Kag Chode Thupten Samphel Ling, the monastery, was founded in 1429 and belongs to the Sakya school of Tibetan Buddhism. Its assembly hall holds a large image of Shakyamuni, painted protector deities and old texts wrapped in cloth. If you arrive around 6–7 am you can sit at the back during the monks' prayers, with drums and long horns. Entry is a small fee, which supports the monastery school.",
+        "From the monastery roof you see how Kagbeni sits on the edge of two worlds: green fields and poplars by the river, and bare brown hills rising towards Upper Mustang. Late afternoon, when the wind drops, the walls turn deep red. The walk is short and mostly flat, with a few steep steps inside the monastery."
+      ],
+      "good_for": ["couples", "photographers", "families", "solo"],
+      "faqs": [
+        {"q": "Can visitors attend prayers at Kag Chode monastery?", "a": "Yes, quietly. Morning prayers usually begin around 6–7 am and last about an hour. Sit at the back, do not walk in front of praying monks, remove shoes and hats, and silence phones. Ask before taking photographs. A small donation is appreciated, and the monastery charges a modest entry fee for visitors."},
+        {"q": "What are the clay figures in Kagbeni?", "a": "They are khenis, guardian figures made of clay and mud, one male and one female, placed at the edges of the village. Locals believe they keep evil spirits and misfortune away. They are part of an older protective tradition that predates or blends with Buddhism. Please do not touch them or climb nearby walls for photos."},
+        {"q": "Is Kagbeni part of Upper Mustang?", "a": "Kagbeni is in Lower Mustang and needs only the ACAP permit. The Upper Mustang restricted area starts just north of the village at the checkpoint on the trail to Tangbe and Chhusang. Beyond that point you need a restricted area permit, a registered agency and a licensed guide. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Kagbeni?", "a": "Kagbeni is in Mustang district, about 11 km north of Jomsom at 2,810 m, where the Jhong Khola joins the Kali Gandaki. It lies on the road between Jomsom and Muktinath, 30–40 minutes from Jomsom by jeep. The village marks the boundary between Lower Mustang and the Upper Mustang restricted area."},
+    {"q": "Why is Kagbeni famous?", "a": "Kagbeni is known for its medieval mud-brick architecture, the 15th-century Kag Chode monastery, Shaligram stones in the Kali Gandaki and shraddha rites at the confluence. It is also the entry point to Upper Mustang. Indian pilgrims usually combine it with Muktinath, while trekkers use it as the first stop towards Lo Manthang."},
+    {"q": "Can we visit Muktinath and Kagbeni in one day?", "a": "Yes. Fly Pokhara–Jomsom early, drive to Muktinath (1–1.5 h) for darshan, stop at Kagbeni on the way down for the river and rites, and return to Jomsom by mid-afternoon. It is a full but comfortable day. Doing Kagbeni first works too if your priest is booked early."},
+    {"q": "Do I need a permit for Kagbeni?", "a": "You need only the ACAP permit for Kagbeni village itself: NPR 1,000 for SAARC nationals and NPR 3,000 for other foreigners. Going north of the checkpoint into Upper Mustang requires a restricted area permit, issued through a registered agency, and a licensed guide. Check current status before you travel."},
+    {"q": "Is Kagbeni worth staying overnight?", "a": "Yes, if you like quiet villages and photography. Evenings and early mornings, when tour jeeps have gone, show Kagbeni at its best, with monks at prayer and smoke from kitchen fires. Rooms are simpler than Jomsom's. Pilgrim groups on a tight schedule can see the main sights in two hours."},
+    {"q": "What is the weather in Kagbeni?", "a": "Kagbeni is dry and sunny most of the year. Spring and autumn days reach 15–22 °C with nights near freezing. A strong wind blows from late morning to late afternoon. Winters are cold, often −5 to −10 °C at night, with occasional snow. Monsoon brings only light showers here."},
+    {"q": "Is there mobile network in Kagbeni?", "a": "Yes, both Nepal Telecom and Ncell have coverage in Kagbeni, with 4G in many spots, though it can drop in bad weather. Most lodges offer Wi-Fi of variable speed. Coverage becomes patchier north of Kagbeni in Upper Mustang, so download maps and tell family you may be offline."},
+    {"q": "How far is Kagbeni from Muktinath?", "a": "About 12 km by road, 40 minutes by jeep, climbing roughly 900 m from 2,810 m to 3,710 m. On foot the trail via Khingar and Jharkot takes 4–5 hours uphill or about 3 hours downhill. Many trekkers walk down from Muktinath to Kagbeni after crossing Thorong La."},
+    {"q": "Are Shaligram stones from Kagbeni genuine?", "a": "Stones found in the river are genuine fossils. Stones sold in shops are usually genuine too, but some sellers polish or carve them to sharpen markings, and a few sell imitations. Buy from established shops, ask your guide's opinion and be wary of very high prices for rare types you cannot verify."}
+  ]
+}

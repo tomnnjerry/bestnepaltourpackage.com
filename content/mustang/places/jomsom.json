@@ -1,0 +1,133 @@
+{
+  "slug": "jomsom",
+  "name": "Jomsom",
+  "region": "mustang",
+  "kind": "city",
+  "wiki": "Jomsom",
+  "image_query": "Jomsom airport Nilgiri Kali Gandaki",
+  "lat": 28.780,
+  "lng": 83.723,
+  "altitude_m": 2720,
+  "tagline": "Mustang's airstrip town on the windy Kali Gandaki",
+  "meta_description": "Jomsom guide: 2,720 m Mustang district town with a 20-minute flight from Pokhara, base for Muktinath, Kagbeni, Marpha and Upper Mustang.",
+  "summary": "Jomsom (2,720 m) is the headquarters of Mustang district and the airstrip almost every Muktinath and Upper Mustang trip passes through. Flights from Pokhara take about 20 minutes, Muktinath is 1–1.5 hours away by jeep, and the town has the region's widest choice of hotels, from simple lodges to Shinta Mani Mustang.",
+  "intro": [
+    "Jomsom sits on both banks of the Kali Gandaki at 2,720 m, with Nilgiri North (7,061 m) filling the sky to the south-east. The old town lies on the west bank, a line of flat-roofed Thakali houses, while the airstrip, government offices, hotels and the main bazaar spread along the east bank. For most visitors it is a transit point: you land from Pokhara at 7 am, have tea, and board a jeep for Muktinath or Kagbeni. It is worth more than that, and we usually plan two nights here.",
+    "The valley floor is wide, stony and dry, because Jomsom lies in the rain shadow of the Annapurna and Dhaulagiri massifs and gets well under 300 mm of rain a year. From about 11 am a strong southerly wind funnels up the gorge, picking up dust and making afternoon walks hard work. That wind is also why every flight here leaves in the early morning. Plan sightseeing for the morning and keep afternoons for the museum, a café or rest.",
+    "Within an hour of town you can reach the apple village of Marpha, the medieval lanes of Kagbeni, the quiet Thini village with its gompa, and the small turquoise Dhumba Lake. Jomsom is also where Upper Mustang groups meet their jeeps and horsemen, buy last supplies and find an ATM, though cash machines fail often enough that we tell every guest to carry enough Nepali rupees for the whole Mustang leg."
+  ],
+  "facts": [
+    ["Altitude", "2,720 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Jomsom Airport, 20 min flight from Pokhara"],
+    ["From Kathmandu", "≈ 25 min flight Kathmandu–Pokhara + 20 min Pokhara–Jomsom, or ≈ 360 km · 14–16 h by road"],
+    ["Known for", "Mustang gateway, Nilgiri views, Thakali food, Shaligram sellers"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Morning flight past Dhaulagiri", "text": "The 20-minute hop from Pokhara threads the Kali Gandaki gorge between Dhaulagiri (8,167 m) and Annapurna I (8,091 m). Sit on the left going up for Dhaulagiri and Tukuche Peak, on the right for Annapurna and Nilgiri. Flights only operate early, before the valley wind rises."},
+    {"title": "Mustang Eco Museum", "text": "A small museum on the east bank explains Thakali and Loba life: salt trade with Tibet, amchi (traditional Tibetan medicine) herbs, household tools, costumes and a replica gompa interior. An hour here gives useful background before Muktinath or Lo Manthang."},
+    {"title": "Thini village and Dhumba Lake", "text": "A 40-minute walk across the river and up the far bank brings you to Thini, one of the oldest settlements in the valley, with a Bon-influenced gompa. Continue 30 minutes to Dhumba Lake (about 2,830 m), a small green pool hung with prayer flags below Nilgiri."},
+    {"title": "Thakali kitchens", "text": "Jomsom's hotels serve full Thakali khana set: buckwheat or rice, black lentils, local greens, radish pickle and dried yak or mutton for those who eat meat. Try buckwheat pancakes with local honey and a glass of apple juice from Marpha orchards."},
+    {"title": "Shaligram stalls by the bridge", "text": "Sellers along the bazaar and near the suspension bridge offer Shaligram, the black ammonite fossils sacred to Vishnu, picked from the Kali Gandaki gravels. Prices range from NPR 200 for small pieces to many thousands for split, well-marked stones."},
+    {"title": "Base for Upper Mustang", "text": "Jeeps for Lo Manthang leave Jomsom early in the morning and take 6–8 hours. Guided groups usually stay a night in Jomsom or Kagbeni to sort permits and adjust to the height before heading north."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tara Air and Summit Air fly Pokhara–Jomsom in about 20 minutes, with several departures between roughly 6:30 and 9:30 am. Fares for Indian nationals are around NPR 11,000 one way and US$ 160–200 for other foreigners. Delays and cancellations are common in monsoon and on windy days, so leave a spare day. Check current fares and schedules before you travel."},
+    {"mode": "Road", "text": "Pokhara to Jomsom is ≈ 160 km · 7–9 h by jeep or bus via Beni, Tatopani, Ghasa and Marpha. The road is paved to Beni and rough beyond, with landslide risk from June to September. Kathmandu to Jomsom by road is ≈ 360 km and normally split with a night in Pokhara."},
+    {"mode": "Helicopter", "text": "Charter helicopters fly Pokhara–Jomsom in about 25 minutes and Kathmandu–Jomsom in about 1 hour 10 minutes. Most Muktinath heli tours touch down at Jomsom to refuel or for a permit check on the way."},
+    {"mode": "On foot", "text": "Jomsom is a day stage on the Annapurna Circuit, reached from Muktinath (5–6 h downhill via Kagbeni or Lubra) or from Tukuche and Marpha (3–5 h up-valley). Walk in the morning before the wind."}
+  ],
+  "where_to_stay": "Most hotels line the main street on the east bank, within ten minutes' walk of the airstrip, which matters when your flight leaves at 7 am. Hotel Om's Home is a long-running, well-kept 3-star choice right in the centre, with a garden and solid Thakali cooking. At the top end, Shinta Mani Mustang, opened in 2023 above the town, offers the only true luxury in Mustang, with mountain-facing suites, a spa and guided excursions. Old Jomsom on the west bank has quieter family guesthouses. For pilgrim groups we choose hotels with attached bathrooms, heating and early breakfast for flight days.",
+  "stays": ["shinta-mani-mustang", "hotel-oms-home-jomsom"],
+  "tips": [
+    "Book the first flight of the morning from Pokhara; later departures are the first to be cancelled when the wind or cloud builds.",
+    "Carry Nepali rupees in cash for the whole Mustang leg because ATMs in Jomsom are unreliable.",
+    "Pack sunglasses, a buff or mask and lip balm for the afternoon dust storm along the river.",
+    "If your flight out is cancelled, ask about a seat on a sharing jeep to Pokhara the same day rather than waiting a second morning.",
+    "Respect the small airport's rules: no photographs of security areas, and keep baggage within the 10–15 kg allowance or pay excess."
+  ],
+  "themes": ["pilgrimage", "trekking", "cultural-tours", "heli-tours", "photography"],
+  "nearby": ["marpha", "kagbeni", "muktinath"],
+  "experiences": [
+    {
+      "slug": "jomsom-thini-dhumba-lake-walk",
+      "title": "Thini village and Dhumba Lake morning walk",
+      "kind": "hiking",
+      "duration": "3 hours",
+      "best_time": "Early morning, Mar–May and Sep–Nov",
+      "price_hint": "Included in most Jomsom stays with a guide",
+      "image_query": "Dhumba Lake Jomsom Nilgiri",
+      "wiki": "",
+      "summary": "A gentle three-hour loop from Jomsom across the Kali Gandaki to the old village of Thini and on to Dhumba Lake, a small spring-fed pool with prayer flags and a clear view of Nilgiri. Good for acclimatising before Muktinath or Upper Mustang.",
+      "body": [
+        "We start from the hotel at about 7 am, cross the suspension bridge to the west bank and climb a dirt track for 40 minutes to Thini. Thini predates Jomsom; its flat-roofed houses huddle together against the wind and its small gompa holds old murals. Our guide explains how villages here once controlled the salt and grain trade that moved between Tibet and the Nepal hills along this valley.",
+        "From Thini the path rises gently for 30 minutes to Dhumba Lake at about 2,830 m. The water is green to turquoise, depending on light, and locals consider it sacred, so there is no swimming or fishing. Prayer flags stretch over a small shrine on the far bank. On a clear morning Nilgiri North rises steeply behind, and the whole Jomsom valley opens below you towards Marpha.",
+        "The return takes about an hour downhill to the airstrip side, and you are back before the wind picks up around 11 am. The total height gain is only about 150 m, so this suits seniors and families, and it is a useful way to spend the first afternoon or morning before a night at higher Muktinath. Wear a hat, carry water and keep a light jacket for the shade."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How hard is the Dhumba Lake walk from Jomsom?", "a": "It is easy. The full loop is about 6–7 km with roughly 150 m of climbing and takes three hours at a relaxed pace, including time in Thini. The path is a dirt track with some loose stones. Anyone who can walk an hour on uneven ground can do it. Start early because the afternoon wind makes the return dusty."},
+        {"q": "Can we swim in Dhumba Lake?", "a": "No. Dhumba Lake is treated as sacred by local Buddhist communities and swimming, washing and fishing are not allowed. You can walk around part of the shore, photograph the prayer flags and sit by the small shrine. Please do not leave offerings made of plastic, and carry out any rubbish you bring."},
+        {"q": "Is there an entry fee for Thini or Dhumba Lake?", "a": "There is no separate fee for the village or lake. You are inside the Annapurna Conservation Area, so your ACAP permit covers the walk. The Thini gompa caretaker may ask for a small donation, usually NPR 100–200, to open the prayer hall. Photography inside some halls is not allowed, so ask first."}
+      ]
+    },
+    {
+      "slug": "jomsom-mustang-eco-museum-visit",
+      "title": "Mustang Eco Museum and Thakali heritage",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "Afternoon, any season (closed some public holidays)",
+      "price_hint": "≈ NPR 100–200 entry",
+      "image_query": "Mustang Eco Museum Jomsom",
+      "wiki": "",
+      "summary": "A compact museum in Jomsom that explains the people, plants and trade of Mustang. An hour here fills the windy afternoon well and gives context for the gompas, caves and Thakali villages you will see later in the trip.",
+      "body": [
+        "The Mustang Eco Museum sits a few minutes' walk from the airstrip. Its rooms cover the Thakali, Loba and Baragaunle communities of the district, with costumes, kitchen tools, wooden locks, butter churns and the saddle bags used on the salt caravans. Panels describe how Tibetan salt and wool came south through Lo Manthang and Kagbeni while grain and cloth went north, a trade that shaped every village on this route.",
+        "One room is given to amchi medicine, the Tibetan herbal tradition still practised in Upper Mustang. Dried specimens of high-altitude plants sit beside notes on their uses, and there is a model of a monastery shrine with butter lamps and thangka paintings. Labels are mostly in English and Nepali, and our guide adds the stories that are not on the walls.",
+        "We use the museum as an afternoon activity when the wind makes walking unpleasant, usually between 1 and 4 pm. It suits families and older pilgrims who want a cultural stop without climbing. Opening days can change with staffing and holidays, so we confirm on the day. Entry is a small fee in rupees, and photography rules are posted at the door."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "groups"],
+      "faqs": [
+        {"q": "What are the Mustang Eco Museum opening hours?", "a": "It generally opens from about 10 am to 4 pm and closes on some public holidays. Hours depend on staff, so we check before we walk over. An hour is enough for most visitors. Entry is a small fee of about NPR 100–200 for foreigners. Check current status before you travel."},
+        {"q": "Is the museum worth visiting with children?", "a": "Yes, for a short visit. Children usually like the costumes, wooden tools and herb samples, and the building is sheltered from the afternoon wind. Keep it to 45 minutes for younger children. Combine it with tea and apple pie at a nearby café, and save energy for the next day's drive to Muktinath."},
+        {"q": "Can I learn about amchi medicine in Jomsom?", "a": "The museum has a dedicated amchi section with dried herbs and explanations of how Tibetan doctors diagnose and treat illness. For a deeper visit, Lo Manthang has an amchi school and clinic that welcomes respectful visitors. Ask your guide to arrange it if you are going to Upper Mustang."}
+      ]
+    },
+    {
+      "slug": "jomsom-thakali-cooking-evening",
+      "title": "Thakali dinner and buckwheat kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, all year",
+      "price_hint": "≈ ₹1,500 per person",
+      "image_query": "Thakali khana set Nepal",
+      "wiki": "Thakali cuisine",
+      "summary": "An evening in a Jomsom hotel kitchen learning how the Thakali, the trading community of the lower Kali Gandaki, make their famous set meal: dal, rice or dhido, greens, achar and buckwheat dishes. You eat what you help cook.",
+      "body": [
+        "Thakali khana set is now served all over Nepal, but it comes from this valley, where Thakali families ran inns for salt traders. In our cooking evening a hotel cook shows you how black lentil dal is slow-cooked in an iron pot, how mustard greens are stir-fried with dried chilli and timur (Sichuan pepper), and how the sharp radish and tomato achar is ground on a stone.",
+        "Buckwheat is the local grain at this height. You will mix buckwheat flour into dhido, a stiff porridge eaten by hand, and fry buckwheat pancakes called kanchemba or simply eaten with local honey. Vegetarian and Jain-friendly versions are easy to arrange, since many of our Indian guests prefer no onion or garlic, and the cook adjusts spice for children.",
+        "The session lasts around two hours and ends with dinner at the hotel. It works best for small groups of two to eight. There is no stage show: you stand in a working kitchen, ask questions and eat well. Bring an appetite and a little patience, as cooking at 2,720 m takes longer and pressure cookers whistle constantly."
+      ],
+      "good_for": ["families", "couples", "groups", "solo"],
+      "faqs": [
+        {"q": "Is Thakali food vegetarian?", "a": "Thakali set meals are easily vegetarian: rice or dhido, dal, seasonal greens, potato curry and pickles. Meat versions add dried mutton or yak. For pure vegetarian or Jain meals without onion and garlic, tell us when booking and we brief the hotel kitchen in advance. Most Jomsom hotels already cook for Indian pilgrim groups."},
+        {"q": "What is dhido?", "a": "Dhido is a thick porridge made by stirring buckwheat or millet flour into boiling water until it holds together. It is eaten by hand with dal, greens and pickle and keeps you full for hours, which is why it suits cold, high villages. It tastes nutty and mild and takes some practice to eat neatly."},
+        {"q": "Can I buy Marpha apple products in Jomsom?", "a": "Yes. Shops in Jomsom sell Marpha dried apples, apple jam, apple cider vinegar, juice and local apple and apricot brandy. Prices are a little higher than in Marpha village itself. Alcohol cannot be carried on some domestic flights in hand luggage, so pack bottles well in checked bags."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Jomsom?", "a": "Jomsom sits at about 2,720 m, with the airstrip slightly higher. Most visitors feel only mild breathlessness at this height. Muktinath, one hour away by jeep, is almost 1,000 m higher at 3,710 m, so we prefer to sleep in Jomsom and visit Muktinath as a day trip, especially for seniors and children."},
+    {"q": "How do I get from Pokhara to Jomsom?", "a": "The fastest way is the 20-minute morning flight with Tara Air or Summit Air. By road it is about 160 km and 7–9 hours by jeep or bus via Beni and Tatopani. Helicopters take around 25 minutes. Flights are often delayed by wind or cloud, so keep a buffer day in your plan."},
+    {"q": "Why do Jomsom flights only operate in the morning?", "a": "A strong wind blows up the Kali Gandaki gorge from late morning, often reaching speeds that make landing small aircraft unsafe. Airlines therefore fly between roughly 6:30 and 10:30 am. If the morning is cloudy in Pokhara or Jomsom, flights wait or cancel. Afternoon flights are almost never scheduled."},
+    {"q": "Is there an ATM in Jomsom?", "a": "There are a few bank ATMs, but they run out of cash or go offline often, and foreign cards are sometimes declined. Bring enough Nepali rupees from Pokhara or Kathmandu for hotels, permits, jeeps, temple offerings and tips. Indian rupee notes of 100 are accepted in some shops, larger Indian notes are not legal tender in Nepal."},
+    {"q": "How many days do I need in Jomsom?", "a": "One night is enough if you are only passing through to Muktinath. Two nights let you visit Muktinath and Kagbeni on one day and Marpha, Thini and Dhumba Lake on another, and they give a buffer for flight delays. Upper Mustang trips usually spend one night here on each side."},
+    {"q": "What is the weather like in Jomsom?", "a": "Jomsom is dry and sunny for most of the year. Days in April–May and September–October reach 15–22 °C, with nights near 0–5 °C. December to February brings frost, occasional snow and daytime highs around 5–10 °C. The monsoon brings little rain here but disrupts flights and the road from Pokhara."},
+    {"q": "Do I need a permit for Jomsom?", "a": "Yes, Jomsom is inside the Annapurna Conservation Area, so you need an ACAP permit: NPR 1,000 for SAARC nationals including Indians and NPR 3,000 for other foreigners, with children under 10 free. Upper Mustang beyond Kagbeni needs an extra restricted area permit. Check current status before you travel."},
+    {"q": "Can Indian citizens fly to Jomsom with an Aadhaar card?", "a": "Domestic airlines in Nepal ask Indian nationals for a valid passport or voter ID card, the two documents Nepal accepts for Indian visitors. Aadhaar and PAN cards are not accepted for identity. Children under 15 can travel with a school ID or birth certificate along with a parent. Carry the original and a photocopy."},
+    {"q": "Is Jomsom good for families with children?", "a": "Yes, at 2,720 m it is a manageable height for most children. Keep days short, avoid the afternoon wind, keep children warm at night and give them plenty of water. Easy outings include Thini and Dhumba Lake, the eco museum and Marpha. Talk to your doctor first if a child has asthma or heart conditions."}
+  ]
+}

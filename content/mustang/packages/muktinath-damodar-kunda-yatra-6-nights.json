@@ -1,0 +1,170 @@
+{
+  "slug": "muktinath-damodar-kunda-yatra-6-nights",
+  "title": "Muktinath and Damodar Kunda Yatra, 6 Nights",
+  "region": "mustang",
+  "type": "pilgrimage",
+  "grade": "Moderate",
+  "nights": 6,
+  "themes": ["pilgrimage", "heli-tours", "family-holidays"],
+  "stops": [{"place": "kathmandu", "nights": 1}, {"place": "pokhara", "nights": 3}, {"place": "jomsom", "nights": 2}, {"place": "muktinath", "nights": 0}, {"place": "damodar-kunda", "nights": 0}],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 115000,
+  "price_from_usd": 1380,
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 4890,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, Hotel Om's Home in Jomsom",
+  "transport": "Kathmandu–Pokhara and Pokhara–Jomsom flights, helicopter Jomsom–Damodar Kunda–Pokhara, private jeep and car",
+  "group": "Private family or small group, 2–5 per helicopter",
+  "meta_description": "Muktinath and Damodar Kunda yatra in 7 days and 6 nights: Jomsom flight, Kagbeni, Muktinath darshan, then a helicopter to Damodar Kunda at 4,890 m. From ₹1,15,000.",
+  "summary": "Combine Muktinath with the high sacred lakes of Damodar Kunda in 7 days and 6 nights. Fly to Jomsom, acclimatise two nights, take darshan at Muktinath, then fly by helicopter from Jomsom to Damodar Kunda (about 4,890 m) for a short puja and on to Pokhara. A spare day protects against weather. From ₹1,15,000.",
+  "intro": [
+    "Damodar Kunda is one of the hardest Hindu pilgrimages in Nepal to reach on foot, a remote camping trek of more than a week from Lo Manthang. This yatra brings it within reach of families by pairing the classic Muktinath darshan by flight with a short helicopter hop from Jomsom. Starting the helicopter from Jomsom, rather than Pokhara or Kathmandu, keeps flight time and cost down, and the two nights you will already have spent at 2,720 m help your body cope with the brief landing near 4,890 m.",
+    "The plan has deliberate slack. Day 5 is the heli day; if cloud covers Damodar Kunda, day 6 becomes the second attempt from Jomsom, and if day 5 works, day 6 is a relaxed day in Pokhara. Only healthy travellers should fly to this altitude: people with heart disease, severe asthma or uncontrolled blood pressure, pregnant women and infants should choose our Muktinath-only yatra instead. We collect each passenger's weight in advance to plan the helicopter load."
+  ],
+  "highlights": [
+    "Two nights in Jomsom for acclimatisation before the high landing",
+    "Kagbeni Shaligram search and shraddha at the confluence",
+    "Muktinath darshan, 108 spouts and Jwala Mai flame",
+    "Helicopter from Jomsom to Damodar Kunda, about 4,890 m",
+    "Puja and holy water collection at the sacred lakes",
+    "Spare weather day built into the itinerary"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, Pashupatinath aarti",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport–hotel · 30 min",
+      "flight": "",
+      "text": "Arrive in Kathmandu and transfer to your hotel. In the evening, visit Pashupatinath for darshan and the Bagmati aarti. At the briefing we confirm passenger weights for the helicopter, collect ID copies for the ACAP and Upper Mustang permits (needed because Damodar Kunda lies in the restricted area), and go through the health guidance for the high landing. Please tell us honestly about any heart, lung or blood pressure condition.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Pokhara, lake and temples",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Sightseeing · 2–3 h",
+      "flight": "Kathmandu–Pokhara · 25 min",
+      "text": "Fly to Pokhara in the morning. Visit Bindhyabasini temple, row across Phewa Lake to Tal Barahi, and walk along Lakeside in the evening. Pack a small bag for Mustang within the 10–15 kg flight limit; the rest stays at the hotel, where you will return for three nights in total over the trip. Early night for the morning flight.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Fly to Jomsom, Kagbeni rites",
+      "place": "kagbeni",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 2810,
+      "walk": "≈ 1–2 h at Kagbeni",
+      "drive": "Jomsom–Kagbeni–Jomsom · 22 km · 1.5 h",
+      "flight": "Pokhara–Jomsom · 20 min",
+      "text": "Take the first morning flight to Jomsom (2,720 m) through the Kali Gandaki gorge. After tea, drive to Kagbeni (2,810 m) to search for Shaligram in the river gravels and, if booked, perform shraddha at the sangam with a local priest. Walk through the old village and Kag Chode monastery. Return to Jomsom for lunch and rest in the afternoon, drinking plenty of fluids; this is the start of acclimatisation for Damodar Kunda.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Muktinath darshan by jeep",
+      "place": "muktinath",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 3710,
+      "walk": "≈ 1 h at the temple",
+      "drive": "Jomsom–Muktinath–Jomsom · 44 km · 2.5–3 h",
+      "flight": "",
+      "text": "Drive 1–1.5 hours to Ranipauwa and walk up to Muktinath temple (3,710 m) for darshan, the 108 spouts, the kunds and Jwala Mai. Spending a few hours at 3,700 m today is valuable preparation for tomorrow's higher landing. Lunch in Ranipauwa, then return to Jomsom via Jharkot. In the evening your guide checks everyone's health with a pulse oximeter and confirms the helicopter for the morning, depending on the forecast.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Heli to Damodar Kunda, then Pokhara",
+      "place": "damodar-kunda",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 4890,
+      "walk": "≈ 10–15 min at the lake",
+      "drive": "Transfers",
+      "flight": "Jomsom–Damodar Kunda · 25–30 min; Damodar Kunda–Jomsom · 25 min; Jomsom–Pokhara · 25 min",
+      "text": "At first light the helicopter collects you from Jomsom and flies north over Upper Mustang's canyons and cave cliffs towards the Damodar Himal. Land near the main lake at about 4,890 m and spend 10–15 minutes for a quick puja, sprinkling the holy water and filling small bottles. Move slowly and stay near the guide. Return to Jomsom to refuel and continue to Pokhara, landing by mid-morning. If weather prevents the flight, we stay in Jomsom and try again on day 6.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Spare weather day or Pokhara sightseeing",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 1600,
+      "walk": "",
+      "drive": "Sightseeing · 3 h",
+      "flight": "",
+      "text": "If the helicopter flew on day 5, enjoy a slow day in Pokhara: sunrise from Sarangkot (about 1,600 m) over Annapurna and Machhapuchhre, Davis Falls and the Gupteshwor Mahadev cave, then a quiet afternoon by the lake. If day 5 was weathered out, we use this morning for the Damodar Kunda flight from Jomsom and fly on to Pokhara by late morning.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly to Kathmandu and depart",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Transfers",
+      "flight": "Pokhara–Kathmandu · 25 min",
+      "text": "Fly back to Kathmandu after breakfast and connect to your onward flight. If time allows before an evening departure, visit Budhanilkantha, the reclining Vishnu on the northern edge of the valley, to complete the Vaishnava theme of the yatra. Please book international flights for the afternoon or later.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-oms-home-jomsom"],
+  "includes": [
+    "6 nights on twin sharing in 3-star hotels with breakfast and dinner, lunch in Mustang",
+    "Kathmandu–Pokhara–Kathmandu and Pokhara–Jomsom flights (Indian national fares)",
+    "Shared helicopter seat Jomsom–Damodar Kunda–Jomsom–Pokhara (group of 5)",
+    "ACAP permit and Upper Mustang restricted area permit for the heli day",
+    "Private jeep for Kagbeni and Muktinath, private car in Kathmandu and Pokhara",
+    "Hindi and English-speaking guide",
+    "Pulse oximeter checks and emergency oxygen",
+    "Phewa Lake boat and listed sightseeing entries",
+    "All government taxes"
+  ],
+  "excludes": [
+    "International flights",
+    "Priest dakshina, puja items and donations",
+    "Extra hotel nights or charter costs if weather delays exceed the spare day",
+    "Horse or porter at Muktinath",
+    "Travel insurance with helicopter cover",
+    "Personal expenses",
+    "Excess baggage",
+    "Tips for guide, driver and pilot"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing with 5 travellers filling one helicopter. Smaller groups either pay the remaining seats or join other pilgrims on the same date; a private heli charter Jomsom–Damodar Kunda–Pokhara costs about US$ 3,800–4,600.",
+    "At about 4,890 m, helicopters usually carry 4–5 passengers with a total weight around 350–400 kg; heavier groups are flown in two shuttles.",
+    "Ground time at Damodar Kunda is limited to about 10–15 minutes for safety. Do not run, do not carry heavy loads and follow the pilot's instructions.",
+    "Not suitable for anyone with heart disease, severe asthma, uncontrolled blood pressure, recent surgery, pregnancy or infants under two; they can do Muktinath and wait in Jomsom.",
+    "Damodar Kunda is in the Upper Mustang restricted area; the permit is charged per day (US$ 50 since late 2025). Check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Private helicopter charter instead of shared seats", "price": "≈ US$ 3,800–4,600 per helicopter"},
+    {"name": "Upgrade to Shinta Mani Mustang in Jomsom", "price": "On request"}
+  ],
+  "faqs": [
+    {"q": "How much does the Damodar Kunda yatra cost?", "a": "This 7-day yatra with Muktinath and a helicopter to Damodar Kunda starts at ₹1,15,000 per person on twin sharing for five travellers sharing the helicopter. With fewer people, the helicopter share rises. A one-day heli from Pokhara costs about ₹75,000–95,000 per seat. Check current status before you travel."},
+    {"q": "Why fly to Damodar Kunda from Jomsom?", "a": "Jomsom is only 25–30 minutes from Damodar Kunda, against about an hour from Pokhara and 1.5 hours from Kathmandu, so the flight is cheaper and the helicopter carries less fuel, which helps payload at high altitude. Two nights in Jomsom and a visit to Muktinath also prepare your body for the landing."},
+    {"q": "How high is Damodar Kunda?", "a": "Damodar Kunda is about 4,890 m, with some sources giving higher figures for other lakes in the group. That is more than 1,100 m above Muktinath. Oxygen is roughly half that at sea level, which is why ground time is short and only healthy travellers should fly."},
+    {"q": "Can elderly parents go to Damodar Kunda?", "a": "Healthy seniors who cope well at Muktinath usually manage the short landing, moving slowly. Anyone with heart or lung disease, uncontrolled blood pressure or recent surgery should not fly to 4,890 m. They can complete the Muktinath part and wait in Jomsom while the rest of the family flies."},
+    {"q": "What if the helicopter cannot fly to Damodar Kunda?", "a": "We keep day 6 as a spare. If cloud blocks the lakes on both days, we return to Pokhara by plane or helicopter and refund the unused Damodar Kunda portion according to the operator's terms, agreed in writing. Weather is the main uncertainty; autumn and spring mornings give the best chances."},
+    {"q": "Do we need a permit for Damodar Kunda?", "a": "Yes. Damodar Kunda lies in the Upper Mustang restricted area, so every visitor, including Indian nationals, needs the restricted area permit for the day of landing, plus the ACAP permit. We arrange both using passport or voter ID copies sent at least a week before arrival."},
+    {"q": "Can we bathe at Damodar Kunda?", "a": "A full dip is possible but not advisable for most people: the water is near freezing, the air thin and ground time only 10–15 minutes. Most pilgrims sprinkle water on their heads, perform a short puja and collect water in bottles. Bring a small bottle and keep puja items ready before landing."},
+    {"q": "Is there a trekking option to Damodar Kunda?", "a": "Yes, a remote camping trek of 8–10 days return from Lo Manthang, or about 18–22 days from Kathmandu, with passes near or above 5,000 m. It is strenuous and suits experienced trekkers. Most families choose the helicopter, which reaches the lakes in under 30 minutes from Jomsom."},
+    {"q": "What is the best time for the Damodar Kunda yatra?", "a": "April to May and late September to November give the most reliable morning weather for helicopter landings. June to August brings monsoon cloud into the Kali Gandaki, and winter is very cold with snow at the lakes. Trekking pilgrims traditionally go in August for Janai Purnima."}
+  ]
+}

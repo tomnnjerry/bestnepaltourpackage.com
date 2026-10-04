@@ -1,0 +1,309 @@
+{
+  "slug": "annapurna-circuit-trek-15-days",
+  "title": "Annapurna Circuit Trek 15 Days over Thorong La",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 14,
+  "themes": ["trekking", "adventure-sports", "photography", "pilgrimage"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "besisahar", "nights": 1},
+    {"place": "manang", "nights": 2},
+    {"place": "thorong-la", "nights": 0},
+    {"place": "muktinath", "nights": 1},
+    {"place": "jomsom", "nights": 1},
+    {"place": "pokhara", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 104000,
+  "price_from_usd": 1210,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5416,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, standard hotel in Besisahar, teahouse lodges on the trail",
+  "transport": "Private vehicle Kathmandu–Besisahar, jeep Besisahar–Chame, jeep Muktinath–Jomsom, Jomsom–Pokhara and Pokhara–Kathmandu flights",
+  "group": "Private or small group, 2–12",
+  "meta_description": "Annapurna Circuit trek in 15 days: jeep to Chame, high trail via Ngawal to Manang, Thorong La at 5,416 m, Muktinath and the flight from Jomsom to Pokhara.",
+  "summary": "Our 15-day Annapurna Circuit drives the road-heavy lower valley to Chame, walks the high route through Upper Pisang and Ngawal to Manang, rests there, and crosses Thorong La at 5,416 m to Muktinath before flying out from Jomsom. Nine days on foot, with the hardest day at 8–10 hours.",
+  "intro": [
+    "The Annapurna Circuit loops around the Annapurna massif from the green Marsyangdi valley to the dry Kali Gandaki, crossing one of the highest trekking passes in the world on the way. Roads now reach both Manang and Muktinath, which has changed how sensible itineraries look. We drive the lower Marsyangdi, where jeeps and trail share the same line, and start walking at Chame, where the valley turns alpine and the trail climbs away from the road onto the old high routes.",
+    "From Chame you walk past the curved rock wall of Paungda Danda to Upper Pisang, then along the balcony trail through Ghyaru and Ngawal with Annapurna II, III and IV across the valley. Two nights in Manang give time to acclimatise, then three days take you to Thorong Phedi and over the 5,416 m pass to the temple town of Muktinath. A jeep ride via Kagbeni to Jomsom and a 20-minute flight to Pokhara complete the circuit without days of backtracking."
+  ],
+  "highlights": [
+    "Crossing Thorong La at 5,416 m at sunrise",
+    "The high trail via Ghyaru and Ngawal facing Annapurna II and IV",
+    "Two nights in Manang with an acclimatisation hike to Praken Gompa or Gangapurna Lake",
+    "Muktinath, sacred to Hindus and Buddhists, with its 108 water spouts",
+    "Kagbeni's mud-brick lanes at the gateway to Upper Mustang",
+    "Mountain flight from Jomsom to Pokhara between Dhaulagiri and Annapurna"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "We meet you at the airport and transfer you to your hotel. In the evening your guide runs through the route, the Thorong La crossing plan and your kit list, with particular attention to the down jacket, gloves and a sleeping bag rated to −15 °C. We confirm that your insurance covers helicopter rescue to 5,500 m or more. The ACAP permit is arranged in advance. Thamel has plenty of shops for rentals or last-minute buys, and an early night helps before tomorrow's long drive.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Drive Kathmandu to Besisahar",
+      "place": "besisahar",
+      "overnight": "Besisahar",
+      "altitude_m": 760,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 175 km · 6–7 h",
+      "flight": "",
+      "text": "We leave Kathmandu by 7 am in a private vehicle and follow the Prithvi Highway west along the Trishuli river, stopping for breakfast and lunch at roadside restaurants. At Dumre we turn north into the Marsyangdi valley and climb gently to Besisahar, the district headquarters of Lamjung, at 760 m. Your guide shows the permits at the ACAP checkpost. Besisahar has ATMs and shops, the last reliable ones on the route, so withdraw enough cash for the coming week.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Jeep up the Marsyangdi to Chame",
+      "place": "",
+      "overnight": "Chame",
+      "altitude_m": 2670,
+      "max_m": 2670,
+      "walk": "",
+      "drive": "≈ 65 km · 6–7 h",
+      "flight": "",
+      "text": "A four-wheel-drive jeep takes us up the rough valley road through Bhulbhule, Jagat and the flat village of Tal, where the river spreads across a sandy plain, then on to Dharapani at 1,860 m, where the Manaslu circuit trail joins. Rice terraces give way to pine forest and the first snow peaks appear: Lamjung Himal and Annapurna II. The road is narrow and dramatic, with drops to the river. Chame, the headquarters of Manang district at 2,670 m, has lodges, a small hot spring by the river and views of Annapurna II.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Chame to Upper Pisang",
+      "place": "",
+      "overnight": "Upper Pisang",
+      "altitude_m": 3310,
+      "max_m": 3310,
+      "walk": "≈ 5–6 h · 14 km",
+      "drive": "",
+      "flight": "",
+      "text": "Our first walking day follows the river through pine forest and apple orchards to Bhratang at 2,850 m, then along a trail cut into the cliff with the enormous curved slab of Paungda Danda rising 1,500 m above the far bank. The valley widens at Dhukur Pokhari, and Annapurna II and Pisang Peak come into full view. Rather than stay in Lower Pisang by the road, we climb 20 minutes to Upper Pisang at 3,310 m, a Tibetan-style village with a gompa above the stone houses. Height gain is about 640 m.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "High trail via Ghyaru to Ngawal",
+      "place": "",
+      "overnight": "Ngawal",
+      "altitude_m": 3660,
+      "max_m": 3670,
+      "walk": "≈ 5 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "This is one of the best days on the circuit. From Upper Pisang the trail drops to a lake and then climbs a steep zigzag of about 400 m to Ghyaru at 3,670 m, a village perched like a balcony opposite Annapurna II, III and IV and Gangapurna. The path then contours gently through juniper and old stone ruins to Ngawal at 3,660 m. Walking high and sleeping high-ish today helps acclimatisation and keeps you well away from the road on the valley floor.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Ngawal to Manang",
+      "place": "manang",
+      "overnight": "Manang",
+      "altitude_m": 3519,
+      "max_m": 3660,
+      "walk": "≈ 4 h · 10 km",
+      "drive": "",
+      "flight": "",
+      "text": "A gentle descent leads past chortens and fields to Mungji and then Braga, whose monastery clings to a cliff of eroded rock pillars above the village and holds old statues and thangkas worth a short visit. Twenty minutes further on we reach Manang at 3,519 m, the largest village in the upper valley, by lunchtime. The afternoon is free for a hot shower, the bakeries and, if it is running, the Himalayan Rescue Association's altitude talk.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "Acclimatisation day in Manang",
+      "place": "manang",
+      "overnight": "Manang",
+      "altitude_m": 3519,
+      "max_m": 3945,
+      "walk": "≈ 3–4 h",
+      "drive": "",
+      "flight": "",
+      "text": "Today you climb high and sleep low. Our standard hike goes up a steep path for about 1–1.5 hours to Praken Gompa at about 3,945 m, a small cave monastery with views over Manang, the Gangapurna glacier and Annapurna III. Strong walkers can instead tackle Ice Lake at about 4,600 m, a 6–7 hour day. Back in Manang, visit Gangapurna Lake or walk through the old village. Rest, eat well and drink plenty of water; your guide will check everyone's oxygen levels in the evening.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 8,
+      "title": "Manang to Yak Kharka",
+      "place": "",
+      "overnight": "Yak Kharka",
+      "altitude_m": 4018,
+      "max_m": 4018,
+      "walk": "≈ 3–4 h · 9 km",
+      "drive": "",
+      "flight": "",
+      "text": "Leaving Manang, the trail climbs north-west through Tenki village and turns up the Jharsang Khola valley, away from the Marsyangdi for good. Trees disappear, replaced by juniper scrub and pasture, and the view back takes in the whole Annapurna range. Gunsang offers a tea stop. We stop at Yak Kharka, 4,018 m, after a short day of about 500 m of gain, as the altitude now matters more than the distance. Blue sheep are often seen on the slopes above in the late afternoon.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 9,
+      "title": "Yak Kharka to Thorong Phedi",
+      "place": "",
+      "overnight": "Thorong Phedi",
+      "altitude_m": 4450,
+      "max_m": 4450,
+      "walk": "≈ 3–4 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "We pass the lodges of Letdar at 4,200 m, cross the river on a wooden bridge and traverse a slope known for loose rock, where the guide will ask you to walk steadily without stopping. Thorong Phedi sits in a scree bowl at 4,450 m. If everyone feels strong, we can continue for 1 hour and 430 m to High Camp at 4,880 m; otherwise we stay at Phedi. Afternoon: rest, fluids, a short walk uphill and back, and an early dinner. Alarms are set for 3:30 am.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 10,
+      "title": "Cross Thorong La to Muktinath",
+      "place": "thorong-la",
+      "overnight": "Muktinath",
+      "altitude_m": 3710,
+      "max_m": 5416,
+      "walk": "≈ 8–10 h · 15 km",
+      "drive": "",
+      "flight": "",
+      "text": "We leave at about 4 am by headtorch, climbing steeply to High Camp and then up a long valley of moraine past cairns and false summits. Most groups reach the prayer flags on Thorong La, 5,416 m, between 8 and 10 am, about 970 m above Phedi. After photos and a sweet tea at the seasonal hut, the descent begins: 1,700 m of steep gravel switchbacks to Chabarbu and Muktinath at 3,710 m, with Dhaulagiri on the horizon. Arrive by mid-afternoon, tired and pleased.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 11,
+      "title": "Muktinath temple, drive via Kagbeni to Jomsom",
+      "place": "muktinath",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 3710,
+      "walk": "≈ 1 h temple visit",
+      "drive": "≈ 25 km · 1.5–2 h",
+      "flight": "",
+      "text": "In the morning we walk up to the Muktinath temple complex just above Ranipauwa village, where Hindu pilgrims bathe under 108 water spouts and Buddhists honour the flame that burns on natural gas at Jwala Mai. Then a jeep descends the dry valley to Kagbeni at 2,810 m, a medieval village of mud-brick houses and a red monastery at the entrance to Upper Mustang, and continues down the windy Kali Gandaki to Jomsom at 2,720 m. Try the famous apple products from nearby Marpha.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 12,
+      "title": "Fly Jomsom to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 2720,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Jomsom–Pokhara · 20 min",
+      "text": "Flights leave Jomsom early in the morning, before the strong valley winds that start around 10–11 am. The 20-minute hop threads the Kali Gandaki gorge between Dhaulagiri and Annapurna, and sitting on the left gives the best view. If wind or cloud cancels flights, we drive to Pokhara by jeep, about 160 km and 8–9 hours, and keep day 13 as the buffer. Afternoon in Pokhara for a hot shower and a lakeside lunch.",
+      "meals": "B"
+    },
+    {
+      "day": 13,
+      "title": "Spare day in Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "",
+      "flight": "",
+      "text": "This day absorbs any delay from weather, snow on the pass or Jomsom flight cancellations. If it is not needed, it becomes a well-earned rest day. Take a boat across Phewa Lake to the World Peace Pagoda, drive up to Sarangkot for sunrise over the range you have just walked around, or try paragliding. Massage centres and cafés in Lakeside are good for tired legs. Your guide can suggest options and book transport.",
+      "meals": "B"
+    },
+    {
+      "day": 14,
+      "title": "Fly Pokhara to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport transfers",
+      "flight": "Pokhara–Kathmandu · 25 min",
+      "text": "A morning flight brings you back to Kathmandu, with a last look at the Himalaya from the left-hand windows. The afternoon is free: visit Boudhanath, Pashupatinath or Patan Durbar Square, or shop in Thamel for souvenirs. In the evening we suggest a farewell dinner with the team, when your guide hands over your trek certificate. If you have a little more time in Nepal, this is a good point to add Chitwan or a Kathmandu Valley day tour.",
+      "meals": "B"
+    },
+    {
+      "day": 15,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 6 km · 30 min",
+      "flight": "",
+      "text": "We transfer you to Tribhuvan International Airport about three hours before your flight. If you are travelling on, we can arrange onward transport or tours. Keep the receipts for any domestic flight changes made during the trek, in case your insurer asks for them. We recommend booking flexible international tickets for treks that depend on mountain flights, since one cancelled Jomsom flight can shift the whole schedule by a day.",
+      "meals": "B"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers in Kathmandu and Pokhara",
+    "2 nights 3-star hotel in Kathmandu, 2 nights in Pokhara and 1 night standard hotel in Besisahar",
+    "Private vehicle Kathmandu–Besisahar and jeep Besisahar–Chame",
+    "Jeep Muktinath–Jomsom, Jomsom–Pokhara and Pokhara–Kathmandu flights",
+    "Licensed trekking guide throughout, trained in altitude first aid",
+    "One porter for every two trekkers (up to 10 kg each)",
+    "ACAP entry permit and any trekking registration currently required",
+    "Teahouse rooms and all meals on the trail",
+    "Pulse oximeter checks and a comprehensive first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Lunch and dinner in Kathmandu and Pokhara",
+    "Travel insurance covering helicopter rescue to at least 5,500 m",
+    "Hot showers, charging, Wi-Fi and bottled drinks on the trail",
+    "Muktinath temple donations and puja costs",
+    "Tips for guide, porters and drivers",
+    "Extra nights or jeep costs if bad weather forces changes beyond the spare day"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more trekkers, with 3-star city hotels and standard teahouse rooms; solo trekkers pay a supplement.",
+    "The ACAP permit costs NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians, and is included. Licensed-guide rules for foreign trekkers have applied in conservation areas since 2023; check current status before you travel.",
+    "Thorong La can close after heavy snow, most often from late December to February. We run this trek from March to May and September to early December.",
+    "The road to Manang and Muktinath means jeeps share some sections of trail; we use high routes and side trails wherever possible.",
+    "Jomsom flights are weather-dependent and morning-only. If cancelled, we drive to Pokhara and use the spare day."
+  ],
+  "add_ons": [
+    {"name": "Tilicho Lake side trip (adds 2 days)", "price": "≈ ₹17,000 / US$ 200 per person"},
+    {"name": "Helicopter Muktinath–Pokhara instead of jeep and flight", "price": "≈ US$ 600–750 per seat, shared"},
+    {"name": "Ghorepani and Poon Hill extension from Tatopani (4 days)", "price": "≈ ₹26,000 / US$ 300 per person"}
+  ],
+  "faqs": [
+    {
+      "q": "How hard is the Annapurna Circuit trek?",
+      "a": "We grade it Challenging. Most walking days are 4–6 hours, but the Thorong La crossing is an 8–10 hour day climbing about 970 m to 5,416 m and descending 1,700 m. Altitude is the real difficulty. You should be fit enough to walk several consecutive days on hilly ground, and you must allow proper acclimatisation in Manang."
+    },
+    {
+      "q": "How much does the Annapurna Circuit trek cost?",
+      "a": "Our 15-day package from Kathmandu starts from about ₹1,04,000 or US$1,210 per person on twin sharing, including transport, the Jomsom and Pokhara flights, hotels, guide, porter, permits and trail meals. Independent trekkers spend roughly US$30–45 a day on the trail, more above Manang, plus transport and permits."
+    },
+    {
+      "q": "Why does the circuit go anticlockwise over Thorong La?",
+      "a": "From the Manang side, you approach the pass gradually over many days, and the final climb from Thorong Phedi is about 970 m. From the Muktinath side, the pass is 1,700 m above the last village, a much longer and riskier single-day climb with poor acclimatisation. Almost everyone walks anticlockwise for this reason."
+    },
+    {
+      "q": "Is the Annapurna Circuit still worth it with the road?",
+      "a": "Yes, if you plan around the road. Jeeps now reach Manang and Muktinath, and walking the lower valley alongside traffic is less pleasant than it was. Driving to Chame and walking the high trail via Ghyaru and Ngawal keeps the best scenery on foot. The Thorong La crossing and the upper Manang valley remain road-free."
+    },
+    {
+      "q": "What is the best season for the Annapurna Circuit?",
+      "a": "October and November bring the clearest skies and generally stable conditions on Thorong La. March to May is the second season, warmer and with rhododendrons on the lower slopes, though the pass can hold snow in March. December to February is very cold with frequent closures. June to September brings rain in the lower valley and landslides on the road."
+    },
+    {
+      "q": "Can Indians do the Annapurna Circuit?",
+      "a": "Yes. Indian nationals need a passport or voter ID to travel in Nepal and pay the SAARC rate of NPR 1,000 for the ACAP permit. The circuit also suits pilgrims, since it ends at Muktinath, one of the 108 Divya Desams for Vaishnavas. Fitness and acclimatisation matter as much as for anyone else."
+    },
+    {
+      "q": "What happens if I get altitude sickness before Thorong La?",
+      "a": "We do not cross with anyone showing moderate or worsening symptoms. Mild symptoms may mean an extra night at Manang or Yak Kharka. More serious symptoms mean descending, by foot or jeep to Manang or lower. In emergencies, helicopter evacuation is arranged through your insurer. The spare day helps us absorb some delays."
+    },
+    {
+      "q": "How many days do I need for the Annapurna Circuit?",
+      "a": "With jeeps to Chame and a flight out of Jomsom, 14–16 days from Kathmandu is comfortable, including a Manang rest day and a spare day. Walking the whole lower valley from Besisahar adds 3–4 days. Fast itineraries of 10–12 days exist but cut acclimatisation and increase the risk on Thorong La."
+    },
+    {
+      "q": "What gear do I need for the Annapurna Circuit?",
+      "a": "Good waterproof boots, a four-season down jacket, thermal layers, a windproof shell, warm gloves with liners, a hat, a buff, sunglasses, a headtorch and a sleeping bag rated to −15 °C. Trekking poles help on the descent to Muktinath. Microspikes are useful in March and late November when the pass may be icy."
+    }
+  ]
+}

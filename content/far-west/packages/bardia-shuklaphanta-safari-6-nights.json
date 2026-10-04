@@ -1,0 +1,86 @@
+{
+  "slug": "bardia-shuklaphanta-safari-6-nights",
+  "title": "Bardia and Shuklaphanta Safari 6 Nights",
+  "region": "far-west",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["wildlife-safari", "photography", "family-holidays", "overland-from-india"],
+  "stops": [{"place": "nepalgunj", "nights": 0}, {"place": "bardia-national-park", "nights": 3}, {"place": "shuklaphanta-national-park", "nights": 3}, {"place": "dhangadhi", "nights": 0}],
+  "start": "Nepalgunj (airport or Rupaidiha border)",
+  "end": "Dhangadhi airport or Banbasa border",
+  "price_from_inr": 48000,
+  "price_from_usd": 560,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2],
+  "max_altitude_m": 220,
+  "accommodation": "Mango Tree Lodge or similar in Bardia; best available mid-range hotel or lodge near Shuklaphanta",
+  "transport": "Private car throughout, park jeeps for safaris, raft for the river float",
+  "group": "Private, 2–6",
+  "meta_description": "Bardia and Shuklaphanta safari, 7 days and 6 nights: tigers, river dolphins, swamp deer herds, Ghodaghodi Tal and Tharu villages. Nepalgunj to Dhangadhi.",
+  "summary": "A week across the two great parks of the far-western Terai: three nights in Bardia for tigers, river floats and jungle walks, then three nights at Shuklaphanta for swamp deer herds, grassland birds and Rana Tharu villages. Fly into Nepalgunj and out of Dhangadhi, or cross from India at either end.",
+  "intro": [
+    "Most visitors to Nepal see Chitwan. This trip goes west to two parks that very few travellers reach. Bardia, on the Karnali, is the place for tigers on foot and by jeep, with dolphins and crocodiles on the river and wild elephants in the grassland. Shuklaphanta, on the Mahakali at Nepal's south-western corner, is a broad lowland grassland where swamp deer graze in herds of hundreds and Bengal floricans display in spring.",
+    "The drive between them follows the East–West Highway for about 250 km, with a stop at Ghodaghodi Tal, a Ramsar-listed lake complex. Fly Kathmandu to Nepalgunj at the start and Dhangadhi to Kathmandu at the end, or use the Rupaidiha and Banbasa crossings if you are travelling from India. Both parks count rising or high tiger numbers: 112 in Bardia and 50 in Shuklaphanta in the 2026 census."
+  ],
+  "highlights": [
+    "Full-day jeep safari and guided jungle walk in Bardia",
+    "Karnali river float for Ganges river dolphins and crocodiles",
+    "Dawn on the Shukla Phanta among herds of swamp deer",
+    "Rani Tal watchtower and grassland birding for Bengal florican",
+    "Ghodaghodi Tal wetlands on the drive west",
+    "Tharu and Rana Tharu villages in both parks"
+  ],
+  "days": [
+    {"day": 1, "title": "Nepalgunj to Bardia National Park", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "≈ 1.5 h · 4 km", "drive": "≈ 95 km · 2.5–3 h", "flight": "", "text": "Meet at Nepalgunj airport, your hotel or the Rupaidiha border. Drive through Kohalpur and the forest of Banke National Park to Ambassa, then north to Thakurdwara at the edge of Bardia. After lunch, visit the crocodile breeding centre at the park headquarters, where gharial and mugger hatchlings are raised for release, and walk through Tharu farmland as the light fades. Briefing on the next two days and early dinner.", "meals": "L, D"},
+    {"day": 2, "title": "Full-day jeep safari for tigers", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "", "drive": "≈ 60–80 km in the park · 8–9 h", "flight": "", "text": "Out by 6:30 am in an open jeep with a naturalist. The day covers sal forest, the grasslands of Baghaura and Lamkauli and the banks of the Geruwa channel of the Karnali, with long, quiet waits at crossings tigers use. You are likely to see several deer species, langurs, wild boar and many birds, and on some days rhinos or wild elephants. Packed lunch at a riverside watchtower, back at the lodge by dusk.", "meals": "B, L, D"},
+    {"day": 3, "title": "Jungle walk and Karnali river float", "place": "bardia-national-park", "overnight": "Thakurdwara, Bardia", "altitude_m": 180, "max_m": 180, "walk": "≈ 3–4 h · 8 km", "drive": "≈ 30 km · 1 h", "flight": "", "text": "A dawn walking safari with two licensed guides along the Khauraha stream, reading tracks and sitting at a hide. Back for an early lunch, then drive to Chisapani near the Karnali bridge for an afternoon raft float down the calm Geruwa channel. Watch for Ganges river dolphins in deep pools, mugger crocodiles on sandbanks, smooth-coated otters and fish eagles. The jeep collects you downstream and returns you to Thakurdwara.", "meals": "B, L, D"},
+    {"day": 4, "title": "Drive west via Ghodaghodi Tal", "place": "shuklaphanta-national-park", "overnight": "Mahendranagar, near Shuklaphanta", "altitude_m": 220, "max_m": 220, "walk": "≈ 1 h · 2 km", "drive": "≈ 250 km · 5–6 h", "flight": "", "text": "Leave Bardia after breakfast and cross the Karnali at Chisapani, then follow the East–West Highway west through Kailali. Stop at Ghodaghodi Tal, a chain of oxbow lakes in sal forest and a Ramsar wetland, for a short walk to see waterbirds and basking turtles. Continue past Attariya to Mahendranagar (Bhimdatta), the town closest to Shuklaphanta's park office at Majhgaon. Afternoon at leisure; the heat is best spent indoors from March.", "meals": "B, L, D"},
+    {"day": 5, "title": "Swamp deer at dawn, Rani Tal", "place": "shuklaphanta-national-park", "overnight": "Mahendranagar, near Shuklaphanta", "altitude_m": 220, "max_m": 220, "walk": "", "drive": "≈ 50–70 km in the park · 8 h", "flight": "", "text": "Enter the park before sunrise and drive onto the Shukla Phanta, an open grassland where herds of swamp deer feed in the low light, often hundreds within view. Hog deer and spotted deer graze at the edges, and tigers hunt along the forest margins. Continue through sal forest to Rani Tal, where a watchtower overlooks the lake, for lunch and a long wait for animals coming to drink. Return through the grassland in the late afternoon.", "meals": "B, L, D"},
+    {"day": 6, "title": "Grassland birding and Rana Tharu village", "place": "shuklaphanta-national-park", "overnight": "Mahendranagar, near Shuklaphanta", "altitude_m": 220, "max_m": 220, "walk": "≈ 3 h · 5 km", "drive": "≈ 40 km · 2 h", "flight": "", "text": "An early birding session on the grassland edge with licensed guides, looking for Bengal florican, swamp francolin and rare grassland warblers; March and April are the display season for florican. After lunch, visit a Rana Tharu village in the buffer zone, where women's embroidered skirts and shawls differ from the Tharu dress you saw in Bardia. Evening free in Mahendranagar.", "meals": "B, L, D"},
+    {"day": 7, "title": "Drive to Dhangadhi or the Indian border", "place": "dhangadhi", "overnight": "", "altitude_m": 109, "max_m": 220, "walk": "", "drive": "≈ 55 km · 1.5 h", "flight": "", "text": "After breakfast, drive east to Dhangadhi airport for a flight to Kathmandu of about 1 h 15 min, or, if you are returning to India, a short transfer to the Banbasa–Gaddachauki crossing on the Mahakali, about 5 km from Mahendranagar, for onward travel to Tanakpur, Bareilly or Delhi. The trip ends at the airport or the border.", "meals": "B"}
+  ],
+  "stays": ["mango-tree-lodge-bardia"],
+  "includes": [
+    "3 nights at Mango Tree Lodge or similar in Bardia, twin sharing",
+    "3 nights at a mid-range hotel or lodge near Shuklaphanta",
+    "All meals from lunch on day 1 to breakfast on day 7",
+    "Private car with driver Nepalgunj–Bardia–Shuklaphanta–Dhangadhi",
+    "Full-day jeep safaris in Bardia and Shuklaphanta with naturalists",
+    "Guided jungle walk in Bardia and birding walk in Shuklaphanta",
+    "Karnali river float with life jackets and guide",
+    "National park entry fees for all park days",
+    "Ghodaghodi Tal stop and village visits in both parks"
+  ],
+  "excludes": [
+    "Flights to Nepalgunj and from Dhangadhi",
+    "Nepal visa fees for non-Indian nationals",
+    "Drinks, bottled water and snacks",
+    "Tips for guides, drivers and staff",
+    "Travel insurance",
+    "Camera fees if charged by the parks",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing a private car and twin rooms, travelling between October and April.",
+    "Shuklaphanta has no high-end lodge; we use the best current option, and standards are simpler than in Bardia.",
+    "Park fees are included at foreign-national rates; Indian and SAARC nationals pay less and the price is adjusted.",
+    "From mid-April temperatures reach 38–42 °C; safaris start at dawn and the middle of the day is for rest.",
+    "Indian nationals can start at Rupaidiha and end at Banbasa without a visa; carry a passport or voter ID.",
+    "Fees, park rules and border arrangements change; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Upgrade Bardia nights to Tiger Tops Karnali Lodge", "price": "≈ US$ 300–400 per person per night extra"},
+    {"name": "Kathmandu–Nepalgunj and Dhangadhi–Kathmandu flights", "price": "≈ US$ 300–380 per person"}
+  ],
+  "faqs": [
+    {"q": "How far is Bardia from Shuklaphanta?", "a": "About 250 km along the East–West Highway, which takes 5–6 hours by car including a stop at Ghodaghodi Tal. The road is paved and busy with trucks, so we drive in daylight. Breaking the journey at Ghodaghodi or Tikapur Park makes it pleasant rather than tiring."},
+    {"q": "Why combine Bardia with Shuklaphanta?", "a": "They offer different experiences. Bardia is best for tigers, jungle walks, river floats and dolphins. Shuklaphanta is an open grassland with Nepal's largest swamp deer herds and rare grassland birds. Together they give a fuller picture of the western Terai, and the route flows naturally from Nepalgunj to Dhangadhi."},
+    {"q": "Can I do this trip from Delhi or Lucknow?", "a": "Yes. Start from Lucknow via Rupaidiha into Nepalgunj, about 4–5 hours, and finish at Banbasa, about 7–8 hours from Delhi. Or reverse it. Indian nationals need a passport or voter ID and no visa. We can arrange cars from Lucknow and to Delhi at extra cost."},
+    {"q": "What wildlife will I see on this safari?", "a": "Expect spotted deer, hog deer, swamp deer, barking deer, langurs, wild boar, mugger crocodiles and a wide range of birds. Rhinos, wild elephants, gharial and Ganges river dolphins are seen on many trips. Tigers are possible in both parks but never guaranteed."},
+    {"q": "Which is better for tigers, Bardia or Shuklaphanta?", "a": "Bardia gives better tiger odds, with 112 tigers and well-established walking and jeep routes. Shuklaphanta has 50 tigers by the 2026 census and rising numbers, but fewer safari days and guides tracking them. Plan Bardia for tigers and Shuklaphanta for swamp deer and grassland birds."},
+    {"q": "What is the best time for this western Nepal safari?", "a": "November to April. December and January are cool with foggy mornings and active swamp deer; February and March balance comfort and sightings; April gives good tiger and florican chances but heat builds. The monsoon from late June floods the grasslands and closes most safari routes."},
+    {"q": "What are the hotels like at Shuklaphanta?", "a": "Simpler than in Bardia. Most visitors stay in Mahendranagar's mid-range hotels with air-conditioning and restaurants, 5–10 km from the park office, or in basic lodges near Majhgaon. There is no luxury lodge. We choose the best current option and confirm details when you book."},
+    {"q": "How much does a 6-night western Nepal safari cost?", "a": "This package starts from about ₹48,000 or US$560 per person, twin sharing, from Nepalgunj to Dhangadhi, including lodges, meals, private car, safaris and park fees. Domestic flights add around US$300–380. Upgrading Bardia nights to Tiger Tops Karnali Lodge adds substantially."},
+    {"q": "Is this safari suitable for seniors?", "a": "Yes, for seniors comfortable with long jeep days and some heat. Jeep safaris, the river float, Ghodaghodi Tal and village visits are gentle. The full-day walk in Bardia can be shortened or replaced with a half-day drive. Choose November–February for the most comfortable temperatures."}
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "slug": "world-peace-pagoda",
+  "name": "World Peace Pagoda",
+  "region": "pokhara",
+  "kind": "viewpoint",
+  "wiki": "Shanti Stupa, Pokhara",
+  "image_query": "Shanti Stupa Pokhara white pagoda",
+  "lat": 28.201,
+  "lng": 83.9445,
+  "altitude_m": 1100,
+  "tagline": "White stupa on Anadu hill, a boat ride and a climb above Phewa",
+  "meta_description": "World Peace Pagoda Pokhara guide: boat and hike route, road access, sunset views over Phewa Lake and the Annapurnas, dress rules, timings and nearby sights.",
+  "summary": "The World Peace Pagoda, or Shanti Stupa, is a white Buddhist stupa at about 1,100 m on Anadu hill above the south shore of Phewa Lake. Reach it by boat and a 45-minute forest climb, or by road and a short walk. The terrace gives a classic view of Phewa, Pokhara and the Annapurna range.",
+  "intro": [
+    "The stupa was built by monks of the Japanese Buddhist order Nipponzan Myohoji, whose founder Nichidatsu Fujii set out to build peace pagodas around the world after the Second World War. The foundation stone, with relics of the Buddha, was laid in 1973; the structure that stands today was completed in 1999. It is one of a small number of peace pagodas in Nepal, alongside the one in Lumbini. Monks still live and pray on site.",
+    "The pagoda is a gleaming white dome on a two-tiered base, with a gilded spire and four golden Buddha images in niches facing the four directions, each a gift from a different Buddhist country. A walkway circles the upper tier. Below it, a small Japanese temple holds daily prayers with drums. The whole site is kept quiet and orderly: visitors are asked to dress modestly, remove shoes on the upper level and keep voices low.",
+    "For most travellers the view is the reward. Phewa Lake lies directly below, with the Tal Barahi island temple, Lakeside's hotels and the Sarangkot ridge beyond, and behind them the Annapurnas and Machhapuchhre on clear days. The classic visit combines a boat across the lake with a 45-minute climb through Raniban forest, followed by a walk down the other side to Damside or Devi's Falls. Allow 3–4 hours for the full loop."
+  ],
+  "facts": [
+    [
+      "Altitude",
+      "≈ 1,100 m"
+    ],
+    [
+      "Best months",
+      "Oct – Mar"
+    ],
+    [
+      "Nights we suggest",
+      "0 (half-day from Pokhara)"
+    ],
+    [
+      "Nearest airport",
+      "Pokhara International Airport (≈ 10 km)"
+    ],
+    [
+      "From Pokhara Lakeside",
+      "Boat 20–30 min + 45 min climb, or ≈ 25 min drive + 15 min walk"
+    ],
+    [
+      "Known for",
+      "Peace stupa, view over Phewa Lake to the Annapurnas"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "The view over Phewa",
+      "text": "From the stupa terrace the whole of Phewa Lake lies below, with Tal Barahi temple on its island, Lakeside along the eastern shore and the Sarangkot ridge behind. On clear days Machhapuchhre and the Annapurnas rise above it all."
+    },
+    {
+      "title": "The white stupa",
+      "text": "The dome is circled by a walkway on its upper tier, with four golden Buddha images facing the cardinal directions. Walk clockwise around it barefoot, as the monks request, and look out over the lake from each side."
+    },
+    {
+      "title": "Boat and forest climb",
+      "text": "Row across Phewa from Lakeside to the south shore landing in 20–30 minutes, then climb a stone trail through Raniban forest for about 45 minutes. It is the most enjoyable way to arrive, with the view revealing itself at the top."
+    },
+    {
+      "title": "Sunset over the Annapurnas",
+      "text": "Late afternoon light falls on the mountains and lake from the west. Stay until the peaks turn pink, then walk or drive down before dark. Café terraces near the stupa serve tea with the view."
+    },
+    {
+      "title": "Walk down to Devi's Falls",
+      "text": "A trail descends the south side of the hill through forest and villages to Chhorepatan, near Davis Falls and Gupteshwor Cave, in about an hour. It turns the visit into a loop that ends at two more sights."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "A road climbs from the Siddhartha Highway near Chhorepatan to a parking area below the stupa, about 25 minutes by taxi from Lakeside. From the car park it is a 10–15 minute walk up steps. Taxis wait or return for a fixed fare."
+    },
+    {
+      "mode": "On foot",
+      "text": "Take a boat from Lakeside to the landing on the south shore of Phewa (20–30 minutes), then climb about 300 m through Raniban forest on a stone trail to the stupa in roughly 45 minutes. You can also walk up from Damside across the dam in about an hour. Walk down to Chhorepatan or back to the boat."
+    }
+  ],
+  "where_to_stay": "There are no hotels at the stupa itself, though a few small guesthouses and cafes sit on the ridge nearby with lake views. Visitors stay in Pokhara: Lakeside hotels such as Hotel Barahi and Temple Tree Resort & Spa are a boat ride away, and Pokhara Grande at Pardi, near Damside, is closest to the road up. Fish Tail Lodge on its peninsula looks directly across the lake at Anadu hill and the stupa, which is lit up at night.",
+  "stays": [],
+  "tips": [
+    "Combine the boat to the stupa with a visit to Tal Barahi temple on the way across.",
+    "Dress modestly and be ready to remove shoes on the upper level of the stupa.",
+    "Videos and drones are restricted at the stupa, so check signs before filming.",
+    "Agree a one-way fare with the boatman if you plan to walk down the other side.",
+    "Start the climb by 3:30 pm in winter to see sunset and get down before dark."
+  ],
+  "themes": [
+    "buddhist-circuit",
+    "photography",
+    "family-holidays",
+    "short-breaks",
+    "honeymoon"
+  ],
+  "nearby": [
+    "pokhara",
+    "sarangkot",
+    "panchase",
+    "begnas-lake"
+  ],
+  "experiences": [
+    {
+      "slug": "world-peace-pagoda-boat-and-climb",
+      "title": "Boat across Phewa and climb to the Peace Pagoda",
+      "kind": "hiking",
+      "duration": "3–4 hours",
+      "best_time": "Morning or afternoon, Oct–Apr",
+      "price_hint": "≈ NPR 1,000–1,500 for the boat, one way",
+      "image_query": "Phewa Lake boat World Peace Pagoda hill",
+      "wiki": "",
+      "summary": "Row across Phewa Lake to the forested south shore, climb about 300 m through Raniban forest to the World Peace Pagoda at about 1,100 m, then walk down the far side to Chhorepatan or Damside. The best half-day walk from Lakeside.",
+      "body": [
+        "From the Barahi ghat or another Lakeside boat stand, hire a boat to the landing below Anadu hill on the south shore. The crossing takes 20–30 minutes, and you can stop at Tal Barahi temple on the way. At the landing, small cafes and a signpost mark the start of the trail, which climbs into the dense Raniban forest, protected as a community forest and home to monkeys and many birds.",
+        "The trail is a mix of stone steps and dirt path, climbing about 300 m in roughly 45 minutes at a steady pace. It is shaded and cool, with a few viewpoints back over the lake. Near the top you emerge at a ridge with a few cafes and guesthouses, then climb the final steps to the stupa terrace, where the view over Phewa and towards the Annapurnas opens suddenly.",
+        "Spend 45 minutes at the stupa. For the return, either go back down to the boat (agree this when you hire it), walk down the south side to Chhorepatan on the Siddhartha Highway in about an hour and visit Davis Falls and Gupteshwor Cave, or walk east along the ridge and down to Damside. Wear proper walking shoes, carry water and avoid the forest trail after heavy rain. Allow 3–4 hours in total."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "first-timers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the hike to the World Peace Pagoda?",
+          "a": "From the boat landing on Phewa's south shore it takes about 45 minutes uphill, gaining roughly 300 m on stone steps and forest path. From Damside across the dam it is about an hour. The descent to Chhorepatan or back to the landing takes 30–60 minutes."
+        },
+        {
+          "q": "Is the Peace Pagoda hike suitable for children?",
+          "a": "Yes, for children of about five and older who can walk 45 minutes uphill with breaks. The trail is shaded and well used. Hold younger children's hands on the steeper steps and keep snacks out of sight, as monkeys in the forest can grab food."
+        },
+        {
+          "q": "Is the Raniban forest trail safe?",
+          "a": "Generally yes during daylight; it is a popular route with many walkers. There have been rare reports of thefts on quiet stretches in the past, so walk in a group or with a guide, avoid going late in the day and keep valuables discreet. Do not walk it after dark."
+        }
+      ]
+    },
+    {
+      "slug": "world-peace-pagoda-sunset",
+      "title": "Sunset over Phewa from the Peace Pagoda",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Oct–Feb",
+      "price_hint": "≈ NPR 2,000–3,000 taxi return",
+      "image_query": "Phewa Lake sunset from Shanti Stupa",
+      "wiki": "",
+      "summary": "Drive up to the World Peace Pagoda in the late afternoon, walk the stupa terrace as the light warms over Phewa Lake and the Annapurnas, and stay for the peaks turning pink before heading down for dinner at Lakeside. The easy version of the visit.",
+      "body": [
+        "For travellers who prefer not to climb through the forest, a taxi from Lakeside reaches the car park below the stupa in about 25 minutes via the Siddhartha Highway and the Anadu hill road. From the car park, a 10–15 minute walk up steps leads to the pagoda. Aim to arrive about 90 minutes before sunset to walk around the stupa while it is open and find a spot on the terrace or at a nearby cafe.",
+        "As the sun drops in the west behind you, the light falls directly on the lake, Lakeside and the mountains to the north. Machhapuchhre and Annapurna South turn gold and then pink, while boats crawl across the darkening lake below. The stupa itself, white against the sky, glows in the last light and makes a fine photograph from the lower terrace. Cafes nearby serve tea and snacks with the same view, and their terraces fill up around sunset in peak season.",
+        "Head back down to the car park soon after sunset; the steps are lit only partly and the road is narrow. Upper levels of the stupa may close earlier than the grounds, so check current timings on arrival. Clear sunsets are most common from October to February. In the monsoon, cloud usually hides the mountains, though the lake view remains. Arrange for your taxi to wait, as finding one after dark on the hill can be difficult."
+      ],
+      "good_for": [
+        "couples",
+        "seniors",
+        "families",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I drive to the World Peace Pagoda?",
+          "a": "Yes. A road leads up Anadu hill from the Siddhartha Highway near Chhorepatan to a car park below the stupa, about 25 minutes by taxi from Lakeside. From there it is a 10–15 minute walk up steps. This route suits seniors and anyone short of time."
+        },
+        {
+          "q": "What are the World Peace Pagoda timings?",
+          "a": "The grounds are open through the day, generally from early morning until around sunset, and the upper level of the stupa may close earlier. Timings vary by season and for prayers. Check current status on arrival or with your hotel, and plan to descend soon after sunset."
+        },
+        {
+          "q": "Is sunset or sunrise better at the Peace Pagoda?",
+          "a": "Sunset is better here. The stupa faces north over the lake, and late afternoon light from the west falls on the Annapurnas and Phewa. For sunrise, Sarangkot or Australian Camp give better views. The pagoda is also pleasant in the morning when the lake is calm."
+        }
+      ]
+    },
+    {
+      "slug": "world-peace-pagoda-stupa-visit",
+      "title": "Stupa walk and Japanese temple prayers",
+      "kind": "spiritual",
+      "duration": "45 minutes",
+      "best_time": "Morning or late afternoon, all year",
+      "price_hint": "Free (donations welcome)",
+      "image_query": "Shanti Stupa golden Buddha niche",
+      "wiki": "Shanti Stupa, Pokhara",
+      "summary": "Walk barefoot around the white dome of the Shanti Stupa past its four golden Buddha images, then visit the small Nipponzan Myohoji temple below, where monks chant to the beat of hand drums. A calm, respectful pause in a busy sightseeing day.",
+      "body": [
+        "The stupa follows the design used by Nipponzan Myohoji for its peace pagodas around the world: a white, bell-shaped dome on a broad base, crowned with a gilded spire. On the upper tier, four golden images of the Buddha sit in niches facing north, south, east and west, each representing an episode of his life and a gift from a different Buddhist country. Visitors remove their shoes before climbing to the upper level and walk clockwise around the dome.",
+        "Below the stupa, a small Japanese-style temple houses the resident monks and nuns of the order. Their practice centres on chanting the phrase Namu Myoho Renge Kyo to the beat of flat hand drums, and visitors are usually welcome to sit quietly at the back during prayers. Timings vary, so ask the caretakers. A donation box supports the upkeep of the site. Sit quietly, keep phones silent and do not walk in front of those chanting.",
+        "The atmosphere is deliberately peaceful. Signs ask visitors to keep their voices low, dress modestly and avoid loud music, and filming is restricted. Combine this visit with the boat-and-forest climb or a sunset drive. It suits Buddhist pilgrims following a Nepal circuit that includes Lumbini, as well as any traveller who wants a quiet moment above the lake. There is no charge, though a donation is appreciated, and the visit fits easily into any half-day sightseeing tour of Pokhara."
+      ],
+      "good_for": [
+        "pilgrims",
+        "seniors",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Who built the World Peace Pagoda in Pokhara?",
+          "a": "Monks of the Japanese Buddhist order Nipponzan Myohoji, led locally by Morioka Sonin and inspired by the order's founder Nichidatsu Fujii, built it with local supporters. The foundation stone with Buddha relics was laid in 1973 and the present stupa was completed in 1999. It is one of many peace pagodas the order has built worldwide."
+        },
+        {
+          "q": "Is there a dress code at the Peace Pagoda?",
+          "a": "Yes. Visitors should cover shoulders and knees, remove shoes before climbing to the upper level and keep their voices low. Loud music, picnics on the stupa and some filming are not allowed. Follow the signs and any instructions from the caretakers."
+        },
+        {
+          "q": "Can I take videos at the World Peace Pagoda?",
+          "a": "Photography is generally allowed, but video recording and drones are restricted, and fees or bans for filming have been reported. Check signs at the entrance and ask the caretakers before filming. Rules can change, so check current status on arrival."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the World Peace Pagoda worth visiting?",
+      "a": "Yes. It offers one of the best views of Phewa Lake, Pokhara and the Annapurna range, and the walk up through Raniban forest after a boat ride across the lake is one of the most enjoyable half-days in Pokhara. The stupa itself is calm and well kept. Allow 3–4 hours with the boat and walk."
+    },
+    {
+      "q": "How do I get to the World Peace Pagoda?",
+      "a": "Either take a boat across Phewa Lake from Lakeside to the south shore landing (20–30 minutes) and climb through the forest for about 45 minutes, or take a taxi via Chhorepatan to the car park below the stupa (about 25 minutes) and walk 10–15 minutes up steps."
+    },
+    {
+      "q": "Is there an entry fee for the World Peace Pagoda?",
+      "a": "As of our last check there is no entry fee for the stupa itself; donations are welcome. Parking and boat crossings are paid separately, and fees may apply for filming. Check current status before you travel. Carry small notes for donations and tea."
+    },
+    {
+      "q": "What is the altitude of the World Peace Pagoda?",
+      "a": "About 1,100 m on Anadu hill, roughly 280 m above Phewa Lake. The climb from the lake takes about 45 minutes. It is a modest height with no altitude concerns. The forest trail from the lake is shaded, so the climb is comfortable even in the warmer months."
+    },
+    {
+      "q": "Can elderly people visit the Peace Pagoda?",
+      "a": "Yes, by road. A taxi reaches a car park below the stupa, leaving a 10–15 minute walk up steps with rails. The forest trail from the lake is steeper and best left to fitter walkers. Go in the cooler late afternoon and wear comfortable shoes."
+    },
+    {
+      "q": "Can you see the mountains from the World Peace Pagoda?",
+      "a": "Yes, on clear days. Machhapuchhre and the Annapurna range rise to the north beyond Phewa Lake and the Sarangkot ridge. Views are most reliable from October to February, especially in the morning and around sunset. From June to September cloud often hides the peaks."
+    },
+    {
+      "q": "How long should I spend at the Peace Pagoda?",
+      "a": "About 45 minutes to an hour at the stupa itself for the walkway, views and a tea at a nearby cafe. With the boat crossing and forest climb, the whole outing takes 3–4 hours. By taxi, allow about 2 hours from Lakeside and back."
+    },
+    {
+      "q": "Is the World Peace Pagoda in Pokhara the same as the one in Lumbini?",
+      "a": "No. Both were built by the Japanese order Nipponzan Myohoji, but they are separate stupas. The Lumbini peace pagoda stands near the Buddha's birthplace in the Terai, while the Pokhara pagoda is on Anadu hill above Phewa Lake. Buddhist circuit travellers often visit both."
+    },
+    {
+      "q": "Can I walk from the Peace Pagoda to Davis Falls?",
+      "a": "Yes. A trail descends the south side of Anadu hill through forest and villages to Chhorepatan on the Siddhartha Highway in about an hour, close to Davis Falls, Gupteshwor Cave and the Tashiling Tibetan settlement. It makes a good loop combined with the boat across Phewa."
+    }
+  ]
+}

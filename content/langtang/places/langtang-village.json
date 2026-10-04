@@ -1,0 +1,131 @@
+{
+  "slug": "langtang-village",
+  "name": "Langtang Village",
+  "region": "langtang",
+  "kind": "trekking village",
+  "wiki": "Langtang",
+  "image_query": "Langtang village rebuilt lodges valley",
+  "lat": 28.2142,
+  "lng": 85.5167,
+  "altitude_m": 3430,
+  "tagline": "Rebuilt Tamang village at 3,430 m, with a memorial to 2015",
+  "meta_description": "Langtang village (3,430 m) was destroyed by the 2015 avalanche and rebuilt nearby. Its history, the memorial, lodges and how to visit respectfully.",
+  "summary": "Langtang village, at about 3,430 m in the upper Langtang Valley, was buried by an earthquake-triggered avalanche on 25 April 2015 that killed an estimated 310 people. Survivors rebuilt a new village just beyond the debris. Trekkers stay here on day two or three of the Langtang trek, and their visits support the families who returned.",
+  "intro": [
+    "Before 2015, Langtang was the largest village in the upper valley, a settlement of stone houses, water-driven prayer wheels and about 55 guesthouses below the slopes of Langtang Lirung. On 25 April 2015, the Gorkha earthquake shook loose a huge mass of ice, snow and rock from the mountain above. The avalanche and its air blast buried almost the entire village within seconds. An estimated 310 people died, including about 176 residents, around 80 foreign trekkers, guides, porters and soldiers. More than 100 bodies were never recovered.",
+    "The families who survived, many of whom were away in Kathmandu or in fields that day, spent months in camps before deciding to return. Over the following years they built a new Langtang a short distance up-valley from the debris field, on safer ground, with lodges, houses and a rebuilt gompa. A memorial chorten and a wall listing the names of the dead stand beside the trail. Walking across the grey slope of rubble that now covers the old village is a quiet moment for every trekker.",
+    "Today Langtang is again a working Tamang village and a key overnight stop. It sits at 3,430 m, a good height to sleep before Kyanjin Gompa, and lodges are run by the families who came back. The valley's yak herding, barley and potato fields and water mills continue. Visiting is welcome and important: tourism income was what brought people back. We ask our trekkers to walk past the memorial respectfully, ask before photographing people, and spend time in the village rather than just passing through."
+  ],
+  "facts": [
+    ["Altitude", "3,430 m"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu"],
+    ["From Kathmandu", "≈ 122 km drive to Syabrubesi + 2 days' walk"],
+    ["Known for", "2015 memorial, rebuilt Tamang village, yak pastures"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "The 2015 memorial", "text": "A chorten and a memorial wall carry the names of those who died when the avalanche buried the old village. Trekkers often stop to light a butter lamp or simply stand for a moment. Please keep voices low and do not climb on the walls or debris."},
+    {"title": "The rebuilt village", "text": "New Langtang was built by returning families on safer ground just up-valley. Stone and timber houses, prayer flags and family-run lodges line the trail. Staying the night here directly supports the households who chose to come back."},
+    {"title": "Water-powered prayer wheels", "text": "Streams coming off the slopes turn small wooden prayer wheels in stone huts along the trail, a feature of Tamang and Tibetan Buddhist villages in the valley. Each turn is believed to send prayers out into the world."},
+    {"title": "Mani walls and chortens to Mundu", "text": "Between Langtang and Mundu, the trail passes one of the longest mani walls in the valley, carved stones inscribed with Om Mani Padme Hum. Walk to its left, keeping it on your right, as local custom asks."},
+    {"title": "First big view of Langtang Lirung", "text": "Above Ghoda Tabela the valley widens and Langtang Lirung, 7,227 m, appears at the head of the side valley behind the village. Evening light on the peak from the lodge terraces is one of the best moments of day two or three."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Lama Hotel (about 2,470 m), walk 6–7 hours via Riverside, Ghoda Tabela (3,030 m) and Thangshyap to Langtang, gaining about 960 m. From Langtang, Kyanjin Gompa is a further 3–4 hours up-valley."},
+    {"mode": "Road", "text": "The nearest road-head is Syabrubesi, about 122 km and 7–8 hours by road from Kathmandu. From there Langtang is two walking days up the Langtang Khola."},
+    {"mode": "Helicopter", "text": "There is no scheduled service, but helicopters on Kyanjin tours fly over the village, and emergency evacuation flights land nearby when needed. Most visitors walk."}
+  ],
+  "where_to_stay": "The rebuilt village has around a dozen family-run teahouse lodges along the main trail, with twin rooms, shared or attached bathrooms, solar hot water and dining halls warmed by a stove. Several lodge owners lost relatives in 2015 and rebuilt with their own savings and loans, so staying and eating here matters. Rooms are simple, clean and cold at night, around −5 °C in late autumn. A few lodges sit a little further up-valley towards Mundu with quieter rooms and views of Langtang Lirung. There are no star-rated hotels. In October and April, ask your agency to confirm rooms in advance.",
+  "stays": [],
+  "tips": [
+    "Walk past the memorial quietly and ask your guide before taking photographs there.",
+    "Eat dinner and breakfast at your lodge rather than carrying snacks from below; it is how families here earn a living.",
+    "Sleep at Langtang rather than pushing straight to Kyanjin Gompa if you feel any headache on day two.",
+    "Keep mani walls and chortens on your right as you pass them.",
+    "Ask before photographing people, especially older residents who may have lost family members in 2015."
+  ],
+  "themes": ["trekking", "cultural-tours", "photography"],
+  "nearby": ["kyanjin-gompa", "syabrubesi", "gosaikunda"],
+  "experiences": [
+    {
+      "slug": "langtang-earthquake-memorial-visit",
+      "title": "Langtang 2015 memorial and debris field",
+      "kind": "culture",
+      "duration": "45 minutes",
+      "best_time": "Any time of day, all trekking seasons",
+      "price_hint": "",
+      "image_query": "Langtang memorial chorten earthquake",
+      "wiki": "",
+      "summary": "A quiet stop at the memorial to the roughly 310 people killed when the 2015 avalanche buried old Langtang. Your guide explains what happened, how survivors rebuilt and how to behave respectfully at the site.",
+      "body": [
+        "The trail into Langtang crosses the edge of the debris that buried the old village on 25 April 2015. The avalanche fell from the slopes of Langtang Lirung minutes after the earthquake struck, and its air blast flattened trees and houses well beyond the ice and rock itself. The grey boulder field you walk over covers homes, lodges and the remains of many people who were never found.",
+        "Near the new village stands a memorial chorten and a wall listing the names of those who died: residents, guides, porters, soldiers and trekkers from many countries. Families come here on anniversaries to light lamps and hold prayers. Your guide can explain what happened that day, how survivors lived in camps in Kathmandu for months, and how they chose to rebuild a short distance up-valley.",
+        "Visiting is not voyeuristic if it is done with care. Keep your voice low, do not climb on the chorten or walls, and ask before taking photographs. A small donation at the gompa or lighting a butter lamp is a respectful gesture. Many trekkers say this stop changes how they see the rest of the valley, and lodge owners appreciate visitors who understand the village's story."
+      ],
+      "good_for": ["first-timers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "What happened in Langtang in 2015?", "a": "On 25 April 2015, the Gorkha earthquake triggered a massive avalanche of ice, snow and rock from the slopes above Langtang village. It buried almost the entire village within seconds. An estimated 310 people died, including about 176 residents and around 80 foreigners, along with guides, porters and soldiers. More than 100 bodies were never recovered."},
+        {"q": "Is it respectful to visit the Langtang memorial?", "a": "Yes, if you behave with care. Villagers rebuilt their lodges hoping trekkers would return, and many welcome visitors who want to understand what happened. Keep voices low, do not climb on the chorten or walls, ask before photographing, and consider lighting a butter lamp or leaving a small donation at the gompa."},
+        {"q": "Is Langtang village safe now?", "a": "The new village was built on ground considered safer, a short distance up-valley from the 2015 debris. No location below big mountains is risk-free, and the valley also sees landslides in the monsoon. The trek has run normally since it reopened in 2016. Your guide will advise on current trail conditions; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "langtang-village-mani-walls-and-mills",
+      "title": "Prayer wheels, mani walls and water mills",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Mar–May and Oct–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Langtang mani wall prayer wheel water mill",
+      "wiki": "Mani stone",
+      "summary": "An easy afternoon walk from Langtang towards Mundu past water-driven prayer wheels, a long mani wall of carved stones and old stone mills, with your guide explaining Tamang Buddhist customs in the upper valley.",
+      "body": [
+        "Langtang and its neighbouring hamlets of Mundu and Sindum are Tamang communities with strong Tibetan Buddhist traditions. Along the trail you pass small stone huts built over streams, each housing a wooden prayer wheel turned by the flowing water day and night. Inside, rolls of printed mantras spin with every turn. A little further, stone mills once ground barley and buckwheat, and a few still work.",
+        "The highlight is the long mani wall on the way to Mundu, hundreds of flat stones carved with the mantra Om Mani Padme Hum and stacked into a wall. Local custom is to pass with the wall on your right, walking clockwise. Chortens, prayer flags and painted rocks mark the trail, and your guide can explain the meaning of colours on the flags and why stones are carved and offered.",
+        "The walk is level and takes 1.5 hours, suitable for an afternoon after reaching Langtang or a gentle start before the short walk to Kyanjin Gompa. Light is best late in the day when Langtang Lirung glows above the village. You may see women weaving on back-strap looms or yaks being brought down from the pastures for the evening."
+      ],
+      "good_for": ["families", "photographers", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Why should I walk to the left of a mani wall?", "a": "Buddhist custom is to circle sacred objects clockwise, so you pass a mani wall, chorten or stupa keeping it on your right side, which means walking to its left. It shows respect and follows the direction prayer wheels spin. Locals will not scold you, but they notice and appreciate it."},
+        {"q": "What do the water prayer wheels do?", "a": "Each wheel holds rolls of paper printed with mantras, mainly Om Mani Padme Hum. Buddhists believe every turn sends the prayers out, earning merit and blessing all beings. Placing the wheels over streams means they turn continuously without human effort. You will see them throughout the upper Langtang Valley."},
+        {"q": "Can I buy handicrafts in Langtang village?", "a": "A few lodges and homes sell hand-woven items, woollen caps, socks and small carpets made locally, often from yak or sheep wool. Prices are modest, and buying here puts money directly into village households. Carry cash in small notes, as there is no card payment."}
+      ]
+    },
+    {
+      "slug": "langtang-yak-pasture-evening-walk",
+      "title": "Evening walk to the yak pastures",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Evening, Apr–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "yak grazing Langtang valley Lirung",
+      "wiki": "",
+      "summary": "A short evening stroll above the village to the pastures where yaks and chauri graze below Langtang Lirung. A gentle way to acclimatise at 3,430 m and see the herding life that shapes the upper valley.",
+      "body": [
+        "Climb 50–100 m above the lodges on a grassy path and you reach the pastures where families graze yaks, nak and chauri. In spring and autumn the herds come down to the lower kharkas around Langtang in the evening, and herders bring milk to the village. Gaining a little height and coming back down to sleep is also good acclimatisation practice before Kyanjin Gompa and Kyanjin Ri.",
+        "From the pastures, Langtang Lirung (7,227 m) towers above the side valley to the north, and the glacier that sent the 2015 avalanche is in clear view. Looking down-valley you see the debris field and the new village side by side, which gives a sense of scale to what happened. Late light turns the peak orange for a few minutes after the village falls into shadow.",
+        "Keep a respectful distance from yaks, especially mothers with calves, and never walk between a herd and its herder. Their horns are large and they can be nervous with strangers. Wear a warm layer, as temperatures drop quickly once the sun goes, and be back at the lodge before dark."
+      ],
+      "good_for": ["families", "photographers", "couples"],
+      "faqs": [
+        {"q": "Are yaks dangerous on the Langtang trek?", "a": "Yaks are generally calm but can swing their horns or bolt if startled. Always step to the uphill side of the trail when a yak train passes, never the drop side, and keep a few metres away from mothers with calves. Do not walk between a herd and the herder."},
+        {"q": "What is a chauri?", "a": "A chauri, also called dzo in Tibetan areas, is a cross between a yak and a domestic cow. Chauris tolerate lower altitudes better than pure yaks and give more milk, so they are common around Langtang village. Much of the milk used for cheese in the valley comes from nak and chauri."},
+        {"q": "Why walk up in the evening at Langtang village?", "a": "Climbing 50–100 m above where you sleep, then returning, helps your body adapt to altitude, following the climb high, sleep low principle. It is gentle, takes about an hour, and gives good views of Langtang Lirung and the 2015 debris field. It also helps you sleep better at 3,430 m."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Langtang village?", "a": "The rebuilt Langtang village lies at about 3,430 m in the upper Langtang Valley. It is the overnight stop before Kyanjin Gompa (3,870 m) on most itineraries. Mild altitude symptoms such as headache or poor sleep can appear here, so drink well and walk slowly."},
+    {"q": "Is Langtang village rebuilt after the earthquake?", "a": "Yes. Survivors rebuilt a new village a short distance up-valley from the 2015 debris, with houses, lodges and a gompa. The trek reopened in 2016 and lodges have operated normally since. Visiting supports families who returned, and the memorial to those who died stands beside the trail."},
+    {"q": "How long is the walk from Lama Hotel to Langtang village?", "a": "About 6–7 hours and 14 km, gaining around 960 m from Lama Hotel (about 2,470 m) via Riverside, Ghoda Tabela (3,030 m) and Thangshyap. The forest opens into wide yak pastures after Ghoda Tabela, and the first views of Langtang Lirung appear. It is the longest climbing day of the trek."},
+    {"q": "How many people died in Langtang in 2015?", "a": "An estimated 310 people died when the avalanche triggered by the 25 April 2015 earthquake buried Langtang village. They included about 176 residents, around 80 foreigners, plus guides, porters and soldiers. More than 100 bodies were never recovered. A memorial with their names stands at the edge of the new village."},
+    {"q": "Can I stay two nights in Langtang village?", "a": "Yes, and it is a sensible choice if you feel altitude symptoms or want a slower trek, especially with children or older trekkers. An extra night allows a walk to the yak pastures and Mundu. The standard itinerary then continues to Kyanjin Gompa, only 3–4 hours further."},
+    {"q": "Who lives in Langtang village?", "a": "Most residents are Tamang, with close cultural ties to Tibet. They speak a local dialect, practise Tibetan Buddhism and traditionally farmed barley and potatoes and herded yaks. Tourism became the main income before 2015 and remains so. Many young people now study or work in Kathmandu and return for the trekking seasons."},
+    {"q": "Is there electricity in Langtang village?", "a": "Yes. Lodges use solar power and small hydro schemes, so there is lighting and charging in the evening, usually for a fee. Supply drops in cloudy weather. Hot showers are solar or gas heated. Bring a power bank and a headlamp for power cuts."},
+    {"q": "Is it disrespectful to trek in Langtang after the disaster?", "a": "No. Villagers rebuilt their lodges because tourism is their main livelihood, and they want trekkers to return. What matters is how you visit: learn the story, behave quietly at the memorial, buy meals and goods locally, and tip fairly. Many families say visitors helped them recover."},
+    {"q": "What is the weather in Langtang village in spring?", "a": "In April and May, expect daytime temperatures of 10–15 °C and nights near 0 °C. Rhododendrons flower below the village in April. Afternoons often bring cloud and occasional showers or light snow. Mornings are usually clear, which is the best time for walking and views of Langtang Lirung."}
+  ]
+}

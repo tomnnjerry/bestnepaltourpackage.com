@@ -1,0 +1,104 @@
+{
+  "slug": "everest-base-camp-gokyo-cho-la-trek-16-days",
+  "title": "EBC via Gokyo and Cho La Pass 16 Days",
+  "region": "everest",
+  "type": "trek",
+  "grade": "Strenuous",
+  "nights": 15,
+  "themes": ["trekking", "photography", "adventure-sports"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "phakding", "nights": 1},
+    {"place": "namche-bazaar", "nights": 3},
+    {"place": "gokyo-lakes", "nights": 2},
+    {"place": "lobuche", "nights": 1},
+    {"place": "gorak-shep", "nights": 1},
+    {"place": "everest-base-camp", "nights": 0},
+    {"place": "kala-patthar", "nights": 0},
+    {"place": "lukla", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 149000,
+  "price_from_usd": 1690,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5644,
+  "accommodation": "3-star hotel in Kathmandu (1 night), teahouse lodges on the trail",
+  "transport": "Kathmandu–Lukla return flights (or Ramechhap–Lukla with private road transfer), private airport transfers",
+  "group": "Private or small group, 2–10",
+  "meta_description": "EBC via Gokyo Lakes and Cho La Pass, 16 days: Gokyo Ri 5,357 m, Cho La 5,420 m, Everest Base Camp and Kala Patthar 5,644 m. A loop for fit trekkers.",
+  "summary": "A 16-day loop that combines the Gokyo Lakes and Everest Base Camp by crossing the Cho La (5,420 m), a glaciated pass between the two valleys. You climb Gokyo Ri and Kala Patthar, see both sides of the Khumbu and avoid walking the same trail twice above Namche.",
+  "intro": [
+    "This is our favourite way to see the Khumbu for trekkers with fitness and a little more time. You go up the quiet Gokyo valley first, acclimatising through Dole and Machhermo to the turquoise lakes and the Gokyo Ri summit. Then you cross the Ngozumpa Glacier to Thangnak, climb over the Cho La with its small glacier on the eastern side, and drop into the Khumbu valley at Dzongla, joining the classic route at Lobuche for Everest Base Camp and the Kala Patthar sunrise. Going this direction, the Gokyo stretch builds acclimatisation before the pass.",
+    "The Cho La day is long: 7–8 hours, starting before dawn, with a steep, rocky climb, a crossing of a gently sloping glacier near the top and a steep descent on loose rock. In most autumn conditions no technical skills are needed, but microspikes are often useful, and fresh snow can close the pass for a day or more. We grade the trek Strenuous and suggest it for people with previous multi-day hiking experience. The price includes a Kathmandu night, flights, permits, lodges, meals, guide and porters."
+  ],
+  "highlights": [
+    "Cho La pass at 5,420 m linking the Gokyo and Khumbu valleys",
+    "Gokyo Ri sunrise at 5,357 m over the turquoise lakes",
+    "Everest Base Camp and Kala Patthar at 5,644 m",
+    "Crossing the Ngozumpa Glacier, the longest in Nepal",
+    "A loop with no repeated trail above Namche"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "", "text": "Arrive and transfer to a 3-star hotel. Your guide checks your kit with particular attention to the Cho La: good boots with ankle support, gaiters, microspikes (we can supply them), warm gloves and a headlamp with spare batteries. Duffels are repacked to the Lukla limit, and extras stay at the hotel. Welcome dinner and briefing on the route.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lukla, walk to Phakding", "place": "phakding", "overnight": "Phakding", "altitude_m": 2610, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "Morning flight to Lukla, from Kathmandu or from Ramechhap after a night drive in peak months. Meet the porters and walk the easy trail down the Dudh Koshi valley via Cheplung and Ghat to Phakding, losing about 250 m. Afternoon free to rest by the river.", "meals": "B, L, D"},
+    {"day": 3, "title": "Trek to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3440, "walk": "≈ 5–6 h · 10–11 km", "drive": "", "flight": "", "text": "Walk upriver via Monjo and the national park gate to Jorsale, cross the Hillary Bridge and climb the 600 m Namche hill. Namche's lodges, bakeries and gear shops are your base for two nights. Use the evening to buy any last snacks for the Gokyo valley.", "meals": "B, L, D"},
+    {"day": 4, "title": "Namche acclimatisation day", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3880, "walk": "≈ 4–5 h · 7 km loop", "drive": "", "flight": "", "text": "Hike to Hotel Everest View at 3,880 m for views of Everest, Lhotse and Ama Dablam, then loop through Khumjung's monastery and school and back to Namche. Afternoon at the Sherpa Culture Museum, or rest and hydrate.", "meals": "B, L, D"},
+    {"day": 5, "title": "Namche to Dole via Mong La", "place": "", "overnight": "Dole", "altitude_m": 4040, "max_m": 4040, "walk": "≈ 5–6 h · 10 km", "drive": "", "flight": "", "text": "Leave the main EBC trail at Kyangjuma and climb to the chorten on Mong La (3,975 m), with wide views of Ama Dablam and Thamserku. Drop to the river at Phortse Thanga and climb through quiet rhododendron and birch forest to Dole, a small lodge settlement at about 4,040 m. Watch for musk deer and monal pheasants.", "meals": "B, L, D"},
+    {"day": 6, "title": "Dole to Machhermo", "place": "", "overnight": "Machhermo", "altitude_m": 4470, "max_m": 4470, "walk": "≈ 4–5 h · 7 km", "drive": "", "flight": "", "text": "A short climb above the treeline past the yak pastures of Lhabarma and Luza, with Cho Oyu growing at the head of the valley. Machhermo, in a side valley at 4,470 m, has a few lodges and, in season, an aid post that gives altitude talks. Short afternoon walk up the ridge for acclimatisation.", "meals": "B, L, D"},
+    {"day": 7, "title": "Machhermo to Gokyo", "place": "gokyo-lakes", "overnight": "Gokyo", "altitude_m": 4790, "max_m": 4790, "walk": "≈ 4–5 h · 7 km", "drive": "", "flight": "", "text": "Walk past Pangka and climb beside the Ngozumpa moraine to the first and second Gokyo lakes, then reach Gokyo village on the shore of turquoise Dudh Pokhari. Settle in early and rest. If you feel strong, walk onto the moraine behind the lodges to look down on the glacier you will cross in two days.", "meals": "B, L, D"},
+    {"day": 8, "title": "Gokyo Ri sunrise", "place": "gokyo-lakes", "overnight": "Gokyo", "altitude_m": 4790, "max_m": 5357, "walk": "≈ 3–4 h · 4 km", "drive": "", "flight": "", "text": "Climb Gokyo Ri before dawn, about 570 m in 2–3 hours, to 5,357 m. Everest, Lhotse, Makalu and Cho Oyu stand around you, and the lakes and glacier lie below. Descend for breakfast and spend the rest of the day resting or walking to the fourth lake. This high day is key preparation for the Cho La.", "meals": "B, L, D"},
+    {"day": 9, "title": "Cross the Ngozumpa Glacier to Thangnak", "place": "", "overnight": "Thangnak", "altitude_m": 4700, "max_m": 4790, "walk": "≈ 2–3 h · 4 km", "drive": "", "flight": "", "text": "A short but interesting day. Climb over the moraine behind Gokyo and pick your way across the rubble-covered Ngozumpa Glacier on a cairned path that shifts each season, past ice cliffs and grey melt ponds. On the far side, Thangnak (also spelled Dragnag) is a cluster of basic lodges at about 4,700 m. Rest, eat well and go to bed early.", "meals": "B, L, D"},
+    {"day": 10, "title": "Cho La pass to Dzongla", "place": "", "overnight": "Dzongla", "altitude_m": 4830, "max_m": 5420, "walk": "≈ 7–8 h · 9 km", "drive": "", "flight": "", "text": "Start at about 5 am. Climb up a valley and then a steep, rocky slope of boulders and scree to the Cho La at 5,420 m, decorated with prayer flags, in 3–4 hours. The final stretch crosses a small, gently sloping glacier, often icy in the morning, where microspikes help. The descent on the eastern side is steep and rocky; take it slowly. Dzongla, at 4,830 m, faces Cholatse and Ama Dablam from a sunny shelf.", "meals": "B, L, D"},
+    {"day": 11, "title": "Dzongla to Lobuche", "place": "lobuche", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 4940, "walk": "≈ 3–4 h · 7 km", "drive": "", "flight": "", "text": "An easier day after the pass. Follow the trail around the slopes above the Chola Tsho lake with views of Taboche and Cholatse, then join the main EBC trail below Lobuche. Arrive for lunch and rest. In the late afternoon, climb onto the Khumbu Glacier moraine for sunset on Nuptse.", "meals": "B, L, D"},
+    {"day": 12, "title": "Gorak Shep and Everest Base Camp", "place": "everest-base-camp", "overnight": "Gorak Shep", "altitude_m": 5164, "max_m": 5364, "walk": "≈ 7–8 h · 12 km", "drive": "", "flight": "", "text": "Walk along the moraine to Gorak Shep for an early lunch, then continue to Everest Base Camp at about 5,364 m, beneath the Khumbu Icefall. In spring the expedition camp spreads across the glacier. Return to Gorak Shep for the highest night of the trek.", "meals": "B, L, D"},
+    {"day": 13, "title": "Kala Patthar, descend to Pheriche", "place": "kala-patthar", "overnight": "Pheriche", "altitude_m": 4371, "max_m": 5644, "walk": "≈ 7–8 h · 15 km", "drive": "", "flight": "", "text": "Climb Kala Patthar at dawn for sunrise on Everest from 5,644 m, the high point of the trek. Return to Gorak Shep for breakfast and walk down past Lobuche and the Thukla memorials to Pheriche, nearly 800 m lower. You have now seen Everest from both Gokyo Ri and Kala Patthar.", "meals": "B, L, D"},
+    {"day": 14, "title": "Pheriche to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 4371, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "Descend through Pangboche, with a stop at its old monastery if you wish, cross the Imja Khola and climb briefly to Tengboche Monastery, which you are seeing for the first time on this loop. Then walk down through forest to Phunki Thenga and up to Kyangjuma, and along the balcony trail into Namche.", "meals": "B, L, D"},
+    {"day": 15, "title": "Namche Bazaar to Lukla", "place": "lukla", "overnight": "Lukla", "altitude_m": 2860, "max_m": 3440, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Down the Namche hill, across the Hillary Bridge and along the river through Monjo and Phakding to Lukla, with a final climb from Cheplung. Farewell dinner with your crew, tips and packing for the flight.", "meals": "B, L, D"},
+    {"day": 16, "title": "Fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2860, "walk": "", "drive": "Ramechhap–Kathmandu in peak months · ≈ 130 km · 4–5 h", "flight": "Lukla–Kathmandu · 35 min (or Lukla–Ramechhap · 20 min)", "text": "Early check-in at Lukla and flight to Kathmandu, or to Ramechhap with a road transfer. We drop you at your hotel. Keep at least one spare day before your international flight in case weather delays the Lukla departure.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport pickup and 1 night in a 3-star Kathmandu hotel with breakfast and welcome dinner",
+    "Kathmandu–Lukla–Kathmandu flights, or Ramechhap–Lukla with private road transfers",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "14 nights in teahouse lodges, twin sharing",
+    "All meals on the trek with tea or coffee",
+    "Licensed English-speaking guide experienced on the Cho La",
+    "One porter for every two trekkers (up to 20 kg per porter)",
+    "Microspikes for the Cho La crossing (on loan)",
+    "Staff wages, food, lodging and insurance",
+    "Pulse oximeter checks and first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Extra Kathmandu nights after the trek",
+    "Travel insurance with helicopter evacuation to 6,000 m",
+    "Hot showers, charging, Wi-Fi and drinks",
+    "Sleeping bag and down jacket (hire available)",
+    "Tips for guide and porters",
+    "Extra nights if snow closes the Cho La"
+  ],
+  "good_to_know": [
+    "Price is per person, twin sharing, for two or more trekkers. Solo departures cost more.",
+    "The Cho La can be closed or dangerous after fresh snow. If it is not safe, we reroute via Phortse and Pangboche to Lobuche, which adds about a day.",
+    "Best from mid-October to late November and from late April to May. In March and December the pass may be icy or snowbound; we do not run this route in winter or the monsoon.",
+    "Expect one very long day on the pass (7–8 hours) and several 6–8 hour days. Previous multi-day trekking experience and strong fitness are strongly recommended.",
+    "In recent peak seasons Lukla flights have operated from Ramechhap; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Helicopter return from Gorak Shep to Kathmandu", "price": "≈ US$ 600–900 per seat shared"},
+    {"name": "Extra rest day at Gokyo", "price": "≈ US$ 70 per person"}
+  ],
+  "faqs": [
+    {"q": "How difficult is the Cho La pass?", "a": "The Cho La (5,420 m) is a strenuous non-technical pass. The climb from Thangnak is steep and rocky, a short glacier near the top can be icy, and the descent to Dzongla is steep on loose rock. Microspikes and a guide make it much safer. Expect 7–8 hours."},
+    {"q": "Should I do Gokyo first or Everest Base Camp first?", "a": "We prefer Gokyo first. The Gokyo valley's gentle climb and Gokyo Ri give good acclimatisation before the Cho La, and you finish with EBC and Kala Patthar. Going the other way works too but puts the pass after the highest nights."},
+    {"q": "Do I need crampons for the Cho La?", "a": "Full crampons are rarely needed, but microspikes are often useful on the small glacier near the top, especially early in the morning or after snow. We lend microspikes on this trek. Good boots with ankle support are essential."},
+    {"q": "How much does EBC via Gokyo and Cho La cost?", "a": "Our 16-day trek starts from about US$ 1,690 or ₹1,49,000 per person, twin sharing, including one Kathmandu night, flights, permits, lodges, meals, guide, porters and microspikes. Add insurance, tips, drinks and extra Kathmandu nights."},
+    {"q": "What if the Cho La is closed by snow?", "a": "We wait a day if the forecast is good, or reroute from Gokyo via Phortse and Pangboche to join the EBC trail, adding about a day. Your guide decides based on conditions and talks to other groups who have crossed recently."},
+    {"q": "Is this trek suitable for beginners?", "a": "Only for very fit beginners with good hiking experience at home. The pass day and long descents are demanding. If this is your first trek, the 12 or 14-day EBC trek or the Gokyo Lakes trek are better choices."},
+    {"q": "What are the lodges like at Thangnak and Dzongla?", "a": "Basic: small twin rooms, shared toilets, no showers and a heated dining room in the evening. Both settlements have only a few lodges, so in peak weeks we book ahead. Food choices are limited but hearty."},
+    {"q": "How many passes does this trek cross?", "a": "One high pass, the Cho La at 5,420 m. Our Everest Three Passes trek adds the Kongma La (5,535 m) and the Renjo La (5,360 m) for a full circuit of 19 days."},
+    {"q": "When is the best time to cross the Cho La?", "a": "Mid-October to late November gives the most stable weather and least snow. Late April and May are also good. Early spring and December can bring snow and ice on the pass, and winter crossings are not recommended."}
+  ]
+}

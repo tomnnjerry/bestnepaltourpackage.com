@@ -1,0 +1,84 @@
+{
+  "slug": "kathmandu-chitwan-tour-4-nights",
+  "title": "Kathmandu and Chitwan Tour 4 Nights 5 Days",
+  "region": "chitwan",
+  "type": "safari",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["wildlife-safari", "cultural-tours", "family-holidays", "short-breaks"],
+  "stops": [{"place": "kathmandu", "nights": 2}, {"place": "sauraha", "nights": 2}, {"place": "chitwan-national-park", "nights": 0}],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 27000,
+  "price_from_usd": 360,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "3-star hotel in Kathmandu, Green Park Chitwan or similar in Sauraha",
+  "transport": "Private car in Kathmandu and to Chitwan; Bharatpur–Kathmandu flight on day 5",
+  "group": "Private, 2–12",
+  "meta_description": "Kathmandu and Chitwan tour 4 nights 5 days: Pashupatinath, Boudhanath, Patan, then jeep safari, canoe and Tharu culture in Chitwan. From ₹27,000 per person.",
+  "summary": "Two nights in Kathmandu for Pashupatinath, Boudhanath, Swayambhunath and Patan, then two nights in Chitwan for a jeep safari, canoe ride, jungle walk and Tharu culture, with a short flight back to Kathmandu at the end. A compact first trip to Nepal that mixes temples and wildlife.",
+  "intro": [
+    "This five-day plan answers the question many first-time visitors ask: can we see Kathmandu and a jungle safari in under a week? Yes, if the days are organised. You land in Kathmandu, spend a full day at four of the valley's UNESCO-listed sites with a licensed guide, then drive down to Chitwan for two nights of safari. Instead of the long drive back, a 25-minute flight from Bharatpur returns you to Kathmandu in time for an onward flight.",
+    "It is popular with Indian families and couples on a long weekend, and with international travellers adding Nepal to an India trip. Hotels are comfortable 3-star properties in Kathmandu and a resort with a pool in Sauraha. Pilgrims can swap Swayambhunath for an evening at the Pashupatinath aarti, and families can add the Kathmandu Durbar Square or the Garden of Dreams. Ask and we will adjust."
+  ],
+  "highlights": [
+    "Pashupatinath temple and the evening aarti on the Bagmati",
+    "Boudhanath stupa and Swayambhunath with a licensed guide",
+    "Patan Durbar Square and its Newar courtyards",
+    "Jeep safari, canoe and jungle walk in Chitwan National Park",
+    "Tharu village visit and evening stick dance",
+    "Short flight back from Bharatpur instead of a 6-hour drive"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive Kathmandu, Pashupatinath aarti", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1 h", "drive": "≈ 10 km · 30 min", "flight": "", "text": "Our representative meets you at Tribhuvan International Airport and drives you to your hotel. After a rest, and depending on your arrival time, we head to Pashupatinath in the late afternoon. The great Shiva temple stands on the Bagmati river, with cremation ghats on its banks; non-Hindus watch from the east bank while Hindu guests may enter the main courtyard. At dusk, priests perform the Bagmati aarti with lamps, bells and chanting, a powerful start to a Nepal trip. Dinner at a Nepali restaurant in Thamel or near your hotel.", "meals": "D"},
+    {"day": 2, "title": "Boudhanath, Swayambhunath and Patan", "place": "patan", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 3 h in total", "drive": "≈ 30 km · 2 h in total", "flight": "", "text": "A full day with a licensed city guide. Start at Boudhanath, one of the largest stupas in the world, walking the circuit clockwise with Tibetan pilgrims and stopping at a monastery. Then climb to Swayambhunath, the hilltop stupa watched over by monkeys, for views across the valley. After lunch, cross the Bagmati to Patan Durbar Square, with its Krishna Mandir, Golden Temple and royal palace courtyards, now the Patan Museum. Return to the hotel by late afternoon; the evening is free for shopping in Thamel or Asan.", "meals": "B"},
+    {"day": 3, "title": "Drive to Chitwan, Tharu village walk", "place": "sauraha", "overnight": "Sauraha", "altitude_m": 160, "max_m": 1400, "walk": "≈ 1.5 h · 4 km", "drive": "≈ 165 km · 5–6 h", "flight": "", "text": "Leave Kathmandu at 8 am and follow the Prithvi Highway down the Trishuli gorge to Mugling, then south along the river to Narayangarh for lunch. You reach Sauraha around 2 pm and settle into the resort. In the late afternoon a naturalist leads a walk through a Tharu village, past mud-walled houses painted with clay reliefs and fields of mustard or rice, to the Rapti for sunset. Evening stick dance show at the Tharu Culture House.", "meals": "B, D"},
+    {"day": 4, "title": "Canoe, jungle walk and jeep safari", "place": "chitwan-national-park", "overnight": "Sauraha", "altitude_m": 160, "max_m": 160, "walk": "≈ 1.5 h · 4–5 km", "drive": "Jeep safari ≈ 4 h", "flight": "", "text": "Start with a dugout canoe ride on the Rapti at 7 am, drifting past mugger crocodiles and kingfishers, with rhinos often drinking at the bank. Walk back through riverine forest with two licensed guides, learning to read rhino and tiger tracks, and stop at the Elephant Breeding Centre. After lunch and a rest, an open jeep takes you into the park for four hours of grassland and forest, with stops at watchtowers to look for rhino, gaur, spotted deer and sloth bear. Farewell dinner at the resort.", "meals": "B, L, D"},
+    {"day": 5, "title": "Fly Bharatpur to Kathmandu, depart", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 15 km · 30 min to Bharatpur Airport", "flight": "Bharatpur–Kathmandu · 25 min", "text": "An optional dawn bird walk before breakfast, then transfer 30 minutes to Bharatpur Airport for the late-morning flight to Kathmandu, about 25 minutes, with views of the Mahabharat hills and, on clear days, the Himalaya to the north. On arrival, we transfer you to the international terminal or your hotel. Book onward international flights after 3 pm to allow for domestic delays, especially in December and January when fog affects schedules.", "meals": "B"}
+  ],
+  "stays": ["green-park-chitwan"],
+  "includes": [
+    "Airport arrival and departure transfers in Kathmandu",
+    "Two nights at a 3-star hotel in Kathmandu with breakfast",
+    "Two nights at Green Park Chitwan or similar with all meals",
+    "Full-day Kathmandu sightseeing with licensed guide and private car",
+    "Entry fees at Pashupatinath, Boudhanath, Swayambhunath and Patan",
+    "Private car Kathmandu–Sauraha",
+    "Jeep safari, canoe ride, jungle walk, village walk and cultural show",
+    "Chitwan National Park entry fees",
+    "Bharatpur–Kathmandu flight with airport transfers"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees (Indian nationals do not need a visa)",
+    "Lunches and dinners in Kathmandu except day 1 dinner",
+    "Drinks, bottled water and snacks",
+    "Elephant rides or bathing (not offered)",
+    "Tips for guides and drivers",
+    "Travel insurance",
+    "Camera fees at some temples"
+  ],
+  "good_to_know": [
+    "The INR price is per person, twin sharing, for 2 guests with SAARC entry and park fees; foreign nationals pay higher monument and park fees, reflected in the USD price.",
+    "Hindu guests may enter the Pashupatinath main temple; non-Hindus view it from the east bank.",
+    "Domestic flights can be delayed by weather; we leave a buffer before international departures.",
+    "In December and January, morning fog in Chitwan can delay the Bharatpur flight; we rebook by road if necessary.",
+    "We can reverse the order and start in Chitwan if your flights suit that better."
+  ],
+  "add_ons": [
+    {"name": "Bhaktapur half-day tour on day 1 or 5", "price": "≈ ₹3,500 per person"},
+    {"name": "Everest mountain flight from Kathmandu", "price": "≈ US$ 230 per person"},
+    {"name": "Extra night in Chitwan with full-day jeep safari", "price": "≈ ₹8,000 per person"}
+  ],
+  "faqs": [
+    {"q": "Is 5 days enough for Kathmandu and Chitwan?", "a": "Yes, for the highlights. Two nights in Kathmandu cover the main temples and stupas with a guide, and two nights in Chitwan give you a jeep safari, canoe and walk. Flying back from Bharatpur saves a long drive. Add a night in Chitwan for a full-day safari, or Pokhara for mountain views."},
+    {"q": "What is the Kathmandu Chitwan package cost?", "a": "From about ₹27,000 per person twin sharing for two travellers, including hotels, Kathmandu sightseeing with entry fees, private car to Chitwan, safari activities with park fees and the flight back. International travellers pay from about US$ 360. Flights to Nepal and most meals in Kathmandu are extra."},
+    {"q": "Can we add Pokhara to this tour?", "a": "Yes. A common version is Kathmandu 2 nights, Pokhara 2 nights and Chitwan 2 nights, about 7 days in total. Pokhara adds the lake, Sarangkot sunrise and Himalayan views. We can quote it with private car or a mix of car and flights."},
+    {"q": "Can non-Hindus enter Pashupatinath?", "a": "Only Hindus may enter the main temple courtyard. Non-Hindus can visit the rest of the complex, watch from the east bank of the Bagmati and attend the evening aarti from the terraces. Our guide explains the temple, the cremation ghats and the rituals."},
+    {"q": "Is this tour good for families with kids?", "a": "Yes. Distances are manageable, Chitwan's jeep safari and canoe ride suit all ages, and the resort has a pool. Children usually enjoy the monkeys at Swayambhunath and the Tharu dance. The walking safari is for 12 and over; younger children can stay at the resort."},
+    {"q": "Why do you fly back from Bharatpur?", "a": "The drive from Chitwan to Kathmandu takes 5–7 hours on a busy road, while the flight takes about 25 minutes. Flying back gives you a relaxed last morning and protects your international connection. If you prefer, we can drive back for a lower price."},
+    {"q": "Do Indians need a visa or passport for this tour?", "a": "Indian citizens do not need a visa for Nepal. You need a valid passport or voter ID card to travel; children travelling with parents can usually use a birth certificate or school ID. Aadhaar is not accepted as ID for entering Nepal. Check current status before you travel."},
+    {"q": "What hotels do you use in Kathmandu?", "a": "We use comfortable 3-star hotels in or near Thamel with private bathrooms, Wi-Fi and breakfast, close to restaurants and shops. Upgrades to 4-star and 5-star hotels such as those near Durbar Marg are available. The hotel name is confirmed at booking."},
+    {"q": "When is the best time for a Kathmandu and Chitwan tour?", "a": "October to April. October and November are clear and festive, with Dashain and Tihar. December and January are cool, with foggy mornings in Chitwan. February to April is the best season for wildlife. The monsoon, from mid-June to mid-September, closes many park tracks."}
+  ]
+}

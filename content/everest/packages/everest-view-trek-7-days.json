@@ -1,0 +1,91 @@
+{
+  "slug": "everest-view-trek-7-days",
+  "title": "Everest View Trek 7 Days",
+  "region": "everest",
+  "type": "trek",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["trekking", "family-holidays", "short-breaks", "cultural-tours", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "phakding", "nights": 2},
+    {"place": "namche-bazaar", "nights": 1},
+    {"place": "khumjung", "nights": 1},
+    {"place": "lukla", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 87000,
+  "price_from_usd": 990,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 3880,
+  "accommodation": "3-star hotel in Kathmandu (1 night), teahouse lodges with attached bathrooms where available",
+  "transport": "Kathmandu–Lukla return flights (or Ramechhap–Lukla with private road transfer), private airport transfers",
+  "group": "Private family or small group, 2–10",
+  "meta_description": "Everest View trek 7 days: easy walk to Namche, Hotel Everest View at 3,880 m and Khumjung's yeti scalp. Short days, low altitude, ideal for families. From US$ 990.",
+  "summary": "The gentlest way to see Everest on foot: a 7-day trek from Lukla to Namche Bazaar, Hotel Everest View (3,880 m) and the Sherpa village of Khumjung, with short walking days of 3–6 hours and no nights above 3,800 m. It suits families, older walkers and anyone with only a week.",
+  "intro": [
+    "Not everyone has two weeks, or wants to sleep above 5,000 m. This short trek gives you the Sherpa heartland of the Khumbu and a clear view of Everest, Lhotse and Ama Dablam from the terrace of Hotel Everest View, while keeping the highest sleeping altitude at Khumjung (3,790 m). Walking days are short, between 3 and 6 hours, and the return is split over two easy days instead of one long one, which makes it suitable for fit children from about eight, active grandparents and first-time trekkers.",
+    "We call it easy, but be realistic: the climb up the Namche hill gains about 600 m in two to three hours, and there are many stone steps. Anyone who can walk 10 km with some hills at home will manage at a slow pace. The price includes one night in Kathmandu, Lukla flights or the Ramechhap transfer, permits, lodges, all meals on the trail, a licensed guide and porters. Lodges at Phakding, Namche and Lukla with attached bathrooms are chosen where available, and Yeti Mountain Home upgrades are offered."
+  ],
+  "highlights": [
+    "Everest, Lhotse and Ama Dablam from the Hotel Everest View terrace",
+    "Namche Bazaar, the Sherpa trading town at 3,440 m",
+    "Khumjung's yeti scalp and Hillary's school",
+    "Short walking days with no nights above 3,800 m",
+    "Return split over two easy days, ideal for families"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "", "text": "Arrive in Kathmandu and transfer to a 3-star hotel. Your guide meets the family or group in the afternoon to check boots, jackets and daypacks, and to repack bags to the 15 kg Lukla limit, including hand luggage. Children get a short talk on altitude and why we drink lots of water. If flights are running from Ramechhap, we explain tomorrow's very early start and pack snacks for the drive.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lukla, easy walk to Phakding", "place": "phakding", "overnight": "Phakding", "altitude_m": 2610, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "The flight to Lukla is an adventure in itself, landing uphill on a short mountain runway. After tea, walk down through the village of Chaurikharka and along the Dudh Koshi past prayer wheels turned by streams at Ghat. The trail is mostly downhill and level, and Phakding sits 250 m lower than Lukla, so most people sleep well. Afternoon free to play cards or walk along the river.", "meals": "B, L, D"},
+    {"day": 3, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3440, "walk": "≈ 5–6 h · 10–11 km", "drive": "", "flight": "", "text": "The hardest day of the trek, taken slowly. Follow the river to Monjo and the Sagarmatha National Park gate, then down to Jorsale for lunch. Cross the high Hillary Suspension Bridge, hung with prayer flags, and climb the Namche hill with plenty of rests. Ponies can be hired for part of the climb if a child or grandparent needs help. Namche's bakeries and warm lodges make a good reward.", "meals": "B, L, D"},
+    {"day": 4, "title": "Hotel Everest View and Khumjung", "place": "khumjung", "overnight": "Khumjung", "altitude_m": 3790, "max_m": 3880, "walk": "≈ 3–4 h · 5 km", "drive": "", "flight": "", "text": "Climb the stone steps above Namche to the Syangboche airstrip and walk on to Hotel Everest View at 3,880 m. On the terrace, with hot chocolate and cake, you look straight at Everest, Lhotse, Ama Dablam and Tengboche Monastery. Then walk down to Khumjung, a Sherpa village of green roofs beneath sacred Khumbila. Visit the monastery's yeti scalp and see the school Edmund Hillary built in 1961. Overnight in a quiet family lodge.", "meals": "B, L, D"},
+    {"day": 5, "title": "Khumjung to Phakding via Namche", "place": "phakding", "overnight": "Phakding", "altitude_m": 2610, "max_m": 3790, "walk": "≈ 5–6 h · 13 km", "drive": "", "flight": "", "text": "Walk back over the ridge to Namche for a last coffee and souvenir shopping, then descend the long hill to the Hillary Bridge and follow the river through Jorsale and Monjo to Phakding. The descent is steady and easy on the lungs, though knees appreciate trekking poles. Breaking the return here, rather than walking all the way to Lukla in one day, keeps the trek relaxed for younger and older walkers.", "meals": "B, L, D"},
+    {"day": 6, "title": "Phakding to Lukla", "place": "lukla", "overnight": "Lukla", "altitude_m": 2860, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "A short morning walk back up the valley to Lukla, gaining about 250 m. Arrive by lunchtime and spend the afternoon watching planes land and take off on the runway from a café terrace, a favourite with children. In the evening, thank your guide and porters over dinner and pack bags for the morning flight.", "meals": "B, L, D"},
+    {"day": 7, "title": "Fly to Kathmandu, trip ends", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2860, "walk": "", "drive": "Ramechhap–Kathmandu in peak months · ≈ 130 km · 4–5 h", "flight": "Lukla–Kathmandu · 35 min (or Lukla–Ramechhap · 20 min)", "text": "Check in at Lukla airport at about 6 am and fly back to Kathmandu, or to Ramechhap followed by a 4–5 hour drive. We drop you at your hotel. Lukla flights are often delayed by cloud, so keep at least one spare day in Kathmandu before your flight home. Families often use it for Bhaktapur, Patan or the monkey temple at Swayambhunath.", "meals": "Breakfast"}
+  ],
+  "stays": ["yeti-mountain-home-lukla", "yeti-mountain-home-namche"],
+  "includes": [
+    "Airport pickup and 1 night in a 3-star Kathmandu hotel with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights, or Ramechhap–Lukla with private road transfers",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "5 nights in teahouse lodges, with attached bathrooms where available",
+    "All meals on the trek with tea, coffee or hot chocolate",
+    "Licensed English-speaking guide experienced with families",
+    "Porters (one per two trekkers, up to 20 kg each)",
+    "Tea or snack at Hotel Everest View",
+    "Staff wages, food, lodging and insurance"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Extra Kathmandu nights after the trek",
+    "Travel insurance with helicopter evacuation",
+    "Pony hire on the Namche hill (≈ US$ 40–60 per stage)",
+    "Hot showers, charging, Wi-Fi and drinks",
+    "Tips for guide and porters",
+    "Costs from flight delays"
+  ],
+  "good_to_know": [
+    "Price is per person, twin sharing, for two or more travellers. Children under 12 sharing with parents get a reduced rate on lodges and meals; flight seats cost the same as adults.",
+    "Graded Easy because of short days and low sleeping heights, but the Namche hill is steep. Anyone who can walk 10 km with hills will manage at a slow pace.",
+    "Highest sleeping point is Khumjung (3,790 m). Mild headaches are possible at Namche and Khumjung; serious altitude illness is uncommon at these heights but not impossible, so watch children closely.",
+    "Lodges with ensuite rooms are booked where available; the Lukla and Namche nights can be upgraded to Yeti Mountain Home, and the Khumjung night to Hotel Everest View.",
+    "In recent peak seasons Lukla flights have operated from Ramechhap; check current status before you travel. Keep a spare day for weather delays."
+  ],
+  "add_ons": [
+    {"name": "Night at Hotel Everest View instead of Khumjung", "price": "On request, subject to availability"},
+    {"name": "Yeti Mountain Home upgrade for Lukla and Namche", "price": "≈ US$ 250–350 per person"},
+    {"name": "Helicopter return from Namche (Syangboche) to Kathmandu", "price": "≈ US$ 500–650 per seat shared"}
+  ],
+  "faqs": [
+    {"q": "What is the easiest trek to see Everest?", "a": "The Everest View trek is the easiest. In 7 days you walk to Namche Bazaar and Hotel Everest View at 3,880 m, where Everest is clearly visible, without sleeping above 3,800 m. Walking days are 3–6 hours. The only alternative with less effort is a helicopter tour."},
+    {"q": "Can kids do the Everest View trek?", "a": "Yes. Fit children from about eight usually manage well, especially with the split return. The Namche hill is the hardest part. Watch for altitude symptoms such as headache, tiredness or poor appetite, and tell your guide early. Ponies can help on steep sections."},
+    {"q": "Can I see Everest on a 7-day trek?", "a": "Yes. On clear days you see Everest from the Namche hill, the ridge above Namche, Syangboche and especially Hotel Everest View, along with Lhotse and Ama Dablam. Mornings give the best chance, so we time the Everest View walk early."},
+    {"q": "How much does the Everest View trek cost?", "a": "From about US$ 990 or ₹87,000 per person, twin sharing, including one Kathmandu night, Lukla flights, permits, lodges, meals, guide and porters. Children sharing with parents pay less for lodges and meals."},
+    {"q": "Is the Everest View trek suitable for seniors?", "a": "Yes, for active seniors who walk regularly. Days are short, sleeping altitude stays below 3,800 m and we keep a slow pace. Get a medical check before booking, especially for heart or lung conditions, and bring trekking poles for the descents."},
+    {"q": "Do I need a guide for the Everest View trek?", "a": "Nepal's 2023 rule requires foreign trekkers in national parks to hire a licensed guide, though enforcement in the Khumbu varies. For families, a guide handles bookings, flight changes and altitude checks. Check current status before you travel."},
+    {"q": "What is the best time for the Everest View trek?", "a": "October to December for clear mountain views and dry trails, and March to May for warmer days and rhododendrons. School holidays around Diwali and in May suit Indian families. Avoid June to August, when clouds hide the mountains and flights are often cancelled."},
+    {"q": "Can I do this trek with a helicopter return?", "a": "Yes. From Syangboche, above Namche, a shared helicopter seat to Kathmandu costs roughly US$ 500–650. It shortens the trek by two days. We can also arrange a private helicopter for a family."},
+    {"q": "What should we pack for the Everest View trek?", "a": "Comfortable broken-in boots, a warm down jacket, fleece, rain shell, hat, gloves, sunglasses, sun cream, a refillable water bottle and a small daypack. Nights in Namche and Khumjung drop below freezing from November to March, so bring warm sleepwear."}
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "slug": "kathmandu-pokhara-tour-5-nights",
+  "title": "Kathmandu and Pokhara Tour: 5 Nights, 6 Days",
+  "region": "kathmandu-valley",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": [
+    "cultural-tours",
+    "photography",
+    "short-breaks"
+  ],
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 24000,
+  "price_from_usd": 340,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels: Thamel in Kathmandu, Lakeside in Pokhara; twin sharing with breakfast",
+  "transport": "Private car or van with driver throughout, including the Prithvi Highway both ways",
+  "group": "Private tour, 1–12 travellers",
+  "meta_description": "Kathmandu and Pokhara in 6 days by private car: Sarangkot sunrise, Phewa Lake boating, Pashupatinath and Swayambhunath. 3-star hotels from ₹24,000.",
+  "summary": "Six days that pair Kathmandu's temples with three nights by Phewa Lake in Pokhara. You drive the Prithvi Highway in a private car, watch sunrise light up Machhapuchhre and the Annapurnas from Sarangkot, row to Tal Barahi temple and finish in Kathmandu with Pashupatinath and Boudhanath before your flight home.",
+  "intro": [
+    "Most first-time visitors from India want two things from Nepal: the temples of Kathmandu and a proper look at the Himalaya. This tour gives three nights to Pokhara, because the mountain view from Sarangkot depends on a clear dawn and an extra morning doubles your chances. Pokhara sits at 822 m on the shore of Phewa Lake, with Machhapuchhre (6,993 m) about 30 km away in a straight line. The town's sights are close together, so days there are short on driving and long on lake and mountain.",
+    "We split Kathmandu across the first and last days. You arrive, see Swayambhunath at sunset, and drive to Pokhara the next morning while you are fresh. On the way back the road brings you into Kathmandu by mid-afternoon, and your final morning covers Pashupatinath and Boudhanath close to the airport. The Kathmandu–Pokhara road is about 200 km and takes 6–8 hours, with road works common, so we start early and stop at riverside restaurants along the Trishuli."
+  ],
+  "highlights": [
+    "Three nights on Phewa Lake, giving two chances at a clear Sarangkot sunrise",
+    "Rowing boat to the island temple of Tal Barahi",
+    "World Peace Pagoda, Davis Falls and Gupteshwor Mahadev cave",
+    "International Mountain Museum and Bindhyabasini temple",
+    "Sunset at Swayambhunath and a final morning at Pashupatinath and Boudhanath"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, sunset at Swayambhunath",
+      "place": "swayambhunath",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 1 h · 1.5 km",
+      "drive": "≈ 6 km · 30 min to Thamel",
+      "flight": "",
+      "text": "Our driver meets you at Tribhuvan International Airport and takes you to your 3-star hotel in Thamel. Late in the afternoon, once you have rested, we drive 3 km west to Swayambhunath. The stupa sits on a wooded hill above the city, and the walk around its terrace takes in prayer wheels, small shrines, butter-lamp houses and the troops of rhesus monkeys that give it the name Monkey Temple. As the sun drops, the whole valley spreads out below, with the Durbar Square rooftops in the middle distance. Your guide briefs you on the drive to Pokhara over tea back in Thamel.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Drive the Prithvi Highway to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "altitude_m": 822,
+      "max_m": 1500,
+      "walk": "",
+      "drive": "≈ 200 km · 6–8 h",
+      "flight": "",
+      "text": "We leave Thamel at 7 am to beat the city traffic and climb out of the valley over the Nagdhunga pass, then wind down to the Trishuli river. The road follows the river past rafting beaches and suspension bridges to Mugling, where the Trishuli meets the Marsyangdi, then climbs west through terraced farmland and the bazaar towns of Damauli and Dumre. Breakfast and lunch stops are at clean highway restaurants. You reach Pokhara between 2 and 4 pm. After check-in at a Lakeside hotel, walk the lakeshore promenade and watch the paragliders land on the east shore of Phewa.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Sarangkot sunrise, Peace Pagoda and caves",
+      "place": "sarangkot",
+      "overnight": "Pokhara (Lakeside)",
+      "altitude_m": 822,
+      "max_m": 1600,
+      "walk": "≈ 2 h in total · 3 km",
+      "drive": "≈ 40 km · 2 h across the day",
+      "flight": "",
+      "text": "An alarm at 4:45 am is worth it. We drive 30 minutes up to Sarangkot (1,600 m) and climb the last steps to the viewpoint before first light. On a clear morning the sun hits Dhaulagiri (8,167 m) first, then Annapurna South, Machhapuchhre and Annapurna II, with Phewa Lake still in shadow below. After breakfast at the hotel we drive to the World Peace Pagoda on Anadu hill for a view back across the lake, then visit Davis Falls, where the Pardi Khola drops into a tunnel, and Gupteshwor Mahadev cave opposite, with its Shiva lingam and a passage to the falls.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Phewa boating, Tal Barahi and museum",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "altitude_m": 822,
+      "max_m": 900,
+      "walk": "≈ 2 h · 3 km",
+      "drive": "≈ 15 km · 45 min",
+      "flight": "",
+      "text": "This is a slower day. Hire a painted wooden rowing boat at the Barahi ghat and cross to the small island temple of Tal Barahi, a two-tiered pagoda to the goddess Barahi where Saturdays bring long queues of local families with offerings. Back on shore, drive to the International Mountain Museum to see displays on the 14 peaks over 8,000 m, early Everest and Annapurna expeditions and the peoples of the hills. Late afternoon visit Bindhyabasini temple in the old bazaar and look into the Seti river gorge at Mahendrapul, where the water runs grey and milky far below the bridge.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Free morning, drive back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu (Thamel)",
+      "altitude_m": 1400,
+      "max_m": 1500,
+      "walk": "",
+      "drive": "≈ 200 km · 6–8 h",
+      "flight": "",
+      "text": "If the first sunrise was cloudy, we go back up to Sarangkot at dawn for a second try, which is why this tour has three Pokhara nights. Otherwise sleep in and have breakfast by the lake. We leave around 8 am and retrace the Prithvi Highway east along the Marsyangdi and Trishuli rivers, stopping for lunch at Kurintar or Malekhu, the riverside town known for fried fish. You reach Kathmandu by mid-afternoon traffic. The evening is free in Thamel; Asan and Indra Chowk, a 15-minute walk away, are good for spices, brassware and tea.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Pashupatinath and Boudhanath, depart",
+      "place": "pashupatinath",
+      "overnight": "Departure",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 2 h · 3 km",
+      "drive": "≈ 15 km · 1 h including the airport",
+      "flight": "",
+      "text": "Pashupatinath and Boudhanath both sit within 3 km of the airport, which makes them the right sights for a departure morning. At Pashupatinath Hindu travellers can go in for darshan at the main shrine, while others walk the Bagmati ghats and the hillside of small Shiva shrines across the river. Ten minutes away, Boudhanath is one of the largest stupas in Asia; walk the kora clockwise with Tibetan pilgrims, spin the prayer wheels and climb to a rooftop café for the view of its painted eyes. We drop you at the airport three hours before your flight.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights at a 3-star hotel in Thamel, Kathmandu, with breakfast",
+    "3 nights at a 3-star Lakeside hotel in Pokhara, with breakfast",
+    "Private car or van with driver for all transfers and sightseeing",
+    "Kathmandu–Pokhara–Kathmandu by private vehicle on the Prithvi Highway",
+    "Early-morning drive to Sarangkot, with a second attempt if day 3 is cloudy",
+    "Licensed English- or Hindi-speaking guide for sightseeing in Kathmandu and Pokhara",
+    "Airport pickup and drop",
+    "Fuel, parking, tolls and driver allowances",
+    "Nepal government taxes and our service charge"
+  ],
+  "excludes": [
+    "International flights and the Nepal visa fee for non-Indian passports",
+    "Kathmandu–Pokhara flights, available as an add-on",
+    "Monument, museum and boat fees (Tal Barahi rowing boat is charged per boat; check current status before you travel)",
+    "Lunches and dinners",
+    "Paragliding and other optional activities",
+    "Travel insurance",
+    "Tips for guide and driver",
+    "Drinks, laundry, phone and personal shopping"
+  ],
+  "good_to_know": [
+    "The ₹24,000 price is per person for two sharing a twin room at 3-star hotels, with a private car, outside the Dashain–Tihar and Christmas–New Year peaks.",
+    "Indian travellers pay SAARC rates at monuments and the International Mountain Museum, which are well below foreign rates; check current status before you travel.",
+    "The Prithvi Highway is under widening in places, and drive times of 6–8 hours can stretch in the monsoon when landslides close sections.",
+    "Mountain views need clear air: October–November and February–April are best, while the June–September monsoon often hides the peaks completely.",
+    "We can replace the road return with a 25-minute Pokhara–Kathmandu flight; it frees a half-day for paragliding or a second sunrise."
+  ],
+  "add_ons": [
+    {
+      "name": "Pokhara–Kathmandu flight instead of the road return",
+      "price": "≈ ₹4,500 for Indian nationals · ≈ US$ 120 for other nationals (check current fares)"
+    },
+    {
+      "name": "Tandem paragliding from Sarangkot, 20–30 min",
+      "price": "≈ ₹8,000–10,000 per person"
+    },
+    {
+      "name": "Everest mountain flight from Kathmandu on day 6",
+      "price": "≈ ₹15,000 for Indian nationals · ≈ US$ 230 for other nationals"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the cost of a Kathmandu Pokhara tour package from India?",
+      "a": "Our 5-night Kathmandu–Pokhara tour starts at ₹24,000 per person for two sharing, with 3-star hotels, breakfast, a private car and a guide. Choosing 4-star hotels adds about ₹8,000–12,000 per person, and flying one way instead of driving adds roughly ₹4,500. Flights from India, meals, entry fees and activities such as paragliding are extra. Ask us for a quote with your dates and group size."
+    },
+    {
+      "q": "Kathmandu to Pokhara: road or flight?",
+      "a": "The road is about 200 km and takes 6–8 hours on the Prithvi Highway, with river views and good lunch stops but frequent road works. The flight takes 25 minutes and costs about ₹4,500 for Indian nationals. We include the road both ways to keep the price down and suggest flying back if you have a tight connection. Flights are weather dependent, so check current status before you travel."
+    },
+    {
+      "q": "What time is sunrise at Sarangkot?",
+      "a": "Sunrise at Sarangkot falls between about 5:15 am in June and 7 am in January. We leave Lakeside 45 minutes to an hour before that, drive about 30 minutes and walk the last few minutes to the viewpoint in the dark. Bring a fleece; it is noticeably colder at 1,600 m than down by the lake. The best light on Machhapuchhre usually lasts 15–20 minutes."
+    },
+    {
+      "q": "Is paragliding in Pokhara safe?",
+      "a": "Tandem paragliding from Sarangkot is run by licensed operators with certified pilots, and flights are cancelled when wind or cloud is unsafe. You fly strapped to the pilot for 20–30 minutes and land beside Phewa Lake. Each operator sets its own age and weight limits, so tell us ages and weights when you book. Avoid it if you have back problems or are pregnant. Fly in the morning, when air is calmer."
+    },
+    {
+      "q": "Can we bring our own car from India for this tour?",
+      "a": "Yes. Indian-registered cars can enter Nepal with a Bhansar customs permit issued at the border, charged per day, and you need the registration papers, your licence and insurance valid in Nepal. Many families drive in via Sunauli or Raxaul. Mountain roads are narrow and slow, so many of our guests leave their car at the border hotel and use our driver. Check current status before you travel."
+    },
+    {
+      "q": "Is vegetarian food easy to find in Kathmandu and Pokhara?",
+      "a": "Very easy. Dal bhat, the national meal of rice, lentils, vegetable curry and pickle, is vegetarian by default, and both Thamel and Lakeside have many pure-veg Indian restaurants serving thalis, dosas and paneer dishes. Hotels prepare Jain food on request if told in advance. Highway restaurants on the Pokhara road serve fresh vegetarian thalis at most stops."
+    },
+    {
+      "q": "Can elderly parents do this tour?",
+      "a": "Yes, with small adjustments. The highest point is Sarangkot at 1,600 m, which causes no altitude problems for healthy travellers, and the car takes you to within a few minutes' walk of the viewpoint. Swayambhunath has a road to the top, so you can skip the stairs. The long drive is the hardest part; we stop every two hours, or you can fly back to cut the return to 25 minutes."
+    },
+    {
+      "q": "Pokhara or Nagarkot for mountain views?",
+      "a": "Pokhara gives the closer and bigger view. From Sarangkot, Machhapuchhre and the Annapurnas fill the skyline only 30–40 km away. Nagarkot, 32 km from Kathmandu, shows a wider but more distant line from Langtang to Gauri Shankar, with Everest a small point on very clear days. If you have only two nights to spare, choose Pokhara. Our grand tour and honeymoon package include both."
+    },
+    {
+      "q": "What should we pack for Pokhara?",
+      "a": "Pack layers. From October to March days in Pokhara reach about 20–25 °C but dawn at Sarangkot can drop to 5 °C, so bring a warm jacket, a cap and gloves for sunrise. Comfortable walking shoes, sunglasses, sunscreen and a light rain jacket cover the rest. Add an umbrella from April onwards, when afternoon showers start. Small notes in Nepali or Indian rupees help for boats and tea."
+    }
+  ]
+}

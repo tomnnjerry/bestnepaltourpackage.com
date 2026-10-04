@@ -1,0 +1,133 @@
+{
+  "slug": "lukla",
+  "name": "Lukla",
+  "region": "everest",
+  "kind": "trekking village",
+  "wiki": "Lukla",
+  "image_query": "Tenzing Hillary Airport Lukla runway",
+  "lat": 27.6869,
+  "lng": 86.7314,
+  "altitude_m": 2860,
+  "tagline": "The airstrip town where almost every Everest trip begins and ends",
+  "meta_description": "Lukla (2,860 m) is the gateway to Everest: Tenzing-Hillary Airport, 35 min from Kathmandu or 20 min from Ramechhap, lodges, gear shops and trail start.",
+  "summary": "Lukla sits at 2,860 m on a shelf above the Dudh Koshi and is home to Tenzing-Hillary Airport, the 527 m sloping runway that links Kathmandu and Ramechhap to the Khumbu. Most Everest treks start and finish here, so expect one night on the way out and often one on the way in.",
+  "intro": [
+    "Lukla is a working town built around a runway. Tenzing-Hillary Airport, opened in 1964 for Edmund Hillary's school and hospital projects, has a 527 m strip that climbs about 12 percent uphill into the mountainside, so planes land uphill and take off downhill over the gorge. Flights from Kathmandu take about 35 minutes, and from Ramechhap (Manthali) about 20 minutes. Every trekker, porter load and sack of rice for the upper Khumbu passes through here or is carried up the trail from road heads to the south.",
+    "The main street is a stone-paved lane running north from the airport gate past lodges, bakeries, gear shops, money changers and the Pasang Lhamu memorial gate that marks the start of the trail. You can buy or rent a down jacket, sleeping bag, poles and microspikes here, though choice and sizes are better in Kathmandu. There are ATMs, but they run out of cash and fail during power cuts, so carry enough rupees for the whole trek from Kathmandu.",
+    "Most people spend only an hour in Lukla on the way up: you land, meet your porters, drink tea and walk three to four hours down to Phakding. On the way back you stay a night, settle tips with your crew and wait for a morning flight. Weather decides everything. Flights only operate in visual conditions, usually from about 6:30 am until cloud builds before noon, and delays of a day or more are common in any month, so we always build a spare day into international flight plans."
+  ],
+  "facts": [
+    ["Altitude", "2,860 m"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "1 (on the way back)"],
+    ["Nearest airport", "Tenzing-Hillary Airport, Lukla (in town)"],
+    ["From Kathmandu", "≈ 35 min flight, or 4–5 h drive to Ramechhap + 20 min flight"],
+    ["Known for", "Steep uphill runway, start of the Everest Base Camp trail"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Watching the morning flights", "text": "Between about 6:30 and 10 am, Twin Otters and Dornier 228s land every few minutes in clear weather. The viewing area beside the airport wall and the terraces of lodges facing the runway let you watch landings and take-offs over the 600 m drop into the Dudh Koshi gorge."},
+    {"title": "Pasang Lhamu memorial gate", "text": "The trail to Everest leaves town through a gate honouring Pasang Lhamu Sherpa, the first Nepali woman to summit Everest in 1993, who died on the descent. The rural municipality is named after her, and many groups take their start photo here."},
+    {"title": "Last proper shopping before the trail", "text": "Lukla has gear shops selling and renting down jackets, sleeping bags, gloves, poles, microspikes and water purification tablets, plus pharmacies stocking basic altitude and stomach medicine. Prices are higher than in Thamel, but it saves you if a bag goes missing on the flight."},
+    {"title": "Views up the Dudh Koshi", "text": "On a clear morning Kusum Kanguru (6,367 m) and the peaks of the Karyolang group stand above the valley to the east. The view is better from the trail just north of town, where you look down on Chaurikharka and the terraced barley fields below."},
+    {"title": "Sherpa bakeries and coffee", "text": "Lukla has several espresso bars and bakeries serving apple pie, cinnamon rolls and real coffee. It is a good place to celebrate the end of a trek with your guide and porters, and to dry out before the flight home."},
+    {"title": "Hillary's legacy", "text": "The airstrip was built in 1964 by Edmund Hillary and local Sherpas, who flattened the slope by hand and reportedly had locals dance on the soil to pack it down. It was renamed Tenzing-Hillary Airport in 2008 to honour both 1953 Everest summiteers."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Tara Air, Sita Air and Summit Air fly Kathmandu–Lukla in about 35 minutes. In the peak months, roughly late March to May and late September to November, scheduled flights have moved to Ramechhap (Manthali) Airport, a 4–5 hour drive from Kathmandu, with a 20-minute flight. Baggage is usually limited to 15 kg including hand luggage. Check current status before you travel."},
+    {"mode": "Helicopter", "text": "Shared and private helicopters fly Kathmandu–Lukla in 45–50 minutes and can operate when fixed-wing flights are suspended for low cloud in the valleys. A shared seat typically costs US$ 500–600; a private charter for up to five people costs much more. Helicopters still need visual weather."},
+    {"mode": "Road", "text": "There is no road into Lukla. Jeeps run from Kathmandu to Salleri in Solu (≈ 270 km · 10–12 h) and then on rough tracks towards Kharikhola or Surke, from where you walk one to two days to Lukla. Road heads change every season, so check current status before you travel."},
+    {"mode": "On foot", "text": "The classic approach is the old Jiri route used by the 1953 expedition: about 6–7 days on foot from Jiri or Shivalaya over the Lamjura La (3,530 m) through Junbesi and Nunthala. It is quiet, beautiful and good acclimatisation, but few people walk it now."}
+  ],
+  "where_to_stay": "Lodges in Lukla cluster along the main street within five minutes of the airport, which matters when you need to be at check-in by 6 am. Yeti Mountain Home Lukla is the most comfortable option, with ensuite rooms, electric blankets and a dining room overlooking the airfield. Everest Summit Lodge Lukla, near the runway, has Sherpa-style rooms and hot showers. Below that, family-run teahouses such as those facing the airport offer twin rooms, many with attached bathrooms, and hot showers for a fee. Book ahead in October and April, when flight delays can leave hundreds of trekkers waiting in town.",
+  "stays": ["yeti-mountain-home-lukla"],
+  "tips": [
+    "Carry all the cash you need for the trek from Kathmandu, as Lukla ATMs are often empty or offline.",
+    "Keep a warm layer, water and snacks in your hand luggage because checked bags may follow on a later flight.",
+    "Build at least one spare day between your return flight to Kathmandu and your international departure.",
+    "Settle porter and guide tips in Lukla on the last evening, in rupees, rather than at the airport.",
+    "If your fixed-wing flight is cancelled two days running, ask about a shared helicopter seat rather than waiting a third day."
+  ],
+  "themes": ["trekking", "heli-tours", "peak-climbing", "photography"],
+  "nearby": ["phakding", "namche-bazaar"],
+  "experiences": [
+    {
+      "slug": "lukla-airport-morning-flight-watch",
+      "title": "Watch the morning landings at Lukla airport",
+      "kind": "adventure",
+      "duration": "1–2 hours",
+      "best_time": "6:30–10 am, Oct–Nov and Mar–May",
+      "price_hint": "",
+      "image_query": "Lukla airport plane landing",
+      "wiki": "Tenzing-Hillary Airport",
+      "summary": "Sit with a coffee on a lodge terrace beside the runway and watch Twin Otters and Dorniers land uphill on the 527 m strip, turn on the apron and take off again over the gorge, sometimes every three or four minutes on a clear morning.",
+      "body": [
+        "Tenzing-Hillary Airport is famous because of its geometry. The runway is 527 m long and 30 m wide, rises at roughly 12 percent from the lower end, and finishes against a stone wall and the hillside. Pilots land uphill, using the slope to slow down, and take off downhill to gain speed before the end drops away into the Dudh Koshi valley about 600 m below. There is no second chance on approach, which is why flights only run in clear visual conditions.",
+        "The best time to watch is the first three hours after dawn on a clear day in October, November, April or early May. The first wave of planes from Kathmandu or Ramechhap arrives at around 6:30 to 7 am, unloads trekkers and cargo in minutes, loads returning trekkers and leaves. Helicopters shuttle in between. The terraces of several lodges and cafés face the runway, and there is a viewing spot by the airport perimeter wall where photography is allowed from outside the fence.",
+        "For most trekkers this happens on the last morning while waiting for their own flight, so it doubles as entertainment during delays. Keep your boarding card and bag with your guide, stay within call, and do not climb on walls or enter restricted areas. If cloud rolls up the valley, flights stop quickly and may resume an hour later, so watching the sky over the gorge is also a good way to guess whether you will fly today."
+      ],
+      "good_for": ["photographers", "families", "solo", "groups"],
+      "faqs": [
+        {"q": "Is Lukla airport really the most dangerous airport in the world?", "a": "It is often called that because of the short sloping runway, mountain approach and fast-changing weather, and there have been fatal accidents. Flights only operate in visual conditions with specially trained pilots and short take-off aircraft. Weather delays are far more common than incidents, and operators cancel flights when cloud is low."},
+        {"q": "Can I take photos of planes at Lukla?", "a": "Yes, from lodge terraces and public areas outside the airport fence. Inside the terminal and on the apron, follow staff instructions, as security staff may ask you not to photograph checkpoints. A short telephoto lens of 70–200 mm works well for landings from the cafés along the runway."},
+        {"q": "What time do flights from Lukla start?", "a": "In clear weather the first flights land around 6:30 to 7 am and most traffic finishes by late morning, when cloud and wind build in the valleys. Your guide will take you to check in at about 6 am. Afternoon flights do happen in very settled weather but should not be relied on."}
+      ]
+    },
+    {
+      "slug": "lukla-pasang-lhamu-gate-trail-start",
+      "title": "First steps through the Pasang Lhamu gate",
+      "kind": "hiking",
+      "duration": "3–4 hours to Phakding",
+      "best_time": "Late morning after landing, Mar–May and Oct–Nov",
+      "price_hint": "Included in all our Everest treks",
+      "image_query": "Pasang Lhamu gate Lukla",
+      "wiki": "Pasang Lhamu Sherpa",
+      "summary": "The trek to Everest begins at the stone gate named after Pasang Lhamu Sherpa at the north end of Lukla, then drops gently through Chaurikharka and Cheplung to the river, mostly downhill to Phakding at 2,610 m.",
+      "body": [
+        "After landing you meet your porters, who weigh and tie the duffels, and you walk up the main street past lodges and shops to the memorial gate for Pasang Lhamu Sherpa. In 1993 she became the first Nepali woman to stand on top of Everest and died on the way down; she is remembered across the Khumbu, and the local rural municipality carries her name. A board near the gate lists trail distances and a checkpoint records your local permit.",
+        "From the gate the path runs level for a few minutes, then descends past the village of Chaurikharka and the junction at Cheplung, where the trail from Salleri and the lower Solu joins. You pass your first mani walls, carved stones and prayer wheels: walk to the left of them, keeping them on your right, as local people do. Mule trains and porters with 60 kg loads use the same path, so step to the hillside, not the drop, when they pass.",
+        "The walk to Phakding takes about three to four hours with a lunch stop at Thado Koshi or Ghat, and loses about 250 m. It is deliberately easy: the point is to sleep lower than Lukla on the first night and give your body time. Wear trail shoes or boots, carry a light jacket, water and sun cream, and leave the heavy bag to the porter. Expect suspension bridges over side streams and your first views of Kusum Kanguru."
+      ],
+      "good_for": ["first-timers", "families", "groups", "seniors"],
+      "faqs": [
+        {"q": "How hard is the walk from Lukla to Phakding?", "a": "It is the easiest day of the Everest Base Camp trek: about 8 km and 3–4 hours, mostly downhill or level, losing around 250 m to Phakding at 2,610 m. There are a few short climbs and several suspension bridges. Most people arrive by early afternoon with time to rest."},
+        {"q": "Do I need to show permits at Lukla?", "a": "Yes. The Khumbu Pasang Lhamu Rural Municipality permit is checked at Lukla, and the Sagarmatha National Park permit at the Monjo park gate the next day. Your guide normally carries copies and handles the checkpoints. Rules and fees change, so check current status before you travel."},
+        {"q": "Can I start trekking the same day I land in Lukla?", "a": "Yes, that is normal. Planes usually land between 7 and 10 am, and after tea and loading the porters you walk to Phakding the same day. If your flight is delayed until midday, you may stop at Lukla or walk late; in that case we adjust the next day."}
+      ]
+    },
+    {
+      "slug": "lukla-end-of-trek-crew-evening",
+      "title": "End-of-trek evening with your crew in Lukla",
+      "kind": "culture",
+      "duration": "Evening",
+      "best_time": "Last night of the trek, all seasons",
+      "price_hint": "Tips extra; budget ≈ 10–15 percent of trek cost",
+      "image_query": "Lukla lodge Sherpa trekkers evening",
+      "wiki": "",
+      "summary": "The last night in Lukla is when groups thank their guide and porters, share a meal and settle tips. It is the closest most visitors get to a real Sherpa celebration, often with singing and dancing in the lodge dining room.",
+      "body": [
+        "On the last evening of a Khumbu trek, the whole team usually comes together in the lodge dining room in Lukla. Porters who have carried your bags for ten days or more are often from the lower Solu or other hill districts, and this is the one night where everyone sits at the same table. Many lodges have a sound system and a small dance floor, and it is normal for Nepali songs and Sherpa dances to start once dinner is done.",
+        "Tipping is customary and forms an important part of crew income. We suggest pooling tips as a group, placing them in envelopes and handing them over personally, with a short thank-you. A common guideline is roughly 10 to 15 percent of the trek cost shared across the team, with porters receiving a fair portion. Pay in Nepali rupees. Good boots, jackets or headlamps you no longer need are also welcome gifts.",
+        "Keep the evening reasonable, because your flight check-in is often around 6 am. Pack your duffel before dinner so the porter can take it to the airport early, and keep your passport, flight ticket and permit in your daypack. If the weather looks uncertain, your guide will talk through backup options for the morning, such as a helicopter seat or an extra night in Lukla."
+      ],
+      "good_for": ["groups", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How much should I tip on an Everest Base Camp trek?", "a": "Many trekkers tip around 10–15 percent of the trek price, shared between guide and porters. For a 12-day trek, that often works out to roughly US$ 120–200 per trekker in a small group, or more for a private trip. Pay in Nepali rupees and hand tips directly to each person."},
+        {"q": "Is there nightlife in Lukla?", "a": "Lukla has a few bars, pool tables and lodges with music, busiest in October and April. It is relaxed rather than lively, and most trekkers go to bed early because flights leave around 6:30–7 am. Alcohol hits harder at 2,860 m, so drink water as well."},
+        {"q": "What should I do with gear I no longer need?", "a": "Ask your guide whether a porter needs it. Warm jackets, boots, gloves and headlamps in good condition are useful to porters who work high in the Khumbu. Avoid leaving broken items or batteries, as waste must be carried out of the national park."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Lukla and how high is it?", "a": "Lukla is in Solukhumbu district in north-east Nepal, about 136 km east of Kathmandu, at 2,860 m. It sits on a terrace above the Dudh Koshi river and is the main gateway to the Everest region, with an airport serving flights from Kathmandu and Ramechhap."},
+    {"q": "Are Lukla flights leaving from Kathmandu or Ramechhap?", "a": "In recent peak seasons, roughly late March to May and late September to November, the authorities have moved scheduled Lukla flights to Ramechhap (Manthali) to ease congestion at Kathmandu airport. Outside those months, flights usually leave from Kathmandu. Check current status before you travel, as the rule is reviewed each season."},
+    {"q": "How long is the drive from Kathmandu to Ramechhap?", "a": "About 130 km and 4–5 hours by car or jeep. Because the first Lukla flights leave around 6:30 to 7 am, most trekkers leave Kathmandu between 1 and 2:30 am. We include the private transfer in our trek prices during Ramechhap months."},
+    {"q": "What is the baggage limit on Lukla flights?", "a": "Usually 15 kg per person in total, often split as 10 kg checked and 5 kg hand luggage. Excess weight is charged per kilogram if the plane has space, otherwise it follows on a later flight. Leave spare clothes at your Kathmandu hotel."},
+    {"q": "What happens if my Lukla flight is cancelled?", "a": "You are rebooked on the next available flight, usually the next morning, at no extra cost. If delays continue, a shared helicopter seat (often US$ 500–600) is the usual backup. This is why we recommend one or two spare days at the end of any Everest trip."},
+    {"q": "Is Lukla worth visiting without trekking?", "a": "Not really on its own. Lukla is a transit town. If you want to see the Everest region without a long trek, a helicopter tour with a breakfast stop at Hotel Everest View or the 7-day Everest View trek gives you far more mountain scenery."},
+    {"q": "Can I get altitude sickness in Lukla?", "a": "Serious altitude sickness at 2,860 m is uncommon, but some people feel mild headache or breathlessness after flying straight up from Kathmandu at 1,400 m. That is why the first night is usually lower, at Phakding (2,610 m). Drink water and walk slowly on day one."},
+    {"q": "Is there Wi-Fi and phone signal in Lukla?", "a": "Yes. Nepal Telecom and Ncell both have 4G coverage in Lukla, and most lodges offer Wi-Fi. Beyond Namche, signal is patchy, and many lodges sell Everest Link Wi-Fi cards. Buy a local SIM in Kathmandu before you fly."},
+    {"q": "Which airlines fly to Lukla?", "a": "Tara Air, Sita Air and Summit Air operate most scheduled Lukla flights with Twin Otter, Dornier 228 and Let 410 aircraft. Several helicopter companies run charters and shared seats. Fares for foreign nationals are around US$ 220 one way; check current fares before you book."}
+  ]
+}

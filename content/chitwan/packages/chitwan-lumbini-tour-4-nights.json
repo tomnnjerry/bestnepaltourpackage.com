@@ -1,0 +1,84 @@
+{
+  "slug": "chitwan-lumbini-tour-4-nights",
+  "title": "Chitwan and Lumbini Tour 4 Nights 5 Days",
+  "region": "chitwan",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["wildlife-safari", "buddhist-circuit", "overland-from-india", "cultural-tours"],
+  "stops": [{"place": "sauraha", "nights": 2}, {"place": "chitwan-national-park", "nights": 0}, {"place": "lumbini", "nights": 2}],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Bhairahawa airport (flight to Kathmandu) or Sunauli border",
+  "price_from_inr": 28000,
+  "price_from_usd": 370,
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "Green Park Chitwan or similar in Sauraha, 3-star hotel in Lumbini, twin sharing",
+  "transport": "Private car Kathmandu–Chitwan–Lumbini; optional Bhairahawa–Kathmandu flight",
+  "group": "Private, 2–12",
+  "meta_description": "Chitwan and Lumbini tour 4 nights 5 days: jungle safari in Chitwan, then the Buddha's birthplace at Lumbini with Maya Devi Temple and monasteries. From ₹28,000.",
+  "summary": "Two nights of safari in Chitwan followed by two nights at Lumbini, birthplace of the Buddha, with the Maya Devi Temple, the Ashoka pillar and the international monasteries. The tour ends at Bhairahawa airport for a flight to Kathmandu, or at the Sunauli border for travellers heading back to India.",
+  "intro": [
+    "Chitwan and Lumbini sit about 165 km apart along the flat Terai, and together they make a satisfying five-day trip: wildlife first, then one of the most important pilgrimage sites in Asia. You drive from Kathmandu to Sauraha for jeep, canoe and walking safaris, then west along the Mahendra Highway via Butwal to Lumbini, where Queen Maya Devi gave birth to Siddhartha Gautama around the 6th century BCE.",
+    "At Lumbini we spend a full day with a guide in the Sacred Garden and the monastic zone, from the excavated birthplace inside the Maya Devi Temple and the pillar raised by Emperor Ashoka in 249 BCE to monasteries built by Buddhist nations from Thailand to Germany. The tour suits Indian travellers coming overland from Gorakhpur and Sunauli, who can do it in reverse, and international travellers combining Nepal's wildlife with the Buddhist circuit."
+  ],
+  "highlights": [
+    "Jeep safari, canoe and jungle walk in Chitwan",
+    "Tharu village and stick dance in Sauraha",
+    "Maya Devi Temple and the Buddha's birthplace marker stone",
+    "Ashoka pillar of 249 BCE and the Puskarini pond",
+    "International monasteries of the Lumbini monastic zone",
+    "Easy finish at Bhairahawa airport or the Sunauli border"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive Kathmandu to Sauraha", "place": "sauraha", "overnight": "Sauraha", "altitude_m": 160, "max_m": 1400, "walk": "≈ 1.5 h · 4 km", "drive": "≈ 165 km · 5–6 h", "flight": "", "text": "Your driver collects you at 8 am and follows the Prithvi Highway down the Trishuli gorge to Mugling, then the river south to Narayangarh for lunch. Arrive in Sauraha around 2 pm and check in to the resort. In the late afternoon, a naturalist leads a walk through a Tharu village, with mud-walled houses painted with clay reliefs, to the Rapti sandbank for sunset, where rhinos often graze on the far bank. Evening stick dance show at the Tharu Culture House and dinner at the resort.", "meals": "D"},
+    {"day": 2, "title": "Canoe, jungle walk and jeep safari", "place": "chitwan-national-park", "overnight": "Sauraha", "altitude_m": 160, "max_m": 160, "walk": "≈ 1.5 h · 4–5 km", "drive": "Jeep safari ≈ 4 h", "flight": "", "text": "At 7 am, a dugout canoe drifts down the Rapti for 45 minutes, passing mugger crocodiles basking on the mud and kingfishers on overhanging branches. Walk back through riverine forest with two licensed guides, looking at rhino tracks and stopping at the Elephant Breeding Centre at Khorsor. After lunch, a jeep safari of about four hours explores grassland and forest toward Kasara, stopping at watchtowers for rhino, gaur, spotted deer and sloth bear. Back at the resort by dusk.", "meals": "B, L, D"},
+    {"day": 3, "title": "Drive to Lumbini, evening at the garden", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 100, "max_m": 160, "walk": "≈ 1 h", "drive": "≈ 165 km · 4.5–5 h", "flight": "", "text": "After an optional dawn bird walk and breakfast, drive west on the Mahendra Highway through Narayangarh, Kawasoti and the sal forests of Nawalpur to Butwal, where the hills meet the plains, then south to Bhairahawa and Lumbini, about 4.5–5 hours with a lunch stop. Check in to your hotel and, in the late afternoon, walk to the Sacred Garden as the light softens and pilgrims light butter lamps beside the Puskarini pond. Return to the hotel for dinner.", "meals": "B, D"},
+    {"day": 4, "title": "Maya Devi Temple and monastic zone", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 100, "max_m": 100, "walk": "≈ 3 h, plus e-rickshaw", "drive": "", "flight": "", "text": "A full day in Lumbini with a licensed guide. Start early at the Maya Devi Temple, which protects the excavated ruins and the marker stone believed to show the exact spot of the Buddha's birth. Outside stand the Ashoka pillar, inscribed in 249 BCE when the emperor visited, and the Puskarini pond where Maya Devi is said to have bathed. After lunch, take an e-rickshaw along the canal through the monastic zone to the Chinese, Thai, Myanmar, German and Vietnamese monasteries and the World Peace Pagoda. Evening free for meditation or rest.", "meals": "B, D"},
+    {"day": 5, "title": "Fly to Kathmandu or cross to India", "place": "", "overnight": "", "altitude_m": 100, "max_m": 1400, "walk": "", "drive": "≈ 25 km · 45 min", "flight": "Bhairahawa–Kathmandu · 35 min (optional)", "text": "After breakfast, drive 45 minutes to Gautam Buddha International Airport at Bhairahawa for a flight to Kathmandu of about 35 minutes, landing in time for onward connections. Travellers heading back to India drive instead to the Sunauli border, about 30 km, and continue to Gorakhpur, roughly 95 km and 3 hours on the Indian side, for trains to Delhi, Varanasi and Kolkata. The tour ends at the airport or the border.", "meals": "B"}
+  ],
+  "stays": ["green-park-chitwan"],
+  "includes": [
+    "Private car Kathmandu–Chitwan–Lumbini–Bhairahawa or Sunauli",
+    "Two nights at Green Park Chitwan or similar with all meals",
+    "Two nights at a 3-star hotel in Lumbini with breakfast and dinner",
+    "Jeep safari, canoe ride, jungle walk, village walk and cultural show",
+    "Chitwan National Park entry fees",
+    "Licensed guide in Lumbini for the full day",
+    "Lumbini Sacred Garden entry fee",
+    "E-rickshaw through the monastic zone"
+  ],
+  "excludes": [
+    "Bhairahawa–Kathmandu flight (about US$ 120–140, quoted separately)",
+    "Kathmandu hotel nights",
+    "Lunches on travel days and in Lumbini",
+    "Drinks and bottled water",
+    "Monastery donations",
+    "Elephant rides or bathing (not offered)",
+    "Tips for guides and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "The INR price is per person, twin sharing, for 2 guests sharing a car with SAARC fees; foreign nationals pay higher park and Lumbini entry fees, reflected in the USD price.",
+    "Indian travellers can reverse the route: enter at Sunauli, start in Lumbini and finish in Kathmandu.",
+    "Lumbini is very hot from April to June, often above 38 °C; plan temple visits early and late.",
+    "Fog in December and January can delay Bhairahawa flights; book onward flights from Kathmandu for the following day if possible.",
+    "Shoes come off inside the Maya Devi Temple, and photography of the marker stone is not allowed."
+  ],
+  "add_ons": [
+    {"name": "Bhairahawa–Kathmandu flight", "price": "≈ US$ 130 per person"},
+    {"name": "Kapilavastu (Tilaurakot) half-day trip from Lumbini", "price": "≈ ₹5,000 per car"},
+    {"name": "Extra night in Chitwan with full-day jeep safari", "price": "≈ ₹8,000 per person"}
+  ],
+  "faqs": [
+    {"q": "How far is Lumbini from Chitwan?", "a": "About 165 km by road from Sauraha, 4.5–5 hours via Narayangarh, Butwal and Bhairahawa on the Mahendra Highway. The road is flat and paved for most of the way. There are no direct flights between Bharatpur and Bhairahawa, so road is the only practical option."},
+    {"q": "What is the Chitwan and Lumbini tour cost?", "a": "From about ₹28,000 per person twin sharing for two travellers, including private car from Kathmandu, two nights in Chitwan with all meals and activities, two nights in Lumbini with breakfast and dinner, a Lumbini guide and entry fees. The flight back to Kathmandu is extra. International guests pay from about US$ 370."},
+    {"q": "Can Indians do this tour starting from Gorakhpur?", "a": "Yes. Drive or take a bus from Gorakhpur to Sunauli, about 95 km and 3 hours, cross into Nepal and start in Lumbini. Then continue to Chitwan and finish in Kathmandu or Pokhara. Indian citizens need a passport or voter ID card. Indian cars need a Nepal customs permit at the border."},
+    {"q": "Is one day enough for Lumbini?", "a": "A full day with a guide covers the Maya Devi Temple, Ashoka pillar, Puskarini pond and the main monasteries of the monastic zone. Two nights, as in this tour, allows a sunset visit and a relaxed pace. Add Kapilavastu (Tilaurakot) for a half day if you have more time."},
+    {"q": "What is there to see in Lumbini?", "a": "The Maya Devi Temple over the Buddha's birthplace, the Ashoka pillar of 249 BCE, the Puskarini pond, the Sacred Garden, and the monastic zone with monasteries built by Buddhist countries and communities from Asia and Europe, plus the World Peace Pagoda and the Lumbini Museum."},
+    {"q": "Is this tour suitable for seniors?", "a": "Yes. The drives are long but on flat roads, safari activities can be adjusted, and Lumbini's sites are reached by car and e-rickshaw with short walks. We can swap the jungle walk for a second canoe ride. Avoid April to June, when Lumbini is very hot."},
+    {"q": "Can I add Pokhara to Chitwan and Lumbini?", "a": "Yes. A popular 7-night loop is Kathmandu, Pokhara, Lumbini, Chitwan and back to Kathmandu, or Kathmandu, Chitwan, Lumbini and Pokhara. Pokhara is about 5–6 hours from Lumbini via Butwal and Tansen, with a possible night in Tansen."},
+    {"q": "Do I need a guide in Lumbini?", "a": "We strongly recommend one. Lumbini covers a large area, and a licensed guide explains the archaeology, the Buddha's life story and the different monastery traditions. Without a guide, many visitors see only the main temple and miss the context."},
+    {"q": "When is the best time to visit Chitwan and Lumbini?", "a": "October to March. Both places are hot from April to June, and the monsoon from mid-June to September brings rain and closes many Chitwan tracks. Buddha Jayanti in April or May is a special time in Lumbini, though very hot."}
+  ]
+}

@@ -1,0 +1,8 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Getting Around Nepal: Routes, Flights and Drive Times{% endblock %}
+{% block meta_description %}How to get between Nepal's main places: Kathmandu to Pokhara, Lukla, Chitwan, Lumbini, Jomsom, Syabrubesi and more, by road, flight and helicopter.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "route" %}Getting around</p><h1>Getting around Nepal</h1><p class="phead__lede">Flights, helicopters, tourist buses and private cars between the places our packages visit, with realistic times for Nepal's roads.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "route" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+{% for r in regions %}<section class="sec--tight" data-land="{{ r.slug }}"><div class="wrap"><h2 class="h2">{{ r.name }}</h2><ul class="chips">{% for rt in r.routes %}<li><a class="chip" href="{{ rt.url }}">{% icon "route" %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}{% if rt.distance_km %} · {{ rt.distance_km }} km{% endif %}</a></li>{% endfor %}</ul></div></section>{% endfor %}
+{% endblock %}

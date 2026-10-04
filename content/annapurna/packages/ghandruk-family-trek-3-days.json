@@ -1,0 +1,146 @@
+{
+  "slug": "ghandruk-family-trek-3-days",
+  "title": "Ghandruk Family Trek 3 Days from Pokhara",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["family-holidays", "trekking", "short-breaks", "cultural-tours"],
+  "stops": [
+    {"place": "ghandruk", "nights": 1},
+    {"place": "landruk", "nights": 1}
+  ],
+  "start": "Pokhara (hotel pick-up)",
+  "end": "Pokhara",
+  "price_from_inr": 19000,
+  "price_from_usd": 220,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 2100,
+  "accommodation": "Teahouse lodges with private rooms in Ghandruk and Landruk",
+  "transport": "Private jeep Pokhara–Ghandruk, private car Kande–Pokhara",
+  "group": "Private family groups, 2–12",
+  "meta_description": "Ghandruk family trek in 3 days from Pokhara: Gurung village and museum, Modi Khola bridge, Landruk and Australian Camp. Easy walks up to 5 h, max 2,100 m.",
+  "summary": "A gentle 3-day trek from Pokhara for families with children aged 7 and over, grandparents and first-time walkers. Drive to Ghandruk, cross the Modi Khola gorge to Landruk, and walk out over the Australian Camp ridge, never going above 2,100 m or more than 5 hours a day.",
+  "intro": [
+    "Many families who holiday in Pokhara want their children to see a real mountain village and spend a night closer to the snow peaks, without the long days and altitude of a full trek. This short loop does exactly that. A jeep takes you to Ghandruk, a Gurung village of slate roofs and stone lanes with Annapurna South and Machhapuchhre above it, and from there you walk for two days on village paths through terraces, forest and over a long suspension bridge.",
+    "Walking time is about 1–2 hours on day one, 4 hours on day two and 5 hours on the last day, with frequent stops for tea, snacks and photos. The highest point is the Bhichok Deurali ridge at about 2,100 m, so altitude is not a concern. Lodges in Ghandruk and Landruk offer private rooms, many with attached bathrooms, and the guide and porters handle bags and logistics so parents can concentrate on the children."
+  ],
+  "highlights": [
+    "A night in Ghandruk, the largest Gurung village in the Annapurna foothills",
+    "The Gurung museum and stories of Gurkha soldiers",
+    "Crossing the Modi Khola on a long suspension bridge",
+    "Sunrise on Annapurna South and Machhapuchhre from Landruk",
+    "Forest ridge walk via Bhichok Deurali to Australian Camp",
+    "Only 3 days, perfect inside a Pokhara holiday"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Jeep to Ghandruk, village walk",
+      "place": "ghandruk",
+      "overnight": "Ghandruk",
+      "altitude_m": 1940,
+      "max_m": 1940,
+      "walk": "≈ 1–2 h village walk",
+      "drive": "≈ 55 km · 3 h",
+      "flight": "",
+      "text": "We pick you up from your Pokhara hotel at 8 am and drive along the Baglung highway to Nayapul, then up the winding road via Kimche to Ghandruk at 1,940 m. After lunch, the guide leads a relaxed walk through the village: stone-paved lanes, houses with carved wooden windows, goats and buffaloes, and the small Gurung museum, where children can try on traditional costumes for photos. In the evening, watch the last light on Annapurna South and Machhapuchhre from the lodge terrace.",
+      "meals": "L, D"
+    },
+    {
+      "day": 2,
+      "title": "Across the Modi Khola to Landruk",
+      "place": "landruk",
+      "overnight": "Landruk",
+      "altitude_m": 1565,
+      "max_m": 1940,
+      "walk": "≈ 4 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "Get up early for sunrise: the first sun touches Annapurna South, then Hiunchuli and Machhapuchhre. After breakfast we walk down through Ghandruk's terraced fields to the Modi Khola, crossing on a long suspension bridge that children usually love. The trail then climbs gradually up the opposite slope, through small hamlets and fields of millet and mustard, to Landruk at 1,565 m. Lunch stops and snack breaks keep the pace easy. From Landruk you look straight back at the hillside of Ghandruk.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Landruk to Kande, drive to Pokhara",
+      "place": "",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 2100,
+      "walk": "≈ 5 h · 10 km",
+      "drive": "≈ 25 km · 45 min",
+      "flight": "",
+      "text": "Today we climb gently from Landruk through Tolka at 1,700 m and into rhododendron and oak forest, reaching the ridge at Bhichok Deurali, about 2,100 m, after 2.5–3 hours. From here the trail runs past Pothana to Australian Camp at 2,060 m, a wide meadow with a full view of the Annapurna range, ideal for a picnic lunch. The final hour descends through farmland to Kande, where our car waits for the 45-minute drive back to Pokhara.",
+      "meals": "B, L"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep Pokhara–Ghandruk and private car Kande–Pokhara",
+    "Licensed trekking guide experienced with families",
+    "One porter for every two trekkers (up to 10 kg each)",
+    "ACAP entry permit (children under 10 are usually exempt)",
+    "Two nights in teahouses with private rooms",
+    "All meals on the trail, with child-friendly options",
+    "Purified water refills",
+    "First-aid kit carried by the guide"
+  ],
+  "excludes": [
+    "Hotel nights in Pokhara before and after the trek",
+    "Travel insurance",
+    "Gurung museum entry and any donations",
+    "Hot showers, charging and Wi-Fi where lodges charge",
+    "Bottled drinks, snacks and desserts",
+    "Tips for guide and porters",
+    "Extra porters for carrying small children"
+  ],
+  "good_to_know": [
+    "Price is per adult on twin sharing for a family of 2 or more; children under 12 sharing with parents get a discount.",
+    "ACAP fees are NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians; children under 10 have usually been free. Licensed-guide rules for foreign trekkers apply; check current status before you travel.",
+    "Suitable for children aged about 7 and older who are used to walking. For younger children, we can arrange a porter to carry them in a basket or reduce walking with extra jeep sections.",
+    "Lodges are simple but clean; private rooms with attached bathrooms are available in Ghandruk if booked ahead.",
+    "Winter mornings are cold, close to 0 °C, but often the clearest. Monsoon months bring rain, mud and leeches."
+  ],
+  "add_ons": [
+    {"name": "Upgrade to Ker & Downey lodges in Ghandruk and Landruk", "price": "On request, subject to availability"},
+    {"name": "Extra night in Ghandruk", "price": "≈ ₹3,000 / US$ 35 per person"}
+  ],
+  "faqs": [
+    {
+      "q": "Is the Ghandruk trek suitable for kids?",
+      "a": "Yes, it is one of the best short treks in Nepal for children. Walking is 1–5 hours a day, the highest point is about 2,100 m and the route passes villages, suspension bridges and animals that keep children interested. Children aged about 7 and over usually walk the whole route; younger ones may need some carrying."
+    },
+    {
+      "q": "Can senior citizens do the Ghandruk trek?",
+      "a": "Most healthy seniors can manage it with a slow pace. The longest day is about 5 hours with breaks, and the altitude stays below 2,100 m. Stone steps around Ghandruk and Landruk can tire knees, so walking poles help. If needed, we can arrange extra jeep sections or a horse for parts of the route."
+    },
+    {
+      "q": "How much does the Ghandruk family trek cost?",
+      "a": "Our 3-day package starts from about ₹19,000 or US$220 per adult on twin sharing, including jeep and car transfers, guide, porters, permits, teahouse rooms and all trail meals. Children sharing a room with parents pay less. Pokhara hotel nights are extra so you can choose your own."
+    },
+    {
+      "q": "Can we drive all the way to Ghandruk?",
+      "a": "Yes. A jeep road reaches Ghandruk from Nayapul via Kimche, about 3 hours from Pokhara. The last section is rough and dusty. This means families can reach the village without trekking, though we recommend walking at least part of the route to enjoy the scenery and villages."
+    },
+    {
+      "q": "What is the weather like in Ghandruk with children?",
+      "a": "October to December has clear skies and days of 15–20 °C, with cold mornings near 0–5 °C. January and February are colder but often clear. March and April are warm with rhododendrons in bloom. June to September is monsoon, with daily rain and leeches on the trails, so we suggest other months for families."
+    },
+    {
+      "q": "Do children need permits for the Ghandruk trek?",
+      "a": "Children under 10 have generally been exempt from the ACAP permit fee, while older children pay the same rate as adults: NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals, including Indians. Bring passport copies or identity documents for every child. Rules can change, so check current status before you travel."
+    },
+    {
+      "q": "What food is available for children on the trail?",
+      "a": "Lodges serve dal bhat, noodles, fried rice, pasta, pancakes, eggs, porridge, potatoes and soups. Most children find something they like. Bring familiar snacks from Pokhara, such as biscuits and chocolate, for energy breaks. Our guide can ask kitchens to make food less spicy and serve meals earlier for younger children."
+    },
+    {
+      "q": "Is there a hospital near Ghandruk?",
+      "a": "Ghandruk has a small health post for basic care, and Pokhara, about 3 hours away by road, has good hospitals. Our guides carry a first-aid kit and can arrange a jeep down if needed. For any serious emergency, helicopter evacuation to Pokhara is possible in good weather, so make sure your travel insurance covers it."
+    },
+    {
+      "q": "Can we stay in a luxury lodge on the Ghandruk trek?",
+      "a": "Yes, subject to availability. Ker & Downey Nepal operates Himalaya Lodge in Ghandruk and La Bee Lodge in Landruk, both with private bathrooms and hot water. We can swap them in for the teahouses at extra cost. For a full lodge-to-lodge experience, see our 7-day Annapurna luxury lodge trek."
+    }
+  ]
+}

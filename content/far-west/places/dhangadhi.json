@@ -1,0 +1,130 @@
+{
+  "slug": "dhangadhi",
+  "name": "Dhangadhi",
+  "region": "far-west",
+  "kind": "city",
+  "wiki": "Dhangadhi",
+  "image_query": "Dhangadhi city Kailali Nepal",
+  "lat": 28.714,
+  "lng": 80.569,
+  "altitude_m": 109,
+  "tagline": "Far-western gateway for Khaptad, Shuklaphanta and the Indian border",
+  "meta_description": "Dhangadhi travel guide: flights from Kathmandu, the Gauriphanta border, Ghodaghodi Tal, Tikapur Park, Tharu food, and onward roads to Khaptad and Shuklaphanta.",
+  "summary": "Dhangadhi is the largest city of Nepal's far west, at 109 m on the Terai plain in Kailali district, close to the Indian border at Gauriphanta. Its airport has flights from Kathmandu of about 1 h 15 min. Use it as the base for Shuklaphanta, the drive to Khaptad and Ramaroshan, and the Ghodaghodi lakes.",
+  "intro": [
+    "Dhangadhi grew from a Tharu market village into the commercial capital of Sudurpashchim Province, with around 200,000 people at the 2021 census. It is flat, hot, spread out and practical: the place where traders from the hill districts of Doti, Achham, Bajhang and Bajura come down to buy goods, and where most travel to the far-western hills begins. Its airport, about 8 km from the centre, has one of the longest domestic runways in Nepal.",
+    "For travellers it is mainly a gateway. Shuklaphanta National Park is about 1.5 hours west, Bardia about 5 hours east, and the hill roads to Khaptad and Ramaroshan climb north from Attariya on the edge of town. The Gauriphanta border crossing into Lakhimpur Kheri district of Uttar Pradesh is a few kilometres south, giving Indian travellers a direct route to the far west from Lucknow or Bareilly.",
+    "There is enough to fill a day if you have one. Ghodaghodi Tal, a Ramsar-listed lake complex on the highway east of town, is excellent for birds and turtles. Tikapur Park on the Karnali river is a large public garden popular with local families. In town, Tharu restaurants serve fish, snails and rice dishes rarely found elsewhere in Nepal. Winters are mild with morning fog; April to June is very hot, often above 40 °C."
+  ],
+  "facts": [
+    ["Altitude", "109 m"],
+    ["Best months", "Oct – Mar"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Dhangadhi Airport, ≈ 8 km from the centre"],
+    ["From Kathmandu", "≈ 1 h 15 min flight or ≈ 670 km · 15–17 h by road"],
+    ["Known for", "Far-west gateway, Ghodaghodi Tal, Tharu food, Gauriphanta border"]
+  ],
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Ghodaghodi Tal", "text": "A complex of oxbow lakes and marshes in sal forest about 60 km east of Dhangadhi on the East–West Highway, listed as a Ramsar wetland. Waterbirds, turtles and mugger crocodiles live here, and a small temple stands on the main lake's shore."},
+    {"title": "Tikapur Park", "text": "A large riverside park on the Karnali at Tikapur, about 2 hours east, laid out with gardens, lawns and shaded walks. It is a favourite weekend outing for local families and a pleasant stop between Dhangadhi and Bardia."},
+    {"title": "Tharu food", "text": "Tharu cooking uses river fish, freshwater snails, crabs, rice flour dumplings called dhikri and greens from the forest. Several restaurants in Dhangadhi serve Tharu thalis, and they are worth seeking out."},
+    {"title": "Gateway to the hills", "text": "Roads climb north from Attariya through Budar and Dadeldhura to Dipayal, Silgadhi and Sanfebagar, starting points for Khaptad National Park and Ramaroshan. Dhangadhi is where groups stock up and hire jeeps for these long drives."},
+    {"title": "Indian border at Gauriphanta", "text": "The Dhangadhi–Gauriphanta crossing connects with Palia and Lakhimpur Kheri in Uttar Pradesh. Indian nationals cross with ID and no visa. It is the closest crossing for Dudhwa National Park on the Indian side."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Buddha Air and Nepal Airlines fly Kathmandu–Dhangadhi in about 1 h 15 min, and Nepal Airlines links Dhangadhi with hill airstrips such as Bajhang, Bajura and Sanfebagar when operating. Check current schedules before you travel."},
+    {"mode": "Road", "text": "From Kathmandu: ≈ 670 km · 15–17 h on the East–West Highway. From Nepalgunj: ≈ 190 km · 5 h. From Bardia: ≈ 210 km · 5 h. From Lucknow: ≈ 230 km · 6–7 h via Lakhimpur and the Gauriphanta border."}
+  ],
+  "where_to_stay": "Dhangadhi has the widest choice of hotels in the far west, with several modern mid-range and upper-mid-range business hotels in the centre and along the main roads, most with air-conditioning, restaurants and parking. They cater to NGO staff, traders and officials, so standards are reasonable and staff speak English. Budget guesthouses cluster near the bus park. We choose hotels for each group based on current standards and the next day's plan, close to the airport for early flights or near the Attariya road for early drives to Khaptad.",
+  "stays": [],
+  "tips": [
+    "Use Dhangadhi as a night stop before the long drive north to Khaptad or Ramaroshan.",
+    "Try a Tharu thali with fish curry and dhikri at a local restaurant.",
+    "Avoid the April–June heat for sightseeing; keep outdoor plans to early morning.",
+    "Indian nationals crossing at Gauriphanta should carry a passport or voter ID.",
+    "Expect fog delays on morning flights from late December to January."
+  ],
+  "themes": ["overland-from-india", "wildlife-safari", "budget-nepal", "cultural-tours"],
+  "nearby": ["shuklaphanta-national-park", "khaptad-national-park", "ramaroshan", "bardia-national-park"],
+  "experiences": [
+    {
+      "slug": "dhangadhi-ghodaghodi-tal-birding",
+      "title": "Ghodaghodi Tal lakes and birding",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Early morning, Nov–Mar",
+      "price_hint": "≈ ₹6,000 per vehicle with guide",
+      "image_query": "Ghodaghodi Tal lake Kailali",
+      "wiki": "Ghodaghodi Tal",
+      "summary": "A half-day trip to Ghodaghodi Tal, a Ramsar-listed complex of forest lakes east of Dhangadhi, for waterbirds, turtles, crocodiles and quiet walks along the shore. Easy to combine with the drive to or from Bardia.",
+      "body": [
+        "Ghodaghodi Tal is a group of shallow oxbow lakes and marshes in the sal forest along the East–West Highway near Sukhad, about 60 km and 1.5 hours east of Dhangadhi. It was listed as a Ramsar wetland of international importance in 2003 and is one of the most important lowland wetlands in western Nepal.",
+        "Winter brings ducks, herons, egrets, jacanas, kingfishers and storks, along with resident species such as purple swamphen. The lakes hold several species of freshwater turtle and some mugger crocodiles. A small temple on the shore of the main lake draws local worshippers, especially on festival days.",
+        "A walk along the shore and a short climb to a viewpoint give a good overview. Go early for birds, when mist lies on the water. The site sits right on the highway, so it fits neatly into a drive between Dhangadhi and Bardia or Shuklaphanta."
+      ],
+      "good_for": ["photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "Where is Ghodaghodi Tal?", "a": "In Kailali district on the East–West Highway near Sukhad, about 60 km east of Dhangadhi and roughly halfway between Dhangadhi and Bardia. The lakes sit in sal forest right beside the road, so they are easy to visit as a half-day trip or a stop on a longer drive."},
+        {"q": "What birds can I see at Ghodaghodi Tal?", "a": "In winter, migratory ducks, herons, egrets, storks, cormorants and kingfishers; year-round, purple swamphen, jacanas and woodland birds in the surrounding forest. Mornings from November to March are best. Birders also look for rarer wetland species, and turtles bask on logs on sunny days."},
+        {"q": "Is Ghodaghodi Tal worth a stop?", "a": "Yes, if you enjoy birds or quiet lakes and are passing on the East–West Highway. It takes 1–2 hours and breaks the long drive between Dhangadhi and Bardia. It is not a major sight on its own, but it is one of western Nepal's most important wetlands."}
+      ]
+    },
+    {
+      "slug": "dhangadhi-tikapur-park-karnali",
+      "title": "Tikapur Park on the Karnali",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Late afternoon, Oct–Mar",
+      "price_hint": "≈ ₹7,000 per vehicle",
+      "image_query": "Tikapur Park Kailali garden",
+      "wiki": "",
+      "summary": "A drive east to Tikapur to walk in its large riverside park on the Karnali, with gardens, lawns and evening light over the river. A relaxed stop for families and a break on the road to Bardia.",
+      "body": [
+        "Tikapur is a small town on the Karnali river in eastern Kailali, about 2 hours from Dhangadhi. Its park, laid out in the time of King Mahendra, is one of the largest public gardens in western Nepal, with flower beds, shaded paths, lawns and space for picnics and games.",
+        "Local families come on weekends and holidays, so the park offers a glimpse of ordinary far-western life. Late afternoon is the nicest time, when the heat drops and the light across the Karnali turns gold. The river here is wide and braided as it leaves the hills near Chisapani and heads towards India.",
+        "Combine the park with a stop at Ghodaghodi Tal on the highway, or use it as a break on the drive between Dhangadhi and Bardia. Snack stalls and small restaurants operate nearby."
+      ],
+      "good_for": ["families", "couples", "seniors", "groups"],
+      "faqs": [
+        {"q": "How far is Tikapur from Dhangadhi?", "a": "Roughly 75 km, about 2 hours by car via the East–West Highway and the road south to Tikapur. It is also reachable from Bardia, which lies across the Karnali to the north-east. Combine it with Ghodaghodi Tal for a full day out from Dhangadhi."},
+        {"q": "Is there an entry fee for Tikapur Park?", "a": "A small entry fee is usually charged, with lower rates for children and Nepali citizens. Fees and opening hours are set locally and can change. Our guide pays on arrival. Check current status before you travel if you plan to visit on a public holiday."},
+        {"q": "What is the best time to visit Tikapur Park?", "a": "Late afternoon from October to March, when it is warm but not hot and the light over the Karnali is soft. Weekends are lively with families; weekdays are quieter. Avoid midday from April to June, when temperatures often pass 40 °C."}
+      ]
+    },
+    {
+      "slug": "dhangadhi-tharu-food-evening",
+      "title": "Tharu thali and food evening",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, year-round",
+      "price_hint": "≈ ₹1,200 per person",
+      "image_query": "Tharu food dhikri thali",
+      "wiki": "",
+      "summary": "An evening meal of Tharu dishes in Dhangadhi: river fish curry, freshwater snails, crab, dhikri rice dumplings and forest greens. A taste of Terai cooking rarely found in Kathmandu.",
+      "body": [
+        "The Tharu are the original people of the western Terai, and their cooking reflects rivers, rice fields and forest. Fish caught with hand nets, freshwater snails called ghonghi, small crabs and wild greens appear alongside rice and lentils. Dhikri, steamed rice-flour dumplings, are eaten with spicy chutneys and curries.",
+        "Several restaurants in Dhangadhi now serve Tharu thalis, and our guide picks one known for fresh food that evening. The meal is informal and plentiful. Vegetarians can enjoy dhikri, greens, lentils and pickles, while adventurous eaters try the snail and crab dishes.",
+        "The guide explains how dishes connect to festivals such as Maghi in January, when families prepare special foods and gather for dances. It is a simple, enjoyable way to spend an evening between a flight and an early drive."
+      ],
+      "good_for": ["couples", "solo", "groups", "families"],
+      "faqs": [
+        {"q": "What is Tharu food like?", "a": "Tharu food is based on rice, river fish, freshwater snails, crabs, lentils and forest greens, often cooked with mustard oil, garlic and chilli. Steamed rice-flour dumplings called dhikri are a speciality. It is hearty and flavourful, spicier than Kathmandu cooking but milder than many Indian regional cuisines."},
+        {"q": "Is Tharu food suitable for vegetarians?", "a": "Yes. Dhikri, lentils, rice, forest greens, potato curries and pickles make a full vegetarian meal. Many Tharu thalis centre on fish or snails, so tell the restaurant in advance. Our guide orders a mixed spread so vegetarians and meat eaters can share."},
+        {"q": "What is dhikri?", "a": "Dhikri is a steamed dumpling of rice flour dough, shaped by hand into rolls or spirals, eaten with chutney, curry or meat dishes. It is central to Tharu cooking and especially prepared during festivals such as Maghi. It has a soft, slightly chewy texture."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Dhangadhi from Kathmandu?", "a": "Fly in about 1 hour 15 minutes with Buddha Air or Nepal Airlines. By road it is around 670 km and 15–17 hours on the East–West Highway, usually done overnight by bus. Flying is far easier, especially if you then face a long drive north to Khaptad or Ramaroshan."},
+    {"q": "Is there a border crossing at Dhangadhi?", "a": "Yes, the Dhangadhi–Gauriphanta crossing links Kailali with Lakhimpur Kheri district in Uttar Pradesh. Indian nationals cross with a passport or voter ID. Other nationalities should confirm that immigration facilities for third-country nationals are open before planning to use it; check current status before you travel."},
+    {"q": "What is there to do in Dhangadhi?", "a": "Visit Ghodaghodi Tal for birds and turtles, Tikapur Park on the Karnali, Tharu restaurants for local food, and Shuklaphanta National Park 1.5 hours away. Most travellers use Dhangadhi as a gateway, spending one night before heading into the hills or parks."},
+    {"q": "How far is Shuklaphanta from Dhangadhi?", "a": "About 55 km, roughly 1.5 hours by car west along the highway to Mahendranagar and the park office at Majhgaon. It is easy to fly into Dhangadhi in the morning and be on a grassland safari in Shuklaphanta the same afternoon."},
+    {"q": "Which is better for western Nepal, Dhangadhi or Nepalgunj?", "a": "It depends where you are going. Nepalgunj is the hub for Rara, Jumla, Simikot, Bardia and Kailash flights. Dhangadhi is better for Shuklaphanta, Khaptad, Ramaroshan and the far-western hills. Bardia can be reached from either, about 2.5–3 hours from Nepalgunj and 5 hours from Dhangadhi."},
+    {"q": "Where should I stay in Dhangadhi?", "a": "The city has several modern mid-range business hotels in the centre with air-conditioning and restaurants, plus budget guesthouses near the bus park. Choose a hotel near the airport for early flights or near the Attariya road for early drives into the hills. Air-conditioning is essential from April to September."},
+    {"q": "How hot is Dhangadhi in summer?", "a": "Very hot. Temperatures often exceed 40 °C from late April to June, with humid monsoon heat from July to September. Winter days are mild, around 20–24 °C, with cold, foggy mornings in late December and January that can delay flights."},
+    {"q": "Can I reach Khaptad from Dhangadhi?", "a": "Yes. Drive about 215 km, 7–8 hours, via Dadeldhura and Dipayal to Silgadhi, then continue to the Jhingrana trailhead and walk two days to the plateau. Most groups spend a night in Dhangadhi before the drive and another on the way back."},
+    {"q": "Is Dhangadhi the capital of Sudurpashchim Province?", "a": "Dhangadhi is the largest city and commercial centre of Sudurpashchim, but the provincial capital is Godawari, also in Kailali district. Many government offices and services operate from Dhangadhi, and it remains the main transport hub for the province."}
+  ]
+}

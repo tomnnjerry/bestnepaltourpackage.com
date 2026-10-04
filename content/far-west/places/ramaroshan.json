@@ -1,0 +1,131 @@
+{
+  "slug": "ramaroshan",
+  "name": "Ramaroshan",
+  "region": "far-west",
+  "kind": "valley",
+  "wiki": "Ramaroshan Site",
+  "image_query": "Ramaroshan lake Achham meadow",
+  "lat": 29.25,
+  "lng": 81.45,
+  "altitude_m": 2500,
+  "tagline": "Twelve lakes and eighteen meadows in the forested hills of Achham",
+  "meta_description": "Ramaroshan guide: the 12 lakes and 18 meadows of Achham, Jigale Tal, Api and Saipal views, homestays, best months and how to reach from Dhangadhi.",
+  "summary": "Ramaroshan is a cluster of small lakes and grassy meadows at about 2,500 m in Achham district, known locally as the land of 12 lakes and 18 patans. Jigale Tal is the largest lake. Pine forest, Danphe pheasants and views of Api and Saipal make it a gentle 3–4 day trip from the road. Best March–May and September–November.",
+  "intro": [
+    "Ramaroshan lies in the hills of north-eastern Achham, above the Budhiganga basin. The area is spread over roughly 1,000 hectares of forest, meadow and wetland at around 2,200–2,700 m, with small lakes tucked into hollows between the ridges. Local people describe it as Barha Tal, Athara Patan: twelve lakes and eighteen meadows. Jigale Tal, shaped like the letter Y, is the largest; Taule Tal is the smallest. Most of the meadows are used for summer grazing by herders from villages below.",
+    "Until a decade ago almost no one outside the far west had heard of Ramaroshan. Better roads, social media and promotion by the provincial government have since made it a favourite of domestic travellers, and community homestays have opened in nearby villages. Foreign visitors remain rare. The landscape is gentle rather than dramatic: open grass, blue pine and rhododendron forest, reflections of trees in still water, and on clear days a line of snow peaks including Api and Saipal on the northern horizon.",
+    "It is a good destination for travellers who want a short, easy walking trip far from the main trekking areas, or a cultural addition to a Khaptad or Bardia itinerary. The drive from Dhangadhi is long, a full day each way, but once there the walking is relaxed, with 3–5 hours a day between lakes and meadows. The Danphe, Nepal's national bird, lives in the surrounding forest. Visit in spring for rhododendrons and in autumn for the clearest views."
+  ],
+  "facts": [
+    ["Altitude", "≈ 2,200 – 2,700 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Dhangadhi (≈ 1 day by road); Sanfebagar strip has irregular flights"],
+    ["From Kathmandu", "≈ 1 h 15 min flight to Dhangadhi + 1 long day's drive"],
+    ["Known for", "12 lakes and 18 meadows, Jigale Tal, Danphe, Api and Saipal views"]
+  ],
+  "best_months": [0, 0, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Jigale Tal", "text": "The largest of Ramaroshan's lakes, Y-shaped and fringed with pine and grass. Calm mornings bring reflections of the forest, and herders water their animals at the edges. It is the natural centre for walks around the area."},
+    {"title": "The eighteen patans", "text": "Open meadows, locally called patans, spread between forest patches across the plateau. Grazing herds of cattle, sheep and horses move across them in summer, and in spring they fill with small flowers. Walking across them is easy and pleasant."},
+    {"title": "Api and Saipal on the skyline", "text": "On clear mornings, especially after the monsoon, the snow peaks of Api and Saipal rise to the north beyond the Budhiganga valley. Short climbs to the ridges above the lakes give the best views and the best light at sunrise."},
+    {"title": "Danphe country", "text": "The surrounding forest is habitat for the Himalayan monal, the Danphe, Nepal's national bird, along with kalij pheasant and many smaller birds. Early mornings in spring are best for hearing and seeing them."},
+    {"title": "Community homestays", "text": "Villages around Ramaroshan run simple homestays where families serve dal bhat, local greens and buckwheat bread. Staying with them is the best way to learn about far-western hill life and helps keep tourism income local."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Dhangadhi (≈ 1 h 15 min). Sanfebagar airstrip in Achham has had occasional small-plane flights from Dhangadhi, Nepalgunj or Kathmandu, which save a day's driving when running; check current status before you travel."},
+    {"mode": "Road", "text": "From Dhangadhi: ≈ 260 km · 9–10 h via Dadeldhura and Dipayal to Sanfebagar, then a rough road towards Ramaroshan for 3–4 h by jeep in dry weather. Most groups break the drive overnight in Sanfebagar or Dipayal. Landslides are common June–September."},
+    {"mode": "On foot", "text": "From the roadhead, short walks of 1–3 hours reach the lakes; the area itself is explored on foot over 2–3 days. Longer treks link Ramaroshan with Badimalika in Bajura, for experienced trekkers with camping support."}
+  ],
+  "where_to_stay": "Accommodation at Ramaroshan is in community homestays in surrounding villages and a few simple lodges and campsites opened for domestic visitors near the lakes. Rooms are basic, often with shared toilets and blankets, and meals are local dal bhat, potatoes, greens and buckwheat bread. On busy weekends in spring and autumn, Nepali visitors fill rooms, so we book ahead or bring tents. Sanfebagar and Dipayal, used as overnight stops on the drive, have basic hotels. For comfort before and after, Dhangadhi has several good city hotels.",
+  "stays": [],
+  "tips": [
+    "Bring a sleeping bag; homestay blankets may not be enough on cold nights.",
+    "Break the drive from Dhangadhi with an overnight stop to avoid a 13-hour day.",
+    "Carry cash in small notes; there are no ATMs near Ramaroshan.",
+    "Start walks early; afternoon cloud often hides Api and Saipal after 10 am.",
+    "Keep to paths around lake edges to protect fragile wetland grass."
+  ],
+  "themes": ["trekking", "photography", "budget-nepal", "family-holidays"],
+  "nearby": ["khaptad-national-park", "dhangadhi"],
+  "experiences": [
+    {
+      "slug": "ramaroshan-jigale-tal-lakes-walk",
+      "title": "Jigale Tal and the lakes circuit",
+      "kind": "hiking",
+      "duration": "4–5 hours",
+      "best_time": "Morning, Mar–May and Sep–Nov",
+      "price_hint": "Included in Ramaroshan packages",
+      "image_query": "Jigale Tal Ramaroshan Achham",
+      "wiki": "",
+      "summary": "A relaxed walk linking Jigale Tal, Ramaroshan's largest lake, with smaller lakes and open meadows, through pine and rhododendron forest. Easy gradients at around 2,400–2,600 m, with local herders and birdlife along the way.",
+      "body": [
+        "The walk starts at Jigale Tal, the Y-shaped lake that anchors the area. In the morning the water is still and reflects the surrounding pine; by midday the wind ruffles it. A path follows the shore before climbing gently into forest and across a series of patans, where herders graze cattle and horses.",
+        "Along the way the guide points out smaller lakes, some no more than ponds, which make up the twelve of local tradition. Exact counts depend on the season and on how you define a lake, and locals happily argue over which ones count. Rhododendrons flower in March and April; in autumn the grass turns gold.",
+        "Total walking is 4–5 hours with gentle ups and downs. Take water, snacks and a light jacket, and be ready for afternoon cloud. Lunch can be carried or eaten at a homestay. The trail is easy enough for active families and older walkers."
+      ],
+      "good_for": ["families", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How many lakes are there at Ramaroshan?", "a": "Local tradition counts twelve lakes and eighteen meadows, giving the area its nickname Barha Tal, Athara Patan. In practice, the number you see depends on the season, since some are small ponds that shrink in the dry months. Jigale Tal is the largest and Taule Tal the smallest."},
+        {"q": "Is the Ramaroshan lakes walk difficult?", "a": "No. The paths link lakes and meadows at around 2,400–2,600 m with gentle gradients, and a typical day involves 4–5 hours of easy walking. Altitude is modest, so altitude sickness is rarely an issue. Active children and older travellers who walk regularly can enjoy it comfortably."},
+        {"q": "Can I swim or boat at Jigale Tal?", "a": "Swimming is not recommended; the water is cold and the lakes have local religious and grazing importance. Small boats have sometimes been introduced for domestic tourists, but availability changes; check current status before you travel. Most visitors simply walk around the shore and photograph the reflections."}
+      ]
+    },
+    {
+      "slug": "ramaroshan-sunrise-api-saipal-view",
+      "title": "Sunrise over Api and Saipal",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Pre-dawn, Oct–Nov and Mar–Apr",
+      "price_hint": "Included in Ramaroshan packages",
+      "image_query": "Saipal Himal view far west Nepal",
+      "wiki": "Saipal",
+      "summary": "An early climb to a ridge above the lakes to watch sunrise light the snow peaks of Saipal and Api across the Budhiganga valley, then back to the homestay for breakfast.",
+      "body": [
+        "Leave around 5 am with a headtorch and climb 30–60 minutes through forest to an open ridge above Ramaroshan. As light grows, the Saipal Himal, rising above 7,000 m, appears to the north, with the Api massif further west on the Nepal–India–Tibet border. These are some of the least known big mountains in Nepal.",
+        "Below, morning mist often lies in the Budhiganga valley, and the lakes and meadows of Ramaroshan come into view as the sun clears the hills. In spring, rhododendron blossom frames the view; after the monsoon the air is clearest.",
+        "Bring a warm jacket, gloves and a flask of tea. Views are not guaranteed: haze builds in late spring, and cloud can sit on the peaks for days in the monsoon. If the morning is cloudy, try again the next day."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can you see Himalayan peaks from Ramaroshan?", "a": "Yes, on clear days you can see Saipal and Api, two of the main snow ranges of far-western Nepal, from ridges above the lakes. The best visibility is in October and November after the monsoon and on crisp spring mornings. Haze and cloud often hide them by mid-morning."},
+        {"q": "How high is Saipal?", "a": "Saipal rises to about 7,031 m and is the highest peak entirely in the far-western Sudurpashchim region. Api, slightly higher at around 7,132 m, stands further west near the borders with India and Tibet. Both are rarely climbed and seldom seen by foreign visitors."},
+        {"q": "How cold is it at sunrise in Ramaroshan?", "a": "In October and November early mornings are around 0–5 °C, and in March and April slightly warmer. Wind on the ridge makes it feel colder. Bring a down or fleece jacket, hat and gloves for the sunrise walk even if days are warm, and carry a hot drink."}
+      ]
+    },
+    {
+      "slug": "ramaroshan-village-homestay-evening",
+      "title": "Homestay evening in an Achham village",
+      "kind": "culture",
+      "duration": "Evening and overnight",
+      "best_time": "Year-round except monsoon",
+      "price_hint": "≈ ₹2,000–3,000 per person with dinner and breakfast",
+      "image_query": "Achham village homestay Nepal",
+      "wiki": "",
+      "summary": "An evening with a host family in a village near Ramaroshan: home-cooked dinner, local songs, and an insight into farming, herding and festivals in Nepal's far-western hills.",
+      "body": [
+        "Homestays around Ramaroshan are run by families who joined community tourism schemes as domestic visitors began arriving. Houses are stone and mud, often with a courtyard for drying grain and a hearth where meals are cooked. Rooms are simple and clean, with thick blankets.",
+        "Dinner is usually dal bhat with local rice or buckwheat bread, potatoes, seasonal greens and pickles, sometimes with chicken or local ghee. After dinner, families may sing Deuda songs, the call-and-response folk form of the far west, especially when neighbours drop in.",
+        "Conversation covers farming, herding animals to the patans in summer, migration of young men to India for work, and festivals such as Gaura in late summer. A guide helps translate. Small gifts such as school supplies are appreciated, but money is the most practical way to show thanks."
+      ],
+      "good_for": ["families", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "Are homestays at Ramaroshan comfortable?", "a": "They are simple but welcoming: basic rooms, blankets, shared toilets and home-cooked meals. There is no hot shower in many homes, though water can be heated. Bring your own sleeping bag or liner, a torch and toiletries. Expectations matter; it is a village stay, not a hotel."},
+        {"q": "What food is served in far-western homestays?", "a": "Dal bhat with rice or buckwheat roti, potatoes, seasonal greens, pickles and yoghurt, sometimes with chicken or local ghee. Food is mild and fresh. Vegetarian meals are standard and easy. Tell your guide about allergies or dietary needs in advance so the family can prepare."},
+        {"q": "Will I hear Deuda songs at a homestay?", "a": "Often, yes, especially in the evening when neighbours gather or around festivals like Gaura. Deuda is the traditional call-and-response singing and dancing of the far west, and people enjoy sharing it. It is informal and cannot be guaranteed, but guests are usually invited to join the circle."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Ramaroshan?", "a": "In north-eastern Achham district, Sudurpashchim Province, above the Budhiganga valley. It lies roughly between Khaptad National Park and Bajura. From Dhangadhi it takes a long day by road via Dadeldhura, Dipayal and Sanfebagar, then a rough jeep road up to the lakes."},
+    {"q": "What is Ramaroshan famous for?", "a": "Its 12 lakes and 18 meadows, known locally as Barha Tal, Athara Patan, set in pine and rhododendron forest at around 2,500 m. Jigale Tal is the largest lake. The area also offers views of Api and Saipal and is habitat for the Danphe, Nepal's national bird."},
+    {"q": "How do I get to Ramaroshan from Dhangadhi?", "a": "Drive about 260 km to Sanfebagar via Dadeldhura and Dipayal, 9–10 hours, usually with an overnight stop, then 3–4 hours by jeep on a rough road towards Ramaroshan. Occasional flights to Sanfebagar shorten the trip when operating. The road is prone to landslides in the monsoon."},
+    {"q": "When is the best time to visit Ramaroshan?", "a": "March to May for rhododendrons and wildflowers, and September to November for clear skies and mountain views. December can be fine but cold, with frost. July and August bring heavy rain, fog, leeches and landslides on access roads, so we avoid them."},
+    {"q": "Do I need a permit for Ramaroshan?", "a": "No national park or restricted area permit is required for Ramaroshan itself, though local authorities may collect a small entry or conservation fee. Trekkers going on towards Badimalika or into protected areas may need additional permits. Check current status before you travel."},
+    {"q": "Is Ramaroshan suitable for families?", "a": "Yes, for families who are comfortable with long drives and simple homestays. The walking is easy and the altitude modest. The challenge is the access: a full day or more of road travel from Dhangadhi on winding hill roads, which can be tiring for small children prone to car sickness."},
+    {"q": "Can I combine Ramaroshan with Khaptad?", "a": "Yes. Both are in the hills north of Dhangadhi and share road access through Dipayal. A 12–14 day trip from Kathmandu can include Khaptad's plateau, Ramaroshan's lakes and a night or two at Shuklaphanta or Bardia on the plains."},
+    {"q": "How many days do I need for Ramaroshan?", "a": "Allow two or three nights at Ramaroshan itself and two days of driving each way from Dhangadhi, so 6–7 days from Kathmandu in total. Fewer days means too much time in the car for too little time walking. A spare day for road delays is wise."},
+    {"q": "Are there hotels at Ramaroshan?", "a": "There are no proper hotels. Accommodation is in community homestays in nearby villages and a few simple lodges and campsites. Standards are basic and change year to year. Dhangadhi, Dipayal and Sanfebagar have hotels for nights on the drive in and out."}
+  ]
+}

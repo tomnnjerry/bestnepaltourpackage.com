@@ -1,0 +1,12 @@
+{% load tours %}<section class="band dark">
+  <div class="ridge ridge--top ridge--paper" aria-hidden="true"></div>
+  <div class="wrap band__in">
+    <div class="band__copy">
+      <span class="stamp stamp--big" data-type="tour">{% icon "ticket" %}<b>Free quote</b></span>
+      <h2 class="h1">Pick the height <span class="foil-t">and we plan the rest</span></h2>
+      <p class="band__lede">A heli tour, a base camp trek, a temple circuit or a slow week in Pokhara. We send a day-by-day plan with every hotel, flight and permit priced in rupees or dollars, usually within one working day.</p>
+      {% include "tours/partials/trust.html" %}
+    </div>
+    {% include "tours/partials/quick_form.html" with heading="Get a free quote" where="band" %}
+  </div>
+</section>

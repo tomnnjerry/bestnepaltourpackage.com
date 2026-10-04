@@ -1,0 +1,130 @@
+{
+  "slug": "chhusang",
+  "name": "Chhusang",
+  "region": "mustang",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Chhusang village red cliffs caves Mustang",
+  "lat": 28.976,
+  "lng": 83.832,
+  "altitude_m": 2980,
+  "tagline": "Red cliffs, cave dwellings and the first day into Upper Mustang",
+  "meta_description": "Chhusang guide: 2,980 m Upper Mustang village below red cave-dotted cliffs, near Tetang and Chele, first stop north of Kagbeni on treks and jeep tours.",
+  "summary": "Chhusang (2,980 m) is the first sizeable village north of Kagbeni in Upper Mustang, where the Narshing Khola meets the Kali Gandaki below red, cave-riddled cliffs. Trekkers pass through on day one towards Chele; jeep tours stop for tea or lunch. Tetang village and the river tunnel at Chele are nearby.",
+  "intro": [
+    "Leave Kagbeni heading north and the landscape changes fast. The Kali Gandaki valley narrows, poplars give way to bare slopes, and after about 4 hours on foot or an hour by jeep the walls of Chhusang appear: a village of mud-brick houses and walled fields on a terrace above the river, beneath cliffs eroded into red and ochre columns. High in those cliffs are dozens of cave openings, part of the network of man-made caves that runs through Mustang.",
+    "Chhusang stands where the Narshing Khola joins the Kali Gandaki. Up that side valley lies Tetang, a striking village of tall houses connected by tunnels, from which an old trail climbs over the Gyu La to Muktinath. Across the main river, the trail to Chele crosses a bridge where the Kali Gandaki squeezes through a rock tunnel it has carved for itself, one of the oddest sights on the route north.",
+    "For trekkers, Chhusang is usually a lunch stop on the long first day from Kagbeni to Chele (3,050 m), though it makes a good overnight for those who prefer a gentler start. For jeep travellers, it is a tea and photo stop. Either way, it is your introduction to Upper Mustang: Tibetan-style villages, Buddhist chortens, poplar groves and the wind that sweeps up the valley each afternoon."
+  ],
+  "facts": [
+    ["Altitude", "2,980 m"],
+    ["Best months", "Apr – Jun · Sep – Oct"],
+    ["Nights we suggest", "0–1"],
+    ["Nearest airport", "Jomsom, ≈ 25 km · 1–1.5 h by jeep"],
+    ["From Kathmandu", "Flights to Jomsom + 1–1.5 h jeep, or 4–5 h walk from Kagbeni"],
+    ["Known for", "Red cliffs, cave openings, Tetang village, Kali Gandaki tunnel"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Cave-dotted red cliffs", "text": "Above and around Chhusang, eroded cliffs hold dozens of cave openings, some once used as homes, tombs or granaries. They are best seen from the trail or road, as most are unreachable and fragile."},
+    {"title": "Tetang village", "text": "About 30 minutes up the Narshing Khola, Tetang's tall mud-brick houses are linked by covered passages. It is one of the most atmospheric villages in Upper Mustang and is less visited than those on the road."},
+    {"title": "Kali Gandaki rock tunnel", "text": "Between Chhusang and Chele, the river disappears into a short natural tunnel it has cut through the rock. A bridge crosses just above, and the sight of the river vanishing into the cliff stops most trekkers."},
+    {"title": "Chele village", "text": "Across the river and up a steep climb of about 1 hour, Chele (3,050 m) is the usual first night of the Upper Mustang trek, with simple lodges and a view back down the valley."},
+    {"title": "First chortens of Lo", "text": "Painted chortens in red, white and grey begin to line the trail around Chhusang, marking the cultural shift from Thakali Lower Mustang to the Tibetan Buddhist world of Lo."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Jeeps reach Chhusang from Jomsom in about 1–1.5 hours (≈ 25 km) via Kagbeni, mostly on the riverbed track. The road can flood in summer afternoons when meltwater rises. Most jeep tours pass through on the way to Ghami or Lo Manthang."},
+    {"mode": "On foot", "text": "From Kagbeni the trail follows the east or west bank of the Kali Gandaki through Tangbe to Chhusang in 4–5 hours with about 200 m of height gain. Chele is another 1–1.5 hours, across the river and up a steep climb."}
+  ],
+  "where_to_stay": "Chhusang has a few small family lodges and teahouses, with simple twin rooms, mostly shared bathrooms and a kitchen serving dal bhat, noodles and tea. Chele, an hour further on, has more choice and is the more common first-night stop for trekkers. Tetang has homestay-style lodges for those taking the eastern route towards Muktinath via the Gyu La. Comfort is basic in all three villages, so carry a warm sleeping bag. Jeep travellers usually continue to Ghami or Tsarang for the night.",
+  "stays": [],
+  "tips": [
+    "Cross the Kali Gandaki riverbed early in the day; meltwater makes some channels deeper by afternoon.",
+    "Do not try to climb into the cliff caves; they are fragile, dangerous and some are protected archaeological sites.",
+    "Carry lunch snacks for the Kagbeni–Chele day; food stops are few and simple.",
+    "Show your permits at the checkpoint in Kagbeni before you start; they may be checked again further on.",
+    "Bring a buff or mask for the dust blown up the valley by the afternoon wind."
+  ],
+  "themes": ["trekking", "photography", "cultural-tours"],
+  "nearby": ["kagbeni", "ghami", "muktinath"],
+  "experiences": [
+    {
+      "slug": "chhusang-tetang-village-walk",
+      "title": "Tetang village and the Narshing Khola",
+      "kind": "culture",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–Oct",
+      "price_hint": "Included in our Upper Mustang trek",
+      "image_query": "Tetang village Upper Mustang",
+      "wiki": "",
+      "summary": "A short walk from Chhusang up the Narshing Khola to Tetang, a village of tall mud-brick houses and covered passages wedged into a narrow valley, one of the most photogenic and least visited settlements of Upper Mustang.",
+      "body": [
+        "From Chhusang the path follows the Narshing Khola upstream between walls of eroded conglomerate. In about 30–40 minutes Tetang appears, its houses rising three and four storeys high and joined so closely that the lanes run as tunnels beneath them. The design kept out the wind and, in older times, raiders. Prayer flags and juniper bundles mark the doorways.",
+        "Tetang has a small gompa, irrigated fields of barley and buckwheat and a handful of lodges used by trekkers heading over the Gyu La to Muktinath. Because it is off the main road, life here is quiet: women weave in courtyards, children walk to school along the stream and old men turn prayer wheels on the sunny side of the lanes. Your guide can introduce you to families and arrange tea.",
+        "The walk there and back takes 2–3 hours with about 100 m of height gain. It works as an afternoon excursion for trekkers sleeping in Chhusang, or as the start of the eastern route to Muktinath. Ask before photographing people, and keep to the paths through the fields."
+      ],
+      "good_for": ["photographers", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "Where is Tetang in Upper Mustang?", "a": "Tetang is a village about 30–40 minutes' walk east of Chhusang, up the Narshing Khola valley, at roughly 3,040 m. It lies inside the Upper Mustang restricted area. From Tetang a trail climbs over the Gyu La to Muktinath, making it an alternative start or finish for Upper Mustang treks."},
+        {"q": "Can I trek from Tetang to Muktinath?", "a": "Yes. A trail climbs from Tetang over the Gyu La pass, roughly 4,000 m or a little higher, to Muktinath in one long day of 7–9 hours. It is quiet and scenic but has no water or lodges on the way. Treks often use it to finish Upper Mustang at Muktinath instead of Jomsom."},
+        {"q": "Do I need the Upper Mustang permit for Tetang?", "a": "Yes. Tetang and Chhusang are north of Kagbeni and inside the Upper Mustang restricted area, so you need the restricted area permit, the ACAP permit and a licensed guide in a group of at least two. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "chhusang-kali-gandaki-tunnel-chele",
+      "title": "Kali Gandaki rock tunnel and climb to Chele",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Late morning, Apr–Oct",
+      "price_hint": "Part of our Upper Mustang trek",
+      "image_query": "Kali Gandaki tunnel Chele Mustang",
+      "wiki": "",
+      "summary": "From Chhusang the trail crosses the Kali Gandaki where the river runs into a short natural tunnel in the rock, then climbs steeply to Chele, the first night stop of most Upper Mustang treks, at 3,050 m.",
+      "body": [
+        "North of Chhusang, the trail drops to the Kali Gandaki and crosses on a steel bridge. Just upstream, the river has carved a passage through a band of rock and disappears into a short tunnel, emerging below the bridge in a churning green pool. The sight is all the more surprising because elsewhere the river spreads wide over gravel flats.",
+        "Beyond the bridge, the path climbs steeply up a red earth slope, gaining about 100 m in a short distance before easing into the village of Chele. Chele's houses are built of stone and mud with flat roofs, and the village looks back down the valley towards Kagbeni and the peaks of Nilgiri. Most trekkers spend their first night here.",
+        "From Chhusang to Chele allow 1–1.5 hours. The climb is short but at around 3,000 m it is a good early test of breathing. Take it slowly. Jeeps follow a road on a different line, so walkers have this stretch mostly to themselves, apart from the occasional horse caravan carrying goods north."
+      ],
+      "good_for": ["photographers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "Where does the Kali Gandaki flow through a tunnel?", "a": "Just below Chele, between Chhusang and Chele in Upper Mustang, the Kali Gandaki passes through a short natural tunnel it has cut in the rock. Trekkers see it from the bridge on the trail between the two villages. It is about 1–1.5 hours' walk north of Chhusang."},
+        {"q": "What is the altitude of Chele?", "a": "Chele is at about 3,050 m, a little above Chhusang (2,980 m). It is the usual first overnight stop on the Upper Mustang trek from Kagbeni, after 6–7 hours of walking. The following day climbs over the Taklam La and Dajori La to Syangboche at about 3,800 m."},
+        {"q": "Is the first day of the Upper Mustang trek hard?", "a": "It is long rather than hard: 6–7 hours from Kagbeni to Chele, mostly along the river with a gain of about 250 m, ending with a short steep climb. Wind and dust are the main discomforts in the afternoon. Start early, drink often and carry snacks."}
+      ]
+    },
+    {
+      "slug": "chhusang-cliff-caves-photo-walk",
+      "title": "Cliff caves and poplar groves photo walk",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Late afternoon, May–Oct",
+      "price_hint": "Included with an overnight stay",
+      "image_query": "Mustang cliff caves Chhusang",
+      "wiki": "Mustang Caves",
+      "summary": "An evening walk around Chhusang to photograph the red cliffs and their cave openings, the poplar groves along the river and the village fields, with your guide explaining what archaeologists have found in Mustang's caves.",
+      "body": [
+        "Chhusang is a good place to understand Mustang's caves without climbing. From the fields and the riverbank you can see rows of rectangular openings cut into the cliff faces, some in clusters several levels high. Archaeologists working in Mustang since the 1990s have found burials more than 2,000 years old, Buddhist manuscripts and wall paintings in caves across the district, and some near Chhusang have been studied.",
+        "The walk takes in the cliffs at their best angle, late in the afternoon when the light turns them red and gold, and the poplar and willow groves that line the irrigation channels, green in summer and bright yellow in late October. Barley and buckwheat fields frame the scene, with the bare, folded hills of Upper Mustang rising beyond.",
+        "Your guide explains the caves' uses through time, from tombs to homes to meditation retreats, and why many are now protected. The walk is flat and easy, about 3–4 km, and you return to the lodge before dark and the cold. Bring a telephoto lens for cave details and a warm layer."
+      ],
+      "good_for": ["photographers", "couples", "families", "solo"],
+      "faqs": [
+        {"q": "Can I go inside the caves near Chhusang?", "a": "Most cave openings near Chhusang are high in crumbling cliffs and cannot be reached safely; some are protected archaeological sites. Please admire them from the trail. For a cave visit, go to Jhong Cave at Chhoser north of Lo Manthang, where ladders and a caretaker make it possible."},
+        {"q": "How old are the Mustang caves?", "a": "Studies show some caves were used for burials around 2,500–3,000 years ago, and others were inhabited or used for Buddhist practice between roughly the 10th and 15th centuries. Dating varies by site. The caves were dug into soft conglomerate cliffs, and erosion has since made most of them inaccessible."},
+        {"q": "When are the poplars yellow in Upper Mustang?", "a": "Poplar and willow trees along the Kali Gandaki in Upper Mustang turn yellow and gold from mid to late October, depending on the year and altitude. Combined with clear autumn skies and harvested fields, late October is a favourite time for photographers, though nights are already cold."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Chhusang?", "a": "Chhusang is in Upper Mustang, about 25 km north of Jomsom and 12–15 km north of Kagbeni, at around 2,980 m. It lies where the Narshing Khola meets the Kali Gandaki. It is the first sizeable village inside the Upper Mustang restricted area on the main route to Lo Manthang."},
+    {"q": "Is Chhusang on the Upper Mustang trek?", "a": "Yes. On the classic trek from Kagbeni, Chhusang is the lunch stop on day one, before crossing the river and climbing to Chele for the night. Some itineraries sleep in Chhusang for a gentler first day. Jeep tours pass through it on the way to Ghami and Lo Manthang."},
+    {"q": "Can I stay overnight in Chhusang?", "a": "Yes, there are a few simple family lodges and teahouses with basic rooms and meals. Chele, one hour further and slightly higher, has more lodges and is the usual first night. Staying in Chhusang suits trekkers who want a shorter first day or plan to explore Tetang."},
+    {"q": "What permits do I need for Chhusang?", "a": "Chhusang is inside the Upper Mustang restricted area, so you need the Upper Mustang restricted area permit, the ACAP permit and a licensed guide, arranged through a registered agency in Nepal. Since late 2025 the permit costs US$ 50 per person per day. Check current status before you travel."},
+    {"q": "How long does it take from Kagbeni to Chhusang?", "a": "On foot it takes 4–5 hours with about 200 m of height gain, following the Kali Gandaki through Tangbe. By jeep it takes around 40 minutes to an hour on the riverbed road, depending on water levels. Summer afternoon meltwater can slow river crossings for vehicles."},
+    {"q": "Is Chhusang worth visiting by jeep?", "a": "Yes, as a short stop. The red cliffs, cave openings and the village itself are among the most photogenic scenes on the drive north. Ask your driver to stop for 20–30 minutes, and if time allows, visit Tetang, 30 minutes away on foot, before continuing to Ghami."},
+    {"q": "What is the weather in Chhusang?", "a": "Chhusang is dry and sunny, with strong wind from late morning. Spring and autumn days reach 15–22 °C, nights near freezing. Summer is warm with occasional showers. Winters are cold, with night temperatures well below freezing and occasional snow, and many lodges close."},
+    {"q": "Can I go from Chhusang to Muktinath?", "a": "Yes. From Tetang, near Chhusang, an old trail climbs over the Gyu La to Muktinath in a long day of 7–9 hours with no lodges en route. It is used by treks finishing Upper Mustang at Muktinath. By jeep, the usual way is back via Kagbeni, about 1.5–2 hours."},
+    {"q": "Is there mobile signal in Chhusang?", "a": "Signal is patchy. Parts of the village and the road pick up Nepal Telecom or Ncell, and some lodges have Wi-Fi, but expect gaps. Download offline maps and tell family you may be out of contact for parts of the Upper Mustang journey."}
+  ]
+}

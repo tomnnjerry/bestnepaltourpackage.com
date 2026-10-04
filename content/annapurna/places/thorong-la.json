@@ -1,0 +1,263 @@
+{
+  "slug": "thorong-la",
+  "name": "Thorong La",
+  "region": "annapurna",
+  "kind": "pass",
+  "wiki": "Thorong La",
+  "image_query": "Thorong La pass prayer flags",
+  "lat": 28.7938,
+  "lng": 83.9372,
+  "altitude_m": 5416,
+  "tagline": "The 5,416 m pass that crowns the Annapurna Circuit",
+  "meta_description": "Thorong La (5,416 m), high point of the Annapurna Circuit: crossing from Thorong Phedi or High Camp, timings, weather, closures, altitude risks and kit.",
+  "summary": "Thorong La is the 5,416 m pass between Manang and Muktinath and the highest point of the Annapurna Circuit. Trekkers cross it in one long day, starting before dawn from Thorong Phedi at 4,450 m or High Camp at 4,880 m, then dropping about 1,700 m to Muktinath.",
+  "intro": [
+    "Thorong La links the Manang valley on the east with the Kali Gandaki and Mustang side on the west. For centuries it was a trade route for salt, grain and livestock between the two valleys, and pilgrims from Manang crossed it to reach the shrine at Muktinath. Today it is the high point and the hardest day of the Annapurna Circuit, crossed by tens of thousands of trekkers a year in the clear months of autumn and spring.",
+    "There is nothing technical about the pass in normal conditions: it is a long, steep walk on a well-worn trail. What makes it serious is altitude and weather. At 5,416 m the air holds about half the oxygen it does at sea level, so every step is slow. Wind rises sharply after about 10 or 11 am, and fresh snow can turn the path into a slog or hide it entirely. Every year a few people get into trouble here because they started too late, crossed when sick, or set out in a storm.",
+    "Done properly, the crossing is a great day. You leave Thorong Phedi or High Camp in the dark, climb steadily for 3–5 hours past a string of false summits and cairns, and reach a saddle hung with thousands of prayer flags and a sign marking 5,416 m. On a clear morning the Annapurna range and the brown Mustang hills stretch out on either side. Then comes the long, knee-jarring descent of about 1,700 m to Muktinath, 4–5 hours more."
+  ],
+  "facts": [
+    [
+      "Altitude",
+      "5,416 m"
+    ],
+    [
+      "Best months",
+      "Oct – Nov · Mar – May"
+    ],
+    [
+      "Nights we suggest",
+      "0 (crossed in one day)"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom (≈ 1.5 h by jeep from Muktinath)"
+    ],
+    [
+      "From Manang",
+      "3 days via Yak Kharka and Thorong Phedi"
+    ],
+    [
+      "Known for",
+      "Highest point of the Annapurna Circuit, prayer flags, dawn crossing"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    0
+  ],
+  "nights": "0 (crossed in one day)",
+  "highlights": [
+    {
+      "title": "The prayer-flag saddle at 5,416 m",
+      "text": "The top of the pass is a broad saddle draped with prayer flags, a chorten, a large sign giving the altitude and a small tea hut that operates in season. Most trekkers arrive between 8 and 10 am, take photos, drink a sweet tea and start down within 20–30 minutes before the wind picks up."
+    },
+    {
+      "title": "A dawn start under the stars",
+      "text": "Crossing day begins at about 4 am from Thorong Phedi or 5 am from High Camp, with headtorches strung out along the zigzags. The sky is often clear and full of stars, and the first light catches the summits of Thorong Peak and the Annapurna range behind you as you gain height."
+    },
+    {
+      "title": "Two valleys from one point",
+      "text": "To the east lie the Manang valley, the Chulu peaks and the long Annapurna wall. To the west the land falls away to Muktinath, the Kali Gandaki and the dry hills of Mustang, with Dhaulagiri on the far horizon. Standing on the pass, you see the change from Himalayan to trans-Himalayan landscape."
+    },
+    {
+      "title": "The long descent to Muktinath",
+      "text": "From the pass the trail drops about 1,700 m to Muktinath at 3,710 m over 4–5 hours, on loose gravel and dusty switchbacks. It is hard on knees, but every step down brings thicker air and easier breathing. The first tea shops at Chabarbu appear about 3 hours below the saddle."
+    },
+    {
+      "title": "Muktinath at the bottom",
+      "text": "At the foot of the pass lies Muktinath, sacred to both Hindus and Buddhists, with 108 water spouts and an eternal flame fed by natural gas. Many Indian pilgrims arrive by jeep or helicopter from the Jomsom side; trekkers arriving over Thorong La get there the hard way and usually visit the next morning."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "On foot",
+      "text": "From Manang, 3 days: Yak Kharka at 4,018 m, then Thorong Phedi at 4,450 m or High Camp at 4,880 m, then the crossing. Phedi to the pass takes about 4–5 hours with roughly 970 m of ascent; High Camp to the pass about 2.5–3.5 hours. Then 4–5 hours down to Muktinath."
+    },
+    {
+      "mode": "Road",
+      "text": "There is no road over the pass. Jeeps reach Manang from Besisahar on the east side and Muktinath from Jomsom on the west. From Muktinath, a jeep to Jomsom takes about 1.5 hours, and from Jomsom to Pokhara about 8–9 hours by road."
+    },
+    {
+      "mode": "Helicopter",
+      "text": "Helicopters are used for rescues from Thorong Phedi and High Camp in clear weather, flying to Pokhara or Kathmandu. Rescues are expensive and weather-dependent, so insurance covering helicopter evacuation above 5,500 m is essential. Sightseeing flights over the pass are possible by private charter in good conditions."
+    }
+  ],
+  "where_to_stay": "There is no accommodation on the pass itself. The two bases are Thorong Phedi at 4,450 m, which has a few large lodges with dining halls and basic rooms, and Thorong High Camp at 4,880 m, a single lodge complex perched on a ridge 1 hour above Phedi. Phedi is lower, so sleeping there is easier on the body; High Camp shortens the crossing day. Both get crowded in October, with rooms sometimes shared or overflow mattresses in the dining room. On the west side, Muktinath has many lodges and simple hotels. We usually book Thorong Phedi and adjust on the day.",
+  "stays": [],
+  "tips": [
+    "Leave Thorong Phedi by 4–4:30 am, or High Camp by 5 am, to reach the pass before strong winds start around 10–11 am.",
+    "Fill two litres of water the night before and keep one bottle inside your jacket so it does not freeze on the climb.",
+    "Do not cross if you have a severe headache, vomiting, confusion or breathlessness at rest: descend instead, even if it means going back to Manang.",
+    "Wear proper gloves, a down jacket and sunglasses: pre-dawn temperatures on the pass in November can drop below −15 °C with wind chill.",
+    "Ask at Thorong Phedi about snow conditions before you set off, and never attempt the pass in a storm or fresh deep snow."
+  ],
+  "themes": [
+    "trekking",
+    "adventure-sports",
+    "photography"
+  ],
+  "nearby": [
+    "manang",
+    "tilicho-lake",
+    "besisahar"
+  ],
+  "experiences": [
+    {
+      "slug": "thorong-la-dawn-crossing",
+      "title": "The dawn crossing of Thorong La",
+      "kind": "adventure",
+      "duration": "8–10 hours",
+      "best_time": "4 am start, Oct–Nov and Mar–May",
+      "price_hint": "Included in circuit treks",
+      "image_query": "Thorong La sunrise trekkers",
+      "wiki": "",
+      "summary": "The big day of the Annapurna Circuit: a pre-dawn climb from Thorong Phedi or High Camp to the 5,416 m saddle, then a long descent to Muktinath. Expect 8–10 hours of walking, about 970 m up from Phedi and 1,700 m down.",
+      "body": [
+        "Alarms go off at about 3:30 am. Breakfast is porridge, tea and toast in a crowded dining room, and by 4 am lines of headtorches are moving up the steep path from Thorong Phedi to High Camp. That first hour gains about 430 m and is the steepest of the day. From High Camp the trail continues up a long valley of moraine and scree, passing a tea hut, cairns and several false summits that make the pass feel always just ahead.",
+        "Pace is everything. Our guides set a slow, steady rhythm, with short pauses every 20–30 minutes for water and snacks. At 5,000 m and above, each step needs a breath or two; trying to rush leads to exhaustion. Most groups reach the prayer flags at the top between 8 and 10 am, after 4–5 hours from Phedi. On a clear day the views reach back over the Chulu peaks and Annapurna, and ahead to the Mustang hills.",
+        "After photos and a hot drink at the seasonal tea hut, the descent begins. The trail drops steeply on gravel and loose rock for about 1,700 m to Muktinath at 3,710 m, 4–5 hours with a tea stop at Chabarbu. Knees and toes take a beating; poles help enormously. By early afternoon you are in Muktinath, tired, sunburnt and pleased, with a hot shower and a celebration dinner waiting. Muktinath's lodges fill quickly in October, so we book ahead."
+      ],
+      "good_for": [
+        "solo",
+        "groups",
+        "couples",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How long does it take to cross Thorong La?",
+          "a": "From Thorong Phedi at 4,450 m, plan on 8–10 hours in total: about 4–5 hours up to the pass at 5,416 m and 4–5 hours down to Muktinath at 3,710 m. From High Camp at 4,880 m, the climb takes 2.5–3.5 hours, so the full day is 7–9 hours. Slow walkers or bad snow conditions add more."
+        },
+        {
+          "q": "Should I sleep at Thorong Phedi or High Camp?",
+          "a": "If you are well acclimatised, High Camp shortens crossing day by about an hour. If you feel any altitude symptoms, Thorong Phedi at 4,450 m is safer because it is 430 m lower. High Camp's lodge can be crowded and colder. We usually plan for Phedi and let the group decide on the day based on how everyone feels."
+        },
+        {
+          "q": "Can I hire a horse to cross Thorong La?",
+          "a": "In season, horses and handlers have been available at Thorong Phedi to carry trekkers part or all of the way to the pass, at a cost negotiated locally. It helps tired walkers but does not solve altitude sickness, which needs descent. If you are seriously unwell, a horse is not a substitute for going down. Check availability on arrival."
+        }
+      ]
+    },
+    {
+      "slug": "thorong-la-thorong-phedi-evening",
+      "title": "Evening at Thorong Phedi before the pass",
+      "kind": "adventure",
+      "duration": "Afternoon and evening",
+      "best_time": "Oct–Nov and Mar–May",
+      "price_hint": "Included in circuit treks",
+      "image_query": "Thorong Phedi lodge Annapurna Circuit",
+      "wiki": "",
+      "summary": "The night before the crossing is spent at Thorong Phedi, 4,450 m, a cluster of lodges at the foot of the pass. Preparation here, from water bottles to an honest altitude check, decides how the next day goes.",
+      "body": [
+        "Thorong Phedi, phedi meaning foot of the hill, is a small group of lodges in a bowl of scree at 4,450 m, reached in about 3–4 hours from Yak Kharka. Most trekkers arrive by early afternoon, so there is time to rest, drink plenty of fluids and, if you feel good, walk 30–45 minutes up towards High Camp and back down to help acclimatisation. Blue sheep often graze on the slopes above.",
+        "Evenings at Phedi are busy and focused. The dining room fills with trekkers comparing plans and start times; guides discuss weather and snow. This is when we do a final health check with each guest, looking for headaches, nausea, unusual tiredness or breathlessness at rest. Anyone with worsening symptoms does not cross the next day. We also check headtorches, layers, gloves and that water bottles are filled and stored where they will not freeze.",
+        "Sleep is often light at this altitude, and that is normal. Dinner is early, usually by 6:30 pm, with garlic soup, dal bhat or noodles, and people are in bed by 8 pm. Ordering breakfast the night before saves time in the morning. Leave your big bag packed for the porter, keep essentials in your daypack, and set an alarm for about 3:30 am. Wear a hat and warm socks in bed; rooms fall well below freezing overnight."
+      ],
+      "good_for": [
+        "solo",
+        "groups",
+        "first-timers",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Is it hard to sleep at Thorong Phedi?",
+          "a": "Many people sleep poorly at 4,450 m. Light sleep, vivid dreams and waking with a short breathless feeling are common and usually not dangerous. A persistent severe headache, vomiting or breathlessness at rest are warning signs; tell your guide straight away. Drink fluids in the afternoon, avoid alcohol and sleeping pills, and keep warm."
+        },
+        {
+          "q": "What should I eat the night before Thorong La?",
+          "a": "A carbohydrate-rich dinner such as dal bhat, noodles or potatoes, plus garlic soup, which many trekkers swear by even if the evidence is thin. Avoid alcohol and very heavy, greasy food. Drink 1–2 litres of water or tea through the afternoon and evening. Order breakfast in advance so you can eat quickly before a 4 am start."
+        },
+        {
+          "q": "Are lodges at Thorong Phedi crowded?",
+          "a": "In October, yes. Phedi and High Camp handle a large share of circuit trekkers each night, and rooms can be shared or overflow mattresses laid in dining halls. Booking ahead through your guide helps. In spring, December and early March they are quieter. Expect basic rooms, shared toilets and limited hot water at this height."
+        }
+      ]
+    },
+    {
+      "slug": "thorong-la-photography-on-the-pass",
+      "title": "Photographing the Thorong La saddle",
+      "kind": "nature",
+      "duration": "20–30 minutes on top",
+      "best_time": "8–10 am, Oct–Nov",
+      "price_hint": "",
+      "image_query": "Thorong La pass sign 5416",
+      "wiki": "",
+      "summary": "The prayer flags, the 5,416 m sign and the view across to Mustang make Thorong La one of the most photographed points in Nepal. A few minutes of planning help you get good shots without lingering too long in the cold and wind.",
+      "body": [
+        "Most trekkers want two pictures from Thorong La: one with the sign that gives the altitude, and one of the prayer flags with mountains behind. In October the queue for the sign can be several groups deep around 9 am, so take the flags and wide views first while others crowd the sign. A wide-angle lens or phone setting captures the saddle, flags and Thorong Peak; a short telephoto picks out the Mustang hills and distant Dhaulagiri to the west.",
+        "Cold is the main enemy of cameras and phones up here. Batteries can lose much of their charge below freezing, so keep spares and your phone in an inside pocket until you need them. Lens condensation is common when you move between your warm jacket and the air; let the camera adjust for a minute. Use liner gloves so that you can operate controls without exposing bare skin to wind.",
+        "Do not let photography delay your descent. The wind usually strengthens after 10–11 am, and the long walk to Muktinath is still ahead. We suggest 20–30 minutes on top, enough for photos, a hot drink and a few quiet moments. Drones need permission in Nepal and are generally not allowed without it, so check current status before you travel and do not fly one on the pass without a permit."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples",
+        "groups"
+      ],
+      "faqs": [
+        {
+          "q": "How long can I stay on top of Thorong La?",
+          "a": "There is no rule, but we recommend about 20–30 minutes. At 5,416 m your body is under strain, temperatures are well below freezing early in the day, and wind rises from about 10 am. The descent to Muktinath takes 4–5 hours more. Take your photos, have a drink and start down while you still feel strong."
+        },
+        {
+          "q": "Can I fly a drone at Thorong La?",
+          "a": "Not without permission. Nepal requires drone users to obtain approvals from the authorities, and flying in protected areas usually needs extra permission from the conservation area as well. Rules change, so check current status before you travel. Unpermitted flying can lead to confiscation and fines, and wind on the pass makes flying risky anyway."
+        },
+        {
+          "q": "Does the phone camera work in the cold on Thorong La?",
+          "a": "Usually, but cold drains batteries fast. Keep your phone inside your jacket close to your body until you need it, carry a small power bank, and expect the battery percentage to drop sharply below freezing. Liner gloves with touchscreen fingertips help. If the phone shuts down, warming it in an inside pocket for a few minutes often revives it."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How high is Thorong La?",
+      "a": "Thorong La is 5,416 m above sea level, the highest point on the Annapurna Circuit. You start the crossing from Thorong Phedi at 4,450 m or High Camp at 4,880 m, so the climb on the day is about 970 m or 540 m respectively, before descending about 1,700 m to Muktinath at 3,710 m."
+    },
+    {
+      "q": "Is Thorong La dangerous?",
+      "a": "In good weather and with proper acclimatisation, it is a long, hard but safe walk. The dangers are altitude sickness, extreme cold, high winds and sudden snowstorms. In October 2014 a severe storm caused deaths on and around the pass. Start early, turn back in bad weather, never cross while sick and follow your guide's decisions."
+    },
+    {
+      "q": "When is Thorong La closed?",
+      "a": "There is no official closure calendar, but after heavy snowfall, most often from late December to February and sometimes in March, the pass becomes impassable or dangerous and lodges near the top may close. Storms can strike in any season. Ask at Manang and Thorong Phedi about conditions before you go, and check current status before you travel."
+    },
+    {
+      "q": "Why do people cross Thorong La from east to west?",
+      "a": "Crossing anticlockwise, from Manang to Muktinath, gives a gentler and safer ascent. From the east you gain height gradually over many days and the pass is about 970 m above Thorong Phedi. From the west, Muktinath at 3,710 m is about 1,700 m below the pass, making a very long and risky climb in a single day."
+    },
+    {
+      "q": "Can I cross Thorong La without acclimatisation?",
+      "a": "You should not. The pass is 5,416 m high, and arriving there without days of gradual ascent and at least one rest day in Manang greatly increases the risk of serious altitude sickness. People who drive straight to Manang and push on quickly are among those most often evacuated. Follow a proper itinerary with time to adapt."
+    },
+    {
+      "q": "What should I wear for Thorong La?",
+      "a": "Layers. A thermal base layer, a fleece, a down jacket and a windproof shell, plus thermal trousers under trekking trousers, warm gloves with liners, a hat, a buff and sunglasses. Good waterproof boots and warm socks matter. In the pre-dawn hours temperatures can fall to −10 °C or lower, colder with wind."
+    },
+    {
+      "q": "How fit do I need to be for Thorong La?",
+      "a": "You should be comfortable walking 6–8 hours a day for several days and handling steep climbs and long descents. Training for 2–3 months with uphill hikes, stair climbing and longer weekend walks is ideal. Fitness helps but does not prevent altitude sickness, which can affect anyone. Gradual ascent and listening to your body matter more."
+    },
+    {
+      "q": "Is there a teahouse on top of Thorong La?",
+      "a": "A small tea hut operates near the top in the trekking seasons, selling sweet tea, coffee and snacks at high prices. It is welcome after the long climb, but do not rely on it: in bad weather or the off season it may be shut. Carry your own water and snacks for the whole day."
+    },
+    {
+      "q": "Can I take a helicopter instead of crossing Thorong La?",
+      "a": "Yes, private helicopter charters can fly from Manang or Thorong Phedi in clear morning weather, usually to Pokhara or Kathmandu. This is mainly for rescues or people who cannot continue. It is expensive and weather-dependent. If you plan to avoid the pass, it is cheaper to return down the Marsyangdi valley by jeep."
+    }
+  ]
+}

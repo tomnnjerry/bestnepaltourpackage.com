@@ -1,0 +1,131 @@
+{
+  "slug": "gosaikunda",
+  "name": "Gosaikunda",
+  "region": "langtang",
+  "kind": "pilgrimage site",
+  "wiki": "Gosaikunda",
+  "image_query": "Gosaikunda lake Langtang National Park",
+  "lat": 28.0833,
+  "lng": 85.4147,
+  "altitude_m": 4380,
+  "tagline": "Sacred alpine lake at 4,380 m linked to Lord Shiva",
+  "meta_description": "Gosaikunda lake (4,380 m) in Langtang National Park: Shiva legend, Janai Purnima holy dip, trek from Dhunche in 2–3 days or heli in 35 min. Plan here.",
+  "summary": "Gosaikunda is a sacred lake at 4,380 m in Langtang National Park, believed to have been created by Lord Shiva's trident. Hindu and Buddhist pilgrims walk here from Dhunche in 2–3 days, and thousands gather for the holy dip on Janai Purnima in August. Trekkers cross nearby Lauribina La (4,610 m) to Helambu.",
+  "intro": [
+    "Gosaikunda is the largest of a chain of glacial lakes strung along the ridge between the Trishuli and Melamchi valleys, at 4,380 m in the south of Langtang National Park. Its water is clear and cold, frozen for much of the winter, and framed by bare rock slopes with a small Shiva shrine and a cluster of lodges on the shore. Saraswati Kunda and Bhairab Kunda lie just below, and Surya Kunda sits higher on the way to the Lauribina La pass at 4,610 m. The lakes and surrounding wetland are a Ramsar site.",
+    "For Hindus the lake is one of the holiest places in Nepal. The story told at the shrine is that after the churning of the ocean, Shiva drank the poison that emerged to save the world and, burning in his throat, struck the mountain with his trishul to release cool water, creating Gosaikunda. The Trishuli River is said to take its name from that strike. A rock in the lake is pointed out as Shiva resting, and many believe the water flows underground to the Kumbheshwar temple pond in Patan.",
+    "Most visitors come one of two ways. Pilgrims walk up from Dhunche through Chandanbari (Sing Gompa) and Lauribina in two or three days, or fly in by helicopter from Kathmandu for a short darshan and puja. Trekkers often join it to the Langtang Valley trek, or continue over Lauribina La to Ghopte, Tharepati and Helambu. The busiest time by far is Janai Purnima, the August full moon, when thousands of devotees and jhankri shamans gather for the holy dip."
+  ],
+  "facts": [
+    ["Altitude", "4,380 m"],
+    ["Best months", "Apr – May · Sep – Nov · Aug for Janai Purnima"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu (35 min by helicopter)"],
+    ["From Kathmandu", "≈ 117 km drive to Dhunche + 2–3 days' walk"],
+    ["Known for", "Shiva legend, Janai Purnima holy dip, Lauribina La"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 1, 1, 1, 2, 2, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Holy dip and puja at the shrine", "text": "Pilgrims bathe in the icy water, offer flowers and light lamps at the small Shiva shrine on the north shore. Priests and local helpers can guide a puja. Bathing at 4,380 m is brief and bracing; dry off and dress warmly straight away."},
+    {"title": "Janai Purnima gathering", "text": "On the August full moon of Shrawan, thousands climb to Gosaikunda to bathe, change the sacred thread and receive the raksha doro. Tamang and other jhankri shamans drum and dance through the night. Lodges overflow, so plan and book early."},
+    {"title": "Chain of sacred lakes", "text": "Saraswati Kunda and Bhairab Kunda sit below Gosaikunda on the approach from Lauribina, and Surya Kunda lies higher on the trail to the pass. Local tradition counts 108 lakes in the area. Walking the shoreline path gives views of all of them."},
+    {"title": "Lauribina La crossing to Helambu", "text": "Trekkers continue east over Lauribina La at 4,610 m, the highest point on the Langtang–Gosaikunda–Helambu route, then descend to Phedi and Ghopte. The pass can be snowbound from December to March, so this crossing needs good weather and a guide."},
+    {"title": "Langtang and Manaslu views at Lauribina", "text": "On the approach, the ridge at Lauribina (3,910 m) gives a long view west to the Ganesh Himal, Manaslu and on clear days the Annapurnas, and north to Langtang Lirung. Sunrise from here is a reason to sleep one night at Lauribina."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Drive about 117 km and 6–7 hours from Kathmandu to Dhunche (1,960 m), the trailhead, by bus or jeep via Trishuli Bazaar. Some jeeps continue on rough tracks towards Deurali, but this changes by season."},
+    {"mode": "On foot", "text": "From Dhunche walk 6 hours to Chandanbari (Sing Gompa, 3,330 m), then 5–6 hours via Lauribina (3,910 m) to Gosaikunda. Pilgrims often break the second day with a night at Lauribina for better acclimatisation."},
+    {"mode": "Helicopter", "text": "Charter or shared helicopters fly from Kathmandu in about 35 minutes and land near the lake, weather permitting. Flights operate in the morning, ground time is usually limited, and a pilgrimage puja can be arranged during the stop."}
+  ],
+  "where_to_stay": "A handful of simple lodges stand on the lake shore near the shrine, with dormitory rooms, small twin rooms, blankets and basic dining halls; electricity is limited and toilets are outside. At Janai Purnima they are completely full and many pilgrims sleep in tents or crowded halls, so we carry tents on festival departures. Outside the festival, a room is usually available, but book through your agency in October. Many trekkers prefer to sleep lower at Lauribina (3,910 m) and walk up to the lake, which helps with altitude. There are no hotels here, and nights fall below freezing for most of the year, so a four-season sleeping bag is essential.",
+  "stays": [],
+  "tips": [
+    "Sleep at Lauribina or Chandanbari on the way up rather than climbing from Dhunche to the lake in one push.",
+    "Take the holy dip quickly, then change into dry, warm clothes at once; the water is near freezing even in August.",
+    "During Janai Purnima, start from Dhunche two or three days early to avoid the worst crowds on the trail.",
+    "Carry rain gear and leech socks if you walk in July or August, because the forest below Chandanbari is very wet.",
+    "Do not attempt Lauribina La after fresh snow without a guide who knows the current state of the trail."
+  ],
+  "themes": ["pilgrimage", "trekking", "heli-tours", "festivals"],
+  "nearby": ["chandanbari", "dhunche", "helambu", "kyanjin-gompa"],
+  "experiences": [
+    {
+      "slug": "gosaikunda-holy-dip-and-puja",
+      "title": "Holy dip and Shiva puja at Gosaikunda",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Early morning, Apr–Nov; Janai Purnima in Aug",
+      "price_hint": "Puja ≈ ₹1,000–2,500, check locally",
+      "image_query": "Gosaikunda Shiva shrine pilgrims bathing",
+      "wiki": "",
+      "summary": "A ritual bath in the sacred lake followed by a puja at the small Shiva shrine on the shore. For many Indian and Nepali pilgrims, this is the reason for the whole journey to 4,380 m.",
+      "body": [
+        "Devotees believe a dip in Gosaikunda washes away sins and that the lake holds the cooling water Shiva released with his trident. The ritual is simple. Pilgrims arrive at the shore in the early morning, bathe or sprinkle water on themselves, then offer flowers, rice, incense and coins at the small shrine where Shiva is worshipped. Many tie red and yellow threads, and families perform shraddha rites for ancestors.",
+        "A local priest or temple caretaker can lead a short puja, and our guides help pilgrims with the offerings, which you can buy in Kathmandu or Dhunche before the trek. On Janai Purnima, Brahmin and Chhetri men change their janai (sacred thread), and everyone receives a raksha doro around the wrist. At other times the lake is quiet, and you may have the shrine almost to yourself.",
+        "The water is near freezing all year. Keep the bath brief, a few seconds of full immersion or a ritual splash, and have a towel and dry warm clothes ready. Older pilgrims and anyone with heart conditions should consider sprinkling water rather than bathing. Women usually bathe in a sari or salwar kameez, and men in shorts or a dhoti."
+      ],
+      "good_for": ["pilgrims", "seniors", "families", "groups"],
+      "faqs": [
+        {"q": "Is it safe to bathe in Gosaikunda?", "a": "A short ritual dip is generally fine for healthy adults, but the water is near freezing and the altitude is 4,380 m, so cold shock is a real risk. Enter slowly near the shore, stay in only a few seconds, then dry and dress at once. People with heart or blood pressure problems should sprinkle water instead of fully bathing."},
+        {"q": "Can a puja be arranged at Gosaikunda?", "a": "Yes. Priests and caretakers are present on festival days, and at most times of year someone at the shrine or our guide can help with a simple puja. Bring offerings such as flowers, incense, ghee lamps and sweets from Kathmandu or Dhunche. On helicopter yatras, the puja is done during the ground stop."},
+        {"q": "Do Buddhists also visit Gosaikunda?", "a": "Yes. Tamang, Hyolmo and Tibetan Buddhists also consider the lake sacred, and many visit during Janai Purnima alongside Hindu pilgrims. Jhankri shamans from Tamang and other communities drum and dance by the lake through the full-moon night. The shrine itself is dedicated to Shiva, but the gathering is shared."}
+      ]
+    },
+    {
+      "slug": "gosaikunda-lakes-shoreline-walk",
+      "title": "Walk the shoreline and the lakes above",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–May and Sep–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Saraswati Kunda Bhairab Kunda Gosaikunda lakes",
+      "wiki": "",
+      "summary": "An easy circuit of Gosaikunda's shore and a short climb towards Surya Kunda, with views back over Bhairab Kunda and Saraswati Kunda. A good way to acclimatise and see why the lakes are protected as a Ramsar wetland.",
+      "body": [
+        "Gosaikunda is the largest of a set of glacial lakes on the ridge, and the rest are easy to see from a short walk. A path loops around much of the shoreline, past mani stones and cairns built by pilgrims, with the shrine and lodges on the north side. In autumn the water is a deep blue-green; in winter and early spring it freezes and snow covers the shore.",
+        "From the east end of the lake, the trail towards Lauribina La climbs about 200 m to a viewpoint above Surya Kunda. Looking back you see Gosaikunda below, and on the approach from Lauribina you will have already passed Saraswati Kunda and Bhairab Kunda. Local tradition says there are 108 lakes in the area, many of them small tarns in the side basins.",
+        "The walk takes 2–3 hours at a slow pace and gains little height, which suits an afternoon after arriving or a morning before descending. Watch for snow pigeons, Himalayan monals and, on the slopes, Himalayan tahr. Stay on the path, because the alpine turf is fragile, and do not wash with soap or leave offerings of plastic near the water."
+      ],
+      "good_for": ["photographers", "couples", "solo", "pilgrims"],
+      "faqs": [
+        {"q": "How many lakes are there at Gosaikunda?", "a": "The main lakes on the trekking route are Saraswati Kunda, Bhairab Kunda, Gosaikunda itself and Surya Kunda near Lauribina La. Local tradition speaks of 108 lakes in the wider area, many of them small tarns. The Gosaikunda lake system is protected as a Ramsar wetland of international importance."},
+        {"q": "Does Gosaikunda freeze in winter?", "a": "Yes. The lake usually freezes from around December to March, and snow covers the trail from Lauribina. The frozen lake is a striking sight, but the walk is colder and harder, some lodges close, and Lauribina La can become impassable. April–May and late September–November give the best mix of open water and clear weather."},
+        {"q": "Can I walk to Surya Kunda without crossing the pass?", "a": "Yes. Surya Kunda is on the trail to Lauribina La, about 1–1.5 hours from Gosaikunda with roughly 200 m of climb. You can walk to it and return to the lake in 2–3 hours. Carry warm layers and turn back if cloud closes in, as the trail is marked mainly by cairns."}
+      ]
+    },
+    {
+      "slug": "lauribina-sunrise-viewpoint",
+      "title": "Sunrise over Manaslu from Lauribina",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Nov and Mar–May",
+      "price_hint": "Included in Gosaikunda treks",
+      "image_query": "Lauribina Gosaikunda trail Himalaya view",
+      "wiki": "",
+      "summary": "A dawn walk above the lodges at Lauribina (3,910 m), on the ridge below Gosaikunda, for a sweep of peaks from the Ganesh Himal and Manaslu to the Annapurnas and Langtang Lirung on clear autumn mornings.",
+      "body": [
+        "Lauribina is a small group of lodges on an open ridge at about 3,910 m, two to three hours below Gosaikunda. It is where most well-paced itineraries stop the night before the lake, and it has one of the best views on the whole route. The ridge faces west and north, away from the Kathmandu haze, so on clear mornings the Ganesh Himal, Manaslu at 8,163 m, Himalchuli and even the Annapurnas line up across the horizon.",
+        "Get up about 30 minutes before sunrise and walk 10–15 minutes above the lodges to a small hill with prayer flags and a stupa. Langtang Lirung rises to the north. In October and November the first light turns the peaks gold in sequence, and the valleys below are often full of cloud. In the monsoon you may see nothing, but there are surprise clear dawns even in August.",
+        "Sleeping at Lauribina rather than going straight to Gosaikunda also helps your body adjust before 4,380 m. Bring a down jacket and gloves for the wait; dawn temperatures are below freezing for much of the year. Tea is usually ready in the lodge when you return, before the short climb to the lakes."
+      ],
+      "good_for": ["photographers", "couples", "pilgrims", "groups"],
+      "faqs": [
+        {"q": "What can I see from Lauribina?", "a": "On a clear morning you see the Ganesh Himal, Manaslu (8,163 m), Himalchuli and the Annapurna range to the west, and Langtang Lirung to the north. Visibility is best in October, November and spring mornings. Clouds usually build by late morning, so sunrise is the time to look."},
+        {"q": "Should I stay at Lauribina or Gosaikunda?", "a": "Staying at Lauribina (3,910 m) is better for acclimatisation and has the better sunrise view. Staying at Gosaikunda (4,380 m) puts you beside the lake for an early puja. Many of our pilgrimage itineraries sleep at Lauribina on the way up and spend one night at the lake for the dip."},
+        {"q": "How long is the walk from Lauribina to Gosaikunda?", "a": "About 2–3 hours, gaining roughly 470 m on a stone path that traverses high above the valley past Saraswati Kunda and Bhairab Kunda. Some sections are narrow with drops, and they can be icy in the morning in spring and late autumn. Pilgrims with poor balance should take it slowly with a helper."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Gosaikunda lake?", "a": "Gosaikunda lies at about 4,380 m in Langtang National Park. Nearby Lauribina La pass reaches 4,610 m, and the overnight stop of Lauribina below the lake is at about 3,910 m. Because of the height, altitude sickness is possible, so most itineraries take two to three days from Dhunche (1,960 m)."},
+    {"q": "How to reach Gosaikunda from Kathmandu?", "a": "Drive about 117 km and 6–7 hours to Dhunche, then walk two to three days via Chandanbari (Sing Gompa) and Lauribina. The return takes one to two days. Alternatively, a helicopter flies from Kathmandu in about 35 minutes and lands near the lake for a short visit, weather permitting."},
+    {"q": "When is the Gosaikunda mela?", "a": "The big gathering is on Janai Purnima, the full moon of the month of Shrawan, which falls in August and sometimes late July. Thousands of pilgrims bathe in the lake and jhankri shamans perform through the night. Festival dates follow the lunar calendar, so check current status before you travel."},
+    {"q": "Gosaikunda trek difficulty for seniors?", "a": "It is moderate to challenging: about 2,400 m of ascent from Dhunche over two to three days, on steep stone steps, to 4,380 m. Fit seniors with no heart or lung problems manage it with a slow itinerary and porters. Those who cannot walk 5–6 hours a day may prefer the helicopter yatra, after medical advice."},
+    {"q": "Gosaikunda helicopter tour price from Kathmandu?", "a": "A shared seat on a Gosaikunda helicopter yatra starts at around ₹58,000 (about US$ 690) per person, and a private charter for up to five passengers costs roughly US$ 2,800–3,500 per helicopter, depending on season and fuel prices. Prices assume a morning flight with a short ground stop. Check current rates before you book."},
+    {"q": "Is Gosaikunda open in winter?", "a": "You can reach the lake in winter, but snow covers the trail above Chandanbari from about December to March, some lodges close and the lake freezes. Lauribina La towards Helambu is often impassable. Winter visits need warm gear and an experienced guide, and helicopter landings depend on snow conditions."},
+    {"q": "Do Indians need a permit for Gosaikunda?", "a": "Yes. Gosaikunda is inside Langtang National Park, so Indian and other SAARC nationals pay a reduced park entry fee, about NPR 1,500 against NPR 3,000 for other foreigners, collected at Dhunche or in Kathmandu. Whether Indian trekkers must also take a licensed guide has been applied inconsistently; check current status before you travel."},
+    {"q": "Can I see Gosaikunda in one day?", "a": "Only by helicopter. A Kathmandu–Gosaikunda helicopter yatra takes about 2.5–3 hours door to door, with roughly 35 minutes of flying each way and a short ground stop. On foot, the minimum is a four-day round trip from Kathmandu, and five to six days is more comfortable for acclimatisation."},
+    {"q": "What is the story of Gosaikunda?", "a": "Hindu tradition says Lord Shiva drank the halahala poison that emerged from the churning of the ocean and, to cool his burning throat, thrust his trishul into the mountain, releasing water that formed Gosaikunda. The Trishuli River is linked to that strike. Pilgrims believe a dip here cleanses sins."}
+  ]
+}

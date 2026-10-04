@@ -1,0 +1,132 @@
+{
+  "slug": "tansen",
+  "name": "Tansen",
+  "region": "lumbini",
+  "kind": "hill station",
+  "wiki": "Tansen, Nepal",
+  "image_query": "Tansen Palpa old town Nepal",
+  "lat": 27.8675,
+  "lng": 83.5466,
+  "altitude_m": 1350,
+  "tagline": "Newar hill town of Dhaka cloth and brass, 3 hours above Lumbini",
+  "meta_description": "Tansen (Palpa) travel guide: old town walk, Dhaka weaving, Srinagar hill Himalayan views, Rani Mahal, Bhagwati Jatra, hotels and how to reach from Lumbini.",
+  "summary": "Tansen, the hill capital of Palpa district at 1,350 m, is a Newar trading town of steep cobbled lanes, pagoda temples and handloom workshops weaving Dhaka cloth. It lies about 90 km and 3 hours north of Lumbini on the Siddhartha Highway, and makes the natural cool-air stop between Lumbini and Pokhara.",
+  "intro": [
+    "Tansen spreads over a ridge on the Mahabharat range at about 1,350 m, high enough to escape the Terai heat but low enough to stay green all year. It was once the seat of the Sen kings of Palpa, one of the strongest hill states before Nepal's unification, and later a garrison and trading town on the route between the Indian plains and the hills. Newar merchants from the Kathmandu Valley settled here, and their three-storey brick houses with carved wooden windows still line the lanes around Asan Tole and Shitalpati.",
+    "The town is known across Nepal for two crafts. Palpali Dhaka is a tightly woven, geometric-patterned cotton cloth used for the traditional topi cap and women's shawls, still made on wooden handlooms in small workshops. Palpali karuwa, a heavy brass water jug, is cast by metalworking families. Above the town, Srinagar hill rises to a pine-covered ridge with a viewpoint that, on clear winter mornings, takes in a long sweep of the Himalaya from Dhaulagiri and the Annapurnas east towards Ganesh Himal.",
+    "Most travellers spend one or two nights. A first afternoon covers the old town on foot: Tansen Durbar with its giant Baggi Dhoka gate, Amar Narayan Temple, the Bhagwati Temple and the octagonal Shitalpati pavilion. The next morning is for the Srinagar sunrise and a Dhaka workshop, or a half-day trip down to Rani Mahal, the Rana palace on the Kali Gandaki. Tansen fits neatly between Lumbini and Pokhara, cutting a 7–8 hour drive into two easy halves."
+  ],
+  "facts": [
+    ["Altitude", "1,350 m"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 65 km · 2 h)"],
+    ["From Kathmandu", "≈ 300 km · 8–9 h by road, or fly to Bhairahawa and drive 2 h"],
+    ["Known for", "Dhaka weaving, Newar old town, Srinagar hill views, Rani Mahal"]
+  ],
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Old town lanes and Newar houses", "text": "Steep stone-paved lanes climb from the bus park to Asan Tole and Shitalpati, lined with brick houses, carved windows and small shops selling brass, spices and Dhaka. Cars are few in the upper town, so it is a pleasant walk of two to three hours with temple stops."},
+    {"title": "Tansen Durbar and Baggi Dhoka", "text": "The old governor's palace sits behind Baggi Dhoka, a massive wooden gateway said to be the largest in Nepal, built wide enough for an elephant with a rider. The palace was badly damaged in 2006 during the conflict and has since been rebuilt."},
+    {"title": "Amar Narayan Temple", "text": "A three-tiered pagoda temple built in 1806 by Amar Singh Thapa, with carved roof struts and a quiet courtyard. It is considered one of the finest pagoda temples outside the Kathmandu Valley and sits a short walk east of the town centre."},
+    {"title": "Srinagar hill sunrise", "text": "A 30–45 minute walk through pine forest leads up from town to the Srinagar ridge. On clear mornings from October to March the view runs along the Himalaya from Dhaulagiri past the Annapurnas, with the Madi and Kali Gandaki valleys below in mist."},
+    {"title": "Dhaka handloom workshops", "text": "Small family workshops and a few larger weaving units in Tansen still produce Palpali Dhaka on wooden looms. Weavers pick out each coloured pattern by hand, and a topi length can take a full day. Visits can be arranged, and fabric is sold by the metre."},
+    {"title": "Rani Mahal on the Kali Gandaki", "text": "Built in 1893 by Khadga Shumsher Rana in memory of his wife, this white palace stands on the bank of the Kali Gandaki below Tansen. It is reached by a long walk down or a jeep road, and the setting by the river is the main draw."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini drive via Bhairahawa and Butwal, then up the Siddhartha Highway to the Bartung junction and the short link road to Tansen: ≈ 90 km · 2.5–3 h. From Pokhara the same highway runs south via Syangja, ≈ 120 km · 4.5–5 h. Local buses run frequently from Butwal, about 1.5–2 h."},
+    {"mode": "Air", "text": "The nearest airport is Gautam Buddha International Airport in Bhairahawa, served by 35-minute flights from Kathmandu. From the airport it is ≈ 65 km and about 2 hours by car to Tansen."},
+    {"mode": "Road", "text": "From Kathmandu, the road runs via Mugling and Narayanghat to Butwal, then up to Tansen, ≈ 300 km · 8–9 h. Many travellers break the journey at Chitwan or reach Tansen from Pokhara instead. Highway works can change timings, so check current status before you travel."}
+  ],
+  "where_to_stay": "Tansen has a small choice of hotels and no large resorts. Hotel Srinagar, the town's long-running 3-star property, sits on the Srinagar hill road about 1.2 km above the centre, with a garden and mountain views on clear days; it is where we place most guests. In the old town, a handful of simple hotels and guesthouses around the bus park and Shitalpati put you within a few minutes' walk of the temples and the evening market, though rooms are basic. Book ahead for August, when the Bhagwati Jatra fills the town, and for Nepali holiday weekends in October.",
+  "stays": ["hotel-srinagar-tansen"],
+  "tips": [
+    "Wear shoes with good grip, as the old town lanes are steep and the stone paving is slippery after rain.",
+    "Start the Srinagar hill walk by 5.45 am in winter to reach the ridge before sunrise and before the haze builds.",
+    "Buy Dhaka directly from workshops or the weavers' shops on the main lanes, and ask whether it is handloom or machine-made.",
+    "Evenings in December and January drop to 4–6 °C, so pack a fleece even if you came up from a hot Lumbini day.",
+    "Allow half a day for Rani Mahal, since the walk back up from the Kali Gandaki is a climb of roughly 800 m."
+  ],
+  "themes": ["cultural-tours", "photography", "short-breaks", "festivals", "budget-nepal"],
+  "nearby": ["ranighat-durbar", "butwal", "lumbini", "devdaha"],
+  "experiences": [
+    {
+      "slug": "tansen-dhaka-weaving-workshop-visit",
+      "title": "Tansen Dhaka weaving workshop visit",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Weekday mornings, all year",
+      "price_hint": "Free to visit; fabric from ≈ ₹600 per metre",
+      "image_query": "Dhaka fabric handloom Palpa Nepal",
+      "wiki": "",
+      "summary": "Watch Palpali Dhaka being woven on wooden handlooms in a Tansen workshop, learn how the geometric patterns are picked out thread by thread, and buy cloth, topis or shawls straight from the makers.",
+      "body": [
+        "Dhaka is a dense cotton cloth woven with coloured geometric patterns, most famously used for the Dhaka topi, the cap worn on formal occasions across Nepal. Dhaka is woven in several hill districts today, but Palpali Dhaka from Tansen is still the name most Nepalis ask for. Weaving happens in family homes and a few small units within walking distance of the old town, and we visit one that welcomes small groups.",
+        "Inside, you see warping, the wooden frame looms and the weaver's slow work of inserting each coloured weft by hand to build up the pattern. A strip wide enough for one topi can take most of a day. The weavers explain how to tell handloom cloth from machine copies: look at the back of the fabric, where hand-woven Dhaka shows small loose ends at each colour change.",
+        "Visits last about 90 minutes with time to buy. Prices depend on thread count and pattern, roughly ₹600–1,500 per metre for handloom, with shawls and ready-made topis also on sale. Workshops close on Saturdays and during festivals, so we confirm a day ahead. Please ask before photographing weavers at work."
+      ],
+      "good_for": ["couples", "families", "photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "What is Palpali Dhaka?", "a": "Palpali Dhaka is hand-woven Dhaka cloth from Tansen in Palpa district. It is a dense cotton fabric with geometric patterns in red, black, orange and other colours, used for the national Dhaka topi, shawls, blouses and bags. Tansen's workshops are considered the traditional home of the craft in Nepal."},
+        {"q": "How much does Dhaka cloth cost in Tansen?", "a": "Handloom Dhaka in Tansen usually costs about ₹600–1,500 per metre, depending on cotton quality, pattern density and colours. Ready-made topis cost less than a metre of fine cloth, and shawls cost more. Machine-made copies are cheaper, so ask to see the reverse side before you buy."},
+        {"q": "Can we try weaving ourselves?", "a": "Some workshops let visitors sit at a loom for a few minutes and pass the shuttle under a weaver's guidance. It is a short taster, not a class. If you want a longer session, tell us when booking and we will ask the workshop in advance; a tip for the weaver's time is appreciated."}
+      ]
+    },
+    {
+      "slug": "tansen-srinagar-hill-sunrise-walk",
+      "title": "Srinagar hill sunrise walk above Tansen",
+      "kind": "hiking",
+      "duration": "2.5 hours",
+      "best_time": "Sunrise, Oct–Mar",
+      "price_hint": "Included in our Tansen packages",
+      "image_query": "Srinagar hill Tansen Himalaya view",
+      "wiki": "",
+      "summary": "A pre-dawn climb of 30–45 minutes through pine forest from Tansen to the Srinagar ridge, for sunrise over a long line of Himalayan peaks from Dhaulagiri to the Annapurnas, then a slow descent through the old town for tea.",
+      "body": [
+        "We leave the hotel in the dark with torches and climb the stone steps and forest path to the Srinagar ridge, a gain of about 250 m. The trail is wide and well used by local walkers, with benches near the top. There is a small viewpoint tower and a temple on the ridge, and pine trees frame the northern view.",
+        "On clear mornings, which are most common from October to February, the sun lights the high peaks one by one: Dhaulagiri to the north-west, then the Annapurna massif and Machhapuchhre, with lower ridges stepping down into the Kali Gandaki valley. In spring the mountains are often lost in haze by 8 am, so the first hour after sunrise matters most.",
+        "We walk down a different path into the old town, arriving as shops open and the morning tea stalls start up around Shitalpati. The whole outing takes about 2.5 hours. Wear a warm layer, since it is 5–8 °C before sunrise in winter, and closed shoes for the steps."
+      ],
+      "good_for": ["photographers", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "Can you see the Himalaya from Tansen?", "a": "Yes, on clear days. From Srinagar hill above Tansen the view takes in Dhaulagiri, the Annapurna range and Machhapuchhre, with more distant peaks to the east. Visibility is best from October to February at sunrise. From April onward, dust and haze often hide the mountains by mid-morning."},
+        {"q": "How hard is the walk up Srinagar hill?", "a": "It is an easy to moderate climb of about 250 m on steps and a wide forest path, taking 30–45 minutes at a steady pace. Anyone who can climb several flights of stairs can manage it with rests. Seniors can be driven most of the way up the road and walk the final few minutes."},
+        {"q": "Is there a road to the Srinagar viewpoint?", "a": "Yes. A road climbs from Tansen towards the Srinagar ridge, passing Hotel Srinagar, and cars can drive most of the way. From the end of the road it is a short walk to the viewpoint. This suits anyone with knee problems who still wants the sunrise."}
+      ]
+    },
+    {
+      "slug": "tansen-old-town-heritage-walk",
+      "title": "Tansen old town and temples on foot",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "Late afternoon, all year except heavy-rain days",
+      "price_hint": "≈ ₹2,000 per group for a local guide",
+      "image_query": "Amar Narayan temple Tansen",
+      "wiki": "",
+      "summary": "A three-hour walk through Tansen's steep lanes: Baggi Dhoka and Tansen Durbar, Amar Narayan Temple from 1806, the Bhagwati Temple, Shitalpati's octagonal pavilion, brass workshops and the evening bazaar at Asan Tole.",
+      "body": [
+        "The walk starts at Tansen Durbar, the rebuilt governor's palace, entered through the huge Baggi Dhoka gate. From there we head to the Bhagwati Temple, raised in 1815 to mark a victory over British forces in the Anglo-Nepal war and the focus of the town's August chariot festival. Shitalpati, an open square with an octagonal pavilion at its centre, is where locals gather in the evening and where most lanes meet.",
+        "East of the centre, the Amar Narayan Temple stands in its own walled courtyard. Built in 1806 by Amar Singh Thapa, it has three tiered roofs and carved struts showing deities. Nearby are small shrines to Bhimsen and Mahalaxmi and a stone water spout still in use. On the way back we pass brass and copper workshops where karuwa jugs are hammered and polished.",
+        "We finish in the lanes around Asan Tole as shops light up, with time to try local snacks such as sel roti and samosa with chutney. The town is built on a slope, so the walk includes short steep climbs; total distance is around 4 km. Temples are active places of worship, so remove shoes where asked and walk clockwise around shrines."
+      ],
+      "good_for": ["couples", "families", "photographers", "groups", "first-timers"],
+      "faqs": [
+        {"q": "What are the main sights in Tansen?", "a": "The essentials are Tansen Durbar with its Baggi Dhoka gate, Amar Narayan Temple, the Bhagwati Temple, the Shitalpati square and the Asan Tole bazaar, all on foot within the old town. Add Srinagar hill for sunrise views and Rani Mahal on the Kali Gandaki if you have a second day."},
+        {"q": "Is Tansen good for elderly travellers?", "a": "Tansen suits seniors who walk slowly, but the old town is steep, with stone lanes and steps. We plan the heritage walk downhill where possible and keep a car on standby for the climbs. Srinagar hill can be reached mostly by road. Avoid the monsoon months, when paving becomes slippery."},
+        {"q": "Do we need a guide in Tansen?", "a": "A guide is not essential, since the old town is compact. A local guide does add the history behind the temples and the Palpa kingdom, and can open doors to workshops that do not have signs outside. We include a guide in our Tansen packages; independent travellers pay about ₹2,000 per group."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Tansen worth visiting?", "a": "Yes, especially if you are driving between Lumbini and Pokhara. Tansen offers a cool, walkable Newar town with few tourists, genuine Dhaka weaving, an 1806 pagoda temple and Himalayan views from Srinagar hill. One night breaks a long drive into two easy days; two nights add Rani Mahal on the Kali Gandaki."},
+    {"q": "How far is Tansen from Lumbini?", "a": "About 90 km, which takes 2.5–3 hours by car. The route goes from Lumbini to Bhairahawa, north to Butwal, then up the Siddhartha Highway to the Bartung junction and the short link road into Tansen. The hill section is winding, so carry motion-sickness tablets if you need them."},
+    {"q": "How far is Tansen from Pokhara?", "a": "About 120 km on the Siddhartha Highway via Syangja and Waling, normally 4.5–5 hours by car. The road follows river valleys and crosses several ridges with good views. Landslides can close sections during the monsoon, so check current status before you travel between June and September."},
+    {"q": "What is the weather like in Tansen?", "a": "At 1,350 m Tansen is mild. Winter days are 15–20 °C with nights of 4–8 °C and frequent morning fog in the valleys. Spring warms to 25–30 °C. The monsoon from June to September brings heavy rain and cloud. October and November offer the clearest mountain views."},
+    {"q": "What is Tansen famous for?", "a": "Tansen is famous for Palpali Dhaka, the hand-woven cloth used in Nepal's national topi cap, and for brass karuwa water jugs. It is also known for its Newar old town, the Amar Narayan Temple, Tansen Durbar's Baggi Dhoka gate, the August Bhagwati Jatra and Himalayan views from Srinagar hill."},
+    {"q": "Can I visit Tansen as a day trip from Lumbini?", "a": "It is possible but tiring: about six hours of driving for the round trip, leaving only three or four hours in town. You would see the old town and perhaps a weaving workshop, but miss sunrise on Srinagar hill. We recommend at least one night, ideally on the way to or from Pokhara."},
+    {"q": "Where should I stay in Tansen?", "a": "Hotel Srinagar is the main mid-range choice, set on the Srinagar hill road about 1.2 km above the centre with gardens and mountain views. The old town has smaller, simpler hotels near the bus park and Shitalpati. Book ahead for the August Bhagwati Jatra and Nepali holiday weekends."},
+    {"q": "How do I get from Tansen to Rani Mahal?", "a": "Rani Mahal is on the Kali Gandaki below Tansen. You can walk down on a village trail in about 2.5–3 hours, then walk back up or arrange a jeep, since the return climb is roughly 800 m. A jeep road also reaches the palace area. Allow at least half a day."},
+    {"q": "When is the Bhagwati Jatra in Tansen?", "a": "The Bhagwati Jatra falls on the day after Krishna Janmashtami, usually in August or early September. A chariot carrying the goddess is pulled through Tansen's lanes to mark the 1815 victory over British forces. Dates follow the lunar calendar, so check current status before you travel."}
+  ]
+}

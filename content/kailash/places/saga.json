@@ -1,0 +1,130 @@
+{
+  "slug": "saga",
+  "name": "Saga",
+  "region": "kailash",
+  "kind": "city",
+  "wiki": "Saga County",
+  "image_query": "Saga town Tibet Yarlung Tsangpo",
+  "lat": 29.33,
+  "lng": 85.23,
+  "altitude_m": 4640,
+  "tagline": "Plateau junction town at ≈ 4,640 m on the road to Kailash",
+  "meta_description": "Saga (≈ 4,640 m), the overland stop between Kyirong and Manasarovar: altitude, drive times, Pelku Tso, Yarlung Tsangpo, hotels and acclimatisation advice.",
+  "summary": "Saga is a county town at about 4,640 m on the Tibetan plateau, where the road from Kyirong meets the highway west to Kailash. Overland yatris usually stay one night each way. It is the first high night on the route, so headaches and poor sleep are common; rest, water and an early dinner help.",
+  "intro": [
+    "Saga lies on a wide plain near the Yarlung Tsangpo, the river that becomes the Brahmaputra in India. It is a functional town of low concrete buildings, petrol stations, hotels, shops and government offices, built around the junction of the Kyirong road and the main highway that runs west across Ngari towards Kailash and east towards Lhatse and Shigatse. Almost every overland Kailash group stops here.",
+    "The drive up from Kyirong is the biggest single climb of the overland route: from about 2,700 m to about 4,640 m in 5–6 hours, over passes above 5,000 m and past the turquoise lake of Pelku Tso with Shishapangma (8,027 m) behind it. That is why many itineraries give two nights in Kyirong first, and why we watch oxygen readings closely on the evening in Saga.",
+    "On the way back from Kailash, Saga is again the overnight stop, often after a long day from Manasarovar. The town has heated hotels with private bathrooms, Sichuan and Tibetan restaurants and supermarkets, which feel generous after the lake and the kora. Road conditions and checkpoints change; check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 4,640 m"],
+    ["Best months", "May – Jun · Sep"],
+    ["Nights we suggest", "1 each way"],
+    ["Nearest airport", "Shigatse Peace (≈ 450 km)"],
+    ["From Kathmandu", "≈ 2 days overland via Kyirong"],
+    ["Known for", "Junction town, Pelku Tso, Yarlung Tsangpo"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Pelku Tso and Shishapangma", "text": "On the drive from Kyirong, the road skirts Pelku Tso, a large lake at about 4,590 m, with the 8,027 m Shishapangma rising behind it. It is the first big plateau view of the journey and a favourite photo stop."},
+    {"title": "The Yarlung Tsangpo", "text": "Near Saga the road crosses the Yarlung Tsangpo, the upper Brahmaputra, broad and braided across gravel flats. For Indian pilgrims it is a moving sight: the same river reaches Assam well over 1,500 km downstream."},
+    {"title": "First night on the plateau", "text": "Saga is where the body first meets serious altitude. Guides check oxygen saturation and pulse in the evening, and the group eats early, drinks plenty and sleeps with the window cracked for fresh air."},
+    {"title": "Hot food and a heated room", "text": "Compared with the lake and the kora, Saga's hotels are comfortable, with heated rooms and hot showers, and its restaurants serve noodles, rice and vegetable dishes. On the return, it feels like a reward."},
+    {"title": "Gateway to the Ngari highway", "text": "West of Saga the road runs for hundreds of kilometres across open grassland via Zhongba and Paryang, with nomad tents, yak herds and the Mayum La pass at about 5,200 m before Manasarovar."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Kyirong to Saga is about 250 km (5–6 h) on a paved mountain road. Saga to Manasarovar is about 480 km (8–9 h) via Zhongba, Paryang and Mayum La. Saga to Shigatse is about 450 km (7–8 h) via Lhatse."},
+    {"mode": "Air", "text": "There is no airport at Saga. The nearest are Shigatse Peace airport to the east and Ngari Gunsa airport to the far west; both are a day's drive or more away and used only on itineraries arranged from Lhasa."}
+  ],
+  "where_to_stay": "Saga has a dozen or more mid-range Chinese-run hotels of roughly 2-star to 3-star standard, with heated rooms, attached bathrooms and hot water in the evenings, plus smaller Tibetan guesthouses. Rooms are clean and simple; some hotels offer oxygen supply in rooms. Because names and standards change and we cannot confirm a specific property for future seasons, we do not list one here; our partner books the best available rooms, twin sharing.",
+  "stays": [],
+  "tips": [
+    "Eat a light dinner early and avoid heavy, oily food on the first night at 4,640 m.",
+    "Drink 3–4 litres of water through the day of the Kyirong–Saga drive.",
+    "Tell your guide about any headache, vomiting or unusual breathlessness, even if it seems minor.",
+    "Keep a warm layer and water in the vehicle; long drives cross passes above 5,000 m.",
+    "Use the hotel shower in Saga; the next two or three nights have limited hot water."
+  ],
+  "themes": ["kailash-yatra", "overland-from-india"],
+  "nearby": ["kyirong", "lake-manasarovar", "shigatse"],
+  "experiences": [
+    {
+      "slug": "saga-pelku-tso-shishapangma-viewpoint",
+      "title": "Pelku Tso and Shishapangma viewpoint",
+      "kind": "nature",
+      "duration": "30–60 minutes stop",
+      "best_time": "Midday on the Kyirong–Saga drive",
+      "price_hint": "Included in Kerung-route yatras",
+      "image_query": "Pelku Tso Shishapangma Tibet",
+      "wiki": "Lake Pelku",
+      "summary": "A stop at Pelku Tso, a wide plateau lake at about 4,590 m, with the snow wall of Shishapangma (8,027 m) to the south. It comes midway on the Kyirong–Saga drive, the first big view of Tibet's open highlands.",
+      "body": [
+        "After climbing out of the forested Kyirong valley past Gyirong county town, the road crosses passes above 5,000 m and drops onto a high basin. Pelku Tso spreads across it, often a deep turquoise under a clear sky, with grassy shores where nomads graze yaks and sheep in summer. To the south rises Shishapangma, the only 8,000 m peak entirely inside Tibet, and the Jugal and Langtang ranges.",
+        "Drivers usually stop at a viewpoint near the road for photographs. Step out slowly; you are at around 4,600 m, and many pilgrims feel the altitude here for the first time. The wind can be biting even on a sunny day, so take a jacket and hat.",
+        "The stop lasts half an hour to an hour, then the drive continues across the plain to Saga, reached by late afternoon. If you feel dizzy or nauseous, sit in the vehicle, drink water and tell your guide."
+      ],
+      "good_for": ["photographers", "pilgrims", "families"],
+      "faqs": [
+        {"q": "What is the altitude of Pelku Tso?", "a": "Pelku Tso (also spelled Paiku Tso) lies at about 4,590 m, roughly the same height as Lake Manasarovar. It is passed on the drive between Kyirong and Saga. Many pilgrims feel the altitude for the first time here, so move slowly when you leave the vehicle."},
+        {"q": "Can I see Shishapangma from the Kailash road?", "a": "Yes, on clear days Shishapangma (8,027 m) is visible to the south of Pelku Tso on the drive from Kyirong to Saga. It is the lowest of the fourteen 8,000 m peaks and the only one entirely within Tibet. Morning and midday usually give the clearest views."},
+        {"q": "How long is the drive from Kyirong to Saga?", "a": "About 250 km and 5–6 hours on a paved road, including photo stops at Pelku Tso. The route climbs from about 2,700 m to passes above 5,000 m before Saga at about 4,640 m. It is the biggest altitude gain of the overland route."}
+      ]
+    },
+    {
+      "slug": "saga-yarlung-tsangpo-riverbank",
+      "title": "Yarlung Tsangpo, the upper Brahmaputra",
+      "kind": "nature",
+      "duration": "30–45 minutes",
+      "best_time": "Late afternoon",
+      "price_hint": "",
+      "image_query": "Yarlung Tsangpo river Saga bridge",
+      "wiki": "Yarlung Tsangpo",
+      "summary": "A short stop or evening walk to see the Yarlung Tsangpo near Saga, the river that flows east across Tibet and becomes the Brahmaputra in India. Pilgrims often offer prayers or collect a little water.",
+      "body": [
+        "The Yarlung Tsangpo rises in the glaciers south-east of Manasarovar and flows east for more than 1,500 km across southern Tibet before turning south through a great gorge into Arunachal Pradesh, where it becomes the Siang and then the Brahmaputra. Near Saga it is a wide, braided river crossing gravel flats, crossed by a road bridge.",
+        "For many Indian pilgrims, seeing the source region of the Brahmaputra, as well as the Sutlej, Indus and Karnali nearer Kailash, is part of the meaning of the yatra. Some offer flowers or prayers, others simply watch the light on the water. In June the river runs grey with snowmelt; in September it is often clearer.",
+        "Your guide will choose a safe spot to stop. Do not walk onto gravel bars or into the water; currents are strong and cold. Photography of the river is fine, but avoid bridges with security posts."
+      ],
+      "good_for": ["pilgrims", "photographers", "families"],
+      "faqs": [
+        {"q": "Is the Yarlung Tsangpo the same as the Brahmaputra?", "a": "Yes. The Yarlung Tsangpo flows east across southern Tibet, cuts through a deep gorge around Namcha Barwa, and enters India in Arunachal Pradesh as the Siang, becoming the Brahmaputra in Assam. Near Saga it is still a high plateau river at about 4,500 m."},
+        {"q": "Which rivers start near Mount Kailash?", "a": "Four great rivers rise in the Kailash–Manasarovar region: the Indus to the north, the Sutlej to the west, the Karnali to the south and the Yarlung Tsangpo (Brahmaputra) to the east. Their sources lie within about 100 km of the mountain, which adds to its sacred status."},
+        {"q": "Can I collect water from the Brahmaputra at Saga?", "a": "Many pilgrims collect a small bottle as a keepsake. Stay on firm ground at a spot your guide chooses, since the river is fast and cold. Carry it in a sealed bottle in checked luggage, and remember airline liquid rules for the flight home."}
+      ]
+    },
+    {
+      "slug": "saga-evening-food-stop",
+      "title": "Saga evening and noodle supper",
+      "kind": "food",
+      "duration": "1–2 hours",
+      "best_time": "Evening",
+      "price_hint": "Meals ≈ CNY 30–60",
+      "image_query": "Tibetan noodle soup thukpa restaurant",
+      "wiki": "",
+      "summary": "A simple evening in Saga: a hot meal of noodles, rice and vegetables or a vegetarian dinner from the group's cook, a short walk on the main street and an early night to help the body adjust at about 4,640 m.",
+      "body": [
+        "Saga's main street has Sichuan restaurants, Tibetan teahouses and small supermarkets. Tibetan thukpa (noodle soup), vegetable fried rice and steamed bread are easy on the stomach at altitude. Our Kailash groups usually eat an Indian vegetarian dinner prepared by the support crew, with dal, rice, vegetables and soup.",
+        "After dinner, a short walk of 15–20 minutes along the street helps digestion and breathing. Keep it slow, wear a warm jacket and hat, and stay together. Evening temperatures in June drop to around 0–5 °C. The shops sell water, biscuits and fruit if you need to restock.",
+        "Back at the hotel, the guide checks everyone's pulse and oxygen saturation. Go to bed early, keep a bottle of water by the bed and sleep with your head slightly raised. Saga is often the night pilgrims sleep worst; it usually improves after that."
+      ],
+      "good_for": ["pilgrims", "groups", "families"],
+      "faqs": [
+        {"q": "What food is available in Saga Tibet?", "a": "Sichuan and Tibetan restaurants serve noodles, rice, vegetable dishes, thukpa and steamed bread. Vegetarian food is available if you ask. Our Kailash groups have support staff who cook Indian vegetarian meals with dal, rice and vegetables from Saga onwards."},
+        {"q": "Why do I sleep badly in Saga?", "a": "At about 4,640 m the air holds much less oxygen, and breathing can become irregular at night. Poor sleep and mild headache are common on the first high night. Drink plenty of water, avoid alcohol and sleeping pills, and tell your guide if symptoms are severe or worsen."},
+        {"q": "Can I buy supplies in Saga?", "a": "Yes. Supermarkets sell water, biscuits, instant noodles, fruit and basic toiletries, and some shops sell warm clothing. It is the last sizeable town before Manasarovar, about 480 km west, so buy what you need for the lake days here."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Saga in Tibet?", "a": "Saga town is at about 4,640 m (15,200 ft). It is the first high-altitude night on the overland Kailash route, about 1,900 m above Kyirong, so headaches and poor sleep are common. Two nights in Kyirong beforehand make the jump easier."},
+    {"q": "How far is Saga from Lake Manasarovar?", "a": "About 480 km by road, normally 8–9 hours via Zhongba, Paryang and the Mayum La pass at about 5,200 m. Some itineraries break the journey with a night at Paryang, which adds a day but reduces fatigue."},
+    {"q": "How far is Saga from Kyirong?", "a": "About 250 km, 5–6 hours on a paved road that climbs past Gyirong county town and Pelku Tso over passes above 5,000 m. It is a scenic but tiring day with a large altitude gain."},
+    {"q": "Are there good hotels in Saga?", "a": "Saga has simple 2-star to 3-star hotels with heated rooms, attached bathrooms and hot water, some with room oxygen. They are plain but comfortable, and much better than lodgings at Manasarovar or on the kora. No international chains operate there."},
+    {"q": "Do Kailash groups stop in Saga on the way back?", "a": "Yes, on the overland route most groups spend a night in Saga on the return too, after a long drive from Manasarovar or Darchen, then continue to Kyirong. The descent makes the second night in Saga easier than the first."},
+    {"q": "Is there a hospital in Saga?", "a": "Saga has a county hospital with basic services and oxygen. Serious emergencies may need transfer to Shigatse or Lhasa, a long drive away. Our groups carry oxygen, a pulse oximeter and a first-aid kit, and insurance with evacuation cover is essential."},
+    {"q": "What is the weather like in Saga?", "a": "Saga is dry, sunny and windy. In June days reach about 12–18 °C and nights fall to around 0–3 °C. In September nights can drop below freezing. Afternoon wind is strong. Pack sunscreen, sunglasses, lip balm and warm layers."},
+    {"q": "Can I skip Saga on the Kailash route?", "a": "On the Kyirong route, Saga is the only practical stop between the border and Manasarovar. Itineraries from Lhasa reach Saga from the east via Lhatse. The heli route via Hilsa and Purang avoids Saga altogether."},
+    {"q": "Is there mobile network and Wi-Fi in Saga?", "a": "Yes, hotels have Wi-Fi and Chinese networks cover the town, but many foreign apps are blocked in China and Indian SIMs rarely roam. Plan your family contact accordingly, perhaps through the guide's phone in an emergency."}
+  ]
+}

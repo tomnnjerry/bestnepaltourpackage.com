@@ -1,0 +1,132 @@
+{
+  "slug": "poon-hill",
+  "name": "Poon Hill",
+  "region": "annapurna",
+  "kind": "viewpoint",
+  "wiki": "Poon Hill",
+  "image_query": "Poon Hill sunrise Dhaulagiri view",
+  "lat": 28.4000,
+  "lng": 83.6880,
+  "altitude_m": 3210,
+  "tagline": "Sunrise over Dhaulagiri and Annapurna from 3,210 m",
+  "meta_description": "Poon Hill guide: 3,210 m sunrise viewpoint above Ghorepani with Dhaulagiri, Annapurna South and Machhapuchhre, a 45–60 min climb before dawn.",
+  "summary": "Poon Hill (3,210 m) is the sunrise viewpoint above Ghorepani and the high point of Nepal's most popular short trek. A 45–60 minute climb before dawn brings you to a grassy summit and wooden watchtower facing Dhaulagiri (8,167 m), Annapurna South, Hiunchuli and the fishtail peak of Machhapuchhre.",
+  "intro": [
+    "Poon Hill is not a village and has no lodges. It is a rounded summit at 3,210 m, one ridge above Ghorepani, cleared of forest on top and crowned by a wooden viewing tower and a few tea stalls. The hill takes its name from the Pun clan of Magars who live below it. On a clear October morning between 300 and 600 people stand here at once, which tells you how good the view is and also how early you should leave.",
+    "The panorama runs about 180 degrees from west to east. Dhaulagiri I (8,167 m) and Tukuche Peak dominate the left, separated from the Annapurna massif by the Kali Gandaki gorge, the deepest in the world by some measurements. Nilgiri and Annapurna I (8,091 m) sit in the middle distance, then Annapurna South (7,219 m), Hiunchuli (6,441 m), Machhapuchhre (6,993 m) and, on the clearest days, Lamjung Himal far to the east.",
+    "Most trekkers reach Poon Hill on the Ghorepani Poon Hill trek, a loop of four or five days from Pokhara that stays below 3,300 m. That low ceiling makes it the first Himalayan trek for many Indian families and international first-timers, and a common add-on to longer routes such as Khopra Danda or the old Jomsom trail. Our four-day version from Pokhara starts at ₹29,000 or US$340 per person, permits and guide included."
+  ],
+  "facts": [
+    ["Altitude", "3,210 m"],
+    ["Best months", "Oct – Dec · Mar – Apr"],
+    ["Nights we suggest", "0 (stay in Ghorepani)"],
+    ["Nearest airport", "Pokhara International Airport, then jeep and 1–2 days' walk"],
+    ["From Kathmandu", "≈ 25 min flight to Pokhara + jeep 2.5–3.5 h + 5–6 h walk to Ghorepani"],
+    ["Known for", "Sunrise panorama, Dhaulagiri, watchtower, first Himalayan trek"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Sunrise on Dhaulagiri", "text": "The first light hits Dhaulagiri I (8,167 m) a few minutes before the sun clears the eastern ridge. The summit glows pink, then gold, while the valleys below stay dark blue. In late October sunrise is around 6:05 am, so arriving by 5:45 am gives you the whole show."},
+    {"title": "Wooden watchtower", "text": "A three-level wooden tower on the summit lifts you above the crowd and the tea stall roofs. It gets crowded in the 20 minutes around sunrise, so climb it first and then step back to the edge of the clearing, where the view of Annapurna South is just as clear."},
+    {"title": "Machhapuchhre's fishtail", "text": "From most of Pokhara you see Machhapuchhre (6,993 m) face-on as a single pyramid. From Poon Hill the angle shows hints of its twin summit, the 'fish tail' that gives it its name. The mountain is sacred and has never been officially climbed."},
+    {"title": "More than a dozen named summits", "text": "On a clear morning you can pick out more than a dozen named summits, including Dhaulagiri, Tukuche, Nilgiri, Annapurna I, Annapurna South, Hiunchuli, Lamjung Himal and Machhapuchhre. Your guide will name them; a free offline peak-finder app on your phone also helps settle arguments."},
+    {"title": "Hot drinks at the top", "text": "Small stalls on the summit sell tea, coffee and hot chocolate for about NPR 150–300, which is welcome when the temperature is near freezing. Bring your own cup if you can, since disposable cups add to the litter that ACAP rangers carry down every week."},
+    {"title": "The descent in daylight", "text": "Walking back down after sunrise, you finally see the forest you climbed through in the dark: moss-covered oaks, rhododendrons and long views back to Ghorepani's roofs. The descent takes 30–40 minutes, leaving time for breakfast before the day's walk to Tadapani."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "The only way up is on foot from Ghorepani (2,874 m): a stone and dirt staircase of about 336 m height gain that takes 45–60 minutes for most people, 30 minutes for fit walkers. The trail starts from the upper village by a ticket gate. Use a head torch, as the path is unlit."},
+    {"mode": "Road", "text": "No road reaches Poon Hill. The nearest jeep access is Ulleri or Hile, ≈ 2.5–3.5 h from Pokhara on a rough road, followed by a 5–6 hour walk to Ghorepani and the climb next morning. From Kathmandu, add a 25-minute flight or a 6–8 hour drive to Pokhara."},
+    {"mode": "Helicopter", "text": "Helicopters do not land on Poon Hill itself. Some Pokhara operators fly scenic loops past the ridge, and charters can land near Ghorepani in clear weather, usually before 10 am when cloud builds. These are rare requests; check current status before you travel."}
+  ],
+  "where_to_stay": "There is nowhere to sleep on Poon Hill, so every visitor stays in Ghorepani and climbs before dawn. For the shortest climb, book a lodge in upper Ghorepani close to the ticket gate; this saves about 10 minutes compared with the lower village around the ACAP checkpoint. Lodges in the upper cluster also have terraces facing Dhaulagiri, useful if cloud spoils the sunrise and clears in the evening instead. Tadapani, 5–6 hours east, has a second group of simple lodges with a close view of Annapurna South for the following night.",
+  "stays": [],
+  "tips": [
+    "Leave Ghorepani by 5 am in October and November, or 5:15 am in December, to reach the top before sunrise.",
+    "Wear gloves, a hat and a down jacket, as it can be −5 °C on the summit in winter and windy even in spring.",
+    "Keep small notes ready for the entry ticket at the gate, which is a modest fee that changes from season to season.",
+    "If the morning is cloudy, wait 20–30 minutes before giving up, because cloud often clears soon after sunrise.",
+    "Carry spare camera batteries in an inside pocket, since cold drains them quickly at 3,210 m."
+  ],
+  "themes": ["trekking", "photography", "family-holidays", "short-breaks"],
+  "nearby": ["ghorepani", "ghandruk", "khopra-danda"],
+  "experiences": [
+    {
+      "slug": "poon-hill-sunrise-hike",
+      "title": "Poon Hill sunrise hike from Ghorepani",
+      "kind": "hiking",
+      "duration": "2.5–3 hours return",
+      "best_time": "Pre-dawn, Oct–Dec and Mar–Apr",
+      "price_hint": "Included in most treks (entry ticket extra)",
+      "image_query": "trekkers Poon Hill sunrise tower",
+      "wiki": "",
+      "summary": "The pre-dawn climb from Ghorepani to Poon Hill is the reason most people walk this trail. Head torches on at 4:45 am, 45–60 minutes of stone steps, then sunrise over Dhaulagiri and the Annapurnas from the 3,210 m summit.",
+      "body": [
+        "Alarms ring across Ghorepani at about 4:30 am. We meet in the lodge dining hall for a quick cup of tea, then walk to the ticket gate above the upper village. From there it is a steady staircase through rhododendron and oak forest, 336 m of height gain in about 1.5 km. The path is wide and well used, but uneven in places and frosty in winter. Most people stop two or three times to catch their breath.",
+        "At the top, the sky lightens behind Machhapuchhre first, then the snow on Dhaulagiri turns pink. Sunrise itself lasts only a few minutes, but the light keeps changing for half an hour as it moves down the faces of Annapurna South and Hiunchuli. We stay 40–60 minutes, long enough to climb the tower, drink a hot chocolate and take photos without rushing. Mornings in October and November are clear on most days.",
+        "There is an entry ticket at the gate, charged by the local community for trail upkeep; the amount is small and has changed over the years, so check current status before you travel. On the way down, look for the forest you missed in the dark. Breakfast is waiting by about 7:30 am, and then the trek continues, usually east to Tadapani or north along the ridge towards Khopra Danda, where far fewer trekkers go."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "couples"],
+      "faqs": [
+        {"q": "What time should I leave Ghorepani for Poon Hill?", "a": "Leave at about 5 am in October and November, 5:15 am in December and January, and 4:45 am in April and May, when the sun rises earlier. That gives 45–60 minutes for the climb plus 10–15 minutes at the top before sunrise. Fast walkers can leave 15 minutes later."},
+        {"q": "Is there an entry fee for Poon Hill?", "a": "Yes. A small ticket is sold at the gate above Ghorepani, collected by the local community for trail and viewpoint maintenance. The amount has varied over the years and is usually a few hundred rupees or less. Carry Nepali cash, and check current status before you travel."},
+        {"q": "Can seniors climb Poon Hill?", "a": "Most active seniors manage it. The climb is only 336 m, and walking slowly for an hour is enough. The challenge is the cold and the darkness, so a guide with a strong torch, trekking poles and warm layers make a real difference. Anyone with heart conditions should consult a doctor first."}
+      ]
+    },
+    {
+      "slug": "poon-hill-mountain-photography-morning",
+      "title": "Photographing the Dhaulagiri and Annapurna line",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Dawn, mid-October to December",
+      "price_hint": "Included in our photography trek",
+      "image_query": "Dhaulagiri Annapurna panorama Poon Hill",
+      "wiki": "",
+      "summary": "Poon Hill is one of the few places in Nepal where a single wide frame holds two 8,000 m peaks. A planned photography morning means arriving early, choosing a spot away from the tower and staying after the crowd leaves for breakfast.",
+      "body": [
+        "Dhaulagiri I (8,167 m) and Annapurna I (8,091 m) stand about 35 km apart with the Kali Gandaki gorge between them, and from Poon Hill both fit in a 24 mm frame. We aim to be on top 30–40 minutes before sunrise, when blue hour light shows the shape of the ridges and the lights of Ghorepani still glow below. A tripod is useful at this stage; the tower shakes when crowded, so set up on the ground.",
+        "For sunrise, a telephoto of 100–200 mm isolates the summit glow on Dhaulagiri and the fluted face of Annapurna South. Expose for the snow, not the foreground, and bracket if your camera's dynamic range is limited. Best months are late October to December, when air is driest. Spring brings haze but adds red rhododendron in the foreground, which many photographers prefer for colour, especially on the trail just below the summit.",
+        "The best light often comes after the crowd leaves, around 7 am, when side light picks out texture on the glaciers and the tower is empty. Our Poon Hill and Khopra photography trek builds in two Poon Hill mornings in case the first is cloudy. Drones need permission from Nepal's civil aviation authority and local approvals, and flying them over crowds is not acceptable; check current status before you travel."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "What lens should I bring to Poon Hill?", "a": "A wide zoom around 16–35 mm covers the full panorama from Dhaulagiri to Machhapuchhre, and a 70–200 mm telephoto lets you isolate single summits and sunrise glow. Phone cameras do well with the panorama mode. Bring a small tripod for blue hour shots before the sun rises."},
+        {"q": "Can I fly a drone at Poon Hill?", "a": "Drones in Nepal need permission from the Civil Aviation Authority of Nepal and, inside the Annapurna Conservation Area, local approvals as well. In practice few trekkers obtain them, and flying over the sunrise crowd is unsafe and unpopular. The rules are revised from time to time, so check current status before you travel."},
+        {"q": "Which month has the clearest view from Poon Hill?", "a": "November and December usually have the clearest, driest air, with sunrise visible on most mornings. October is also good after the monsoon clears, typically from the second week. March and April bring more haze and afternoon cloud but add rhododendron colour to the foreground."}
+      ]
+    },
+    {
+      "slug": "poon-hill-afternoon-and-sunset-visit",
+      "title": "Poon Hill in the afternoon without the crowd",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Oct–Dec",
+      "price_hint": "Entry ticket only",
+      "image_query": "Poon Hill viewpoint tower Annapurna",
+      "wiki": "",
+      "summary": "Most visitors only see Poon Hill at dawn. Climbing again around 4 pm, after a rest in Ghorepani, gives warm side light on Dhaulagiri, a near-empty summit and a sunset that turns the Annapurna snow orange.",
+      "body": [
+        "If you reach Ghorepani by early afternoon, rest for an hour, then climb Poon Hill at about 4 pm. The summit is usually close to empty, with only a few photographers and a tea seller packing up. The sun sits behind you to the west-south-west, lighting the faces of Annapurna South, Hiunchuli and Machhapuchhre directly, which suits photos of the eastern half of the panorama better than sunrise does, when those same peaks are backlit.",
+        "Dhaulagiri faces you side-on at this hour and the light grazes its long ridges, showing the icefall and hanging glaciers. As the sun drops, around 5:15 pm in late October, the snow on the eastern peaks turns orange, then pink, while the valleys fill with shadow. The temperature falls quickly once the sun is gone, so a warm layer and a head torch for the 30-minute walk down are essential.",
+        "Afternoon visits carry a risk: in spring and in early October, cloud often covers the peaks from midday and clears only after dark. In November and December the chance of a clear afternoon is much better. Doing both a sunset and a sunrise visit gives two chances at the view, which is useful if your trek has only one night in Ghorepani. Tell your guide at lunch if you want to try it, so the lodge can hold dinner until about 6:30 pm."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Is Poon Hill good for sunset?", "a": "Yes, in November and December especially. Afternoon light falls directly on Annapurna South, Hiunchuli and Machhapuchhre, and the summit is far quieter than at dawn. In spring and early October, cloud often covers the peaks by afternoon, so sunrise is the more reliable choice in those months."},
+        {"q": "Is it safe to walk down Poon Hill after dark?", "a": "Yes, with a head torch and a guide. The trail is a wide staircase used by hundreds of people each morning, and the walk down takes 30–40 minutes. Steps can be icy in December and January, so trekking poles help. Never walk down alone without a light."},
+        {"q": "Do I need a second ticket for an afternoon visit?", "a": "Usually yes, since the gate ticket is normally valid for one entry. The fee is small, so most trekkers simply pay again. Keep your ticket in case the gatekeeper allows re-entry on the same day; practice varies, so check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Poon Hill?", "a": "Poon Hill is 3,210 m above sea level, about 336 m above Ghorepani village. It is the highest point of the standard Ghorepani Poon Hill trek. At this height altitude sickness is unusual, though climbing quickly before dawn can make some people breathless. Walk slowly and drink water before you start."},
+    {"q": "How long is the Poon Hill trek?", "a": "The usual Poon Hill trek takes four days from Pokhara, or three with jeeps at both ends. From Kathmandu allow six to seven days in total. Our 4-day Ghorepani Poon Hill trek costs from ₹29,000 or US$340 per person, and a 7-day version from Kathmandu starts at ₹52,000 or US$610."},
+    {"q": "How difficult is the Poon Hill trek?", "a": "It is graded moderate. Expect 5–7 hours of walking a day on stone steps and forest trails, with daily height gain of up to 900 m. The highest point is only 3,210 m, so altitude is not a major concern. Regular walkers aged eight to seventy usually complete it comfortably."},
+    {"q": "What can you see from Poon Hill?", "a": "On a clear morning you see Dhaulagiri I (8,167 m), Tukuche Peak, Nilgiri, Annapurna I (8,091 m), Annapurna South (7,219 m), Hiunchuli (6,441 m), Machhapuchhre (6,993 m) and, far to the east, Lamjung Himal. The deep Kali Gandaki gorge between Dhaulagiri and Annapurna is visible too, along with Ghorepani's roofs below."},
+    {"q": "Is Poon Hill worth it for Indian families?", "a": "Yes. It is the easiest way for families from India to see two 8,000 m peaks on foot, with no flights needed beyond Pokhara, lodges every hour or two and altitude under 3,300 m. Indian nationals pay the SAARC rate of NPR 1,000 for the ACAP permit. Check current status before you travel."},
+    {"q": "Do I need a guide for Poon Hill?", "a": "Nepal's rule since April 2023 requires foreign trekkers in conservation areas to walk with a licensed guide, although enforcement on this trail has been inconsistent. A guide also handles lodges and the pre-dawn climb safely. All our Poon Hill packages include a licensed guide. Check current status before you travel."},
+    {"q": "What is the best time of year to visit Poon Hill?", "a": "October to December gives the clearest skies and the best chance of a cloud-free sunrise. March and April bring rhododendron flowers but more haze. January and February are cold, sometimes with snow, yet often very clear. June to August is monsoon season, with views hidden most mornings."},
+    {"q": "Can I do Poon Hill in one day from Pokhara?", "a": "Not on foot. Even with a jeep to Ulleri, reaching Ghorepani takes 5–6 hours of walking, and the summit is best at sunrise. The shortest realistic trip is two nights: jeep and walk to Ghorepani on day one, sunrise and return on day two or three."},
+    {"q": "Is Poon Hill crowded?", "a": "In October, November and early April, between 300 and 600 people can be on the summit at sunrise. The view is still good because the clearing is wide. For a quieter experience, visit in December or February, go up for sunset, or walk the ridge towards Deurali after sunrise."}
+  ]
+}

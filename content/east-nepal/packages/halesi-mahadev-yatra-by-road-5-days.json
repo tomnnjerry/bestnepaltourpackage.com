@@ -1,0 +1,84 @@
+{
+  "slug": "halesi-mahadev-yatra-by-road-5-days",
+  "title": "Halesi Mahadev Yatra by Road 4N/5D",
+  "region": "east-nepal",
+  "type": "pilgrimage",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["pilgrimage", "cultural-tours", "buddhist-circuit"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "halesi-mahadev", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 30000,
+  "price_from_usd": 350,
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1450,
+  "accommodation": "3-star hotel in Kathmandu, simple pilgrim hotel in Halesi",
+  "transport": "Private SUV or jeep with driver from Kathmandu",
+  "group": "Private family or group, 2–12",
+  "meta_description": "Halesi Mahadev yatra by road 5 days from Kathmandu: Maratika caves, Shiva darshan, Buddhist monasteries, BP Highway drive via Sindhuli. From ₹30,000.",
+  "summary": "A 5-day road pilgrimage from Kathmandu to Halesi Mahadev, the cave temple in Khotang sacred to Shiva devotees, Buddhists and the Kirat Rai. Drive the BP Highway via Sindhuli, spend two nights at Halesi for an unhurried darshan, the Maratika monasteries and a Rai village walk, then return. Best October to March.",
+  "intro": [
+    "Halesi is too far for a rushed visit by road, so this itinerary gives it two nights. From Kathmandu we drive east past Dhulikhel and down the BP Highway through Sindhuli to the Sun Koshi, then climb hill roads via Ghurmi into Khotang. The journey takes 9–10 hours each way, with tea and lunch stops at river towns along the way. In Halesi you stay within walking distance of the caves.",
+    "The middle day is unhurried. Early morning darshan in the main cave, puja at the natural lingam, then the side caves and the Buddhist monasteries linked to Guru Rinpoche's long-life retreat. In the afternoon a local guide leads a gentle walk through Rai villages and along the ridge. We return to Kathmandu on day 4 and keep day 5 for departure. On Maha Shivaratri dates, we adjust timings and book well ahead."
+  ],
+  "highlights": [
+    "Darshan at the natural Shiva lingam in the main Halesi cave",
+    "Maratika caves and monasteries linked to Guru Rinpoche",
+    "Two nights at Halesi for an unhurried visit",
+    "Rai village and ridge walk around Mahadevsthan",
+    "Scenic BP Highway drive via Sindhuli and the Sun Koshi"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · 30 min", "flight": "", "text": "Arrival transfer to your hotel. If you arrive by noon, we take you for evening aarti at Pashupatinath on the Bagmati, the most important Shiva temple in Nepal and a fitting start to a Shiva yatra. Your guide briefs you on tomorrow's long drive and what to carry for the caves: shoes with grip, a torch and clothes you can kneel in.", "meals": "Dinner"},
+    {"day": 2, "title": "Drive Kathmandu to Halesi", "place": "halesi-mahadev", "overnight": "Halesi", "altitude_m": 1400, "max_m": 1550, "walk": "", "drive": "≈ 230 km · 9–10 h", "flight": "", "text": "We leave at 6 a.m. and drive east past Dhulikhel onto the BP Highway, winding down to the Sun Koshi and on through Sindhuli to Khurkot, where we stop for breakfast by the river. After Ghurmi the road climbs into the Khotang hills on narrower, rougher sections, with views over terraced ridges. We reach Mahadevsthan, the village around the caves at about 1,400 m, in the late afternoon. Evening walk to the cave entrance.", "meals": "B, L, D"},
+    {"day": 3, "title": "Halesi darshan, Maratika and Rai village", "place": "halesi-mahadev", "overnight": "Halesi", "altitude_m": 1400, "max_m": 1450, "walk": "≈ 3 h in total", "drive": "", "flight": "", "text": "At 6.30 a.m. we enter the main cave while light falls through the roof opening and queues are short. A priest performs puja at the lingam of Halesi Mahadev, and you visit the side caves linked to Parvati and other deities. After breakfast, visit the Buddhist monasteries and the cave associated with Guru Rinpoche and Mandarava. In the afternoon, a local guide leads a gentle 5 km walk through Rai hamlets to a ridge viewpoint for sunset.", "meals": "B, L, D"},
+    {"day": 4, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1550, "walk": "", "drive": "≈ 230 km · 9–10 h", "flight": "", "text": "An early start for the return along the same route via Ghurmi, Khurkot and Sindhuli, with lunch on the way. We reach Kathmandu in the early evening. Those who wish can make a quick stop at a roadside temple or at Dhulikhel's viewpoint if time and light allow.", "meals": "B, L, D"},
+    {"day": 5, "title": "Depart Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel–airport · 30 min", "flight": "", "text": "Transfer to the airport for your flight home. With a later flight, visit Boudhanath, Swayambhunath or Budhanilkantha, the reclining Vishnu, in the morning. We can also extend the trip to Pokhara, Muktinath or Janakpur.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private SUV or jeep with driver for all transfers and the Halesi round trip",
+    "2 nights at a 3-star hotel in Kathmandu with breakfast",
+    "2 nights at a simple pilgrim hotel in Halesi",
+    "Breakfast daily, lunch and dinner on days 2–4, dinner on day 1",
+    "Hindi- and English-speaking yatra guide",
+    "Local guide for the Halesi caves and village walk",
+    "Evening Pashupatinath aarti visit on arrival day (time permitting)",
+    "Airport transfers in Kathmandu"
+  ],
+  "excludes": [
+    "Flights to and from Kathmandu",
+    "Puja fees and donations to priests and monasteries",
+    "Drinks, snacks and bottled water",
+    "Lunch and dinner on day 5",
+    "Travel insurance",
+    "Tips for guide and driver",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes 4 pilgrims sharing one vehicle and two twin rooms; smaller groups pay more per person.",
+    "Halesi hotels are basic; expect clean rooms, hot water by bucket at times and power cuts.",
+    "Around Maha Shivaratri, rooms sell out and roads jam; book at least a month ahead and expect slower driving.",
+    "Leather belts and bags are often not allowed in the main shrine; leave them in the vehicle.",
+    "The road after Ghurmi is rough in places and can be closed by landslides in the monsoon; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Fly back by helicopter from Halesi to Kathmandu", "price": "From ≈ US$ 3,200 per helicopter (up to 5)"},
+    {"name": "Extra night in Dhulikhel on the way back", "price": "≈ ₹5,000 per person"}
+  ],
+  "faqs": [
+    {"q": "How far is Halesi Mahadev from Kathmandu?", "a": "About 230 km by road, which takes 9–10 hours via Dhulikhel, the BP Highway through Sindhuli, Khurkot and Ghurmi. A helicopter covers it in about 45 minutes."},
+    {"q": "What is the Halesi Mahadev tour package cost by road?", "a": "This 5-day road yatra starts from about ₹30,000 per person for four pilgrims sharing, including private vehicle, hotels, most meals and guide. Couples travelling alone pay around ₹42,000 each."},
+    {"q": "Is the Halesi cave suitable for elderly pilgrims?", "a": "The main cave is reached by steps and is fine for most seniors with a little help. The side caves have low, narrow passages that can be skipped. The long drive is the bigger challenge, so we stop often."},
+    {"q": "Can we combine Halesi with other pilgrimages?", "a": "Yes. Halesi pairs well with Pashupatinath and Budhanilkantha in Kathmandu, and with Janakpur in the Terai. Buddhist pilgrims often add Boudhanath, Pharping and Namo Buddha."},
+    {"q": "Is food at Halesi vegetarian?", "a": "Most pilgrim hotels in Halesi serve vegetarian dal bhat, roti, sabzi and tea, and meat is limited near the shrine. Tell us in advance if you need Jain or no onion and garlic food."},
+    {"q": "When is the best time to visit Halesi?", "a": "October to March, when roads are dry and days pleasant. Maha Shivaratri in February or March is the main festival, very crowded but memorable. The monsoon from June to September brings landslides."},
+    {"q": "Can we visit Halesi and return in a day by road?", "a": "No, it is too far: around 9–10 hours each way. By road you need at least two nights. For a same-day visit, take the helicopter yatra from Kathmandu instead."},
+    {"q": "Do Indians need a permit for Halesi?", "a": "No special permit is needed. Indian citizens need a passport or voter ID to enter Nepal. Other nationalities need a Nepal visa. There may be small local fees at the site."},
+    {"q": "Is there an airport near Halesi?", "a": "Lamidanda airport in Khotang was once used for Halesi but is listed as inactive. Tumlingtar and Biratnagar are the nearest working airports, both several hours away, so the road or a helicopter is more practical."}
+  ]
+}

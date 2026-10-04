@@ -1,0 +1,131 @@
+{
+  "slug": "kyirong",
+  "name": "Kyirong (Gyirong)",
+  "region": "kailash",
+  "kind": "border town",
+  "wiki": "Gyirong Town",
+  "image_query": "Gyirong town Tibet valley",
+  "lat": 28.85,
+  "lng": 85.3,
+  "altitude_m": 2700,
+  "tagline": "Green border valley at 2,700 m, the first Tibetan night on the road",
+  "meta_description": "Kyirong (Kerung) border town at ≈ 2,700 m: Rasuwagadhi crossing status, acclimatisation for Kailash, drive times from Kathmandu and what to expect.",
+  "summary": "Kyirong, called Kerung in Nepal and Jilong in Chinese, is a Tibetan border town at about 2,700 m, roughly 25 km north of the Rasuwagadhi crossing. Kailash groups on the overland route spend one or two nights here to acclimatise. The crossing was damaged by floods in 2025 and August 2026; check current status before you travel.",
+  "intro": [
+    "Kyirong town sits on the east bank of the Kyirong Tsangpo, a source stream of Nepal's Trishuli river, at about 2,700 m. Unlike the dry plateau beyond, the valley is green, with pine and rhododendron forest, terraced barley and a warm, wet summer climate. It became the main Nepal–Tibet crossing after the 2015 earthquake closed Kodari, and before the floods most Kailash yatris from Kathmandu passed through here on their first night in Tibet.",
+    "The town has grown fast, with wide streets, new hotels and shops run by Tibetans, Han Chinese and Nepali traders. For pilgrims it is mainly a place to rest and adapt: the drive from Kathmandu is long, border formalities can take several hours, and the next day climbs to Saga at about 4,640 m. Most itineraries give two nights in Kyirong, with an easy walk on the spare day.",
+    "On 8 July 2025 a flood on the Lhende Khola destroyed the bridge at Rasuwagadhi; a temporary bridge reopened traffic on 1 January 2026. On 26 August 2026 a second, larger flood destroyed the border post, bridge and customs area again, and no reopening date had been announced by autumn 2026. Our Kerung-route itineraries are planned for when the crossing reopens, with alternatives if it does not. Check current status before you travel."
+  ],
+  "facts": [
+    ["Altitude", "≈ 2,700 m"],
+    ["Best months", "May – Jun · Sep – Oct"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Kathmandu (≈ 165 km by road)"],
+    ["From Kathmandu", "≈ 165 km · 7–9 h incl. border"],
+    ["Known for", "Rasuwagadhi crossing, forests, acclimatisation stop"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "A gentle first night in Tibet", "text": "At about 2,700 m, Kyirong is far lower than the plateau beyond, which makes it the softest possible start for the climb to Kailash. Two nights here let the body begin adapting before the 1,900 m jump to Saga."},
+    {"title": "Forest valley unlike the plateau", "text": "Pine, fir and rhododendron cover the slopes, waterfalls drop into the gorge and barley terraces surround the villages. It is the last green landscape most yatris see until they return, so the spare-day walk is worth taking."},
+    {"title": "The border crossing itself", "text": "At Rasuwagadhi, pilgrims walk across the bridge from Nepal to Chinese immigration, where bags are scanned and documents checked against the group visa. When open, the process often takes 2–4 hours, and the group must stay together in visa-list order."},
+    {"title": "Town walk and markets", "text": "Kyirong's main streets have Tibetan teahouses, Sichuan restaurants, supermarkets and shops selling down jackets, thermos flasks and dry fruit. It is the last good place to buy snacks, local SIM cards where permitted, and any forgotten warm gear before the plateau."},
+    {"title": "Views of the high peaks", "text": "On clear mornings the snow peaks of the Langtang and Ganesh Himal ranges show above the valley to the south and east, a reminder of how close Kathmandu still is in a straight line."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Kathmandu–Syabrubesi is about 122 km (6–7 h) via Trishuli and Dhunche, then about 16 km to Rasuwagadhi and some 25 km on the Tibetan side to Kyirong town. Allow 7–9 hours plus border time. The road and crossing were damaged by floods in 2025 and 2026; check current status before you travel."},
+    {"mode": "Road", "text": "From the north, Kyirong is about 250 km (5–6 h) from Saga by a paved road that climbs past Gyirong county town and Pelku Tso over passes above 5,000 m."},
+    {"mode": "Helicopter", "text": "There is no tourist helicopter service into Kyirong. Charters from Kathmandu can reach Syabrubesi or nearby helipads on the Nepal side in about 30–40 minutes when permitted, but you still cross the border on foot and by road."}
+  ],
+  "where_to_stay": "Kyirong town has a range of new mid-range hotels with heated rooms, attached bathrooms and hot water, mostly Chinese-run and of a 2-star to 3-star standard. Names and ownership change often, and we have not listed a specific property here because we cannot confirm which will be operating when the border reopens. Our Tibetan partner books the best available rooms for each group, usually twin sharing with private bathrooms. Kyirong is far more comfortable than Saga or Manasarovar, so enjoy the hot shower.",
+  "stays": [],
+  "tips": [
+    "Change some money into Chinese yuan in Kathmandu or use the guide's help at the border; card and mobile payments are hard for foreigners to use.",
+    "Pack a separate small bag for the border day, since main bags go through scanning and may be opened.",
+    "Do not carry books, photographs or images of the Dalai Lama or maps showing disputed borders; they can be confiscated.",
+    "Use the spare day for an easy 2–3 hour walk, not a hard climb; you are still adapting.",
+    "Buy extra warm layers here if needed; Saga and Manasarovar shops have far less choice."
+  ],
+  "themes": ["kailash-yatra", "overland-from-india", "pilgrimage"],
+  "nearby": ["saga", "lake-manasarovar", "shigatse"],
+  "experiences": [
+    {
+      "slug": "kyirong-rasuwagadhi-border-crossing",
+      "title": "Crossing the border at Rasuwagadhi",
+      "kind": "culture",
+      "duration": "2–4 hours",
+      "best_time": "Morning arrival at the border",
+      "price_hint": "Included in Kerung-route yatras",
+      "image_query": "Rasuwagadhi border Nepal China bridge",
+      "wiki": "",
+      "summary": "The day the yatra enters Tibet: exit stamps on the Nepal side, a walk across the bridge, Chinese immigration and baggage checks, then a short drive to Kyirong. When open, the crossing usually takes 2–4 hours. Check current status before you travel.",
+      "body": [
+        "Groups leave Kathmandu before dawn or overnight in Syabrubesi to reach Rasuwagadhi soon after the border opens. On the Nepal side, Nepali immigration stamps you out. Porters or a small vehicle move baggage to the bridge, and pilgrims walk across in visa-list order with their passports and copies of the group visa. Chinese officers check names and faces carefully against the list.",
+        "Every bag passes through a scanner, and officers may open luggage to look for prohibited items, including religious images of the Dalai Lama, some books and maps, and drones. Keep medicines in their original packaging with prescriptions. Health checks, sometimes including temperature screening, have been part of the process in recent years, and biometric collection has been introduced. The whole sequence usually takes 2–4 hours.",
+        "Once through, the Tibetan guide and vehicles meet the group for the 25 km drive to Kyirong town, adjusting watches by 2 hours 15 minutes to Beijing time. The rest of the day is for lunch, rest and a slow walk. Floods in July 2025 and August 2026 destroyed the bridge and post; check current status before you travel."
+      ],
+      "good_for": ["pilgrims", "groups", "first-timers"],
+      "faqs": [
+        {"q": "Is the Rasuwagadhi–Kerung border open for Kailash yatra?", "a": "The crossing reopened on 1 January 2026 after a July 2025 flood, but a larger flood on 26 August 2026 destroyed the border post, bridge and customs area again. As of autumn 2026 no reopening date had been announced. Check current status before you travel; we reroute groups via Simikot–Hilsa or Lhasa when needed."},
+        {"q": "What items are not allowed at the Kerung border?", "a": "Avoid carrying images or books about the Dalai Lama, maps showing borders China disputes, political literature, drones and large quantities of medicines without prescriptions. Officers scan every bag and may confiscate items. Religious items for Hindu puja, such as idols, rudraksha and puja samagri, are normally fine in personal quantities."},
+        {"q": "How long does it take to cross the border at Rasuwagadhi?", "a": "When the crossing is operating normally, allow 2–4 hours for Nepal exit, the bridge walk, Chinese immigration, baggage scanning and health or biometric checks. On busy days in the yatra season it can take longer. Groups must cross together in the order of the visa list."}
+      ]
+    },
+    {
+      "slug": "kyirong-acclimatisation-hike",
+      "title": "Acclimatisation walk above Kyirong",
+      "kind": "hiking",
+      "duration": "2–3 hours",
+      "best_time": "Morning of the rest day",
+      "price_hint": "Included in Kerung-route yatras",
+      "image_query": "Kyirong valley forest Tibet",
+      "wiki": "",
+      "summary": "An easy guided walk of 2–3 hours on the spare day at Kyirong, gaining 200–300 m on paths through forest and barley fields above town to help the body adapt before Saga.",
+      "body": [
+        "The rule of high-altitude travel is to climb a little higher by day and sleep lower. On the rest day in Kyirong, the Tibetan guide leads a slow walk from town up through terraces and pine forest, gaining 200–300 m to a viewpoint over the valley, and then returns for lunch. There is no hurry; the point is gentle effort and deep breathing.",
+        "On clear mornings you look south down the gorge towards Nepal and east to snow summits. Villagers work the barley and mustard fields, and prayer flags string across the slopes above houses with carved wooden windows. The landscape feels closer to Langtang than to the Tibet of postcards, a last green interval before the dry plateau.",
+        "Wear walking shoes, take water and sun protection, and turn back if you feel a headache or unusual breathlessness. The afternoon is for rest, a hot shower, repacking for colder days and an early dinner. The next morning is a long drive up to about 4,640 m at Saga."
+      ],
+      "good_for": ["pilgrims", "seniors", "families", "groups"],
+      "faqs": [
+        {"q": "Why do Kailash groups stay two nights in Kyirong?", "a": "Kyirong is at about 2,700 m and the next stop, Saga, is at about 4,640 m. A spare day with a short walk helps the body produce more red blood cells and adjust breathing before that jump. It also absorbs any delay at the border. Skipping it raises the risk of altitude sickness."},
+        {"q": "How difficult is the Kyirong acclimatisation walk?", "a": "It is easy: 2–3 hours on village paths, gaining 200–300 m at a slow pace. Anyone fit enough for the yatra can do it. Seniors may walk part of the way and rest at a viewpoint. The guide adjusts the route to the group."},
+        {"q": "What is the weather like in Kyirong?", "a": "Kyirong is milder and wetter than most of Tibet. In May, June and September days are around 15–22 °C and nights 5–10 °C. July and August bring monsoon rain that can trigger landslides on the road. Carry a rain jacket and a warm fleece."}
+      ]
+    },
+    {
+      "slug": "kyirong-town-walk-and-market",
+      "title": "Kyirong town walk and border market",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Late afternoon",
+      "price_hint": "",
+      "image_query": "Gyirong town street Tibet",
+      "wiki": "",
+      "summary": "A relaxed stroll through Kyirong's new town, past Tibetan teahouses, Sichuan restaurants, supermarkets and shops where Nepali traders and yatris buy last supplies before the plateau.",
+      "body": [
+        "Kyirong grew from a small village into a busy trading post after 2015, when goods moving between Nepal and China shifted here from Kodari. The main streets are wide and new, with Chinese signs alongside Tibetan script, shops selling electrical goods and clothing, and teahouses where Tibetan families drink butter tea in the afternoons.",
+        "For yatris this is the place to buy what you forgot: thermal socks, gloves, flasks, instant noodles, dry fruit and glucose powder. Prices are marked in yuan. Indian vegetarian food is not common, but many restaurants serve rice, vegetable dishes and noodles without meat if you ask your guide to explain.",
+        "Walk at a slow pace and keep your passport with you; police may ask for documents. Photography of police, army or border installations is not allowed. Return to the hotel before dark for dinner and an early night."
+      ],
+      "good_for": ["pilgrims", "families", "first-timers"],
+      "faqs": [
+        {"q": "Can I get vegetarian food in Kyirong?", "a": "Yes, though you need to ask. Chinese and Tibetan restaurants can make rice, vegetable stir-fries, noodles and egg dishes without meat. Our Kailash groups travel with a cook or support staff who prepare Indian vegetarian meals from Saga onwards, and in Kyirong we arrange vegetarian dinners at the hotel or a local restaurant."},
+        {"q": "Can I use Indian rupees or Nepali money in Kyirong?", "a": "No. Shops in Kyirong accept Chinese yuan, and many prefer mobile payment apps that foreigners find hard to set up. Carry yuan in small notes, changed in Kathmandu or with help at the border. Indian rupees and Nepali rupees are not accepted."},
+        {"q": "Is there a mobile network and Wi-Fi in Kyirong?", "a": "Yes. Hotels have Wi-Fi and Chinese networks cover the town, but many foreign apps and websites are blocked in China, including WhatsApp, Google and Facebook. Indian SIM cards rarely roam. Tell your family in advance that contact will be limited."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Kyirong?", "a": "Kyirong town is at about 2,700 m (8,900 ft), in a green valley north of the Rasuwagadhi crossing. That makes it a good first night in Tibet, well below Saga at about 4,640 m and Manasarovar at about 4,590 m. Most Kailash itineraries give two nights here to acclimatise."},
+    {"q": "How far is Kyirong from Kathmandu?", "a": "About 165 km by road: Kathmandu to Syabrubesi about 122 km, then about 16 km to Rasuwagadhi and some 25 km on the Tibetan side. Expect 7–9 hours driving plus 2–4 hours of border formalities, so some groups overnight in Syabrubesi. Floods in 2025 and 2026 damaged the road; check current status before you travel."},
+    {"q": "Is Kyirong the same as Kerung?", "a": "Yes. Kerung is the name used in Nepal, Kyirong or Gyirong is the Tibetan name, and Jilong is the Chinese name. The town lies about 25 km inside Tibet from the Rasuwagadhi border point in Nepal's Rasuwa district."},
+    {"q": "Is the Kerung route open for Kailash in 2027?", "a": "No one can say yet. After the August 2026 flood destroyed the Rasuwagadhi border post and bridge, Nepal and China discussed rebuilding but no date was announced by autumn 2026. Our Kerung yatras for 2027 carry a fallback via Simikot–Hilsa or Lhasa. Check current status before you travel."},
+    {"q": "Which is better for Kailash: Kerung or Simikot route?", "a": "The Kerung route, when open, is cheaper, carries no flight risk and acclimatises gradually, but involves long drives. The Simikot route is shorter and avoids the Kyirong road, but depends on small-plane and helicopter weather. Our route comparison guide sets out days, costs and risks side by side."},
+    {"q": "What should I carry for the Kerung border crossing?", "a": "Your passport with at least six months' validity, copies of the group visa and Tibet permit, passport photos, a small daypack with water and snacks, and medicines in original packs. Leave behind anything relating to the Dalai Lama, maps of disputed borders and drones. Keep yuan in small notes."},
+    {"q": "Can I stay more than two nights in Kyirong?", "a": "Yes, if the itinerary allows. Seniors and anyone sensitive to altitude benefit from a third night, and our senior pilgrims' yatra builds it in. Extra nights must be listed in the Tibet permit before travel, so tell us when you book rather than on the road."},
+    {"q": "Is Kyirong safe during the monsoon?", "a": "The town itself is safe, but the roads on both sides of the border are prone to landslides and floods from late June to early September, as the 2025 and 2026 disasters showed. Groups in July and August may face delays. We avoid booking the Kerung route in peak monsoon where possible."},
+    {"q": "What currency is used in Kyirong?", "a": "Chinese yuan (CNY). Bring cash in small notes; many shops prefer mobile payments that foreign visitors struggle to use. There is no reliable place to exchange Indian rupees. Your guide can help with small exchanges, but it is easier to arrive with yuan."}
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "muktinath-heli-yatra-from-pokhara",
+  "title": "Muktinath Heli Yatra from Pokhara, 1 Day",
+  "region": "mustang",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "pilgrimage", "family-holidays", "short-breaks"],
+  "stops": [{"place": "pokhara", "nights": 0}, {"place": "jomsom", "nights": 0}, {"place": "muktinath", "nights": 0}, {"place": "kagbeni", "nights": 0}],
+  "start": "Pokhara (Pokhara airport heliport)",
+  "end": "Pokhara",
+  "price_from_inr": 52000,
+  "price_from_usd": 620,
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3710,
+  "accommodation": "None (day trip); Pokhara hotel nights can be added",
+  "transport": "Helicopter (AS350 B3 or similar), hotel–airport transfers in Pokhara",
+  "group": "Shared seat (up to 5 per helicopter) or private charter",
+  "meta_description": "Muktinath heli yatra from Pokhara in 1 day: 35–40 min each way, 1 hour darshan, optional Kagbeni stop, per-seat and charter prices and safety rules explained.",
+  "summary": "The most popular way for Indian families to reach Muktinath quickly: a 35–40 minute helicopter flight from Pokhara, about an hour at the temple for darshan and the 108 spouts, an optional short stop over Kagbeni, and back in Pokhara by mid-morning. Per-seat prices start around ₹52,000.",
+  "intro": [
+    "From Pokhara, Muktinath is only 35–40 minutes away by helicopter, and the whole trip fits into a morning. That makes this the best-value heli yatra: you avoid the uncertainty of the Jomsom plane and the 8–10 hour road, and you are back at your Pokhara hotel by 10 or 11 am, free to visit Phewa Lake and Bindhyabasini temple in the afternoon. The flight follows the Kali Gandaki gorge between Dhaulagiri and Annapurna, one of the most dramatic mountain corridors in Nepal.",
+    "You can book seats or charter the whole helicopter. On a shared flight we group pilgrims to fill five seats, so the price per person is about a fifth of the charter. A family of four or five usually finds a charter only slightly more expensive per head and gains control of timing. On clear mornings we may fly several rotations, so early slots go to those who book first."
+  ],
+  "highlights": [
+    "Pokhara to Muktinath in 35–40 minutes by helicopter",
+    "Flight between Dhaulagiri (8,167 m) and Annapurna I (8,091 m)",
+    "About one hour at Muktinath for darshan and the 108 spouts",
+    "Optional 15-minute stop at Kagbeni or Jomsom on the way back",
+    "Back in Pokhara by late morning, free for Phewa Lake"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara–Muktinath–Pokhara by helicopter",
+      "place": "muktinath",
+      "overnight": "Pokhara (own arrangement)",
+      "altitude_m": 822,
+      "max_m": 3710,
+      "walk": "≈ 40 min at the temple",
+      "drive": "Hotel–airport transfers in Pokhara",
+      "flight": "Pokhara–Muktinath · 35–40 min; Muktinath–Jomsom · 10 min; Jomsom–Pokhara · 25 min",
+      "text": "Pick-up from your Pokhara hotel at about 6 am. After weighing and a short briefing, fly north up the Kali Gandaki, past Tatopani and the Dhaulagiri icefall, with Nilgiri and Annapurna on the right. Land near Ranipauwa (3,700 m) after about 35–40 minutes. Our ground guide walks you up to Muktinath temple (3,710 m) for darshan, the 108 water spouts, the Lakshmi and Saraswati kunds and the Jwala Mai flame. After about an hour, fly to Jomsom (2,720 m) for a short refuel and tea, with an aerial look at Kagbeni's confluence, then return to Pokhara by around 10–11 am.",
+      "meals": "Tea at Jomsom"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Helicopter seat on a shared flight (or full charter if booked as private)",
+    "Pokhara hotel–airport–hotel transfers",
+    "ACAP permit for Muktinath",
+    "Landing and airport fees",
+    "Ground guide at Muktinath",
+    "Tea or coffee at Jomsom",
+    "Emergency oxygen on board",
+    "All government taxes on the flight"
+  ],
+  "excludes": [
+    "Pokhara hotel nights and Kathmandu–Pokhara travel",
+    "Puja, priest dakshina and temple donations",
+    "Horse or scooter from Ranipauwa to the temple",
+    "Landing at Kagbeni for shraddha (extra ground time, charged per hour)",
+    "Travel and medical insurance",
+    "Excess baggage over 5 kg per person",
+    "Tips for pilot and guide"
+  ],
+  "good_to_know": [
+    "Price assumes one seat on a shared helicopter with five passengers; a private charter for up to five costs from about US$ 2,600–3,200 per helicopter, depending on season and fuel prices.",
+    "Total passenger weight on this route is usually limited to around 400–450 kg; the pilot can reduce passengers on warm days.",
+    "Flights operate only in clear morning weather. If the flight is postponed, you can fly the next clear morning or take a refund according to the operator's terms.",
+    "Muktinath is at 3,710 m; people with heart or lung disease, uncontrolled blood pressure, pregnant women and infants should seek medical advice or avoid the trip.",
+    "Indian nationals need a passport or voter ID for the permit and passenger manifest."
+  ],
+  "add_ons": [
+    {"name": "Kagbeni landing for shraddha (about 45 min extra)", "price": "≈ US$ 350 per helicopter"},
+    {"name": "Damodar Kunda add-on on a charter", "price": "≈ US$ 1,800–2,300 per helicopter"},
+    {"name": "Pokhara 3-star hotel night with breakfast", "price": "≈ ₹4,000 per room"}
+  ],
+  "faqs": [
+    {"q": "Muktinath helicopter price from Pokhara per person", "a": "A shared seat costs from about ₹52,000 (US$ 620) per person when five passengers share the helicopter. A private charter for up to five costs about US$ 2,600–3,200, roughly ₹2.2–2.7 lakh per helicopter. The price includes permit, landing fees and transfers. Check current status before you travel."},
+    {"q": "Should we book per seat or charter for Muktinath?", "a": "If you are one to three people, per-seat is cheaper: you share the helicopter with other pilgrims. If you are four or five, a charter often costs only a little more per person and lets you choose the time, add a Kagbeni stop and avoid waiting for other passengers. Weight limits apply either way."},
+    {"q": "How long does the Muktinath heli tour from Pokhara take?", "a": "About 3.5–4.5 hours from hotel pick-up to drop-off: 35–40 minutes flying each way, about an hour at Muktinath and a short refuel stop at Jomsom. You are usually back in Pokhara by 10–11 am, leaving the afternoon free for sightseeing."},
+    {"q": "Is the helicopter safe for elderly parents?", "a": "Helicopter operators in Nepal fly this route daily with experienced mountain pilots. For elderly passengers the main concern is altitude at Muktinath, not the flight. Get a medical check, walk slowly at the temple and use a horse if needed. People with serious heart or lung disease should not fly to 3,710 m."},
+    {"q": "Can we stop at Kagbeni for pinda daan on the heli tour?", "a": "Yes, on a charter. A landing at Kagbeni for shraddha or Shaligram adds about 45 minutes to an hour and costs extra per helicopter. On shared flights, other passengers may not want the stop, so it is usually not possible. Tell us in advance so we can arrange a priest."},
+    {"q": "What should I wear for the Muktinath heli trip?", "a": "Wear warm layers: a fleece or sweater and a windproof jacket, as Muktinath is often 5–10 °C in the morning even in May. Wear comfortable slip-on shoes for the temple and carry a cap, sunglasses and sunscreen. If you plan to bathe, bring a towel and quick-dry change of clothes."},
+    {"q": "What if the Muktinath heli is cancelled?", "a": "If the weather is unsafe, the flight is moved to the next clear morning. If you cannot wait, the operator refunds or credits according to its policy, which we confirm in writing before booking. Keeping one spare morning in Pokhara greatly improves your chances of flying."},
+    {"q": "Is there a weight limit on the Muktinath helicopter?", "a": "Yes. Total passenger weight is usually around 400–450 kg for five passengers, and each person can carry only a small bag of about 5 kg. On warmer days the limit drops. We ask for each passenger's weight at booking so the pilot can plan the load safely."},
+    {"q": "Which is better: Muktinath heli or Jomsom flight?", "a": "The helicopter is faster and lands right at Muktinath, finishing in a morning, but costs more. The Jomsom plane is cheaper and includes a night in Jomsom, Kagbeni and Marpha, but it is often delayed and needs 3–4 days in total. For tight schedules or elderly pilgrims, many families choose the helicopter."}
+  ]
+}

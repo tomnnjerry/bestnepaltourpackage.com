@@ -1,0 +1,90 @@
+{
+  "slug": "sing-gompa-family-trek-6-days",
+  "title": "Sing Gompa Family Trek with Jeep 6 Days",
+  "region": "langtang",
+  "type": "trek",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["family-holidays", "trekking", "short-breaks", "photography"],
+  "stops": [
+    {"place": "dhunche", "nights": 1},
+    {"place": "chandanbari", "nights": 2},
+    {"place": "syabrubesi", "nights": 1}
+  ],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_inr": 40000,
+  "price_from_usd": 480,
+  "best_months": [0, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3584,
+  "accommodation": "Lodges in Dhunche, Deurali, Chandanbari and Syabrubesi; family rooms where available",
+  "transport": "Private jeep Kathmandu–Dhunche, Dhunche–Syabrubesi and Syabrubesi–Kathmandu",
+  "group": "Private family trip, 2–8",
+  "meta_description": "Sing Gompa family trek 6 days with private jeep: short walking days to Chandanbari (3,330 m), cheese dairy, red panda forest and Cholang Pati views. From ₹40,000.",
+  "summary": "A gentle 6-day Langtang trek designed for families: a private jeep to Dhunche, two short walking days through forest to Chandanbari (Sing Gompa, 3,330 m), a free day for the cheese dairy, red panda walk and Cholang Pati viewpoint (3,584 m), then down to Syabrubesi's hot springs. Walking is 2–5 hours a day.",
+  "intro": [
+    "Most Langtang treks are too long or too high for younger children. This one keeps the good parts and trims the rest. A private jeep takes you to Dhunche, so there are no crowded buses, and the climb to Chandanbari is split over two short days with a night at Deurali, which keeps daily height gain gentle. At Chandanbari, known as Sing Gompa after its monastery, children can watch cheese being made, look for red pandas and climb to a viewpoint with big Himalayan views.",
+    "The highest point is Cholang Pati at about 3,584 m, reached on a morning walk from Chandanbari and then descended to sleep, which keeps altitude risk low. On the way down, a short jeep ride brings you to Syabrubesi for an afternoon at the hot springs by the Bhote Koshi. A licensed guide and porters are included; porters can also carry a small child's carrier on request."
+  ],
+  "highlights": [
+    "Private jeep with family-friendly stops",
+    "Short walking days of 2–5 hours with low daily height gain",
+    "Cheese dairy and Sing Gompa monastery at Chandanbari",
+    "Red panda forest walk with a local guide",
+    "Sunrise at Cholang Pati (3,584 m) over Langtang Lirung and Ganesh Himal",
+    "Hot spring afternoon in Syabrubesi"
+  ],
+  "days": [
+    {"day": 1, "title": "Private jeep from Kathmandu to Dhunche", "place": "dhunche", "overnight": "Dhunche", "altitude_m": 1960, "max_m": 1960, "walk": "", "drive": "≈ 117 km · 6–7 h", "flight": "", "text": "We collect your family at about 8 am in a private jeep, with car seats on request. Drive via Kakani, where there is a view of the Ganesh Himal on clear mornings, and Trishuli Bazaar, stopping as often as needed for snacks and toilets. Climb the switchbacks to Dhunche (1,960 m) in the afternoon. Your guide takes you for a short walk through the old Tamang quarter before dinner, and explains the next day's walk.", "meals": "L, D"},
+    {"day": 2, "title": "Dhunche to Deurali through the forest", "place": "", "overnight": "Deurali", "altitude_m": 2690, "max_m": 2690, "walk": "≈ 3–4 h", "drive": "", "flight": "", "text": "Start after a relaxed breakfast and climb through farmland and then oak and rhododendron forest to Deurali at about 2,690 m. It is steady uphill on stone steps, but short, with plenty of stops to look for langur monkeys and birds. Arrive in time for lunch at a simple lodge. In the afternoon, children can play in the clearing while adults rest. Splitting the climb here keeps height gain to about 730 m.", "meals": "B, L, D"},
+    {"day": 3, "title": "Deurali to Chandanbari (Sing Gompa)", "place": "chandanbari", "overnight": "Chandanbari", "altitude_m": 3330, "max_m": 3330, "walk": "≈ 2–3 h", "drive": "", "flight": "", "text": "Continue climbing gently through fir and hemlock forest hung with lichen to the clearing of Chandanbari at about 3,330 m, gaining about 640 m. Arrive by late morning. After lunch, visit the small cheese dairy, where milk from yaks and chauri is pressed into cheese in season, and the Sing Gompa monastery with its prayer wheels. Keep children warm as the afternoon cools, and make sure everyone drinks plenty of water.", "meals": "B, L, D"},
+    {"day": 4, "title": "Cholang Pati sunrise and panda walk", "place": "chandanbari", "overnight": "Chandanbari", "altitude_m": 3330, "max_m": 3584, "walk": "≈ 2–3 h morning, 2 h afternoon", "drive": "", "flight": "", "text": "Those who want to can walk up to Cholang Pati (3,584 m) at dawn, about an hour's climb, for sunrise over Langtang Lirung, Ganesh Himal and sometimes Manaslu, then return for breakfast. Later, a local guide leads a slow walk through the bamboo and fir forest looking for red pandas, Himalayan monals and blood pheasants. Sightings are not guaranteed, but children enjoy looking for tracks and chewed bamboo. Free time in the afternoon.", "meals": "B, L, D"},
+    {"day": 5, "title": "Down to Dhunche, jeep to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 3330, "walk": "≈ 4–5 h", "drive": "≈ 15 km · 1 h", "flight": "", "text": "Descend through the forest via Deurali to Dhunche, about 1,370 m down on stone steps. Go slowly and use poles; children usually move fast downhill. After lunch in Dhunche, a short jeep ride drops you to Syabrubesi on the Bhote Koshi. If the river is low and the pools are open, spend the late afternoon at the hot springs, then celebrate the trek with your crew over dinner.", "meals": "B, L, D"},
+    {"day": 6, "title": "Private jeep back to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1960, "walk": "", "drive": "≈ 122 km · 7–8 h", "flight": "", "text": "After breakfast, drive back to Kathmandu in your private jeep via Dhunche and Trishuli Bazaar, with stops along the way. Arrive in the afternoon and transfer to your hotel. If you have time the next day, a visit to Bhaktapur or the Swayambhunath monkey temple makes a good finale for children.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep for the whole trip, car seats on request",
+    "Licensed family-friendly guide speaking English or Hindi",
+    "Porters (one per two people) to carry bags",
+    "Lodge rooms for 5 nights, family or twin rooms where available",
+    "Three meals a day on the trek with hot drinks",
+    "Langtang National Park entry fee and TIMS card where required",
+    "Local guide for the red panda forest walk",
+    "Guide and porter wages, food, lodging and insurance",
+    "First-aid kit and pulse oximeter"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "International flights and Nepal visa",
+    "Travel insurance",
+    "Hot spring entry fees",
+    "Drinks, snacks, showers and charging",
+    "Child carrier or extra porter for a carrier",
+    "Tips for guide and porters",
+    "Personal gear and sleeping bags"
+  ],
+  "good_to_know": [
+    "Price is per person for a family of four sharing a private jeep and two rooms; smaller groups pay more per person. Children under 10 are exempt from the park fee.",
+    "Lodges are simple, with shared toilets at Deurali and Chandanbari; bring sleeping bags, as rooms are unheated.",
+    "The trip suits children aged about 6 and above who enjoy walking; for younger children we can add an extra porter with a child carrier.",
+    "Watch children for altitude symptoms such as headache, vomiting, unusual tiredness or crankiness above 3,000 m, and tell the guide early.",
+    "We run this trip from February to May and September to December; the trail is wet and leech-ridden in the monsoon."
+  ],
+  "add_ons": [
+    {"name": "Extra porter with child carrier", "price": "≈ US$ 30 per day"},
+    {"name": "Extra rest day at Chandanbari", "price": "≈ US$ 45 per person"},
+    {"name": "Night at Park Village Resort on return", "price": "≈ US$ 110 per room"}
+  ],
+  "faqs": [
+    {"q": "Is this Langtang trek suitable for kids?", "a": "Yes. It is designed for families with children aged about 6 and above. Walking days are 2–5 hours, the climb is split over two days, and the highest point is a morning walk to 3,584 m before sleeping lower. A private jeep, short days and interesting stops such as the cheese dairy keep children engaged."},
+    {"q": "What is the cost of the Sing Gompa family trek?", "a": "Prices start at about ₹40,000 or US$ 480 per person for a family of four sharing a private jeep and two rooms, including guide, porters, lodges, meals on the trek, park fees and a red panda walk. Smaller families pay more per person. Kathmandu hotels, insurance and tips are not included."},
+    {"q": "Is there altitude sickness risk for children at Sing Gompa?", "a": "The risk is low but real at 3,330 m. Our itinerary splits the climb with a night at Deurali and visits Cholang Pati only as a day walk. Watch for headache, vomiting, unusual tiredness or irritability, and tell the guide. If symptoms appear, the family rests or descends; we never push children higher."},
+    {"q": "Can we see red pandas on the family trek?", "a": "There is a chance. The forest around Chandanbari is good red panda habitat, and our local guide knows recent sightings. Even so, red pandas are shy and seen only occasionally. Children usually enjoy the search, along with spotting monals, langur monkeys and tracks."},
+    {"q": "What are the lodges like for families?", "a": "Lodges are simple, family-run teahouses with twin or triple rooms, blankets and a warm dining room with a stove. Toilets are often shared at Deurali and Chandanbari. Dhunche and Syabrubesi have attached bathrooms in most rooms. We request family rooms or adjoining rooms where possible."},
+    {"q": "What should children pack for the trek?", "a": "Pack comfortable broken-in walking shoes, a warm jacket, fleece, hat and gloves, rain jacket, sun hat and sunglasses, a refillable water bottle, favourite snacks, a small daypack, a headlamp and a sleeping bag rated to about −5 °C. Bring any regular medicines and children's paracetamol."},
+    {"q": "When is the best time for a family trek in Langtang?", "a": "March to May and October to November are best, with clear skies, dry trails and mild days. Late December to February is possible but cold at Chandanbari, with frost and snow. Avoid June to September, when monsoon rain, leeches and road landslides make the trip unpleasant for children."},
+    {"q": "Can a porter carry a young child?", "a": "Yes, on request we add an experienced porter with a child carrier for children who cannot walk the whole way. This allows families with toddlers to join, though we advise care with very young children at 3,330 m, as they cannot easily describe altitude symptoms. Discuss with your doctor first."},
+    {"q": "Can we extend the family trek to Gosaikunda?", "a": "For fit older children and teenagers, yes. From Chandanbari the trail continues to Lauribina (3,910 m) and Gosaikunda (4,380 m). This adds two to three days and significantly more altitude, so it suits only experienced, well-acclimatised families. We can plan a custom extension after discussing your children's ages and experience."}
+  ]
+}

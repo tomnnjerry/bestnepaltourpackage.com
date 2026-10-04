@@ -1,0 +1,98 @@
+{
+  "slug": "everest-base-camp-trek-heli-return-11-days",
+  "title": "EBC Trek with Heli Return 11 Days",
+  "region": "everest",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 10,
+  "themes": ["trekking", "heli-tours", "luxury-nepal", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "phakding", "nights": 1},
+    {"place": "namche-bazaar", "nights": 2},
+    {"place": "tengboche", "nights": 1},
+    {"place": "dingboche", "nights": 2},
+    {"place": "lobuche", "nights": 1},
+    {"place": "gorak-shep", "nights": 1},
+    {"place": "everest-base-camp", "nights": 0},
+    {"place": "kala-patthar", "nights": 0}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 193000,
+  "price_from_usd": 2190,
+  "best_months": [0, 0, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 5644,
+  "accommodation": "3-star hotel in Kathmandu (2 nights), teahouse lodges on the trail",
+  "transport": "Flight to Lukla (or via Ramechhap), shared helicopter Gorak Shep–Kathmandu, private transfers",
+  "group": "Private or small group, 2–10",
+  "meta_description": "Everest Base Camp trek with helicopter return, 11 days: walk up via Namche and Dingboche, Kala Patthar sunrise, then fly from Gorak Shep to Kathmandu.",
+  "summary": "Walk up to Everest Base Camp on the classic route with full acclimatisation, climb Kala Patthar at sunrise, then fly from Gorak Shep back to Kathmandu by helicopter the same morning. It saves three days of descent and ends the trek with an aerial view of the whole Khumbu.",
+  "intro": [
+    "The walk down from Gorak Shep to Lukla takes three days and retraces ground you have already seen. For trekkers short of leave, or who simply want to finish on a high, the heli return replaces it with a flight of about an hour. You still walk every step up, sleeping at the same heights as our 12-day trek with two acclimatisation days at Namche and Dingboche, so the acclimatisation is identical. On day 10, after the Kala Patthar sunrise and breakfast at Gorak Shep, a helicopter picks you up and flies you down the valley past Ama Dablam, Tengboche and Namche.",
+    "The flight refuels at Lukla and lands in Kathmandu by late morning, giving you an afternoon and a night in the city before departure. At 5,164 m helicopters lift only two or three passengers at a time, so groups are shuttled to Pheriche or Lukla before the final leg. The price assumes a shared helicopter with other trekkers on a seat basis; a private helicopter costs more but gives full control of timing. Your guide and porters walk out to Lukla, and we include their return flights."
+  ],
+  "highlights": [
+    "Full acclimatisation on foot to Everest Base Camp and Kala Patthar",
+    "Helicopter flight down the Khumbu valley past Ama Dablam and Tengboche",
+    "Saves three days of descent compared with walking out",
+    "Kala Patthar sunrise on the morning of the flight",
+    "Two nights in Kathmandu included"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "", "text": "Arrive at Tribhuvan International Airport, where we meet you and drive to your 3-star hotel. In the afternoon your guide runs through the itinerary, checks your kit and explains how the heli return works: weight limits for the flight, what happens if weather delays it, and why your main duffel may travel separately with the porters. If flights are operating from Ramechhap, tomorrow begins with a 1:30 am pickup.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lukla, walk to Phakding", "place": "phakding", "overnight": "Phakding", "altitude_m": 2610, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "Morning flight into Lukla's mountain airstrip at 2,860 m. Meet your porters and walk out past the memorial gate to Pasang Lhamu Sherpa, then down through Chaurikharka's barley terraces and along the Dudh Koshi to Phakding. The trail is gentle, mostly downhill, with your first suspension bridges and long walls of carved mani stones. Lodges line both banks of the river.", "meals": "B, L, D"},
+    {"day": 3, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3440, "walk": "≈ 5–6 h · 10–11 km", "drive": "", "flight": "", "text": "Walk upstream past Benkar's waterfall and Monjo to the Sagarmatha National Park gate, then descend to Jorsale for lunch. The path follows the river to the confluence with the Bhote Koshi, crosses the high Hillary Bridge and climbs 600 m to Namche Bazaar. Slow and steady is the rule; your guide sets the pace. Namche's terraced lodges face Kongde Ri across the valley.", "meals": "B, L, D"},
+    {"day": 4, "title": "Acclimatisation in Namche", "place": "namche-bazaar", "overnight": "Namche Bazaar", "altitude_m": 3440, "max_m": 3880, "walk": "≈ 4–5 h · 7 km loop", "drive": "", "flight": "", "text": "Hike to Syangboche and Hotel Everest View at 3,880 m for your first proper Everest view across the Imja valley, with Ama Dablam and Tengboche monastery below it. Loop down through Khumjung, past the Hillary School and the yeti-scalp monastery, and back over the ridge to Namche for lunch. Spend the afternoon at the Sherpa Culture Museum or browsing Namche's gear shops.", "meals": "B, L, D"},
+    {"day": 5, "title": "Namche to Tengboche", "place": "tengboche", "overnight": "Tengboche or Deboche", "altitude_m": 3867, "max_m": 3867, "walk": "≈ 5–6 h · 10 km", "drive": "", "flight": "", "text": "Follow the balcony trail to Kyangjuma with Everest, Lhotse and Ama Dablam in view, then drop to the river at Phunki Thenga and climb through forest to Tengboche Monastery at 3,867 m. Watch the afternoon puja, and come out at sunset when Ama Dablam turns pink. On the helicopter flight out on day 10, you will pick out this ridge and its monastery from the air.", "meals": "B, L, D"},
+    {"day": 6, "title": "Tengboche to Dingboche", "place": "dingboche", "overnight": "Dingboche", "altitude_m": 4410, "max_m": 4410, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Descend through Deboche's forest, cross the Imja Khola and climb past Pangboche and its old monastery. The trees end above Pangboche and the valley opens into yak pastures. After lunch at Somare, walk into the Imja valley to Dingboche at 4,410 m, a village of stone-walled fields beneath Ama Dablam and the Lhotse wall. Take it easy for the rest of the day.", "meals": "B, L, D"},
+    {"day": 7, "title": "Acclimatisation in Dingboche", "place": "dingboche", "overnight": "Dingboche", "altitude_m": 4410, "max_m": 5083, "walk": "≈ 3–5 h · 5 km", "drive": "", "flight": "", "text": "Climb the Nangkartshang ridge behind the village for a few hours, turning back between about 4,800 m and the summit at about 5,083 m. On clear mornings you see Makalu, Lhotse, Island Peak and Ama Dablam in one sweep. Return for lunch and rest, staying awake through the afternoon. Your guide checks everyone's oxygen saturation and decides on the next stage.", "meals": "B, L, D"},
+    {"day": 8, "title": "Dingboche to Lobuche", "place": "lobuche", "overnight": "Lobuche", "altitude_m": 4940, "max_m": 4940, "walk": "≈ 5 h · 8 km", "drive": "", "flight": "", "text": "Walk across the pastures above Pheriche to Dughla, then climb steeply for an hour to the Thukla Pass memorials, built for climbers and Sherpas who died on Everest. The valley then rises gently to Lobuche beside the Khumbu Glacier's moraine. In the late afternoon, climb onto the moraine to watch sunset on Nuptse.", "meals": "B, L, D"},
+    {"day": 9, "title": "Everest Base Camp, night at Gorak Shep", "place": "everest-base-camp", "overnight": "Gorak Shep", "altitude_m": 5164, "max_m": 5364, "walk": "≈ 7–8 h · 12 km", "drive": "", "flight": "", "text": "Walk along the glacier moraine to Gorak Shep, the highest lodges on the trail, for an early lunch. Continue on foot to Everest Base Camp at about 5,364 m, crossing the rubble-covered glacier to the marker boulder beneath the Khumbu Icefall. Return to Gorak Shep for the night. Your guide confirms the helicopter booking for the morning by radio or satellite phone.", "meals": "B, L, D"},
+    {"day": 10, "title": "Kala Patthar sunrise, heli to Kathmandu", "place": "kala-patthar", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 5644, "walk": "≈ 3–4 h · 4 km", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "Gorak Shep–Lukla · 20–25 min; Lukla–Kathmandu · 45–50 min", "text": "Climb Kala Patthar by headlamp to reach 5,644 m at sunrise, with Everest's summit lit gold above the Khumbu Icefall. Return to Gorak Shep for breakfast and wait for the helicopter, usually between 7 and 10 am. The flight follows the valley down past Pheriche, Ama Dablam, Pangboche, Tengboche and Namche, with a short refuelling stop at Lukla, then on to Kathmandu. Afternoon free for a shower, a massage or a walk in Thamel.", "meals": "B, D"},
+    {"day": 11, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel–airport · ≈ 6 km · 30 min", "flight": "", "text": "Breakfast at the hotel and transfer to the airport about three hours before your international flight. If weather delayed the helicopter on day 10, this day serves as the buffer: you fly out of Gorak Shep or Pheriche in the morning and still make an evening departure in most cases. For more security, add a second spare night in Kathmandu, or use it for Bhaktapur or Patan.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights in a 3-star Kathmandu hotel with breakfast; welcome and farewell dinners",
+    "Flight to Lukla, or Ramechhap–Lukla with private road transfer in peak months",
+    "Shared helicopter seat Gorak Shep–Lukla–Kathmandu",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "8 nights in teahouse lodges, twin sharing, with all meals on the trek",
+    "Licensed English-speaking trekking guide and porters (one per two trekkers)",
+    "Return flights and wages for guide and porters walking out to Lukla",
+    "All airport and hotel transfers in Kathmandu",
+    "Pulse oximeter checks and first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation cover",
+    "Private helicopter supplement",
+    "Excess baggage on the helicopter",
+    "Hot showers, charging, Wi-Fi and drinks on the trail",
+    "Tips for guide and porters",
+    "Extra nights caused by weather delays"
+  ],
+  "good_to_know": [
+    "Price is per person, twin sharing, with a shared helicopter seat; a private helicopter from Gorak Shep costs roughly US$ 3,500–4,500 per aircraft, depending on season.",
+    "Helicopters fly only in clear weather, usually 7–10 am. If the flight cannot leave on day 10, you wait at Gorak Shep or walk down to Pheriche and fly the next morning.",
+    "At 5,164 m payload is limited, so passengers may be shuttled in groups of two or three to Pheriche or Lukla, and duffels may follow on a later flight or with the porters.",
+    "Personal luggage on the helicopter is usually limited to about 10–15 kg; heavier bags travel with the porters to Lukla and fly to Kathmandu a day or two later.",
+    "Acclimatisation on the way up is the same as our 12-day trek, so altitude risk is not reduced; descent by helicopter is quicker if anyone becomes unwell near the top."
+  ],
+  "add_ons": [
+    {"name": "Private helicopter from Gorak Shep (up to 5 passengers)", "price": "≈ US$ 3,500–4,500 per helicopter"},
+    {"name": "Extra Kathmandu night with Bhaktapur tour", "price": "≈ US$ 90 per person"}
+  ],
+  "faqs": [
+    {"q": "How much does the EBC trek with heli return cost?", "a": "Our 11-day Everest Base Camp trek with helicopter return starts from about US$ 2,190 or ₹1,93,000 per person, twin sharing, including two Kathmandu nights, the Lukla flight, a shared helicopter seat from Gorak Shep, permits, lodges, meals, guide and porters."},
+    {"q": "Is a heli return from Everest Base Camp worth it?", "a": "For many trekkers, yes. It saves three days of walking down a trail you have already seen, ends with an aerial view of the Khumbu and reduces the risk of missing an international flight because of Lukla delays. It costs roughly US$ 600–900 more than walking out."},
+    {"q": "Where does the helicopter pick up on the EBC trek?", "a": "Usually at Gorak Shep after the Kala Patthar sunrise. If weather or payload requires it, pickups may be from Lobuche, Pheriche or Dingboche. Your guide coordinates by phone or radio and the pilot chooses the safest site."},
+    {"q": "Can I land at Everest Base Camp in the helicopter?", "a": "No. You walk to base camp the day before. Helicopters generally do not land at base camp itself, which is on moving glacier ice with expedition tents. Your pickup is from the Gorak Shep helipad nearby."},
+    {"q": "What if the helicopter cannot fly because of weather?", "a": "You wait for the next clear morning, at Gorak Shep or lower at Pheriche. Day 11 acts as a buffer. In rare long spells of bad weather, you can walk down to Lukla and fly from there; any unused helicopter cost is handled as per our terms."},
+    {"q": "Does the heli return reduce altitude sickness risk?", "a": "Not on the way up, which is the same as walking. It does speed up descent if you feel unwell near the top, and you spend less time at high altitude overall. Never rely on a helicopter in place of a sensible ascent rate."},
+    {"q": "What happens to my porters and guide?", "a": "They walk back to Lukla in two to three days and fly to Kathmandu, with their wages, food and flights included in your price. Please hand over tips before you board the helicopter, as you may not see them again."},
+    {"q": "Can I bring my big duffel on the helicopter?", "a": "Usually only one bag of about 10–15 kg per person, depending on payload at altitude. Larger duffels travel with the porters and reach Kathmandu a day or two later. Pack valuables and essentials in your daypack."},
+    {"q": "Is the helicopter return available in the monsoon?", "a": "This trek runs mainly in spring and autumn, when mornings are clearer. In the monsoon, cloud delays flights often. We do not recommend the heli return from June to August unless you have extra spare days."}
+  ]
+}

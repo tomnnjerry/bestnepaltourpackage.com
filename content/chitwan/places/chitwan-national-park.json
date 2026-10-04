@@ -1,0 +1,132 @@
+{
+  "slug": "chitwan-national-park",
+  "name": "Chitwan National Park",
+  "region": "chitwan",
+  "kind": "national park",
+  "wiki": "Chitwan National Park",
+  "image_query": "Chitwan National Park one-horned rhinoceros",
+  "lat": 27.5,
+  "lng": 84.33,
+  "altitude_m": 150,
+  "tagline": "Rhino, tiger and gharial country in Nepal's Inner Terai",
+  "meta_description": "Chitwan National Park safari guide: jeep, canoe and jungle walk prices, best months for rhino and tiger, lodges, park fees and how to reach from Kathmandu.",
+  "summary": "Chitwan National Park is Nepal's first national park, a 952 km² UNESCO site of sal forest, tall grassland and river in the Inner Terai. It holds most of Nepal's one-horned rhinos and over a hundred Bengal tigers. Most visitors spend two or three nights on jeep safaris, canoe trips and guided walks.",
+  "intro": [
+    "Chitwan was declared Nepal's first national park in 1973 and added to the UNESCO World Heritage list in 1984. It covers 952 km² of the Inner Terai between the Rapti, Reu and Narayani rivers, at 100 to about 815 m above sea level. Around 70 percent of the park is sal forest; the rest is riverine forest and grassland, some of it with elephant grass taller than a jeep. That mix is why it is so good for big mammals: rhinos graze the grassland edges, tigers hunt deer in the forest, and the rivers hold gharial and mugger crocodiles.",
+    "The numbers make the case. The 2021 census counted 694 one-horned rhinos in Chitwan, more than nine in ten of Nepal's 752, and the 2022 tiger survey put Chitwan's tigers at 128. A new rhino count has been planned for some time, so check current status before you travel. Add sloth bear, gaur (the Indian bison), leopard, four kinds of deer, wild elephant and well over 500 bird species, and you have the richest wildlife park in the Himalayan foothills.",
+    "There are several ways into the park. Sauraha on the north-east edge is the busy village with dozens of hotels, cafes and activity counters. Patihani and Jagatpur, near the park headquarters at Kasara, are quieter and closer to the gharial breeding centre. Meghauli in the west has the high-end lodges facing the Rapti grasslands. We place guests by budget and by what they want to see; a family wanting a pool and a short drive from Kathmandu needs a different base from a birder chasing the Bengal florican."
+  ],
+  "facts": [
+    ["Altitude", "100 – 815 m (lodges at ≈ 150 m)"],
+    ["Best months", "Oct – Apr; Feb – Apr for rhino and tiger sightings"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Bharatpur (≈ 25 min flight from Kathmandu)"],
+    ["From Kathmandu", "≈ 165 km · 5–7 h by road to Sauraha"],
+    ["Known for", "One-horned rhino, Bengal tiger, gharial, birding"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "One-horned rhino at close range", "text": "Rhinos graze the grassland and wade the Rapti oxbows within sight of the jeep tracks. On a half-day safari between February and April most guests see at least one; we have watched mothers with calves cross the river at Sauraha in full daylight."},
+    {"title": "Tiger tracking with naturalists", "text": "Chitwan's 128 tigers are shy, and a sighting is luck rather than a promise. Full-day jeep drives into the core, especially around Kasara and the Reu valley, give the best odds. Guides read pugmarks, scrapes and alarm calls from chital and langur to find where a tiger has passed."},
+    {"title": "Gharial on the Narayani and Rapti", "text": "The fish-eating gharial, critically endangered across South Asia, still breeds in Chitwan. The breeding centre at Kasara raises hatchlings for release, and canoe trips on the Rapti pass basking mugger crocodiles and, with luck, a gharial with its long, thin snout on a sandbank."},
+    {"title": "Over 500 bird species", "text": "Chitwan's checklist runs past 500 species, from the giant hornbill and lesser adjutant stork to the rare Bengal florican in the Meghauli grasslands. Winter adds ruddy shelducks and migrant waterfowl on the river; spring brings breeding colours and calling cuckoos."},
+    {"title": "Three ways to see the forest", "text": "Jeep for distance and the core zone, canoe for river birds and crocodiles, and a guided walk for tracks and sounds. Each feels different. We build packages so you try all three, rather than repeating the same jeep loop twice."},
+    {"title": "Tharu villages on the park edge", "text": "The Tharu have farmed the Inner Terai for centuries and many buffer-zone villages still keep mud-and-grass houses painted with clay reliefs. Evening stick dances in Sauraha and village walks show how farming families live beside rhinos that raid their mustard fields."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Buddha Air and Yeti/Tara fly Kathmandu–Bharatpur in about 25 minutes, several times a day in season. From Bharatpur Airport it is ≈ 15 km · 30 min to Sauraha, ≈ 15 km to Patihani and ≈ 35 km · 1 h to Meghauli. Morning fog in December and January can delay early flights."},
+    {"mode": "Road", "text": "Kathmandu to Sauraha is ≈ 165 km via Naubise, Mugling and Narayangarh, 5–7 h by private car depending on traffic and road works on the Mugling–Narayangarh stretch. Tourist buses leave Kathmandu around 7 am and reach Sauraha's bus park in 6–7 h. From Pokhara it is ≈ 150 km · 5–6 h."},
+    {"mode": "Road", "text": "From India, cross at Raxaul–Birgunj (≈ 150 km · 4–5 h to Sauraha via Hetauda) or Sunauli–Bhairahawa (≈ 165 km · 4–5 h via Butwal and Narayangarh). Indian-registered cars need a Nepal customs permit, called bhansar, at the border."}
+  ],
+  "where_to_stay": "Sauraha has the most choice, from budget guesthouses to comfortable resorts such as Green Park Chitwan, and you can walk to the river and the Tharu dance halls. Patihani and Jagatpur, near the park headquarters, suit travellers who want quiet: Kasara Resort, Jungle Villa Resort and Tigerland Safari (a Lemon Tree resort) all sit on the north bank of the Rapti there. For a top-end stay, Meghauli in the west has Meghauli Serai, A Taj Safari and Barahi Jungle Lodge, both facing the park across the river. Nothing is allowed inside the park itself; all lodges stand in the buffer zone.",
+  "stays": ["kasara-resort", "jungle-villa-resort", "tigerland-safari-resort"],
+  "tips": [
+    "Book the first jeep slot of the day; animals move most between 6 am and 10 am and again after 3 pm.",
+    "Wear green, brown or khaki and skip perfume, especially on jungle walks.",
+    "Carry your passport for the park permit; Indian and other SAARC nationals pay a lower fee than other foreigners.",
+    "From June to mid-September many core jeep tracks close because of floods and tall grass, so expect only buffer-zone drives.",
+    "Bring binoculars (8x42 is ideal) even if you are not a birder; rhino and deer often stay at the edge of the grass."
+  ],
+  "themes": ["wildlife-safari", "family-holidays", "photography", "short-breaks", "honeymoon"],
+  "nearby": ["sauraha", "meghauli", "bishazari-tal", "bharatpur"],
+  "experiences": [
+    {
+      "slug": "chitwan-jeep-safari",
+      "title": "Jeep safari into Chitwan's core zone",
+      "kind": "wildlife",
+      "duration": "4 hours (half day) or 8–9 hours (full day)",
+      "best_time": "Early morning or late afternoon, Oct–May",
+      "price_hint": "Shared half day ≈ NPR 2,500–3,500 per person plus park fee",
+      "image_query": "Chitwan National Park jeep safari rhino",
+      "wiki": "",
+      "summary": "An open-top jeep with a licensed naturalist covers 30 to 70 km of forest and grassland tracks, which gives the best odds of rhino, gaur, deer and, with luck, tiger. Half-day drives suit most visitors; full days reach the deeper core.",
+      "body": [
+        "Jeeps carry up to eight passengers on raised bench seats, with a driver and a park-licensed naturalist. From Sauraha you cross the Rapti by dugout or bridge to the park side, then drive through sal forest and grassland toward Kasara and the lakes of Lami Tal and Tamor Tal. The half-day loop usually takes in the crocodile-breeding ponds at Kasara and a few watchtowers where you stop, climb and scan the grass for movement.",
+        "A full-day safari, often called the deep jungle drive, goes further toward the Reu river and the western grasslands. It costs more and you spend eight or nine hours bouncing on dirt tracks with a packed lunch, but tiger and sloth bear sightings are more frequent away from the busy Sauraha sector. In February to April, when the grass has been cut and burned, visibility is at its best.",
+        "We book jeep slots for the morning departure where possible, since the first two hours after sunrise are the most active. Shared jeeps cost about NPR 2,500–3,500 per person for a half day and around NPR 4,000–6,000 for a full day, plus the daily park fee. A private jeep for a family runs higher, roughly NPR 14,000–20,000 per vehicle; prices change each season, so check current status before you travel."
+      ],
+      "good_for": ["families", "first-timers", "photographers", "seniors", "groups"],
+      "faqs": [
+        {"q": "What are the chances of seeing a tiger on a Chitwan jeep safari?", "a": "Honest answer: low on a single half-day drive, perhaps one trip in ten or fewer, and better on a full-day drive in February to May when grass is short and tigers come to water. Rhinos, spotted deer, wild boar, peacocks and crocodiles are near certain. We never promise a tiger, and any operator who does is guessing."},
+        {"q": "Is a full-day or half-day jeep safari better?", "a": "Half day suits families, seniors and anyone on a two-night trip; you see rhino and deer and are back for lunch. A full day is for keen wildlife watchers and photographers who can sit for eight hours on rough tracks. It goes deeper into the park, where tiger, sloth bear and gaur sightings are more likely."},
+        {"q": "Can children go on a jeep safari in Chitwan?", "a": "Yes. Children of any age can join a jeep safari, which is the safest way for families to see the park. Very young children find the full-day drive long and dusty, so we book a half-day morning trip for families with under-tens and carry water, snacks and a hat for each child."}
+      ]
+    },
+    {
+      "slug": "rapti-river-canoe-ride",
+      "title": "Dugout canoe ride on the Rapti",
+      "kind": "water",
+      "duration": "45–60 minutes on the water, 2–3 hours with the walk back",
+      "best_time": "Early morning, Oct–Mar; mist on the river Nov–Jan",
+      "price_hint": "≈ NPR 1,000–1,800 per person plus park fee",
+      "image_query": "Rapti river dugout canoe Chitwan",
+      "wiki": "East Rapti River",
+      "summary": "A quiet drift downstream in a dugout made from a single silk-cotton log, with a boatman and a naturalist. You see mugger crocodiles, kingfishers, herons and storks at eye level, and often rhinos drinking at the bank.",
+      "body": [
+        "The canoes are carved from a single trunk of the simal (silk-cotton) tree and seat six to eight people low on the water. From Sauraha the usual run starts at the Bhimle or Sauraha landing and drifts downstream for about 45 minutes; the boatman steers with a long pole while the naturalist points out mugger crocodiles on the mud, ruddy shelducks in winter and pied, stork-billed and common kingfishers on overhanging branches.",
+        "Most canoe rides end with a guided walk of 1 to 2 hours back through riverine forest, often past the Elephant Breeding Centre at Khorsor. This walk is inside the park, so the two-guide rule for walking safaris applies. From Patihani and Meghauli, lodges run their own canoe routes on quieter stretches of the Rapti and Narayani where gharial are seen more often than near Sauraha.",
+        "The canoes are low and stable but they do rock if someone stands up, so sit still and keep cameras close. In November to January river mist hangs until 9 am, which makes beautiful pictures but cuts visibility; a later start can be better. Expect to pay around NPR 1,000–1,800 per person including the guided walk, plus the park fee for the day."
+      ],
+      "good_for": ["couples", "photographers", "first-timers", "solo", "families"],
+      "faqs": [
+        {"q": "Is the Chitwan canoe ride safe with crocodiles in the river?", "a": "Yes, when you follow the boatman. Mugger crocodiles in the Rapti are wary of the canoes and stay on the banks or slide into the water as you pass. Keep your hands inside the canoe, stay seated and do not lean out for photos. Life jackets are not always provided, so non-swimmers can ask for one at booking."},
+        {"q": "Can I see gharial on the canoe ride?", "a": "Sometimes. The Sauraha stretch is busier, so mugger crocodiles are far more common there. Gharial bask on sandbanks on quieter sections near Kasara and Meghauli and on the Narayani. If seeing a gharial matters, visit the breeding centre at Kasara and choose a lodge in Patihani or Meghauli."},
+        {"q": "What is the best time of day for canoeing in Chitwan?", "a": "Early morning, from about 7 am, when birds are feeding and rhinos come to drink. In midwinter the river is often wrapped in fog until 9 am, so a mid-morning start gives clearer views. Late-afternoon canoes are pleasant in October, November, February and March."}
+      ]
+    },
+    {
+      "slug": "chitwan-guided-jungle-walk",
+      "title": "Guided walking safari in Chitwan",
+      "kind": "hiking",
+      "duration": "3–4 hours (half day) or 7–8 hours (full day)",
+      "best_time": "Morning, Oct–Mar; avoid midday from April",
+      "price_hint": "≈ NPR 2,500–3,500 per person half day plus park fee",
+      "image_query": "Chitwan jungle walk guides rhino tracks",
+      "wiki": "",
+      "summary": "On foot with two licensed guides, you follow rhino trails, read tiger pugmarks and listen for alarm calls. It is the most intense way to feel the forest, but you must follow every instruction from the guides.",
+      "body": [
+        "Walking safaris enter the park on foot from Sauraha, Kasara or Meghauli with a minimum of two licensed naturalists, one leading and one at the back. The guides carry bamboo sticks, not guns. The pace is slow: you stop to look at fresh rhino dung, a sloth bear's dig marks on a termite mound, tiger scratch marks on a tree trunk, and to listen for the barking call of a spotted deer that warns of a predator.",
+        "A half-day walk covers 6 to 10 km. A full-day walk can reach 15 to 20 km and often combines with a canoe ride or a stop at a watchtower. Chitwan's walks are real wildlife encounters, not nature trails; rhinos and sloth bears are the main risk, and guides brief you on climbing a tree, running in zigzags or standing still depending on the animal. Groups usually stay under six walkers.",
+        "We book walking safaris only for fit adults and teenagers who are comfortable with the risk and will follow instructions without argument. Wear closed shoes, long trousers in dull colours and carry 1.5 litres of water. Half-day walks cost around NPR 2,500–3,500 per person, full days around NPR 4,500–6,000, plus park fees; check current status before you travel."
+      ],
+      "good_for": ["solo", "couples", "photographers", "groups"],
+      "faqs": [
+        {"q": "Is a jungle walk in Chitwan dangerous?", "a": "It carries real risk, which is why the park requires at least two licensed guides. Rhinos and sloth bears can charge if surprised. Accidents are rare when walkers stay together, keep quiet and do exactly what guides say. We do not book walks for children under 12, pregnant travellers or anyone who cannot move quickly over rough ground."},
+        {"q": "What will I see on a Chitwan walking safari?", "a": "More detail and fewer big animals than on a jeep. You will see tracks, dung, scratch marks and birds at close range, plus deer, monkeys and often a rhino in the grass. Tiger sightings on foot are rare. The experience is about reading the forest and feeling its scale."},
+        {"q": "How long is the jungle walk and how fit do I need to be?", "a": "A half-day walk is 3 to 4 hours over flat ground, with some sand, river crossings by canoe and grass taller than your head. You need to be able to walk 8 to 10 km and move quickly if told. A full-day walk is 7 to 8 hours and suits regular walkers."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Chitwan National Park?", "a": "Two nights is the minimum and covers a jeep safari, a canoe ride, a Tharu village visit and an evening dance show. Three nights lets you add a full-day jeep drive or walking safari and gives a second chance at tiger and sloth bear. Keen birders and photographers should plan four nights, ideally split between Sauraha and Meghauli."},
+    {"q": "What is the Chitwan National Park entry fee?", "a": "As we understand it, the park fee is NPR 2,000 per person per day for foreigners, NPR 1,000 for SAARC nationals including Indians, and NPR 150 for Nepalis, collected each day you enter the park. Activities such as jeep safaris are charged on top. Fees change, so check current status before you travel; our packages include them."},
+    {"q": "When is the best time to visit Chitwan?", "a": "October to April. October and November are green and clear; December and January are cool with foggy mornings; February to April is the peak for wildlife because the grass is cut and animals gather at water. May and early June are very hot, above 38 °C. Mid-June to mid-September is monsoon, with many tracks closed."},
+    {"q": "Can I see tigers in Chitwan?", "a": "You can, but it is never guaranteed. Chitwan had 128 tigers in the 2022 survey, and sightings have grown more frequent since then, especially on full-day jeep drives from February to May. Most visitors see pugmarks rather than the tiger itself. Rhinos, by contrast, are seen on almost every trip."},
+    {"q": "Do you offer elephant rides in Chitwan?", "a": "No. We do not sell elephant-back safaris or elephant bathing. Riding and training methods raise serious welfare concerns, and the jeep, canoe and walking safaris show the park well without them. You can still see working elephants at the government breeding centre near Sauraha and learn about their care and the issues around it."},
+    {"q": "Is Chitwan good for a family holiday with kids?", "a": "Yes, it is one of the best family trips in Nepal: low altitude, short travel from Kathmandu, and animals children actually see. Choose a resort with a pool, book half-day jeep safaris rather than full days, and skip the walking safari for under-12s. Canoe rides, the breeding centres and the Tharu dance show go down well."},
+    {"q": "Is Chitwan safe for tourists?", "a": "Yes. Sauraha and the lodge areas are relaxed and well used to visitors. The main risks are wildlife on walking safaris, heat in May and June, and mosquitoes in the wet season. Use repellent, sleep under a net or in a screened room, and never walk into the park or along the riverbank alone after dark."},
+    {"q": "Which is better in Chitwan, Sauraha or Meghauli?", "a": "Sauraha is livelier and cheaper, with many hotels, cafes and easy activity bookings, and it suits most families and budget travellers. Meghauli is quieter, has fewer vehicles in its sector of the park, and is home to the luxury lodges. For a first visit on a budget, choose Sauraha; for a honeymoon or a serious safari, Meghauli."},
+    {"q": "What should I pack for a Chitwan safari?", "a": "Clothes in green, khaki or brown, a light fleece for winter mornings (it can drop to 7 °C), a sun hat, closed shoes, insect repellent, binoculars, a torch and a refillable bottle. In March to May add light long sleeves for the sun. A dust scarf helps in the jeep."}
+  ]
+}

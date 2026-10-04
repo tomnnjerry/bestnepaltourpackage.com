@@ -1,0 +1,133 @@
+{
+  "slug": "lumbini",
+  "name": "Lumbini",
+  "region": "lumbini",
+  "kind": "pilgrimage site",
+  "wiki": "Lumbini",
+  "image_query": "Maya Devi Temple Lumbini sacred pond",
+  "lat": 27.4814,
+  "lng": 83.2758,
+  "altitude_m": 150,
+  "tagline": "Birthplace of the Buddha, marked by Ashoka's pillar since 249 BCE",
+  "meta_description": "Lumbini travel guide: Maya Devi Temple, the marker stone, Ashoka pillar, the monastic zone by bicycle, sarus cranes, hotels, fees and best months.",
+  "summary": "Lumbini, 22 km west of Bhairahawa in Nepal's Terai, is where Siddhartha Gautama was born around 563 BCE. A UNESCO World Heritage Site since 1997, it holds the Maya Devi Temple and marker stone, Ashoka's inscribed pillar and a 4.8 km master-planned zone of monasteries built by Buddhist nations.",
+  "intro": [
+    "Lumbini sits on the flat Terai plain at about 150 m, 8 km from the Indian border as the crow flies and 22 km by road from Bhairahawa. Buddhist tradition holds that Queen Maya Devi, travelling from Kapilavastu to her parents' home in Devdaha, stopped in a sal grove here and gave birth to Prince Siddhartha. Emperor Ashoka came on pilgrimage in the 20th year of his reign, around 249 BCE, and raised a sandstone pillar whose Brahmi inscription says plainly that the Buddha was born here. That inscription is the reason scholars accept Lumbini as the birthplace.",
+    "The site lay forgotten under jungle for centuries until the pillar was identified in 1896. Today the whole area follows a master plan drawn up by Japanese architect Kenzo Tange in the 1970s: a 4.8 km by 1.6 km rectangle split into the Sacred Garden in the south, the Monastic Zone in the middle and New Lumbini Village with the museum in the north. A long central canal ties the three together. The Monastic Zone holds more than two dozen temples built by countries from Thailand and Myanmar to Germany, China and South Korea.",
+    "Most visitors give Lumbini one full day, but two nights let you see the Sacred Garden at opening time, when monks chant under the bodhi tree, and cover the monasteries by bicycle without rushing. Lumbini is also the base for the wider Nepal Buddhist circuit: Tilaurakot (ancient Kapilavastu) 27 km west, Ramagrama 60 km east and Devdaha 35 km north-east. Indian travellers often arrive by road through the Sonauli border, 26 km away, while flights land at Gautam Buddha International Airport in Bhairahawa."
+  ],
+  "facts": [
+    ["Altitude", "150 m"],
+    ["Best months", "Oct – Mar (Feb, Mar, Oct, Nov ideal)"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 20 km)"],
+    ["From Kathmandu", "≈ 35 min flight to Bhairahawa, or ≈ 300 km · 8–10 h by road"],
+    ["Known for", "Maya Devi Temple, marker stone, Ashoka pillar, monastic zone, sarus cranes"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Maya Devi Temple and the marker stone", "text": "A plain white temple, opened in 2003, protects brick foundations dating back to the 3rd century BCE. Inside, under protective glass, lies the marker stone found in 1996 that archaeologists link to the exact spot of the birth. A worn nativity relief shows Maya Devi holding a branch."},
+    {"title": "Ashoka pillar and its inscription", "text": "Beside the temple stands the 6 m sandstone pillar Emperor Ashoka raised around 249 BCE. Its five-line Brahmi text records that the Buddha was born here and that Lumbini village was freed from tax. It is the oldest inscription found in Nepal."},
+    {"title": "Puskarini, the sacred pond", "text": "South of the temple lies the square, brick-lined pond where tradition says Maya Devi bathed before the birth and the infant received his first bath. Pilgrims circle it slowly, and the bodhi tree beside it is hung thick with prayer flags."},
+    {"title": "Monastic Zone temples", "text": "Theravada monasteries from Thailand, Myanmar, Sri Lanka and Cambodia line the eastern side of the canal; Mahayana and Vajrayana temples from China, Korea, Vietnam, Germany and Nepal fill the western side. Each follows its own national style, which makes a slow cycle ride the best way to see them."},
+    {"title": "World Peace Pagoda", "text": "The white stupa built by the Japanese Nipponzan Myohoji order, inaugurated in 2001, stands just outside the master-plan area. A golden Buddha faces each direction, and the terrace is a quiet spot for late-afternoon light."},
+    {"title": "Sarus cranes at the sanctuary", "text": "The wetlands at the northern end of the Lumbini area hold the Lumbini Crane Sanctuary. Sarus cranes, the tallest flying birds on earth at up to 1.8 m, feed in the surrounding rice fields, most easily seen from November to March."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Buddha Air, Yeti Airlines and Shree Airlines fly Kathmandu to Gautam Buddha International Airport (BWA) in Bhairahawa in about 35 minutes, usually several times a day. From the airport it is about 20 km and 30–40 minutes by car to the Lumbini hotels. Morning flights in December and January are sometimes delayed by fog; check current status before you travel."},
+    {"mode": "Road", "text": "From Kathmandu the road runs via Mugling, Narayanghat and Butwal, ≈ 300 km · 8–10 h depending on highway works. From Pokhara via the Siddhartha Highway and Butwal it is ≈ 210 km · 7–8 h; from Chitwan (Sauraha) ≈ 180 km · 5 h. Tourist buses run from Kathmandu and Pokhara to Bhairahawa, with local buses and taxis for the last 22 km."},
+    {"mode": "Road", "text": "From India, cross at Sonauli–Belahiya, then drive ≈ 26 km · 45 min to Lumbini. Gorakhpur is ≈ 100 km · 3 h from the border, Kushinagar ≈ 150 km · 4 h and Varanasi ≈ 330 km · 9–10 h. Indians need a passport or voter ID; other nationals need a passport and a Nepal visa, issued on arrival at Belahiya."},
+    {"mode": "Rail", "text": "There is no railway in Lumbini. The closest major station is Gorakhpur Junction in Uttar Pradesh, about 100 km from the border. The smaller Nautanwa station is 8 km from Sonauli but has only a handful of trains a day."}
+  ],
+  "where_to_stay": "Lumbini has three hotel clusters. The quietest is inside or beside the master-plan area, where Buddha Maya Gardens and Lumbini Hokke Hotel sit a short walk or cycle from the Sacred Garden; this is where we put most pilgrims. Lumbini Bazaar (Mahilwar) at the eastern gate has simpler guesthouses, restaurants and bicycle hire. Some groups, and travellers arriving late by air, stay 20 km away in Bhairahawa at Hotel Nirvana and drive in each morning. Several monasteries offer basic rooms to practising Buddhists, but these should be arranged directly and respectfully with each monastery.",
+  "stays": ["buddha-maya-gardens-lumbini", "lumbini-hokke-hotel"],
+  "tips": [
+    "Reach the Sacred Garden at opening time, around 6 am, to hear morning chanting before day-trippers arrive.",
+    "Shoes come off at the Maya Devi Temple entrance and photography is not allowed inside, so carry socks in winter.",
+    "Hire a bicycle or a battery rickshaw for the monastic zone; the site is over 4 km long and has almost no shade.",
+    "From April to June midday heat reaches 38–42 °C, so plan temples for early morning and late afternoon.",
+    "Buy entry tickets at the gate or online at the Lumbini Development Trust ticketing site and keep them handy for checks."
+  ],
+  "themes": ["pilgrimage", "buddhist-circuit", "cultural-tours", "wellness-yoga", "short-breaks", "overland-from-india", "festivals"],
+  "nearby": ["tilaurakot", "bhairahawa", "devdaha", "ramagrama"],
+  "experiences": [
+    {
+      "slug": "lumbini-maya-devi-temple-marker-stone-visit",
+      "title": "Maya Devi Temple, marker stone and Ashoka pillar",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "6–9 am, Oct–Mar",
+      "price_hint": "Included in our Lumbini packages; entry fee extra if travelling independently",
+      "image_query": "Maya Devi Temple Lumbini Ashoka pillar",
+      "wiki": "",
+      "summary": "A guided morning in the Sacred Garden: the brick ruins and marker stone inside the Maya Devi Temple, Ashoka's 249 BCE pillar, the Puskarini pond and the bodhi tree, timed for the early chanting hour before the heat and the crowds.",
+      "body": [
+        "We start at the southern gate of the Sacred Garden shortly after it opens. The walk to the temple passes the foundations of brick stupas and monasteries built between the 3rd century BCE and the 9th century CE, laid out in neat rows after excavation. The Maya Devi Temple itself is a simple white structure from 2003, built to protect the much older layers beneath. Inside, a raised boardwalk circles the ruins to the marker stone, a small slab found in 1996 and kept under glass, which archaeologists associate with the precise spot of the birth.",
+        "Next to the temple stands Ashoka's pillar. Your guide reads the Brahmi inscription line by line: the emperor came here in person, worshipped, declared that the Buddha Shakyamuni was born here, and reduced the village's tax to one-eighth of its produce. Most pilgrims then walk clockwise around the Puskarini, the brick-lined pond where tradition places the queen's bath, and sit for a while under the bodhi tree where Theravada monks often chant in the early morning.",
+        "Expect to spend 2–3 hours, longer if you join a chanting session or meditate. There is very little shade, so carry water and a hat after 9 am in spring. Remove shoes before entering the temple; a shoe rack is provided. Photography of the marker stone is not permitted. In January the garden can sit in fog until 10 am, which gives a soft, quiet atmosphere but poor photographs."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Can we photograph the marker stone inside the Maya Devi Temple?", "a": "No. Photography is not allowed inside the Maya Devi Temple, and staff ask visitors to keep phones away. You can photograph the temple exterior, the Ashoka pillar, the Puskarini pond and the bodhi tree freely. Early morning gives the best light on the white temple walls and the prayer flags."},
+        {"q": "What is the Maya Devi Temple entry fee?", "a": "Entry is charged through a Lumbini Development Trust conservation fee that varies by nationality. Reports from 2026 put it at about NPR 80 for Indian nationals, NPR 700 for SAARC and Myanmar nationals and NPR 1,000 for other foreigners, with tickets at the gate, by QR payment or online. Fees were revised in 2026, so check current status before you travel."},
+        {"q": "How long should we spend in the Sacred Garden?", "a": "Allow two to three hours for the temple, the pillar, the pond and the bodhi tree at an unhurried pace. Pilgrims who meditate or join monks' chanting often stay half a day. If you have only one day in Lumbini, do the Sacred Garden at opening time and the monastic zone after 3 pm, when the heat drops."}
+      ]
+    },
+    {
+      "slug": "lumbini-monastic-zone-bicycle-tour",
+      "title": "Monastic zone temples by bicycle",
+      "kind": "culture",
+      "duration": "4 hours",
+      "best_time": "Afternoon from 3 pm, Oct–Mar",
+      "price_hint": "≈ ₹600 per person for bicycle hire; guide included in our packages",
+      "image_query": "Lumbini monastic zone Myanmar Golden Temple",
+      "wiki": "",
+      "summary": "A flat 12–15 km cycle loop along both sides of the central canal, stopping at the Royal Thai Monastery, Myanmar Golden Temple, Chinese Zhong Hua Temple, the German Lotus Stupa, the Korean temple and the Vietnamese pagoda, ending at the World Peace Pagoda for sunset.",
+      "body": [
+        "The monastic zone is laid out on either side of a straight canal that runs north from the Sacred Garden. Countries following Theravada Buddhism built on the eastern side, so this half of the ride covers the white marble Royal Thai Monastery, the Myanmar Golden Temple with its Shwedagon-style Lokamani Cula pagoda, and the Sri Lankan and Cambodian monasteries. The paths are paved or packed earth and completely flat, so any reasonably fit adult or child over ten can manage.",
+        "Crossing to the western side brings the Mahayana and Vajrayana temples: the Chinese Zhong Hua Temple with its courtyard and curved roofs, the Great Drigung Kagyud Lotus Stupa funded from Germany with its painted interior, the large Korean temple and the Vietnamese Phat Quoc Tu pagoda. Most temples open their main halls roughly from morning to late afternoon with a lunchtime break; remove shoes before entering any shrine room and dress with shoulders and knees covered.",
+        "We usually ride in the afternoon after the Sacred Garden morning, covering 12–15 km in about four hours with stops. The loop ends at the World Peace Pagoda just outside the master-plan area, where late light falls on the golden Buddha statues. Bicycles are hired in Lumbini Bazaar or through the hotels; battery rickshaws are an easy option for seniors or anyone not keen on cycling."
+      ],
+      "good_for": ["families", "couples", "solo", "photographers", "groups"],
+      "faqs": [
+        {"q": "Is cycling in Lumbini safe for children?", "a": "Yes, for children who can already ride confidently. The monastic zone roads are flat and carry only light traffic, mostly rickshaws, motorbikes and the occasional tourist bus near the main gates. We suggest children over ten ride their own bicycle and younger ones share a battery rickshaw with a parent. Helmets are not always available locally, so bring one if your child normally wears one."},
+        {"q": "Which monasteries in Lumbini are worth seeing?", "a": "If time is short, prioritise the Royal Thai Monastery, the Myanmar Golden Temple, the Chinese Zhong Hua Temple, the German-funded Great Drigung Kagyud Lotus Stupa and the World Peace Pagoda. Together they show Theravada, Mahayana and Vajrayana styles within about 12 km of riding. Add the Korean and Vietnamese temples if you have a full afternoon."},
+        {"q": "Can we do the monastic zone by car instead?", "a": "Private cars are restricted in parts of the master-plan area, and distances between temples are short, so a car is slower than it sounds. Battery rickshaws are the usual alternative and cost roughly NPR 1,500–2,500 for a half-day hire, depending on stops and bargaining. They suit seniors, small children and anyone visiting in the April–June heat."}
+      ]
+    },
+    {
+      "slug": "lumbini-sarus-crane-sanctuary-walk",
+      "title": "Sarus cranes at Lumbini Crane Sanctuary",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "Early morning or late afternoon, Nov–Mar",
+      "price_hint": "≈ ₹2,500 per group for a local birding guide",
+      "image_query": "Sarus crane Lumbini Nepal",
+      "wiki": "Sarus crane",
+      "summary": "A slow morning walk through the wetlands and rice fields north of the monastic zone, looking for sarus cranes, the world's tallest flying bird, along with storks, egrets and winter ducks, guided by a local birder.",
+      "body": [
+        "The Lumbini Crane Sanctuary was set up by the Lumbini Development Trust with the International Crane Foundation to protect the sarus cranes that live around the master-plan area. These grey birds with red heads stand up to 1.8 m tall and pair for life; farmers in Rupandehi and Kapilvastu have long left them alone in their fields. The sanctuary land at the northern end of Lumbini mixes grassland, ponds and planted trees, and the surrounding paddies are where you usually find the cranes feeding.",
+        "We go out at first light or after 4 pm with a local birder who knows where pairs have been seen that week. On a good winter morning you may also see woolly-necked and Asian openbill storks, black-headed ibis, purple herons, pond herons and a few lesser adjutants. Sarus cranes call in loud duets at dawn, which is often the first sign they are near.",
+        "Sightings are likely but never guaranteed, since cranes move between fields with the harvest cycle. November to March is the best season, when birds gather near water after the rice harvest; during the monsoon they spread out to nest. Wear muted colours, bring binoculars and keep at least 50 m from the birds. Walking is on field bunds and earth tracks, about 3–4 km in total."
+      ],
+      "good_for": ["photographers", "families", "couples", "solo"],
+      "faqs": [
+        {"q": "When is the best time to see sarus cranes in Lumbini?", "a": "November to March is best. After the rice harvest the cranes gather around ponds and stubble fields near the sanctuary and are easier to spot. Go at dawn or after 4 pm, when they feed and call. In the monsoon months they disperse to nest in wet paddies, and sightings become harder."},
+        {"q": "Do we need a guide for crane watching?", "a": "A guide is not compulsory, but a local birder raises your chances a great deal because crane pairs move between fields week to week. Guides also know which bunds are passable and how close you can approach without disturbing nesting birds. We arrange one for about ₹2,500 per group for a morning outing."},
+        {"q": "What camera lens do we need for sarus cranes?", "a": "A 300–400 mm lens works well, since you should stay 50 m or more from the birds. Cranes are large, so even a 200 mm lens gives usable pictures of pairs in flight or dancing. Morning mist in December and January softens images; February and March bring clearer light."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Lumbini?", "a": "One full day covers the Sacred Garden and the main monasteries, but two nights is more comfortable. That allows a dawn visit to the Maya Devi Temple, an afternoon cycle through the monastic zone, the crane wetlands, and a half-day trip to Tilaurakot (ancient Kapilavastu). Pilgrims adding Ramagrama and Devdaha should plan four to five nights."},
+    {"q": "What is the best time to visit Lumbini?", "a": "October to March is the comfortable season, with day temperatures of 18–28 °C. February, March, October and November are ideal. December and January bring morning fog and cool nights near 7 °C. April to June is very hot, often 38–42 °C, and the June to September monsoon is humid and wet, though Buddha Jayanti in April or May still draws large crowds."},
+    {"q": "How do I reach Lumbini from Kathmandu?", "a": "The quickest way is a 35-minute flight from Kathmandu to Gautam Buddha International Airport in Bhairahawa, then a 30–40 minute drive. By road it is about 300 km and 8–10 hours via Mugling, Narayanghat and Butwal, by private car or tourist bus. Highway widening can add time, so check current status before you travel."},
+    {"q": "Do Indians need a passport to visit Lumbini?", "a": "No. Indian citizens can enter Nepal at Sonauli–Belahiya with a valid passport or an Election Commission voter ID card. Under current rules, children below 15 and adults above 65 can usually show another photo ID with proof of age, such as Aadhaar or a PAN card. No visa is needed. Rules can change, so check current status before you travel."},
+    {"q": "How far is Lumbini from the Sonauli border?", "a": "About 26 km, which takes 45 minutes to an hour by car. The road runs from Belahiya on the Nepal side through Bhairahawa (Siddharthanagar) and then west to Lumbini. Taxis and shared jeeps wait on the Nepal side of the border, and our packages include a private car from the border."},
+    {"q": "Is Lumbini worth visiting for non-Buddhists?", "a": "Yes. Lumbini is one of the few places where an ancient inscription confirms a founder's birthplace, and the monastic zone works like an open-air museum of Asian temple design, from Thai marble to Korean timber halls. Hindu visitors also honour Maya Devi, and the crane wetlands appeal to nature lovers. Allow at least one full day."},
+    {"q": "What should I wear at Lumbini temples?", "a": "Wear loose clothes that cover shoulders and knees, and shoes you can slip off easily, since every shrine room requires bare feet. In winter carry socks for the cold temple floors. A hat and sunscreen are essential from March to June. White or light colours are common among pilgrims but not required."},
+    {"q": "Are there good hotels in Lumbini?", "a": "Yes, mostly in the 3-star range. Buddha Maya Gardens and Lumbini Hokke Hotel are close to the Sacred Garden and suit families and pilgrim groups. Lumbini Bazaar has budget guesthouses. Larger groups sometimes stay in Bhairahawa, 20 km away, at Hotel Nirvana. Rooms fill quickly around Buddha Jayanti, so book early for April and May."},
+    {"q": "Can I meditate in Lumbini?", "a": "Yes. Many monasteries welcome visitors to morning and evening chanting, and the Sacred Garden has quiet spots under trees. For structured practice, the Panditarama Lumbini International Vipassana Meditation Centre and the Dhamma Janani Vipassana centre run retreats on their own schedules. Apply to them directly; our meditation package adds daily guided sessions around a hotel stay."}
+  ]
+}

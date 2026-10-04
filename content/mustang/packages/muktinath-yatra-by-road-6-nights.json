@@ -1,0 +1,171 @@
+{
+  "slug": "muktinath-yatra-by-road-6-nights",
+  "title": "Muktinath Yatra by Jeep from Kathmandu, 6 Nights",
+  "region": "mustang",
+  "type": "pilgrimage",
+  "grade": "Moderate",
+  "nights": 6,
+  "themes": ["pilgrimage", "budget-nepal", "family-holidays", "overland-from-india"],
+  "stops": [{"place": "kathmandu", "nights": 1}, {"place": "pokhara", "nights": 2}, {"place": "marpha", "nights": 0}, {"place": "jomsom", "nights": 2}, {"place": "muktinath", "nights": 0}, {"place": "kagbeni", "nights": 0}],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu or Pokhara",
+  "price_from_inr": 32000,
+  "price_from_usd": 390,
+  "best_months": [0, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3710,
+  "accommodation": "3-star hotels in Kathmandu and Pokhara, best available hotels in Tatopani and Jomsom",
+  "transport": "Private tourist vehicle Kathmandu–Pokhara, private 4WD jeep Pokhara–Jomsom–Muktinath",
+  "group": "Private family or group, 2–14 (one jeep per 6 people)",
+  "meta_description": "Muktinath yatra by road in 7 days and 6 nights from Kathmandu: Pokhara, Tatopani hot springs, Marpha, Jomsom, Kagbeni and Muktinath by private jeep. From ₹32,000.",
+  "summary": "A 7-day, 6-night overland Muktinath yatra by private jeep from Kathmandu, climbing the Kali Gandaki gorge through Tatopani's hot springs, Marpha and Jomsom before darshan at Muktinath. No flight cancellations to worry about and the lowest cost, but long, bumpy drives. From ₹32,000 per person.",
+  "intro": [
+    "The road to Muktinath is one of the great drives of the Himalaya. From Pokhara it follows the Kali Gandaki upstream through the deepest gorge on earth, from subtropical villages with banana trees at Beni to the dry, Tibetan-style landscape of Mustang, between the snow walls of Dhaulagiri and Annapurna. This yatra breaks it into manageable stages, with a night at the Tatopani hot springs and two nights in Jomsom so you approach Muktinath gradually.",
+    "Travelling by jeep avoids the Jomsom flight lottery and suits families with budgets in mind, groups travelling from India by road and anyone who wants to see the land change mile by mile. The trade-off is time and comfort: the road beyond Beni is unpaved in parts, dusty in spring and prone to landslides in the monsoon, and some days involve 7–9 hours of driving. Our drivers know every bend and plan stops at waterfalls, tea shops and viewpoints."
+  ],
+  "highlights": [
+    "Drive the Kali Gandaki gorge between Dhaulagiri and Annapurna",
+    "Hot spring bath at Tatopani on the way up",
+    "Rupse waterfall and Thakali villages of Ghasa and Kalopani",
+    "Marpha apple village and two nights in Jomsom",
+    "Muktinath darshan and Kagbeni Shaligram in one day",
+    "No dependence on weather-sensitive mountain flights"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, Pashupatinath",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "Airport–hotel · 30 min",
+      "flight": "",
+      "text": "Arrive in Kathmandu by air or overland via Sonauli or Raxaul and transfer to your hotel. In the late afternoon visit Pashupatinath for darshan and the evening aarti on the Bagmati ghats, then Guhyeshwari temple nearby. Your guide holds a short briefing on the journey ahead, explains the rough road sections and collects ID copies for the ACAP permit, which we issue in Kathmandu at the SAARC rate for Indian nationals.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Drive Kathmandu to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 200 km · 6–7 h",
+      "flight": "",
+      "text": "Leave Kathmandu by 7 am on the Prithvi Highway, descending to the Trishuli river and following it past rafting beaches and roadside fish stalls to Mugling, then up the Marsyangdi and Seti valleys to Pokhara. Stop for lunch on the way; the Manakamana cable car can be added for a temple visit. Arrive in Pokhara mid-afternoon, check in and visit Bindhyabasini temple and Phewa Lake at sunset.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Pokhara to Tatopani hot springs",
+      "place": "",
+      "overnight": "Tatopani",
+      "altitude_m": 1190,
+      "max_m": 1190,
+      "walk": "",
+      "drive": "≈ 115 km · 5–6 h",
+      "flight": "",
+      "text": "Board 4WD jeeps after breakfast and drive west to Nayapul and Baglung, then down to Beni (830 m), where the Myagdi Khola joins the Kali Gandaki and the paved road ends. The jeep track climbs along the river through Galeshwor, where a Shiva temple sits on the bank, to Tatopani (1,190 m). Soak in the natural hot spring pools by the river in the evening, a welcome rest after the drive. Lodges here are simple but clean.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Through the gorge to Marpha and Jomsom",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 2720,
+      "walk": "",
+      "drive": "≈ 70 km · 4–5 h",
+      "flight": "",
+      "text": "Today the scenery changes completely. The jeep passes the Rupse Chhahara waterfall, climbs through the narrowest part of the Kali Gandaki gorge to Ghasa and the pine forests of Lete and Kalopani, with Dhaulagiri's icefall towering above. Beyond Tukuche the valley opens and dries. Stop in Marpha (2,670 m) to walk the flagstone lane, visit the monastery and taste dried apples, then drive the last 20 minutes to Jomsom (2,720 m). Rest and drink plenty of water.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Muktinath darshan and Kagbeni",
+      "place": "muktinath",
+      "overnight": "Jomsom",
+      "altitude_m": 2720,
+      "max_m": 3710,
+      "walk": "≈ 1–2 h at temple and river",
+      "drive": "Jomsom–Muktinath–Kagbeni–Jomsom · ≈ 50 km · 3 h",
+      "flight": "",
+      "text": "Early start for Muktinath, 1–1.5 hours up the valley via Eklebhatti and Jharkot. Walk up from Ranipauwa (3,700 m) to the temple (3,710 m) for darshan, the 108 spouts and the Jwala Mai flame. After lunch, drive down to Kagbeni (2,810 m) to search for Shaligram at the confluence and, if booked, perform shraddha with a priest. Visit Kag Chode monastery before returning to Jomsom by late afternoon. Sleeping at Jomsom keeps the night 1,000 m lower than Muktinath.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Drive Jomsom back to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 2720,
+      "walk": "",
+      "drive": "≈ 160 km · 8–9 h",
+      "flight": "",
+      "text": "A long day down the valley: leave Jomsom at 6 am, before the wind, and retrace the road through Marpha, Kalopani, Ghasa, Tatopani and Beni to Pokhara. Stops for tea at Tukuche and lunch at Tatopani break the drive. Arrive in Pokhara in the late afternoon. If you prefer, you can fly Jomsom–Pokhara instead (supplement applies), adding a free afternoon in Pokhara.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Return to Kathmandu or onward to India",
+      "place": "kathmandu",
+      "overnight": "",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 200 km · 6–7 h (or 25 min flight)",
+      "flight": "",
+      "text": "Drive back to Kathmandu along the Prithvi Highway for your departure, or head south from Pokhara towards Sunauli and the Indian border via Butwal (about 8 hours), a common choice for groups travelling overland from Uttar Pradesh, Bihar or Gujarat. A flight Pokhara–Kathmandu can replace the drive. Our service ends at the airport, border or your hotel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-oms-home-jomsom"],
+  "includes": [
+    "6 nights' accommodation on twin sharing: 3-star in Kathmandu and Pokhara, best available in Tatopani and Jomsom",
+    "Breakfast daily, all meals from day 3 to day 6 (vegetarian)",
+    "Private tourist vehicle Kathmandu–Pokhara–Kathmandu",
+    "Private 4WD jeep Pokhara–Jomsom–Muktinath–Pokhara",
+    "ACAP permit",
+    "Hindi and English-speaking guide",
+    "Tatopani hot spring entry",
+    "Airport or border transfers",
+    "All government taxes"
+  ],
+  "excludes": [
+    "Flights to and from Nepal",
+    "Priest dakshina, puja items and donations",
+    "Horse or porter at Muktinath",
+    "Optional Jomsom–Pokhara flight",
+    "Manakamana cable car",
+    "Travel insurance",
+    "Personal expenses and drinks",
+    "Tips for guide and drivers"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 6 travellers sharing one private jeep, with 3-star hotels in Kathmandu and Pokhara; groups of 2–4 pay more per person because the jeep cost is split fewer ways.",
+    "The road beyond Beni is partly unpaved and rough, with dust in spring and landslide risk from June to September. Drives may take longer than shown.",
+    "Lodges in Tatopani and Jomsom are simple compared with city hotels; we choose those with attached bathrooms and hot water.",
+    "Muktinath is at 3,710 m. We sleep in Jomsom, but people with heart or lung disease should take medical advice first.",
+    "Indian nationals need a passport or voter ID card; vehicles entering from India need a Nepal customs permit (bhansar) at the border."
+  ],
+  "add_ons": [
+    {"name": "Jomsom–Pokhara flight on day 6", "price": "≈ ₹7,000 per person"},
+    {"name": "Manakamana cable car and darshan", "price": "≈ ₹3,500 per person"},
+    {"name": "Extra night in Pokhara", "price": "≈ ₹3,500 per person"}
+  ],
+  "faqs": [
+    {"q": "How much is the Muktinath yatra by road from Kathmandu?", "a": "This 7-day, 6-night jeep yatra starts at ₹32,000 per person on twin sharing for six travellers sharing a private jeep, including hotels, most meals, permit and guide. For couples or small families sharing a jeep, expect ₹40,000–55,000 per person. Check current status before you travel."},
+    {"q": "How long is the drive from Pokhara to Muktinath?", "a": "Pokhara to Muktinath is about 185 km and takes 8–10 hours of driving by jeep. We split it over two days with a night at Tatopani hot springs, then reach Jomsom on the second day and visit Muktinath on the third, which is gentler and safer for acclimatisation."},
+    {"q": "Is the road to Muktinath safe?", "a": "In the main seasons the road is used daily by jeeps and buses and is reasonably safe with an experienced local driver. Sections beyond Beni are narrow and unpaved, and in the monsoon landslides can block it for hours or days. We avoid July and August by road and drive only in daylight."},
+    {"q": "Can we drive our own car from India to Muktinath?", "a": "Indian vehicles can enter Nepal with a customs permit (bhansar) at the border, but the road beyond Beni needs a high-clearance 4WD, and some sections are tough for ordinary cars. Most groups park in Pokhara and take local jeeps for the Mustang section. Check current road status before you travel."},
+    {"q": "Which is better: Muktinath by road or by flight?", "a": "By road is cheaper and not affected by flight cancellations, and you see the full gorge, but it means long, dusty drives. By flight is quicker and more comfortable, ideal for seniors, but flights can be delayed for days. Many families fly one way and drive the other."},
+    {"q": "Is Muktinath by road suitable for senior citizens?", "a": "Fit seniors manage it, but the drives of 5–9 hours on rough roads are tiring and jolting. Those with back problems, recent surgery or heart conditions should choose the flight or helicopter option. We plan regular stops and keep the pace gentle, and sleep in Jomsom rather than Muktinath."},
+    {"q": "When is the best time for Muktinath yatra by road?", "a": "March to May and October to November are best, with dry roads and clear views. Late September is good once the monsoon ends. Avoid July and August, when landslides frequently block the Beni–Jomsom section. Winter is possible but cold, and snow can block the road above Jomsom."},
+    {"q": "Can we start this Muktinath trip from Pokhara?", "a": "Yes. If you are already in Pokhara or coming overland from Sunauli, start on day 3 and the trip becomes 5 days and 4 nights, reducing the price. Many groups from Uttar Pradesh and Bihar enter at Sunauli, drive to Pokhara and join the jeep section from there."},
+    {"q": "What are hotels like in Tatopani and Jomsom?", "a": "Tatopani has simple riverside lodges with attached bathrooms and basic rooms. Jomsom has better hotels; we use Hotel Om's Home, a 3-star with heating and good vegetarian food. Neither matches city hotels in luxury, but both are clean and comfortable for a pilgrimage."}
+  ]
+}

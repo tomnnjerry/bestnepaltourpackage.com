@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "shivapuri-heights-cottage",
+    "name": "Shivapuri Heights Cottage",
+    "place": "shivapuri-nagarjun-national-park",
+    "kind": "boutique hotel",
+    "class": "Premium",
+    "wiki": "",
+    "image_query": "Shivapuri Heights Cottage Budhanilkantha",
+    "summary": "A small hillside retreat of traditional-style cottages above Budhanilkantha, on the edge of Shivapuri Nagarjun National Park, with seven rooms, home-cooked meals and terraces looking over the Kathmandu Valley. About 30 minutes' drive and a short walk from the city.",
+    "body": [
+      "Shivapuri Heights Cottage sits on the forested slopes above Budhanilkantha at roughly 1,800 m, at the edge of the national park. It is a small property: three rooms in the main cottage, two in a smaller cottage and two more in a separate house, each individually decorated with private balconies or patios. The last stretch is reached on foot from the road, which keeps it quiet and away from traffic noise.",
+      "Meals are home-cooked with local ingredients and served on the terrace or in the dining room, and the property offers massage, a sauna and Nepali cooking classes. Guests use it as a base for walks to Nagi Gompa and Shivapuri peak, birdwatching from the terrace, or simply as a calm first or last night away from central Kathmandu. Water is solar heated and there is Wi-Fi."
+    ],
+    "why": [
+      "Quiet hillside setting with direct access to Shivapuri trails",
+      "Only seven rooms, so it feels like staying in a private house",
+      "Good final night after a Langtang trek before an international flight"
+    ],
+    "best_for": ["couples", "families", "solo", "photographers"],
+    "website": "",
+    "faqs": [
+      {"q": "How far is Shivapuri Heights Cottage from Kathmandu airport?", "a": "It is about 7 km north of central Kathmandu, around 30 minutes by car from Thamel plus a short walk up from the road, and roughly 45 minutes to 1 hour from Tribhuvan International Airport depending on traffic. Bring a small daypack for the walk; staff help with luggage."},
+      {"q": "Can I hike into Shivapuri National Park from the cottage?", "a": "Yes. The cottages sit on the edge of the park, and trails lead towards Nagi Gompa and Shivapuri peak. You still pay the park entry fee at the gate. A guide is recommended for longer hikes, and the property can help arrange one."},
+      {"q": "Is Shivapuri Heights Cottage suitable for families?", "a": "Yes, the separate cottages and quiet grounds suit families who want space, and children enjoy the gardens and birdlife. The final walk up from the road and the hillside paths mean it is less suitable for travellers with limited mobility. Ask about room configurations when booking."}
+    ]
+  },
+  {
+    "slug": "park-village-resort",
+    "name": "Park Village Resort by KGH Group",
+    "place": "shivapuri-nagarjun-national-park",
+    "kind": "4-star hotel",
+    "class": "Premium",
+    "wiki": "",
+    "image_query": "Park Village Resort Budhanilkantha Kathmandu",
+    "summary": "A 4-star resort on about five acres of wooded grounds at Budhanilkantha, at the foot of Shivapuri Nagarjun National Park and a short walk from the Budhanilkantha temple. Pool, spa and gardens, about 30 minutes from Kathmandu airport.",
+    "body": [
+      "Park Village Resort is run by the KGH Group, the company behind Kathmandu Guest House, and sits in Budhanilkantha on the north-western rim of the Kathmandu Valley. Its low-rise buildings are spread through mature gardens and trees, giving a resort feel well away from the noise of Thamel. The Shivapuri Nagarjun National Park gate and the Budhanilkantha temple are each about 8 minutes' walk away.",
+      "The resort has a swimming pool, spa, gym, restaurants and conference halls, and it is popular with families and groups who want greenery and space while staying within reach of the city. For trekkers, it is a comfortable base for a Shivapuri peak or Nagi Gompa hike, or a restful night before or after a Langtang, Helambu or Chisapani trek. The airport is around 30 minutes away by car, traffic permitting."
+    ],
+    "why": [
+      "Walking distance to Budhanilkantha temple and the Shivapuri park gate",
+      "Pool, spa and gardens for a rest day after trekking",
+      "Larger property that handles family and group bookings easily"
+    ],
+    "best_for": ["families", "groups", "couples", "seniors"],
+    "website": "",
+    "faqs": [
+      {"q": "Where is Park Village Resort located?", "a": "Park Village Resort is in Budhanilkantha, on the northern edge of the Kathmandu Valley at the foot of Shivapuri Nagarjun National Park. The Budhanilkantha temple and the park gate are each about 8 minutes' walk away, and Kathmandu airport is roughly 30 minutes by car, depending on traffic."},
+      {"q": "Is Park Village Resort good before a Langtang trek?", "a": "Yes. Budhanilkantha is on the northern side of the city, so it avoids some central traffic, and the quiet grounds make for a good rest before the 7–8 hour drive to Syabrubesi. Your driver can collect you directly from the resort. It also suits a recovery night after the trek."},
+      {"q": "Does Park Village Resort have a swimming pool?", "a": "Yes, the resort has an outdoor swimming pool along with a spa, gym and restaurants. Pool opening may be seasonal, as Kathmandu winters are cool. Check facility status when booking if a swim is important to your plans."}
+    ]
+  }
+]

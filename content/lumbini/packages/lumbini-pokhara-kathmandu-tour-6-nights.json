@@ -1,0 +1,90 @@
+{
+  "slug": "lumbini-pokhara-kathmandu-tour-6-nights",
+  "title": "Lumbini, Pokhara and Kathmandu Tour 6 Nights",
+  "region": "lumbini",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": ["cultural-tours", "buddhist-circuit", "photography", "honeymoon"],
+  "stops": [
+    {"place": "lumbini", "nights": 2},
+    {"place": "tansen", "nights": 0},
+    {"place": "pokhara", "nights": 2},
+    {"place": "kathmandu", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 45000,
+  "price_from_usd": 640,
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1600,
+  "accommodation": "3-star hotels in Lumbini, Pokhara and Kathmandu (4- and 5-star upgrades available)",
+  "transport": "Kathmandu–Bhairahawa and Pokhara–Kathmandu flights; private car Lumbini–Pokhara and for sightseeing",
+  "group": "Private, 2–10",
+  "meta_description": "Lumbini, Pokhara and Kathmandu tour, 7 days: fly to Lumbini, drive via Tansen to Pokhara, fly to Kathmandu. Maya Devi Temple, Sarangkot sunrise, city heritage.",
+  "summary": "Seven days that connect Nepal's three essential stops with two short flights and one scenic drive: fly from Kathmandu to Lumbini for the Buddha's birthplace, drive through the hills via Tansen to Pokhara for lakes and Annapurna sunrise, then fly back to Kathmandu for its great stupas and temple squares.",
+  "intro": [
+    "This is our most efficient way to add Lumbini to a classic Nepal holiday. Instead of the long road journeys most tours use, you fly from Kathmandu to Bhairahawa on arrival day and spend two nights at the Buddha's birthplace. The drive north to Pokhara follows the Siddhartha Highway through the hills, with lunch in the old town of Tansen. After two nights by Phewa Lake, a 25-minute flight returns you to Kathmandu for two days of sightseeing.",
+    "It works for first-time visitors from any country who want a balanced trip of pilgrimage, mountain scenery and culture in a week. Indian travellers can do the same route and pay rupee fares on the domestic flights. The package suits couples and families equally, with optional upgrades to 4- or 5-star hotels in Pokhara and Kathmandu."
+  ],
+  "highlights": [
+    "Same-day connection from Kathmandu to Lumbini by a 35-minute flight",
+    "Maya Devi Temple at dawn and the monastic zone by bicycle",
+    "Scenic Siddhartha Highway drive with lunch in Tansen",
+    "Sarangkot sunrise and a boat on Phewa Lake",
+    "Swayambhunath, Patan, Boudhanath and Pashupatinath"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive Kathmandu, fly on to Lumbini", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "≈ 20 km · 35 min from Bhairahawa airport", "flight": "Kathmandu–Bhairahawa · 35 min", "text": "Arrive at Tribhuvan International Airport, where our representative meets you and helps you transfer to the domestic terminal for an afternoon flight to Bhairahawa. If your international flight lands after about 2 pm, we arrange a Kathmandu night instead and fly the next morning. In Bhairahawa, our driver takes you to your hotel near the Sacred Garden for dinner and a quiet first night on the warm Terai plain.", "meals": "Dinner"},
+    {"day": 2, "title": "Lumbini at dawn and the monasteries", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 4 km", "drive": "", "flight": "", "text": "Enter the Sacred Garden at opening time to see the Maya Devi Temple and marker stone, Ashoka's 249 BCE pillar and the Puskarini pond. After breakfast and rest through the midday heat, cycle the monastic zone with your guide: Theravada monasteries of Thailand, Myanmar and Sri Lanka on the east side, and the Chinese, Korean, Vietnamese and German temples on the west. End at the World Peace Pagoda for sunset.", "meals": "B, D"},
+    {"day": 3, "title": "Drive to Pokhara via Tansen", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1350, "walk": "≈ 1 h in Tansen", "drive": "≈ 210 km · 7–8 h", "flight": "", "text": "Leave Lumbini after breakfast and drive through Butwal into the Tinau gorge on the Siddhartha Highway. Climb to Tansen, about 1,350 m, for lunch and a short walk past Tansen Durbar's Baggi Dhoka gate and the Newar houses of the old town. Continue north via Syangja and Waling, crossing ridges with views of terraced valleys, and reach Pokhara by late afternoon. Evening walk along Lakeside.", "meals": "B, D"},
+    {"day": 4, "title": "Sarangkot sunrise and Phewa Lake", "place": "pokhara", "overnight": "Pokhara", "altitude_m": 822, "max_m": 1600, "walk": "≈ 2 h in short sections", "drive": "≈ 40 km in town", "flight": "", "text": "Drive to Sarangkot before dawn for sunrise over Machhapuchhre, the Annapurna range and Dhaulagiri from about 1,600 m. After breakfast, visit Davis Falls and the Gupteshwor Mahadev cave. In the afternoon, take a boat across Phewa Lake to the Tal Barahi temple and walk up to the World Peace Pagoda on the ridge above the lake for views back over the town and mountains.", "meals": "B, D"},
+    {"day": 5, "title": "Fly to Kathmandu, Patan in the afternoon", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 2 h", "drive": "City transfers", "flight": "Pokhara–Kathmandu · 25 min", "text": "Take a morning flight to Kathmandu; on clear days the Himalaya runs along the left side of the aircraft. Check in at your hotel, then visit Patan Durbar Square in the afternoon with a licensed guide. Its temples, palace courtyards and the Patan Museum hold some of the finest Newar metal and wood craftsmanship in the valley. Walk the lanes to the Golden Temple, a Buddhist monastery courtyard, before returning to the hotel.", "meals": "B, D"},
+    {"day": 6, "title": "Kathmandu stupas and temples", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 3 h in short sections", "drive": "≈ 30 km in the city", "flight": "", "text": "Climb to Swayambhunath at the start of the day, when pilgrims circle the stupa and butter lamps burn in the shrines. Continue to Pashupatinath on the Bagmati, Nepal's holiest Hindu temple, and then Boudhanath, the great white stupa ringed by Tibetan monasteries; stay for the evening kora when the crowd thickens. Farewell dinner at a Nepali restaurant with cultural performance (optional).", "meals": "B, D"},
+    {"day": 7, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 6 km · 30 min to the airport", "flight": "", "text": "Free morning for shopping in Thamel or Asan bazaar, or a last walk to a nearby temple. Our driver transfers you to Tribhuvan International Airport about three hours before your international flight. If you are extending your stay, we can add Chitwan, Nagarkot or a mountain flight from here.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini"],
+  "includes": [
+    "Kathmandu–Bhairahawa and Pokhara–Kathmandu economy flights",
+    "6 nights at 3-star hotels, twin sharing",
+    "Daily breakfast and dinner",
+    "Private car for the Lumbini–Pokhara drive and all sightseeing",
+    "Local guide in Lumbini; licensed guide in Kathmandu and Patan",
+    "Lumbini Sacred Garden entry fee",
+    "Sarangkot sunrise drive and Phewa Lake boat",
+    "All airport transfers"
+  ],
+  "excludes": [
+    "International flights",
+    "Nepal visa fee",
+    "Kathmandu and Patan heritage entry fees",
+    "Lunches and drinks",
+    "Paragliding and optional activities",
+    "Tips for guides and drivers",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Prices assume two people sharing at 3-star hotels in October–March; the INR price uses rupee fares for Indian nationals, and the USD price uses dollar fares for other foreign nationals.",
+    "A same-day connection to Bhairahawa needs an international arrival before about 2 pm; otherwise we add a Kathmandu night.",
+    "Domestic flights allow about 15–20 kg of checked baggage; excess is charged per kilo.",
+    "Fog can delay winter flights from December to January, and monsoon cloud can affect Pokhara flights. Check current status before you travel.",
+    "Upgrades to 4- or 5-star hotels in Pokhara and Kathmandu are available at extra cost."
+  ],
+  "add_ons": [
+    {"name": "Upgrade to 5-star hotels in Pokhara and Kathmandu", "price": "≈ ₹28,000 per person"},
+    {"name": "Paragliding tandem flight at Sarangkot", "price": "≈ ₹8,000 per person"},
+    {"name": "Everest mountain flight from Kathmandu", "price": "≈ US$ 240 per seat"}
+  ],
+  "faqs": [
+    {"q": "How do I travel from Lumbini to Pokhara?", "a": "By road, Lumbini to Pokhara is about 210 km via Butwal and the Siddhartha Highway, taking 7–8 hours with a lunch stop in Tansen. There is no direct flight; flying would mean connecting through Kathmandu. Tourist and local buses also run via Butwal, but a private car is far more comfortable."},
+    {"q": "Can I visit Lumbini, Pokhara and Kathmandu in one week?", "a": "Yes. This 6-night tour does exactly that, using a flight from Kathmandu to Bhairahawa on arrival, a scenic drive from Lumbini to Pokhara and a short flight back to Kathmandu. You get two nights in each place without any drive over eight hours."},
+    {"q": "What does this tour cost?", "a": "It starts at about ₹45,000 per person for Indian nationals or US$ 640 for other foreign nationals, twin sharing, including two domestic flights, 3-star hotels, breakfast and dinner, a private car and guides. The difference reflects domestic airfares, which are much lower for Indian nationals."},
+    {"q": "Why not drive from Kathmandu to Lumbini?", "a": "The road takes 8–10 hours each way via Mugling and Narayanghat, and widening works often add delays. A 35-minute flight saves a full day. If you enjoy road travel or are on a tighter budget, we can replace the first flight with a drive and add a night in Chitwan on the way."},
+    {"q": "Is this tour good for a honeymoon?", "a": "Yes. Couples like the calm of Lumbini, sunrise at Sarangkot, lake views in Pokhara and evenings around Boudhanath. We recommend upgrading Pokhara to a lakeside or hillside 4- or 5-star resort and can add a private boat on Phewa Lake or a candlelit dinner."},
+    {"q": "Which side of the plane gives mountain views on these flights?", "a": "Flying Kathmandu to Bhairahawa, sit on the right side for the Himalaya. Flying Pokhara to Kathmandu, sit on the left. Views are best on clear mornings from October to February. Small aircraft often have free seating, so check in early."},
+    {"q": "Do we need a guide in Pokhara?", "a": "Not necessarily. Pokhara is easy to explore, and our driver knows all the sights. We include guides in Lumbini, where the history matters, and in Kathmandu, where licensed guides are recommended at heritage sites. A Pokhara guide can be added on request."},
+    {"q": "Can we add Chitwan to this itinerary?", "a": "Yes. The easiest way is to add two nights in Chitwan after Pokhara, driving about five hours, then fly from Bharatpur to Kathmandu or drive five to six hours. Alternatively, see our Lumbini and Chitwan family tour, which links the two directly."},
+    {"q": "When is the best time for this tour?", "a": "October to April. October and November have the clearest views after the monsoon; December to February is cool and dry, with foggy mornings in Lumbini; March and April bring warmer days and rhododendrons. May is very hot in Lumbini, and June to September brings monsoon rain and cloud."}
+  ]
+}

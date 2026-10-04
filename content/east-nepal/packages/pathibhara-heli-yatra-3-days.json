@@ -1,0 +1,82 @@
+{
+  "slug": "pathibhara-heli-yatra-3-days",
+  "title": "Pathibhara Devi Heli Yatra 2N/3D",
+  "region": "east-nepal",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["heli-tours", "pilgrimage", "overland-from-india", "short-breaks"],
+  "stops": [
+    {"place": "kanyam", "nights": 2},
+    {"place": "pathibhara", "nights": 0},
+    {"place": "antu-danda", "nights": 0}
+  ],
+  "start": "Bhadrapur airport or Kakarbhitta border",
+  "end": "Bhadrapur airport or Kakarbhitta border",
+  "price_from_inr": 38000,
+  "price_from_usd": 440,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 3794,
+  "accommodation": "Standard hotel or tea-garden resort in Fikkal or Kanyam",
+  "transport": "Private car, shared helicopter shuttle Kanyam–Pathibhara–Kanyam",
+  "group": "Private family or group, 2–10",
+  "meta_description": "Pathibhara Devi heli yatra 3 days from Kakarbhitta or Bhadrapur: shared helicopter from Kanyam, darshan at 3,794 m, Antu Danda sunrise. From ₹38,000.",
+  "summary": "A 3-day helicopter pilgrimage to Pathibhara Devi for families and seniors who cannot manage the long road and climb. Stay two nights near the Kanyam tea gardens, fly by shared helicopter to the landing area near the 3,794 m shrine for darshan, and catch sunrise at Antu Danda before returning to the border or Bhadrapur.",
+  "intro": [
+    "The road yatra to Pathibhara takes five or six nights and a 4–5 hour climb at altitude. This version cuts that to two nights with a helicopter. In the pilgrim seasons, operators run shared shuttles from Kanyam, two hours from the Kakarbhitta border, to a landing area near the summit, about half an hour's flight. From there a short, steep walk leads to the shrine. You are back at your hotel by lunchtime.",
+    "Helicopter flights depend on the morning weather. They usually fly from first light until cloud builds in late morning, and they carry fewer passengers at this altitude, so larger families may fly in two groups. Time at the top is limited, usually 30–45 minutes. Because you land at 3,794 m without acclimatising, anyone with heart or lung disease, uncontrolled blood pressure or pregnancy should not take this trip. The spare morning on day 3 can be used as a weather backup."
+  ],
+  "highlights": [
+    "Darshan at Pathibhara Devi without the 4–5 hour climb",
+    "Helicopter views over the Mechi and Tamor hills, Kanchenjunga on clear mornings",
+    "Two nights among the Kanyam tea gardens",
+    "Antu Danda sunrise on the border ridge",
+    "Backup morning built in for weather"
+  ],
+  "days": [
+    {"day": 1, "title": "Kakarbhitta or Bhadrapur to Kanyam", "place": "kanyam", "overnight": "Fikkal / Kanyam", "altitude_m": 1650, "max_m": 1650, "walk": "", "drive": "≈ 60–65 km · 2 h", "flight": "", "text": "We meet you at the Kakarbhitta border or Bhadrapur airport and drive up the Mechi Highway to the tea slopes of Kanyam, at about 1,650 m. After check-in, walk the open tea gardens in the afternoon light. In the evening your guide confirms the helicopter schedule, weighs luggage limits and gives a short briefing on what to expect at altitude and at the shrine.", "meals": "Dinner"},
+    {"day": 2, "title": "Helicopter darshan at Pathibhara", "place": "pathibhara", "overnight": "Fikkal / Kanyam", "altitude_m": 1650, "max_m": 3794, "walk": "≈ 1 h at the top", "drive": "Hotel–helipad · 15 min", "flight": "Kanyam–Pathibhara–Kanyam · ≈ 30 min each way", "text": "After an early breakfast we go to the helipad for the first sorties of the morning, when skies are clearest. The flight crosses the hills of Ilam and Panchthar towards the Tamor valley, with Kanchenjunga ahead on clear days. From the landing area near the summit, walk slowly up the final steps to the shrine for darshan and offerings, spending about 30–45 minutes at the top before the return flight. Afternoon free to rest.", "meals": "B, L, D"},
+    {"day": 3, "title": "Antu Danda sunrise, return to border", "place": "antu-danda", "overnight": "", "altitude_m": 100, "max_m": 2328, "walk": "", "drive": "≈ 1 h to Antu Danda, then ≈ 3 h to Kakarbhitta", "flight": "", "text": "If yesterday's flight went to plan, we drive in the dark to Antu Danda at 2,328 m for sunrise over the plains and the Kanchenjunga range. If weather cancelled the flight, this morning is used for the helicopter instead. After breakfast we drive down through Fikkal and Charali to the Kakarbhitta border or Bhadrapur airport, arriving around midday.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Shared helicopter seat Kanyam–Pathibhara–Kanyam",
+    "2 nights in a standard hotel or tea-garden resort, twin sharing",
+    "Breakfast daily, lunch on day 2, dinners on days 1–2",
+    "Private car for all road transfers and Antu Danda",
+    "Hindi- and English-speaking yatra guide",
+    "Pick-up and drop-off at Kakarbhitta or Bhadrapur",
+    "Pulse oximeter and basic oxygen support carried by the guide"
+  ],
+  "excludes": [
+    "Flights to and from Bhadrapur",
+    "Private helicopter charter (available at extra cost)",
+    "Puja items and donations",
+    "Fuel surcharges imposed by the helicopter operator",
+    "Drinks, snacks and personal expenses",
+    "Travel insurance",
+    "Tips"
+  ],
+  "good_to_know": [
+    "Price assumes 2 people sharing a room and a shared helicopter shuttle with 4–5 passengers at local seat rates.",
+    "Helicopters fly only in clear morning weather; flights can be delayed or cancelled, and fares are refunded or rescheduled as per the operator's policy.",
+    "Altitude limits payload, so groups may be split across two sorties and baggage is restricted to a small bag.",
+    "Time at the summit is usually 30–45 minutes. Do not fly if you have heart or lung disease, uncontrolled blood pressure or are pregnant.",
+    "Landing rules and shuttle bases can change with construction and local decisions; check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Private helicopter charter from Bhadrapur (up to 5)", "price": "On request, typically from ≈ US$ 2,500 per helicopter"},
+    {"name": "Extra night in Ilam with Mai Pokhari", "price": "≈ ₹5,500 per person"}
+  ],
+  "faqs": [
+    {"q": "How much is the Pathibhara helicopter yatra?", "a": "This 3-day package starts from about ₹38,000 per person, twin sharing, with a shared helicopter seat from Kanyam, two nights' hotel, private car and guide. Seat fares change with fuel prices; we confirm the current rate when you book."},
+    {"q": "How long is the helicopter flight to Pathibhara?", "a": "From Kanyam about 30 minutes each way, depending on wind and the exact route. From Phungling the flight takes only a few minutes, and from Dharan about half an hour."},
+    {"q": "Does the helicopter land at the temple?", "a": "It lands at a landing area near the summit. From there you walk a short but steep section to the shrine. Take it slowly; you are at almost 3,800 m."},
+    {"q": "What if the helicopter cannot fly?", "a": "We use the day 3 morning as a backup. If both mornings are cloudy, shared seat fares are normally refunded by the operator as per their policy, and we can offer the road and walking route with extra nights at cost."},
+    {"q": "Is the heli yatra safe for senior citizens?", "a": "For healthy seniors, generally yes, and it is the most popular way for older devotees to visit. Flying straight to 3,794 m can cause breathlessness. People with heart or lung conditions should not fly; consult your doctor first."},
+    {"q": "Can children fly to Pathibhara?", "a": "Yes, children usually count as a full seat. Infants and toddlers are more vulnerable to altitude and cold at the summit, so we advise against taking children under about five."},
+    {"q": "How much luggage can I carry on the helicopter?", "a": "Only a small daypack with water, a warm layer and puja items. Main luggage stays at the hotel. Weight matters at altitude, so passengers and bags may be weighed before boarding."},
+    {"q": "Can we start the heli yatra from Siliguri?", "a": "Yes. Siliguri to the Kakarbhitta border is about an hour, and Kanyam is about 2 hours beyond. We collect you at the border on day 1 and drop you there on day 3, in time to reach Siliguri or Bagdogra by afternoon."},
+    {"q": "Is a private helicopter charter possible?", "a": "Yes, from Bhadrapur, Biratnagar or Kanyam for up to five passengers, subject to weight. It gives flexible timing and a slightly longer stay at the top. Price on request; it depends on flying hours and fuel."}
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "slug": "khopra-danda-trek-8-days",
+  "title": "Khopra Danda Trek 8 Days from Pokhara",
+  "region": "annapurna",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 7,
+  "themes": ["trekking", "photography", "budget-nepal"],
+  "stops": [
+    {"place": "pokhara", "nights": 1},
+    {"place": "ghandruk", "nights": 0},
+    {"place": "khopra-danda", "nights": 2},
+    {"place": "ghorepani", "nights": 1},
+    {"place": "poon-hill", "nights": 0}
+  ],
+  "start": "Pokhara (hotel pick-up)",
+  "end": "Pokhara",
+  "price_from_inr": 59000,
+  "price_from_usd": 690,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 4660,
+  "accommodation": "3-star hotel in Pokhara, community lodges and teahouses on the trail",
+  "transport": "Private jeep Pokhara–Ghandruk and Hile–Pokhara",
+  "group": "Private or small group, 2–10",
+  "meta_description": "Khopra Danda trek in 8 days from Pokhara: Tadapani, Dobato, two nights on the 3,660 m Khopra ridge, Khayer Lake, Swanta, Ghorepani and Poon Hill sunrise.",
+  "summary": "An 8-day loop from Pokhara that climbs above the Poon Hill crowds to Khopra Danda, a 3,660 m ridge facing Dhaulagiri, with an optional day hike to sacred Khayer Lake at about 4,660 m. We return via the Magar village of Swanta and finish with sunrise on Poon Hill.",
+  "intro": [
+    "Khopra Danda is where we send trekkers who have a week, want more than Poon Hill and do not want the crowds of the ABC trail. The ridge sits 450 m higher than Poon Hill and much closer to Dhaulagiri and Annapurna South, and instead of a tower full of people you have a community lodge to yourself at sunset. The lodges on this route were built to fund village schools and clinics, so your nights here put money straight into the hills.",
+    "We walk the loop from east to west: jeep to Ghandruk, up through forest to Tadapani and the high clearing at Dobato, then along the ridge via Bayeli Kharka to Khopra. A full day on the ridge allows the Khayer Lake hike or a rest with the view. The descent goes down to Swanta, then up to Ghorepani for a final dawn on Poon Hill. Walking days are 4–6 hours, apart from the optional 8–9 hour lake hike."
+  ],
+  "highlights": [
+    "Two nights on the Khopra ridge facing Dhaulagiri, 8,167 m",
+    "Optional day hike to Khayer Lake, about 4,660 m, under Annapurna South",
+    "Sunset from the Mulde viewpoint near Dobato",
+    "Community-run lodges that fund local villages",
+    "Magar hospitality and local cheese in Swanta",
+    "A final sunrise on Poon Hill, 3,210 m"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara, briefing",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "Airport or bus park transfer",
+      "flight": "",
+      "text": "We meet you in Pokhara and check you into a lakeside hotel. Your guide comes by in the afternoon to explain the loop, check sleeping bags and warm layers, and give you the ACAP permit. The Khopra lodges are basic, so this is the moment to buy or rent anything missing, especially a sleeping bag rated to −10 °C and a power bank. Spend the evening by Phewa Lake, where Machhapuchhre often appears above the water at sunset.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Jeep to Ghandruk, walk to Tadapani",
+      "place": "ghandruk",
+      "overnight": "Tadapani",
+      "altitude_m": 2630,
+      "max_m": 2630,
+      "walk": "≈ 3–4 h · 6 km",
+      "drive": "≈ 55 km · 3 h",
+      "flight": "",
+      "text": "A jeep takes us via Nayapul and Kimche to Ghandruk, the big Gurung village at 1,940 m, in about 3 hours. After a short look at its stone lanes and lunch with a view of Annapurna South, we climb about 700 m through terraces and then forest to Tadapani at 2,630 m. The last hour is a steady climb on stone steps under rhododendrons. Tadapani's lodges face Machhapuchhre, and the evening light on its fishtail summit is worth waiting for.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 3,
+      "title": "Tadapani to Dobato",
+      "place": "",
+      "overnight": "Dobato",
+      "altitude_m": 3420,
+      "max_m": 3640,
+      "walk": "≈ 5–6 h · 9 km",
+      "drive": "",
+      "flight": "",
+      "text": "Leaving the main Poon Hill trail behind, we head north through thick rhododendron and oak forest, climbing steadily with few other trekkers. The path is narrower and can be muddy after rain. Dobato, a cluster of simple lodges at about 3,420 m, sits in a clearing below the ridge. In the late afternoon we climb 40 minutes to the Mulde viewpoint at about 3,640 m for sunset across Dhaulagiri, the Annapurnas and Machhapuchhre, returning by headtorch. Today's gain is about 800 m.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 4,
+      "title": "Dobato via Bayeli Kharka to Khopra",
+      "place": "khopra-danda",
+      "overnight": "Khopra Danda",
+      "altitude_m": 3660,
+      "max_m": 3660,
+      "walk": "≈ 5–6 h · 9 km",
+      "drive": "",
+      "flight": "",
+      "text": "The trail continues through forest and across open pastures, dropping into side valleys and climbing out again, past the herders' clearing at Bayeli Kharka. Above the tree line the views widen, and the final stretch traverses grassy slopes to the community lodge on Khopra Danda at 3,660 m. The whole Dhaulagiri range stands across the Kali Gandaki to the west, with Annapurna South and Fang towering behind. Sunset from the knoll above the lodge is the main event of the day.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 5,
+      "title": "Khayer Lake hike or rest on the ridge",
+      "place": "khopra-danda",
+      "overnight": "Khopra Danda",
+      "altitude_m": 3660,
+      "max_m": 4660,
+      "walk": "≈ 8–9 h return (optional)",
+      "drive": "",
+      "flight": "",
+      "text": "Strong walkers leave at first light for Khayer Lake, a sacred lake at about 4,660 m beneath the glaciers of Annapurna South. The route climbs about 1,000 m across pasture and moraine, faint in places, and takes 4–5 hours up and 3–4 back. Hindu pilgrims visit at Janai Purnima in August. Anyone who prefers a gentler day stays on the ridge, walks to nearby viewpoints, watches the herders and enjoys a second Dhaulagiri sunset. Both options return to the same lodge.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 6,
+      "title": "Khopra down to Swanta",
+      "place": "",
+      "overnight": "Swanta",
+      "altitude_m": 2214,
+      "max_m": 3660,
+      "walk": "≈ 4–5 h · 8 km",
+      "drive": "",
+      "flight": "",
+      "text": "After a last dawn on Dhaulagiri, we descend steeply, losing about 1,450 m through pasture, then rhododendron and oak forest, past Chistibang's community lodge at 3,026 m. Knees work hard today; poles help. Swanta, at 2,214 m, is a Magar village of stone houses and terraced fields with a small tradition of yak and cow cheese making. The family lodges serve dal bhat with vegetables from their gardens, and the evening is quiet and friendly.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 7,
+      "title": "Swanta to Ghorepani",
+      "place": "ghorepani",
+      "overnight": "Ghorepani",
+      "altitude_m": 2874,
+      "max_m": 2874,
+      "walk": "≈ 4 h · 7 km",
+      "drive": "",
+      "flight": "",
+      "text": "A gentle climb of about 660 m leads through farmland and forest to Ghorepani at 2,874 m, rejoining the main Poon Hill trail. After the quiet days on the ridge, the village of blue-roofed lodges feels busy. The afternoon is free for a hot shower, laundry or a stroll through the village. Bed early tonight: the Poon Hill alarm is set for 4:45 am.",
+      "meals": "B, L, D"
+    },
+    {
+      "day": 8,
+      "title": "Poon Hill sunrise, down to Pokhara",
+      "place": "poon-hill",
+      "overnight": "Pokhara",
+      "altitude_m": 822,
+      "max_m": 3210,
+      "walk": "≈ 1.5 h Poon Hill + 4–5 h · 12 km",
+      "drive": "≈ 50 km · 2.5 h",
+      "flight": "",
+      "text": "We climb about 340 m by headtorch to Poon Hill, 3,210 m, for sunrise over Dhaulagiri, Nilgiri, Annapurna South and Machhapuchhre, a familiar line-up after Khopra but from a new angle. After breakfast in Ghorepani we descend via Nangethanti, Banthanti and the long Ulleri staircase to Hile, losing about 1,450 m. The jeep is waiting for the 2.5-hour drive back to Pokhara, arriving in the late afternoon.",
+      "meals": "B, L"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Airport or bus park pick-up in Pokhara",
+    "1 night 3-star lakeside hotel in Pokhara with breakfast",
+    "Private jeep Pokhara–Ghandruk and Hile–Pokhara",
+    "Licensed trekking guide familiar with the Khopra route",
+    "One porter for every two trekkers",
+    "ACAP entry permit and any trekking registration currently required",
+    "Community lodge and teahouse rooms with all trail meals",
+    "Purified water refills and first-aid kit"
+  ],
+  "excludes": [
+    "Kathmandu–Pokhara flights or bus",
+    "Extra hotel nights in Pokhara after the trek",
+    "Travel insurance with helicopter evacuation to 5,000 m",
+    "Poon Hill viewpoint ticket, hot showers and charging",
+    "Drinks, snacks and desserts",
+    "Tips for guide and porter",
+    "Costs of leaving the trek early"
+  ],
+  "good_to_know": [
+    "Price is per person on twin sharing for 2 or more trekkers; at Khopra and Dobato, twin rooms are limited and a dormitory night is possible in peak October.",
+    "The ACAP permit costs NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals including Indians, and is included. Licensed-guide rules apply to foreign trekkers since 2023; check current status before you travel.",
+    "The trail between Dobato and Khopra crosses open pasture and is hard to follow in cloud or snow; do not walk it alone.",
+    "The Khayer Lake hike is optional and weather-dependent; it is the only day above 3,660 m.",
+    "Solar power at Khopra and Dobato is limited: bring a power bank and expect charging fees."
+  ],
+  "add_ons": [
+    {"name": "Extra night on Khopra Danda", "price": "≈ ₹3,500 / US$ 40 per person"},
+    {"name": "Exit via Tatopani hot springs instead of Ghorepani", "price": "On request"}
+  ],
+  "faqs": [
+    {
+      "q": "How hard is the Khopra Danda trek?",
+      "a": "We grade it Moderate. Most days involve 4–6 hours of walking with steady climbs and some steep descents, and the highest sleeping altitude is 3,660 m. The optional Khayer Lake hike is hard, about 1,000 m of gain to roughly 4,660 m. Anyone fit enough for Poon Hill who walks regularly can handle the standard route."
+    },
+    {
+      "q": "What is the cost of the Khopra Danda trek?",
+      "a": "Our 8-day package from Pokhara starts from about ₹59,000 or US$690 per person on twin sharing, including Pokhara hotel, jeeps, guide, porter, permits and all trail meals. Independent trekkers spend roughly US$25–35 a day on food and rooms, plus the permit and transport. Solo travellers pay a supplement."
+    },
+    {
+      "q": "Is Khopra Danda better than Poon Hill?",
+      "a": "It is higher and quieter, with closer views of Dhaulagiri and Annapurna South and nights spent right on the ridge. Poon Hill is easier, shorter and has more comfortable lodges. This package does both: two nights at Khopra and a final sunrise on Poon Hill, so you do not have to choose."
+    },
+    {
+      "q": "Do I have to do the Khayer Lake hike?",
+      "a": "No. It is optional and depends on weather and fitness. It is a long day of 8–9 hours climbing to about 4,660 m. Many trekkers prefer a rest day on the Khopra ridge, enjoying the views, visiting the herders' shelters and watching a second sunset over Dhaulagiri. The guide will help you decide."
+    },
+    {
+      "q": "What are the lodges like at Khopra Danda?",
+      "a": "The Khopra lodge is community-run, with dormitories, a few twin rooms, shared toilets and a warm dining room. Food is simple and filling: dal bhat, noodles, potatoes and porridge. Hot showers are limited, especially in cold weather. Dobato and Bayeli are similar. They are basic but clean, and the views make up for it."
+    },
+    {
+      "q": "When is the best time for Khopra Danda trek?",
+      "a": "October and November give the clearest views and dry trails. March and April bring rhododendrons in bloom below 3,300 m, with clearer mornings than afternoons. December to February is cold, with possible snow on the ridge and Khayer Lake route. June to September is wet and cloudy, with leeches in the forest."
+    },
+    {
+      "q": "Can I do Khopra Danda without Poon Hill?",
+      "a": "Yes. You can return from Swanta down to Tatopani on the Kali Gandaki for its hot springs and drive back to Pokhara, or retrace part of the route to Tadapani and Ghandruk. Many people still include Poon Hill because it is only a small detour, but it is not essential."
+    },
+    {
+      "q": "Is the Khopra trail well marked?",
+      "a": "Lower sections are clear, but between Dobato, Bayeli and Khopra the path crosses open pasture and can be confusing in cloud, snow or at dusk. Signage is limited. This is one reason Nepal's guide rules make particular sense here. Our guides know the route well and adjust plans if visibility drops."
+    },
+    {
+      "q": "Is there electricity and Wi-Fi on the Khopra trek?",
+      "a": "Lodges have solar power for lights and limited charging, usually for a fee. Wi-Fi exists at some lodges in Ghandruk, Tadapani, Swanta and Ghorepani; on the ridge it is unreliable or absent, and mobile signal comes and goes. Bring a power bank of at least 10,000 mAh and expect a day or two offline."
+    }
+  ]
+}

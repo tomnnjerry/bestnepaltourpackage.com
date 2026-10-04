@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "kathmandu-to-machha-khola",
+    "from": "kathmandu",
+    "to": "machha-khola",
+    "distance_km": 160,
+    "summary": "Machha Khola, the usual starting point of the Manaslu Circuit and Tsum Valley treks, is about 160 km from Kathmandu by road. A private jeep takes 8 to 9 hours via Dhading Besi and Arughat; public buses and shared jeeps take 9 to 11 hours with a change.",
+    "options": [
+      {"mode": "Private jeep", "time": "8–9 h", "text": "The easiest option and the one we use on our treks. A 4WD jeep with driver collects you from your Kathmandu hotel around 6:30 am and drives via Nagdhunga and the Prithvi Highway to the Dhading Besi road, then to Arughat and up the Budhi Gandaki on a dirt track through Soti Khola to Machha Khola. A jeep seats up to six trekkers with bags and costs roughly NPR 30,000 to 40,000 one way, depending on season and road conditions."},
+      {"mode": "Bus + shared jeep", "time": "9–11 h", "text": "Local buses leave Kathmandu's Machhapokhari or Gongabu area early in the morning for Arughat or Soti Khola, taking about 7 to 9 hours. From there shared jeeps run to Machha Khola when the track is open, about 1 to 2 hours more. It is much cheaper, roughly NPR 1,000 to 2,000 per person in total, but slower, crowded and less reliable, and you may need to overnight in Soti Khola."},
+      {"mode": "Jeep + walk from Soti Khola", "time": "Jeep 7–8 h + walk 6–7 h", "text": "When landslides block the last section, or if you want a gentler start, drive to Soti Khola (710 m) and walk to Machha Khola the next day. The trail runs about 15 km through sal forest and Gurung villages such as Labubesi, with some steep climbs. This was the classic first trekking day before the road reached Machha Khola, and it adds a day to the itinerary."}
+    ],
+    "stops_on_way": ["Nagdhunga pass on the Kathmandu valley rim", "Dhading Besi, district headquarters and lunch stop", "Arughat on the Budhi Gandaki", "Soti Khola, the former trailhead"],
+    "tip": "Start early, keep motion-sickness tablets and a dust scarf handy, and check road status in the monsoon, when slides often close the Arughat to Machha Khola section.",
+    "faqs": [
+      {"q": "How far is Machha Khola from Kathmandu?", "a": "About 160 km by road via Dhading Besi and Arughat. The first half is paved and quick; the second half, after Arughat, is a rough dirt track along the Budhi Gandaki. A private jeep takes 8 to 9 hours, and buses with a change of vehicle take 9 to 11 hours."},
+      {"q": "Is there a direct bus from Kathmandu to Machha Khola?", "a": "Some seasonal buses and jeeps run through to Machha Khola in the dry months, but most public transport goes to Arughat or Soti Khola, where you change to a shared jeep. Services change with road conditions, so ask locally the day before. Most trekking agencies use private jeeps."},
+      {"q": "How much does a jeep to Machha Khola cost?", "a": "A private jeep from Kathmandu to Machha Khola typically costs about NPR 30,000 to 40,000 one way for up to six people, depending on season, fuel prices and road conditions. A shared jeep seat from Arughat or Soti Khola costs far less. Our trek packages include the private jeep."},
+      {"q": "Is the road to Machha Khola safe?", "a": "It is a typical Nepali mountain road: narrow, unpaved after Arughat and exposed to landslides in the monsoon. Experienced local drivers handle it daily. Travel in daylight, avoid the road during heavy rain and follow your driver's advice if a section is closed. Check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "samagaun-to-bimthang",
+    "from": "samagaun",
+    "to": "bimthang",
+    "distance_km": 31,
+    "summary": "Samagaun and Bimthang are about 31 km apart on foot, linked by the high trail over Larkya La at 5,106 m. Trekkers take three days: Samagaun to Samdo, Samdo to Dharamsala, then the pass crossing to Bimthang. A charter helicopter can fly between them in minutes, but almost everyone walks.",
+    "options": [
+      {"mode": "On foot (3 days)", "time": "3 days · ≈ 15–17 h walking", "text": "Day 1: Samagaun (3,530 m) to Samdo (3,875 m), about 3 hours and 8 km through yak pastures. Day 2: Samdo to Dharamsala (4,460 m), 3.5 to 4 hours and 7 km past the Larkya Bazaar ruins. Day 3: leave at 4 am, cross Larkya La (5,106 m) and descend to Bimthang (3,590 m), 8 to 10 hours and 15 to 16 km. This is the standard Manaslu Circuit pattern."},
+      {"mode": "On foot (4 days)", "time": "4 days · with a Samdo rest day", "text": "Adds a second night in Samdo with an acclimatisation hike up the side valley towards the Tibet border, to around 4,500 to 4,800 m. It is the safer choice for older trekkers, anyone who felt altitude symptoms in Samagaun and those who want a weather buffer before the pass. Our 16-day Manaslu itinerary uses this pattern."},
+      {"mode": "Helicopter", "time": "≈ 15–20 min", "text": "A private charter can fly from Samagaun to Bimthang in good morning weather, but it is rarely used except for rescues or special itineraries, because it skips the pass that most trekkers come for. Helicopters carry fewer passengers at this altitude. If you need to avoid the pass, flying from Samagaun to Kathmandu is a more common choice."}
+    ],
+    "stops_on_way": ["Samdo, last permanent village", "Larkya Bazaar ruins", "Dharamsala (Larkya Phedi) high camp", "Larkya La prayer flags", "Bimthang Glacier moraine"],
+    "tip": "Do not rush the Samagaun to Bimthang section: the short stages to Samdo and Dharamsala are what make the 5,106 m crossing safe.",
+    "faqs": [
+      {"q": "How many days from Samagaun to Bimthang?", "a": "Three days on the standard itinerary: Samagaun to Samdo, Samdo to Dharamsala, and Dharamsala over Larkya La to Bimthang. Adding a rest day in Samdo makes it four. Trying to do it in two days means gaining too much height too fast and is not recommended."},
+      {"q": "What is the hardest part between Samagaun and Bimthang?", "a": "The final day, from Dharamsala over Larkya La to Bimthang: 8 to 10 hours, about 650 m up to 5,106 m and roughly 1,500 m down, often with snow on the steep western descent. The first two days are short and easy by comparison."},
+      {"q": "Are there lodges between Samagaun and Bimthang?", "a": "Yes, in Samdo and at Dharamsala. Samdo has a few simple stone teahouses; Dharamsala has basic lodges and tents with limited beds that fill in October. There is nothing on the pass itself. Some lodges close from late November to March."},
+      {"q": "Can I walk from Samagaun to Bimthang in winter?", "a": "Larkya La is often closed by snow from December to March, and lodges at Samdo and Dharamsala may shut. Crossing in winter is possible only in settled weather with an experienced guide and extra gear. Check current status before you travel and have a fallback plan."}
+    ]
+  }
+]

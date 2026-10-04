@@ -1,0 +1,131 @@
+{
+  "slug": "taplejung",
+  "name": "Taplejung (Phungling)",
+  "region": "east-nepal",
+  "kind": "city",
+  "wiki": "Phungling Municipality",
+  "image_query": "Phungling Taplejung bazaar",
+  "lat": 27.352,
+  "lng": 87.669,
+  "altitude_m": 1820,
+  "tagline": "Hill bazaar below Pathibhara and the start of the Kanchenjunga treks",
+  "meta_description": "Taplejung (Phungling) guide: base for Pathibhara Devi and Kanchenjunga treks, Suketar airport, road from Ilam and Bhadrapur, hotels, permits, best months.",
+  "summary": "Taplejung, officially Phungling, is the district headquarters at about 1,820 m in Nepal's far north-east. It is the base for Pathibhara Devi and the starting point for Kanchenjunga Base Camp treks. Most people arrive by road from Ilam (7–8 hours). Spend a night or two here to rest, sort permits and wait for weather.",
+  "intro": [
+    "Phungling, still called Taplejung by most Nepalis after its district, spreads along a ridge above the Tamor River in the far north-east of the country. It is a working hill town of mostly Limbu, Sherpa, Gurung and Brahmin-Chhetri families, with government offices, schools, a hospital, banks and a long main bazaar. It is not a sightseeing town, but it is the place everything in this corner of Nepal passes through.",
+    "Two kinds of travellers fill its hotels. Pilgrims come for Pathibhara Devi, the hilltop shrine at 3,794 m reached by jeep to Kafle Pati and a 4–5 hour climb, or by helicopter shuttle from the town's helipad in good weather. Trekkers come for Kanchenjunga, the world's third-highest mountain: the north and south base camp routes begin with a jeep ride from here up the Tamor valley.",
+    "The town has a lively Limbu culture, and you may hear the chyabrung drum dances at weddings and festivals or see Limbu script on signboards. Suketar, the airstrip on the ridge above town, has had only occasional flights, so most visitors come by road from Ilam via Phidim, a full day on the winding Mechi Highway. Mornings from October to December are clear, with Kanchenjunga's southern peaks visible from high points nearby."
+  ],
+  "facts": [
+    ["Altitude", "about 1,820 m"],
+    ["Best months", "Oct – Nov · Mar – May"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Taplejung (Suketar), occasional flights; Bhadrapur ≈ 250 km · 9–10 h"],
+    ["From Kathmandu", "Flight to Bhadrapur + 1–2 days by road"],
+    ["Known for", "Pathibhara Devi, Kanchenjunga trek start, Limbu culture"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Base for Pathibhara Devi", "text": "The jeep road to Kafle Pati, where the climb to Pathibhara starts, begins here, and the helicopter shuttles to the shrine fly from the town's helipad. Most pilgrims sleep two nights in Phungling around their temple day."},
+    {"title": "Start of the Kanchenjunga treks", "text": "Trekkers check permits and gear here before the jeep ride up the Tamor valley to Sekathum and the north base camp route, or towards Yamphudin for the southern side. It is the last town with banks and good shops."},
+    {"title": "Limbu town culture", "text": "Taplejung is in the heart of Limbuwan, the homeland of the Limbu people. Look for signs in the Sirijanga script, the chyabrung drum dance at celebrations and tongba, warm millet beer sipped through a bamboo straw."},
+    {"title": "Ridge-top views", "text": "Short walks above town give views north up the Tamor valley. On clear autumn and winter mornings you can see the southern Kanchenjunga peaks, and the forested ridge of Pathibhara rises directly to the north-west."},
+    {"title": "Tamor River valley", "text": "Below the town the Tamor River runs south towards the Koshi. The drive in from Phidim and the jeep road north follow the valley past terraced rice and millet fields and suspension bridges."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Ilam it is ≈ 160 km and 7–8 hours via Phidim on the Mechi Highway. From Bhadrapur or Kakarbhitta allow 9–10 hours. Night buses run from Kathmandu (about 20 hours) and from Birtamod and Dharan."},
+    {"mode": "Air", "text": "Taplejung airport at Suketar, a short drive above town, has had only occasional scheduled flights, mostly from Biratnagar, and cancellations are common. Bhadrapur, with several daily flights from Kathmandu, is the dependable option."},
+    {"mode": "Helicopter", "text": "Charter helicopters from Kathmandu, Biratnagar or Bhadrapur can land at Phungling or Suketar, and shuttles fly from here to Pathibhara in good weather. Charters are useful for trek evacuations and tight schedules."}
+  ],
+  "where_to_stay": "Phungling has a handful of simple hotels and guesthouses along the main bazaar and near the bus park, with attached bathrooms, hot water (sometimes by bucket), dal bhat and basic Chinese and Indian dishes. They fill up with pilgrims during Dashain and the spring season, so book ahead. There are no upmarket hotels; comfort is clean and basic. Trekkers often use the same guesthouse before and after the Kanchenjunga trek. We confirm a recently checked property with your quote.",
+  "stays": [],
+  "tips": [
+    "Withdraw enough cash in Phungling: there are no ATMs on the Kanchenjunga trails or at Kafle Pati.",
+    "Do not rely on a flight to Suketar; plan the road via Ilam and treat a flight as a bonus.",
+    "Allow one spare day here if you are booked on a Pathibhara helicopter or starting a trek.",
+    "Buy snacks, batteries and toiletries here; choice drops sharply once you head up the valley.",
+    "Monsoon landslides often block the Mechi Highway between Phidim and Phungling from June to September."
+  ],
+  "themes": ["trekking", "pilgrimage", "cultural-tours"],
+  "nearby": ["pathibhara", "kanchenjunga-base-camp", "ilam"],
+  "experiences": [
+    {
+      "slug": "phungling-limbu-culture-walk",
+      "title": "Limbu culture and bazaar walk",
+      "kind": "culture",
+      "duration": "2.5 hours",
+      "best_time": "Late afternoon, any season",
+      "price_hint": "≈ ₹1,500 per person",
+      "image_query": "Limbu people chyabrung dance",
+      "wiki": "Limbu people",
+      "summary": "A guided walk through Phungling bazaar and nearby neighbourhoods to learn about the Limbu people of Limbuwan, their Kirat religion, Sirijanga script, chyabrung drum dance and food, ending with tongba in a local eatery.",
+      "body": [
+        "Taplejung lies at the centre of Limbuwan, the traditional homeland of the Limbu, one of Nepal's Kirat peoples. On this walk a local guide explains how the Limbu follow the Kirat religion and the oral tradition of the Mundhum, how their Sirijanga script came to be revived on shop signs and in schools, and what role figures like the phedangma priest play in village life.",
+        "We wander the main bazaar and side lanes, visit a Kirat place of worship when access is possible, and stop at shops selling dhaka cloth, bamboo goods and local foods. If there is a wedding or celebration on the day, you may hear the chyabrung, the big two-sided drum whose dance is a symbol of Limbu identity. Nothing is staged, so what you see depends on the day.",
+        "We finish at a local eatery for tongba, warm millet beer topped up with hot water and sipped through a bamboo straw, or milk tea for non-drinkers, with sukuti or vegetable snacks. It is a good way to spend an afternoon before an early Pathibhara start or after a trek."
+      ],
+      "good_for": ["solo", "groups", "couples", "photographers"],
+      "faqs": [
+        {"q": "What is tongba?", "a": "Tongba is fermented millet served in a wooden or metal vessel. Hot water is poured over it and you sip the warm, mildly alcoholic liquid through a bamboo straw, topping up as you go. It is a staple of Limbu and Rai hospitality in the eastern hills."},
+        {"q": "What is the Kirat religion?", "a": "Kirat is the indigenous faith of the Limbu, Rai, Yakkha and Sunuwar peoples, based on the Mundhum oral scriptures and nature and ancestor worship. It has shared shrines with Hinduism, Pathibhara being one example."},
+        {"q": "Can we see a chyabrung dance?", "a": "Only if a celebration is happening, such as a wedding or festival. We do not stage performances, but your guide will take you to one if there is an event in town that day."}
+      ]
+    },
+    {
+      "slug": "taplejung-kanchenjunga-trek-briefing-day",
+      "title": "Kanchenjunga trek prep and acclimatisation day",
+      "kind": "adventure",
+      "duration": "Full day",
+      "best_time": "Before the trek, Mar–May and Oct–Nov",
+      "price_hint": "Included in our Kanchenjunga treks",
+      "image_query": "Tamor River valley Taplejung",
+      "wiki": "",
+      "summary": "A planned rest and preparation day in Phungling before the Kanchenjunga trek: permit checks, gear review, a ridge hike for leg-stretching and a briefing on altitude, route and safety with your guide.",
+      "body": [
+        "The Kanchenjunga region is remote and the jeep ride from Phungling into the Tamor valley is the last easy exit, so we use a day here to get everything right. In the morning your guide checks your restricted area permit, Kanchenjunga Conservation Area permit and trekking registration against your passport, and goes through your gear list item by item. Phungling's shops can fill gaps such as gloves, socks, batteries and snacks.",
+        "Late morning we take a two to three hour hike on the ridge above town for views up the valley and a first test of boots and packs. It also helps those who arrived after two long days on the road from Bhadrapur. Back in town, the afternoon is free to rest and repack, leaving anything you do not need at the hotel.",
+        "Before dinner your guide gives a full briefing: the daily stages and walking hours, where the high points are, the signs of altitude sickness, how the team will respond, phone and satellite coverage, and what happens if weather or landslides force changes. It is time well spent on a trek of three weeks."
+      ],
+      "good_for": ["solo", "groups", "couples"],
+      "faqs": [
+        {"q": "Can I get Kanchenjunga permits in Taplejung?", "a": "The restricted area permit is issued in Kathmandu through a licensed trekking agency before you travel. The Kanchenjunga Conservation Area permit and checks happen on the way. We arrange all permits in Kathmandu; check current status before you travel."},
+        {"q": "Is there an ATM in Taplejung?", "a": "Yes, Phungling has several bank ATMs, though they occasionally run out of cash or go offline. Withdraw before you reach town if you can, and carry enough Nepali rupees for the whole trek."},
+        {"q": "Can I store luggage in Phungling?", "a": "Yes. Most guesthouses store extra bags for trekkers at no or low cost. We arrange this with the hotel we use before and after the trek."}
+      ]
+    },
+    {
+      "slug": "taplejung-tamor-valley-village-drive",
+      "title": "Tamor valley village drive",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Oct–Apr",
+      "price_hint": "≈ ₹6,000 per jeep",
+      "image_query": "Tamor River suspension bridge Nepal",
+      "wiki": "",
+      "summary": "A half-day jeep drive down from Phungling into the Tamor valley, with stops at terraced villages, a suspension bridge walk and a riverside lunch, a gentle outing for pilgrims with a spare day.",
+      "body": [
+        "Pilgrims on a Pathibhara yatra often have a spare day in Phungling, either built in for weather or because the climb went faster than planned. This drive uses it well. We head down from the ridge into the Tamor valley, where terraces of rice, millet and maize step down to the river and houses are painted in the ochre and white typical of the eastern hills.",
+        "On the way we stop at a village to see farming life, cross a long steel suspension bridge on foot over the Tamor, and eat lunch at a simple riverside place serving dal bhat and fresh fish when available. The views back up to Phungling and across to the Pathibhara ridge show how high the town sits above the valley.",
+        "Road conditions on the valley roads change with the seasons, so the exact route is decided on the day by our driver. The trip is not suitable during the monsoon from June to September, when landslides are common."
+      ],
+      "good_for": ["families", "seniors", "pilgrims", "photographers"],
+      "faqs": [
+        {"q": "Is the Tamor valley drive safe?", "a": "In the dry season with an experienced local driver, yes. Roads are narrow and partly unpaved. We do not run this drive in the monsoon or after heavy rain."},
+        {"q": "How long is the drive?", "a": "About 4 to 5 hours return including stops and lunch. It can be shortened if anyone feels car-sick."},
+        {"q": "Can we combine it with Pathibhara?", "a": "Yes, as a spare-day activity after the temple climb or when bad weather delays a helicopter shuttle."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Taplejung the same as Phungling?", "a": "Yes, in everyday use. Taplejung is the district; Phungling is the municipality and bazaar that serves as district headquarters. Bus signs and most people say Taplejung for the town."},
+    {"q": "How do I reach Taplejung from Kathmandu?", "a": "Fly to Bhadrapur (50 min), drive about 3 hours to Ilam for the night, then 7–8 hours via Phidim to Phungling the next day. A direct night bus from Kathmandu takes about 20 hours. Flights to Suketar are occasional."},
+    {"q": "Are there flights to Taplejung?", "a": "Taplejung airport at Suketar has seen only occasional scheduled service, mostly from Biratnagar, with frequent cancellations. Check current status before you travel and plan the road route as your base option."},
+    {"q": "What is the altitude of Taplejung?", "a": "The bazaar is at about 1,820 m. Suketar airstrip on the ridge above is higher, at roughly 2,400 m. Altitude sickness is not a concern in town, but Pathibhara at 3,794 m and the Kanchenjunga treks are a different matter."},
+    {"q": "How far is Pathibhara from Taplejung?", "a": "From Phungling a jeep road climbs to Kafle Pati in about 1.5–2.5 hours, and from there the walk to the shrine takes 4–5 hours. Helicopter shuttles from Phungling take only a few minutes in clear weather."},
+    {"q": "Is Taplejung safe for tourists?", "a": "Yes. It is a quiet district town used to pilgrims and trekkers. The main risks are road travel in the monsoon and long drives after dark. Use registered hotels and travel by day."},
+    {"q": "Do I need a permit to visit Taplejung town?", "a": "No permit is needed for Phungling or the Pathibhara pilgrimage. Foreigners trekking into the Kanchenjunga region need a restricted area permit, a conservation area permit, at least two trekkers and a licensed guide. Check current status before you travel."},
+    {"q": "What is the best season to visit Taplejung?", "a": "October and November give clear views and dry roads; March to May is good too, with rhododendrons on Pathibhara. December to February is cold but clear. June to September brings landslides on the Mechi Highway."},
+    {"q": "Can I find good food in Taplejung?", "a": "Yes, simple and filling: dal bhat, momos, chowmein, sel roti, local chicken and pork dishes, and tongba. Vegetarian meals are easy. Hotel kitchens can prepare plain Indian dishes for pilgrim groups."}
+  ]
+}

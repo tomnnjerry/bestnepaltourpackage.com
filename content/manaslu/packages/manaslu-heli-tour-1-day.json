@@ -1,0 +1,80 @@
+{
+  "slug": "manaslu-heli-tour-1-day",
+  "title": "Manaslu Heli Tour with Samagaun Landing 1 Day",
+  "region": "manaslu",
+  "type": "heli",
+  "grade": "Easy",
+  "nights": 0,
+  "themes": ["heli-tours", "photography", "luxury-nepal", "short-breaks"],
+  "stops": [
+    {"place": "kathmandu", "nights": 0},
+    {"place": "samagaun", "nights": 0},
+    {"place": "manaslu-base-camp", "nights": 0}
+  ],
+  "start": "Kathmandu (domestic airport, 6 am check-in)",
+  "end": "Kathmandu",
+  "price_from_inr": 126000,
+  "price_from_usd": 1450,
+  "best_months": [1, 1, 1, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 4800,
+  "accommodation": "None (day tour); Kathmandu hotel on request",
+  "transport": "Helicopter (AS350 B3 or similar, up to 5 passengers), hotel transfers",
+  "group": "Shared seats or private charter, 1–5 passengers",
+  "meta_description": "Manaslu heli tour 1 day from Kathmandu: land at Samagaun (3,530 m) for breakfast, Manaslu Base Camp landing if weather allows, back by noon. From US$1,450.",
+  "summary": "A half-day helicopter tour from Kathmandu to Manaslu: about an hour's flight up the Budhi Gandaki, breakfast in Samagaun at 3,530 m with Manaslu in front of you and, when weather and payload allow, a short landing near Manaslu Base Camp at about 4,800 m. Back in Kathmandu before lunch.",
+  "intro": [
+    "Most people who see Manaslu up close walk for a week to get there. This tour does it in a morning. You take off from Kathmandu soon after sunrise and fly north-west over the hills of Dhading and Gorkha, with Ganesh Himal off one side and Himal Chuli ahead, then up the Budhi Gandaki gorge to the Nubri valley. The helicopter lands in Samagaun, where you have breakfast in a lodge with Manaslu, 8,163 m, filling the western sky.",
+    "In settled weather the pilot then makes a short hop to land near Manaslu Base Camp, at about 4,800 m, for 10 to 15 minutes beside the glacier. Because Samagaun is in a restricted area, each foreign passenger needs the Manaslu restricted area permit even for a heli landing; we arrange it the day before. The shared-seat price assumes five passengers on one helicopter. Private charters, ideal for families, carry up to five and can be timed to your plans."
+  ],
+  "highlights": [
+    "Breakfast in Samagaun (3,530 m) facing Manaslu",
+    "Landing near Manaslu Base Camp (about 4,800 m) in good weather",
+    "Views of Ganesh Himal, Himal Chuli and the Budhi Gandaki gorge",
+    "Back in Kathmandu by late morning",
+    "No trekking or fitness needed"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathmandu–Samagaun–Manaslu Base Camp", "place": "samagaun", "overnight": "Kathmandu (own hotel)", "altitude_m": 1400, "max_m": 4800, "walk": "", "drive": "Hotel to domestic airport · 30 min each way", "flight": "Kathmandu–Samagaun · ≈ 60 min; Samagaun–base camp · ≈ 10 min; return to Kathmandu · ≈ 65 min", "text": "We collect you at 5:30 am for check-in at the domestic terminal. After a safety briefing and weighing of passengers, the helicopter takes off around 6:30 am, flying over Dhading and Gorkha and up the Budhi Gandaki. Land in Samagaun for about 45 minutes: breakfast, a short walk to the edge of the fields and photographs of Manaslu. If conditions allow, fly a few minutes to land near Manaslu Base Camp for 10 to 15 minutes beside the glacier. The return flight follows the valley south past Himal Chuli and Ganesh Himal. You are back at your hotel by about 11 am.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Helicopter seat on a shared flight (5 passengers) or private charter as booked",
+    "Manaslu restricted area permit and Manaslu Conservation Area Permit for the landing",
+    "Breakfast in a Samagaun lodge",
+    "Experienced mountain pilot and ground crew",
+    "Domestic airport taxes and fuel surcharges at the time of booking",
+    "Hotel–airport transfers in Kathmandu",
+    "Supplementary oxygen carried on board"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights",
+    "Travel insurance",
+    "Extra fuel surcharge if fuel prices rise sharply",
+    "Additional landings or extended ground time",
+    "Tips for pilot and crew",
+    "Drinks and souvenirs in Samagaun",
+    "Costs of rescheduling for personal reasons"
+  ],
+  "good_to_know": [
+    "The price is per seat on a shared flight with five passengers; a private charter for up to five people costs about US$6,500 to 7,500 per helicopter, depending on fuel and season.",
+    "Flights leave early because cloud usually builds by 10 to 11 am; if the morning is cloudy the tour moves to the next clear day, so keep one or two spare days in Kathmandu.",
+    "At about 4,800 m a helicopter lifts much less weight, so the base camp landing may carry only two or three passengers at a time, with the rest shuttled or waiting in Samagaun; the pilot decides on the day.",
+    "Ground time near base camp is limited to 10 to 15 minutes to reduce altitude sickness risk; people with heart or lung conditions, uncontrolled blood pressure or pregnancy should not land at high altitude, and should ask a doctor about the flight itself.",
+    "Foreign passengers need the Manaslu restricted area permit even for a landing; send passport details at least two working days ahead. Check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Private charter upgrade for your group", "price": "≈ US$ 6,500–7,500 per helicopter"},
+    {"name": "Kathmandu 4-star hotel night before the flight", "price": "≈ US$ 90 per room"}
+  ],
+  "faqs": [
+    {"q": "How much does a Manaslu helicopter tour cost?", "a": "A shared seat starts from about US$1,450 or ₹1,26,000 per person when five passengers fill the helicopter. A private charter costs about US$6,500 to 7,500 per helicopter for up to five people. Prices include the restricted area permit, breakfast in Samagaun and transfers, and change with fuel costs."},
+    {"q": "Do I need a permit for a Manaslu heli tour?", "a": "Yes. Samagaun lies in the Manaslu restricted area, so foreign passengers need the restricted area permit and the conservation area permit even for a short landing. We arrange both from your passport details, ideally two working days before the flight. Check current status before you travel."},
+    {"q": "Is the Manaslu base camp landing guaranteed?", "a": "No. The pilot decides on the day according to wind, cloud and payload. On many clear autumn and spring mornings the landing goes ahead; otherwise the helicopter flies past base camp and lands in Samagaun only. The tour price does not change."},
+    {"q": "Can children and older people take the Manaslu heli tour?", "a": "Healthy children over about five and older travellers usually manage it well, as there is no walking and ground time at altitude is short. People with heart or lung conditions, uncontrolled high blood pressure or recent surgery, and pregnant women, should not land at 4,800 m and should consult a doctor before booking."},
+    {"q": "What happens if the weather is bad on my tour date?", "a": "Safety comes first, so we postpone to the next clear morning. If you cannot wait and the flight has not taken off, you receive a refund minus permit and booking costs. If weather forces a turnaround mid-flight, the charge is based on flying time. Keep spare days in Kathmandu."},
+    {"q": "How long is the Manaslu heli tour?", "a": "About 4 to 5 hours from hotel pick-up to drop-off, with roughly 2 hours of flying in total: about 60 minutes each way between Kathmandu and Samagaun, plus a short hop to base camp. Ground time is about 45 minutes in Samagaun and 10 to 15 minutes near base camp."},
+    {"q": "Manaslu heli tour or Everest heli tour: which is better?", "a": "Everest tours show Everest and Ama Dablam and land at Kala Patthar or Everest View Hotel, with a short flight-time advantage from Lukla. The Manaslu tour is quieter, crosses wilder valleys and lands in a traditional Nubri village. Both cost similar amounts. Choose Manaslu if you want fewer crowds."},
+    {"q": "What should I wear on the Manaslu helicopter tour?", "a": "Dress in layers: a down jacket, warm hat, gloves and sunglasses, as temperatures in Samagaun at 8 am can be −5 °C in November and colder at base camp. Wear comfortable shoes with grip for uneven ground. Carry a small bag only, as baggage space is limited."},
+    {"q": "Can Indian nationals book the Manaslu heli tour?", "a": "Yes. Indian passport holders need the restricted area permit like other foreigners, as we understand it, and pay the SAARC rate for the conservation permit. Bring your passport, because the permit is issued against it. Prices in INR are available on request at the day's exchange rate."}
+  ]
+}

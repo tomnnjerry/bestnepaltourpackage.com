@@ -1,0 +1,133 @@
+{
+  "slug": "janakpur",
+  "name": "Janakpur",
+  "region": "chitwan",
+  "kind": "temple town",
+  "wiki": "Janakpur",
+  "image_query": "Janaki Mandir Janakpur white marble temple",
+  "lat": 26.7288,
+  "lng": 85.9263,
+  "altitude_m": 74,
+  "tagline": "Sita's birthplace, the Janaki Mandir and the ponds of Mithila",
+  "meta_description": "Janakpur travel guide for pilgrims: Ram Janaki Mandir darshan and aarti, Vivah Mandap, sacred ponds, Mithila art, best months and how to reach from Kathmandu and India.",
+  "summary": "Janakpur, or Janakpurdham, is the ancient capital of Mithila and the city where Hindus believe Sita was born and married Rama. Its white Janaki Mandir, Vivah Mandap and dozens of sacred ponds draw pilgrims from Nepal and India all year. Plan one or two nights; October to March is most comfortable.",
+  "intro": [
+    "Janakpur sits on the flat Terai plain at 74 m, about 20 km from the Indian border in Dhanusha District. In the Ramayana this is the capital of King Janak, Sita's father, and the place where Rama broke Shiva's bow to win her hand. For Indian and Nepali pilgrims, a visit to Janakpur completes a circuit that begins at Ayodhya, Rama's birthplace; the cities were linked by a direct bus in 2018 and have a long tradition of exchanging wedding processions at Vivah Panchami.",
+    "The centre of everything is the Janaki Mandir, a three-storey temple of white stone and marble completed in 1910 by Queen Vrisha Bhanu of Tikamgarh in central India. Locals still call it the Naulakha Mandir after its reputed cost of nine lakh rupees. Its domes, turrets and 60 rooms look more like a Rajput palace than a Nepali pagoda. Beside it stand the Vivah Mandap, built over the spot where the wedding is said to have taken place, and the older Ram Mandir a few minutes' walk south.",
+    "Janakpur is also the cultural capital of Mithila, the Maithili-speaking region that runs across the border into Bihar. Women here paint bold Mithila murals on house walls for weddings and festivals, and the Janakpur Women's Development Centre in nearby Kuwa trains artists in the tradition. The city is dusty and crowded, and hotels are simple compared with Kathmandu, but the evening aarti at the Janaki Mandir, the bells, conch shells and lamps reflected in Ganga Sagar, are why most visitors come."
+  ],
+  "facts": [
+    ["Altitude", "74 m"],
+    ["Best months", "Oct – Mar; Vivah Panchami in Nov–Dec"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Janakpur (≈ 25 min flight from Kathmandu)"],
+    ["From Kathmandu", "≈ 230 km · 7–8 h by road via the BP Highway"],
+    ["Known for", "Janaki Mandir, Sita–Rama wedding, Mithila art"]
+  ],
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Darshan at the Janaki Mandir", "text": "The marble sanctum holds images of Sita, Rama and his brothers, and the temple fills with pilgrims at the morning and evening aarti. Even outside festivals the courtyard is busy with families offering sindoor, flowers and red cloth, and priests chanting from the Ramcharitmanas."},
+    {"title": "Vivah Mandap wedding pavilion", "text": "Next to the main temple, this pavilion marks the spot where Sita and Rama are believed to have married. Glass-fronted rooms show life-size figures of the wedding party. Couples visit for blessings before their own weddings, and the Vivah Panchami re-enactment centres here."},
+    {"title": "Ganga Sagar and Dhanush Sagar", "text": "Janakpur is known as a city of ponds, and the two largest, Ganga Sagar and Dhanush Sagar, sit close together near the temple. Pilgrims bathe here at dawn, and on many evenings lamps and an aarti are offered at Ganga Sagar's ghats."},
+    {"title": "Ram Mandir and older shrines", "text": "The pagoda-style Ram Mandir, older than the Janaki Mandir, is the city's main Rama temple and the focus of Ram Navami in spring. Smaller shrines, such as the Hanuman temples and the Lakshman Mandir near the main complex, can be covered on a two-hour walk."},
+    {"title": "Mithila painting in Kuwa", "text": "At the Janakpur Women's Development Centre, about 2 km south of the city, Maithili women paint, sew and make pottery in the Mithila style. Visitors can watch artists at work and buy paintings directly, a fair way to take home a piece of the region's art."},
+    {"title": "Dhanusadham day trip", "text": "Eighteen kilometres north, Dhanusadham guards a stone believed to be a fragment of Shiva's bow that Rama broke at Sita's swayamvara. Most pilgrims pair it with Janakpur in a half day by car."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Buddha Air and Shree Airlines fly Kathmandu–Janakpur in about 25 minutes, usually two to four times a day. Janakpur Airport is 2 km from the Janaki Mandir. Winter fog can delay morning flights from mid-December to January, so keep the afternoon free on travel days."},
+    {"mode": "Road", "text": "Kathmandu to Janakpur is ≈ 230 km · 7–8 h via Dhulikhel, the BP Highway through Sindhuli, and Bardibas. The road is paved and winds through the Mahabharat hills. From Chitwan it is ≈ 280 km · 7–8 h east along the Mahendra Highway via Hetauda and Bardibas."},
+    {"mode": "Rail", "text": "The cross-border railway from Jaynagar in Bihar runs to Janakpur and on to Kurtha, about 35 km, with trains twice a day in each direction. It is used by Indian and Nepali citizens; third-country nationals should use a road border such as Raxaul–Birgunj. Check current status before you travel."},
+    {"mode": "Road", "text": "From India, Jaynagar to Janakpur is ≈ 30 km · 1 h by road, and Sitamarhi (Sita's Punaura Dham) to Janakpur is ≈ 50 km · 2 h via Bhitthamore. Ayodhya to Janakpur is ≈ 500 km · 12–14 h by road."}
+  ],
+  "where_to_stay": "Janakpur's hotels are simple and mostly Indian-run in style: clean rooms, vegetarian kitchens and helpful front desks, but nothing like a resort. The best are within 1–2 km of the Janaki Mandir on Station Road and around Ramanand Chowk, so you can walk to the evening aarti. Expect 2- to 3-star standards, hot water and air conditioning in the better rooms, and full vegetarian menus. During Vivah Panchami and Ram Navami rooms sell out weeks ahead and prices rise, so we block rooms early for festival groups.",
+  "stays": [],
+  "tips": [
+    "Attend the evening aarti at the Janaki Mandir; arrive 30 minutes early to find space in the courtyard.",
+    "Leather belts and bags are best left at the hotel, and shoes go to the free stand at the gate.",
+    "From April to June daytime heat passes 40 °C, so plan temple visits for before 9 am and after 5 pm.",
+    "December and January bring dense fog and cold nights near 7 °C; pack a warm layer despite the low altitude.",
+    "Carry small notes for offerings and donation boxes; card machines are rare outside hotels."
+  ],
+  "themes": ["pilgrimage", "cultural-tours", "festivals", "overland-from-india"],
+  "nearby": ["dhanusadham"],
+  "experiences": [
+    {
+      "slug": "janaki-mandir-evening-aarti",
+      "title": "Evening aarti at the Janaki Mandir",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours",
+      "best_time": "Dusk, all year; most comfortable Oct–Mar",
+      "price_hint": "Free; donations welcome",
+      "image_query": "Janaki Mandir evening aarti lamps",
+      "wiki": "Janaki Mandir",
+      "summary": "At dusk priests wave tiered brass lamps before the images of Sita and Rama while bells, drums and conch shells fill the marble courtyard. It is the moment most pilgrims travel to Janakpur for, and visitors are welcome to stand with the devotees.",
+      "body": [
+        "The evening aarti starts around sunset, which means roughly 5:30 pm in winter and closer to 7 pm in summer. Temple staff open the inner sanctum, priests chant from the Ramcharitmanas and the crowd sings along to the Sita–Ram bhajans that many Maithili families know by heart. The ceremony itself lasts about 20 to 30 minutes, but people come early to find space in the courtyard and stay afterwards to offer flowers and receive prasad.",
+        "The temple is lit after dark, and its white walls and onion domes look their best in the evening. Walk the outer courtyard after the aarti to see the gold-coloured gateway and the carved jharokha windows, then cross to the Vivah Mandap next door. On Vivah Panchami, Ram Navami and Sita Navami the crowd swells to tens of thousands and our guides keep groups together near a fixed meeting point.",
+        "Dress modestly with shoulders and knees covered, remove shoes at the gate, and keep phones on silent. Photography in the outer courtyard is accepted; inside the sanctum it is not. If you would like to sponsor a special puja or offering, our local guide can arrange it with the temple priests and explain the costs in advance."
+      ],
+      "good_for": ["pilgrims", "families", "seniors", "couples", "groups"],
+      "faqs": [
+        {"q": "What time is the aarti at Janakpur's Janaki Mandir?", "a": "There is a morning aarti soon after the temple opens and an evening aarti at sunset, roughly 5:30 pm in December and 7 pm in June. Timings shift with the season and with festivals, so our guide checks the exact time on the day. Arrive 30 minutes early to stand close to the sanctum."},
+        {"q": "Is there an entry fee for the Janaki Mandir?", "a": "Entry for darshan is free. A small fee is charged for the Mithila museum rooms inside the complex and for some special pujas. Shoes are left at a stand by the gate, and donations to the temple are voluntary. Carry small notes for offerings."},
+        {"q": "Can non-Hindus attend the Janaki Mandir aarti?", "a": "Yes. Visitors of any faith may enter the courtyard and watch the aarti respectfully. Dress modestly, remove shoes, avoid leather and do not photograph inside the sanctum. Following the crowd's lead, such as joining hands during the bhajans, is welcomed but not expected."}
+      ]
+    },
+    {
+      "slug": "janakpur-sacred-ponds-walk",
+      "title": "Janakpur temples and sacred ponds walk",
+      "kind": "spiritual",
+      "duration": "2.5–3 hours",
+      "best_time": "Early morning, Oct–Mar",
+      "price_hint": "Included in our Janakpur packages",
+      "image_query": "Ganga Sagar pond Janakpur",
+      "wiki": "Ram Mandir, Janakpur",
+      "summary": "A morning walk through the old centre links the Ram Mandir, the Ganga Sagar and Dhanush Sagar ponds, small Hanuman and Lakshman shrines and the lanes of the bazaar, with a local guide who tells the Ramayana story at each stop.",
+      "body": [
+        "We start at dawn at Ganga Sagar, the largest of Janakpur's ponds, when bathers are already at the ghats and the light is soft on the water. Legend holds that its water was brought from the Ganges, and many pilgrims take a dip or sprinkle water on their heads before darshan. Dhanush Sagar lies a few minutes away and is linked in local tradition with the broken bow of Shiva.",
+        "From the ponds the walk reaches the Ram Mandir, a pagoda-style temple older than the Janaki Mandir and the main focus of Ram Navami, when the courtyard fills with devotees and sadhus. We pass the Lakshman Mandir and small Hanuman shrines and walk through lanes where sweet shops fry jalebi and sell peda, a good stop for breakfast. The route ends at the Janaki Mandir in time for morning darshan.",
+        "Distances are short, about 4 km in total, but the lanes are busy with motorbikes and rickshaws, so we keep groups together and arrange e-rickshaws for anyone who prefers to ride. In festival weeks the ponds are crowded from before sunrise, and we adjust the route to avoid the thickest crowds."
+      ],
+      "good_for": ["pilgrims", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Can I bathe in Ganga Sagar in Janakpur?", "a": "Yes, many pilgrims bathe at the Ganga Sagar ghats, especially at dawn and on festival days. The water is shallow at the steps but deeper in the middle. Bring a change of clothes and a towel, keep valuables with someone on the steps, and avoid bathing in the cold, foggy weeks of late December and January if you are elderly."},
+        {"q": "How many ponds are there in Janakpur?", "a": "Local tradition counts dozens of sacred ponds, or sagars, in and around the city. Ganga Sagar and Dhanush Sagar are the two most visited, both within walking distance of the Janaki Mandir. A full pilgrim circuit of all the ponds takes a day, but most visitors see the main two on a morning walk."},
+        {"q": "Is the Janakpur temple walk suitable for seniors?", "a": "Yes. It is flat and about 4 km in total, with plenty of places to sit. We arrange e-rickshaws for seniors who prefer not to walk between sites and keep the pace slow. The only steps are at the pond ghats, and our guide helps anyone who wants to go down to the water."}
+      ]
+    },
+    {
+      "slug": "janakpur-mithila-art-centre-visit",
+      "title": "Mithila art at the Janakpur Women's Centre",
+      "kind": "culture",
+      "duration": "1.5–2 hours",
+      "best_time": "Weekday mornings, Oct–Mar",
+      "price_hint": "Free entry; paintings from ≈ NPR 1,000",
+      "image_query": "Mithila painting Janakpur women artists",
+      "wiki": "Madhubani art",
+      "summary": "At Kuwa, 2 km south of the city, Maithili women run a cooperative where they paint, sew and shape clay in the Mithila tradition. You watch artists at work, hear what the motifs mean, and can buy directly from the women who made each piece.",
+      "body": [
+        "Mithila painting began as wall art: women decorated the mud walls of their homes with fish, elephants, peacocks, the sun and moon, and scenes of Krishna and of Sita and Rama, especially for weddings. The Janakpur Women's Development Centre was founded in the early 1990s to give women an income from the tradition, and today artists work on paper, cloth and ceramics in a set of painted buildings in Kuwa village.",
+        "You can walk through the studios, watch artists lay down outlines in black and fill them with bright reds, yellows and greens, and ask about the symbols. Fish stand for fertility, paired birds for a happy marriage, bamboo groves for family lines. A short visit takes an hour; with time to talk and shop, allow two. Weekday mornings are the best time to see the artists at work.",
+        "Small paintings start at about NPR 1,000 and larger pieces run to several thousand; prices are fixed and the money goes to the cooperative. Pieces are light and roll well for flights. Ask before photographing artists, and if you visit around Diwali or Chhath you may also see fresh murals on village houses on the drive out."
+      ],
+      "good_for": ["couples", "solo", "photographers", "families"],
+      "faqs": [
+        {"q": "What is Mithila painting?", "a": "Mithila or Madhubani painting is a folk art of the Maithili-speaking region of Nepal and Bihar, traditionally painted by women on house walls for weddings and festivals. It uses bold black outlines filled with bright colours and repeating motifs such as fish, peacocks, the sun and gods from the Ramayana. Today it is also made on paper and cloth."},
+        {"q": "Where can I buy genuine Mithila paintings in Janakpur?", "a": "The Janakpur Women's Development Centre in Kuwa sells directly from its artists at fixed prices, which is the fairest option. Shops around the Janaki Mandir also sell paintings, often cheaper prints or quick copies. Check for hand-painted brushwork and signatures if you want an original."},
+        {"q": "How far is the Mithila art centre from the Janaki Mandir?", "a": "About 2 km, or 10 minutes by e-rickshaw or car. It fits easily between morning darshan and lunch. We include it in most of our Janakpur itineraries, and the centre is closed on some public holidays, so we confirm opening before the visit."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Why is Janakpur important to Hindus?", "a": "Janakpur is believed to be the capital of King Janak and the birthplace of Sita, Rama's wife. Tradition holds that Rama broke Shiva's bow here to win Sita's hand and that their wedding took place on the site of today's Vivah Mandap. That makes it one of the main stops on the Ramayana circuit with Ayodhya."},
+    {"q": "How many days are needed for Janakpur?", "a": "One full day covers the Janaki Mandir, Vivah Mandap, Ram Mandir, Ganga Sagar and the evening aarti. Two nights let you add Dhanusadham, the Mithila art centre and a slower morning darshan. During Vivah Panchami, plan three nights to see the procession and wedding re-enactment without rushing."},
+    {"q": "How do I reach Janakpur from Kathmandu?", "a": "The quickest way is a 25-minute flight with Buddha Air or Shree Airlines. By road it is about 230 km and 7–8 hours via the BP Highway through Sindhuli and Bardibas, a paved but winding route. We use private cars for families and groups, with a lunch stop at Sindhuli."},
+    {"q": "How do I reach Janakpur from India?", "a": "Indian pilgrims usually come via Jaynagar in Bihar, about 30 km away, either by the cross-border train to Janakpur or by road. Others cross at Raxaul–Birgunj (≈ 4–5 h drive to Janakpur) or fly into Kathmandu and connect by air. Indians need a passport or voter ID card to enter Nepal."},
+    {"q": "What is the Janakpur Ram Janaki temple timing?", "a": "The Janaki Mandir generally opens early in the morning, closes for a period around midday and reopens in the afternoon until after the evening aarti, around 8 to 9 pm. Exact hours vary by season and festival, so check current status before you travel. Our guide confirms timings the day before."},
+    {"q": "What is the best time to visit Janakpur?", "a": "October to March is the most comfortable, with daytime temperatures of 18–28 °C. Vivah Panchami in November or December and Ram Navami in March or April are the big festivals. April to June is very hot, often above 40 °C, and July to September brings heavy monsoon rain and some flooding."},
+    {"q": "Is Janakpur safe for families and senior pilgrims?", "a": "Yes. Janakpur is a pilgrim city used to families and older visitors. The main challenges are heat in summer, crowds at festivals and busy traffic in the lanes. We use e-rickshaws for short hops, keep groups together at the temple with a fixed meeting point, and choose hotels within walking distance of the Janaki Mandir."},
+    {"q": "What food is available in Janakpur?", "a": "Janakpur is largely vegetarian around the temples. Expect dal-bhat, puri-sabzi, kachori, litti-chokha and Maithili sweets such as peda, jalebi and malpua. Hotels serve North Indian vegetarian thalis, and Jain food can be requested. Drink bottled or filtered water and choose busy stalls for street snacks."},
+    {"q": "Can I combine Janakpur with Chitwan or Kathmandu?", "a": "Yes. A common plan is Kathmandu (2 nights), a flight to Janakpur (1–2 nights), then a drive west along the Mahendra Highway to Chitwan (2 nights) and back to Kathmandu. Another option links Devghat near Chitwan with Janakpur as a pilgrimage circuit. Our Devghat and Janakpur yatra follows this route."}
+  ]
+}

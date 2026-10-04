@@ -1,0 +1,132 @@
+{
+  "slug": "makalu-base-camp",
+  "name": "Makalu Base Camp",
+  "region": "east-nepal",
+  "kind": "base camp",
+  "wiki": "Makalu",
+  "image_query": "Makalu from base camp Barun",
+  "lat": 27.865,
+  "lng": 87.115,
+  "altitude_m": 4870,
+  "tagline": "Upper Barun valley below the 8,485 m pyramid of Makalu",
+  "meta_description": "Makalu Base Camp guide: 4,870 m in the upper Barun valley, trek route from Tumlingtar and Num, Shipton La, permits, teahouses, best months and cost.",
+  "summary": "Makalu Base Camp sits at 4,870 m in the upper Barun valley, below the south face of Makalu, at 8,485 m the world's fifth-highest mountain. The trek starts with a flight to Tumlingtar and takes about 8 walking days up through Makalu Barun National Park. Lodges are basic. April–May and October–November are best.",
+  "intro": [
+    "Makalu is a four-sided granite pyramid on the Nepal–Tibet border, 8,485 m high and 19 km east of Everest. Its base camp lies in the upper Barun valley, a glacial trough with sheer walls, waterfalls and moraine, at 4,870 m. The approach crosses some of Nepal's most varied country, from rice terraces and sal forest at 500 m near the Arun River to rhododendron and fir, then high pasture and ice, all within Makalu Barun National Park.",
+    "The trek begins at Tumlingtar, an airstrip in the Arun valley, with a jeep ride to Num and then several days through Rai and Sherpa villages to Tashigaon, the last permanent settlement. Above it the trail climbs steeply to Khongma Danda and crosses the Shipton La and Keke La saddles, around 4,100–4,200 m, before dropping into the Barun valley. From there it is a gradual climb past Yangle Kharka and Langmale Kharka to base camp.",
+    "Makalu is quieter and less developed than the Everest or Annapurna routes. Teahouses exist all the way, but they are basic, and some close in the off-season. The main permit is the national park permit, and since 2023 foreign trekkers in national parks are expected to trek with a licensed guide. The best views come in October and November; April and May add rhododendrons in the lower forest."
+  ],
+  "facts": [
+    ["Altitude", "4,870 m"],
+    ["Best months", "Apr – May · Oct – Nov"],
+    ["Nights we suggest", "2 (one rest and exploration day)"],
+    ["Nearest airport", "Tumlingtar (TMI), 518 m"],
+    ["From Kathmandu", "40–45 min flight to Tumlingtar + jeep to Num + 8 days' walk"],
+    ["Known for", "Makalu south face, Barun valley, Shipton La, few trekkers"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "nights": "2",
+  "highlights": [
+    {"title": "Makalu's south face", "text": "From base camp the south face of Makalu rises directly above you, more than 3,500 m of rock and ice. Walk up the moraine towards the Swiss base camp for views of Everest and Lhotse's eastern side on clear mornings."},
+    {"title": "The Barun valley", "text": "A deep glacial valley with near-vertical walls, waterfalls dropping hundreds of metres and yak pastures on the valley floor. Peaks such as Peak 6 and Peak 7 rise on either side, and blue sheep graze the slopes."},
+    {"title": "Shipton La crossing", "text": "Named after the explorer Eric Shipton, the pass at about 4,200 m and the neighbouring Keke La give the first wide views of Makalu, Chamlang and Kanchenjunga far to the east, with small lakes between them."},
+    {"title": "Arun valley villages", "text": "The first days pass through Rai and Sherpa villages, cardamom fields and terraced hillsides above the Arun, one of Nepal's deepest valleys, with the river below at under 1,000 m."},
+    {"title": "Makalu Barun National Park", "text": "Created in 1992, the park covers about 1,500 sq km and protects an altitude range from under 500 m to the summit of Makalu, with red panda, musk deer and rich birdlife in its forests."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Tumlingtar (40–45 min, usually daily). Tumlingtar can also be reached by air from Biratnagar."},
+    {"mode": "Road", "text": "From Tumlingtar, jeeps run via Khandbari to Num in about 4–6 hours on a partly rough road. By road from Kathmandu, Tumlingtar is ≈ 500 km and two days via Dharan, Hile and the Koshi Highway."},
+    {"mode": "On foot", "text": "From Num it is about 8 walking days to base camp via Seduwa, Tashigaon, Khongma Danda, Shipton La, Dobate, Yangle Kharka and Langmale Kharka, including one acclimatisation day."},
+    {"mode": "Helicopter", "text": "Charter helicopters fly to Makalu Base Camp from Kathmandu or Lukla for scenic flights and rescue, weather and payload permitting. Shared seats are rare on this route."}
+  ],
+  "where_to_stay": "There are simple teahouses at Makalu Base Camp, Langmale Kharka, Yangle Kharka, Dobate, Khongma Danda and in the villages of Tashigaon, Seduwa and Num. Rooms are basic, often with plywood walls, shared toilets and a stove-heated dining room; some upper lodges open only in the main seasons. Tumlingtar and Khandbari have small hotels for the nights before and after the trek. Bring a sleeping bag rated to about −15 °C and enough cash for the full trek.",
+  "stays": [],
+  "tips": [
+    "Take the Khongma Danda acclimatisation day seriously: the climb from Tashigaon gains about 1,400 m.",
+    "The crossing from Khongma Danda to Dobate is long and can be icy; leave early with microspikes in spring.",
+    "Carry water purification: lodges are far apart and bottled water is expensive higher up.",
+    "Book a buffer day for the Tumlingtar flight, which is sometimes cancelled by cloud or wind.",
+    "In April and May, rhododendron forests between Tashigaon and Khongma Danda are at their best."
+  ],
+  "themes": ["trekking", "photography"],
+  "nearby": ["halesi-mahadev", "dhankuta"],
+  "experiences": [
+    {
+      "slug": "makalu-swiss-base-camp-moraine-walk",
+      "title": "Moraine walk above Makalu Base Camp",
+      "kind": "hiking",
+      "duration": "4–5 hours return",
+      "best_time": "Morning, Apr–May and Oct–Nov",
+      "price_hint": "Included in our Makalu trek",
+      "image_query": "Makalu south face Barun glacier",
+      "wiki": "",
+      "summary": "On the exploration day at Makalu Base Camp, walk up the lateral moraine of the Barun Glacier towards the old Swiss base camp for closer views of Makalu's south face and, on clear days, the eastern side of Everest and Lhotse.",
+      "body": [
+        "Base camp at 4,870 m is a flat area of stone huts and tent platforms beside the Barun Glacier. On the rest day, when the group is well, we walk up the ridge of moraine behind camp, climbing slowly towards the area known as the Swiss base camp. Some groups reach a viewpoint at around 5,200 m; others turn back lower. Distance and height are decided by your guide on the day.",
+        "The view grows with every step. Makalu's south face towers overhead, and further west the eastern walls of Lhotse and the summit of Everest appear on clear mornings, with Baruntse and the peaks of the upper Barun closing the valley. The glacier below is grey with rock and dotted with turquoise melt pools.",
+        "The ground is loose and the air thin, so this is a slow walk with long pauses. We aim to be back at base camp for lunch before the wind and cloud pick up. Anyone with a headache or poor sleep the night before rests in camp instead."
+      ],
+      "good_for": ["photographers", "solo", "groups"],
+      "faqs": [
+        {"q": "Can you see Everest from Makalu Base Camp?", "a": "Not from the lodges themselves, but from the moraine ridge above base camp, on clear mornings, you can see the top of Everest and the eastern side of Lhotse to the west."},
+        {"q": "How high is the viewpoint above Makalu Base Camp?", "a": "Many trekkers reach around 5,000–5,200 m on the moraine above camp. The exact point depends on conditions and how the group is acclimatising."},
+        {"q": "Is the moraine walk dangerous?", "a": "It is not technical, but the ground is loose and the altitude is high. We go slowly with a guide, keep away from glacier edges and turn back if anyone feels unwell."}
+      ]
+    },
+    {
+      "slug": "makalu-shipton-la-crossing",
+      "title": "Shipton La and Keke La crossing",
+      "kind": "adventure",
+      "duration": "7–8 hours",
+      "best_time": "Early start, Apr–May and Oct–Nov",
+      "price_hint": "Included in our Makalu trek",
+      "image_query": "Shipton La pass Makalu trek",
+      "wiki": "",
+      "summary": "The hardest day of the Makalu approach crosses two saddles at around 4,100–4,200 m from Khongma Danda to Dobate, passing small lakes and opening the first big views of Makalu, Chamlang and the far-off Kanchenjunga.",
+      "body": [
+        "We leave Khongma Danda before dawn. The trail climbs through rhododendron scrub to a series of ridges past Kauma, then traverses to the Shipton La, at about 4,200 m, named after the British explorer who surveyed this area in the 1950s. Prayer flags mark the saddle, and on clear mornings Makalu, Chamlang and, far to the east, Kanchenjunga line the horizon.",
+        "Between the passes the trail drops past small lakes such as Kalo Pokhari, the black lake, then climbs again to the Keke La at about 4,170 m. From there it is a long, steep descent through forest to the lodges at Dobate. Snow can linger here until late April and appear again from November, making the path slippery, so microspikes and poles are useful.",
+        "It is a long day of 7 to 8 hours, and cloud often closes in by early afternoon. Our guides decide whether to cross or wait a day at Khongma Danda based on weather and the group's acclimatisation."
+      ],
+      "good_for": ["groups", "solo", "photographers"],
+      "faqs": [
+        {"q": "How high is Shipton La?", "a": "Shipton La is at roughly 4,200 m. Altitudes quoted by different maps vary by around 50 m. The neighbouring Keke La is slightly lower, at about 4,170 m."},
+        {"q": "Is Shipton La passable in winter?", "a": "Usually not safely from December to February, when snow and ice can make the traverse dangerous and lodges higher up close. Spring and autumn are the right seasons."},
+        {"q": "What views does Shipton La give?", "a": "On clear mornings, Makalu, Chamlang and Peak 6 nearby, and Kanchenjunga far to the east. Cloud usually builds by late morning, so an early start matters."}
+      ]
+    },
+    {
+      "slug": "arun-valley-rai-village-trail",
+      "title": "Arun valley Rai villages on the approach",
+      "kind": "culture",
+      "duration": "First 3 trek days",
+      "best_time": "Oct–Nov and Mar–May",
+      "price_hint": "Included in our Makalu trek",
+      "image_query": "Arun River valley Sankhuwasabha",
+      "wiki": "River Arun",
+      "summary": "The opening days of the Makalu trek drop from Num to the Arun River and climb through Rai and Sherpa villages to Seduwa and Tashigaon, a world of terraces, cardamom, bamboo and small schools well below the snow.",
+      "body": [
+        "The Makalu trek starts lower than almost any other major Himalayan route. From Num, at about 1,560 m, the trail plunges to a suspension bridge over the Arun River, under 1,000 m, then climbs the far side to Seduwa. The Arun cuts through the Himalaya from Tibet, and the valley is deep, warm and green, with sal and chilaune forest, banana trees and cardamom plantations.",
+        "Most villages here are Rai, one of the Kirat peoples, with Sherpa settlements higher up near Tashigaon. Houses are stone and thatch or tin, with maize drying under the eaves and chickens in the yard. The national park check post at Seduwa is where permits are checked. Lodges are family homes with a few rooms added, and the welcome is warm.",
+        "These days are hot and humid compared with the high valley, with big climbs and descents. Start early, carry plenty of water and use the evenings to talk with your hosts about life in a valley that has only recently been reached by road."
+      ],
+      "good_for": ["groups", "solo", "photographers"],
+      "faqs": [
+        {"q": "Who are the Rai people?", "a": "The Rai are one of the Kirat peoples of eastern Nepal, with many subgroups and languages. They follow the Kirat faith alongside Hindu and Buddhist practices and are known for festivals such as Sakela."},
+        {"q": "Is the Arun valley hot?", "a": "Yes, compared with the high trail. In April and May daytime temperatures near the river can reach the low 30s °C. Start walking early and carry at least 2 litres of water."},
+        {"q": "Where are permits checked on the Makalu trek?", "a": "The main Makalu Barun National Park check post is at Seduwa, with further checks along the way. Keep your permits and passport copy handy."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How long is the Makalu Base Camp trek?", "a": "About 17–20 days from Kathmandu. That includes the flight to Tumlingtar, a jeep to Num, about 8 days up to base camp with one acclimatisation day, an exploration day at base camp and about 5–6 days back down."},
+    {"q": "Makalu Base Camp trek cost", "a": "Our 18-day Makalu Base Camp trek starts from about US$1,890 (₹1,65,000) per person in a group of two or more, including Tumlingtar flights, jeep transfers, permits, licensed guide, porters and teahouse meals. Solo departures cost more."},
+    {"q": "What permits are needed for Makalu Base Camp?", "a": "A Makalu Barun National Park entry permit (about NPR 3,000 for foreigners) and local fees. The standard route does not need a restricted area permit. Foreign trekkers should go with a licensed guide. Check current status before you travel."},
+    {"q": "How difficult is the Makalu Base Camp trek?", "a": "Strenuous. Days are 6–8 hours with large climbs and descents, especially from Tashigaon to Khongma Danda and over Shipton La. Lodges are basic and the area is remote. Previous trekking experience is recommended."},
+    {"q": "What is the altitude of Makalu Base Camp?", "a": "Makalu Base Camp is at 4,870 m. The trek starts at Tumlingtar, around 500 m, so the total climb is huge. The highest overnight is base camp itself; the moraine viewpoint above reaches about 5,000–5,200 m."},
+    {"q": "Are there teahouses on the Makalu trek?", "a": "Yes, all the way to base camp. They are simpler than on the Everest route, and some upper lodges open only in spring and autumn. In the off-season, or for bigger groups, camping support may be needed."},
+    {"q": "Makalu vs Everest Base Camp: which is better?", "a": "Everest Base Camp has better lodges, more people and easier logistics. Makalu is quieter, wilder and more varied in scenery, with a lower high point but harder daily stages. Choose Makalu if you have done a popular trek and want solitude."},
+    {"q": "When is the best time for Makalu Base Camp?", "a": "October and November for clear skies, and April and May for rhododendrons and milder temperatures. Snow on Shipton La makes December to February difficult, and the monsoon from June to September brings leeches and landslides."},
+    {"q": "Can beginners do Makalu Base Camp?", "a": "We do not recommend it as a first trek. Fit beginners are better starting with a shorter, better-served route, then coming back for Makalu. If you are determined, add extra rest days and train for steep climbs."}
+  ]
+}

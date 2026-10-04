@@ -1,0 +1,9 @@
+{% load tours %}<a class="rtile" href="{{ r.url }}" data-land="{{ r.slug }}">
+  {% photo r|first_img r.name "rtile__ph" "(max-width: 760px) 100vw, 33vw" False False %}
+  <span class="rtile__icon">{% icon r.icon %}</span>
+  <span class="rtile__txt">
+    <small>{{ r.palette }}</small>
+    <b>{{ r.name }}</b>
+    <span class="rtile__meta">{% if r.max_altitude_m %}<span>{% icon "altitude" %}to {{ r.max_altitude_m|thousands }} m</span>{% endif %}{% if r.price_from_inr %}<span data-inr="from {{ r.price_from_inr|inr }}" data-usd="from {{ r.price_from_usd|usd }}">from {{ r.price_from_inr|inr }}</span>{% endif %}</span>
+  </span>
+</a>

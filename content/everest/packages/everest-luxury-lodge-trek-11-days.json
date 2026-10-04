@@ -1,0 +1,96 @@
+{
+  "slug": "everest-luxury-lodge-trek-11-days",
+  "title": "Everest Luxury Lodge Trek 11 Days",
+  "region": "everest",
+  "type": "trek",
+  "grade": "Moderate",
+  "nights": 10,
+  "themes": ["trekking", "luxury-nepal", "honeymoon", "photography", "cultural-tours"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "phakding", "nights": 2},
+    {"place": "namche-bazaar", "nights": 4},
+    {"place": "tengboche", "nights": 0},
+    {"place": "pangboche", "nights": 2},
+    {"place": "lukla", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (domestic airport)",
+  "price_from_inr": 351000,
+  "price_from_usd": 3990,
+  "best_months": [0, 0, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "max_altitude_m": 4600,
+  "accommodation": "5-star hotel in Kathmandu; Yeti Mountain Home, Hotel Everest View and Everest Summit Lodge on the trail",
+  "transport": "Kathmandu–Lukla return flights (or Ramechhap–Lukla with private road transfer), private transfers",
+  "group": "Private, 2–8",
+  "meta_description": "Everest luxury lodge trek 11 days: Yeti Mountain Home lodges, a night at Hotel Everest View, Everest Summit Lodge Pangboche and Ama Dablam base camp hike.",
+  "summary": "An 11-day Everest trek that sleeps every night in the best lodges in the Khumbu: Yeti Mountain Home at Lukla, Phakding and Namche, a night at Hotel Everest View facing Everest, and two nights at Everest Summit Lodge Pangboche below Ama Dablam. Short walking days, ensuite rooms and a maximum height of about 4,600 m.",
+  "intro": [
+    "Much of what puts people off an Everest trek is the lodging: cold rooms, shared toilets and thin walls. This trek removes most of it. Below Pangboche, every night is in a lodge with an attached bathroom, hot water and heated or electric blankets, starting with three Yeti Mountain Home properties, then a night at Hotel Everest View, where your room looks at Everest, and two nights at Everest Summit Lodge in Pangboche, facing Ama Dablam. Walking days are kept to 3–6 hours, and the return is split over three days.",
+    "The route covers the Sherpa heart of the Khumbu: Namche Bazaar, Khumjung, Tengboche Monastery and Pangboche, with a day hike from Pangboche to Ama Dablam base camp at about 4,600 m for close views of the mountain and Everest up the valley. It does not go to Everest Base Camp, which keeps altitude risk lower and comfort higher. It suits couples, honeymooners, older trekkers and anyone who wants mountain views with good beds. The price includes a 5-star Kathmandu night, flights, permits, all lodges and meals, a senior guide and porters."
+  ],
+  "highlights": [
+    "A night at Hotel Everest View with Everest outside your window",
+    "Two nights at Everest Summit Lodge Pangboche facing Ama Dablam",
+    "Yeti Mountain Home lodges at Lukla, Phakding and Namche",
+    "Day hike to Ama Dablam base camp at about 4,600 m",
+    "Tengboche Monastery, Khumjung and Namche with short walking days"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, 5-star hotel", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · ≈ 6 km · 30 min", "flight": "", "text": "Private transfer to a 5-star hotel in Kathmandu. In the afternoon your senior guide visits to go through the itinerary and check your boots, layers and daypack. Porters carry your duffel, so you walk with only a light pack. We repack for the 15 kg Lukla allowance and store extra luggage at the hotel. Dinner at leisure.", "meals": "Breakfast"},
+    {"day": 2, "title": "Fly to Lukla, walk to Phakding", "place": "phakding", "overnight": "Yeti Mountain Home Phakding", "altitude_m": 2610, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "Kathmandu–Ramechhap in peak months · ≈ 130 km · 4–5 h", "flight": "Kathmandu–Lukla · 35 min (or Ramechhap–Lukla · 20 min)", "text": "Fly to Lukla, with a private car to Ramechhap in peak months. After tea at Yeti Mountain Home Lukla, walk down the Dudh Koshi valley past Chaurikharka and the water-driven prayer wheels at Ghat to Phakding. The lodge sits by the river with a garden and ensuite rooms. Afternoon free to rest with a book.", "meals": "B, L, D"},
+    {"day": 3, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Yeti Mountain Home Namche", "altitude_m": 3440, "max_m": 3440, "walk": "≈ 5–6 h · 10–11 km", "drive": "", "flight": "", "text": "Walk up the river through Benkar and Monjo to the Sagarmatha National Park gate, then lunch at Jorsale. Cross the Hillary Bridge and climb the Namche hill at an easy pace, pausing for the first view of Everest. Yeti Mountain Home Namche, on the quieter eastern side of town, looks across to Thamserku. A hot shower and a warm room make this the most comfortable Namche night possible.", "meals": "B, L, D"},
+    {"day": 4, "title": "Namche, Sherpa museum and market", "place": "namche-bazaar", "overnight": "Yeti Mountain Home Namche", "altitude_m": 3440, "max_m": 3600, "walk": "≈ 2–3 h · 4 km", "drive": "", "flight": "", "text": "A gentle acclimatisation day. Climb 15 minutes above town to the Sherpa Culture Museum and national park visitor centre, with a viewpoint for Everest, Lhotse and Ama Dablam, and the bust of Tenzing Norgay. If it is Saturday, browse the weekly market. Afternoon free for coffee, shopping or a massage at one of Namche's small spas. Early dinner.", "meals": "B, L, D"},
+    {"day": 5, "title": "Khumjung and a night at Everest View", "place": "khumjung", "overnight": "Hotel Everest View", "altitude_m": 3880, "max_m": 3880, "walk": "≈ 3–4 h · 6 km", "drive": "", "flight": "", "text": "Climb over the ridge to Khumjung, a green-roofed Sherpa village below sacred Khumbila, to see Hillary's school and the monastery's yeti scalp, with lunch at a village lodge. In the afternoon walk up to Hotel Everest View at 3,880 m and check in. Watch sunset turn Everest, Lhotse and Ama Dablam pink from the terrace, and wake to the same view at dawn from your room.", "meals": "B, L, D"},
+    {"day": 6, "title": "Everest View to Pangboche via Tengboche", "place": "tengboche", "overnight": "Everest Summit Lodge Pangboche", "altitude_m": 3985, "max_m": 3985, "walk": "≈ 5–6 h · 11 km", "drive": "", "flight": "", "text": "After sunrise and breakfast, walk down to Kyangjuma on the main trail and continue to Phunki Thenga for lunch. Climb through rhododendron forest to Tengboche Monastery, where you can join the afternoon prayers or simply sit in the courtyard. Continue through Deboche and across the Imja Khola to Pangboche and Everest Summit Lodge, set on the hillside facing Ama Dablam.", "meals": "B, L, D"},
+    {"day": 7, "title": "Ama Dablam base camp hike", "place": "pangboche", "overnight": "Everest Summit Lodge Pangboche", "altitude_m": 3985, "max_m": 4600, "walk": "≈ 5–6 h · 9 km return", "drive": "", "flight": "", "text": "Cross the Imja Khola below the village and climb about 600 m through yak pastures to Ama Dablam base camp at around 4,600 m, a meadow below the mountain's south-west ridge where climbing teams camp in autumn and spring. Look back up the Khumbu to Everest and Lhotse. Descend to Pangboche for a late lunch. Those who prefer a shorter day visit the old monastery in Upper Pangboche instead.", "meals": "B, L, D"},
+    {"day": 8, "title": "Pangboche to Namche Bazaar", "place": "namche-bazaar", "overnight": "Yeti Mountain Home Namche", "altitude_m": 3440, "max_m": 3985, "walk": "≈ 5–6 h · 13 km", "drive": "", "flight": "", "text": "Walk back down past Tengboche, through the forest to Phunki Thenga, and climb up to Kyangjuma for the balcony trail to Namche. With good acclimatisation the walking feels easy, and there is time to stop for photographs of Ama Dablam, now behind you. Back at Yeti Mountain Home Namche for a hot shower and dinner.", "meals": "B, L, D"},
+    {"day": 9, "title": "Namche to Phakding", "place": "phakding", "overnight": "Yeti Mountain Home Phakding", "altitude_m": 2610, "max_m": 3440, "walk": "≈ 4–5 h · 11 km", "drive": "", "flight": "", "text": "Descend the Namche hill to the Hillary Bridge and walk along the river through Jorsale and Monjo to Phakding. Splitting the descent to Lukla over two days keeps the walking relaxed and easy on the knees. Enjoy a last riverside evening at the Phakding lodge.", "meals": "B, L, D"},
+    {"day": 10, "title": "Phakding to Lukla", "place": "lukla", "overnight": "Yeti Mountain Home Lukla", "altitude_m": 2860, "max_m": 2860, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "A short morning walk back up to Lukla, gaining about 250 m. Lunch at Yeti Mountain Home Lukla and an afternoon watching the planes on the runway. Farewell dinner with your guide and porters, and an early night before the morning flight.", "meals": "B, L, D"},
+    {"day": 11, "title": "Fly to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 2860, "walk": "", "drive": "Ramechhap–Kathmandu in peak months · ≈ 130 km · 4–5 h", "flight": "Lukla–Kathmandu · 35 min (or Lukla–Ramechhap · 20 min)", "text": "Fly from Lukla to Kathmandu, or to Ramechhap with a private car to Kathmandu, and transfer to your hotel. Keep at least one spare night in Kathmandu for weather delays; we can book it at the same 5-star hotel.", "meals": "Breakfast"}
+  ],
+  "stays": ["yeti-mountain-home-lukla", "yeti-mountain-home-namche", "hotel-everest-view", "everest-summit-lodge-pangboche"],
+  "includes": [
+    "Private airport transfers and 1 night in a 5-star Kathmandu hotel with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights, or Ramechhap–Lukla with private car transfers",
+    "Sagarmatha National Park and Khumbu Pasang Lhamu Rural Municipality permits",
+    "9 nights in premium lodges: Yeti Mountain Home (Lukla, Phakding, Namche), Hotel Everest View, Everest Summit Lodge Pangboche",
+    "All meals on the trek, with tea, coffee and soft drinks",
+    "Senior licensed English-speaking guide",
+    "Porters (one per trekker, up to 15 kg each)",
+    "Staff wages, food, lodging and insurance",
+    "Pulse oximeter checks, first-aid kit and emergency oxygen"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Extra Kathmandu nights after the trek",
+    "Travel insurance with helicopter evacuation",
+    "Alcoholic drinks",
+    "Spa treatments and personal shopping",
+    "Tips for guide and porters",
+    "Costs from flight delays"
+  ],
+  "good_to_know": [
+    "Price is per person, twin sharing, for a private trip of two. Lodges are limited in size, so book 3–6 months ahead for October, November and April.",
+    "If a lodge is full on your dates, we substitute the nearest equivalent, such as another Yeti Mountain Home or Everest Summit Lodge property, and tell you before you pay.",
+    "Hotel Everest View is at 3,880 m; you sleep there only after three nights at Namche-level, which suits most travellers. Ama Dablam base camp is optional.",
+    "Moderate grade: walking days of 3–6 hours with one longer day to Pangboche and the optional base camp hike. Regular walkers manage comfortably.",
+    "In recent peak seasons Lukla flights have operated from Ramechhap; check current status before you travel. A private helicopter return can replace the flights."
+  ],
+  "add_ons": [
+    {"name": "Private helicopter Lukla–Kathmandu both ways", "price": "≈ US$ 3,000–3,800 per helicopter each way"},
+    {"name": "Extra night at Hotel Everest View", "price": "On request"},
+    {"name": "Extra 5-star Kathmandu night", "price": "≈ US$ 180–260 per room"}
+  ],
+  "faqs": [
+    {"q": "What are the best luxury lodges in the Everest region?", "a": "The best known are Yeti Mountain Home (Lukla, Phakding, Monjo, Namche, Thame, Kongde), Everest Summit Lodges (Lukla, Monjo, Tashinga, Mende, Pangboche) and Hotel Everest View above Namche. All offer ensuite rooms, better bedding and heated or electric blankets."},
+    {"q": "How much does a luxury Everest trek cost?", "a": "Our 11-day Everest luxury lodge trek starts from about US$ 3,990 or ₹3,51,000 per person, twin sharing, for a private trip of two, including a 5-star Kathmandu night, flights, permits, premium lodges, all meals, a senior guide and porters."},
+    {"q": "Does the luxury lodge trek go to Everest Base Camp?", "a": "No. Above Pangboche, only basic teahouses exist, so a true luxury trek stays lower. You see Everest from Hotel Everest View, Tengboche and Ama Dablam base camp. To reach base camp in comfort, combine this trek with a heli tour landing at Kala Patthar."},
+    {"q": "Is the luxury Everest trek good for a honeymoon?", "a": "Yes. Couples like the private guide, ensuite rooms, short walking days and nights at Hotel Everest View and Pangboche facing the mountains. October to December gives the clearest views. We can add a 5-star stay in Kathmandu or Pokhara afterwards."},
+    {"q": "Are rooms heated in the luxury lodges?", "a": "Most rooms have electric blankets or heated beds rather than room heaters, and dining rooms have stoves. Bathrooms have hot water. It is much warmer than standard teahouses, though mornings at 3,900–4,000 m are still cold."},
+    {"q": "Can older travellers do the luxury lodge trek?", "a": "Yes. It is designed for comfort, with short days, a gradual climb and a maximum sleeping altitude of about 3,985 m. Anyone who walks regularly can manage it. Get a medical check before booking if you have heart or lung conditions."},
+    {"q": "Can we fly by helicopter instead of the Lukla plane?", "a": "Yes. A private helicopter between Kathmandu and Lukla avoids the Ramechhap drive and is less affected by small fixed-wing delays. It costs roughly US$ 3,000–3,800 per helicopter each way and carries up to five passengers."},
+    {"q": "Is food better in the luxury lodges?", "a": "Yes, generally. Yeti Mountain Home and Everest Summit Lodges cook fresh meals, often with vegetables from their own greenhouses, and offer more variety than standard teahouse menus. Special diets can be arranged with notice."},
+    {"q": "How far ahead should I book a luxury Everest trek?", "a": "Three to six months for October, November and April, when the small lodges fill first. Winter and late spring dates are easier. We hold rooms on confirmation with a deposit."}
+  ]
+}

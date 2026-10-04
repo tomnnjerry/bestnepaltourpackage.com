@@ -1,0 +1,103 @@
+{
+  "slug": "manaslu-base-camp-trek-16-days",
+  "title": "Manaslu Base Camp and Circuit Trek 16 Days",
+  "region": "manaslu",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 15,
+  "themes": ["trekking", "photography", "adventure-sports"],
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "machha-khola", "nights": 1},
+    {"place": "jagat", "nights": 1},
+    {"place": "namrung", "nights": 1},
+    {"place": "lho", "nights": 1},
+    {"place": "samagaun", "nights": 3},
+    {"place": "manaslu-base-camp", "nights": 0},
+    {"place": "samdo", "nights": 2},
+    {"place": "bimthang", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 121000,
+  "price_from_usd": 1390,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5106,
+  "accommodation": "3-star hotel in Kathmandu (2 nights), teahouse lodges on the trek (13 nights)",
+  "transport": "Private jeep Kathmandu–Machha Khola and Dharapani–Kathmandu, airport transfers",
+  "group": "Private or small group, 1–12, with a licensed guide",
+  "meta_description": "Manaslu Base Camp and Circuit trek 16 days: day hike to base camp (≈ 4,800 m), two Samdo nights, Larkya La 5,106 m, permits and guide. From US$1,390.",
+  "summary": "Our 16-day Manaslu itinerary adds the full Manaslu Base Camp day hike from Samagaun and a second night in Samdo to the classic circuit. You sleep three nights in Samagaun, climb to about 4,800 m at base camp, hike towards the Tibet border from Samdo and cross Larkya La well acclimatised.",
+  "intro": [
+    "Many trekkers reach Samagaun, look up at Manaslu's glacier and wish they had time to go higher. This itinerary gives you that time. After the standard Pungyen Gompa acclimatisation hike, you spend a second spare day climbing 1,270 m to Manaslu Base Camp, where expeditions camp in autumn below the icefall. A second night in Samdo, with a hike up the old trade route towards Tibet, then sets you up for the pass.",
+    "The extra two days make the trek safer as well as richer. By the time you leave Dharamsala for Larkya La you have already been to about 4,800 m and back and slept near 3,900 m for two nights. It suits keen photographers, trekkers who enjoy big days and anyone who wants the closest possible look at an 8,000 m peak without climbing. Prices assume two people sharing and peak-season permit fees."
+  ],
+  "highlights": [
+    "Day hike to Manaslu Base Camp at about 4,800 m",
+    "Three nights in Samagaun with Pungyen Gompa and Birendra Tal",
+    "Two nights in Samdo with a hike towards the Tibet border",
+    "Larkya La at 5,106 m with excellent acclimatisation",
+    "Expedition camps in season (mid September to early October)"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Meet your guide at the airport and transfer to your hotel in Thamel. In the afternoon we brief you on the route, permits and the base camp day, and check that your boots, down jacket and sleeping bag are suitable for nights down to −15 °C. Rental gear is easy to find in Thamel if anything is missing.", "meals": "Dinner"},
+    {"day": 2, "title": "Drive to Machha Khola", "place": "machha-khola", "overnight": "Machha Khola", "altitude_m": 930, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 8–9 h", "flight": "", "text": "Private jeep from Kathmandu at 6:30 am via Dhading Besi and Arughat, then on the rough dirt road along the Budhi Gandaki through Soti Khola to Machha Khola at 930 m. Long and bumpy, with good views of terraced hills. Overnight in a riverside teahouse.", "meals": "B, L, D"},
+    {"day": 3, "title": "Machha Khola to Jagat", "place": "jagat", "overnight": "Jagat", "altitude_m": 1340, "max_m": 1340, "walk": "≈ 6–7 h · 22 km", "drive": "", "flight": "", "text": "Walk the Budhi Gandaki gorge via Khorlabesi, the Tatopani hot spring and Dobhan to the flagstone village of Jagat at 1,340 m. Waterfalls, suspension bridges and steep stone stairs make a varied first day. Permits are checked at the conservation area office.", "meals": "B, L, D"},
+    {"day": 4, "title": "Jagat to Deng", "place": "", "overnight": "Deng", "altitude_m": 1860, "max_m": 1860, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "Climb past Sirdibas to Philim on its millet terraces, pass the Tsum fork at Ekle Bhatti and follow the narrow, forested gorge to Deng at about 1,860 m. The air cools and the forest thickens as you gain height.", "meals": "B, L, D"},
+    {"day": 5, "title": "Deng to Namrung", "place": "namrung", "overnight": "Namrung", "altitude_m": 2630, "max_m": 2630, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Through Rana, Bihi Phedi and Ghap, where Buddhist mani walls start in earnest, then a steady climb through pine and rhododendron to Namrung at 2,630 m. The first big peaks, Siringi Himal and Himal Chuli, appear from the village on clear evenings.", "meals": "B, L, D"},
+    {"day": 6, "title": "Namrung to Lho", "place": "lho", "overnight": "Lho", "altitude_m": 3180, "max_m": 3180, "walk": "≈ 4–5 h · 11 km", "drive": "", "flight": "", "text": "Walk through Banjam, Lihi and Sho with their long mani walls and barley fields. Manaslu comes into view near Sho. At Lho, about 3,180 m, climb to Ribung Gompa in the afternoon for the view up-valley to the mountain.", "meals": "B, L, D"},
+    {"day": 7, "title": "Lho to Samagaun", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 3530, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "After sunrise on Manaslu, walk to Shyala and its ring of peaks and on to Samagaun at 3,530 m. In the afternoon take the easy path to Birendra Tal at the foot of the Manaslu Glacier and back, keeping your body moving gently at the new height.", "meals": "B, L, D"},
+    {"day": 8, "title": "Pungyen Gompa acclimatisation", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 4000, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "Climb to the Pungyen Gompa site, close to 4,000 m, on the ridge above the Manaslu Glacier, then return to Samagaun. This moderate day prepares you for tomorrow's much bigger climb. Rest in the afternoon, eat well and drink 3 to 4 litres of water.", "meals": "B, L, D"},
+    {"day": 9, "title": "Manaslu Base Camp day hike", "place": "manaslu-base-camp", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 4800, "walk": "≈ 8–9 h · 14 km return", "drive": "", "flight": "", "text": "Leave at 6 am with a packed lunch. Pass Birendra Tal and climb the steep lateral moraine above the Manaslu Glacier, gaining about 1,270 m in 5 to 6 hours to base camp at roughly 4,800 m. The icefall and summit tower above, and in autumn expedition tents cover the moraine. Spend 20 to 30 minutes, then descend about 3 hours to Samagaun. Your guide will set a firm turnaround time.", "meals": "B, L, D"},
+    {"day": 10, "title": "Samagaun to Samdo", "place": "samdo", "overnight": "Samdo", "altitude_m": 3875, "max_m": 3875, "walk": "≈ 3 h · 8 km", "drive": "", "flight": "", "text": "After yesterday's big effort, a short, easy walk up the Budhi Gandaki through yak pastures to Samdo at about 3,875 m, the last permanent village before the pass. Spend the afternoon resting and walking gently around the village.", "meals": "B, L, D"},
+    {"day": 11, "title": "Hike towards the Tibet border", "place": "samdo", "overnight": "Samdo", "altitude_m": 3875, "max_m": 4700, "walk": "≈ 5–7 h return", "drive": "", "flight": "", "text": "Follow the old trade route up the side valley north of Samdo towards the Tibet border, climbing to a viewpoint at roughly 4,500 to 4,800 m depending on fitness and conditions. Views take in Manaslu, Manaslu North and the Larkya peaks. Blue sheep often graze the slopes. Return to Samdo to sleep.", "meals": "B, L, D"},
+    {"day": 12, "title": "Samdo to Dharamsala", "place": "larkya-la", "overnight": "Dharamsala (Larkya Phedi)", "altitude_m": 4460, "max_m": 4460, "walk": "≈ 3.5–4 h · 7 km", "drive": "", "flight": "", "text": "Climb past the ruins of Larkya Bazaar to Dharamsala at about 4,460 m, the high camp below Larkya La. Rest, take a short walk up the moraine and go to bed early. With base camp and the border hike behind you, most trekkers sleep better here than on shorter itineraries.", "meals": "B, L, D"},
+    {"day": 13, "title": "Larkya La 5,106 m to Bimthang", "place": "bimthang", "overnight": "Bimthang", "altitude_m": 3590, "max_m": 5106, "walk": "≈ 8–10 h · 15–16 km", "drive": "", "flight": "", "text": "Start around 4 am and climb the Larkya Glacier moraine past frozen lakes to the prayer flags at 5,106 m. Take in the view of Himlung Himal, Cheo Himal and Annapurna II, then descend the steep western side on scree and snow to the moraine and meadow of Bimthang at about 3,590 m.", "meals": "B, L, D"},
+    {"day": 14, "title": "Bimthang to Dharapani", "place": "", "overnight": "Dharapani", "altitude_m": 1860, "max_m": 3590, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "Drop about 1,700 m through rhododendron and pine forest via Hampuk, Karche, Gho and Tilije, then follow the Dudh Khola to Thonje and Dharapani on the Marsyangdi. A jeep from Tilije may be used in the dry season to save road walking.", "meals": "B, L, D"},
+    {"day": 15, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1860, "walk": "", "drive": "≈ 215 km · 9–10 h", "flight": "", "text": "Private jeep down the Marsyangdi to Besisahar, then by highway via Dumre and Mugling to Kathmandu, arriving in the evening. Celebrate the trek with dinner in Thamel. The drive can end in Pokhara instead if you plan to continue your holiday there.", "meals": "B, L"},
+    {"day": 16, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Hotel to airport · 30 min", "flight": "", "text": "Free time for shopping or a visit to Swayambhunath, Patan or Boudhanath before your airport transfer. We drop you about three hours before your international flight. Your guide returns permit copies as a souvenir of the trek.", "meals": "Breakfast"}
+  ],
+  "stays": ["samagaun-hotel-norling", "samagaun-manaslu-guest-house"],
+  "includes": [
+    "Manaslu restricted area permit, MCAP, ACAP and Tsum Nubri municipality fee",
+    "Licensed English-speaking trekking guide",
+    "One porter for every two trekkers (up to 20 kg)",
+    "Private jeep Kathmandu–Machha Khola and Dharapani–Kathmandu",
+    "2 nights in a 3-star Kathmandu hotel with breakfast",
+    "13 nights in teahouse lodges",
+    "Three meals a day on the trek, plus packed lunch on the base camp day",
+    "Guide and porter wages, insurance and meals",
+    "Airport transfers, first-aid kit and pulse oximeter"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation to 6,000 m",
+    "Lunch and dinner in Kathmandu except welcome dinner",
+    "Hot showers, Wi-Fi, charging and drinks",
+    "Personal gear and sleeping bag rental",
+    "Extra days due to weather or illness",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing, peak-season permit fees and teahouse lodges; solo trekkers pay about US$270 more.",
+    "Manaslu Base Camp is a strenuous day of 8 to 9 hours; your guide may shorten it or turn back if you show altitude symptoms or the weather turns.",
+    "Restricted area permit fees rise with the number of days; this itinerary spends about 11 days inside the restricted area, which we have priced in.",
+    "A licensed guide is mandatory, and as of 2026 solo trekkers can obtain the permit without a partner, as we understand it; check current status before you travel.",
+    "Mid September to early October is expedition season, when base camp is busiest; October and November give the clearest views."
+  ],
+  "add_ons": [
+    {"name": "Helicopter Samagaun–Kathmandu instead of the pass", "price": "≈ US$ 900–1,200 per seat, shared"},
+    {"name": "Rest day in Bimthang with Ponkar Lake hike", "price": "≈ US$ 60 per person"}
+  ],
+  "faqs": [
+    {"q": "Can I add Manaslu Base Camp to the Manaslu Circuit?", "a": "Yes. Add one day in Samagaun for the base camp hike. Our 16-day itinerary includes that day plus a second night in Samdo, which improves acclimatisation for Larkya La. The base camp hike itself is 8 to 9 hours return, gaining about 1,270 m to roughly 4,800 m."},
+    {"q": "How much does the Manaslu Base Camp trek cost?", "a": "This 16-day trek starts from US$1,390 or about ₹1,21,000 per person, twin sharing, including permits, licensed guide, porters, teahouse lodging and meals on the trail, two Kathmandu hotel nights and private jeeps. Expect another US$150 to 250 for drinks, showers, charging and tips."},
+    {"q": "Is the Manaslu Base Camp hike dangerous?", "a": "It is non-technical but strenuous, on steep, loose moraine at high altitude. The main risks are altitude sickness, slips on the descent and sudden weather changes. Going after a full acclimatisation day, starting early, setting a turnaround time and walking with your guide keeps it safe."},
+    {"q": "Do I need climbing gear for Manaslu Base Camp?", "a": "No. Base camp is reached on a trekking trail over moraine. Good boots, trekking poles, warm layers, sun protection and 2 litres of water are enough in normal autumn conditions. In late season or after snowfall, microspikes help on the upper section and the descent."},
+    {"q": "Will I see climbers at Manaslu Base Camp?", "a": "If you are there between late August and early October, very likely. Dozens of expedition teams camp on the moraine before their summit attempts. Outside that window base camp is usually empty. Respect the camps as private workplaces and ask before taking photographs."},
+    {"q": "Why does this itinerary have two nights in Samdo?", "a": "A second night at about 3,875 m with a hike to around 4,500 to 4,800 m improves your acclimatisation before sleeping at Dharamsala (4,460 m) and crossing Larkya La (5,106 m). It also gives a spare day if weather on the pass is poor. Trekkers usually find the crossing more comfortable as a result."},
+    {"q": "Is this trek good for photographers?", "a": "Yes. You get three Samagaun sunrises, close views of the Manaslu icefall from base camp, the Tibet border valley from Samdo, the panorama from Larkya La and sunset on Manaslu's west face at Bimthang. Bring spare batteries kept warm, as cold drains them quickly above 4,000 m."},
+    {"q": "What fitness level do I need?", "a": "You should be able to walk 6 to 8 hours with substantial climbs on consecutive days. The base camp day and the pass day are both long and high. Train with hill walks or stair sessions carrying a 6 to 8 kg pack for two to three months before departure."},
+    {"q": "Can I skip the base camp day if I am tired?", "a": "Of course. Your guide can swap it for a rest day or the shorter walk to Birendra Tal and around the village. There is no refund for the unused day, but the itinerary stays the same length, giving extra recovery before Samdo and the pass."}
+  ]
+}

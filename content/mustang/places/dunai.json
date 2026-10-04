@@ -1,0 +1,131 @@
+{
+  "slug": "dunai",
+  "name": "Dunai",
+  "region": "mustang",
+  "kind": "trekking village",
+  "wiki": "Dunai",
+  "image_query": "Dunai Dolpa Thuli Bheri river",
+  "lat": 28.937,
+  "lng": 82.903,
+  "altitude_m": 2140,
+  "tagline": "Dolpo's district town on the Thuli Bheri, gateway to Phoksundo",
+  "meta_description": "Dunai guide: 2,140 m headquarters of Dolpa district on the Thuli Bheri river, first night of Shey Phoksundo and Lower Dolpo treks, 3 hours from Juphal.",
+  "summary": "Dunai (2,140 m) is the headquarters of Dolpa district, a small bazaar town on the Thuli Bheri river about 3 hours' walk from Juphal airstrip. Almost every Dolpo trek spends its first night here, sorting permits and supplies before heading north to Phoksundo Lake or east to Tarap.",
+  "intro": [
+    "Dunai lines the north bank of the Thuli Bheri, where the river runs fast and grey through a deep, dry valley. The town has a main street of shops, government offices, a hospital, police and national park posts, banks and a handful of lodges, most of them two or three storeys of concrete and stone. For people in Dolpo's remote villages, it is the place to buy rice, kerosene, clothes and solar panels, and the place to settle official business.",
+    "For trekkers, Dunai is where Dolpo begins. Flights from Nepalgunj land at Juphal, a hillside airstrip about 3 hours' walk away, and the first afternoon is spent walking down through terraced fields to the river and along it to Dunai. Permit checks happen here and at the national park office in nearby Sulighat, where the Suli Gad joins the Thuli Bheri and the trail to Phoksundo turns north.",
+    "There is little to see in Dunai itself, but it is a useful acclimatisation stop at a modest 2,140 m, and the evening walk along the river or up to the viewpoint above town shows how dramatic the valley is. From here the routes split: north up the Suli Gad to Chhepka and Phoksundo Lake, or east along the Thuli Bheri to Tarakot, the Tarap valley and the high passes of the Lower Dolpo circuit."
+  ],
+  "facts": [
+    ["Altitude", "2,140 m"],
+    ["Best months", "Apr – Jun · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Juphal (2,475 m), 3 h on foot"],
+    ["From Kathmandu", "Flights via Nepalgunj to Juphal + 3 h walk"],
+    ["Known for", "Dolpa district headquarters, Thuli Bheri gorge, Dolpo trailhead"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 1, 1, 2, 2, 2, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Juphal to Dunai walk", "text": "The first afternoon in Dolpo descends from Juphal's airstrip through terraced fields and villages to the Thuli Bheri, then follows the river to Dunai. It takes about 3 hours and is mostly downhill."},
+    {"title": "Thuli Bheri gorge", "text": "The Thuli Bheri river cuts a deep valley through dry hills around Dunai. Suspension bridges cross it at intervals, and the trail east towards Tarakot runs high above the water on cliffs."},
+    {"title": "District bazaar", "text": "Dunai's shops supply all of Dolpo. Walk the main street to see traders from upper villages, mule caravans loading goods and the government offices that make it the region's hub."},
+    {"title": "Gateway to Phoksundo", "text": "At Sulighat, just west of Dunai, the national park office checks permits and the trail turns north up the Suli Gad towards Chhepka and Phoksundo Lake."},
+    {"title": "Route east to Tarap", "text": "East of Dunai, the Lower Dolpo circuit follows the Thuli Bheri to Tarakot, with its old fort and gompa, before climbing into the Tarap valley."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu–Nepalgunj (about 1 h), then Nepalgunj–Juphal (35–45 min) on an early-morning flight. Juphal flights are often delayed by wind or cloud; keep at least one spare day. Check current schedules before you travel."},
+    {"mode": "On foot", "text": "From Juphal airstrip it is about 3 hours on foot to Dunai, descending to the Thuli Bheri and following the river east. Porters and mules can be hired at Juphal. Phoksundo Lake is 2–3 further days to the north."},
+    {"mode": "Road", "text": "A rough road links Dunai with Jajarkot and Surkhet, about 2 days by jeep from Nepalgunj or Surkhet, mainly used by locals and supply trucks. It is often blocked by landslides from June to September. Check current status before you travel."}
+  ],
+  "where_to_stay": "Dunai has a few basic hotels and lodges along the main street, with twin rooms, shared or attached bathrooms, and restaurants serving dal bhat, noodles and simple curries. Standards are modest, similar to a district town lodge anywhere in Nepal; hot water and electricity can be irregular. Camping groups often pitch tents at a site near the river. There are no star-rated hotels in Dolpo, so set expectations accordingly and bring your own sleeping bag.",
+  "stays": [],
+  "tips": [
+    "Carry permits and passport copies at the top of your bag; checks happen at Juphal, Dunai and Sulighat.",
+    "Buy any last supplies such as batteries, snacks and toilet paper in Dunai; choice drops sharply beyond it.",
+    "Banks in Dunai may not accept foreign cards; bring all the cash you need from Kathmandu or Nepalgunj.",
+    "Expect dust and heat in the Thuli Bheri valley at midday; start walking early.",
+    "Keep a spare day in your schedule for Juphal flight delays on the way out."
+  ],
+  "themes": ["trekking", "adventure-sports"],
+  "nearby": ["shey-phoksundo-lake"],
+  "experiences": [
+    {
+      "slug": "dunai-juphal-to-dunai-first-walk",
+      "title": "Juphal airstrip to Dunai first-day walk",
+      "kind": "hiking",
+      "duration": "3 hours",
+      "best_time": "Morning after landing, Apr–Nov",
+      "price_hint": "Part of our Dolpo trek",
+      "image_query": "Juphal airport Dolpa",
+      "wiki": "Juphal Airport",
+      "summary": "The opening walk of every Dolpo trek: from Juphal's hillside airstrip down through terraced fields and villages to the Thuli Bheri river and along it to Dunai, district headquarters of Dolpa.",
+      "body": [
+        "Landing at Juphal is an experience in itself: the airstrip at about 2,475 m is short, sloping and cut into a hillside above the Thuli Bheri. After the porters and mules are loaded, we set off downhill through the village of Juphal, past flat-roofed houses, terraced fields of wheat, barley and buckwheat and walnut trees that shade the paths.",
+        "The trail drops steadily for about an hour and a half to the river at Kalagaun, then follows the Thuli Bheri upstream along a broad path to Dunai. The valley here is dry and steep-sided, with pine forest on the higher slopes. You will meet villagers carrying loads, mule trains and schoolchildren; this is the main highway of Dolpo.",
+        "Allow about 3 hours, with a descent of around 350 m and little climbing. It is a gentle first day that lets your body adjust and your crew organise loads. Arrive in Dunai by early afternoon, show permits at the police and park checkpoints and settle into the lodge or camp."
+      ],
+      "good_for": ["groups", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How far is Dunai from Juphal?", "a": "Dunai is about 3 hours' walk from Juphal airstrip, descending around 350 m to the Thuli Bheri river and then following it upstream. Jeeps sometimes run on a rough track between the two, taking about an hour, but most trekkers walk. It is the usual first afternoon of a Dolpo trek."},
+        {"q": "Is the Juphal flight safe?", "a": "Juphal is a short, sloping mountain airstrip served by experienced operators flying small STOL aircraft. Like all remote Nepal airstrips, it depends on clear weather, so flights run in the early morning and cancel in poor conditions. Accept delays, which are a sign of caution rather than a problem."},
+        {"q": "What is the baggage limit on Nepalgunj–Juphal flights?", "a": "Usually about 10–15 kg checked baggage plus a small hand bag of around 5 kg per passenger, depending on the airline. Excess baggage is charged per kilo and may fly on a later plane. Pack light and leave extra gear at your Kathmandu hotel. Check current rules before you travel."}
+      ]
+    },
+    {
+      "slug": "dunai-thuli-bheri-riverside-walk",
+      "title": "Thuli Bheri riverside and Dunai bazaar walk",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Apr–Nov",
+      "price_hint": "Free",
+      "image_query": "Thuli Bheri river Dunai bridge",
+      "wiki": "",
+      "summary": "An easy evening stroll through Dunai's bazaar and along the Thuli Bheri, crossing a suspension bridge for views of the town and valley, with your guide explaining how Dolpo's trade and government work from this small hub.",
+      "body": [
+        "Dunai's main street is short but busy. Shops sell rice, salt, kerosene, clothing, mobile phones and solar panels, much of it carried in by mule or, now, by trucks on the new road. Traders from upper Dolpo villages, some in traditional chuba robes, come to buy and sell, and you may see mule caravans loading at dawn or dusk.",
+        "From the bazaar we walk down to the Thuli Bheri and cross a suspension bridge to the south bank for a view back over the town, its tin roofs and the dry, steep hills behind. The river is fast and cold, fed by snowmelt from the Dhaulagiri and Kanjiroba ranges. Your guide explains how Dunai serves as the district's administrative centre and how the road is changing life here.",
+        "The walk is flat, about 3 km, and takes 1.5 hours with stops. It is a good way to loosen your legs after the flight and first walk, and to get a feel for Dolpo's people before heading into the quieter valleys. Return before dark; street lighting is minimal."
+      ],
+      "good_for": ["solo", "couples", "groups", "families"],
+      "faqs": [
+        {"q": "What can I buy in Dunai?", "a": "Basic supplies: snacks, biscuits, noodles, batteries, toilet paper, simple clothing, torches and phone credit. Choice is limited and prices are higher than in Kathmandu. Specialist trekking gear and medicines are hard to find, so bring everything important with you from Kathmandu or Nepalgunj."},
+        {"q": "Is there mobile coverage in Dunai?", "a": "Yes, Dunai has Nepal Telecom and Ncell coverage with mobile data, though speed varies. It is one of the last places with dependable signal before Phoksundo or Tarap, where coverage is patchy or absent. Use the evening in Dunai to send messages home and download anything you need."},
+        {"q": "Is there a hospital in Dunai?", "a": "Dunai has a district hospital with basic services, useful for minor injuries and illnesses. Serious cases are evacuated by helicopter to Nepalgunj or Kathmandu, so good travel insurance covering helicopter rescue up to at least 6,000 m is essential for any Dolpo trek."}
+      ]
+    },
+    {
+      "slug": "dunai-suli-gad-to-chhepka-trek",
+      "title": "Suli Gad gorge from Dunai to Chhepka",
+      "kind": "hiking",
+      "duration": "6–7 hours",
+      "best_time": "Early morning start, Apr–Nov",
+      "price_hint": "Part of our Dolpo trek",
+      "image_query": "Suli Gad valley Dolpo trek",
+      "wiki": "",
+      "summary": "The second day of the Phoksundo trek: west from Dunai to the national park office at Sulighat, then north up the forested Suli Gad gorge past walnut groves and small villages to Chhepka at about 2,840 m.",
+      "body": [
+        "We leave Dunai early and follow the Thuli Bheri west to Sulighat, where the Suli Gad joins it. Here the Shey Phoksundo National Park office checks entry permits and records your details. The trail then turns north into the Suli Gad valley, which narrows quickly into a gorge with steep walls of rock and pine.",
+        "The path climbs gradually, crossing the river on wooden and suspension bridges, past the villages of Kageni and Shyanta with their walnut trees, fields and small water-driven mills. Waterfalls spill down the side walls and the air cools as you gain height. In autumn the forest shows gold and red, and in spring rhododendrons flower on the higher slopes.",
+        "Chhepka, the night stop, is a small settlement in a forest clearing at about 2,840 m, with a couple of simple lodges and campsites. Allow 6–7 hours with about 700 m of total ascent. It is a long day on a rocky trail, so wear sturdy boots, start by 7 am and carry lunch or eat at a simple teahouse on the way."
+      ],
+      "good_for": ["solo", "groups", "couples", "photographers"],
+      "faqs": [
+        {"q": "How long is the walk from Dunai to Chhepka?", "a": "About 6–7 hours, covering 15–18 km with around 700 m of ascent from 2,140 m to roughly 2,840 m. The trail follows the Thuli Bheri west, then climbs the Suli Gad gorge north. There are simple teahouses on the way, and Chhepka has basic lodges and campsites."},
+        {"q": "Where do I pay the Shey Phoksundo National Park fee?", "a": "Agencies usually buy the park permit in Kathmandu with the restricted area permit, and it is checked at the park office at Sulighat, near Dunai. If not pre-purchased, it can sometimes be paid at the entry post. Fees for foreigners are around NPR 3,000. Check current status before you travel."},
+        {"q": "Are there teahouses between Dunai and Phoksundo?", "a": "Yes, simple teahouses and lodges exist at Kageni, Shyanta, Chhepka, Rechi, Amchi Hospital and Ringmo, offering basic rooms and dal bhat. Standards are lower than in Annapurna or Everest and capacity is small, so many agencies camp or carry tents as backup in peak season."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Dunai?", "a": "Dunai is the headquarters of Dolpa district in Karnali Province, north-west Nepal, on the Thuli Bheri river at about 2,140 m. It lies roughly 3 hours' walk east of Juphal airstrip. It is the starting point for treks to Shey Phoksundo Lake and the Lower Dolpo circuit."},
+    {"q": "How do I get to Dunai from Kathmandu?", "a": "Fly from Kathmandu to Nepalgunj (about 1 hour), spend a night there if needed, then fly Nepalgunj–Juphal (35–45 minutes) in the early morning and walk 3 hours to Dunai. By road it takes about 2 days from Surkhet or Nepalgunj on a rough route via Jajarkot."},
+    {"q": "Is Dunai part of Mustang?", "a": "No, Dunai is in Dolpa district, which neighbours Mustang to the west. We group them because both lie north of the Dhaulagiri range in the Himalayan rain shadow with Tibetan Buddhist and Bon cultures. Dolpo is more remote than Mustang, with no road access from Jomsom."},
+    {"q": "What permits do I need in Dunai?", "a": "For treks starting at Dunai you need the Shey Phoksundo National Park permit and the Lower Dolpo restricted area permit, plus a licensed guide through a registered agency. Upper Dolpo needs a separate permit at a higher fee. Check current status before you travel."},
+    {"q": "Are there hotels in Dunai?", "a": "Dunai has a few basic hotels and lodges with simple rooms, some with attached bathrooms, and restaurants serving Nepali food. Electricity and hot water may be irregular. There are no star-rated hotels. Camping groups use a riverside site. Comfort is modest but adequate for one night."},
+    {"q": "What is the weather in Dunai?", "a": "Dunai is warm and dry for its height. Spring and autumn days are around 18–25 °C with nights of 5–10 °C. Summers are hot in the valley with occasional monsoon showers. Winters are cool and dry, with frost at night, and snow on surrounding hills."},
+    {"q": "How many days is the Shey Phoksundo trek from Dunai?", "a": "From Dunai, Phoksundo Lake is usually 2–3 days' walk via Chhepka and Amchi Hospital or Jharana. With a rest day at the lake and 2–3 days back to Juphal, the trek from Juphal takes 7–9 days, or 10–12 days including flights from Kathmandu."},
+    {"q": "Can I fly directly from Kathmandu to Juphal?", "a": "Scheduled flights to Juphal normally depart from Nepalgunj, not Kathmandu, so most trekkers fly Kathmandu–Nepalgunj first. Occasional charter flights or helicopters run direct, at a much higher cost. Some days a same-day connection works; otherwise plan a night in Nepalgunj. Check current schedules before you travel."},
+    {"q": "Is Dolpo safe for trekkers?", "a": "Yes, Dolpo is safe in terms of crime and people are welcoming. The risks are remoteness, altitude, weather and flight delays. Trek with a licensed guide, carry insurance covering helicopter evacuation, bring a first-aid kit and keep extra days in your schedule. Mobile coverage is limited beyond Dunai."}
+  ]
+}

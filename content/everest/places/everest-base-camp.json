@@ -1,0 +1,132 @@
+{
+  "slug": "everest-base-camp",
+  "name": "Everest Base Camp",
+  "region": "everest",
+  "kind": "base camp",
+  "wiki": "Everest base camps",
+  "image_query": "Everest Base Camp Khumbu Icefall tents",
+  "lat": 28.0026,
+  "lng": 86.8528,
+  "altitude_m": 5364,
+  "tagline": "The foot of the Khumbu Icefall, 5,364 m, the goal of the classic trek",
+  "meta_description": "Everest Base Camp (5,364 m): what you see, how long it takes from Lukla, permits, the April–May expedition season and why you sleep at Gorak Shep, not here.",
+  "summary": "Everest Base Camp is the south-side climbing camp at about 5,364 m on the Khumbu Glacier, reached in 8–9 days from Lukla. Trekkers visit on a 2–3 hour walk from Gorak Shep, see the Khumbu Icefall and expedition tents in spring, then return to sleep at Gorak Shep. Kala Patthar gives the better view of Everest's summit.",
+  "intro": [
+    "The south base camp of Everest lies on the rubble-covered ice of the Khumbu Glacier, beneath the Khumbu Icefall, the jumble of seracs that climbers cross to reach Camp 1. The trekkers' marker, a boulder painted with Everest Base Camp 5,364 m and hung with prayer flags, sits at the lower edge of the expedition area. The site moves slightly each year with the glacier, and from June to February it is mostly empty ice and moraine. In April and May it becomes a seasonal town of several hundred yellow and orange tents.",
+    "A surprise for many first-time visitors is that you cannot see the summit of Everest from base camp. The view is blocked by the West Shoulder and Nuptse. What you do see is the icefall, the steep faces of Nuptse (7,861 m), Pumori (7,161 m) and the Lho La, and the scale of the glacier. For the classic summit view, climb Kala Patthar (5,644 m) at sunrise or sunset, which is why nearly every itinerary includes both.",
+    "Trekkers do not sleep at base camp unless they hold an expedition permit or are guests of a team. The usual plan is to walk from Lobuche to Gorak Shep (5,164 m) in the morning, drop bags, walk on to base camp and back in the afternoon (about 3–4 hours return over moraine), then sleep at Gorak Shep. The trail along the glacier edge is rocky, rises and falls repeatedly and is slow at this altitude, so leave Gorak Shep by early afternoon at the latest."
+  ],
+  "facts": [
+    ["Altitude", "≈ 5,364 m (trekkers' marker)"],
+    ["Best months", "Mar – May · Oct – Nov"],
+    ["Nights we suggest", "0 (sleep at Gorak Shep)"],
+    ["Nearest airport", "Lukla, 8–9 days' walk up; helicopters land nearby at Gorak Shep"],
+    ["From Kathmandu", "≈ 35 min flight to Lukla + 8–9 days' walk"],
+    ["Known for", "Khumbu Icefall, expedition tents in spring, goal of the EBC trek"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0",
+  "highlights": [
+    {"title": "Khumbu Icefall up close", "text": "From the moraine at base camp you look straight at the lower Khumbu Icefall, a chaos of ice towers and crevasses dropping about 600 m from the Western Cwm. In the climbing season you can watch climbers' headlamps on it before dawn."},
+    {"title": "Expedition tent city in spring", "text": "From early April to late May, hundreds of tents spread along the glacier, with dining domes, prayer-flag lines and helipads. Trekkers walk through the lower edge but should not enter team camps uninvited. Outside spring, the camp is almost empty."},
+    {"title": "Nuptse and Pumori walls", "text": "Nuptse's black and white face rises more than 2,400 m above base camp to the east, and Pumori's fluted pyramid stands to the west. On clear mornings the light on these walls is one of the strongest images of the trek."},
+    {"title": "The trekkers' boulder", "text": "The painted boulder and prayer flags marking Everest Base Camp 5,364 m are where almost everyone takes their summit photo. Queues form in peak weeks around midday; arriving earlier or later in the afternoon is quieter."},
+    {"title": "Walking on the Khumbu Glacier", "text": "The last hour from Gorak Shep follows the lateral moraine and then crosses rubble-covered glacier ice. You hear ice cracking under the rocks and see small turquoise melt pools and seracs. It is a very different landscape from the green valleys below."},
+    {"title": "Everest memorials on the way", "text": "Above Dughla, on the way to Lobuche, the Thukla Pass memorials remember climbers and Sherpas who died on Everest, including Scott Fischer and Babu Chiri Sherpa. Most trekkers pause here in silence on their way to base camp."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Lukla, the standard route goes via Phakding, Namche (2 nights), Tengboche, Dingboche (2 nights) and Lobuche to Gorak Shep, then on to base camp: about 65 km one way and 8 days. Return takes 3–4 days. From Gorak Shep the base camp walk is about 3–4 hours return."},
+    {"mode": "Helicopter", "text": "Helicopter tours do not normally land at base camp itself, which is on moving glacier ice crowded with expedition tents. Most fly over it and land at Kala Patthar or Gorak Shep for 10–15 minutes, weather and current rules permitting. Check current status before you travel."},
+    {"mode": "Air", "text": "The nearest airport is Lukla (2,860 m), about 35 minutes from Kathmandu, or 20 minutes from Ramechhap during peak months when scheduled flights move there. Check current status before you travel."}
+  ],
+  "where_to_stay": "There are no lodges at Everest Base Camp. Trekkers sleep at Gorak Shep (5,164 m), about 2 hours away along the moraine, where a handful of basic lodges offer twin rooms with shared toilets, a heated dining room and expensive food. Rooms are cold, often well below freezing at night, and water is limited. Lobuche (4,940 m), about 2–3 hours below Gorak Shep, has more lodges and slightly better comfort, and some itineraries visit base camp from there and return in one long day. Expedition members stay in tented camps at base camp under permit.",
+  "stays": [],
+  "tips": [
+    "Leave Gorak Shep for base camp by 1 pm at the latest, as the moraine trail is slow and cold after dark.",
+    "Climb Kala Patthar for the summit view of Everest, which you cannot see from base camp itself.",
+    "Stay on marked paths and do not enter expedition camps unless you are invited.",
+    "Carry a down jacket, gloves, 1 litre of water and a headlamp even for the short walk from Gorak Shep.",
+    "In April and May, step aside for yaks and porters supplying expeditions; give them the inside of the trail."
+  ],
+  "themes": ["trekking", "photography", "heli-tours", "peak-climbing"],
+  "nearby": ["gorak-shep", "kala-patthar", "lobuche"],
+  "experiences": [
+    {
+      "slug": "everest-base-camp-icefall-walk",
+      "title": "Gorak Shep to the Khumbu Icefall marker",
+      "kind": "hiking",
+      "duration": "3–4 hours return",
+      "best_time": "Late morning to mid-afternoon, Oct–Nov and Mar–May",
+      "price_hint": "Included in our Everest Base Camp treks",
+      "image_query": "Khumbu Icefall from Everest Base Camp",
+      "wiki": "Khumbu Icefall",
+      "summary": "The final leg of the EBC trek follows the lateral moraine of the Khumbu Glacier from Gorak Shep, then crosses rubble-covered ice to the painted marker at 5,364 m, facing the Khumbu Icefall and the walls of Nuptse and Pumori.",
+      "body": [
+        "Most groups arrive at Gorak Shep from Lobuche by late morning, eat an early lunch and leave their bags. The path to base camp starts behind the lodges, crosses the sandy lake bed and climbs onto the crest of the lateral moraine. For about an hour it runs along this ridge of loose stones, rising and dropping in short sections, with the Khumbu Glacier on the right: grey rubble over ice, broken by melt pools and seracs. The going is slow because each step at 5,200 m takes effort.",
+        "After the moraine the trail drops onto the glacier and winds through mounds of rock and ice to the trekkers' area at the lower edge of the expedition camp. The marker boulder is covered in prayer flags and stickers. Ahead, the Khumbu Icefall rises in blue-white towers to the Western Cwm, with Nuptse to the right and the Lho La and Khumbutse to the left. In spring you can hear generators, radios and the occasional rumble of an avalanche off the surrounding walls.",
+        "Spend 20–40 minutes, take photographs and eat a snack, then head back before the afternoon wind picks up. The return to Gorak Shep takes 1.5–2 hours. Many people find this day the hardest of the trek because it comes after the climb from Lobuche. If you feel unwell, say so: your guide may turn around early, and you can still see the icefall from the moraine. The aim is to return safely and climb Kala Patthar the next morning."
+      ],
+      "good_for": ["first-timers", "groups", "solo", "photographers"],
+      "faqs": [
+        {"q": "How long is the walk from Gorak Shep to Everest Base Camp?", "a": "About 3.5 km each way, taking 1.5–2.5 hours out and 1.5–2 hours back depending on fitness and acclimatisation. The trail follows the moraine and then crosses rocky glacier ice with small ups and downs, so it is slow but not technical."},
+        {"q": "Can you see Everest from Everest Base Camp?", "a": "No, not the summit. From the south base camp, Everest's top is hidden behind its West Shoulder and Nuptse. You see the Khumbu Icefall and surrounding peaks. For the summit view, climb Kala Patthar or walk partway up the moraine near Gorak Shep."},
+        {"q": "Can I stay overnight at Everest Base Camp?", "a": "Trekkers normally cannot. Overnight stays are for expedition members with climbing permits and their crews. Trekking itineraries sleep at Gorak Shep (5,164 m) and visit base camp on a half-day walk. Some climbing groups arrange guest tents for members only."}
+      ]
+    },
+    {
+      "slug": "everest-base-camp-spring-expedition-season",
+      "title": "See the spring expedition camp in action",
+      "kind": "adventure",
+      "duration": "Half day from Gorak Shep",
+      "best_time": "Mid-April to late May",
+      "price_hint": "Included in spring departures of our EBC treks",
+      "image_query": "Everest Base Camp expedition tents spring",
+      "wiki": "",
+      "summary": "Trek in April or May and you reach base camp when climbing teams are in residence: hundreds of tents, Sherpas preparing ladders and ropes, puja ceremonies with juniper smoke, and climbers heading for the icefall before dawn.",
+      "body": [
+        "Most Everest expeditions on the Nepal side arrive at base camp in early April, acclimatise through April and early May with rotations up to Camps 1, 2 and 3, and wait for a summit window, usually in the second half of May. During these weeks base camp is a seasonal settlement stretching more than a kilometre along the glacier. Teams have dining tents, kitchens, communication domes and their own stone chortens hung with prayer flags.",
+        "Before climbing, each team holds a puja: a lama blesses the climbers, their ropes, crampons and ice axes, juniper is burned on the altar, and rice and tsampa flour are thrown in the air. If you happen to pass one, watch from a respectful distance. You may also see the icefall doctors, the specialist Sherpa team that fixes the ladders and ropes through the Khumbu Icefall every season, coming and going with loads.",
+        "As a trekker you visit the lower edge of the camp. Keep to the main path, do not wander into team areas, and never walk on prayer-flag lines or altars. Teams protect their health carefully because a cold can end an expedition, so do not approach climbers to shake hands. The busier atmosphere comes with a cost: trails, lodges and Lukla flights are at their busiest in April and early May, so book early."
+      ],
+      "good_for": ["photographers", "solo", "groups", "first-timers"],
+      "faqs": [
+        {"q": "When are there tents at Everest Base Camp?", "a": "Mainly from early April to the end of May, during the spring climbing season. A smaller number of teams climb in autumn on other peaks nearby, but the large tent city is a spring sight. From June to March the area is largely empty glacier."},
+        {"q": "Can trekkers visit expedition camps at EBC?", "a": "Only if invited by a team. Trekkers may walk through the public area at the lower edge and the marker boulder. Climbers guard their health closely, so keep your distance and avoid entering dining tents or puja areas uninvited."},
+        {"q": "Is EBC more crowded in spring or autumn?", "a": "The trail and lodges are busy in both peak seasons. April and early May add expedition traffic, so base camp itself is far busier in spring. October has the clearest skies and fewer climbers. November is a little quieter on the trail."}
+      ]
+    },
+    {
+      "slug": "thukla-pass-everest-memorials",
+      "title": "Thukla Pass Everest memorials",
+      "kind": "spiritual",
+      "duration": "30 minutes (on the Dughla–Lobuche stage)",
+      "best_time": "Morning, all trekking seasons",
+      "price_hint": "Included in our EBC treks",
+      "image_query": "Thukla Pass memorials Everest",
+      "wiki": "",
+      "summary": "On the climb from Dughla towards Lobuche, the ridge of Thukla Pass (≈ 4,830 m) holds dozens of stone memorials to climbers and Sherpas who died on Everest and nearby peaks. It is a sobering stop on the way to base camp.",
+      "body": [
+        "After Dingboche or Pheriche, the trail crosses the meadows of the upper Khumbu valley to Dughla (≈ 4,620 m), at the foot of the Khumbu Glacier's terminal moraine. From there a steep climb of about 200 m, taking roughly an hour, leads to the crest at Thukla Pass, sometimes called Chukpi Lhara. The ridge is covered in cairns, chortens and plaques draped in prayer flags, set against the backdrop of Pumori and the Lingtren peaks.",
+        "The memorials remember people who died climbing Everest and other Khumbu mountains. Among the best known are Scott Fischer, the American guide who died in the 1996 disaster, and Babu Chiri Sherpa, who summited Everest ten times and once spent more than 21 hours on the summit. Many smaller stones honour Sherpa climbers and porters whose names are less known abroad but central to Khumbu families.",
+        "Most groups stop here for 20–30 minutes to rest after the climb and walk quietly among the memorials. It is a good point to think about the risks of high altitude and why we turn around when someone is unwell. From Thukla Pass the trail continues more gently for about an hour along the valley to Lobuche at 4,940 m. Keep warm here: the ridge is exposed and the wind often rises late morning."
+      ],
+      "good_for": ["solo", "groups", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Where is the Everest memorial on the EBC trek?", "a": "At Thukla Pass, also called Chukpi Lhara, at about 4,830 m between Dughla and Lobuche. It is roughly an hour's steep climb above Dughla on the day you walk from Dingboche or Pheriche to Lobuche. Most groups rest there for 20–30 minutes."},
+        {"q": "Who is remembered at Thukla Pass?", "a": "Dozens of climbers and Sherpas who died on Everest and nearby peaks, including Scott Fischer and Babu Chiri Sherpa. Many memorials are for Sherpa climbers and high-altitude workers. Treat the site with respect, and do not move stones or prayer flags."},
+        {"q": "Is the climb to Thukla Pass hard?", "a": "It is one of the steeper sections of the trek: about 200 m of zigzags in an hour at 4,600–4,830 m. Go slowly, breathe steadily and rest at the top. It comes the day after your Dingboche acclimatisation day, which helps."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Everest Base Camp?", "a": "The trekkers' marker at Everest Base Camp on the Nepal side is at about 5,364 m. The exact height varies by a few metres as the glacier moves, and expedition tents spread from roughly 5,300 to 5,400 m. Kala Patthar nearby is higher at 5,644 m."},
+    {"q": "How many days does it take to reach Everest Base Camp?", "a": "Usually 8 days from Lukla, including two acclimatisation days at Namche and Dingboche, and 3–4 days back. Most packages are 12–14 days Lukla to Lukla, or 14–16 days from Kathmandu with spare days. Faster plans increase the risk of altitude sickness."},
+    {"q": "Do I need a permit to visit Everest Base Camp?", "a": "Yes. Trekkers need the Sagarmatha National Park entry permit and the Khumbu Pasang Lhamu Rural Municipality permit. No TIMS card has been required in the Khumbu in recent seasons. Fees and guide rules change, so check current status before you travel."},
+    {"q": "Can I go to Everest Base Camp without a guide?", "a": "Nepal's 2023 rule requires foreign trekkers in national parks to hire a licensed guide, but enforcement in the Khumbu has been inconsistent. A guide also helps with altitude decisions, lodge bookings and flight changes. Check current status before you travel."},
+    {"q": "Can I reach Everest Base Camp by helicopter?", "a": "You can fly over it and land nearby at Kala Patthar or Gorak Shep, weather and current rules permitting. Helicopters do not normally land at base camp itself. Time on the ground above 5,000 m is short, usually 10–15 minutes."},
+    {"q": "How cold is Everest Base Camp?", "a": "In October and November, daytime temperatures in sun can reach 5–10 °C, but nights at Gorak Shep drop to −10 to −15 °C. In April and May nights are about −5 to −10 °C. Wind makes it feel colder. December to February is much colder."},
+    {"q": "Is Everest Base Camp trek dangerous?", "a": "The main risk is altitude sickness, which is manageable with a slow itinerary, rest days and a willingness to descend. Other risks are falls on icy trails, rockfall and weather delays. Travel insurance covering helicopter evacuation to 6,000 m is essential."},
+    {"q": "What is the best month to visit Everest Base Camp?", "a": "October for the clearest skies and stable weather, then November, April and May. April and May bring the expedition tent city and rhododendrons lower down. December to February is very cold but quiet and clear. June to August is the monsoon."},
+    {"q": "Can children or seniors trek to Everest Base Camp?", "a": "Fit teenagers and active seniors do reach base camp on slow itineraries of 14 days or more. Young children are more vulnerable to altitude sickness and less able to report symptoms, so we suggest the Everest View trek or a heli tour for families with small children."}
+  ]
+}

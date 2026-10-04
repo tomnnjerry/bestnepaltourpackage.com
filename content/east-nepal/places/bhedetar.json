@@ -1,0 +1,132 @@
+{
+  "slug": "bhedetar",
+  "name": "Bhedetar",
+  "region": "east-nepal",
+  "kind": "hill station",
+  "wiki": "Bhedetar",
+  "image_query": "Bhedetar view tower Dharan hills",
+  "lat": 26.861,
+  "lng": 87.317,
+  "altitude_m": 1420,
+  "tagline": "Ridge-top hill station 16 km above Dharan, with views over the Terai",
+  "meta_description": "Bhedetar guide: 1,420 m hill station above Dharan, view tower, Namaste Falls, Rajarani lake, resorts, sunrise over the Terai, how to reach from Biratnagar.",
+  "summary": "Bhedetar is a small hill station at 1,420 m on the Koshi Highway, 16 km and about 40 minutes uphill from Dharan. It looks south over the flat Terai and the Koshi River, and is popular for sunrise, cool evenings and weekend stays. Pair it with Dharan's temples and Dhankuta's hill town. October to April is best.",
+  "intro": [
+    "Climb the Koshi Highway out of Dharan and in about 16 km of hairpins the air cools and the plains fall away. Bhedetar, meaning roughly 'sheep plateau', grew up as a roadside settlement after the Dharan–Dhankuta road was finished in 1982, and has become eastern Nepal's easiest weekend hill escape. It sits on the ridge between Sunsari and Dhankuta districts at 1,420 m, about 1,000 m above Dharan.",
+    "The main attraction is the view. From the ridge the Terai spreads out to the south like a map, with the shining braids of the Koshi River to the west and the lights of Dharan, Itahari and Biratnagar at night. A view tower near the top gives the best angle, and sunrise over the plains is the classic moment. On very clear winter mornings, distant snow peaks appear on the northern horizon beyond the hills.",
+    "Bhedetar is busy at weekends with families from Biratnagar, Dharan and the Indian border towns, and quiet midweek. Several resorts and restaurants line the ridge, some with adventure activities such as a zipline and paragliding in season. Namaste Falls is a short drive and walk away, and Rajarani lake lies in forest further along the ridge. It is a sensible first night in the hills for travellers arriving from Biratnagar."
+  ],
+  "facts": [
+    ["Altitude", "1,420 m"],
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Biratnagar (BIR), ≈ 60 km · 1.5–2 h"],
+    ["From Kathmandu", "40 min flight to Biratnagar + 1.5–2 h drive"],
+    ["Known for", "Terai views, sunrise, cool weekends above Dharan, Namaste Falls"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunrise over the Terai", "text": "The ridge faces south and east over the plains. On clear autumn and winter mornings the sun rises out of a flat haze over Sunsari and Morang, often above a layer of valley fog, while the Koshi River catches the light to the west."},
+    {"title": "View tower", "text": "A view tower near the highest point gives a 360-degree outlook over the Terai, the Koshi, the Mahabharat hills and, on the clearest days, faint snow peaks to the north. Small fees have been charged at times."},
+    {"title": "Namaste Falls", "text": "A tall waterfall on a stream below the ridge, reached by road and a short walk from the Bhedetar side. It is at its fullest after the monsoon in September and October; by late spring the flow is thin."},
+    {"title": "Rajarani lake", "text": "A small lake in forest along the ridge towards Dhankuta, linked to local legends and popular for picnics. The drive and short walk make an easy half-day outing."},
+    {"title": "Evening lights of the plains", "text": "After dark the lights of Dharan, Itahari and Biratnagar spread across the plain below. Many resorts have terraces where you can sit with tea or a meal and watch."},
+    {"title": "Gateway to the eastern hills", "text": "Bhedetar is the first stop on the Koshi Highway to Dhankuta, Hile and the Tinjure–Milke rhododendron hills. It breaks a journey from Biratnagar or Koshi Tappu into the hills nicely."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Dharan it is 16 km and about 40 minutes up the Koshi Highway. From Biratnagar airport ≈ 60 km and 1.5–2 hours via Itahari and Dharan. From Kakarbhitta on the India border ≈ 140 km and about 4 hours."},
+    {"mode": "Air", "text": "Fly Kathmandu–Biratnagar (about 40 min, several daily flights), then drive about 1.5–2 hours. Biratnagar also faces Jogbani on the Indian side."},
+    {"mode": "Road", "text": "Onwards, Dhankuta is ≈ 35 km and about 1–1.5 hours further up the Koshi Highway, and Hile another 13 km beyond."}
+  ],
+  "where_to_stay": "Bhedetar has a string of small resorts, hotels and restaurants along the ridge and the Koshi Highway, most with terraces facing the plains, simple to mid-range rooms and Nepali, Indian and Chinese menus. Some offer tented rooms and adventure activities. Standards vary and properties change often, so we book places we have checked recently. For more choice and lower prices, Dharan, 40 minutes below, has several 3-star hotels. We confirm the exact property with your quote.",
+  "stays": [],
+  "tips": [
+    "Stay midweek if you want a quiet night; Saturdays and public holidays are crowded.",
+    "Watch the sunrise from the view tower or a resort terrace facing south-east.",
+    "Bring a light jacket: Bhedetar can be 8–10 °C cooler than Dharan.",
+    "Visit Namaste Falls in September to November, when the flow is strongest.",
+    "The Koshi Highway hairpins above Dharan are best driven in daylight."
+  ],
+  "themes": ["short-breaks", "family-holidays", "adventure-sports", "honeymoon"],
+  "nearby": ["dhankuta", "koshi-tappu", "halesi-mahadev"],
+  "experiences": [
+    {
+      "slug": "bhedetar-sunrise-and-view-tower",
+      "title": "Sunrise from the Bhedetar view tower",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "price_hint": "Small local fee at times",
+      "image_query": "Bhedetar sunrise Terai plains",
+      "wiki": "",
+      "summary": "Walk or drive a few minutes from your resort to the view tower before dawn and watch the sun rise over the Terai plains and the Koshi River, often above a sea of valley fog in winter.",
+      "body": [
+        "Bhedetar's ridge faces south-east, which makes it one of the easiest sunrise points in eastern Nepal: no 4 a.m. drive, just a short walk from most resorts. We meet at your hotel about 40 minutes before sunrise and head to the view tower or the best open terrace nearby, depending on where you are staying.",
+        "As the sky lightens, the flat plain of the Terai appears below, divided into fields and villages, with the Koshi River's channels glinting to the west and the town grid of Dharan at the foot of the hill. In November to February a layer of fog often fills the lowlands, so the sun rises over a white sea. Turn north on the clearest mornings for faint snow peaks above the hills.",
+        "By 7.30 a.m. the show is over, and tea stalls near the tower serve hot drinks and snacks. It is a short, easy outing, good for all ages, and combines well with a morning drive on to Dhankuta or down to Dharan's temples."
+      ],
+      "good_for": ["families", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can you see the Himalaya from Bhedetar?", "a": "Only on very clear days, mostly in winter after rain, as a faint line of snow far to the north. Bhedetar is mainly a viewpoint over the Terai plains and the Koshi River, not a mountain viewpoint."},
+        {"q": "What time should I go for sunrise?", "a": "Be at the tower 30 to 40 minutes before sunrise: around 5.15 a.m. in May, 5.45 a.m. in October and 6.15 a.m. in December and January."},
+        {"q": "Is the view tower open early?", "a": "It has generally been accessible at dawn, but access and fees are set locally and can change. Check current status before you travel; resort terraces are a good alternative."}
+      ]
+    },
+    {
+      "slug": "namaste-falls-walk",
+      "title": "Namaste Falls walk",
+      "kind": "nature",
+      "duration": "3 hours",
+      "best_time": "Sep–Nov for full flow",
+      "price_hint": "≈ ₹3,000 per vehicle",
+      "image_query": "Namaste waterfall Nepal Dhankuta",
+      "wiki": "",
+      "summary": "A short drive and forest walk from Bhedetar to Namaste Falls, a tall waterfall that is fullest just after the monsoon, with a picnic spot and pools at the base.",
+      "body": [
+        "Namaste Falls drops down a rock face in a forested gully below the ridge, and Bhedetar is the usual starting point. We drive out along local roads and then walk down a footpath through forest to the base of the fall. The time on foot is usually 30 to 45 minutes each way, with some steep and slippery steps, so shoes with grip are important.",
+        "The fall is at its most impressive in September and October, when the monsoon has filled the streams, and still good through November. By March to May the flow thins considerably. The spray zone at the bottom is cool on warm days, and local families come to picnic on the rocks.",
+        "Road access and footpaths change after heavy rain, so our driver checks the route on the day. We do not recommend swimming in the pool beneath the fall: currents and falling rock are real risks."
+      ],
+      "good_for": ["families", "couples", "groups", "photographers"],
+      "faqs": [
+        {"q": "How far is Namaste Falls from Bhedetar?", "a": "It is a short drive along local roads followed by a walk of about 30–45 minutes each way. Allow around 3 hours for the round trip with time at the falls."},
+        {"q": "When is the best time to see Namaste Falls?", "a": "September to November, after the monsoon, when the flow is strongest. In the dry spring months the fall is much thinner, and in the monsoon itself the trail is muddy and leech-prone."},
+        {"q": "Is the walk suitable for kids?", "a": "Yes, for children who walk confidently with an adult. The steps can be steep and wet near the bottom, so hold small children's hands."}
+      ]
+    },
+    {
+      "slug": "dharan-temples-half-day",
+      "title": "Dharan temples and Gurkha town half day",
+      "kind": "culture",
+      "duration": "4 hours",
+      "best_time": "Morning or late afternoon, Oct–Mar",
+      "price_hint": "≈ ₹3,500 per vehicle with guide",
+      "image_query": "Budha Subba temple Dharan",
+      "wiki": "Budha Subba Temple",
+      "summary": "Drop down from Bhedetar to Dharan to visit Budha Subba, Dantakali and Pindeshwar temples on the forested hills at the edge of town, and learn about the city's British Gurkha history.",
+      "body": [
+        "Dharan sits at the foot of the hills, 16 km below Bhedetar, and its temples cluster on the wooded slopes on the eastern edge of town. Budha Subba, a shrine revered by Kirat and Hindu worshippers alike, is set among bamboo groves whose stems grow without tips, according to local belief. Couples often come to pray here, and a festival atmosphere fills the grounds on Saturdays.",
+        "Nearby, Dantakali temple is associated with the tooth of the goddess Sati, and Pindeshwar, on a hill above, is a Shiva temple that draws thousands of devotees during the month of Shrawan, when pilgrims carry water from the Koshi at Chatara. Each temple is a short drive and a flight of steps from the next.",
+        "Your guide also explains Dharan's history as the site of a British Gurkha recruitment camp until 1990, now the campus of the BP Koirala Institute of Health Sciences. Many ex-Gurkha families still live in the town, which helps explain its cosmopolitan feel and lively food scene."
+      ],
+      "good_for": ["pilgrims", "families", "couples", "groups"],
+      "faqs": [
+        {"q": "What is special about Budha Subba temple?", "a": "Budha Subba is revered by Kirat and Hindu devotees, and the bamboo around it is said to grow without tips. Many couples come to pray for a happy marriage, and it is busiest on Saturdays."},
+        {"q": "What is the Bol Bom pilgrimage in Dharan?", "a": "During the month of Shrawan (July–August), devotees walk barefoot from Chatara on the Koshi to Pindeshwar temple in Dharan carrying holy water, a journey of around 20 km, chanting 'Bol Bom'."},
+        {"q": "How long does the Dharan temple tour take?", "a": "About 3 to 4 hours for Budha Subba, Dantakali and Pindeshwar with time for darshan. Add an hour for lunch in the town's lively bazaar."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Bhedetar from Dharan?", "a": "Bhedetar is 16 km uphill from Dharan on the Koshi Highway, about 40 minutes by car. Local buses and jeeps bound for Dhankuta pass through it regularly."},
+    {"q": "What is the altitude of Bhedetar?", "a": "Bhedetar sits at 1,420 m, about 1,000 m above Dharan. Temperatures are noticeably cooler, around 8–10 °C lower than the plains, which makes it popular in the hot months before the monsoon."},
+    {"q": "Is Bhedetar worth visiting?", "a": "Yes, as an easy one-night hill stop near Biratnagar or Dharan, for sunrise, cool evenings and views over the Terai. It is not a high-Himalaya destination, so combine it with Dhankuta, Ilam or Koshi Tappu for a fuller trip."},
+    {"q": "What is the best time to visit Bhedetar?", "a": "October to April for clear views and pleasant days. December and January mornings can bring a sea of fog below the ridge. The monsoon from June to September brings cloud and rain but a green landscape."},
+    {"q": "Are there resorts in Bhedetar?", "a": "Yes, several small resorts, hotels and restaurants line the ridge, many with terraces facing the plains and some with tented rooms. Standards are simple to mid-range. Dharan below has more 3-star hotels."},
+    {"q": "Can I visit Bhedetar from India?", "a": "Yes. Cross at Jogbani–Biratnagar and drive about 2 hours, or at Kakarbhitta and drive about 4 hours. It pairs well with Koshi Tappu, Dhankuta and Ilam on an east Nepal road trip."},
+    {"q": "What adventure activities are in Bhedetar?", "a": "Some resorts and operators have run ziplines and seasonal paragliding from the ridge. Activities and safety standards vary, so we only book established operators and confirm availability when you book."},
+    {"q": "Is Bhedetar good for a honeymoon?", "a": "As a short stop, yes: a resort terrace, sunrise and the drive on to Dhankuta and Ilam make a relaxed eastern hills honeymoon. Choose a weekday stay to avoid weekend crowds and noise."},
+    {"q": "Bhedetar or Ilam: which is better?", "a": "Ilam offers tea gardens, Kanchenjunga views from Antu Danda and more to do over two or three days. Bhedetar is closer to Biratnagar and Koshi Tappu and good for a single relaxed night. Many itineraries include both."}
+  ]
+}

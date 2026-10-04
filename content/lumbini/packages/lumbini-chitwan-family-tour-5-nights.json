@@ -1,0 +1,87 @@
+{
+  "slug": "lumbini-chitwan-family-tour-5-nights",
+  "title": "Lumbini and Chitwan Family Tour 5 Nights",
+  "region": "lumbini",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 5,
+  "themes": ["family-holidays", "wildlife-safari", "buddhist-circuit", "cultural-tours"],
+  "stops": [
+    {"place": "lumbini", "nights": 2},
+    {"place": "chitwan-national-park", "nights": 3}
+  ],
+  "start": "Gautam Buddha International Airport (Bhairahawa) or Sonauli–Belahiya border",
+  "end": "Kathmandu (by road), or Bharatpur Airport for a flight to Kathmandu",
+  "price_from_inr": 31000,
+  "price_from_usd": 400,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "3-star hotel near the Sacred Garden in Lumbini; family-friendly 3-star jungle resort in Sauraha",
+  "transport": "Private car or Tempo Traveller with driver; park jeep and dugout canoe in Chitwan",
+  "group": "Private family groups, 2–12",
+  "meta_description": "Lumbini and Chitwan family tour, 6 days: monastic zone by battery rickshaw, sarus cranes, rhino jeep safari, canoe ride and Tharu village. Child-friendly pace.",
+  "summary": "Six child-friendly days pairing the Buddha's birthplace with Nepal's best-known wildlife park: battery rickshaw rides between Lumbini's monasteries, sarus cranes and the Maya Devi Temple, then three nights in Chitwan for rhino jeep safaris, a dugout canoe, a Tharu village cycle and an elephant breeding centre visit. Ends in Kathmandu.",
+  "intro": [
+    "Families often ask for a Nepal trip that mixes meaning with fun and keeps drives short. Lumbini and Chitwan are about five hours apart on flat roads, and both are low-lying, so there are no altitude or mountain-road worries. In Lumbini, children ride in battery rickshaws or on bicycles between temples that look completely different from one another, from Thai marble to Chinese pagodas, and look for the tallest flying bird in the world in the crane wetlands.",
+    "Chitwan then delivers the wildlife: one-horned rhinoceros, crocodiles, deer, monkeys and hundreds of birds. Three nights give enough time for a jeep safari, a canoe ride, a guided walk and a relaxed afternoon by the river without rushing. We use resorts with family rooms, early dinners and staff used to children. We do not include elephant-back rides."
+  ],
+  "highlights": [
+    "Battery rickshaw or bicycle ride between Lumbini's international monasteries",
+    "Maya Devi Temple and Ashoka pillar, explained for children",
+    "Sarus crane walk in the Lumbini wetlands",
+    "Jeep safari for one-horned rhinoceros in Chitwan National Park",
+    "Dugout canoe on the Rapti and an elephant breeding centre visit",
+    "Tharu village cycle and stick dance evening"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Lumbini, temples by rickshaw", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "", "drive": "≈ 20–26 km · 35–45 min", "flight": "", "text": "We meet you at Bhairahawa airport or on the Nepal side of the Sonauli border and drive to your hotel near the Sacred Garden. After lunch and a rest, set off at 3.30 pm in battery rickshaws with your guide, stopping at the Myanmar Golden Temple, the Royal Thai Monastery, the Chinese temple with its dragon roofs and the colourful German Lotus Stupa. Children usually enjoy spotting the differences. End at the World Peace Pagoda for sunset.", "meals": "Dinner"},
+    {"day": 2, "title": "Maya Devi Temple and crane wetlands", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 2.5 h · 4 km", "drive": "≈ 10 km within Lumbini", "flight": "", "text": "Visit the Sacred Garden after breakfast, when it is still cool. Your guide tells the story of Prince Siddhartha's birth in a way children can follow, then shows the marker stone inside the Maya Devi Temple, the Ashoka pillar and the pond where the baby is said to have had his first bath. In the late afternoon, walk the Lumbini Crane Sanctuary wetlands with a local birder to look for sarus cranes, which stand as tall as an adult.", "meals": "B, D"},
+    {"day": 3, "title": "Lumbini to Chitwan", "place": "chitwan-national-park", "overnight": "Sauraha, Chitwan", "altitude_m": 150, "max_m": 150, "walk": "≈ 1 h", "drive": "≈ 180 km · 5 h", "flight": "", "text": "Drive east via Bhairahawa and Butwal along the East-West Highway, with a snack stop on the way, to Sauraha on the edge of Chitwan National Park. Check in at your jungle resort and have lunch. In the late afternoon, walk to the banks of the Rapti river to watch the sunset; rhinos sometimes wade on the far side. After dinner, watch the Tharu stick dance, with drums and fast, rhythmic movement that children love.", "meals": "L, D"},
+    {"day": 4, "title": "Canoe, breeding centre and jeep safari", "place": "chitwan-national-park", "overnight": "Sauraha, Chitwan", "altitude_m": 150, "max_m": 150, "walk": "≈ 2 h", "drive": "", "flight": "", "text": "After breakfast, glide down the Rapti in a dugout canoe for about 45 minutes, watching for mugger crocodiles, kingfishers and storks, then walk with a naturalist through riverside forest to the elephant breeding centre, where young elephants stay close to their mothers. After lunch, take a 3–4 hour jeep safari into the park's grasslands and sal forest, looking for rhinoceros, deer, wild boar, monkeys and, with luck, a sloth bear. Return at dusk.", "meals": "B, L, D"},
+    {"day": 5, "title": "Tharu village cycle and free afternoon", "place": "chitwan-national-park", "overnight": "Sauraha, Chitwan", "altitude_m": 150, "max_m": 150, "walk": "≈ 1 h", "drive": "", "flight": "", "text": "A gentle morning cycle through Tharu villages near Sauraha with your guide, seeing mud-plastered homes painted with designs, mustard fields and family farms, and stopping at the Tharu Cultural Museum. The afternoon is free for the resort pool where available, a bird walk or simply resting by the river. Older children can join an optional evening bird walk with the naturalist. Farewell dinner at the resort.", "meals": "B, L, D"},
+    {"day": 6, "title": "Chitwan to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 5–6 h, or 20 min to Bharatpur Airport", "flight": "Bharatpur–Kathmandu · 25 min (optional)", "text": "After breakfast, drive to Kathmandu via Narayanghat and Mugling, following the Trishuli river and climbing into the Kathmandu Valley, about 5–6 hours with stops. Families with young children often prefer the optional 25-minute flight from Bharatpur, 20 minutes from Sauraha. We drop you at your Kathmandu hotel or the international airport. If you are returning to India by road, we can instead drive you to the Sonauli border, about five hours.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini"],
+  "includes": [
+    "2 nights in Lumbini and 3 nights in Chitwan, family or twin rooms",
+    "Breakfast and dinner in Lumbini; all meals in Chitwan",
+    "Private car or Tempo Traveller with driver",
+    "Local guide in Lumbini and naturalist guide in Chitwan",
+    "Battery rickshaws in Lumbini and crane sanctuary walk",
+    "Chitwan jeep safari, canoe ride, jungle walk, Tharu village cycle and stick dance",
+    "Lumbini Sacred Garden and Chitwan National Park entry fees",
+    "Airport or border pick-up and Kathmandu drop-off"
+  ],
+  "excludes": [
+    "Flights to Bhairahawa and the optional Bharatpur–Kathmandu flight",
+    "Nepal visa fee for non-Indian nationals",
+    "Lunches in Lumbini",
+    "Elephant-back rides (not offered)",
+    "Drinks and snacks",
+    "Tips for guides and drivers",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Prices are per adult, twin sharing, in October–March; children under 5 usually stay free in parents' room and children 5–11 pay a reduced rate.",
+    "Jeep safaris in Chitwan have no seat belts on some vehicles; we recommend the activity for children aged 5 and above.",
+    "Chitwan park fees are charged per day and are higher for foreign nationals than for SAARC nationals. Check current status before you travel.",
+    "Carry mosquito repellent, sunscreen and long, light clothing for safaris; neutral colours work best.",
+    "From April to June temperatures in both Lumbini and Chitwan exceed 38 °C; we move activities to early morning."
+  ],
+  "add_ons": [
+    {"name": "Bharatpur–Kathmandu flight on day 6", "price": "≈ ₹4,000 per person for Indian nationals"},
+    {"name": "Full-day jeep safari deeper into Chitwan", "price": "≈ ₹6,500 per person"}
+  ],
+  "faqs": [
+    {"q": "Is Lumbini and Chitwan good for kids?", "a": "Yes. Both are low-lying with flat, easy terrain and no altitude concerns. Children enjoy battery rickshaw rides between Lumbini's colourful temples and the crane walk, and in Chitwan the jeep safari, canoe ride and breeding centre are usually highlights. Drives are about five hours at most."},
+    {"q": "What is the best age for a Chitwan safari?", "a": "Children aged five and above get the most from jeep safaris, which last 3–4 hours on bumpy tracks. Younger children can join the canoe ride, breeding centre and village cycle with parents. Teenagers often enjoy the guided jungle walk with a naturalist, which is not recommended for small children."},
+    {"q": "Do you include elephant rides in Chitwan?", "a": "No. We do not include elephant-back rides. Instead, families visit the elephant breeding centre near Sauraha and see wildlife from jeeps and canoes. Many travellers now prefer this approach for the elephants' welfare, and the jeep safari covers more ground."},
+    {"q": "How far is Chitwan from Lumbini?", "a": "About 180 km by road via Butwal and the East-West Highway, usually five hours by car to Sauraha. The road is flat but busy, with widening works in places. Check current status before you travel. We stop for snacks and toilet breaks along the way."},
+    {"q": "What will we see in Chitwan National Park?", "a": "The main attraction is the one-horned rhinoceros. You are also likely to see spotted and sambar deer, wild boar, monkeys, mugger crocodiles and many birds, and possibly gharials. Tigers, leopards and sloth bears live in the park, but sightings are rare and never guaranteed."},
+    {"q": "What does this family tour cost?", "a": "It starts at about ₹31,000 per adult for Indian nationals or US$ 400 for foreign nationals, twin sharing, including hotels, most meals, a private vehicle, guides, Chitwan activities and park fees. Children under five usually stay free in parents' room, and older children pay a reduced rate."},
+    {"q": "Are Chitwan resorts safe for children?", "a": "Yes. The resorts we use in Sauraha are in the village, with fenced grounds, and staff are used to families. Wild animals occasionally wander near the river at night, so children should stay with adults after dark and follow staff advice. Naturalist guides lead all park activities."},
+    {"q": "Can we start this tour from Kathmandu instead?", "a": "Yes. Fly Kathmandu to Bhairahawa in 35 minutes to start in Lumbini, then end in Chitwan and drive or fly back to Kathmandu. Or reverse it: Kathmandu to Chitwan by road, then on to Lumbini, ending with a Bhairahawa flight. We will match it to your flights."},
+    {"q": "What is the best time for a Lumbini and Chitwan family trip?", "a": "October to March is ideal, with pleasant days and better wildlife viewing as grass is cut from late January. Indian school holidays in October and December are busy, so book early. April to June is very hot, and the monsoon closes parts of Chitwan's park from mid-June to mid-September."}
+  ]
+}

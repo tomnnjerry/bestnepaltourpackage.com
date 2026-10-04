@@ -1,0 +1,98 @@
+{
+  "slug": "yala-peak-climbing-12-days",
+  "title": "Yala Peak Climbing 12 Days",
+  "region": "langtang",
+  "type": "climb",
+  "grade": "Strenuous",
+  "nights": 11,
+  "themes": ["peak-climbing", "trekking", "adventure-sports", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "syabrubesi", "nights": 2},
+    {"place": "langtang-village", "nights": 1},
+    {"place": "kyanjin-gompa", "nights": 4}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 106000,
+  "price_from_usd": 1250,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5500,
+  "accommodation": "3-star hotel in Kathmandu, teahouse lodges on the trek, tents at base camp",
+  "transport": "Private jeep Kathmandu–Syabrubesi–Kathmandu, airport transfers",
+  "group": "Private or small group, 2–8, with climbing guide",
+  "meta_description": "Yala Peak climbing 12 days: Langtang Valley trek, Kyanjin Ri acclimatisation and a 5,500 m summit with a climbing guide. Itinerary, permits, cost from US$ 1,250.",
+  "summary": "Yala Peak (5,500 m) is one of Nepal's most approachable trekking peaks, rising north-east of Kyanjin Gompa in the Langtang Valley. This 12-day trip treks up the valley, acclimatises on Kyanjin Ri, camps at base camp and makes a summit push on rock and snow with a climbing guide, with a reserve day for weather.",
+  "intro": [
+    "Yala Peak is a good first Himalayan summit for fit trekkers who want to try basic mountaineering skills. The standard route from Kyanjin Gompa climbs grassy yak pastures to a base camp at about 4,600 m, then follows a rocky ridge and slabs to a short snow or ice section below the summit at 5,500 m. From the top, Shishapangma (8,027 m) in Tibet is visible on clear days, along with Langtang Lirung, Dorje Lakpa and the peaks of the upper valley.",
+    "The climb is non-technical by Himalayan standards, graded roughly alpine PD, but it does involve crampons, an ice axe and a fixed or guide-held rope on the upper slopes depending on snow conditions. The approach is the classic Langtang Valley trek, with a night at Langtang village and two at Kyanjin, including the Kyanjin Ri hike to 4,773 m for acclimatisation. A licensed climbing guide, permits, base camp tents and group climbing gear are included."
+  ],
+  "highlights": [
+    "Summit of Yala Peak (5,500 m) with views to Shishapangma",
+    "Classic Langtang Valley trek as the approach",
+    "Acclimatisation hike on Kyanjin Ri (4,773 m)",
+    "Basic crampon, ice axe and rope skills with a climbing guide",
+    "Reserve day at Kyanjin for weather",
+    "No domestic flights needed"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, gear check", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport–hotel · 20–40 min", "flight": "", "text": "We meet you at Tribhuvan International Airport and transfer you to your hotel in Kathmandu. In the afternoon, your climbing guide checks your personal gear, including boots compatible with crampons, harness, warm layers and sleeping bag, and arranges rentals in Thamel for anything missing. We finalise the climbing permit and national park permit. Evening briefing on the climb plan, altitude, and the summit day timeline.", "meals": "Dinner"},
+    {"day": 2, "title": "Drive Kathmandu to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 1960, "walk": "", "drive": "≈ 122 km · 7–8 h", "flight": "", "text": "Drive north by private jeep via Kakani, Trishuli Bazaar and Betrawati, then climb to Dhunche (1,960 m) for the park checkpoint before descending to Syabrubesi on the Bhote Koshi. Porters and climbing equipment travel with the group. In the evening, take a short walk to Old Syabrubesi to loosen your legs after the drive.", "meals": "B, L, D"},
+    {"day": 3, "title": "Syabrubesi to Lama Hotel", "place": "", "overnight": "Lama Hotel", "altitude_m": 2470, "max_m": 2470, "walk": "≈ 6 h · 11 km", "drive": "", "flight": "", "text": "Follow the Langtang Khola upstream through Domen and Bamboo (1,970 m), then climb through oak and rhododendron forest to Rimche and Lama Hotel. You gain about 1,000 m. Keep a steady, comfortable pace; the summit is still a week away, and conserving energy now pays off later. Langur monkeys are common in this forest.", "meals": "B, L, D"},
+    {"day": 4, "title": "Lama Hotel to Langtang village", "place": "langtang-village", "overnight": "Langtang village", "altitude_m": 3430, "max_m": 3430, "walk": "≈ 6–7 h · 14 km", "drive": "", "flight": "", "text": "Climb through forest to Ghoda Tabela (3,030 m), where the valley opens into yak pastures under Langtang Lirung. Pass prayer wheels and Thangshyap, then cross the edge of the 2015 avalanche debris to the memorial and the rebuilt village of Langtang. Gain about 960 m. Drink well and sleep early.", "meals": "B, L, D"},
+    {"day": 5, "title": "Langtang village to Kyanjin Gompa", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 3870, "walk": "≈ 3–4 h · 7 km", "drive": "", "flight": "", "text": "Walk past the mani wall at Mundu to Kyanjin Gompa (3,870 m), arriving by lunch. From the village you can see the route towards Yala Peak to the north-east. In the afternoon, visit the monastery and cheese factory, then practise fitting crampons and harness with your climbing guide. Gain about 440 m.", "meals": "B, L, D"},
+    {"day": 6, "title": "Kyanjin Ri acclimatisation hike", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 4773, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "Climb Kyanjin Ri to its summit at 4,773 m for acclimatisation and a view over the upper valley, including Yala Peak. Descend to Kyanjin for lunch. In the afternoon, your guide runs a skills session on nearby slopes: walking in crampons, using an ice axe for balance and self-arrest, clipping into a fixed rope with a jumar and abseiling technique. Check your pulse oximeter readings with the guide.", "meals": "B, L, D"},
+    {"day": 7, "title": "Kyanjin Gompa to Yala base camp", "place": "", "overnight": "Yala Peak base camp (tents)", "altitude_m": 4600, "max_m": 4600, "walk": "≈ 4–5 h", "drive": "", "flight": "", "text": "Leave the lodges and climb north-east through the yak pastures of Yala Kharka to base camp at about 4,600 m, on rocky ground below the peak. Gain about 730 m. The crew sets up tents and a kitchen. Rest in the afternoon, eat and drink plenty, and prepare gear for an early start. Your guide reviews the route, turnaround time and weather forecast.", "meals": "B, L, D"},
+    {"day": 8, "title": "Summit Yala Peak, return to Kyanjin", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 5500, "walk": "≈ 9–11 h", "drive": "", "flight": "", "text": "Wake around 2–3 am and start climbing by headlamp up rocky ridges and slabs. Near the top, put on crampons for the snow or ice section, where the guide fixes or holds a rope depending on conditions. Reach the summit at 5,500 m around sunrise or mid-morning for views of Shishapangma, Langtang Lirung and Dorje Lakpa. Descend carefully to base camp, pack up and walk down to Kyanjin Gompa for a well-earned rest.", "meals": "B, L, D"},
+    {"day": 9, "title": "Reserve day at Kyanjin Gompa", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "altitude_m": 3870, "max_m": 3870, "walk": "", "drive": "", "flight": "", "text": "This day is kept spare in case bad weather, deep snow or illness delays the summit. If it is not needed for the climb, use it to rest, walk towards Langshisa Kharka along the upper valley, or simply enjoy Kyanjin. Having a reserve day greatly improves the chance of summiting safely.", "meals": "B, L, D"},
+    {"day": 10, "title": "Kyanjin Gompa to Lama Hotel", "place": "", "overnight": "Lama Hotel", "altitude_m": 2470, "max_m": 3870, "walk": "≈ 6–7 h · 21 km", "drive": "", "flight": "", "text": "Walk back down the valley past Langtang village, Ghoda Tabela and Riverside to Lama Hotel, losing about 1,400 m. It is a long day after the climb, so take breaks and use trekking poles. The thicker air helps tired legs recover.", "meals": "B, L, D"},
+    {"day": 11, "title": "Lama Hotel to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "altitude_m": 1460, "max_m": 2470, "walk": "≈ 5 h · 11 km", "drive": "", "flight": "", "text": "Descend through Rimche and Bamboo to Syabrubesi, arriving by early afternoon. Enjoy a hot shower and a celebration dinner with your guide, climbing guide and porters, and hand over tips. Return any rented climbing gear to the guide for the trip back.", "meals": "B, L, D"},
+    {"day": 12, "title": "Drive Syabrubesi to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1960, "walk": "", "drive": "≈ 122 km · 7–8 h", "flight": "", "text": "Drive back to Kathmandu via Dhunche and Trishuli Bazaar, arriving in the afternoon, and transfer to your hotel. Summit certificates can be collected from the Nepal Mountaineering Association or provided through our office. Avoid booking an international flight for this evening in case of road delays.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers and one night in a 3-star Kathmandu hotel (twin sharing)",
+    "Private jeep Kathmandu–Syabrubesi–Kathmandu",
+    "Licensed trekking guide and licensed climbing guide",
+    "Porters for trek and base camp loads",
+    "Teahouse lodges on the trek, tents and kitchen crew at base camp",
+    "Three meals a day on the trek and climb",
+    "Yala Peak climbing permit, Langtang National Park permit and TIMS card",
+    "Group climbing gear: ropes, anchors, ice screws",
+    "Guide and crew wages, food, insurance and equipment allowance",
+    "First-aid kit, pulse oximeter and satellite or radio communication"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Extra Kathmandu hotel nights",
+    "Personal climbing gear (boots, crampons, harness, helmet, ice axe) — rentals available",
+    "Travel insurance covering climbing and helicopter rescue to 6,000 m",
+    "Hot showers, charging, drinks and snacks",
+    "Summit bonus and tips for guides and crew",
+    "Extra days beyond the reserve day",
+    "Helicopter rescue costs"
+  ],
+  "good_to_know": [
+    "Price assumes two people sharing with a dedicated climbing guide; the climbing permit fee varies by season, roughly US$ 70–250. Check current status before you travel.",
+    "You should be fit enough for 9–11 hour days at altitude; previous trekking above 4,500 m helps, but no prior climbing is required.",
+    "Snow and ice conditions on the upper slopes change by season; the guide decides on rope use and turnaround time on summit day.",
+    "Insurance must cover climbing to at least 6,000 m and helicopter evacuation.",
+    "Spring (April–May) and autumn (October–November) give the most stable summit weather."
+  ],
+  "add_ons": [
+    {"name": "Climbing gear rental package", "price": "≈ US$ 80–120 for the trip"},
+    {"name": "Helicopter return from Kyanjin Gompa", "price": "≈ US$ 600 per seat, shared"},
+    {"name": "Extra reserve day at Kyanjin", "price": "≈ US$ 90 per person"}
+  ],
+  "faqs": [
+    {"q": "How high is Yala Peak?", "a": "Yala Peak is about 5,500 m, though some operators quote higher figures. It rises north-east of Kyanjin Gompa in the Langtang Valley and is classed as a trekking peak by the Nepal Mountaineering Association. Base camp is at about 4,600 m, and the summit push takes 9–11 hours return."},
+    {"q": "Is Yala Peak suitable for beginners?", "a": "Yes, for fit trekkers with no climbing experience, provided they are comfortable at altitude and follow the guide. The route is mostly rock and scrambling with a short snow or ice section using crampons and a rope. Our itinerary includes a skills session and acclimatisation on Kyanjin Ri. Previous trekking above 4,500 m is a plus."},
+    {"q": "What is the Yala Peak climbing cost?", "a": "Our 12-day Yala Peak trip starts at about US$ 1,250 or ₹1,06,000 per person on twin sharing, including permits, climbing guide, porters, lodges, base camp tents, meals and group climbing gear. Personal climbing gear, insurance, international flights and tips are extra. Permit fees vary by season."},
+    {"q": "Do I need a permit for Yala Peak?", "a": "Yes. You need a Yala Peak climbing permit, issued through a registered agency, plus the Langtang National Park entry permit and a TIMS card. Climbing permit fees vary by season, roughly US$ 70 in winter and summer to US$ 250 in spring. All are included in our price; check current status before you travel."},
+    {"q": "What gear do I need for Yala Peak?", "a": "You need mountaineering or stiff trekking boots that take crampons, crampons, a harness, helmet, ice axe, a jumar and descender, warm gloves and a down jacket, plus standard trekking gear and a sleeping bag rated to −15 °C. Most items can be rented in Thamel; our guide checks fit on day one."},
+    {"q": "What is the best time to climb Yala Peak?", "a": "April to May and October to November give the most stable weather and best summit chances. March and late September are possible with more snow or rain risk. December to February is very cold with more snow on the route, and the monsoon from June to August brings cloud and wet conditions."},
+    {"q": "Yala Peak or Island Peak, which is easier?", "a": "Yala Peak at about 5,500 m is lower, shorter and less technical than Island Peak (6,165 m) in the Everest region, which has a glacier crossing and a steep fixed-rope headwall. Yala is a good first summit and preparation for Island Peak or Mera Peak later. It also needs no Lukla flight."},
+    {"q": "What is the success rate on Yala Peak?", "a": "Success depends mainly on weather, snow conditions and how well each climber acclimatises. Our itinerary includes Kyanjin Ri and a reserve day to improve the odds. Climbers who are fit, well acclimatised and follow the guide's turnaround times have a good chance, but safety always comes before the summit."},
+    {"q": "Can I see Shishapangma from Yala Peak?", "a": "On clear days, yes. Shishapangma (8,027 m), the only 8,000 m peak entirely in Tibet, is visible to the north from the summit of Yala Peak. You also see Langtang Lirung, Dorje Lakpa, Gangchenpo and the glaciers of the upper Langtang Valley. Early mornings give the clearest views."}
+  ]
+}

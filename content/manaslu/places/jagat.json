@@ -1,0 +1,130 @@
+{
+  "slug": "jagat",
+  "name": "Jagat",
+  "region": "manaslu",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Jagat village Manaslu flagstone",
+  "lat": 28.367,
+  "lng": 84.897,
+  "altitude_m": 1340,
+  "tagline": "Flagstone village and permit checkpoint of the Manaslu trail",
+  "meta_description": "Jagat (1,340 m) on the Manaslu Circuit: permit checkpoint, paved flagstone lanes, Philim and the Tsum Valley junction, lodges, walking times and tips.",
+  "summary": "Jagat is a stone-paved Gurung village at 1,340 m on the Budhi Gandaki and the first permit checkpoint of the Manaslu Circuit. Trekkers sleep here after the gorge walk from Machha Khola. North of Jagat the trail passes Sirdibas and Philim to the Ekle Bhatti fork, where the Tsum Valley route splits off.",
+  "intro": [
+    "Jagat is a compact village on a shelf above the Budhi Gandaki, with lanes paved in large flat stones and houses built of grey rock and timber. It sits at about 1,340 m, so the climate is still mild, with millet and maize fields around the village and bamboo along the river. For trekkers, the main reason to know its name is the checkpoint: this is where the Manaslu Conservation Area office and the restricted area checks begin, and your guide will present your permits.",
+    "Most Manaslu itineraries spend their second night here after a 6 to 7 hour walk from Machha Khola through the gorge. Some faster itineraries use the dry-season jeep road to reach Jagat on the first day. The Tsum Nubri rural municipality also collects its local entry fee from foreign trekkers in this area. From here on, the valley gradually changes from Hindu and mixed communities to Buddhist ones, and the first mani walls appear around Sirdibas.",
+    "North of Jagat the trail climbs to Salleri, Sirdibas (1,420 m) and the larger Gurung village of Philim (1,570 m), with its school and terraces of millet. An hour or so later you reach Ekle Bhatti, where the path to the Tsum Valley branches east up the Siyar Khola towards Lokpa. Treks combining Manaslu and Tsum use this junction twice, going in and coming back."
+  ],
+  "facts": [
+    ["Altitude", "1,340 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu, ≈ 180 km by road"],
+    ["From Kathmandu", "≈ 9–10 h by jeep in the dry season, or jeep to Machha Khola + 6–7 h walk"],
+    ["Known for", "Permit checkpoint, flagstone lanes, Tsum Valley junction"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Stone-paved lanes", "text": "Jagat's main street is laid with large flagstones polished by mule hooves and centuries of traders carrying salt and grain between Tibet and the middle hills. It is one of the most handsome villages in the lower valley and a pleasant place to stroll after a long day."},
+    {"title": "The permit checkpoint", "text": "The Manaslu Conservation Area office here checks and stamps your permits, and the restricted area begins just beyond. Your guide handles the paperwork in a few minutes, but keep your passport and permit copies handy."},
+    {"title": "Philim's Gurung terraces", "text": "Two to three hours north, Philim spreads across terraces of millet and maize above the river. It is a large, well-kept village with a school and lodges, and the view back down the gorge is one of the best in the lower valley."},
+    {"title": "Ekle Bhatti and the Tsum fork", "text": "Just beyond Philim, at Ekle Bhatti, the Tsum Valley trail climbs east into a forested side valley while the Manaslu trail continues north to Deng. Trekkers on combined Manaslu and Tsum itineraries turn off here for a week."},
+    {"title": "First mani walls", "text": "Around Sirdibas and Philim you start to see carved mani stones and prayer flags, early signs of the Tibetan Buddhist culture that dominates the upper Budhi Gandaki in Nubri and Tsum."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Machha Khola walk north through the Budhi Gandaki gorge via Khorlabesi, Tatopani and Dobhan to Jagat in 6 to 7 hours, about 22 km with roughly 400 m net gain. The trail is well marked with stone steps and suspension bridges."},
+    {"mode": "Road", "text": "In the dry season, usually November to May, some 4WD jeeps continue beyond Machha Khola towards Jagat on a rough track, taking 9 to 10 hours from Kathmandu in total. The track is often cut by landslides after rain, so check current status before you travel."}
+  ],
+  "where_to_stay": "Jagat has several simple teahouses along the paved main street and around the checkpoint, with twin rooms, shared bathrooms and a dining room serving dal bhat, noodles and pancakes. Rooms are basic but adequate for one night, and hot showers usually run on solar or gas heaters. A few lodges also stand in Philim, an hour and a half to two hours further north, which some itineraries use instead to shorten the next day. Lodge names change often in this lower valley, so we confirm ours each season rather than list them here.",
+  "stays": [],
+  "tips": [
+    "Keep your passport, restricted area permit and conservation area permit together; checks happen at Jagat and again at Philim and later posts.",
+    "Carry small rupee notes for the local municipality fee if your agency has not prepaid it.",
+    "Stretch and rest your legs on arrival; the gorge day has more ups and downs than the profile suggests.",
+    "Walk beyond the village at dusk for a view down the valley, but take a headtorch for the flagstones.",
+    "If you are going to Tsum, buy any snacks you need in Jagat or Philim, because shops in the lower Tsum are fewer."
+  ],
+  "themes": ["trekking", "cultural-tours"],
+  "nearby": ["machha-khola", "namrung", "tsum-valley"],
+  "experiences": [
+    {
+      "slug": "jagat-flagstone-village-walk",
+      "title": "Jagat flagstone lanes at dusk",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Late afternoon, Sep–Nov and Mar–May",
+      "price_hint": "Included in most treks",
+      "image_query": "Jagat stone paved street Gorkha",
+      "wiki": "",
+      "summary": "An easy evening walk along Jagat's stone-paved main street and the lanes behind it. You see the old trade-route architecture, village temples and shrines, and the river terraces below, without any climbing after a long gorge day.",
+      "body": [
+        "Jagat grew on the old trade route that carried salt and wool down from Tibet and grain back up. The broad flagstones of the main lane were laid to take pack animals in all weathers, and they still carry mule trains loaded with rice, kerosene and gas cylinders for the lodges higher up. Walk the length of the village slowly and you pass shops, houses with carved wooden windows and small shrines.",
+        "The people of Jagat are mainly Gurung, with mixed Hindu and Buddhist practice, and the village sits at the cultural edge of the valley. A few kilometres north the first Tibetan Buddhist mani walls appear. Ask your guide about the old salt trade and how the arrival of the jeep road is changing life here.",
+        "The walk needs no special kit, but the stones are slippery when wet and uneven in the dark, so carry a headtorch. Go before dinner, when the light is soft on the terraces and the evening smoke from kitchens drifts across the village."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "Why are Jagat's streets paved with stone?", "a": "Jagat lies on the old trade route between Tibet and the middle hills, and the flagstones were laid to carry pack animals through the monsoon without turning the lanes to mud. Mule trains still use them today to bring supplies up the valley to lodges and villages beyond the road."},
+        {"q": "Is there anything to see in Jagat itself?", "a": "Jagat is small, but the stone lanes, old houses with carved windows, village shrines and views down the Budhi Gandaki make a pleasant hour's walk. It is also the place where your Manaslu permits are first checked. Most trekkers spend one night and move on to Deng or Namrung."},
+        {"q": "Is Jagat safe for solo women trekkers?", "a": "Yes. Jagat is a quiet farming village used to trekkers, and on the Manaslu Circuit every trekker is with a licensed guide by law. Dress modestly in the village, as local women do, and lock your room at night. Lodges are family run and generally very welcoming."}
+      ]
+    },
+    {
+      "slug": "jagat-philim-terraces-walk",
+      "title": "Philim terraces and Sirdibas mani walls",
+      "kind": "hiking",
+      "duration": "2.5–3 hours",
+      "best_time": "Morning of day 3, Sep–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Philim village terraces Manaslu",
+      "wiki": "Sirdibas",
+      "summary": "The morning walk north from Jagat climbs gently past Salleri and Sirdibas to the Gurung village of Philim at 1,570 m. Expect millet terraces, the first long mani walls of the trek and wide views back down the Budhi Gandaki gorge.",
+      "body": [
+        "From Jagat the trail drops to the river, climbs onto a ridge at Salleri and follows the east bank to Sirdibas at about 1,420 m. Here, on the stone walls lining the path, you see the first carved mani stones of the trek, a sign that the culture of the upper valley is close. The walk is mostly gentle, with some steep stone steps.",
+        "Crossing a long suspension bridge, you climb to Philim, a large village spread across terraces at about 1,570 m. In September and October the millet is ripening in red-brown fields, and families harvest it by hand. The village has a school, several lodges and a teahouse terrace where groups often stop for tea and a view of the gorge.",
+        "Philim is also a permit check point. Beyond it the path continues for an hour to Ekle Bhatti, where Tsum Valley trekkers turn east and Manaslu trekkers continue north into the narrow gorge towards Deng."
+      ],
+      "good_for": ["photographers", "groups", "solo", "families"],
+      "faqs": [
+        {"q": "How long from Jagat to Philim?", "a": "About 2.5 to 3 hours for 8 km, with roughly 230 m of net gain and several short climbs. You pass Salleri and Sirdibas on the way. Most itineraries continue past Philim the same day to Deng or Bihi Phedi, making a 6 to 7 hour day in total."},
+        {"q": "Where does the Tsum Valley trail leave the Manaslu Circuit?", "a": "At Ekle Bhatti, about an hour north of Philim. The Tsum trail climbs east up the Siyar Khola valley to Lokpa and on to Chumling, while the Manaslu Circuit continues north along the Budhi Gandaki to Deng and Namrung. Signposts mark the fork."},
+        {"q": "Are there lodges in Philim?", "a": "Yes, Philim has several teahouses with simple twin rooms and a dining room. Some itineraries sleep here instead of Jagat to shorten the next day to Deng or Namrung. Like other villages in the lower valley, lodges are basic, family run and usually have solar-heated showers."}
+      ]
+    },
+    {
+      "slug": "jagat-tsum-junction-viewpoint",
+      "title": "Ekle Bhatti fork and Siyar Khola view",
+      "kind": "nature",
+      "duration": "30 minutes",
+      "best_time": "Midday stop, Oct–Nov",
+      "price_hint": "",
+      "image_query": "Siyar Khola Tsum valley entrance",
+      "wiki": "",
+      "summary": "At Ekle Bhatti, north of Philim, the Tsum Valley trail leaves the Manaslu Circuit and climbs into the forested Siyar Khola gorge. Even if you are not going to Tsum, it is a fine place to pause, look up the side valley and see where the two great Gorkha treks divide.",
+      "body": [
+        "Ekle Bhatti means lone teahouse, from the days when one inn stood at the fork. Today there are a couple of tea stops and a signboard marking the routes. Look east and you see the Siyar Khola cutting a steep, forested gorge towards Lokpa and Chumling; look north and the Budhi Gandaki narrows into the gorge that leads to Deng.",
+        "Tsum Valley trekkers spend about a week in that side valley before returning to this same fork, so for them Ekle Bhatti is a landmark passed twice. For circuit trekkers it marks the point where the lower valley's mixed villages give way to the Buddhist Nubri world ahead.",
+        "Stop for tea, refill water and check the time. From here to Deng is a further 2 to 3 hours with a narrow path cut into the gorge wall, so groups usually take lunch at or near the fork."
+      ],
+      "good_for": ["solo", "groups", "photographers"],
+      "faqs": [
+        {"q": "What is Ekle Bhatti on the Manaslu trek?", "a": "Ekle Bhatti is a small stop with a couple of teahouses north of Philim, at the junction where the Tsum Valley trail leaves the main Manaslu Circuit. The name means lone teahouse. Groups often take tea or lunch here before continuing north to Deng or east into Tsum."},
+        {"q": "Can I visit Tsum Valley as a short side trip?", "a": "Not really as a day trip. Reaching the upper Tsum around Chhokangparo and Mu Gompa needs three to four days from Ekle Bhatti and the same back, plus a separate Tsum Valley restricted area permit. We recommend at least 6 to 7 extra days on a combined Manaslu and Tsum trek."},
+        {"q": "Do I need another permit at Ekle Bhatti for Tsum Valley?", "a": "Yes. The Tsum Valley has its own restricted area permit, separate from the Manaslu one, and you need it before entering the Siyar Khola valley. We arrange both in Kathmandu before departure. Check current fees and rules before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Jagat on the Manaslu trek?", "a": "Jagat lies at about 1,340 m, though some maps show 1,410 m for the upper houses. It is the second night on most Manaslu Circuit itineraries. The next overnight stops, Deng at about 1,860 m or Namrung at 2,630 m, bring you gradually into the cooler mid-hills."},
+    {"q": "What permits are checked at Jagat?", "a": "The Manaslu Conservation Area Permit is checked and stamped here, and the restricted area permit is checked from this point north. The local Tsum Nubri rural municipality fee is also collected around Jagat if not prepaid. Your guide carries the paperwork, but keep your passport accessible."},
+    {"q": "How far is Jagat from Machha Khola?", "a": "About 22 km, 6 to 7 hours on foot through the Budhi Gandaki gorge, with roughly 400 m net gain. You pass Khorlabesi, Tatopani hot spring and Dobhan. In the dry season some jeeps reach Jagat, but the walk is the better introduction to the valley."},
+    {"q": "Can I drive to Jagat from Kathmandu?", "a": "Sometimes. In the dry months 4WD jeeps continue past Machha Khola towards Jagat, taking 9 to 10 hours from Kathmandu. The track is rough and often closed by landslides, especially from June to September. Check current status before you travel and expect to walk at least part of it."},
+    {"q": "Is Jagat a good place to rest?", "a": "It is pleasant for one night but too low to count for acclimatisation. Keep your rest days for Samagaun on the circuit, or Chhokangparo and Mu Gompa in Tsum. If you feel unwell from the drive or the heat, a slower walk the next day to Philim is a better option than a full rest day."},
+    {"q": "What is the weather like in Jagat in spring?", "a": "In March to May Jagat is warm, around 22 to 28 °C by day and 12 to 15 °C at night, with occasional afternoon showers in May. Rhododendron and other flowering trees bloom higher up from late March. Mornings are usually clear, with haze building in the afternoon."},
+    {"q": "Are there shops in Jagat?", "a": "Yes, a few small shops sell snacks, drinks, toiletries and batteries. Prices are higher than in Kathmandu and rise as you climb. There is no ATM, so carry enough cash for the whole trek from Kathmandu or Dhading Besi."},
+    {"q": "Is Jagat inside the restricted area?", "a": "The restricted area for the Manaslu Circuit is generally counted from Jagat northwards to Dharapani, which is why permit checks begin here. Rules and checkpoint locations can change, so check current status before you travel."},
+    {"q": "What comes after Jagat on the Manaslu Circuit?", "a": "The trail continues north to Sirdibas, Philim and Ekle Bhatti, then into the gorge to Deng at about 1,860 m. Some itineraries go further to Bihi Phedi or Ghap. Tsum Valley trekkers turn east at Ekle Bhatti for Lokpa and Chumling."}
+  ]
+}

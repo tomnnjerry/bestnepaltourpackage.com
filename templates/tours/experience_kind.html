@@ -1,0 +1,12 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}{{ name }}{% if r %} in {{ r.name }}{% else %} in Nepal{% endif %}{% endblock %}
+{% block meta_description %}{{ name }}{% if r %} in {{ r.name }}{% else %} in Nepal{% endif %}: {{ tagline }}. {{ intro|truncatechars:90 }}{% endblock %}
+{% block body_attrs %}{% if r %}data-land="{{ r.slug }}"{% endif %}{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon kind %}Things to do</p><h1>{{ name }}{% if r %} in {{ r.short|default:r.name }}{% else %} in Nepal{% endif %}</h1><p class="phead__lede">{{ tagline }}. {{ intro }}</p></div></div><div class="phead__icon" aria-hidden="true">{% icon kind %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+<section class="sec--tight"><div class="wrap"><div class="grid grid--3" data-stagger>{% for e in exps %}{% include "tours/partials/exp_card.html" %}{% endfor %}</div>
+{% if not r and lands %}<h2 class="h3" style="margin-top:36px">By region</h2><ul class="chips">{% for l in lands %}<li><a class="chip chip--land" data-land="{{ l.slug }}" href="{% url 'region_kind' l.slug kind %}">{% icon l.icon %}{{ l.name }}</a></li>{% endfor %}</ul>{% endif %}
+{% if others %}<h2 class="h3" style="margin-top:28px">Other interests</h2><ul class="chips">{% for k, n in others %}<li><a class="chip" href="{% if r %}{% url 'region_kind' r.slug k %}{% else %}{% url 'experience_kind' k %}{% endif %}">{% icon k %}{{ n }}</a></li>{% endfor %}</ul>{% endif %}
+</div></section>
+{% endblock %}

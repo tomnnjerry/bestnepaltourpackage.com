@@ -1,0 +1,95 @@
+{
+  "slug": "kailash-heli-yatra-private-charter-10-days",
+  "title": "Kailash Heli Yatra by Private Charter, 10 Days",
+  "region": "kailash",
+  "type": "heli",
+  "grade": "Challenging",
+  "nights": 9,
+  "themes": ["heli-tours", "kailash-yatra", "luxury-nepal", "pilgrimage"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "nepalgunj", "nights": 2},
+    {"place": "purang", "nights": 3},
+    {"place": "lake-manasarovar", "nights": 1},
+    {"place": "mount-kailash", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 385000,
+  "price_from_usd": 4480,
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 1, 0, 0],
+  "max_altitude_m": 5630,
+  "accommodation": "Best available hotels in Kathmandu, Nepalgunj and Purang, guesthouses at Manasarovar and on the parikrama, private rooms where available",
+  "transport": "Kathmandu–Nepalgunj flights, private helicopter Nepalgunj–Simikot–Hilsa and return, private Land Cruiser in Tibet",
+  "group": "Private family or friends group of 4–5 sharing one helicopter",
+  "meta_description": "Kailash heli yatra by private charter, 10 days: private helicopter Nepalgunj–Simikot–Hilsa, private vehicle in Tibet, parikrama, price, payload and weather rules.",
+  "summary": "Your own helicopter from Nepalgunj direct to Hilsa via a refuelling stop at Simikot, skipping the scheduled small-plane flight and shared shuttles, then a private vehicle in Tibet for Purang, Manasarovar and the three-day parikrama. For a family of four or five. 10 days, from ₹3,85,000 per person.",
+  "intro": [
+    "On the standard heli route, pilgrims fly a scheduled small aircraft to Simikot, then wait their turn on shared helicopter shuttles to Hilsa. This private charter replaces both with one helicopter booked for your group of four or five: it lifts off from Nepalgunj in the first calm hours of the morning, refuels in Simikot after about an hour and lands at Hilsa 20–30 minutes later. You cross into Tibet the same morning, with a private Land Cruiser and Tibetan guide waiting.",
+    "A charter reduces waiting and lets the pilot use the best weather window, but it cannot fly through cloud or strong wind, and payload rules at altitude still apply: in warm air at Hilsa, a helicopter that carries five at sea level may only take four with light bags. Landing permissions on the border sector and rules for Indian passport holders have changed in recent seasons. Check current status before you travel."
+  ],
+  "highlights": [
+    "Private helicopter Nepalgunj–Simikot–Hilsa, no scheduled-flight queue",
+    "Private Land Cruiser and Tibetan guide for your family",
+    "Two nights in Purang and an unhurried day at Manasarovar",
+    "Three-day Kailash parikrama over Dolma La (≈ 5,630 m)",
+    "Private guesthouse rooms on the kora where available",
+    "Flexible timing on the return flight to Nepalgunj"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "Private airport pick-up and transfer to a 4-star or 5-star hotel of your choice. In the evening, your yatra manager briefs the family on the charter: weigh-in rules, how the pilot decides when to fly, what happens if weather closes in, and the border process at Hilsa. We collect documents and medical certificates, and Pashupatinath aarti can be arranged.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Kathmandu–Nepalgunj · 1 h", "text": "A one-hour scheduled flight to Nepalgunj. In the afternoon, the operator weighs each passenger with luggage and confirms the load plan for the morning, usually about 10–15 kg of bags per person depending on temperature and aircraft. Extra luggage stays in hotel storage. Evening visit to the Bageshwari temple.", "meals": "B, L, D"},
+    {"day": 3, "title": "Private heli to Hilsa, drive to Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Hilsa–Purang · ≈ 28 km · 1 h", "flight": "Nepalgunj–Simikot heli · ≈ 1 h; Simikot–Hilsa · 20–30 min", "text": "Lift-off at first suitable light. The helicopter flies north over the Mahabharat range and the Karnali gorges to Simikot, where it refuels, then up the Humla Karnali to Hilsa at about 3,640 m. Because the whole family flies together, there is no waiting for shuttles. After Nepali exit and Chinese immigration, your private vehicle drives to Purang. If clouds sit on the passes, the pilot waits in Nepalgunj or Simikot until it is safe.", "meals": "B, L, D"},
+    {"day": 4, "title": "Rest day in Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4000, "walk": "≈ 1–2 h gentle walk", "drive": "≈ 40 km return to Khorzhak", "flight": "", "text": "A day to adapt to about 3,900 m after the rapid climb from the plains. Your guide takes the family to Khorzhak monastery, the Khojarnath of Hindu pilgrims, and later on a short walk above town. Oxygen saturation is checked morning and evening, and the plan for the lake and parikrama is adjusted to how everyone feels.", "meals": "B, L, D"},
+    {"day": 5, "title": "Manasarovar parikrama and holy dip", "place": "lake-manasarovar", "overnight": "Manasarovar (Chiu)", "altitude_m": 4590, "max_m": 4600, "walk": "Short walks at ghats", "drive": "≈ 75 km + lake circuit ≈ 90–100 km · 6–7 h", "flight": "", "text": "Drive past Rakshastal to Lake Manasarovar and take the parikrama around its shore at your own pace, stopping where you wish. At a permitted ghat, the family takes the holy dip or bucket snan as local rules allow, and a pandit can lead a private puja or havan if booked. Overnight at Chiu, in the best private room available.", "meals": "B, L, D"},
+    {"day": 6, "title": "Darchen and parikrama day 1", "place": "mount-kailash", "overnight": "Dirapuk", "altitude_m": 4900, "max_m": 4900, "walk": "≈ 12 km · 5–7 h", "drive": "≈ 35 km + eco-bus to Yam Dwar", "flight": "", "text": "A short drive to Darchen, where ponies and porters booked ahead join the family, then the eco-bus to Yam Dwar. Walk or ride about 12 km up the Lha Chu valley to Dirapuk at about 4,900 m, facing the north face of Kailash. We request private rooms at Dirapuk; in peak weeks only shared rooms may be available. Family members not walking stay in Darchen with a staff member.", "meals": "B, L, D"},
+    {"day": 7, "title": "Dolma La to Zuthulpuk", "place": "mount-kailash", "overnight": "Zuthulpuk", "altitude_m": 4790, "max_m": 5630, "walk": "≈ 20–22 km · 10–12 h", "drive": "", "flight": "", "text": "Pre-dawn start for the climb of about 730 m to the Dolma La at approximately 5,630 m. Prayers at the top for 10–15 minutes, the steep descent past Gauri Kund and the long valley walk to Zuthulpuk at about 4,790 m. Your guide carries a small oxygen cylinder on the trail for the family.", "meals": "B, L, D"},
+    {"day": 8, "title": "Finish the kora, back to Purang", "place": "purang", "overnight": "Purang", "altitude_m": 3900, "max_m": 4790, "walk": "≈ 9–10 km · 3–4 h", "drive": "≈ 100 km · 2–3 h", "flight": "", "text": "Milarepa's cave at Zuthulpuk, then the gentle walk out to Zongdo and the eco-bus to Darchen to reunite with any family members who stayed behind. After lunch, the private vehicle drives back past Manasarovar to Purang. Hot showers and a celebration dinner.", "meals": "B, L, D"},
+    {"day": 9, "title": "Private heli to Nepalgunj", "place": "nepalgunj", "overnight": "Nepalgunj", "altitude_m": 150, "max_m": 3900, "walk": "Bridge crossing on foot", "drive": "Purang–Hilsa · 1 h", "flight": "Hilsa–Simikot · 20–30 min; Simikot–Nepalgunj heli · ≈ 1 h", "text": "Early drive to the border, Chinese exit and the walk to Hilsa, where your helicopter waits. It refuels in Simikot and flies on to Nepalgunj, normally landing by late morning. If weather holds the helicopter, the family waits in Hilsa or Simikot; the charter flies as soon as conditions allow, without competing for a shuttle slot.", "meals": "B, L, D"},
+    {"day": 10, "title": "Fly to Kathmandu, tour ends", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport transfers", "flight": "Nepalgunj–Kathmandu · 1 h", "text": "Morning scheduled flight back to Kathmandu, where the yatra ends at the airport. If the helicopter reached Nepalgunj early on day 9, we can often move you to an afternoon flight the same day. Keep international flights flexible or book them for the following day.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private airport transfers and a 4-star hotel night in Kathmandu",
+    "Kathmandu–Nepalgunj return scheduled flights and two hotel nights in Nepalgunj",
+    "Private helicopter charter Nepalgunj–Simikot–Hilsa and return, including Simikot refuelling and waiting time on the day",
+    "Chinese group visa processing support and Tibet Travel Permit with all area permits",
+    "Private Land Cruiser with driver and licensed Tibetan guide in Tibet",
+    "Best available private rooms in Purang, Manasarovar, Darchen and on the kora",
+    "All meals in Tibet, Indian vegetarian, with a cook for the group",
+    "Oxygen cylinders, pulse oximeter and first-aid kit, with a portable cylinder on the parikrama",
+    "Pony and porter booking assistance in Darchen"
+  ],
+  "excludes": [
+    "International flights to and from Kathmandu",
+    "Chinese visa fees and nationality-specific surcharges",
+    "Pony, horseman and porter charges",
+    "Travel insurance with high-altitude and helicopter evacuation cover (mandatory)",
+    "Extra helicopter waiting days or repositioning caused by weather",
+    "Private pandit for puja at Manasarovar (on request)",
+    "Tips, drinks and personal expenses"
+  ],
+  "good_to_know": [
+    "Price is per person for a private group of four or five sharing one helicopter and one vehicle, twin sharing; a group of three pays considerably more per person.",
+    "Helicopters fly only in good visibility, usually in the early morning; cloud and wind often build by late morning. If a day is lost, extra hotel nights and helicopter waiting charges apply at cost.",
+    "Payload falls with altitude and temperature, so the operator may limit passengers or bags on the Simikot–Hilsa leg on warm days; total baggage is usually about 10–15 kg per person.",
+    "The highest landing is Hilsa at about 3,640 m, but the yatra sleeps above 4,500 m; anyone with heart or lung disease, uncontrolled blood pressure or pregnancy should not take part.",
+    "Rules for Indian passport holders, including visa processing in New Delhi, biometrics, fees and an age limit around 70, have changed several times since 2023. Check current status before you travel."
+  ],
+  "add_ons": [
+    {"name": "Private pandit for Rudrabhishek at Manasarovar", "price": "≈ ₹25,000–40,000 per family"},
+    {"name": "Extra helicopter standby day", "price": "At cost, quoted by the operator"},
+    {"name": "Upgrade to 5-star hotel in Kathmandu", "price": "From ≈ ₹12,000 per room"}
+  ],
+  "faqs": [
+    {"q": "How much does a private helicopter Kailash yatra cost?", "a": "Our 10-day private charter yatra starts from ₹3,85,000 (US$4,480) per person for a group of four or five sharing one helicopter and vehicle. It covers the charter, flights to Nepalgunj, permits, private vehicle and guide, accommodation and meals. Visa fees, ponies, insurance and weather waiting days are extra."},
+    {"q": "Can the helicopter fly directly to Kailash or Manasarovar?", "a": "No. Helicopters from Nepal land at Hilsa on the Nepal side of the border. Tourist helicopter landings in Tibet are not permitted, so you cross on foot and continue by road to Purang, Manasarovar and Darchen."},
+    {"q": "Why charter a private helicopter instead of the shared heli yatra?", "a": "The charter skips the scheduled Nepalgunj–Simikot flight and the queue for shared shuttles, so your family flies together in the best weather window. It suits families with seniors or children who want less waiting. It does not remove weather risk, and it costs more."},
+    {"q": "How many people fit in the charter helicopter?", "a": "Helicopters used on this route usually carry four or five passengers, but the operator sets the load on the day. At Hilsa's altitude and in warm weather, payload falls, so a group of five may need to fly with lighter bags or in two lifts."},
+    {"q": "What happens if the weather is bad on the charter day?", "a": "The pilot waits for a safe window, in Nepalgunj, Simikot or Hilsa. Because the helicopter is yours, it flies as soon as conditions allow rather than waiting for a shuttle slot. Extra days are charged at cost, so travel insurance with delay cover is essential."},
+    {"q": "Who should not take the Kailash heli yatra?", "a": "Anyone with heart disease, lung disease, uncontrolled blood pressure, severe anaemia or pregnancy should not fly to high altitude or sleep above 4,500 m. Children and seniors need a medical check. An age limit of around 70 has applied on the Nepal routes recently; check current status."},
+    {"q": "How long is the helicopter flight from Nepalgunj to Hilsa?", "a": "About an hour to Simikot, a short refuelling stop, then 20–30 minutes to Hilsa: roughly 1.5–2 hours door to door when weather is clear. The return follows the same pattern. Timing depends on wind and the operator's routing."},
+    {"q": "Do we get private rooms on the Kailash parikrama?", "a": "We request private rooms at Dirapuk and Zuthulpuk, and a few guesthouses offer them, but supply is limited and peak weeks may only have shared rooms. Darchen, Purang and Chiu usually have private twin rooms with attached toilets."},
+    {"q": "Can older family members stay back during the parikrama?", "a": "Yes. Family members who do not walk stay in Darchen with one of our staff for the two parikrama nights, with an optional Ashtapad darshan. They rejoin the walkers at Darchen on day 8, and everyone returns to Purang together."}
+  ]
+}

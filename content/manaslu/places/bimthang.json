@@ -1,0 +1,131 @@
+{
+  "slug": "bimthang",
+  "name": "Bimthang",
+  "region": "manaslu",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Bimthang meadow Manaslu north face",
+  "lat": 28.628,
+  "lng": 84.462,
+  "altitude_m": 3590,
+  "tagline": "Glacier meadow below Manaslu's west face, after Larkya La",
+  "meta_description": "Bimthang (3,590 m), first stop after Larkya La: Ponkar Lake hike, sunset on Manaslu, forest descent to Dharapani, lodges and how to get back to Kathmandu.",
+  "summary": "Bimthang is a seasonal settlement at about 3,590 m on a wide meadow below the west side of Manaslu, where trekkers sleep after crossing Larkya La. It has a row of teahouses, views of Manaslu, Himlung and Cheo Himal, and a side hike to Ponkar Lake. Next day the trail drops through forest to Dharapani.",
+  "intro": [
+    "After the long descent from Larkya La, Bimthang appears as a flat green meadow at the foot of the Bimthang Glacier, with a line of lodges, stone walls and grazing horses. Open, level ground like this is a rare thing in these steep valleys. Above it the north and west faces of Manaslu rise in walls of ice, joined by Himlung Himal and Cheo Himal to the north and Phungi to the south. At sunset the light turns the whole range orange.",
+    "Bimthang lies in Manang district on the Dudh Khola, a tributary of the Marsyangdi, and is used by herders in summer and by trekking lodges in spring and autumn. The air at 3,590 m feels thick after the pass, and most trekkers sleep soundly here for the first time in days. A rest day is well worth adding if you have time.",
+    "From Bimthang the trail descends through rhododendron, pine and oak forest past Hampuk, Karche and Gho to Tilije and Dharapani on the Annapurna Circuit road. It is a long downhill day of 6 to 7 hours, with views back to Manaslu for the first hour. From Dharapani jeeps run to Besisahar and on to Kathmandu or Pokhara."
+  ],
+  "facts": [
+    ["Altitude", "3,590 m"],
+    ["Best months", "Apr – May · Oct – Nov"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Kathmandu or Pokhara, via jeep from Dharapani"],
+    ["To Dharapani", "≈ 6–7 h walk · 1,700 m descent"],
+    ["Known for", "Meadow after Larkya La, Manaslu west face, Ponkar Lake"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunset on Manaslu", "text": "From the meadow Manaslu's west and north faces fill the eastern sky, glowing orange and pink at sunset. After a 9 hour pass day, sitting outside the lodge with a hot drink and this view is a highlight of the circuit."},
+    {"title": "Ponkar Lake hike", "text": "A half-day hike up the Bimthang Glacier moraine leads to Ponkar Lake, a glacial lake at about 4,100 m below the peaks of the Manaslu massif. Few trekkers go, so the trail is quiet."},
+    {"title": "Thick air and deep sleep", "text": "At 3,590 m, about 1,500 m below the pass, Bimthang is where your body finally gets a break. Appetite and sleep usually return, making it a good place for a rest day."},
+    {"title": "Himlung and Cheo Himal", "text": "To the north the high peaks of the Nar Phu and Tibet border, including Himlung Himal (7,126 m) and Cheo Himal, are visible from the upper meadow and the moraine behind the lodges."},
+    {"title": "Forest descent to Dharapani", "text": "Below Bimthang the trail plunges into dense rhododendron, pine and oak forest, with streams and waterfalls. In April the rhododendrons flower, and in autumn the forest floor turns gold."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Dharamsala, cross Larkya La and descend to Bimthang in 8 to 10 hours. From Bimthang to Dharapani is 6 to 7 hours and about 20 km downhill through Hampuk, Karche, Gho and Tilije."},
+    {"mode": "Road", "text": "A jeep track now runs up from Dharapani towards Tilije and Gho; in the dry season some trekkers take a jeep from there and skip the last 2 to 3 hours of walking. From Dharapani jeeps reach Besisahar in about 3 to 4 hours and Kathmandu in 9 to 10 hours. Check current status before you travel."},
+    {"mode": "Helicopter", "text": "Helicopters can land on the Bimthang meadow for rescues or private charters in good weather. A flight to Kathmandu takes about 50 to 60 minutes, and to Pokhara about 35 to 40 minutes."}
+  ],
+  "where_to_stay": "Bimthang has a short row of teahouses on the meadow, built of stone and timber with twin rooms, a stove-heated dining room and shared toilets. After Dharamsala they feel comfortable, and most offer hot showers on sunny days and charging for a fee. Names that appear on recent itineraries include Mountain Ponkar Cottage and Himalayan Guest House, though, as everywhere on the circuit, we reconfirm each season. Rooms facing east give a view of Manaslu at dawn. In October beds fill quickly on days when many groups cross the pass, so we reserve ahead.",
+  "stays": [],
+  "tips": [
+    "Celebrate the pass with a hot meal and early night; tomorrow is a long descent that is hard on the knees.",
+    "If you have a spare day, spend it here for Ponkar Lake rather than in Dharapani.",
+    "Use trekking poles on the descent to Gho and Tilije; the trail is steep and rooty in places.",
+    "Watch for the Annapurna side permit check at Dharapani; keep your conservation area permits ready.",
+    "Pay for any jeep from Tilije or Dharapani in cash and agree the price before setting off."
+  ],
+  "themes": ["trekking", "photography"],
+  "nearby": ["larkya-la", "samdo", "samagaun"],
+  "experiences": [
+    {
+      "slug": "bimthang-ponkar-lake-hike",
+      "title": "Ponkar Lake hike above Bimthang",
+      "kind": "hiking",
+      "duration": "5–6 hours return",
+      "best_time": "Morning on a rest day, Oct–Nov and Apr–May",
+      "price_hint": "≈ ₹3,500 extra day per person (lodge, guide, porter)",
+      "image_query": "Ponkar Lake Bimthang glacier",
+      "wiki": "",
+      "summary": "A quiet half-day hike from Bimthang up the moraine of the Bimthang Glacier to Ponkar Lake, a glacial lake at about 4,100 m under the peaks of the Manaslu massif. It needs an extra day in Bimthang and rewards you with solitude and close glacier views.",
+      "body": [
+        "Most trekkers hurry down from Bimthang the morning after the pass, so the trail to Ponkar Lake sees few people. It follows the lateral moraine of the Bimthang Glacier south-east from the meadow, climbing steadily on a rough path marked with cairns. After 2.5 to 3 hours you reach the lake, a pool of grey-blue water in a bowl of moraine with glaciers and rock walls above.",
+        "From the moraine crest the views take in Manaslu's west face, the Bimthang and Salpudanda glaciers and, behind you, the peaks of the Larkya and Himlung ranges. Blue sheep graze the slopes and in autumn the scrub turns red and gold. The atmosphere is wild and remote, very different from the busy meadow below.",
+        "Allow 5 to 6 hours return, carry lunch, water and warm layers, and go with your guide, because the moraine path is faint in places. The hike works best as a rest-day outing after the pass, when you are well acclimatised and sleeping at 3,590 m."
+      ],
+      "good_for": ["photographers", "solo", "couples", "groups"],
+      "faqs": [
+        {"q": "How high is Ponkar Lake?", "a": "Ponkar Lake lies at about 4,100 m, roughly 500 m above Bimthang. Figures vary slightly between maps. The hike takes 2.5 to 3 hours up and about 2 hours down on a rough moraine trail, so plan a full morning or a rest day in Bimthang."},
+        {"q": "Is the Ponkar Lake hike worth an extra day?", "a": "For photographers and anyone who enjoys quiet places, yes. You see glaciers and Manaslu's west side up close with almost no other trekkers. The extra day also gives your legs a rest between the pass and the long descent to Dharapani."},
+        {"q": "Can I go to Ponkar Lake without a guide?", "a": "No. On the Manaslu Circuit you must trek with a licensed guide throughout, and the moraine path to Ponkar Lake is faint and loose in places. Your guide will check the route and conditions with lodge owners in Bimthang before you set out."}
+      ]
+    },
+    {
+      "slug": "bimthang-manaslu-sunset",
+      "title": "Sunset on Manaslu from Bimthang meadow",
+      "kind": "nature",
+      "duration": "45 minutes",
+      "best_time": "5–6 pm, Oct–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Manaslu sunset Bimthang",
+      "wiki": "",
+      "summary": "On a clear evening the west and north faces of Manaslu turn orange and pink above the Bimthang meadow. Walk a few minutes from your lodge onto the open ground or up the moraine for the best angle, with horses grazing and stone walls in the foreground.",
+      "body": [
+        "Bimthang faces east towards Manaslu, so evening light falls directly on the mountain's western flanks. In October the show begins around 5 pm and lasts about half an hour, with the snow turning gold, then orange, then a deep pink before fading to grey. The meadow below goes into shadow early and the temperature drops quickly.",
+        "For a higher viewpoint, walk 10 to 15 minutes up the moraine ridge behind the lodges. From there you see the Bimthang Glacier winding towards the mountain and the line of the trail down from Larkya La. A wide lens fits the meadow and peak together; a zoom picks out the icefalls.",
+        "Dress warmly, even if you are tired from the pass. A down jacket, hat and gloves are needed once the sun goes, and a headtorch for the walk back."
+      ],
+      "good_for": ["photographers", "couples", "groups", "solo"],
+      "faqs": [
+        {"q": "Can you see Manaslu from Bimthang?", "a": "Yes. Bimthang gives a close view of Manaslu's west and north faces, especially at sunset and sunrise. Himlung Himal and Cheo Himal are also visible to the north. Clouds often build in the afternoon, so clear evenings are not guaranteed, but October and November give the best chance."},
+        {"q": "What time is sunset in Bimthang in October?", "a": "Around 5:30 to 5:45 pm in early October and about 5:15 pm in early November. The best light on Manaslu starts 20 to 30 minutes before sunset. Plan to be outside by 5 pm with warm clothing."},
+        {"q": "Is Bimthang a good place to fly a drone?", "a": "Drone use in Nepal needs permission, and restricted areas and conservation areas have extra rules. Many trekkers fly without permits, but you risk confiscation. Check current regulations before you travel, and never fly near lodges, animals or people without consent."}
+      ]
+    },
+    {
+      "slug": "bimthang-forest-descent-to-dharapani",
+      "title": "Rhododendron forest descent to Dharapani",
+      "kind": "nature",
+      "duration": "6–7 hours",
+      "best_time": "Early start, Apr for flowers, Oct–Nov for colour",
+      "price_hint": "Included in all Manaslu Circuit treks",
+      "image_query": "rhododendron forest Bimthang Gho trail",
+      "wiki": "",
+      "summary": "The last walking day of the Manaslu Circuit drops about 1,700 m from Bimthang through rhododendron, pine and oak forest to Dharapani on the Annapurna Circuit. Expect waterfalls, Gurung villages at Gho and Tilije and a sudden return to roads and traffic.",
+      "body": [
+        "Leaving Bimthang, the trail crosses the glacier stream and the moraine of the Salpudanda Glacier, then enters forest. The first hour gives your last views of Manaslu over the treetops. Below, the path is steep and rooty, winding through tall rhododendrons that bloom red in April and moss-covered pines. Hampuk and Karche are small settlements with tea shops.",
+        "At Gho (about 2,515 m) and Tilije (about 2,300 m) you reach Gurung villages with fields of barley and apple orchards. Tilije is a large village with lodges and shops, and the end of the restricted area. A jeep track now reaches this area, and in the dry season some trekkers ride the last stretch.",
+        "The trail crosses the Dudh Khola and joins the Marsyangdi at Thonje, then follows the river to Dharapani at about 1,860 m, where the Annapurna Circuit road brings jeeps and buses. Expect sore knees and a feeling of returning to the world after two weeks in the mountains."
+      ],
+      "good_for": ["groups", "families", "photographers"],
+      "faqs": [
+        {"q": "How long is the walk from Bimthang to Dharapani?", "a": "About 6 to 7 hours and 20 km, with roughly 1,700 m of descent. You pass Hampuk, Karche, Gho, Tilije and Thonje. In the dry season some trekkers take a jeep from Tilije or Gho to Dharapani, which saves 2 to 3 hours of road walking."},
+        {"q": "Where does the Manaslu Circuit end?", "a": "At Dharapani on the Annapurna Circuit road in Manang district, at about 1,860 m. Some itineraries end at Tilije or take a jeep from there. From Dharapani jeeps go to Besisahar and onward to Kathmandu or Pokhara."},
+        {"q": "Do I need an Annapurna permit for Bimthang to Dharapani?", "a": "Yes. The section from Bimthang down to Dharapani lies in the Annapurna Conservation Area, so you need an ACAP permit as well as the Manaslu permits. We arrange it in Kathmandu with the rest of your paperwork."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Bimthang?", "a": "Bimthang is at about 3,590 m, though some sources give up to 3,720 m for the upper lodges. It is the first overnight stop after Larkya La, roughly 1,500 m below the pass. The lower altitude means warmer nights and better sleep than at Dharamsala."},
+    {"q": "How long from Larkya La to Bimthang?", "a": "About 4 to 5 hours of steep descent from the pass, so the full day from Dharamsala to Bimthang takes 8 to 10 hours. The first 2 to 3 hours below the pass are the steepest, on scree and often snow."},
+    {"q": "Should I take a rest day in Bimthang?", "a": "It is a good idea if your schedule allows. The rest day lets your legs recover after the pass and gives time for the Ponkar Lake hike or simply enjoying the view of Manaslu. Our 15-day and longer itineraries include this option."},
+    {"q": "Is Bimthang in the Manaslu or Annapurna area?", "a": "Bimthang lies in Manang district on the Dudh Khola, within the Annapurna Conservation Area, while the pass and the villages before it are in Gorkha district and the Manaslu Conservation Area. You need both conservation area permits for the full circuit."},
+    {"q": "How do I get from Bimthang back to Kathmandu?", "a": "Walk 6 to 7 hours to Dharapani, then take a jeep to Besisahar (3 to 4 hours) and a jeep, bus or car to Kathmandu (6 to 7 hours). Many itineraries do Dharapani to Kathmandu in one long day of 9 to 10 hours by private jeep."},
+    {"q": "Can I fly out from Bimthang?", "a": "Yes, by private helicopter charter in good weather. Flights to Kathmandu take 50 to 60 minutes and to Pokhara about 35 to 40 minutes. It costs much more than the jeep, so most trekkers fly only for medical reasons or tight schedules."},
+    {"q": "What is the temperature in Bimthang in November?", "a": "Days are around 5 to 10 °C in sun, nights about −8 to −12 °C. Frost covers the meadow at dawn and streams freeze. Lodges heat their dining rooms in the evening; bedrooms are cold, so you will still need a warm sleeping bag."},
+    {"q": "Is there Wi-Fi in Bimthang?", "a": "Some lodges offer slow paid Wi-Fi, and mobile signal is weak or absent. Expect to be mostly offline until Tilije or Dharapani. Let your family know before leaving Samagaun that you may be out of contact for two or three days."},
+    {"q": "What is the Ponkar Lake?", "a": "Ponkar Lake is a glacial lake at about 4,100 m above Bimthang, reached in 2.5 to 3 hours along the Bimthang Glacier moraine. It is a quiet side hike with close glacier views and is best done on a rest day after the pass."}
+  ]
+}

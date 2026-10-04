@@ -1,0 +1,21 @@
+{% load tours %}<article class="pass" data-land="{{ k.region }}">
+  <a class="pass__link" href="{{ k.url }}" aria-label="{{ k.title }}, {{ k|days_label }}, from {{ k.price_from_inr|inr }}"></a>
+  <div class="pass__media">{% photo k|first_img k.title "" "(max-width: 760px) 100vw, 33vw" False False %}
+    <span class="stamp" data-type="{{ k.type }}">{% icon k.type_obj.icon %}<b>{{ k.type_obj.label }}</b></span>
+    <span class="pass__alt">{% icon "altitude" %}{{ k.max_altitude_m|thousands }} m</span>
+  </div>
+  <div class="pass__body">
+    <p class="pass__region">{{ k.region_obj.name }}</p>
+    <h3 class="pass__title">{{ k.title }}</h3>
+    <ul class="pass__meta">
+      <li>{% icon "calendar" %}{{ k|days_label }}</li>
+      <li class="pass__grade"><span class="grade" data-g="{{ k.grade|grade_level }}" aria-hidden="true"><i></i><i></i><i></i><i></i></span>{{ k.grade }}</li>
+    </ul>
+    <div class="pass__spark">{% spark k %}<small>Best {{ k.best_label }}</small></div>
+  </div>
+  <div class="pass__stub">
+    <span class="pass__code">{{ k.code }}</span>
+    <span class="pass__price"><small>from</small> <b data-inr="{{ k.price_from_inr|inr }}" data-usd="{{ k.price_from_usd|usd }}">{{ k.price_from_inr|inr }}</b></span>
+    <span class="pass__go">{% icon "arrow" %}</span>
+  </div>
+</article>

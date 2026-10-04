@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "kathmandu-to-nagarkot",
+    "from": "kathmandu",
+    "to": "nagarkot",
+    "distance_km": 32,
+    "summary": "Nagarkot is about 32 km east of central Kathmandu, roughly 1.5 hours by car via Bhaktapur, climbing from 1,400 m to about 2,175 m on a winding paved road. Private car is the easy option; local buses run from Bhaktapur, and fit walkers can reach the ridge on foot.",
+    "options": [
+      {"mode": "Private car or taxi", "time": "1–1.5 h", "text": "The usual route leaves Kathmandu along the Araniko Highway, turns off at Bhaktapur and climbs through Changu and Telkot to the Nagarkot ridge. Outside rush hour it takes about 1 hour 15 minutes from Thamel. A one-way private car costs roughly NPR 3,500 to 5,000, more for an SUV; check current rates. Many of our itineraries add Bhaktapur Durbar Square on the way and reach Nagarkot in time for sunset."},
+      {"mode": "Local bus", "time": "2–2.5 h", "text": "Buses from Kathmandu's Ratna Park or Old Bus Park go to Bhaktapur's Kamal Binayak stop in about an hour, and from there a local bus climbs to Nagarkot in another hour or so. Fares are low, around NPR 100 to 200 in total, but buses are crowded, timings are loose and luggage space is limited. This suits backpackers with light bags rather than families."},
+      {"mode": "On foot from Changunarayan", "time": "4–5 h", "text": "A popular hike links Changunarayan temple (1,541 m) and Nagarkot (2,175 m) along village trails and the Telkot ridge, gaining about 650 m. Most walkers drive to Changunarayan first, about 45 minutes from Kathmandu, and walk uphill to Nagarkot through terraced fields and small Tamang and Newar settlements. Take water, sun protection and a guide or offline map, as paths branch often."}
+    ],
+    "stops_on_way": ["Bhaktapur Durbar Square and Taumadhi Square", "Changunarayan temple", "Telkot village viewpoint", "Kamal Binayak bus stop in Bhaktapur"],
+    "tip": "Leave Kathmandu by 2 pm in October and November so you reach the ridge before the sunset light fades around 5.30 pm.",
+    "faqs": [
+      {"q": "How long does it take to reach Nagarkot from Kathmandu?", "a": "By private car it takes about 1 to 1.5 hours for the 32 km from central Kathmandu, depending on traffic through Bhaktapur. Local buses take 2 to 2.5 hours with a change in Bhaktapur. The road is paved but narrow and winding in the last 10 km, so drivers keep speeds low. Leaving early afternoon gives time for sunset."},
+      {"q": "What is the taxi fare from Kathmandu to Nagarkot?", "a": "A one-way taxi or private car usually costs around NPR 3,500 to 5,000 from Thamel, and a return trip with the car waiting overnight or for sunrise costs more. Prices rise during Dashain and Tihar. Agree the fare before you set off, and check current rates before you travel; our packages include private transfers."},
+      {"q": "Can I do Nagarkot as a day trip from Kathmandu?", "a": "Yes. A day trip works well for sunset, with a drive out after lunch and a return by around 8 pm. Sunrise is harder as a day trip because you would leave Kathmandu around 4 am. For the best mountain views we recommend one night at Nagarkot so you are on the ridge at dawn, when skies are clearest."},
+      {"q": "Is the road to Nagarkot safe in monsoon?", "a": "The road is paved and generally stays open, but from June to September rain can cause small landslides and slippery bends on the upper section, and cloud often hides the mountains. Drive in daylight with an experienced local driver, allow extra time, and check current status before you travel after very heavy rain."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-dhulikhel",
+    "from": "kathmandu",
+    "to": "dhulikhel",
+    "distance_km": 30,
+    "summary": "Dhulikhel lies about 30 km east of Kathmandu on the Araniko Highway, roughly 1 to 1.5 hours by car through Bhaktapur and Banepa. The road is wide and paved most of the way, and frequent buses run from Kathmandu's Ratna Park area, making Dhulikhel the easiest hill town to reach.",
+    "options": [
+      {"mode": "Private car or taxi", "time": "1–1.5 h", "text": "From Kathmandu the Araniko Highway runs past Koteshwor, Thimi and Bhaktapur, then climbs over the Sanga pass, where the large Kailashnath Mahadev statue stands beside the road, and drops to Banepa before reaching Dhulikhel at about 1,550 m. A one-way car costs roughly NPR 3,500 to 5,000; check current rates. Morning departures avoid the heavy traffic around Koteshwor and Suryabinayak."},
+      {"mode": "Bus", "time": "1.5–2 h", "text": "Public buses and microbuses to Banepa and Dhulikhel leave regularly from Kathmandu's Ratna Park and Old Bus Park areas through the day. Fares are around NPR 100 to 150 one way. Buses stop often and can be packed at rush hour, but the route is simple, and the stop is close to Dhulikhel's old town and the hospital junction. Resorts on the hill are a short taxi ride from the stop."},
+      {"mode": "On foot from Nagarkot", "time": "5–6 h", "text": "Walkers on our valley rim trek reach Dhulikhel from Nagarkot on village trails via Rohini Bhanjyang and Nala, descending from about 2,175 m to 1,550 m through pine forest and terraces. It is an easy but long day of 15 km or so, with good views of the Jugal Himal in the morning. A local guide helps, since trails branch frequently."}
+    ],
+    "stops_on_way": ["Bhaktapur Durbar Square", "Kailashnath Mahadev statue at Sanga", "Banepa and the Chandeshwari temple", "Panauti old town, 7 km south of Dhulikhel"],
+    "tip": "Stop at the Kailashnath Mahadev statue at Sanga for photographs on the way, and plan Panauti as a side trip once you reach Dhulikhel.",
+    "faqs": [
+      {"q": "How far is Dhulikhel from Kathmandu?", "a": "Dhulikhel is about 30 km east of central Kathmandu along the Araniko Highway. By private car the drive takes 1 to 1.5 hours depending on traffic between Koteshwor and Bhaktapur; by bus allow 1.5 to 2 hours. It is the easiest of the valley's hill towns to reach because the highway is wide and paved all the way."},
+      {"q": "Which is better for an overnight stay, Dhulikhel or Nagarkot?", "a": "Nagarkot is higher, around 2,175 m, and gives a broader mountain panorama at sunrise, but nights are colder. Dhulikhel, at about 1,550 m, is milder, has a Newar old town and links easily to Namobuddha and Panauti. Choose Nagarkot for views alone and Dhulikhel for views with culture and short walks."},
+      {"q": "Can I visit Dhulikhel and Namobuddha in one day from Kathmandu?", "a": "Yes. Drive to Dhulikhel in about 1.5 hours, continue 13 km by road to Namobuddha monastery, then return via Panauti. The full loop takes 8 to 9 hours with stops. If you want to walk the trail from Dhulikhel to Namobuddha, 3 to 4 hours one way, staying a night in Dhulikhel is more comfortable."},
+      {"q": "Is there a bus from Kathmandu to Dhulikhel?", "a": "Yes. Buses and microbuses to Banepa and Dhulikhel run frequently from Kathmandu's Ratna Park and Old Bus Park areas, roughly every 15 to 30 minutes in daytime. The fare is around NPR 100 to 150. Check current fares and departure points before you travel, as Kathmandu's bus stands are reorganised from time to time."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-bhaktapur",
+    "from": "kathmandu",
+    "to": "bhaktapur",
+    "distance_km": 13,
+    "summary": "Bhaktapur is about 13 km east of central Kathmandu, 40 minutes to 1 hour by car along the Araniko Highway or the newer Thimi road. Taxis, buses and even a cycle ride are all practical, and most visitors combine it with Nagarkot, Changunarayan or Dhulikhel.",
+    "options": [
+      {"mode": "Private car or taxi", "time": "40 min–1 h", "text": "A taxi from Thamel to the Bhaktapur entry gate costs around NPR 1,200 to 1,800 one way, and a car with driver for a half day roughly NPR 3,500 to 4,500; check current rates. The drive follows the Araniko Highway past Koteshwor and Thimi. Cars stop outside the old town, which is largely pedestrian, and you walk in through the ticket gates to Durbar Square."},
+      {"mode": "Local bus", "time": "1–1.5 h", "text": "Buses for Bhaktapur leave from Kathmandu's Ratna Park and Old Bus Park areas and stop at Kamal Binayak or the Bhaktapur bus park near Siddha Pokhari, a 10 minute walk from Durbar Square. Fares are around NPR 40 to 60. It is cheap and frequent, though crowded at rush hour. Keep small notes for the conductor."},
+      {"mode": "Bicycle", "time": "1.5 h", "text": "Confident cyclists can ride the 13 km on a rented bicycle or e-bike, using the quieter roads through Thimi rather than the main highway where possible. The ride is mostly flat across the valley floor, rising slightly into Bhaktapur. Traffic and dust are heavy near Koteshwor, so start early, wear a mask and helmet, and leave the bike at a guarded stand outside the old town."}
+    ],
+    "stops_on_way": ["Pashupatinath and Boudhanath (short detour)", "Thimi pottery town", "Suryabinayak Ganesh temple", "Madhyapur Thimi old bazaar"],
+    "tip": "Arrive in Bhaktapur before 9 am to see Taumadhi and Pottery Square while potters and local shoppers are out and tour groups have not yet arrived.",
+    "faqs": [
+      {"q": "How far is Bhaktapur from Kathmandu?", "a": "Bhaktapur is about 13 km east of central Kathmandu. By taxi or private car it takes 40 minutes to an hour depending on traffic, and by local bus about 1 to 1.5 hours. Tribhuvan International Airport is on the way, around 8 km from Bhaktapur, so some travellers visit straight from an arriving flight."},
+      {"q": "How much is the Bhaktapur entry fee for Indians?", "a": "Indian nationals pay the SAARC rate, around NPR 500, while other foreign nationals pay about NPR 1,800 to enter Bhaktapur's heritage area. Nepali citizens enter free. Carry your passport or voter ID to show at the gate, and keep the ticket while inside. Fees change, so check current status before you travel."},
+      {"q": "Is half a day enough for Bhaktapur?", "a": "Half a day covers Durbar Square, Taumadhi Square with the Nyatapola temple, Pottery Square and Dattatreya Square at a steady pace. A full day or an overnight lets you add a pottery class, a juju dhau tasting and quieter lanes after the day visitors leave. Combining Bhaktapur with Changunarayan or Nagarkot makes a good full day."},
+      {"q": "Can I go from Bhaktapur to Nagarkot the same day?", "a": "Yes. Nagarkot is about 19 km beyond Bhaktapur, roughly 45 minutes to 1 hour uphill by car. Many of our itineraries spend the morning or afternoon in Bhaktapur and drive on to Nagarkot for sunset and an overnight, then return to Kathmandu after sunrise the next day."}
+    ]
+  }
+]

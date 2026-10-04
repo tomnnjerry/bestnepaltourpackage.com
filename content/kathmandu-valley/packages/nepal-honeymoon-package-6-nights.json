@@ -1,0 +1,240 @@
+{
+  "slug": "nepal-honeymoon-package-6-nights",
+  "title": "Nepal Honeymoon Package: 6 Nights, 7 Days",
+  "region": "kathmandu-valley",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 6,
+  "themes": [
+    "honeymoon",
+    "photography",
+    "cultural-tours"
+  ],
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "nagarkot",
+      "nights": 1
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu (Tribhuvan International Airport)",
+  "price_from_inr": 55000,
+  "price_from_usd": 760,
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "max_altitude_m": 2175,
+  "accommodation": "Gokarna Forest Resort or Hotel Yak & Yeti in Kathmandu, Club Himalaya in Nagarkot, a 4-star lakeside resort in Pokhara; double rooms",
+  "transport": "Private car with driver, Kathmandu–Pokhara–Kathmandu flights",
+  "group": "Private, for 2 travellers",
+  "meta_description": "Nepal honeymoon, 7 days: forest resort in Kathmandu, Club Himalaya in Nagarkot, 3 nights by Phewa Lake, flights both ways. Private car from ₹55,000.",
+  "summary": "A private 7-day honeymoon for two: a forest resort on the edge of Kathmandu, a night at Club Himalaya on the Nagarkot ridge facing the Himalaya, and three nights at a lakeside resort in Pokhara. We fly you both ways between Kathmandu and Pokhara, so you spend your days on views, temples and Phewa Lake rather than in a car.",
+  "intro": [
+    "Couples tell us they want two things from a honeymoon in Nepal: mountains outside the window and time alone. This package is built around both. There are no shared coaches or fixed group dinners; you have a private car and driver, a guide only on the sightseeing days, and long free afternoons. Nights are spent somewhere quiet each time: Gokarna Forest Resort sits in woodland on the north-east edge of Kathmandu, Club Himalaya looks straight at the Himalaya from 2,175 m, and Pokhara gives you three nights by the lake.",
+    "The order is deliberate. Kathmandu's temples come first, when you have energy for walking. Nagarkot gives your first sunrise over the snow peaks, and two 25-minute flights replace the 6–8 hour Pokhara road. In Pokhara the last full day is left open for tandem paragliding side by side, a quiet row on Begnas Lake or nothing at all. Indian couples marrying in the November–February wedding season find this the best time for clear mountain views, though the mornings are cold."
+  ],
+  "highlights": [
+    "Two nights at Gokarna Forest Resort or Hotel Yak & Yeti",
+    "Sunset and sunrise over the Himalaya at Club Himalaya, Nagarkot",
+    "Evening aarti at Pashupatinath and a blessing for the new couple",
+    "Three nights by Phewa Lake with a Sarangkot sunrise",
+    "Flights both ways between Kathmandu and Pokhara",
+    "A free day in Pokhara for paragliding together or a quiet lake"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive Kathmandu, Pashupatinath aarti",
+      "place": "kathmandu",
+      "overnight": "Kathmandu (Gokarna Forest Resort)",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "≈ 1 h · 1.5 km",
+      "drive": "≈ 15 km · 1 h in total",
+      "flight": "",
+      "text": "We meet you at Tribhuvan International Airport with garlands and drive about 30 minutes to Gokarna Forest Resort, set among old trees on the north-east edge of the valley, away from city noise. Rest after the flight. Around 5 pm your guide takes you to Pashupatinath, 15 minutes away, for the evening aarti on the Bagmati. Hindu couples can enter the main temple for darshan and receive tika from a priest as newlyweds; the guide explains the rituals as lamps are raised across the river. Dinner tonight is at the resort, included as our welcome.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Patan, Durbar Square and Swayambhu sunset",
+      "place": "patan",
+      "overnight": "Kathmandu (Gokarna Forest Resort)",
+      "altitude_m": 1400,
+      "max_m": 1420,
+      "walk": "≈ 3 h in total · 5 km",
+      "drive": "≈ 35 km · 2 h across the day",
+      "flight": "",
+      "text": "Start in Patan, the quietest of the three royal cities. Walk its Durbar Square, where the stone Krishna Mandir (1637) faces the old palace courtyards, then two lanes north to the Golden Temple, a 12th-century Buddhist courtyard with gilded roofs and a resident tortoise. Lunch is in a restored Newar house nearby. In the afternoon cross to Kathmandu Durbar Square for the Kumari Ghar and the rebuilt Kasthamandap. We finish on the terrace of Swayambhunath at sunset, as the valley lights come on below and prayer flags move overhead. A good photo spot for the two of you.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Bhaktapur, then Club Himalaya, Nagarkot",
+      "place": "nagarkot",
+      "overnight": "Nagarkot (Club Himalaya)",
+      "altitude_m": 2175,
+      "max_m": 2175,
+      "walk": "≈ 2.5 h in total · 4 km",
+      "drive": "≈ 45 km · 2 h across the day",
+      "flight": "",
+      "text": "Check out after breakfast and drive to Bhaktapur, 13 km east. Walk through the brick lanes to Taumadhi Square and Nyatapola, then to Pottery Square, where clay pots dry in rows in the sun. Share a bowl of juju dhau before the 20 km drive up to Nagarkot. Club Himalaya sits on the ridge at about 2,175 m and faces north across the valley to the Langtang and Jugal Himalaya. Spend the late afternoon watching the light fade off the snow from the terrace. Bring warm layers; in December and January the temperature here can drop close to 0 °C after dark.",
+      "meals": "B, D"
+    },
+    {
+      "day": 4,
+      "title": "Nagarkot sunrise, fly to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (lakeside resort)",
+      "altitude_m": 822,
+      "max_m": 2175,
+      "walk": "≈ 30 min",
+      "drive": "≈ 32 km · 1–1.5 h to the airport",
+      "flight": "Kathmandu–Pokhara · 25 min",
+      "text": "Wake before 6 am and watch from your room or the terrace as the sun reaches the snow peaks one by one, from Langtang in the west to Gauri Shankar in the east. After breakfast we drive down to the domestic terminal for the 25-minute flight to Pokhara. Sit on the right side for the Annapurna and Manaslu ranges. Check in to your lakeside resort and keep the afternoon free. At about 4:30 pm a boatman rows you out on Phewa Lake to watch the sunset, with Machhapuchhre reflected in still water on clear evenings.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Sarangkot sunrise and World Peace Pagoda",
+      "place": "sarangkot",
+      "overnight": "Pokhara (lakeside resort)",
+      "altitude_m": 822,
+      "max_m": 1600,
+      "walk": "≈ 2 h in total · 4 km",
+      "drive": "≈ 35 km · 1.5 h across the day",
+      "flight": "",
+      "text": "A 5 am drive brings you to Sarangkot (1,600 m) for the closest mountain view of the trip: Machhapuchhre, Annapurna South and Dhaulagiri turning gold above the clouds. Return for a late breakfast. Later in the morning, cross Phewa by boat to the south shore and walk uphill through forest to the World Peace Pagoda, a white stupa with views over the whole lake. Stop at Tal Barahi, the island temple, on the way back, where couples ring the bell together and offer flowers to the goddess. The afternoon and evening are yours along Lakeside.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Free day: paragliding or Begnas Lake",
+      "place": "pokhara",
+      "overnight": "Pokhara (lakeside resort)",
+      "altitude_m": 822,
+      "max_m": 822,
+      "walk": "",
+      "drive": "≈ 30 km · 1 h if you choose Begnas",
+      "flight": "",
+      "text": "Today has no schedule. Many couples book tandem paragliding: you each fly with your own pilot from the Sarangkot launch site at about 1,600 m and glide side by side for 20–30 minutes before landing near the lake. Others prefer Begnas Lake, 15 km east of town, where rowing boats are hired by the hour and the shores are fields and forest rather than hotels. Davis Falls and the International Mountain Museum are nearby if you want a short outing. For your last evening we can book a table at a lakeside restaurant and arrange a cake.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Fly to Kathmandu, depart",
+      "place": "kathmandu",
+      "overnight": "Departure",
+      "altitude_m": 1400,
+      "max_m": 1400,
+      "walk": "",
+      "drive": "≈ 10 km · 30 min to the airport",
+      "flight": "Pokhara–Kathmandu · 25 min",
+      "text": "Enjoy a slow breakfast by the lake before the transfer to Pokhara airport. The 25-minute flight back to Kathmandu runs east along the Himalaya, so take the left-hand seats for a final look at the Annapurnas and Manaslu. Our driver meets you at the domestic terminal and, time permitting, takes you to Thamel for pashmina, silver earrings or singing bowls to carry home. We then drop you at the international terminal three hours before your flight. We book your Pokhara flight early in the day so a weather delay does not threaten your connection.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "gokarna-forest-resort",
+    "club-himalaya-nagarkot"
+  ],
+  "includes": [
+    "2 nights at Gokarna Forest Resort (or Hotel Yak & Yeti) in Kathmandu with breakfast, welcome dinner on day 1",
+    "1 night at Club Himalaya, Nagarkot, with breakfast and dinner",
+    "3 nights at a 4-star lakeside resort in Pokhara with breakfast",
+    "Kathmandu–Pokhara and Pokhara–Kathmandu flights (check current airline baggage rules)",
+    "Private car with driver for all transfers and sightseeing",
+    "Licensed English- or Hindi-speaking guide on days 1, 2, 3 and 5",
+    "Sunrise drive to Sarangkot and a sunset boat on Phewa Lake",
+    "Welcome flowers and a celebration cake on one evening",
+    "Taxes and our service charge"
+  ],
+  "excludes": [
+    "International flights and the Nepal visa fee for non-Indian passports",
+    "Monument and museum entry fees (check current status before you travel)",
+    "Lunches, and dinners not listed",
+    "Paragliding and other optional activities",
+    "Spa treatments and special dinners",
+    "Travel insurance",
+    "Tips for guide and driver",
+    "Drinks and personal shopping"
+  ],
+  "good_to_know": [
+    "The ₹55,000 price is per person for a couple sharing a double room, including domestic flights at Indian-national fares, outside Christmas–New Year and Dashain–Tihar; foreign nationals pay the US$ rate because airfares and entry fees are higher.",
+    "Your ID names must match your flight tickets exactly; if the bride's passport or voter ID is still in her maiden name, book every ticket in that name.",
+    "Indian couples pay SAARC rates at monuments, well below foreign fees, and Hindu couples enter Pashupatinath free for darshan; check current status before you travel.",
+    "December to February gives the clearest views, but Nagarkot nights can fall to about 0 °C, so pack a warm jacket and woollens.",
+    "Domestic flights are weather dependent, and if a flight is cancelled we drive you instead; keep your international departure for the afternoon or evening."
+  ],
+  "add_ons": [
+    {
+      "name": "Everest mountain flight for two, dawn, about 1 hour",
+      "price": "≈ ₹15,000 per person for Indian nationals · ≈ US$ 230 for other nationals"
+    },
+    {
+      "name": "Tandem paragliding from Sarangkot, each with own pilot",
+      "price": "≈ ₹8,000–10,000 per person"
+    },
+    {
+      "name": "Upgrade Kathmandu nights to Dwarika's Hotel",
+      "price": "from ≈ ₹12,000 per person per night"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the cost of a Nepal honeymoon package from India?",
+      "a": "Our 7-day Nepal honeymoon starts at ₹55,000 per person, or ₹1,10,000 per couple, with Gokarna Forest Resort, Club Himalaya, a 4-star Pokhara resort, both domestic flights, a private car and a guide. Upgrading Kathmandu to Dwarika's Hotel and Pokhara to a 5-star resort raises it to about ₹90,000–1,10,000 per person. Return flights from India are extra."
+    },
+    {
+      "q": "Is Nepal good for a honeymoon in December or January?",
+      "a": "Yes, December and January give some of the year's clearest mountain views, with sunny days of about 18–20 °C in Kathmandu and Pokhara. Mornings and nights are cold: Kathmandu falls to about 2 °C and Nagarkot to around 0 °C. Pack thermals, a down jacket and woollen caps, and expect fewer crowds at temples and viewpoints than in October and November."
+    },
+    {
+      "q": "Nagarkot or Pokhara: which is better for couples?",
+      "a": "Each gives something different, which is why this package includes both. Nagarkot is a quiet ridge 32 km from Kathmandu where you watch sunset and sunrise over a long line of distant peaks from your hotel. Pokhara has the lake, cafés, boating and the much closer Annapurna view from Sarangkot. With one night to spare, choose Nagarkot; for a longer stay, choose Pokhara."
+    },
+    {
+      "q": "Do Indian couples need a passport for a Nepal honeymoon?",
+      "a": "No visa is needed, and either a valid Indian passport or an Election Commission voter ID card works for adults. Aadhaar is often refused by airlines, so do not rely on it. After a wedding, the bride's documents may still show her maiden name; book flights and hotels in the name on the ID she will carry. Check current status before you travel."
+    },
+    {
+      "q": "Can we go paragliding together in Pokhara?",
+      "a": "Yes, as a pair, though not on one wing. Tandem paragliding means each of you flies strapped to your own certified pilot, and operators launch the two of you one after the other from Sarangkot so you fly side by side for 20–30 minutes. Most couples choose the morning, when air is calmer. Flights are cancelled in bad weather, so we keep day 6 free as a buffer."
+    },
+    {
+      "q": "What special touches do you arrange for honeymooners?",
+      "a": "We arrange a garland welcome at the airport, flowers and a cake on one evening, a sunset boat on Phewa Lake and, for Hindu couples, a tika blessing at Pashupatinath. On request we book a candle-lit table at a lakeside restaurant, a couples' spa session where your resort offers one, or a room upgrade at Gokarna or Club Himalaya, charged at cost. Tell us your dates and anniversaries."
+    },
+    {
+      "q": "Is the honeymoon tour private?",
+      "a": "Yes, completely. You have your own car and driver for the whole trip, and your guide joins only for sightseeing on days 1, 2, 3 and 5. There are no shared transfers, fixed group meals or other couples on the itinerary. You can change timings each day with the driver, start late after a long night, or skip a sight and spend the time at the hotel."
+    },
+    {
+      "q": "What is the best time for a honeymoon in Nepal?",
+      "a": "October to April suits most couples. October and November bring the clearest skies and festival season; December to February is cold but clear and quiet; March and April are warm, with rhododendrons in flower and a little haze. We avoid July and August, when monsoon cloud hides the mountains, flights are often delayed and highway landslides are common."
+    },
+    {
+      "q": "Is Nepal safe for couples?",
+      "a": "Nepal is generally safe for couples, including those travelling for the first time, and public displays of affection are best kept low-key, as in much of India. Petty theft in crowds is the main issue. After the September 2025 protests in Kathmandu, check current advisories before booking and again before travel. Our driver stays with you throughout, and we change plans if strikes are announced."
+    }
+  ]
+}

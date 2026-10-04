@@ -1,0 +1,9 @@
+{% extends "tours/base.html" %}{% load tours %}
+{% block title %}Nepal Travel Guides: Costs, Permits, Seasons and Treks{% endblock %}
+{% block meta_description %}Nepal travel guides that answer real questions: trek costs, permits, heli vs trek, best time to visit, Kailash rules, money and safety, region by region.{% endblock %}
+{% block main %}
+<header class="phead phead--plain"><div class="wrap"><div class="phead__in"><p class="kicker">{% icon "book" %}Travel guides</p><h1>Nepal travel guides</h1><p class="phead__lede">Costs, permits, seasons, difficulty, packing and safety, written by region and kept specific.</p></div></div><div class="phead__icon" aria-hidden="true">{% icon "book" %}</div><div class="ridge--bottom" aria-hidden="true"></div></header>
+
+{% for r in regions %}<section class="sec--tight" data-land="{{ r.slug }}"><div class="wrap"><div class="sec__head"><h2 class="h2">{{ r.name }}</h2></div>
+<div class="grid grid--4">{% for g in r.guides %}{% include "tours/partials/guide_card.html" %}{% endfor %}</div></div></section>{% endfor %}
+{% endblock %}

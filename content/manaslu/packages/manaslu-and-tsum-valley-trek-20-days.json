@@ -1,0 +1,109 @@
+{
+  "slug": "manaslu-and-tsum-valley-trek-20-days",
+  "title": "Manaslu and Tsum Valley Trek 20 Days",
+  "region": "manaslu",
+  "type": "trek",
+  "grade": "Challenging",
+  "nights": 19,
+  "themes": ["trekking", "buddhist-circuit", "cultural-tours", "photography"],
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "machha-khola", "nights": 1},
+    {"place": "jagat", "nights": 1},
+    {"place": "tsum-valley", "nights": 7},
+    {"place": "namrung", "nights": 1},
+    {"place": "lho", "nights": 1},
+    {"place": "samagaun", "nights": 2},
+    {"place": "samdo", "nights": 1},
+    {"place": "bimthang", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport)",
+  "end": "Kathmandu",
+  "price_from_inr": 156000,
+  "price_from_usd": 1790,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "max_altitude_m": 5106,
+  "accommodation": "3-star hotel in Kathmandu (1 night), teahouses and monastery guest rooms on the trek (18 nights)",
+  "transport": "Private jeep Kathmandu–Machha Khola and Dharapani–Kathmandu, airport transfer",
+  "group": "Private or small group, 1–10, with a licensed guide",
+  "meta_description": "Manaslu Circuit and Tsum Valley trek 20 days: Mu Gompa, Milarepa's cave, Samagaun, Larkya La 5,106 m, both restricted permits and guide. From US$1,790.",
+  "summary": "Twenty days that combine the Tsum Valley and the full Manaslu Circuit. You spend a week among the monasteries of Tsum, reaching Mu Gompa at about 3,700 m, then rejoin the Budhi Gandaki for Namrung, Lho and Samagaun before crossing Larkya La at 5,106 m. The week in Tsum doubles as excellent acclimatisation for the pass.",
+  "intro": [
+    "If you have three weeks, this is the most rewarding way to see Gorkha's high country. The Tsum Valley gives you Buddhist culture at close range: Milarepa's cave, the nuns of Rachen Gompa, a night at Mu Gompa near the Tibet border. The Manaslu Circuit then adds the big mountains, from the sunrise view at Lho to the glaciers around Samagaun and the long crossing of Larkya La. The two halves meet at Ekle Bhatti, north of Philim.",
+    "The order matters. A week at 2,240 to 3,700 m in Tsum means your body has already adapted when you reach Samagaun, so the pass feels easier than on a straight circuit. We still keep two nights in Samagaun. You need two restricted area permits, Tsum and Manaslu, plus both conservation area permits; we arrange all of them. Prices assume two people sharing and peak-season fees."
+  ],
+  "highlights": [
+    "Mu Gompa, Rachen Gompa and Milarepa's cave in the Tsum Valley",
+    "A week in Tsum at 2,240–3,700 m as natural acclimatisation",
+    "Ribung Gompa at Lho and sunrise on Manaslu",
+    "Two nights in Samagaun with a hike to Pungyen Gompa or base camp",
+    "Larkya La at 5,106 m and descent to Bimthang",
+    "Both restricted area permits and conservation permits included"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "altitude_m": 1400, "max_m": 1400, "walk": "", "drive": "Airport to hotel · 30 min", "flight": "", "text": "We meet you at the airport and transfer you to your Thamel hotel. In the afternoon your guide holds a briefing on the route, the two restricted areas and what to expect in monastery guest rooms, and checks your kit. Permits are usually issued on the working day before departure, so we need your passport details in advance. Early night before the long drive.", "meals": "Dinner"},
+    {"day": 2, "title": "Drive to Machha Khola", "place": "machha-khola", "overnight": "Machha Khola", "altitude_m": 930, "max_m": 1400, "walk": "", "drive": "≈ 160 km · 8–9 h", "flight": "", "text": "Leave Kathmandu at 6:30 am by private jeep. Paved roads take you to Dhading Besi; beyond Arughat the track becomes rough dirt along the Budhi Gandaki, through Soti Khola to Machha Khola at 930 m. Arrive in the late afternoon at this warm riverside village, the starting point of the walk.", "meals": "B, L, D"},
+    {"day": 3, "title": "Machha Khola to Jagat", "place": "jagat", "overnight": "Jagat", "altitude_m": 1340, "max_m": 1340, "walk": "≈ 6–7 h · 22 km", "drive": "", "flight": "", "text": "The gorge day: Khorlabesi, the Tatopani hot spring, the bridge at Dobhan and long stretches of path cut into cliffs above the river. Arrive at Jagat, 1,340 m, a village of flagstone lanes where permits are checked. Net gain is modest but the trail rises and falls all day.", "meals": "B, L, D"},
+    {"day": 4, "title": "Philim and the climb to Lokpa", "place": "tsum-valley", "overnight": "Lokpa", "altitude_m": 2240, "max_m": 2240, "walk": "≈ 6–7 h · 15 km", "drive": "", "flight": "", "text": "Walk via Sirdibas to Philim, then to Ekle Bhatti, where you leave the main trail and climb east into the Siyar Khola gorge. The path is steep through pine forest, with views back to the Budhi Gandaki, and brings you to Lokpa at about 2,240 m, the first village of Tsum. A quieter, more traditional valley begins here.", "meals": "B, L, D"},
+    {"day": 5, "title": "Forest trail to Chumling", "place": "tsum-valley", "overnight": "Chumling", "altitude_m": 2386, "max_m": 2386, "walk": "≈ 4–5 h · 9 km", "drive": "", "flight": "", "text": "Descend to the Lungwa Khola and climb through pine and rhododendron forest to Chumling at about 2,386 m. The village has an old gompa, stone houses and orchards, with Shringi Himal to the north-east. The short day leaves the afternoon free to explore and to rest.", "meals": "B, L, D"},
+    {"day": 6, "title": "Into the upper Tsum at Chhokangparo", "place": "tsum-valley", "overnight": "Chhokangparo", "altitude_m": 3031, "max_m": 3031, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Cross the river and climb past Rainjam into the upper valley, where the forest thins and terraces of barley line the slopes. Chortens and mani walls mark the way to Chhokangparo at about 3,031 m, the largest village of the upper Tsum, with views of Ganesh Himal and Himal Chuli. Walk gently after arrival to help acclimatisation.", "meals": "B, L, D"},
+    {"day": 7, "title": "Milarepa's cave to Nile", "place": "tsum-valley", "overnight": "Nile", "altitude_m": 3361, "max_m": 3361, "walk": "≈ 5–6 h · 12 km", "drive": "", "flight": "", "text": "Pass Lamagaon and visit Piren Phu, the cave linked with the yogi Milarepa, where pilgrims leave butter lamps and scarves. Continue past Burji and Phurbe to the twin villages of Chhule and Nile at about 3,361 m. Yaks graze the fields and the valley is wide and dry, close in feel to the Tibetan plateau.", "meals": "B, L, D"},
+    {"day": 8, "title": "Mu Gompa at 3,700 m", "place": "tsum-valley", "overnight": "Mu Gompa", "altitude_m": 3700, "max_m": 3700, "walk": "≈ 2–3 h · 5 km", "drive": "", "flight": "", "text": "Climb for 2 to 3 hours to Mu Gompa at about 3,700 m, the biggest monastery in the valley, a few kilometres from the Tibet border. Explore the prayer halls, then watch evening prayers. Fit trekkers can walk higher towards Dhephu Doma Gompa for views of the border hills. Night in the monastery guest rooms.", "meals": "B, L, D"},
+    {"day": 9, "title": "Rachen Gompa and down to Chhokangparo", "place": "tsum-valley", "overnight": "Chhokangparo", "altitude_m": 3031, "max_m": 3700, "walk": "≈ 5–6 h · 14 km", "drive": "", "flight": "", "text": "After morning prayers, descend the valley, stopping at Rachen Gompa, the large nunnery near Ngakyu at about 3,240 m, to see its prayer hall and murals. Continue down to Chhokangparo for the night. You have now spent four nights above 3,000 m, good preparation for Samagaun.", "meals": "B, L, D"},
+    {"day": 10, "title": "Chhokangparo back to Lokpa", "place": "tsum-valley", "overnight": "Lokpa", "altitude_m": 2240, "max_m": 3031, "walk": "≈ 7–8 h · 21 km", "drive": "", "flight": "", "text": "A long descent through the upper Tsum, past Rainjam and Chumling, and back through the forest to Lokpa at about 2,240 m. The day covers ground walked earlier in the opposite direction, but the light and views down-valley are different. Use poles to save your knees and take a long lunch in Chumling.", "meals": "B, L, D"},
+    {"day": 11, "title": "Lokpa to Deng on the Manaslu trail", "place": "", "overnight": "Deng", "altitude_m": 1860, "max_m": 2240, "walk": "≈ 5–6 h · 14 km", "drive": "", "flight": "", "text": "Drop through the Siyar Khola gorge to Ekle Bhatti and rejoin the Budhi Gandaki. Instead of turning south, head north into the narrow, forested gorge with several bridge crossings to Deng at about 1,860 m. From here you follow the Manaslu Circuit. Your Manaslu restricted area permit is checked on this section.", "meals": "B, L, D"},
+    {"day": 12, "title": "Deng to Namrung", "place": "namrung", "overnight": "Namrung", "altitude_m": 2630, "max_m": 2630, "walk": "≈ 6–7 h · 19 km", "drive": "", "flight": "", "text": "Cross to Rana and Bihi Phedi, pass the mani walls of Ghap and climb through pine and rhododendron forest to Namrung at 2,630 m, the gateway to Nubri. After a week in Tsum, the climb feels easier. In the evening look for Siringi Himal and Himal Chuli from the ridge above the village.", "meals": "B, L, D"},
+    {"day": 13, "title": "Namrung to Lho", "place": "lho", "overnight": "Lho", "altitude_m": 3180, "max_m": 3180, "walk": "≈ 4–5 h · 11 km", "drive": "", "flight": "", "text": "Walk through Banjam, Lihi and Sho with their barley fields and long mani walls. Manaslu rises ahead from Sho. Lho, at about 3,180 m, sits below Ribung Gompa; walk up to the monastery in the afternoon and return at sunset with the light on the mountain.", "meals": "B, L, D"},
+    {"day": 14, "title": "Lho to Samagaun", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 3530, "walk": "≈ 3–4 h · 8 km", "drive": "", "flight": "", "text": "Sunrise on Manaslu, then through forest to Shyala and its ring of peaks, and across fields to Samagaun at 3,530 m. After lunch, walk to Birendra Tal at the foot of the Manaslu Glacier. The village is the biggest in Nubri, with good lodges and small shops.", "meals": "B, L, D"},
+    {"day": 15, "title": "Rest day: Pungyen Gompa or base camp", "place": "samagaun", "overnight": "Samagaun", "altitude_m": 3530, "max_m": 4000, "walk": "≈ 5–6 h return", "drive": "", "flight": "", "text": "Because you are well acclimatised from Tsum, you can choose between the Pungyen Gompa hike to about 4,000 m or, for strong walkers, an early start towards Manaslu Base Camp at about 4,800 m with a fixed midday turnaround. Both return to Samagaun to sleep. The profile shows the Pungyen option.", "meals": "B, L, D"},
+    {"day": 16, "title": "Samagaun to Samdo", "place": "samdo", "overnight": "Samdo", "altitude_m": 3875, "max_m": 3875, "walk": "≈ 3 h · 8 km", "drive": "", "flight": "", "text": "A short walk up the river through yak pastures to Samdo at about 3,875 m, the highest permanent village of the circuit. In the afternoon hike a little above the village for views of Manaslu North and the peaks around the Tibet border trail. Check gear for the pass.", "meals": "B, L, D"},
+    {"day": 17, "title": "Samdo to Dharamsala", "place": "larkya-la", "overnight": "Dharamsala (Larkya Phedi)", "altitude_m": 4460, "max_m": 4460, "walk": "≈ 3.5–4 h · 7 km", "drive": "", "flight": "", "text": "Climb gradually past the Larkya Bazaar ruins to Dharamsala at about 4,460 m, the high camp below the pass. Rest, eat well and walk briefly up the moraine in the afternoon. Your guide will brief you on the 4 am start. Lodges are basic and nights cold.", "meals": "B, L, D"},
+    {"day": 18, "title": "Larkya La crossing to Bimthang", "place": "bimthang", "overnight": "Bimthang", "altitude_m": 3590, "max_m": 5106, "walk": "≈ 8–10 h · 15–16 km", "drive": "", "flight": "", "text": "Leave with headtorches around 4 am and climb over the Larkya Glacier moraine to the prayer flags at 5,106 m. The view west takes in Himlung Himal, Cheo Himal and Annapurna II. Descend carefully on steep scree and snow, then on moraine and grass to Bimthang at about 3,590 m, below Manaslu's west face.", "meals": "B, L, D"},
+    {"day": 19, "title": "Bimthang to Dharapani", "place": "", "overnight": "Dharapani", "altitude_m": 1860, "max_m": 3590, "walk": "≈ 6–7 h · 20 km", "drive": "", "flight": "", "text": "Descend about 1,700 m through rhododendron and pine forest via Hampuk, Karche, Gho and Tilije, then along the Dudh Khola to Thonje and Dharapani on the Annapurna Circuit road. In the dry season a jeep from Tilije can shorten the day. Farewell dinner with your guide and porters.", "meals": "B, L, D"},
+    {"day": 20, "title": "Drive to Kathmandu, trip ends", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1860, "walk": "", "drive": "≈ 215 km · 9–10 h", "flight": "", "text": "A private jeep takes you down to Besisahar in 3 to 4 hours and on via Dumre and Mugling to Kathmandu, arriving in the evening. The trip ends at your hotel. We recommend booking at least one more night in Kathmandu before your flight; we can add a 3-star hotel and airport transfer, or end the drive in Pokhara instead.", "meals": "Breakfast, Lunch"}
+  ],
+  "stays": ["samagaun-hotel-norling", "samagaun-manaslu-guest-house"],
+  "includes": [
+    "Tsum Valley and Manaslu restricted area permits, MCAP, ACAP and municipality fee",
+    "Licensed English-speaking trekking guide for all trekking days",
+    "One porter for every two trekkers (up to 20 kg)",
+    "Private jeep Kathmandu–Machha Khola and Dharapani–Kathmandu",
+    "1 night in a 3-star Kathmandu hotel with breakfast and airport pick-up",
+    "18 nights in teahouses and monastery guest rooms",
+    "Three meals a day on the trek with tea or coffee",
+    "Guide and porter wages, insurance and meals",
+    "First-aid kit and pulse oximeter"
+  ],
+  "excludes": [
+    "Kathmandu hotel after the trek and departure transfer",
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation",
+    "Hot showers, Wi-Fi, charging and drinks",
+    "Monastery donations beyond guest-room fees",
+    "Personal gear and sleeping bag rental",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "The price assumes two people sharing, September to November permit fees and teahouse accommodation; solo trekkers pay about US$320 more.",
+    "You need both the Tsum Valley and the Manaslu restricted area permits; fees are charged per week plus extra days, so the combined restricted area permit cost is roughly US$200 to 300 per person in autumn depending on how the days are counted, as we understand it.",
+    "A licensed guide is mandatory throughout; solo permits became available in 2026 according to the Department of Immigration; check current status before you travel.",
+    "The week in Tsum improves acclimatisation, but we still keep two nights in Samagaun and short days to Samdo and Dharamsala.",
+    "Larkya La can close for snow; if it does, we return via the Budhi Gandaki or arrange a helicopter from Samagaun at extra cost."
+  ],
+  "add_ons": [
+    {"name": "Extra Kathmandu night with airport drop", "price": "≈ US$ 60 per person"},
+    {"name": "Helicopter Samagaun–Kathmandu instead of the pass", "price": "≈ US$ 900–1,200 per seat, shared"},
+    {"name": "Extra night at Mu Gompa", "price": "≈ US$ 55 per person"}
+  ],
+  "faqs": [
+    {"q": "How many days do I need for Manaslu and Tsum Valley?", "a": "We recommend 20 days from Kathmandu: about seven nights in Tsum and the full Manaslu Circuit with two nights in Samagaun. Fast trekkers sometimes do it in 18 days, but that removes the Mu Gompa night or the Samagaun rest day. With 22 days you can add Gumba Lungdang and Manaslu Base Camp."},
+    {"q": "How much does the Manaslu and Tsum Valley trek cost?", "a": "Our 20-day trek starts from US$1,790 or about ₹1,56,000 per person, twin sharing. It includes both restricted area permits, both conservation permits, a licensed guide, porters, all trek meals and lodging, private jeeps and one Kathmandu hotel night. Budget US$200 to 300 for extras and tips."},
+    {"q": "Should I do Tsum Valley before or after the Manaslu Circuit?", "a": "Before. Tsum lies off the trail below Deng, so visiting it first is logical, and a week at 2,240 to 3,700 m acclimatises you for Samagaun and Larkya La. Doing Tsum after would mean walking back down the valley instead of crossing the pass."},
+    {"q": "Which permits do I need for Manaslu and Tsum together?", "a": "The Tsum Valley restricted area permit, the Manaslu restricted area permit, the Manaslu Conservation Area Permit, the Annapurna Conservation Area Permit and the Tsum Nubri municipality fee. All are arranged through a registered agency. Check current fees and rules before you travel."},
+    {"q": "Is the combined trek much harder than the circuit alone?", "a": "It is longer rather than harder. Tsum adds about six walking days of 4 to 8 hours at moderate altitude, with no high pass. Most people find Larkya La easier after Tsum because they are better acclimatised. The main challenge is the overall length and simple lodges."},
+    {"q": "Can I see the Dhachyang festival on this trek?", "a": "Only if you trek in winter, because Dhachyang falls in December or January by the Tibetan calendar. In winter Larkya La is often snowbound, so we would plan a Tsum-only trek instead. Spring and autumn departures sometimes coincide with smaller monastery ceremonies."},
+    {"q": "Is food different in the Tsum Valley?", "a": "Yes, it is entirely vegetarian, because of the valley's pledge against killing animals. Expect dal bhat, potatoes, tsampa, Tibetan bread and noodle soups, often cooked on the family stove. Once you rejoin the Manaslu trail at Deng, menus become broader again."},
+    {"q": "Can a solo traveller book the Manaslu and Tsum Valley trek?", "a": "Yes. According to a 2026 Department of Immigration notice, solo trekkers can now get restricted area permits individually, but a licensed guide is still required. Solo departures carry a supplement for the guide, jeep and room. You can also join one of our small groups to share costs."},
+    {"q": "What is the highest point of the Manaslu and Tsum trek?", "a": "Larkya La at 5,106 m, crossed on day 18. In the Tsum Valley the highest overnight is Mu Gompa at about 3,700 m. On the Manaslu side you sleep at Samdo (3,875 m) and Dharamsala (4,460 m) before the pass."}
+  ]
+}

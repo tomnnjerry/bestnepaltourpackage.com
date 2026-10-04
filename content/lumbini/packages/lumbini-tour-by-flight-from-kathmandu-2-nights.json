@@ -1,0 +1,80 @@
+{
+  "slug": "lumbini-tour-by-flight-from-kathmandu-2-nights",
+  "title": "Lumbini Tour by Flight from Kathmandu 2 Nights",
+  "region": "lumbini",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 2,
+  "themes": ["short-breaks", "buddhist-circuit", "cultural-tours", "pilgrimage"],
+  "stops": [{"place": "lumbini", "nights": 2}, {"place": "tilaurakot", "nights": 0}],
+  "start": "Kathmandu (Tribhuvan airport, domestic terminal)",
+  "end": "Kathmandu (Tribhuvan airport, domestic terminal)",
+  "price_from_inr": 22000,
+  "price_from_usd": 440,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 1400,
+  "accommodation": "3-star hotel in Lumbini (Buddha Maya Gardens or Lumbini Hokke Hotel)",
+  "transport": "Kathmandu–Bhairahawa return flights (35 min each way), private car in Lumbini",
+  "group": "Private, 1–10",
+  "meta_description": "Lumbini tour by flight from Kathmandu, 3 days: 35-minute flights, Maya Devi Temple at dawn, monastic zone, Tilaurakot and 2 nights at a 3-star hotel.",
+  "summary": "The quickest comfortable way to see Lumbini from Kathmandu: a 35-minute flight to Bhairahawa, two nights near the Sacred Garden, the Maya Devi Temple at dawn, the monasteries by bicycle, a half-day to Tilaurakot and a morning flight back. Return flights, hotel, car, guide and entry fees are included.",
+  "intro": [
+    "By road, Lumbini is 8–10 hours from Kathmandu each way, which turns a two-night visit into a four-day trip. Flying cuts that to 35 minutes. Buddha Air, Yeti Airlines and Shree Airlines operate several daily flights to Gautam Buddha International Airport in Bhairahawa, and from there it is a 30–40 minute drive to the hotels around the Sacred Garden. This package fits neatly into a longer Nepal holiday, before or after Pokhara or a trek.",
+    "We include return flights in the price. Indian nationals pay a rupee fare much lower than the dollar fare charged to other foreign nationals, which is why the INR and USD prices differ more than on our road packages. Winter fog can delay morning flights from December to January, so we prefer late-morning departures in those months and keep the itinerary flexible."
+  ],
+  "highlights": [
+    "35-minute flights each way instead of 8–10 hours by road",
+    "Maya Devi Temple, marker stone and Ashoka pillar at dawn",
+    "Monastic zone temples by bicycle and World Peace Pagoda at sunset",
+    "Half-day to Tilaurakot, ancient Kapilavastu",
+    "Optional crane-watching walk before the return flight"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bhairahawa, monastic zone ride", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 1400, "walk": "", "drive": "≈ 20 km · 35 min from the airport", "flight": "Kathmandu–Bhairahawa · 35 min", "text": "Transfer from your Kathmandu hotel to the domestic terminal for a morning flight to Bhairahawa. On a clear day, sit on the right-hand side for glimpses of the Himalaya before the plane descends over the Terai. Our driver meets you and drives to your hotel near the Sacred Garden. In the late afternoon, cycle or take a battery rickshaw through the monastic zone with your guide, from the Royal Thai Monastery to the Chinese and German temples, ending at the World Peace Pagoda.", "meals": "Dinner"},
+    {"day": 2, "title": "Sacred Garden at dawn and Tilaurakot", "place": "lumbini", "overnight": "Lumbini", "altitude_m": 150, "max_m": 150, "walk": "≈ 3 h · 4 km", "drive": "≈ 60 km · 2 h round trip", "flight": "", "text": "Walk to the Sacred Garden at opening time to see the Maya Devi Temple and the marker stone, Ashoka's 249 BCE pillar and the Puskarini pond, with monks chanting under the bodhi tree. After breakfast, visit the Lumbini Museum at the north end of the site. In the afternoon, drive 45 minutes to Tilaurakot, the walled Shakya capital where Siddhartha lived until the age of 29, and walk to its eastern gate. Return to Lumbini for dinner.", "meals": "B, D"},
+    {"day": 3, "title": "Crane walk and flight to Kathmandu", "place": "kathmandu", "overnight": "", "altitude_m": 1400, "max_m": 1400, "walk": "≈ 1.5 h (optional)", "drive": "≈ 20 km · 35 min to the airport", "flight": "Bhairahawa–Kathmandu · 35 min", "text": "Early risers can walk the crane sanctuary wetlands at dawn with a local birder, looking for sarus cranes and storks, or return to the Sacred Garden for a final quiet visit. After breakfast and check-out, drive to Bhairahawa airport for your flight back to Kathmandu. Our Kathmandu driver meets you on arrival and takes you to your hotel or onward connection.", "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-gardens-lumbini", "lumbini-hokke-hotel"],
+  "includes": [
+    "Kathmandu–Bhairahawa–Kathmandu economy flights",
+    "Domestic airport transfers in Kathmandu and Bhairahawa",
+    "2 nights at a 3-star hotel in Lumbini, twin sharing",
+    "Daily breakfast and dinner",
+    "Private car with driver for Lumbini and Tilaurakot",
+    "Local guide for the Sacred Garden, monastic zone and Tilaurakot",
+    "Lumbini Sacred Garden and Tilaurakot entry fees",
+    "Bicycle or battery rickshaw for the monastic zone"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before and after the tour",
+    "Nepal visa fee",
+    "Lunches and drinks",
+    "Airport tax changes or fuel surcharges introduced after booking",
+    "Crane sanctuary birding guide (≈ ₹2,500 per group)",
+    "Tips for guide and driver",
+    "Travel insurance",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "The INR price uses the domestic fare available to Indian nationals; the USD price uses the higher dollar fare charged to other foreign nationals.",
+    "Prices assume twin sharing at a 3-star hotel in October–March; fares and hotel rates rise around Buddha Jayanti and in October.",
+    "Domestic baggage allowance is usually 15–20 kg checked plus a small cabin bag, depending on the airline.",
+    "December and January fog can delay or cancel morning flights; keep a buffer before international connections. Check current status before you travel.",
+    "Carry your passport or voter ID for domestic flights; Indian nationals need it to get the rupee fare."
+  ],
+  "add_ons": [
+    {"name": "Ramagrama and Devdaha day trip (adds a night)", "price": "≈ ₹10,000 per person"},
+    {"name": "Fly back to Pokhara via Kathmandu connection", "price": "on request"}
+  ],
+  "faqs": [
+    {"q": "How long is the flight from Kathmandu to Lumbini?", "a": "The flight from Kathmandu to Bhairahawa, the airport for Lumbini, takes about 35 minutes. Buddha Air, Yeti Airlines and Shree Airlines usually operate several flights a day. From Bhairahawa airport it is about 20 km, or 30–40 minutes by car, to the hotels near the Sacred Garden."},
+    {"q": "What is the Kathmandu to Lumbini flight price?", "a": "Fares vary by airline and season. Indian nationals pay a rupee fare, often around NPR 6,000–9,000 one way, while other foreign nationals pay a dollar fare, often around US$ 110–160. Fares change frequently, so check current status before you travel. Our package price includes return flights."},
+    {"q": "Is Lumbini doable as a day trip from Kathmandu?", "a": "It is possible by flying out on the first morning flight and back on the last, but you get only six or seven hours on the ground and miss the dawn atmosphere in the Sacred Garden. Fog and delays can also cut the day short. We recommend at least one night, ideally two."},
+    {"q": "Can we combine this with Pokhara?", "a": "Yes. Instead of flying back to Kathmandu, you can drive from Lumbini to Pokhara via Tansen in 7–8 hours and fly Pokhara to Kathmandu later. See our Lumbini, Pokhara and Kathmandu tour, which combines all three with two domestic flights."},
+    {"q": "Which side of the plane has mountain views?", "a": "Flying from Kathmandu to Bhairahawa, the Himalaya is on the right-hand side of the aircraft, visible on clear mornings, mostly October to February. Coming back to Kathmandu, sit on the left. Seats are often free seating on smaller aircraft, so board early."},
+    {"q": "Do Indians need a passport for domestic flights in Nepal?", "a": "Indian nationals need a valid passport or voter ID to fly domestically in Nepal and to qualify for the rupee fare. Carry the original document. Children should carry an ID with photo and age proof. Check current status before you travel, as airline rules can change."},
+    {"q": "What happens if the flight is cancelled due to fog?", "a": "Airlines rebook passengers on the next available flight, usually the same day once fog clears. If a flight is cancelled entirely, we can drive you to or from Kathmandu, about 8–10 hours, or extend your hotel by a night. Any extra cost is charged at actual rates."},
+    {"q": "Which hotel will we stay at in Lumbini?", "a": "We use Buddha Maya Gardens, about five minutes' walk from the Sacred Garden, or Lumbini Hokke Hotel, a Japanese-style property near the monastic zone, depending on availability and your preference. Both are 3-star hotels with restaurants and help with bicycles and guides."},
+    {"q": "Is this tour suitable for elderly travellers?", "a": "Yes. Flying avoids the long road journey, sites are flat, and we use battery rickshaws instead of bicycles on request. Wheelchairs can be requested at Kathmandu and Bhairahawa airports. The Maya Devi Temple visit involves about an hour of gentle walking."}
+  ]
+}

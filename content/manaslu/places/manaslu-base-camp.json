@@ -1,0 +1,130 @@
+{
+  "slug": "manaslu-base-camp",
+  "name": "Manaslu Base Camp",
+  "region": "manaslu",
+  "kind": "base camp",
+  "wiki": "",
+  "image_query": "Manaslu Base Camp tents glacier",
+  "lat": 28.578,
+  "lng": 84.598,
+  "altitude_m": 4800,
+  "tagline": "Expedition camp at about 4,800 m above Samagaun",
+  "meta_description": "Manaslu Base Camp (≈ 4,800 m): day hike from Samagaun, heli landings, glacier views, difficulty, timing, permits and who should try it.",
+  "summary": "Manaslu Base Camp sits at roughly 4,800 m on the moraine above the Manaslu Glacier, about 1,270 m above Samagaun. Trekkers reach it as a long day hike, 5 to 6 hours up and 3 hours down, or as a brief helicopter landing. In September and October it fills with expedition tents.",
+  "intro": [
+    "Manaslu Base Camp is not a village and has no lodges. It is a stretch of rocky moraine and flat platforms at about 4,800 m where climbing teams pitch tents before attempting the summit of Manaslu, 8,163 m. The exact camp moves a little from year to year with glacier conditions, and teams spread out along the ridge. Outside the main climbing season, from late August to mid October, the site is empty apart from stone tent platforms, prayer flags and the odd herder.",
+    "For trekkers, base camp is a demanding side trip from Samagaun. You climb steeply from 3,530 m past Birendra Tal and up the lateral moraine, with the Manaslu Glacier on your left and the summit above. It is the highest point most Manaslu Circuit trekkers reach before Larkya La, and the effort repays you with close views of the icefall, Naike Peak, the Pungyen ridge and peaks along the Tibet border. Some itineraries use it as a second acclimatisation day.",
+    "Helicopter tours from Kathmandu sometimes touch down near base camp in good conditions, but landings at this height are short and depend on weight and weather. Most heli tours land in Samagaun and fly a loop past the camp instead. Whichever way you come, base camp is a place for people already used to altitude, carrying warm clothing, water and enough daylight to get back down."
+  ],
+  "facts": [
+    ["Altitude", "≈ 4,800 m"],
+    ["Best months", "Apr – May · Sep – Nov"],
+    ["Nights we suggest", "0 (day hike from Samagaun)"],
+    ["Nearest airport", "Kathmandu, ≈ 1 h by helicopter"],
+    ["From Samagaun", "≈ 5–6 h up, 3 h down · 1,270 m gain"],
+    ["Known for", "Manaslu Glacier, expedition tents, heli landings"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "nights": "0",
+  "highlights": [
+    {"title": "The Manaslu icefall up close", "text": "From the upper moraine the glacier breaks into towers of blue ice below the summit pyramid. On a clear morning you can trace the climbing route towards Camp 1 and see how the mountain drops more than 3,000 m in a few kilometres."},
+    {"title": "Expedition season atmosphere", "text": "In September and early October dozens of climbing teams set up kitchen tents, dining domes and solar panels at base camp. Trekkers can walk through respectfully, see how expeditions run and hear about summit rotations, though camps are private workplaces."},
+    {"title": "Birendra Tal from above", "text": "The climb gives an aerial view of Birendra Tal, the glacier lake below Samagaun. Its milky green colour against grey moraine is one of the best photographs on the route, and the viewpoint comes about an hour into the hike."},
+    {"title": "A real acclimatisation test", "text": "Gaining 1,270 m in a morning and sleeping back at 3,530 m prepares your body well for Larkya La. If you manage base camp comfortably, the pass day at 5,106 m will feel more familiar."},
+    {"title": "Helicopter landing option", "text": "In settled weather a helicopter can land briefly near base camp. Expect 10 to 15 minutes on the ground at most, and payload limits that may mean the helicopter lands with fewer people or shuttles in two groups."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Samagaun follow the path to Birendra Tal, then climb the steep lateral moraine north of the glacier. Allow 5 to 6 hours up and about 3 hours down, roughly 7 km each way and 1,270 m of ascent. Leave by 6 am, carry 2 litres of water and lunch, and go only with your guide."},
+    {"mode": "Helicopter", "text": "Heli tours fly from Kathmandu to Samagaun in about an hour, and in calm, clear conditions the pilot may make a short landing near base camp. Landings above 4,500 m carry fewer passengers, so groups may be shuttled. All flights are weather dependent and run early in the morning."}
+  ],
+  "where_to_stay": "There are no lodges at Manaslu Base Camp. Trekkers sleep in Samagaun, at 3,530 m, before and after the hike, choosing from the teahouses along the main lane such as Hotel Norling or the Manaslu Guest House. Climbing expeditions bring full tented camps with kitchen staff, and those camps are not open to trekkers for overnight stays. If you want to camp near base camp as part of a special itinerary, we arrange tents, a cook and porters, with the extra permits and risks that come with sleeping at 4,800 m.",
+  "stays": [],
+  "tips": [
+    "Do the base camp climb only after at least one night in Samagaun, and ideally after a gentler hike the day before.",
+    "Start at first light; cloud usually closes in around 10 to 11 am and the descent on loose moraine is slow in poor visibility.",
+    "Carry a down jacket, gloves and a hat even on a sunny morning, because wind on the upper moraine is cold.",
+    "Turn back at a fixed time, such as 12 noon, whatever height you have reached.",
+    "Do not enter expedition tents or touch ropes and gear; ask before photographing climbers and Sherpa staff."
+  ],
+  "themes": ["trekking", "heli-tours", "adventure-sports", "photography"],
+  "nearby": ["samagaun", "samdo", "lho"],
+  "experiences": [
+    {
+      "slug": "manaslu-base-camp-day-hike",
+      "title": "Manaslu Base Camp day hike from Samagaun",
+      "kind": "hiking",
+      "duration": "8–9 hours return",
+      "best_time": "Start 6 am, Apr–May and Sep–Nov",
+      "price_hint": "Included in our base camp itineraries",
+      "image_query": "Manaslu Base Camp trail moraine",
+      "wiki": "",
+      "summary": "A strenuous day from Samagaun to Manaslu Base Camp at about 4,800 m and back, gaining 1,270 m on steep moraine. It gives close views of the Manaslu Glacier and icefall and works as a strong acclimatisation day for fit trekkers before Larkya La.",
+      "body": [
+        "You leave Samagaun before sunrise with a packed lunch, walk the easy path to Birendra Tal and then start climbing. The trail zigzags up a grassy slope onto the lateral moraine, with the Manaslu Glacier below on the left. The first viewpoint over the lake comes in about an hour. Above 4,300 m the path becomes loose stone and grit, and the pace drops; most people need 5 to 6 hours to reach the camp area.",
+        "At base camp you look across the glacier to the icefall and the steep north-east face. In September and early October the platforms are covered with expedition tents, and you may see climbers returning from rotations to Camp 1 and Camp 2. Outside the season the site is quiet, marked by prayer flags and cairns. Spend 20 to 30 minutes at most, eat, drink and start down before cloud arrives.",
+        "The descent takes about 3 hours and is hard on knees, so trekking poles help. You are back in Samagaun by mid afternoon for a hot drink and an early dinner. This day is not for everyone: if you felt any altitude symptoms on arrival in Samagaun, choose the Pungyen Gompa hike instead and keep your energy for the pass."
+      ],
+      "good_for": ["solo", "groups", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Manaslu Base Camp hike?", "a": "It is strenuous. You gain about 1,270 m from Samagaun to roughly 4,800 m, mostly on steep moraine, and the round trip takes 8 to 9 hours. No climbing skills are needed, but you should be fit, already acclimatised after at least one night in Samagaun and free of altitude symptoms before you start."},
+        {"q": "Do I need an extra day for Manaslu Base Camp?", "a": "Yes. On a standard 14-day Manaslu Circuit the rest day in Samagaun is better spent on the shorter Pungyen Gompa hike. Add one more day in Samagaun if you want base camp, so you sleep three nights there. Our Manaslu Base Camp itinerary already includes that extra day."},
+        {"q": "Can I stay overnight at Manaslu Base Camp?", "a": "Not in a lodge, because there are none. Overnight stays need a full camping setup with tents, a cook and porters, arranged in advance. Sleeping at 4,800 m carries real altitude risk, so we only arrange it for experienced, well-acclimatised trekkers on special itineraries or as part of a peak climb."}
+      ]
+    },
+    {
+      "slug": "manaslu-base-camp-expedition-season-visit",
+      "title": "Walk through an autumn expedition camp",
+      "kind": "culture",
+      "duration": "30 minutes at camp",
+      "best_time": "Mid September to early October",
+      "price_hint": "",
+      "image_query": "Manaslu expedition base camp tents",
+      "wiki": "",
+      "summary": "In the autumn climbing season Manaslu Base Camp becomes a temporary village of expedition tents, kitchen domes and solar panels. Trekkers who reach it then see how a modern Himalayan expedition works, from puja ceremonies to oxygen stores, while respecting that the camps are private workplaces.",
+      "body": [
+        "Manaslu has become one of the most climbed 8,000 m peaks in autumn, and from late August to early October teams from many countries set up at base camp. Each operator runs its own compound: a kitchen tent with Sherpa cooks, a dining dome, sleeping tents and often a stone chorten where the team holds a puja, a Buddhist blessing ceremony, before climbing. Helicopters bring in fresh food and fly out climbers between rotations.",
+        "As a trekker you can walk along the main path between camps, look at the puja altars from a distance and talk to staff who have time. Many Sherpa guides are happy to explain the route and the camps above. Do not walk into tents, sit in dining areas uninvited or handle ropes, oxygen bottles or gear, and keep drones in your bag unless a team has agreed.",
+        "Timing matters. Teams usually arrive in late August, move up the mountain through September and finish by early October. Outside that window the site is empty. If your main interest is the expedition scene, plan your trek to reach Samagaun in the second half of September."
+      ],
+      "good_for": ["photographers", "solo", "groups"],
+      "faqs": [
+        {"q": "When is Manaslu climbing season?", "a": "Most expeditions climb Manaslu in autumn, arriving at base camp in late August and finishing by early October, with summit pushes usually in late September. A smaller number attempt it in spring. Trekkers who want to see a busy base camp should time their visit for mid to late September."},
+        {"q": "Can trekkers visit expedition tents at Manaslu Base Camp?", "a": "You can walk past and talk to staff, but the camps are private workplaces paid for by climbers. Do not enter tents or dining areas without an invitation, do not touch equipment and ask before taking photos. Your guide often knows staff from other teams and can introduce you politely."},
+        {"q": "Will helicopter traffic be heavy in climbing season?", "a": "In September there are frequent helicopter flights to Samagaun and base camp carrying climbers, food and gear. This makes it easier to find a seat for an emergency evacuation or a planned heli return, but flights still depend on morning weather and are often cancelled by cloud."}
+      ]
+    },
+    {
+      "slug": "manaslu-base-camp-heli-landing",
+      "title": "Heli landing near Manaslu Base Camp",
+      "kind": "aerial",
+      "duration": "10–15 minutes on the ground",
+      "best_time": "6:30–9 am, Oct–Nov and Apr–May",
+      "price_hint": "Part of our Manaslu heli tour",
+      "image_query": "helicopter Manaslu glacier landing",
+      "wiki": "",
+      "summary": "A brief helicopter touchdown on the moraine near Manaslu Base Camp, at about 4,800 m, as part of a Manaslu heli tour from Kathmandu. You step out among prayer flags with the glacier and summit in front of you, then fly down to Samagaun for breakfast.",
+      "body": [
+        "Heli tours leave Kathmandu soon after sunrise and follow the Budhi Gandaki valley north, with Ganesh Himal and Himal Chuli off the wings. If the pilot judges wind, cloud and payload safe, the helicopter lands near base camp for 10 to 15 minutes. That is long enough for photographs and a look at the icefall, and short enough to keep the risk of altitude sickness low for people who have come straight from 1,400 m.",
+        "Payload is the key limit. Helicopters lift far less at 4,800 m than in Kathmandu, so a five-seat aircraft may land with only two or three passengers at a time, shuttling the rest of the group from Samagaun. The pilot always has the final word, and on some mornings the landing becomes a flyover instead.",
+        "This landing is not suitable for anyone with heart or lung conditions, high blood pressure that is not controlled, or pregnancy. Children should be over five, and everyone should move slowly on the ground. If anyone feels dizzy or breathless, tell the pilot and return to the cabin at once."
+      ],
+      "good_for": ["couples", "photographers", "seniors", "groups"],
+      "faqs": [
+        {"q": "How long can a helicopter stay at Manaslu Base Camp?", "a": "Usually 10 to 15 minutes. At about 4,800 m the risk of altitude sickness rises quickly for people who flew from Kathmandu at 1,400 m, and engines and payload limits also argue for short stops. Longer breaks happen at Samagaun, at 3,530 m, where tours stop for breakfast."},
+        {"q": "Is a base camp landing guaranteed on the Manaslu heli tour?", "a": "No. The pilot decides on the day based on wind, cloud and weight. In good autumn and spring mornings landings are often possible; otherwise the tour flies past base camp and lands in Samagaun. Prices do not usually change because the flying time is similar."},
+        {"q": "Who should not land at Manaslu Base Camp by helicopter?", "a": "People with heart disease, lung problems, uncontrolled high blood pressure or recent surgery, pregnant women and very young children should not land at this height. If you are unsure, ask your doctor before booking. Everyone else should move slowly, avoid running for photos and return to the cabin if they feel unwell."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Manaslu Base Camp?", "a": "Manaslu Base Camp is at roughly 4,800 m, though the camp area spreads along the moraine and figures from 4,400 to 4,900 m appear in different sources. It is about 1,270 m above Samagaun, the village from which trekkers start the climb, and some 3,360 m below the summit of Manaslu at 8,163 m."},
+    {"q": "How long does it take to hike to Manaslu Base Camp?", "a": "Most trekkers take 5 to 6 hours up from Samagaun and about 3 hours down, so plan 8 to 9 hours for the round trip. Start at 6 am to reach the camp before cloud, and set a firm turn-around time in case the climb takes longer than expected."},
+    {"q": "Is Manaslu Base Camp part of the Manaslu Circuit?", "a": "Not on the main trail. It is an optional side trip from Samagaun. Standard 14-day itineraries spend the Samagaun rest day on the easier Pungyen Gompa hike. If you want base camp, add one day so you sleep three nights in Samagaun."},
+    {"q": "Can I visit Manaslu Base Camp by helicopter?", "a": "Yes, as part of a Manaslu heli tour from Kathmandu. In good conditions the helicopter lands briefly near base camp, with 10 to 15 minutes on the ground, and then stops in Samagaun. Landing depends on weather and payload, and foreign passengers need the Manaslu restricted area permit."},
+    {"q": "What permits do I need for Manaslu Base Camp?", "a": "The same as for the Manaslu Circuit: the Manaslu restricted area permit, the Manaslu Conservation Area Permit and the Tsum Nubri rural municipality fee. No climbing permit is needed to visit base camp as a trekker. Permits are issued through a registered agency with a licensed guide; check current status before you travel."},
+    {"q": "When is the best time to visit Manaslu Base Camp?", "a": "October and early November give the clearest skies, and April to May is also good. Mid to late September shows the camp at its busiest with expeditions. Avoid December to March, when snow covers the moraine, and June to August, when monsoon cloud hides the mountain."},
+    {"q": "Is there water or food at Manaslu Base Camp?", "a": "No. There are no shops or lodges, and expedition kitchens are for their own teams. Carry at least 2 litres of water, a packed lunch from your Samagaun lodge, snacks and water purification tablets. Streams on the way may be frozen in the morning in late autumn."},
+    {"q": "Can beginners hike to Manaslu Base Camp?", "a": "Only if they are fit, acclimatised and feeling well after at least one night in Samagaun. It is non-technical but steep, long and high. First-time trekkers often find the Pungyen Gompa hike a better choice and keep their energy for Larkya La."},
+    {"q": "What can I see from Manaslu Base Camp?", "a": "You see the Manaslu icefall and summit, the Manaslu Glacier, Birendra Tal far below, Naike Peak and on clear days peaks along the Tibet border to the north and east. In season you also see expedition camps and helicopters shuttling climbers and supplies."}
+  ]
+}

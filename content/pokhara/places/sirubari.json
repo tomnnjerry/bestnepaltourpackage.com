@@ -1,0 +1,259 @@
+{
+  "slug": "sirubari",
+  "name": "Sirubari",
+  "region": "pokhara",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Sirubari village Syangja Gurung houses",
+  "lat": 28.0717,
+  "lng": 83.8489,
+  "altitude_m": 1700,
+  "tagline": "Nepal's first model homestay village, in the hills of Syangja",
+  "meta_description": "Sirubari village guide: Nepal's first model homestay in Syangja, Gurung culture, home cooking, ridge walks and how to reach from Pokhara.",
+  "summary": "Sirubari is a Gurung village at about 1,700 m in Syangja district, 3–4 hours by road south of Pokhara. In the late 1990s it became Nepal's first model tourism village, where guests stay with families, eat at their tables and are welcomed with songs and dances. One or two nights suits travellers seeking hill culture.",
+  "intro": [
+    "Sirubari spreads across a south-facing ridge in the Middle Hills of Syangja, with stone-paved lanes, whitewashed and ochre houses roofed in slate or tin, and terraces of rice, millet and maize falling away below. It is predominantly a Gurung village, and many families have a tradition of service in the British and Indian Gurkha regiments; retired soldiers were among those who started the homestay programme, which is why the village feels so organised and spotless.",
+    "The idea, launched with government and community support in the late 1990s, was simple: rather than building hotels, guests would stay in village homes, spreading income across many families while keeping culture alive. A tourism committee assigns visitors to host families, sets prices and organises welcome ceremonies and cultural evenings. Sirubari's model was later copied by hundreds of community homestays across Nepal. The committee rotates guests among households so that the benefits are shared fairly.",
+    "Visitors come for the people rather than for any single sight. You are greeted with garlands and tika, share dal bhat in a family kitchen, watch the women's group perform Gurung songs and dances such as the ghatu and sorathi, and walk to a viewpoint above the village where, on clear mornings, Dhaulagiri, the Annapurnas and Machhapuchhre line the northern skyline. It is quiet, slow and very different from Pokhara's Lakeside."
+  ],
+  "facts": [
+    [
+      "Altitude",
+      "≈ 1,700 m"
+    ],
+    [
+      "Best months",
+      "Oct – Mar"
+    ],
+    [
+      "Nights we suggest",
+      "1–2"
+    ],
+    [
+      "Nearest airport",
+      "Pokhara International Airport"
+    ],
+    [
+      "From Pokhara",
+      "≈ 3–4 h by road via the Siddhartha Highway and Syangja"
+    ],
+    [
+      "Known for",
+      "Pioneering Gurung homestay, cultural evenings, Annapurna views"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1",
+  "highlights": [
+    {
+      "title": "Gurung family homestay",
+      "text": "Each guest or couple is placed with a host family and given a clean private room in their home. You eat with the family, learn about their farm and their Gurkha history, and leave with a sense of village life no hotel can give."
+    },
+    {
+      "title": "Welcome and cultural evening",
+      "text": "Arrivals are greeted with garlands, tika and a welcome drink. In the evening the village mothers' group performs Gurung songs and dances such as ghatu and sorathi, and guests are invited to join in. Donations are customary."
+    },
+    {
+      "title": "Himalayan view at sunrise",
+      "text": "A short climb above the village to a ridge-top viewpoint shows Dhaulagiri, the Annapurna range and Machhapuchhre on clear mornings, with the terraced hills of Syangja in the foreground. Mornings from October to February are clearest, and the climb takes about 30–45 minutes."
+    },
+    {
+      "title": "Spotless lanes and houses",
+      "text": "Sirubari is known for its stone-paved lanes, whitewashed houses and flower-lined courtyards, kept tidy by village rules. Walking the lanes in the late afternoon, you meet farmers returning from the fields and elders on stone platforms."
+    },
+    {
+      "title": "Farm and kitchen life",
+      "text": "Hosts are happy to show you how they plant millet, milk buffalo, grind grain on stone mills and cook over a wood fire. Seasonal work changes the scene, from rice planting in June to harvest in October."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "From Pokhara, drive south on the Siddhartha Highway towards Syangja, then turn onto local roads towards Arjun Chaupari and Sirubari: about 3–4 hours by private jeep depending on the route and road condition. Public buses from Pokhara take 4–5 hours to the trailhead. The final section is a rough hill road, so a four-wheel drive is best."
+    },
+    {
+      "mode": "On foot",
+      "text": "Depending on road access, the last stretch into the village may be a short walk of 20–60 minutes on stone paths. Village trails also link Sirubari with neighbouring Gurung villages for day walks of 2–4 hours with a local guide."
+    }
+  ],
+  "where_to_stay": "There are no hotels in Sirubari. Guests stay in family homes organised by the village tourism committee, each with a clean private guest room, bedding and access to a family or shared bathroom. Meals are taken with the host family. The committee rotates guests among households so income is shared, and the rates are fixed. Facilities are simple but well maintained, and hot water is usually available from solar heaters. Before and after Sirubari, our guests stay in Pokhara at Lakeside hotels such as Hotel Barahi or Temple Tree Resort & Spa.",
+  "stays": [],
+  "tips": [
+    "Bring a small gift for your host family, such as fruit, tea or school supplies, rather than sweets or cash handed to children.",
+    "Dress modestly and remove shoes before entering homes and kitchens.",
+    "Learn a few Nepali greetings; 'namaste' and 'dhanyabad' are much appreciated.",
+    "Tell the committee in advance about vegetarian, Jain or other dietary needs.",
+    "Carry cash in Nepali rupees, as there are no ATMs in the village."
+  ],
+  "themes": [
+    "cultural-tours",
+    "family-holidays",
+    "budget-nepal",
+    "photography"
+  ],
+  "nearby": [
+    "pokhara",
+    "panchase"
+  ],
+  "experiences": [
+    {
+      "slug": "sirubari-homestay-welcome-evening",
+      "title": "Sirubari homestay welcome and cultural evening",
+      "kind": "culture",
+      "duration": "Overnight",
+      "best_time": "Oct–Mar",
+      "price_hint": "≈ NPR 2,500–4,000 per person per night with meals",
+      "image_query": "Gurung cultural dance Nepal village",
+      "wiki": "",
+      "summary": "Arrive in Sirubari to garlands, tika and welcome drinks, meet your host family and spend the evening watching the village women perform Gurung songs and dances. A warm, organised introduction to hill culture that set the pattern for homestays across Nepal.",
+      "body": [
+        "As you reach the village, members of the tourism committee and the mothers' group meet you at the entrance with marigold garlands, red tika on the forehead and a welcome drink. After a short introduction about the village and its rules, you are taken to your host family's home, shown your room and offered tea. Hosts in Sirubari are used to guests and many speak some English or Hindi, especially those with Gurkha backgrounds.",
+        "In the evening, the community gathers in a hall or courtyard for a cultural programme. Women in traditional Gurung dress, with velvet blouses, patterned shawls and gold jewellery, sing and dance pieces such as the ghatu, linked to ancient Gurung ritual, and the sorathi, a sung drama. Men play the madal drum. At the end, guests are pulled into the circle to dance, and nobody minds if you get the steps wrong.",
+        "Dinner follows with your host family, and the evening ends early, as village life starts at dawn. The fees you pay go to the family and to a community fund used for schools, paths and drinking water. A donation at the cultural programme is customary. This experience suits families with children, groups and anyone curious about rural Nepal. Keep evenings respectful: hosts rise early, and loud music or late returns disturb the household. Thank your hosts with a namaste and a small gift when you leave."
+      ],
+      "good_for": [
+        "families",
+        "groups",
+        "couples",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is special about Sirubari homestay?",
+          "a": "Sirubari was Nepal's first model tourism village, launched in the late 1990s, where a community committee places guests with families, fixes rates and shares income. It is unusually organised and clean, with welcome ceremonies and cultural programmes. Many other Nepali homestays followed its model."
+        },
+        {
+          "q": "Is Sirubari good for families with children?",
+          "a": "Yes. Children enjoy the welcome ceremony, the dances, farm animals and playing with village children, and the village is safe and quiet. Rooms are simple with shared bathrooms. The long road journey of 3–4 hours each way from Pokhara is the main challenge for young children."
+        },
+        {
+          "q": "Do Sirubari hosts speak English?",
+          "a": "Many hosts speak some English or Hindi, particularly families with Gurkha service backgrounds, and younger people often speak English well. Our guide stays in the village and helps with translation. Learning a few Nepali words is appreciated and makes conversation easier."
+        }
+      ]
+    },
+    {
+      "slug": "sirubari-gurung-kitchen-meal",
+      "title": "Cook and eat in a Gurung family kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, all year",
+      "price_hint": "Included in homestay rate",
+      "image_query": "Nepali dal bhat village kitchen",
+      "wiki": "",
+      "summary": "Join your host in the kitchen of a Sirubari home to prepare a Gurung dinner over a wood fire: dal bhat, seasonal vegetables, greens, pickle and perhaps millet roti. Learn the dishes, then eat sitting with the family. Simple, local and generous.",
+      "body": [
+        "Most Gurung homes in Sirubari have a kitchen on the ground floor with a clay or brick stove fed with wood, brass and aluminium pots, and a low bench or mats for sitting. Your host will invite you to help: washing rice, chopping vegetables from the garden, grinding chillies and tomatoes for the pickle on a flat stone, or rolling dough for rotis. Children and grandparents usually drift in to watch and chat.",
+        "The main meal is dal bhat: steamed rice, a lentil soup, a vegetable curry of whatever is in season (potato, cauliflower, pumpkin, beans), stir-fried greens, a sharp tomato or radish pickle and sometimes yoghurt or buttermilk. Millet roti or dhido, a thick porridge of millet or buckwheat flour, may appear on cooler evenings. Meat such as chicken is served on special occasions or on request. Portions are generous, and nobody leaves hungry.",
+        "You eat sitting with the family, Nepali style, with rice served generously and second helpings offered more than once; it is polite to accept a little more and to say when you are full. Eat with your right hand if you want to try, or ask for a spoon. Tell your host in advance about vegetarian, Jain or allergy needs. Breakfast the next day is usually tea, chapati or bread and eggs."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "solo",
+        "groups"
+      ],
+      "faqs": [
+        {
+          "q": "What food is served in Sirubari homestay?",
+          "a": "Mainly dal bhat with rice, lentil soup, seasonal vegetable curry, greens and pickle, often with yoghurt or buttermilk. Millet roti or dhido may be served on cool evenings, and chicken on request or special occasions. Breakfast is tea, chapati or bread and eggs. Vegetarian food is the norm."
+        },
+        {
+          "q": "Can Jain or vegan diets be managed in Sirubari?",
+          "a": "Yes, with notice. Host families can cook without onion, garlic or root vegetables for Jain guests and without dairy or eggs for vegans, but please tell us when you book so the committee can brief your host. Carry some snacks if your diet is very strict."
+        },
+        {
+          "q": "Is the food at Sirubari safe to eat?",
+          "a": "Home-cooked food served hot is generally safe and fresh, often from the family's own fields. Drink boiled, filtered or bottled water rather than tap water, and avoid raw salads if you have a sensitive stomach. Hand sanitiser is useful before meals."
+        }
+      ]
+    },
+    {
+      "slug": "sirubari-ridge-viewpoint-walk",
+      "title": "Sunrise walk above Sirubari village",
+      "kind": "hiking",
+      "duration": "1.5–2 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "price_hint": "Included with a local guide",
+      "image_query": "Syangja hills Annapurna view sunrise",
+      "wiki": "",
+      "summary": "Climb with a village guide before breakfast to the ridge above Sirubari for sunrise over Dhaulagiri, the Annapurnas and Machhapuchhre, then wander back through terraces and neighbouring hamlets as farm life wakes up. Breakfast follows at home.",
+      "body": [
+        "Your host or a member of the village committee leads the walk, leaving about 45 minutes before sunrise. The trail climbs on stone paths and earth tracks above the village through terraces and patches of forest, gaining perhaps 150–250 m. It is steady but not steep, and a torch is needed for the first part in winter. Your guide sets the pace and stops for anyone who needs a breather.",
+        "From the viewpoint, the northern horizon on clear mornings runs from Dhaulagiri in the north-west through the Annapurna massif and Machhapuchhre to Lamjung Himal. Below lie the green ridges of Syangja, folded one behind another towards the Kali Gandaki valley, with smoke rising from village kitchens and mist in the valleys. It is a much quieter view than Pokhara's viewpoints. In autumn, golden terraces of millet and rice add colour to the foreground.",
+        "Return by a different path through fields and a neighbouring hamlet, where your guide can explain crops, irrigation and the community forest. Back in Sirubari, breakfast is waiting at your host's home. Clear views are most reliable from October to February. Wear walking shoes and a warm layer; mornings at 1,700 m are cool in winter. Ask your host the evening before about the best route that week, as paths are sometimes blocked by farm work or repairs."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "families",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Can you see the Himalaya from Sirubari?",
+          "a": "Yes, on clear days, especially at sunrise from October to February. From the ridge above the village you see Dhaulagiri, the Annapurna range, Machhapuchhre and Lamjung Himal across the northern horizon. The peaks are further away than from Pokhara's viewpoints but the setting is far quieter."
+        },
+        {
+          "q": "How difficult is the Sirubari sunrise walk?",
+          "a": "Easy to moderate. It is a climb of roughly 150–250 m on village paths, taking 30–45 minutes up, with a gentle loop back. Children over about six and active seniors manage it with breaks. Bring a torch for the pre-dawn start."
+        },
+        {
+          "q": "Do I need a guide for walks around Sirubari?",
+          "a": "Yes, a local guide is recommended. Paths between terraces and hamlets are many and unmarked, and the village committee or your host family arranges someone to accompany guests. They also explain farming, customs and local history along the way. Tips are appreciated."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Sirubari village?",
+      "a": "Sirubari is in Syangja district in Gandaki Province, south of Pokhara in the Middle Hills, at about 1,700 m. It is reached by road from Pokhara via the Siddhartha Highway and local hill roads towards Arjun Chaupari, about 3–4 hours by private jeep."
+    },
+    {
+      "q": "Why is Sirubari famous?",
+      "a": "It was declared Nepal's first model tourism village in the late 1990s, pioneering community homestays where guests live with families and income is shared through a village committee. It is also known as a Gurung village with strong Gurkha traditions and clean, well-kept lanes."
+    },
+    {
+      "q": "How many nights should I stay in Sirubari?",
+      "a": "One night gives you the welcome, cultural evening, a family dinner and sunrise. Two nights allows a longer walk to nearby villages and more time with your hosts. Given the 3–4 hour drive each way from Pokhara, two nights makes the journey more worthwhile."
+    },
+    {
+      "q": "How much does Sirubari homestay cost?",
+      "a": "Rates are fixed by the village tourism committee and include room and meals, roughly NPR 2,500–4,000 per person per night depending on season and group size, plus a customary donation for the cultural programme. A guided trip from Pokhara with transport costs more. Check current status before you travel."
+    },
+    {
+      "q": "Is Sirubari suitable for seniors?",
+      "a": "Yes, if they are comfortable with simple facilities, shared bathrooms and stone-paved lanes with steps. The village itself is easy to walk around. The rough final road section and the 3–4 hour drive can be tiring, so plan rests on the way."
+    },
+    {
+      "q": "What should I bring to Sirubari?",
+      "a": "Warm layers for cool nights, a torch, walking shoes, modest clothing, toiletries, a small towel, any medicines, cash in Nepali rupees and a small gift for your host family. Flip-flops are handy for bathrooms. Mobile coverage is available in most parts of the village."
+    },
+    {
+      "q": "What is the best time to visit Sirubari?",
+      "a": "October to March for clear weather and mountain views; October and November also bring the rice harvest and festivals. April and May are warmer and hazier. June to September is the monsoon, when roads can be blocked by landslides and views are hidden."
+    },
+    {
+      "q": "Can I combine Sirubari with Pokhara and Panchase?",
+      "a": "Yes. A popular pattern is Pokhara for two or three nights, a drive to Sirubari for one or two nights, and back to Pokhara. Active travellers can link Sirubari with the Panchase area on village trails over several days with a local guide."
+    },
+    {
+      "q": "Is Sirubari still a working village?",
+      "a": "Yes. Families still farm rice, millet and maize, keep buffalo and goats and follow the farming calendar. Tourism supplements their income rather than replacing it, which is why the experience feels genuine. Respect daily routines and ask before photographing people."
+    }
+  ]
+}

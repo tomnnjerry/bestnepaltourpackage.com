@@ -1,0 +1,84 @@
+{
+  "slug": "ilam-tea-gardens-tour-5-days",
+  "title": "Ilam Tea Gardens Tour 4N/5D",
+  "region": "east-nepal",
+  "type": "tour",
+  "grade": "Easy",
+  "nights": 4,
+  "themes": ["cultural-tours", "family-holidays", "overland-from-india", "honeymoon", "short-breaks"],
+  "stops": [
+    {"place": "ilam", "nights": 2},
+    {"place": "antu-danda", "nights": 1},
+    {"place": "kanyam", "nights": 1}
+  ],
+  "start": "Kakarbhitta border or Bhadrapur airport",
+  "end": "Kakarbhitta border or Bhadrapur airport",
+  "price_from_inr": 22000,
+  "price_from_usd": 260,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "max_altitude_m": 2328,
+  "accommodation": "Standard hotel in Ilam, homestay at Shree Antu, tea-garden resort or hotel near Kanyam",
+  "transport": "Private car or SUV with driver",
+  "group": "Private, 2–8",
+  "meta_description": "Ilam tea gardens tour 5 days from Kakarbhitta or Bhadrapur: Ilam estate walk, Mai Pokhari, Kanyam, Antu Danda sunrise, homestay night. From ₹22,000.",
+  "summary": "A relaxed 5-day tour of Nepal's tea country from the Indian border or Bhadrapur: two nights in Ilam for the estate walk, tea tasting, Mai Pokhari and a cardamom village, a homestay night at Shree Antu for sunrise over Kanchenjunga, and a last night among the Kanyam tea slopes. Easy walking, low altitude, short drives.",
+  "intro": [
+    "This tour is about slowing down. Ilam's tea gardens are only three hours from the Kakarbhitta border, yet most visitors rush through in a day. We give it four nights. You start in Ilam Bazaar, where Nepal's first tea estate was planted in the 1860s, walk the slopes with a guide, taste spring and autumn teas, visit the sacred forest lake of Mai Pokhari and see how large cardamom is grown and smoke-dried in a farming village.",
+    "On day 3 we move up to Shree Antu for a homestay night a short walk from the 2,328 m Antu Danda view tower, so sunrise over the plains and Kanchenjunga needs no 4 a.m. drive. After a morning walk down through the tea villages, the last night is near Kanyam, whose open, rolling slopes are the most photographed in Nepal. Drives are short, the highest point is 2,328 m and the pace suits families, couples and seniors."
+  ],
+  "highlights": [
+    "Guided walk and tasting in the Ilam tea estate",
+    "Mai Pokhari, a sacred forest lake and Ramsar wetland",
+    "Homestay night and sunrise at Antu Danda (2,328 m)",
+    "Kanyam's rolling tea slopes at golden hour",
+    "Cardamom farm and churpi dairy visit"
+  ],
+  "days": [
+    {"day": 1, "title": "Border or Bhadrapur to Ilam via Kanyam", "place": "ilam", "overnight": "Ilam", "altitude_m": 1200, "max_m": 1650, "walk": "", "drive": "≈ 95 km · 3–3.5 h", "flight": "", "text": "Pick-up at the Kakarbhitta border, after you cross from Panitanki, or at Bhadrapur airport. We drive across the plains to Charali and climb the Mechi Highway into the hills, stopping at Kanyam for tea and a first look at the slopes. By afternoon you check in at Ilam Bazaar, at about 1,200 m. Evening stroll through the bazaar and to the Mai Beni confluence.", "meals": "Dinner"},
+    {"day": 2, "title": "Ilam estate, tea tasting and Mai Pokhari", "place": "ilam", "overnight": "Ilam", "altitude_m": 1200, "max_m": 2121, "walk": "≈ 3 h in total", "drive": "≈ 13 km each way to Mai Pokhari · 1 h", "flight": "", "text": "Morning walk through the Ilam tea estate with a local guide, watching pluckers at work between March and November and learning how orthodox tea is made, followed by a tasting of two or three grades. After lunch, drive 13 km north to Mai Pokhari, a sacred lake at 2,121 m in oak and rhododendron forest, and walk the shore path around its nine corners. Back to Ilam for dinner.", "meals": "B, L, D"},
+    {"day": 3, "title": "Cardamom village and Shree Antu homestay", "place": "antu-danda", "overnight": "Shree Antu", "altitude_m": 2200, "max_m": 2200, "walk": "≈ 2 h", "drive": "≈ 2 h in total", "flight": "", "text": "A morning visit to a farming family outside Ilam to see large cardamom growing in shady gullies, the wood-fired kilns that dry the pods and churpi cheese being made. We then drive via Fikkal, stopping for a tea tasting in the market, and climb to Shree Antu for a homestay night with a local family a short walk below the view tower. Home-cooked dinner and an early night.", "meals": "B, L, D"},
+    {"day": 4, "title": "Antu Danda sunrise, down to Kanyam", "place": "kanyam", "overnight": "Kanyam / Fikkal", "altitude_m": 1650, "max_m": 2328, "walk": "≈ 3–4 h, mostly downhill", "drive": "≈ 1 h", "flight": "", "text": "Walk up to the Antu Danda view tower at 2,328 m by torchlight for sunrise over the plains, with Kanchenjunga turning pink to the north on clear mornings. After breakfast, walk down through tea villages and cardamom plots for two or three hours, with the car following, and drive on to Kanyam. Late afternoon walk across the open slopes in golden light.", "meals": "B, L, D"},
+    {"day": 5, "title": "Kanyam to border or Bhadrapur", "place": "kanyam", "overnight": "", "altitude_m": 100, "max_m": 1650, "walk": "", "drive": "≈ 60–65 km · 2 h", "flight": "", "text": "An early walk on the Kanyam slopes before the day visitors arrive, then breakfast and a 2-hour drive down to the Kakarbhitta border or Bhadrapur airport. Drop-off by late morning, in time for Siliguri, Bagdogra or an afternoon flight to Kathmandu.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private car or SUV with driver for 5 days",
+    "2 nights hotel in Ilam, 1 night homestay at Shree Antu, 1 night near Kanyam, twin sharing",
+    "Breakfast daily, lunch on days 2–4, dinner on days 1–4",
+    "Local guide for the Ilam estate walk and cardamom village",
+    "Tea tasting in Ilam and Fikkal",
+    "Mai Pokhari excursion and Antu Danda sunrise",
+    "Pick-up and drop-off at Kakarbhitta or Bhadrapur"
+  ],
+  "excludes": [
+    "Flights to and from Bhadrapur",
+    "Entry and parking fees where charged",
+    "Lunch on days 1 and 5",
+    "Drinks, snacks and tea purchases",
+    "Travel insurance",
+    "Tips for driver and guides",
+    "Personal expenses"
+  ],
+  "good_to_know": [
+    "Price assumes 4 travellers sharing one car and two twin rooms; a couple pays about ₹31,000 each.",
+    "Hotels and homestays in Ilam are simple and clean rather than luxury; we tell you exactly what to expect.",
+    "Tea plucking happens from March to November; in December–February gardens are resting but skies are clearest.",
+    "Indian citizens need a passport or voter ID at Kakarbhitta; Indian ₹200 and ₹500 notes are accepted within a ₹25,000 limit since late 2025 (check current status before you travel).",
+    "June to September brings monsoon rain, cloud and occasional landslides on the Mechi Highway."
+  ],
+  "add_ons": [
+    {"name": "Pathibhara Devi helicopter darshan from Kanyam", "price": "≈ ₹22,000 per seat (local shared rate)"},
+    {"name": "Extra night at a tea-garden homestay", "price": "≈ ₹3,500 per person"}
+  ],
+  "faqs": [
+    {"q": "What is the cost of an Ilam tour package from Siliguri?", "a": "This 5-day tour starts from about ₹22,000 per person for four travellers sharing a car and two rooms, from the Kakarbhitta border. A couple pays about ₹31,000 each. Add about ₹2,500 per car for the Siliguri–border transfer."},
+    {"q": "Is the Ilam tour good for families with kids?", "a": "Yes. Drives are 1–3 hours, walks are short and gentle, and the highest point, Antu Danda, is only 2,328 m. Children enjoy the Kanyam slopes, Mai Pokhari and the farm visit. Bring warm clothes for the sunrise."},
+    {"q": "When is the best time for an Ilam tea garden tour?", "a": "October to April for clear skies and Kanchenjunga views; March to May for first-flush plucking and spring flowers. Avoid June to September, when the monsoon brings cloud, rain and leeches."},
+    {"q": "Can we see tea being made in Ilam?", "a": "Usually you can see at least part of the process at a small unit or tea house in the plucking season. The main estate factory opens to visitors only when management allows it, so we do not promise a factory tour."},
+    {"q": "Is a homestay night compulsory?", "a": "No. If you prefer a hotel, we can replace the Shree Antu homestay with a hotel in Fikkal and drive up for sunrise at about 4.30 a.m. The homestay saves the early drive and adds local character."},
+    {"q": "Can we add Pathibhara Devi to this tour?", "a": "Yes, by helicopter from Kanyam in good morning weather, about 30 minutes each way, as an add-on on day 4 or 5. By road, Pathibhara needs at least three extra nights via Phungling."},
+    {"q": "What should I pack for Ilam?", "a": "Comfortable walking shoes, a warm jacket for sunrise, a light rain jacket, sunscreen and a hat. From December to February nights can be close to freezing at Shree Antu, so add thermals."},
+    {"q": "Is vegetarian food easy to find?", "a": "Very easy. Hotels and homestays in Ilam serve vegetarian dal bhat, roti, vegetable curries and paneer. Let us know in advance about Jain or no onion and garlic requirements."},
+    {"q": "Can we drive our own car from India?", "a": "Indian private cars can enter at Kakarbhitta with a customs pass and daily fee, limited to 30 days per calendar year. The Mechi Highway is steep and winding, so we recommend our local driver. Check current status before you travel."}
+  ]
+}

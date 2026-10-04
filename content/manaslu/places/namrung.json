@@ -1,0 +1,130 @@
+{
+  "slug": "namrung",
+  "name": "Namrung",
+  "region": "manaslu",
+  "kind": "trekking village",
+  "wiki": "",
+  "image_query": "Namrung village Manaslu trek",
+  "lat": 28.540,
+  "lng": 84.765,
+  "altitude_m": 2630,
+  "tagline": "Gateway to Nubri, where the first big peaks appear",
+  "meta_description": "Namrung (2,630 m) on the Manaslu Circuit: first Nubri village, views of Siringi Himal and Himal Chuli, Lihi and Sho, lodges, walking times and tips.",
+  "summary": "Namrung is a stone village at 2,630 m where the Manaslu trail enters Nubri, the Tibetan Buddhist upper Budhi Gandaki. Trekkers usually arrive from Deng after 6 to 7 hours and sleep here on day four. It has a permit checkpoint, good lodges, and the first clear views of Siringi Himal and Himal Chuli.",
+  "intro": [
+    "Climb out of the forest above Ghap and the valley opens at Namrung, a cluster of stone houses, barley fields and prayer flags at about 2,630 m. This is the first village of Nubri proper, the high Buddhist part of the Budhi Gandaki whose people are culturally Tibetan. The change is clear: mani walls run down the middle of the trail, houses have flat roofs stacked with firewood and the lodges serve Tibetan bread and butter tea alongside dal bhat.",
+    "Namrung is also where the big mountains start to show. To the north-east, Siringi Himal (7,187 m) rises above the valley; to the south, Himal Chuli (7,893 m) and Ngadi Chuli (7,871 m) appear from the ridge above the village on clear mornings. The air is cooler, the forests change from bamboo and oak to pine, fir and rhododendron, and nights in October drop to a few degrees above freezing.",
+    "Most itineraries spend one night here after the long walk from Deng, crossing the river several times and passing the side trail to Prok village. Namrung has a permit checkpoint and some of the more comfortable lodges on the lower circuit, with heated dining rooms and attached bathrooms in a few. From here it is 4 to 5 hours on to Lho, through the farming villages of Banjam, Lihi and Sho."
+  ],
+  "facts": [
+    ["Altitude", "2,630 m"],
+    ["Best months", "Mar – May · Sep – Nov"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Kathmandu (helicopter rescue landings possible)"],
+    ["From Kathmandu", "Jeep to Machha Khola + 3 days' walk"],
+    ["Known for", "First Nubri village, Siringi Himal and Himal Chuli views"]
+  ],
+  "best_months": [0, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "First Himalayan panorama", "text": "From the ridge above Namrung on a clear morning you see Siringi Himal to the north-east and Himal Chuli and Ngadi Chuli to the south. After three days in deep gorges, this is the moment the trek starts to feel high."},
+    {"title": "Entering Nubri", "text": "Namrung marks the start of Nubri, the Tibetan Buddhist upper valley. Mani walls, chortens and prayer flags become constant companions, and the people, language and food change from the Gurung villages below."},
+    {"title": "Lihi and Sho villages", "text": "Between Namrung and Lho the trail passes Lihi and Sho, farming villages with barley fields, long mani walls and kani gateways. They are among the most photogenic villages on the circuit and see far fewer visitors than Samagaun."},
+    {"title": "Pine and rhododendron forest", "text": "The climb from Ghap to Namrung runs through mixed forest of pine, fir, oak and rhododendron. In April the rhododendrons flower red and pink, and langur monkeys and pheasants are sometimes seen."},
+    {"title": "Comfortable lodges", "text": "Namrung's teahouses are among the better ones on the lower half of the trek, with warm dining rooms, hot showers and a few rooms with attached bathrooms. It is a good place to dry clothes and recharge before the higher villages."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Deng (about 1,860 m) walk via Rana, Bihi Phedi and Ghap to Namrung in 6 to 7 hours, about 19 km and 770 m net gain, with several bridge crossings and a steady final climb through forest. From Machha Khola it is three walking days."},
+    {"mode": "Helicopter", "text": "There is no scheduled helicopter service, but Namrung has open fields where rescue helicopters can land in an emergency. Evacuation to Kathmandu takes about 50 minutes in good weather and should be covered by your travel insurance."}
+  ],
+  "where_to_stay": "Namrung has a handful of teahouses along the main trail and around the checkpoint, mostly two-storey stone and timber buildings with twin rooms, a stove-heated dining room and solar hot water. A few rooms have attached bathrooms, which are rare above Jagat, and lodges serve Tibetan bread, potatoes and apple dishes as well as dal bhat. Lodge names change between seasons, so we confirm rooms each autumn and spring rather than list them. Because many groups converge here on day four, we book in advance for October.",
+  "stays": [],
+  "tips": [
+    "Get up early for the view: walk 10 minutes above the village before breakfast to see Siringi Himal and Himal Chuli before cloud.",
+    "Start wearing warmer layers in the evening; nights here can drop to 2 to 5 °C in late October.",
+    "Have your permits ready again, as Namrung has a checkpoint.",
+    "Slow down from here: above 2,500 m, aim to gain no more than 500 to 600 m of sleeping altitude a day.",
+    "Ask your guide to point out the side trail to Prok, an older Nubri village across the river."
+  ],
+  "themes": ["trekking", "cultural-tours", "photography"],
+  "nearby": ["lho", "jagat", "samagaun"],
+  "experiences": [
+    {
+      "slug": "namrung-sunrise-viewpoint",
+      "title": "Sunrise viewpoint above Namrung",
+      "kind": "hiking",
+      "duration": "1 hour return",
+      "best_time": "6–7 am, Oct–Nov and Mar–Apr",
+      "price_hint": "Included in most treks",
+      "image_query": "Siringi Himal from Namrung",
+      "wiki": "Himalchuli",
+      "summary": "A short climb before breakfast to the ridge above Namrung for sunrise on Siringi Himal, Himal Chuli and Ngadi Chuli. It is the first real Himalayan panorama of the Manaslu Circuit and costs only an hour of your morning.",
+      "body": [
+        "Leave your lodge in the dark with a headtorch and a warm jacket, and follow your guide up the path behind the village. Within 20 to 30 minutes you reach open ground with prayer flags and a view in three directions. The first light hits the high summits before the valley, turning snow pink and then gold.",
+        "To the south stand Himal Chuli, at 7,893 m the 18th highest mountain in the world, and Ngadi Chuli, 7,871 m, both part of the Manaslu massif. To the north-east Siringi Himal, 7,187 m, rises above the Shiar Khola. The Budhi Gandaki valley falls away below, with Namrung's roofs and fields in the foreground.",
+        "Back at the lodge by 7:30 am, you still have time for breakfast and a normal start to Lho. The extra climb also helps acclimatisation slightly. If cloud hides everything, try again from the trail near Lihi later that morning."
+      ],
+      "good_for": ["photographers", "couples", "solo", "groups"],
+      "faqs": [
+        {"q": "Which mountains can I see from Namrung?", "a": "On clear mornings you see Siringi Himal (7,187 m) to the north-east and Himal Chuli (7,893 m) and Ngadi Chuli (7,871 m) to the south, plus smaller peaks of the Ganesh and Manaslu ranges. Manaslu itself is hidden until you are closer to Lho, about half a day further on."},
+        {"q": "What time is sunrise at Namrung in October?", "a": "Around 5:50 to 6:10 am in October and 6:15 to 6:30 am in November. Leave your lodge 30 minutes before sunrise to reach the viewpoint in time. Clouds are least likely at dawn, so this is the best moment for photographs."},
+        {"q": "Is the Namrung viewpoint hike difficult?", "a": "No. It is a short climb of about 100 to 150 m in 20 to 30 minutes on a village path. The only challenges are the cold and the dark, so wear warm layers and bring a headtorch. It suits most trekkers, including older walkers who go slowly."}
+      ]
+    },
+    {
+      "slug": "namrung-lihi-sho-villages-walk",
+      "title": "Lihi and Sho Nubri villages",
+      "kind": "culture",
+      "duration": "4–5 hours to Lho",
+      "best_time": "Morning, Sep–Nov",
+      "price_hint": "Included in most treks",
+      "image_query": "Lihi village Manaslu mani wall",
+      "wiki": "",
+      "summary": "The walk from Namrung to Lho passes Banjam, Lihi and Sho, Nubri farming villages with long mani walls, kani gateways and barley fields. It is one of the most culturally rich half days on the Manaslu Circuit, with Manaslu appearing near the end.",
+      "body": [
+        "Leaving Namrung, the trail climbs gently through fields to Banjam and then Lihi at about 2,920 m. Lihi is a sprawling village with chortens at each end, houses with carved wooden window frames and terraces of barley and buckwheat. In autumn families thresh grain on the rooftops, and you may see women spinning wool as they walk.",
+        "Sho, a little higher, has some of the longest mani walls in the lower Nubri, lined with stones carved with mantras and images of Buddhist deities. Pass on the left side of the walls so they are on your right, as local people do. From around Sho the summit of Manaslu begins to appear ahead, framed by the valley.",
+        "Take your time. The day's walking to Lho is only 4 to 5 hours, about 11 km with 550 m of gain, so there is room for tea in Lihi, photographs and conversation. Sleeping at Lho, around 3,180 m, keeps your altitude gain reasonable."
+      ],
+      "good_for": ["photographers", "families", "couples", "pilgrims"],
+      "faqs": [
+        {"q": "How long is the walk from Namrung to Lho?", "a": "About 4 to 5 hours for roughly 11 km, with around 550 m of height gain. The path passes Banjam, Lihi and Sho on a gentle grade. It is one of the shorter days, which helps acclimatisation and leaves time to explore the villages on the way."},
+        {"q": "Why do I walk on the left of mani walls?", "a": "Tibetan Buddhist tradition is to keep sacred objects such as mani walls, chortens and prayer wheels on your right, so you pass them on the left and circle them clockwise. It shows respect and local people appreciate it. Your guide will show you the right side as you go."},
+        {"q": "Can I visit homes in Lihi or Sho?", "a": "Sometimes. Ask your guide; families occasionally invite trekkers in for butter tea, and some guides know households well. Accept graciously, remove shoes if asked and offer a small gift or contribution. Do not walk into courtyards or houses uninvited."}
+      ]
+    },
+    {
+      "slug": "namrung-nubri-food-tasting",
+      "title": "Tibetan bread, tsampa and butter tea",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Breakfast or evening in the lodge",
+      "price_hint": "≈ ₹300–800 per person",
+      "image_query": "Tibetan bread butter tea Nepal",
+      "wiki": "",
+      "summary": "Namrung is where Tibetan-style food takes over the menu. Try fried Tibetan bread with local honey, tsampa porridge, salt butter tea and buckwheat pancakes, all made from crops grown in the fields around the village.",
+      "body": [
+        "Below Namrung lodge menus are dominated by dal bhat, noodles and pasta. From here upwards, kitchens reflect Nubri life: barley, buckwheat and potatoes are the staple crops, and butter from dzo and yaks goes into tea. Ask your lodge for Tibetan bread, a fried flatbread served with honey or jam, and for tsampa, roasted barley flour mixed with tea or milk into a porridge.",
+        "Salt butter tea, made with tea, salt and butter churned in a wooden cylinder, is an acquired taste but warms you quickly and replaces salt lost on the trail. Buckwheat pancakes and local potatoes boiled and served with chilli sauce are other good choices. Apple dishes also appear, from orchards in the villages around Lho.",
+        "Dal bhat is still the safest and most filling meal, with free refills of rice and lentils, but trying local food is a good way to support farming families and to understand how people live here. Avoid meat above Namrung; it is carried up from lower valleys without refrigeration."
+      ],
+      "good_for": ["couples", "solo", "families", "groups"],
+      "faqs": [
+        {"q": "What is tsampa?", "a": "Tsampa is roasted barley flour, the staple food of Tibetan and Nubri communities. It is mixed with tea, milk or butter into a dough or porridge and eaten for breakfast or as trail food. It is filling, easy to digest at altitude and grown in the fields around Namrung and Lho."},
+        {"q": "Is it safe to eat meat on the Manaslu Circuit?", "a": "We advise against meat above Namrung. It is usually carried up from lower valleys over several days without refrigeration, and Buddhist villages often do not slaughter animals locally. Stick to dal bhat, eggs, potatoes, Tibetan bread and noodles, and eat meat again after Dharapani."},
+        {"q": "Do lodges in Namrung serve vegetarian food?", "a": "Yes, almost every dish on lodge menus is vegetarian or can be made vegetarian, including dal bhat, fried rice, noodles, potatoes, pancakes and Tibetan bread. Indian vegetarian travellers find this one of the easiest treks for food, though Jain diets without root vegetables need advance planning."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Namrung?", "a": "Namrung is at about 2,630 m, with some maps giving 2,660 m. It is the fourth overnight stop on most Manaslu Circuit itineraries and the point where you enter the Tibetan Buddhist Nubri region. The next stop, Lho, is around 3,180 m."},
+    {"q": "How long does it take to walk from Deng to Namrung?", "a": "Allow 6 to 7 hours for about 19 km and 770 m net gain, via Rana, Bihi Phedi and Ghap. The first half crosses the river several times; the second half climbs steadily through pine and rhododendron forest to Namrung."},
+    {"q": "Is there a permit check in Namrung?", "a": "Yes, there is a checkpoint where your restricted area permit and conservation area permit are checked. Your guide carries the documents, but keep your passport handy. Checkpoint locations change from time to time, so check current status before you travel."},
+    {"q": "Can I see Manaslu from Namrung?", "a": "Not from the village itself. Namrung gives views of Siringi Himal, Himal Chuli and Ngadi Chuli. Manaslu comes into view from around Sho and Lho, half a day further up the valley, and dominates the scene from Samagaun."},
+    {"q": "Is altitude sickness a risk at Namrung?", "a": "Some people feel mild symptoms such as a slight headache from about 2,500 m. Namrung is still moderate altitude, but from here sleeping height rises quickly, so drink 3 to 4 litres of water a day, avoid alcohol and tell your guide about any symptoms."},
+    {"q": "Are there hot showers and Wi-Fi in Namrung?", "a": "Most lodges offer hot showers heated by solar panels or gas, for a small fee, and many have paid Wi-Fi. Mobile signal is patchy. Electricity comes from hydropower or solar and may be limited in the evening, so carry a power bank."},
+    {"q": "What is the weather like in Namrung in November?", "a": "Clear and cool. Daytime temperatures are around 10 to 15 °C in sun, and nights fall to about 0 °C or slightly below. Mornings give the best views. Bring a fleece and a down jacket for evenings in the dining room."},
+    {"q": "What is the side trip to Prok from Namrung?", "a": "Prok is an old Nubri village across the Budhi Gandaki, reached from the trail near Ghap or Namrung. It has a gompa and traditional houses and sees few trekkers. Visiting adds 2 to 3 hours and is best arranged with your guide the day before."},
+    {"q": "Where do I go after Namrung?", "a": "The trail continues through Banjam, Lihi and Sho to Lho at about 3,180 m, a 4 to 5 hour walk. Lho has Ribung Gompa and a classic view of Manaslu. From Lho it is a short 3 to 4 hours to Samagaun, where most groups take a rest day."}
+  ]
+}
